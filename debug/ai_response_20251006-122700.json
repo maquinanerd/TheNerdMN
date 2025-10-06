@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Rumor: Microsoft cancelou portátil do Xbox por exigência da AMD",
+  "conteudo_final": "<p>Um rumor sugere que a Microsoft cancelou o desenvolvimento de um dispositivo portátil com a marca <b>Xbox</b> devido a uma exigência da AMD. A fabricante de processadores teria pedido a produção mínima de 10 milhões de unidades para viabilizar o fornecimento de seus SoCs (System on Chip) para o projeto.</p><h2>Projetos de Handheld e Exigências da AMD</h2><p>Embora o <b>Xbox</b> tenha lançado o <b>ROG Ally X</b> em colaboração com a ASUS, que tem tido boa recepção, houve planos anteriores para um aparelho totalmente desenvolvido internamente pela Microsoft. No entanto, segundo informações de um leaker de hardware conhecido como KeplerL2, esse projeto teria sido engavetado pois a AMD demandou um compromisso de produção de no mínimo 10 milhões de unidades. Essa exigência pode ter sido um impeditivo, considerando os números de vendas de outros dispositivos portáteis no mercado.</p><p>Para se ter uma ideia, o <b>Steam Deck</b>, um concorrente direto, vendeu entre 3,7 e 4 milhões de unidades até o início de 2025. Esse número é menos da metade do que a AMD teria solicitado. Embora consoles portáteis mais antigos, como o PlayStation Vita, tenham alcançado volumes maiores, os dispositivos portáteis modernos, especialmente os PCs portáteis, ainda não atingiram consistentemente essas marcas expressivas.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/rog-xbox-ally-x-press-image-2.jpg\" alt=\"Imagem do ROG Xbox Ally X em destaque.\"><figcaption>O ROG Xbox Ally X teve uma boa recepção após o lançamento.</figcaption></figure><h2>Futuro do Hardware Xbox e Estratégia da Microsoft</h2><p>Apesar do cancelamento deste projeto específico, a Microsoft reitera seu compromisso com o desenvolvimento de hardware para o <b>Xbox</b>. Recentemente, a empresa negou rumores sobre o cancelamento de consoles de próxima geração, afirmando estar investindo ativamente em consoles e dispositivos first-party. A estratégia da marca parece focar em colaborações e em uma abordagem mais voltada para software e serviços, mas sem abandonar completamente a criação de seus próprios hardwares.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/rog-xbox-ally-and-xbox-ally-x-handhelds-asus-media-image.jpg\" alt=\"Comparativo entre o ROG Xbox Ally e o ROG Xbox Ally X.\"><figcaption>Ambos os modelos da linha ROG Ally são exemplos de colaboração da Xbox.</figcaption></figure><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/xbox-series-x-s-console-options.jpg\" alt=\"Opções de consoles Xbox Series X e Series S.\"><figcaption>A Microsoft garante que continua investindo em consoles Xbox.</figcaption></figure><p>A fonte original da informação aponta para uma discussão em um fórum online como origem do rumor. A exigência da AMD, caso confirmada, demonstra o alto risco e o investimento necessário para o desenvolvimento de SoCs customizados, especialmente para um mercado de hardware portátil que ainda busca consolidar seu espaço. A colaboração com a ASUS no <b>ROG Ally</b> e no futuro <b>Ally X</b> pode ser vista como uma estratégia mais segura e de menor risco para a marca no segmento de portáteis.</p>",
+  "meta_description": "Rumor aponta que Microsoft cancelou portátil do Xbox pois AMD exigiu produção de 10 milhões de unidades para fornecer processadores.",
+  "focus_keyphrase": "Microsoft cancelou portátil Xbox",
+  "related_keyphrases": [
+    "Xbox portátil AMD",
+    "rumor Xbox handheld",
+    "ROG Ally X"
+  ],
+  "slug": "microsoft-cancelou-portatil-xbox-exigencia-amd",
+  "categorias": [
+    {
+      "nome": "Xbox",
+      "grupo": "franquias",
+      "evidence": "Xbox did release a handheld in collaboration with ASUS"
+    },
+    {
+      "nome": "AMD",
+      "grupo": "franquias",
+      "evidence": "AMD wanted 10 Million Units to Make SoCs for a First-Party Xbox Handheld"
+    },
+    {
+      "nome": "ROG Xbox Ally X",
+      "grupo": "obras",
+      "evidence": "The ROG Xbox Ally X sold out at some stores"
+    }
+  ],
+  "tags_sugeridas": [
+    "Xbox",
+    "Microsoft",
+    "AMD",
+    "Portátil",
+    "Hardware",
+    "ROG Ally X",
+    "Rumor"
+  ],
+  "image_alt_texts": {
+    "rog-xbox-ally-x-press-image-2.jpg": "O ROG Xbox Ally X, um dispositivo portátil da Xbox em destaque em um ambiente clean.",
+    "rog-xbox-ally-and-xbox-ally-x-handhelds-asus-media-image.jpg": "Comparativo visual dos dispositivos portáteis ROG Xbox Ally e ROG Xbox Ally X.",
+    "xbox-series-x-s-console-options.jpg": "Variedade de consoles Xbox Series X e Series S apresentados lado a lado."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Rumor: Microsoft cancelou portátil do Xbox por exigência da AMD",
+    "_yoast_wpseo_metadesc": "Rumor aponta que Microsoft cancelou portátil do Xbox pois AMD exigiu produção de 10 milhões de unidades para fornecer processadores.",
+    "_yoast_wpseo_focuskw": "Microsoft cancelou portátil Xbox",
+    "_yoast_news_keywords": "Microsoft, Xbox, AMD, Portátil, Hardware, ROG Ally X, Rumor",
+    "_yoast_wpseo_opengraph-title": "Rumor: Microsoft cancelou portátil do Xbox por exigência da AMD",
+    "_yoast_wpseo_opengraph-description": "Um rumor aponta que a Microsoft cancelou o desenvolvimento de um dispositivo portátil com a marca Xbox devido a uma exigência da AMD, que teria pedido a produção mínima de 10 milhões de unidades.",
+    "_yoast_wpseo_twitter-title": "Rumor: Microsoft cancelou portátil do Xbox por exigência da AMD",
+    "_yoast_wpseo_twitter-description": "Um rumor aponta que a Microsoft cancelou o desenvolvimento de um dispositivo portátil com a marca Xbox devido a uma exigência da AMD, que teria pedido a produção mínima de 10 milhões de unidades."
+  }
+}
