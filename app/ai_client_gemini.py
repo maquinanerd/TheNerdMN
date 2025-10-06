@@ -7,7 +7,7 @@ from http import HTTPStatus
 
 from .limiter import RateLimiter, KeyPool
 
-MODEL = os.getenv("GEMINI_MODEL_ID", "gemini-1.5-flash-lite")
+MODEL = os.getenv("GEMINI_MODEL_ID", "gemini-2.5-flash-lite")
 
 def parse_retry_after(headers):
     """Parses Retry-After header, returns seconds as int or None."""
