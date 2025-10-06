@@ -29,7 +29,7 @@ from .html_utils import (
     strip_naked_internal_links,
 )
 from .internal_linking import add_internal_links
-from .limiter import ArticleQueue
+from .queue import ArticleQueue
 from bs4 import BeautifulSoup
 from .cleaners import clean_html_for_globo_esporte
 
