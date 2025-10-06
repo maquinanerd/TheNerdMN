@@ -7,52 +7,57 @@ load_dotenv()
 
 # --- Ordem de processamento dos feeds ---
 PIPELINE_ORDER: List[str] = [
-    'lance',
-    'globo_futebol',
-    'marca',
-    'as_es',
-    'cbs_nfl',
-    'cbs_nba',
-    'the_guardian_official',
+    'screenrant_movies',
+    'screenrant_tv',
+    'collider_movienews',
+    'collider_tvnews',
+    'comicbook_movies',
+    'comicbook_tvshows',
+    'gamerant_gaming',
+    'thegamer_gamenews',
 ]
 
 # --- Feeds RSS (padronizados, sem "synthetic_from") ---
 RSS_FEEDS: Dict[str, Dict[str, Any]] = {
-    'lance': {
-        'urls': ['https://aprenderpoker.site/feeds/lance/futebol/rss'],
-        'category': 'futebol',
-        'source_name': 'LANCE!',
-        'deny_regex': r'(?i)Onde Assistir',
+    'screenrant_movies': {
+        'urls': ['https://screenrant.com/feed/movies/'],
+        'category': 'movies',
+        'source_name': 'ScreenRant',
     },
-    'globo_futebol': {
-        'urls': ['https://aprenderpoker.site/feeds/ge/futebol/rss'],
-        'category': 'futebol',
-        'source_name': 'Globo Esporte',
+    'screenrant_tv': {
+        'urls': ['https://screenrant.com/feed/tv/'],
+        'category': 'tv',
+        'source_name': 'ScreenRant',
     },
-    'marca': {
-        'urls': ['https://aprenderpoker.site/feeds/marca/futbol/rss'],
-        'category': 'futebol-internacional',
-        'source_name': 'Marca',
+    'collider_movienews': {
+        'urls': ['https://collider.com/feed/category/movie-news/'],
+        'category': 'movies',
+        'source_name': 'Collider',
     },
-    'as_es': {
-        'urls': ['https://aprenderpoker.site/feeds/as_es/primera/rss'],
-        'category': 'futebol-internacional',
-        'source_name': 'AS España',
+    'collider_tvnews': {
+        'urls': ['https://collider.com/feed/category/tv-news/'],
+        'category': 'tv',
+        'source_name': 'Collider',
     },
-    'cbs_nfl': {
-        'urls': ['https://www.cbssports.com/rss/headlines/nfl/'],
-        'category': 'outros-esportes',
-        'source_name': 'CBS Sports',
+    'comicbook_movies': {
+        'urls': ['https://comicbook.com/category/movies/feed/'],
+        'category': 'movies',
+        'source_name': 'ComicBook.com',
     },
-    'cbs_nba': {
-        'urls': ['https://www.cbssports.com/rss/headlines/nba/'],
-        'category': 'outros-esportes',
-        'source_name': 'CBS Sports',
+    'comicbook_tvshows': {
+        'urls': ['https://comicbook.com/category/tv-shows/feed/'],
+        'category': 'tv',
+        'source_name': 'ComicBook.com',
     },
-    'the_guardian_official': {
-        'urls': ['https://www.theguardian.com/football/rss'],
-        'category': 'futebol-internacional',
-        'source_name': 'The Guardian',
+    'gamerant_gaming': {
+        'urls': ['https://gamerant.com/feed/gaming/'],
+        'category': 'gaming',
+        'source_name': 'GameRant',
+    },
+    'thegamer_gamenews': {
+        'urls': ['https://www.thegamer.com/feed/category/game-news/'],
+        'category': 'gaming',
+        'source_name': 'TheGamer',
     },
 }
 
@@ -112,19 +117,17 @@ PILAR_POSTS: List[str] = [
 
 # IDs das categorias no WordPress (ajuste os IDs conforme o seu WP)
 WORDPRESS_CATEGORIES: Dict[str, int] = {
-    'futebol': 8,
-    'futebol-internacional': 9,
-    'outros-esportes': 10,
-    'la-liga': 0, # TODO: Substitua 0 pelo ID correto da categoria La Liga
+    'movies': 11, # TODO: Substitua 11 pelo ID correto da categoria Movies
+    'tv': 12, # TODO: Substitua 12 pelo ID correto da categoria TV
+    'gaming': 13, # TODO: Substitua 13 pelo ID correto da categoria Gaming
     # Categorias genéricas
     'Notícias': 1,
 }
 
 # --- Sinônimos de Categorias ---
 # Mapeia nomes alternativos (em minúsculas) para o slug canônico em WORDPRESS_CATEGORIES
-CATEGORY_ALIASES: Dict[str, str] = {
-    "liga ea sports": "la-liga",
-}
+CATEGORY_ALIASES: Dict[str, str] = {}
+
 
 # --- Agendador / Pipeline ---
 SCHEDULE_CONFIG = {
@@ -138,7 +141,7 @@ SCHEDULE_CONFIG = {
 PIPELINE_CONFIG = {
     'images_mode': os.getenv('IMAGES_MODE', 'hotlink'),  # 'hotlink' ou 'download_upload'
     'attribution_policy': 'Fonte: {domain}',
-    'publisher_name': 'VocMoney',
+    'publisher_name': 'MaquinaNerd',
     'publisher_logo_url': os.getenv(
         'PUBLISHER_LOGO_URL',
         'https://exemplo.com/logo.png'  # TODO: atualizar para a URL real do logo
