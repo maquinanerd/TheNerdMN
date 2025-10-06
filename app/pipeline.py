@@ -15,6 +15,7 @@ from .config import (
     WORDPRESS_CATEGORIES,
     CATEGORY_ALIASES,
     PIPELINE_CONFIG,
+    SOURCE_CATEGORY_MAP,
 )
 from .store import Database
 from .feeds import FeedReader
@@ -184,9 +185,13 @@ def process_article(article_data: Dict[str, Any], link_map: Dict[str, Any]):
         credit_line = f'<p><strong>Fonte:</strong> <a href="{article_url_to_process}" target="_blank" rel="noopener noreferrer">{source_name}</a></p>'
         content_html += f"\n{credit_line}"
 
-        final_category_ids = {1} # Default "Notícias"
-        if main_category_id := WORDPRESS_CATEGORIES.get(category):
-            final_category_ids.add(main_category_id)
+        final_category_ids = {WORDPRESS_CATEGORIES['Notícias']} # Default "Notícias"
+
+        # Adiciona categorias fixas específicas da fonte
+        if source_specific_names := SOURCE_CATEGORY_MAP.get(source_id):
+            for name in source_specific_names:
+                if cat_id := WORDPRESS_CATEGORIES.get(name):
+                    final_category_ids.add(cat_id)
 
         if suggested_categories := rewritten_data.get('categorias', []):
             suggested_names = [cat['nome'] for cat in suggested_categories if isinstance(cat, dict) and 'nome' in cat]

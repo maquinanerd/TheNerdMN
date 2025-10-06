@@ -117,12 +117,24 @@ PILAR_POSTS: List[str] = [
 
 # IDs das categorias no WordPress (ajuste os IDs conforme o seu WP)
 WORDPRESS_CATEGORIES: Dict[str, int] = {
-    'movies': 11, # TODO: Substitua 11 pelo ID correto da categoria Movies
-    'tv': 12, # TODO: Substitua 12 pelo ID correto da categoria TV
-    'gaming': 13, # TODO: Substitua 13 pelo ID correto da categoria Gaming
-    # Categorias genéricas
-    'Notícias': 1,
+    'Notícias': 20,
+    'Filmes': 24,
+    'Séries': 24,
+    'Games': 73,
 }
+
+# Mapeia o source_id para uma lista de nomes de categorias
+SOURCE_CATEGORY_MAP: Dict[str, List[str]] = {
+    'screenrant_movies': ['Filmes'],
+    'collider_movienews': ['Filmes'],
+    'comicbook_movies': ['Filmes'],
+    'screenrant_tv': ['Séries'],
+    'collider_tvnews': ['Séries'],
+    'comicbook_tvshows': ['Séries'],
+    'gamerant_gaming': ['Games'],
+    'thegamer_gamenews': ['Games'],
+}
+
 
 # --- Sinônimos de Categorias ---
 # Mapeia nomes alternativos (em minúsculas) para o slug canônico em WORDPRESS_CATEGORIES
