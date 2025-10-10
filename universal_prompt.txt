@@ -59,7 +59,7 @@ DETALHES PARA CADA CAMPO DO JSON
 - Máximo de 65 caracteres.
 - Apenas texto puro, sem HTML.
 - Use nomes de filmes, séries, franquias (Marvel, DC, Star Wars, Harry Potter), atores, diretores, eventos e datas.
-
+ 
 2. *conteudo_final* (HTML)
 - Reestruture em parágrafos curtos dentro de <p>.
 - Preserve integralmente <img>, <figure> e <iframe>.
@@ -69,6 +69,7 @@ DETALHES PARA CADA CAMPO DO JSON
   - Nunca coloque mais de uma imagem seguida sem um parágrafo entre elas.
   - A primeira imagem deve ser considerada a destacada (featured), portanto não repita no corpo.
   - As imagens devem ficar alternadas entre os parágrafos, evitando repetições seguidas.
+- **REGRA DE PARÁGRAFO**: Cada parágrafo deve ser conciso, contendo no máximo 3 ou 4 frases. Quebre ideias complexas em múltiplos parágrafos para facilitar a leitura.
 - Incorpore no máximo 3 vídeos do YouTube no formato:
   <figure class="video-container"><iframe src="URL_DO_EMBED" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></figure>
 - Destaque termos-chave com <b>.
