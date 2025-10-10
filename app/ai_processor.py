@@ -27,7 +27,19 @@ AI_SYSTEM_RULES = """
 NÃO incluir e REMOVER de forma explícita:
 - Qualquer texto de interface/comentários dos sites (ex.: "Your comment has not been saved").
 - Caixas/infobox de ficha técnica com rótulos como: "Release Date", "Runtime", "Director", "Writers", "Producers", "Cast".
-- Elementos de comentários, “trending”, “related”, “read more”, “newsletter”, “author box”, “ratings/review box".
+- Elementos de comentários, "trending", "related", "read more", "newsletter", "author box", "ratings/review box".
+
+[MODO PROCESSAMENTO EM LOTE]
+- Recebe múltiplos artigos para processar
+- Retorna um objeto JSON com um array "resultados" contendo a saída de cada artigo
+- Cada resultado segue o mesmo formato de saída de artigo único
+- Preserva a ordem dos artigos na resposta
+- Exemplo de saída em lote:
+{
+  "resultados": [
+    {artigo_1}, {artigo_2}, {artigo_3}, ...
+  ]
+}
 
 Somente produzir o conteúdo jornalístico reescrito do artigo principal.
 Se algum desses itens aparecer no texto de origem, exclua-os do resultado.
@@ -78,6 +90,77 @@ class AIProcessor:
             s = s.replace('{{' + key + '}}', '{' + key + '}')
         
         return s.format_map(_SafeDict(fields))
+
+    def rewrite_batch(
+        self,
+        batch_data: List[Dict[str, Any]]
+    ) -> List[Tuple[Optional[Dict[str, Any]], Optional[str]]]:
+        """Process multiple articles in a single batch.
+        
+        Args:
+            batch_data: List of article data dictionaries, each containing the same fields
+                       as rewrite_content().
+        
+        Returns:
+            List of (result, error) tuples in the same order as input batch_data.
+            If an article fails, its tuple will be (None, error_message).
+        """
+        prompt_template = self._load_prompt_template()
+        
+        # Prepare batch fields
+        batch_fields = []
+        for data in batch_data:
+            title = data.get('title')
+            content_html = data.get('content_html')
+            source_url = data.get('source_url')
+            
+            fonte = data.get("source_name", "")
+            if not fonte and source_url:
+                try:
+                    fonte = urlparse(source_url).netloc.replace("www.", "")
+                except Exception:
+                    fonte = ""
+
+            fields = {
+                "titulo_original": title or "",
+                "url_original": source_url or "",
+                "content": content_html or "",
+                "domain": data.get("domain", ""),
+                "fonte_nome": fonte,
+                "categoria": data.get("category", ""),
+                "schema_original": json.dumps(data.get("schema_original"), indent=2, ensure_ascii=False) if data.get("schema_original") else "Nenhum",
+                "videos_list": "\n".join([v.get("embed_url", "") for v in data.get("videos", []) if isinstance(v, dict) and v.get("embed_url")]) or "Nenhum",
+                "imagens_list": "\n".join(data.get("images", [])) or "Nenhuma",
+            }
+            batch_fields.append(fields)
+
+        # Create batch prompt
+        batch_prompt = "Processe os seguintes artigos em lote:\n\n"
+        for i, fields in enumerate(batch_fields, 1):
+            batch_prompt += f"=== ARTIGO {i} ===\n"
+            batch_prompt += self._safe_format_prompt(prompt_template, fields)
+            batch_prompt += "\n\n"
+
+        try:
+            logger.info(f"Sending batch of {len(batch_data)} articles to AI.")
+            
+            generation_config = {"response_mime_type": "application/json"}
+            response_text = self._ai_client.generate_text(batch_prompt, generation_config=generation_config)
+            
+            parsed_data = self._parse_batch_response(response_text, len(batch_data))
+            if not parsed_data:
+                return [(None, "Failed to parse batch AI response")] * len(batch_data)
+
+            logger.info(f"Successfully processed batch of {len(batch_data)} articles.")
+            return [(result, None) if result else (None, "Article data missing or invalid in batch response") 
+                   for result in parsed_data]
+
+        except RuntimeError as e:
+            logger.critical(f"AI batch processing failed after all retries: {e}")
+            return [(None, str(e))] * len(batch_data)
+        except Exception as e:
+            logger.critical(f"An unexpected error occurred during AI batch processing: {e}", exc_info=True)
+            return [(None, str(e))] * len(batch_data)
 
     def rewrite_content(
         self,
@@ -136,6 +219,7 @@ class AIProcessor:
 
     @staticmethod
     def _parse_response(text: str) -> Optional[Dict[str, Any]]:
+        """Parse the AI response for a single article."""
         try:
             clean_text = text.strip()
             if clean_text.startswith("```json"):
@@ -177,4 +261,79 @@ class AIProcessor:
             return None
         except Exception as e:
             logger.error(f"An unexpected error occurred while parsing AI response: {e}")
+            return None
+
+    @staticmethod
+    def _parse_batch_response(text: str, expected_count: int) -> Optional[List[Dict[str, Any]]]:
+        """Parse the AI response for a batch of articles.
+        
+        Args:
+            text: The raw response text from the AI
+            expected_count: The number of articles that were in the input batch
+            
+        Returns:
+            List of parsed article results in the same order as input batch.
+            Returns None if the response could not be parsed or is invalid.
+        """
+        try:
+            clean_text = text.strip()
+            if clean_text.startswith("```json"):
+                clean_text = clean_text[7:-3].strip()
+            elif clean_text.startswith("```"):
+                clean_text = clean_text[3:-3].strip()
+
+            debug_dir = Path("debug")
+            debug_dir.mkdir(exist_ok=True)
+            timestamp = time.strftime("%Y%m%d-%H%M%S")
+            with open(debug_dir / f"ai_response_batch_{timestamp}.json", "w", encoding="utf-8") as f:
+                f.write(clean_text)
+
+            data = json.loads(clean_text)
+
+            if not isinstance(data, dict) or "resultados" not in data:
+                logger.error("AI batch response is missing 'resultados' array")
+                return None
+
+            results = data["resultados"]
+            if not isinstance(results, list):
+                logger.error("AI batch 'resultados' is not a list")
+                return None
+
+            if len(results) != expected_count:
+                logger.error(f"AI batch response count mismatch. Expected {expected_count}, got {len(results)}")
+                return None
+
+            required_keys = [
+                "titulo_final", "conteudo_final", "meta_description",
+                "focus_keyphrase", "tags_sugeridas", "yoast_meta"
+            ]
+
+            valid_results = []
+            for i, result in enumerate(results):
+                if not isinstance(result, dict):
+                    logger.error(f"AI batch result {i} is not a dictionary")
+                    valid_results.append(None)
+                    continue
+
+                if "erro" in result:
+                    logger.warning(f"AI returned a rejection error for batch item {i}: {result['erro']}")
+                    valid_results.append(None)
+                    continue
+
+                missing_keys = [key for key in required_keys if key not in result]
+                if missing_keys:
+                    logger.error(f"AI batch result {i} is missing required keys: {', '.join(missing_keys)}")
+                    valid_results.append(None)
+                    continue
+
+                valid_results.append(result)
+
+            return valid_results
+
+        except json.JSONDecodeError as e:
+            logger.error(f"Error decoding JSON from AI batch response: {e}")
+            logger.debug(f"Received text: {text[:500]}...")
+            return None
+        except Exception as e:
+            logger.error(f"An unexpected error occurred while parsing AI batch response: {e}")
             return None
