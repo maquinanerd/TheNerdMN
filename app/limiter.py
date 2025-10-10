@@ -4,13 +4,18 @@ from collections import deque
 from time import monotonic
 
 class RateLimiter:
-    def __init__(self, min_interval_s=6.0):
+    def __init__(self, min_interval_s=35.0):  # Intervalo mais conservador entre 30-45s
         self.min_interval_s = float(min_interval_s)
         self.last_call = 0.0
+        self._jitter = 10.0  # Adiciona variação aleatória de até 10s
     def wait(self):
-        wait = self.min_interval_s - (monotonic() - self.last_call)
-        if wait > 0:
-            time.sleep(wait)
+        elapsed = monotonic() - self.last_call
+        base_wait = self.min_interval_s - elapsed
+        if base_wait > 0:
+            # Adiciona jitter aleatório entre 0-10s
+            jitter = random.uniform(0, self._jitter)
+            total_wait = base_wait + jitter
+            time.sleep(total_wait)
         self.last_call = monotonic()
 
 class KeySlot:

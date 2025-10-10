@@ -8,6 +8,11 @@ from dataclasses import dataclass
 
 from .ai_client_gemini import AIClient
 from .store import Article
+from .token_bucket import TokenBucket
+
+# RPM alvo conservador (2 chamadas/minuto = 1 a cada 30s)
+RPM_TARGET = 2.0
+token_bucket = TokenBucket(rate=RPM_TARGET/60, capacity=1)
 
 logger = logging.getLogger(__name__)
 
@@ -64,7 +69,39 @@ def process_batch(client: AIClient, articles: List[Article]) -> List[Dict[str, A
         return []
         
     batch = ArticleBatch.from_articles(articles)
-    prompt = build_batch_prompt(batch)
+    
+    # Constrói um prompt mais direto e estruturado para processamento em lote
+    prompt = f"""
+INSTRUÇÕES: Processe os {len(articles)} artigos abaixo em uma única análise.
+Para cada artigo, retorne um objeto no array JSON com exatamente os campos especificados.
+Mantenha a mesma ordem dos artigos de entrada.
+
+ARTIGOS:
+{json.dumps([{
+    'id': id,
+    'title': title,
+    'content': content
+} for id, title, content in zip(batch.ids, batch.titles, batch.contents)], ensure_ascii=False, indent=2)}
+
+FORMATO RESPOSTA:
+[
+  {
+    "titulo_final": "...",
+    "meta_description": "...",
+    "focus_keyphrase": "...",
+    "related_keyphrases": ["...", "...", "..."],
+    "slug": "...",
+    "categorias": [
+      {"nome": "...", "grupo": "...", "evidence": "..."}
+    ],
+    "tags_sugeridas": ["...", "...", "..."]
+  },
+  ...  // Um objeto para cada artigo na mesma ordem
+]
+"""
+    
+    # Espera token disponível (implementa rate limit rigoroso)
+    token_bucket.consume()
     
     try:
         response = client.generate_text(
