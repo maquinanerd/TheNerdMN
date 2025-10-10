@@ -8,11 +8,24 @@ import hashlib
 import logging
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
+from dataclasses import dataclass
 
 from .config import PIPELINE_ORDER
 
 logger = logging.getLogger(__name__)
+
+@dataclass
+class Article:
+    """Representa um artigo para processamento."""
+    wp_id: str
+    title: str 
+    excerpt: str
+    content: str
+    status: str
+    source_url: Optional[str] = None
+    category: Optional[str] = None
+    metadata: Optional[Dict[str, Any]] = None
 
 class Database:
     """Handles all database operations for the application."""
@@ -41,6 +54,57 @@ class Database:
         if not self.conn:
             raise sqlite3.Error("Database connection is not available.")
         return self.conn.cursor()
+
+    def save_article(self, article: Article) -> str:
+        """
+        Salva um artigo no banco de dados.
+        Retorna o ID do artigo salvo.
+        """
+        cursor = self._get_cursor()
+        cursor.execute("""
+            INSERT INTO seen_articles (
+                source_id,
+                external_id,
+                url,
+                status,
+                published_at
+            ) VALUES (?, ?, ?, ?, ?)
+        """, (
+            "batch",  # source_id fixo para artigos em lote
+            article.wp_id or str(hash(article.title)),
+            article.source_url,
+            article.status,
+            datetime.now()
+        ))
+        article.wp_id = str(cursor.lastrowid)
+        self.conn.commit()
+        return article.wp_id
+
+    def get_pending_articles(self, limit: int = 3) -> List[Article]:
+        """
+        Retorna os próximos N artigos pendentes.
+        """
+        cursor = self._get_cursor()
+        cursor.execute("""
+            SELECT id, source_id, external_id, url, status
+            FROM seen_articles 
+            WHERE status = 'PENDING'
+            ORDER BY published_at DESC
+            LIMIT ?
+        """, (limit,))
+        
+        articles = []
+        for row in cursor.fetchall():
+            articles.append(Article(
+                wp_id=str(row["id"]),
+                title="",  # será preenchido depois
+                excerpt="",
+                content="",  # será preenchido depois
+                status=row["status"],
+                source_url=row["url"],
+                category=""
+            ))
+        return articles
 
     def initialize(self):
         """Creates the necessary tables if they don't exist."""
