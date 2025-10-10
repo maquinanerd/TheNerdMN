@@ -89,16 +89,136 @@ def is_valid_upload_candidate(url: str) -> bool:
     except Exception:
         return False
 
-def process_article(article_data: Dict[str, Any], link_map: Dict[str, Any]):
-    """Processes a single article from the queue."""
+def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
+    """Processa um lote de artigos usando processamento em batch."""
     db = Database()
     extractor = ContentExtractor()
     wp_client = WordPressClient(config=WORDPRESS_CONFIG, categories_map=WORDPRESS_CATEGORIES)
     
-    article_db_id = article_data['db_id']
-    source_id = article_data['source_id']
-    feed_config = RSS_FEEDS.get(source_id, {})
-    category = feed_config.get('category', 'Notícias')
+    # Extrai conteúdo de todos os artigos primeiro
+    extracted_articles = []
+    for article_data in articles:
+        article_db_id = article_data['db_id']
+        source_id = article_data['source_id']
+        feed_config = RSS_FEEDS.get(source_id, {})
+        category = feed_config.get('category', 'Notícias')
+        
+        try:
+            article_url = _get_article_url(article_data)
+            if not article_url:
+                logger.warning(f"Skipping article {article_data.get('id')} - missing/invalid URL")
+                db.update_article_status(article_db_id, 'FAILED', reason="Missing/invalid URL")
+                continue
+                
+            logger.info(f"Processing article: {article_data.get('title', 'N/A')} (DB ID: {article_db_id}) from {source_id}")
+            db.update_article_status(article_db_id, 'PROCESSING')
+            
+            html_content = extractor._fetch_html(article_url)
+            if not html_content:
+                db.update_article_status(article_db_id, 'FAILED', reason="Failed to fetch HTML")
+                continue
+                
+            soup = BeautifulSoup(html_content, 'lxml')
+            domain = urlparse(article_url).netloc.lower()
+            
+            for cleaner_domain, cleaner_func in CLEANER_FUNCTIONS.items():
+                if cleaner_domain in domain:
+                    soup = cleaner_func(soup)
+                    logger.info(f"Applied cleaner for {cleaner_domain}")
+                    break
+                    
+            extracted_data = extractor.extract(str(soup), url=article_url)
+            if not extracted_data or not extracted_data.get('content'):
+                logger.warning(f"Failed to extract content from {article_url}")
+                db.update_article_status(article_db_id, 'FAILED', reason="Extraction failed")
+                continue
+                
+            extracted_articles.append({
+                'db_id': article_db_id,
+                'url': article_url,
+                'source_id': source_id,
+                'category': category,
+                'extracted': extracted_data,
+                'feed_config': feed_config
+            })
+            
+        except Exception as e:
+            logger.error(f"Error extracting article {article_data.get('title', 'N/A')}: {e}", exc_info=True)
+            db.update_article_status(article_db_id, 'FAILED', reason=str(e))
+            continue
+    
+    if not extracted_articles:
+        return
+        
+    # Processa todos os artigos extraídos em lote via AI
+    try:
+        ai_results = []
+        for batch in [extracted_articles[i:i+3] for i in range(0, len(extracted_articles), 3)]:
+            batch_data = []
+            for art in batch:
+                extracted = art['extracted']
+                main_text = extracted.get('content', '')
+                body_images_html = extracted.get('images', [])
+                content_for_ai = main_text + "\n".join(body_images_html)
+                
+                batch_data.append({
+                    'title': extracted.get('title'),
+                    'content_html': content_for_ai, 
+                    'source_url': art['url'],
+                    'category': art['category'],
+                    'videos': extracted.get('videos', []),
+                    'images': extracted.get('images', []),
+                    'source_name': art['feed_config'].get('source_name', ''),
+                    'domain': wp_client.get_domain(),
+                    'schema_original': extracted.get('schema_original'),
+                    'article_data': art
+                })
+                
+            # Processa o lote
+            for data in batch_data:
+                rewritten_data, failure_reason = ai_processor.rewrite_content(**data)
+                if rewritten_data:
+                    ai_results.append((data['article_data'], rewritten_data))
+                else:
+                    art = data['article_data']
+                    reason = failure_reason or "AI processing failed"
+                    logger.warning(f"Article '{art['url']}' marked as FAILED (Reason: {reason})")
+                    db.update_article_status(art['db_id'], 'FAILED', reason=reason)
+                    
+        # Publica todos os artigos processados
+        for art_data, rewritten in ai_results:
+            try:
+                extracted = art_data['extracted']
+                content_html = rewritten.get("conteudo_final", "").strip()
+                if not content_html:
+                    db.update_article_status(art_data['db_id'], 'FAILED', reason="AI output missing content")
+                    continue
+                    
+                # Processa imagens e links
+                content_html = remove_broken_image_placeholders(content_html)
+                content_html = strip_naked_internal_links(content_html)
+                content_html = merge_images_into_content(content_html, extracted.get('images', []))
+                
+                urls_to_upload = []
+                featured_image_url = extracted.get('featured_image_url')
+                if featured_image_url and is_valid_upload_candidate(featured_image_url):
+                    urls_to_upload.append(featured_image_url)
+                    
+                uploaded_src_map = {}
+                uploaded_id_map = {}
+                for url in urls_to_upload:
+                    media = wp_client.upload_media_from_url(url, rewritten.get("titulo_final", ""))
+                    if media and media.get("source_url") and media.get("id"):
+                        k = url.rstrip('/')
+                        uploaded_src_map[k] = media["source_url"]
+                        uploaded_id_map[k] = media["id"]
+                        
+                content_html = rewrite_img_srcs_with_wp(content_html, uploaded_src_map)
+                content_html = strip_credits_and_normalize_youtube(content_html)
+                
+                source_name = art_data['feed_config'].get('source_name', urlparse(art_data['url']).netloc)
+                credit_line = f'<p><strong>Fonte:</strong> <a href="{art_data["url"]}" target="_blank" rel="noopener noreferrer">{source_name}</a></p>'
+                content_html += f"\n{credit_line}"
 
     try:
         article_url_to_process = _get_article_url(article_data)
@@ -246,7 +366,7 @@ def process_article(article_data: Dict[str, Any], link_map: Dict[str, Any]):
         wp_client.close()
 
 def worker_loop():
-    """Continuously processes articles from the queue."""
+    """Continuously processes articles from the queue in lotes."""
     link_map = {}
     try:
         with open('data/internal_links.json', 'r', encoding='utf-8') as f:
@@ -255,12 +375,18 @@ def worker_loop():
         logger.warning("Could not load internal_links.json for worker.")
 
     while True:
-        article = article_queue.pop()
-        if not article:
+        # Pega até 3 artigos da fila
+        articles = []
+        for _ in range(3):
+            if article := article_queue.pop():
+                articles.append(article)
+        
+        if not articles:
             time.sleep(2)
             continue
-        
-        process_article(article, link_map)
+            
+        # Processa o lote
+        process_batch(articles, link_map)
         logger.info(f"Worker sleeping for {ARTICLE_SLEEP_S}s.")
         time.sleep(ARTICLE_SLEEP_S)
 
