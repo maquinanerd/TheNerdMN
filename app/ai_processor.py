@@ -2,6 +2,7 @@
 import os
 import json
 import logging
+import re
 from urllib.parse import urlparse
 import time
 from pathlib import Path
@@ -226,10 +227,16 @@ class AIProcessor:
         match = re.search(r"```(?:json)?\s*([\s\S]+?)\s*```", clean_text)
         if match:
             clean_text = match.group(1).strip()
+        else:
+            # Fallback suggested by user: find first '{' and last '}'
+            start = clean_text.find('{')
+            end = clean_text.rfind('}')
+            if start != -1 and end != -1 and end > start:
+                clean_text = clean_text[start:end+1].strip()
 
         try:
-            # Deprecated cleaning logic, replaced by regex
-            # clean_text = text.strip() ...
+            # Remove invisible BOM before parsing
+            clean_text = clean_text.lstrip('\ufeff')
 
             debug_dir = Path("debug")
             debug_dir.mkdir(exist_ok=True)
@@ -285,10 +292,16 @@ class AIProcessor:
         match = re.search(r"```(?:json)?\s*([\s\S]+?)\s*```", clean_text)
         if match:
             clean_text = match.group(1).strip()
+        else:
+            # Fallback suggested by user: find first '{' and last '}'
+            start = clean_text.find('{')
+            end = clean_text.rfind('}')
+            if start != -1 and end != -1 and end > start:
+                clean_text = clean_text[start:end+1].strip()
 
         try:
-            # Deprecated cleaning logic, replaced by regex
-            # clean_text = text.strip() ...
+            # Remove invisible BOM before parsing
+            clean_text = clean_text.lstrip('\ufeff')
 
             debug_dir = Path("debug")
             debug_dir.mkdir(exist_ok=True)
