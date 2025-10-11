@@ -179,14 +179,7 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
 
             try:
                 # Process all articles in batch with one API call
-                raw_batch_results = ai_processor.rewrite_batch(batch_data)
-
-                # Clean and parse the JSON response
-                try:
-                    cleaned_json_str = ai_processor.clean_ai_response(raw_batch_results)
-                    batch_results = json.loads(cleaned_json_str)
-                except (json.JSONDecodeError, TypeError) as json_err:
-                    raise ValueError(f"Failed to parse batch AI response. Error: {json_err}. Raw response: {raw_batch_results}") from json_err
+                batch_results = ai_processor.rewrite_batch(batch_data)
 
                 # Process results in same order
                 for art_data, (rewritten_data, failure_reason) in zip(batch, batch_results):

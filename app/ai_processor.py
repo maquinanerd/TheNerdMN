@@ -220,12 +220,16 @@ class AIProcessor:
     @staticmethod
     def _parse_response(text: str) -> Optional[Dict[str, Any]]:
         """Parse the AI response for a single article."""
+        clean_text = text.strip()
+        
+        # Regex to find a JSON block inside ```json ... ``` or ``` ... ```
+        match = re.search(r"```(?:json)?\s*([\s\S]+?)\s*```", clean_text)
+        if match:
+            clean_text = match.group(1).strip()
+
         try:
-            clean_text = text.strip()
-            if clean_text.startswith("```json"):
-                clean_text = clean_text[7:-3].strip()
-            elif clean_text.startswith("```"):
-                clean_text = clean_text[3:-3].strip()
+            # Deprecated cleaning logic, replaced by regex
+            # clean_text = text.strip() ...
 
             debug_dir = Path("debug")
             debug_dir.mkdir(exist_ok=True)
@@ -275,12 +279,16 @@ class AIProcessor:
             List of parsed article results in the same order as input batch.
             Returns None if the response could not be parsed or is invalid.
         """
+        clean_text = text.strip()
+
+        # Regex to find a JSON block inside ```json ... ``` or ``` ... ```
+        match = re.search(r"```(?:json)?\s*([\s\S]+?)\s*```", clean_text)
+        if match:
+            clean_text = match.group(1).strip()
+
         try:
-            clean_text = text.strip()
-            if clean_text.startswith("```json"):
-                clean_text = clean_text[7:-3].strip()
-            elif clean_text.startswith("```"):
-                clean_text = clean_text[3:-3].strip()
+            # Deprecated cleaning logic, replaced by regex
+            # clean_text = text.strip() ...
 
             debug_dir = Path("debug")
             debug_dir.mkdir(exist_ok=True)
