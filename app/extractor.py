@@ -842,12 +842,6 @@ class ContentExtractor:
             # 2) limpeza prévia pesada
             self._pre_clean_html(soup, url)
 
-            # 3) normaliza data-img-url -> <figure>
-            self._convert_data_img_to_figure(soup)
-
-            # 4) Extrai imagem destacada com a nova lógica de priorização
-            featured_image_url = self._pick_featured_image(soup, url)
-
             # 5) Extrai imagens do corpo do artigo
             body_images = collect_images_from_article(soup, base_url=url)
 
@@ -862,7 +856,7 @@ class ContentExtractor:
                 title = news_article_schema.get('headline') or news_article_schema.get('name') or title
                 excerpt = news_article_schema.get('description') or excerpt
                 if not featured_image_url:
-                     featured_image_url = _coerce_url(news_article_schema.get('image'))
+                    featured_image_url = _coerce_url(news_article_schema.get('image'))
             else: # Fallback
                 title = (og_title.get('content') if (og_title := soup.find('meta', property='og:title')) else None) or (soup.title.string if soup.title else title)
                 excerpt = (meta_desc.get('content') if (meta_desc := soup.find('meta', attrs={'name': 'description'})) else None) or \
@@ -1091,4 +1085,42 @@ class ContentExtractor:
         else:
             # --- Step 4: Fallback for unhandled sites ---
             logger.warning(f"No specific extractor rule found for {domain}. Falling back to generic (trafilatura) extractor.")
-            return self._extract_with_trafilatura(html, url)
+            # A lógica de extração genérica foi movida para cá para evitar chamadas duplicadas.
+            # A função _extract_with_trafilatura agora só lida com o corpo do texto.
+            self._pre_clean_html(soup, url)
+            self._convert_data_img_to_figure(soup)
+            body_images = collect_images_from_article(soup, base_url=url)
+            
+            # Extrai o corpo com trafilatura
+            cleaned_html_str = str(soup)
+            content_html = trafilatura.extract(
+                cleaned_html_str,
+                include_images=False,
+                include_links=True,
+                include_comments=False,
+                include_tables=False,
+                output_format='html'
+            )
+            if not content_html:
+                logger.warning(f"Trafilatura returned empty content for {url}")
+                return None
+
+            # Pós-processamento e montagem do resultado
+            article_soup = BeautifulSoup(content_html, 'lxml')
+            self._remove_forbidden_blocks(article_soup)
+            final_content_html = article_soup.body.decode_contents() if article_soup.body else str(article_soup)
+            
+            other_valid_images = [u for u in body_images if u != featured_image_url]
+            body_images_html_list = [f'<figure><img src="{url}" alt=""><figcaption></figcaption></figure>' for url in other_valid_images]
+            logger.info(f"Selected featured image: {featured_image_url}. Found {len(other_valid_images)} other valid images.")
+
+            return {
+                "title": title.strip(),
+                "content": final_content_html,
+                "excerpt": (excerpt or "").strip(),
+                "featured_image_url": featured_image_url,
+                "images": body_images_html_list,
+                "videos": videos_full_page,
+                "source_url": url,
+                "schema_original": _find_news_article_in_json_ld(_extract_json_ld(soup))
+            }
