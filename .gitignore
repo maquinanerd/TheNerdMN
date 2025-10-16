@@ -64,3 +64,6 @@ config/
 # Temporários
 *.tmp
 *.bak
+
+# keys
+app/keys.py
