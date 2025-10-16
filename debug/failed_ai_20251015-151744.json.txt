@@ -1,0 +1,50 @@
+{
+  "titulo_final": "Ryan Reynolds usa IA para promover nova oferta da Mint Mobile",
+  "conteudo_final": "<p>Ryan Reynolds, conhecido por seu humor ácido, encontrou uma nova forma de satirizar o tópico mais comentado da internet: Tilly Norwood. Desta vez, ele utilizou sua empresa, Mint Mobile, para criar um acordo de entretenimento peculiar. A \"atriz\" gerada por inteligência artificial, Tilly Norwood, tem sido o centro das atenções, e Reynolds decidiu fazer uma parceria com uma pessoa real de mesmo nome para um comercial da Mint Mobile.</p><h2>A Polêmica Atriz de IA e a Resposta de Reynolds</h2><p>A empresa de Reynolds, Maximum Effort, localizou a VERDADEIRA Tilly Norwood, que é cliente da Mint Mobile, para discutir a empresa de telefonia e lançar sua nova oferta. A Mint Mobile está introduzindo o MINTernet, um serviço de internet residencial 5G a partir de apenas US$ 30 por mês, prometendo o valor característico da Mint sem complicações. Reynolds usou a controvérsia em torno de Norwood para promover o novo plano de internet.</p><p>A contratação de \"Tilly Norwood\" por agências gerou revolta entre muitos atores, pois ela é uma atriz gerada por IA e, portanto, não é real. Diversos artistas expressaram sua indignação. Reynolds adotou uma abordagem bem ao seu estilo, satirizando a notícia. A Norwood presente no comercial é uma mulher real, descrita como uma combinação \"dos meus pais\", em vez de uma junção de outros atores. É uma maneira divertida de vender o novo plano de internet da Mint Mobile.</p><p>“A Mint trouxe alívio para milhões de pessoas em relação às contas de telefonia das grandes operadoras, ao mesmo tempo que entrega um serviço sem fio premium”, disse Reynolds. “Hoje, estamos trazendo essa mesma energia para casa. Literalmente. Isso não é uma metáfora. Nós entregamos literalmente à sua porta. Ela chega, você instala e começa a receber internet 5G em casa e a economizar dinheiro.”</p><h2>Humor e Crítica Social</h2><p>Quando a notícia da nova agente de Norwood veio à tona, muitos atores reagiram negativamente. As razões são muitas, especialmente porque uma grande parte da questão nas greves de roteiristas e atores girou em torno do uso de IA na criação de arte. Melissa Barrera, estrela de Abigail, criticou Norwood em sua conta do Instagram, escrevendo: “Espero que todos os atores representados pela agente que faz isso, abandonem essa porcaria. Que nojo, leia o ambiente.” Enquanto muitos adotaram uma abordagem mais padrão, expressando suas preocupações sobre IA, este comercial da Mint Mobile é exatamente o tipo de resposta sarcástica que aprendemos a amar de Reynolds, e é hilário.</p><p>Você pode ver Reynolds em seu momento mais engraçado em filmes como <b>Deadpool &amp; Wolverine</b>, um filme sem Tilly Norwood.</p><p></p>",
+  "meta_description": "Ryan Reynolds usa humor e IA para lançar novo serviço de internet 5G da Mint Mobile, satirizando a controvérsia da atriz gerada por computador.",
+  "focus_keyphrase": "Ryan Reynolds Mint Mobile",
+  "related_keyphrases": [
+    "Ryan Reynolds IA",
+    "Mint Mobile internet",
+    "Tilly Norwood IA"
+  ],
+  "slug": "ryan-reynolds-mint-mobile-oferta",
+  "categorias": [
+    {
+      "nome": "Ryan Reynolds",
+      "grupo": "ator",
+      "evidence": "Ryan Reynolds loves to poke fun and this time, he's using his company Mint Mobile to take on the internet's hottest topic: Tilly Norwood."
+    },
+    {
+      "nome": "Mint Mobile",
+      "grupo": "empresa",
+      "evidence": "he's using his company Mint Mobile to take on the internet's hottest topic"
+    },
+    {
+      "nome": "Tilly Norwood",
+      "grupo": "personagem",
+      "evidence": "The AI generated \"actress\" has been the talk of the town and Reynolds decided to team up with a real woman named Tilly Norwood"
+    }
+  ],
+  "tags_sugeridas": [
+    "ryan-reynolds",
+    "mint-mobile",
+    "tilly-norwood",
+    "inteligencia-artificial",
+    "publicidade",
+    "internet-5g"
+  ],
+  "image_alt_texts": {
+    "deadpool-and-wolverine-poster-showing-wade-wilson-s-swords-showing-hugh-jackman-s-reflection.jpg": "Poster de Deadpool & Wolverine com Ryan Reynolds e Hugh Jackman, representando a parceria de Ryan Reynolds com a Mint Mobile."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Ryan Reynolds usa IA para nova oferta da Mint Mobile | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Ryan Reynolds satiriza a atriz de IA Tilly Norwood para promover o novo serviço de internet 5G da Mint Mobile com uma abordagem humorística.",
+    "_yoast_wpseo_focuskw": "Ryan Reynolds Mint Mobile",
+    "_yoast_news_keywords": "Ryan Reynolds, Mint Mobile, Tilly Norwood, Inteligência Artificial, Publicidade, Internet 5G, Deadpool & Wolverine",
+    "_yoast_wpseo_opengraph-title": "Ryan Reynolds usa IA para nova oferta da Mint Mobile",
+    "_yoast_wpseo_opengraph-description": "Ryan Reynolds satiriza a atriz de IA Tilly Norwood para promover o novo serviço de internet 5G da Mint Mobile com uma abordagem humorística.",
+    "_yoast_wpseo_twitter-title": "Ryan Reynolds usa IA para nova oferta da Mint Mobile",
+    "_yoast_wpseo_twitter-description": "Ryan Reynolds satiriza a atriz de IA Tilly Norwood para promover o novo serviço de internet 5G da Mint Mobile com uma abordagem humorística."
+  }
+}

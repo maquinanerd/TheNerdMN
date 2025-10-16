@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Blade: Atriz Mia Goth comenta atrasos e futuro do filme do MCU",
+      "conteudo_final": "<p>Há mais de seis anos, o filme <b>Blade</b> da Marvel Studios foi anunciado, introduzindo o icônico herói ao Universo Cinematográfico Marvel (MCU). Apesar de Mahershala Ali ter subido ao palco na San Diego Comic-Con de 2019 para revelar que interpretaria o personagem, o filme ainda não saiu do papel.</p><h2>Mia Goth comenta status de produção de Blade</h2><p>Em uma entrevista recente, Mia Goth, que foi escalada para o reboot em abril de 2023, foi questionada sobre novidades a respeito do projeto <b>Blade</b>. No entanto, a atriz afirmou que não tem atualizações sobre a produção atribulada, mas acrescentou que o tempo extra é para o bem.</p><p>“É para o melhor que tenha levado o tempo que levou. Eles querem fazer isso certo”, declarou Goth.</p><figure class=\"video-container\"><iframe src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/blade-moon-knight-s-eyes-shine-in-marvel-zombies.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Uma representação de Blade em uma animação da Marvel.</figcaption></figure><h2>Histórico de Atrasos e Mudanças no Filme do Blade</h2><p>Até o momento, Mahershala Ali teve apenas uma participação vocal como Blade em <i>Eternals</i>, de 2021. Uma versão alternativa do personagem apareceu em <i>Marvel Zombies</i>, dublada por Todd Williams.</p><p>O projeto enfrentou diversas mudanças de direção. Bassam Tariq foi inicialmente contratado para dirigir a entrada de Ali no MCU, mas deixou o projeto em setembro de 2022 devido a mudanças contínuas no cronograma de produção. Em junho de 2024, Yann Demange, que substituiria Tariq, também se afastou.</p><p>Relatos indicam que Goth estava originalmente escalada para interpretar Lilith, uma vilã vampira que desejava o sangue da filha de Blade. O reboot era inicialmente pensado para se passar nos anos 1920, mas o foco agora estaria no presente.</p><h2>O Futuro Incerto de Blade no MCU</h2><p>Com o MCU em sua Fase 6, o foco atual está em concluir a Saga Multiversal com filmes como <i>Avengers: Doomsday</i> e <i>Avengers: Secret Wars</i>. Embora o filme <b>Blade</b> ainda esteja em desenvolvimento, não está claro se Ali interpretará o papel em algum dos filmes de 2026 ou 2027.</p><figure class=\"video-container\"><iframe src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/08/Blade-MCU-Poster.jpg?q=70&amp;fit=contain&amp;w=480&amp;dpr=1\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>O pôster promocional do filme Blade do MCU.</figcaption></figure><p>Se o filme for adiante, o mais cedo seria na Fase 7, e isso dependendo da contratação de um diretor. Atualmente, a Marvel Studios não definiu uma nova data de lançamento para <b>Blade</b>.</p>",
+      "meta_description": "Mia Goth, escalada para o filme Blade do MCU, comenta sobre os constantes atrasos e o desejo da Marvel de acertar na produção do herói.",
+      "focus_keyphrase": "filme Blade",
+      "related_keyphrases": [
+        "Blade MCU",
+        "Mahershala Ali Blade",
+        "Mia Goth Blade"
+      ],
+      "slug": "blade-atriz-mia-goth-comenta-atrasos-filme-mcu",
+      "categorias": [
+        {
+          "nome": "Blade",
+          "grupo": "obras",
+          "evidence": "Marvel Studios' <em>Blade</em> movie was first announced"
+        },
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "entering the <em>Marvel Cinematic Universe</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "blade",
+        "mcu",
+        "marvel studios",
+        "mahershala ali",
+        "mia goth",
+        "super-herois",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "blade-moon-knight-s-eyes-shine-in-marvel-zombies.jpg": "Representação de Blade com olhos brilhantes em Marvel Zombies.",
+        "Blade-MCU-Poster.jpg": "Pôster promocional do filme Blade do MCU com Mahershala Ali."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Blade: Atriz Mia Goth Comenta Atrasos e Futuro do Filme do MCU | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Mia Goth, escalada para o filme Blade do MCU, comenta sobre os constantes atrasos e o desejo da Marvel de acertar na produção do herói.",
+        "_yoast_wpseo_focuskw": "filme Blade",
+        "_yoast_news_keywords": "Blade, MCU, Marvel Studios, Mahershala Ali, Mia Goth, cinema, super-herois",
+        "_yoast_wpseo_opengraph-title": "Blade: Atriz Mia Goth Comenta Atrasos e Futuro do Filme do MCU",
+        "_yoast_wpseo_opengraph-description": "Mia Goth, escalada para o filme Blade do MCU, comenta sobre os constantes atrasos e o desejo da Marvel de acertar na produção do herói.",
+        "_yoast_wpseo_twitter-title": "Blade: Atriz Mia Goth Comenta Atrasos e Futuro do Filme do MCU",
+        "_yoast_wpseo_twitter-description": "Mia Goth, escalada para o filme Blade do MCU, comenta sobre os constantes atrasos e o desejo da Marvel de acertar na produção do herói."
+      }
+    }
+  ]
+}

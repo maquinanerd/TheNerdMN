@@ -1,0 +1,145 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hal & Harper: Nova série de suspense com Lili Reinhart estreia em outubro",
+      "conteudo_final": "<p>A nova série de suspense <b>Hal & Harper</b>, estrelada por Lili Reinhart e Cooper Raiff, promete emocionar e divertir o público. A produção chega aos cinemas dos EUA e França em 19 de outubro, com novos episódios lançados semanalmente. A série de oito episódios é criada por Raiff, que também atua ao lado de um elenco de peso, incluindo Betty Gilpin, Mark Ruffalo e Alyah Chanelle Scott.</p><p>Em uma prévia exclusiva, a série retrata a tensão de um término, com a personagem de Lili Reinhart, Harper, sendo confrontada por sua namorada, Jesse. Enquanto isso, Hal, interpretado por Cooper Raiff, entra no quarto de forma inesperada, criando um momento de constrangimento. A cena evidencia a dinâmica dos personagens e os desafios que eles enfrentarão.</p><p>A trama acompanha a dupla de irmãos e colegas de quarto, Hal e Harper, que construíram uma vida em Los Angeles. No entanto, a notícia de que o pai deles, interpretado por Mark Ruffalo, terá um filho com sua namorada (Betty Gilpin) força os irmãos a confrontarem seus demônios e a lidarem com grandes mudanças na vida.</p><h2>Conheça a Equipe Criativa de 'Hal & Harper'</h2><p>O elenco principal ainda conta com Havana Rose Liu, Christopher Meyer e Addison Timlin. Para Cooper Raiff, a série marca sua estreia na televisão, após sucessos no cinema como 'Cha Cha Real Smooth' e 'Shithouse'.</p><p>Assista à prévia exclusiva de Hal & Harper e confira a estreia na plataforma de streaming em 19 de outubro.</p>",
+      "meta_description": "Nova série 'Hal & Harper' com Lili Reinhart e Cooper Raiff chega em outubro. Drama coming-of-age explora relacionamentos e mudanças de vida.",
+      "focus_keyphrase": "Hal & Harper série",
+      "related_keyphrases": [
+        "Lili Reinhart série",
+        "Cooper Raiff série",
+        "série coming-of-age"
+      ],
+      "slug": "hal-harper-serie-estreia",
+      "categorias": [
+        {
+          "nome": "Hal & Harper",
+          "grupo": "obras",
+          "evidence": "Hal & Harper"
+        },
+        {
+          "nome": "Lili Reinhart",
+          "grupo": "franquias",
+          "evidence": "Lili Reinhart (Riverdale)"
+        },
+        {
+          "nome": "Cooper Raiff",
+          "grupo": "franquias",
+          "evidence": "Cooper Raiff’s character"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hal & Harper",
+        "Lili Reinhart",
+        "Cooper Raiff",
+        "Betty Gilpin",
+        "Mark Ruffalo",
+        "série",
+        "drama"
+      ],
+      "image_alt_texts": {
+        "01929902_poster_w780.jpg": "Pôster da série Hal & Harper com Lili Reinhart e Cooper Raiff em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hal & Harper: Nova série de suspense com Lili Reinhart estreia em outubro",
+        "_yoast_wpseo_metadesc": "Nova série 'Hal & Harper' com Lili Reinhart e Cooper Raiff chega em outubro. Drama coming-of-age explora relacionamentos e mudanças de vida.",
+        "_yoast_wpseo_focuskw": "Hal & Harper série",
+        "_yoast_news_keywords": "Hal & Harper, Lili Reinhart, Cooper Raiff, Betty Gilpin, Mark Ruffalo, série, suspense",
+        "_yoast_wpseo_opengraph-title": "Hal & Harper: Nova série de suspense com Lili Reinhart estreia em outubro",
+        "_yoast_wpseo_opengraph-description": "Nova série 'Hal & Harper' com Lili Reinhart e Cooper Raiff chega em outubro. Drama coming-of-age explora relacionamentos e mudanças de vida.",
+        "_yoast_wpseo_twitter-title": "Hal & Harper: Nova série de suspense com Lili Reinhart estreia em outubro",
+        "_yoast_wpseo_twitter-description": "Nova série 'Hal & Harper' com Lili Reinhart e Cooper Raiff chega em outubro. Drama coming-of-age explora relacionamentos e mudanças de vida."
+      }
+    },
+    {
+      "titulo_final": "One Piece 2: Zoro pronto para batalhar em novas imagens exclusivas",
+      "conteudo_final": "<p>A Netflix revela novas imagens exclusivas da segunda temporada de <b>One Piece</b>, mostrando Zoro pronto para enfrentar desafios em Whiskey Peak. A adaptação live-action, baseada no mangá de Eiichiro Oda, promete aprofundar a jornada dos Piratas do Chapéu de Palha na Grand Line.</p><p>Whiskey Peak, a cidade em Cactus Island, se apresenta como um local acolhedor, mas esconde os Operativos da Baroque Works. A temporada apresentará essa organização criminosa e a introdução de Miss All Sunday, também conhecida como Nico Robin. A presença de Joe Manganiello como Crocodile, o líder da Baroque Works, reforça a importância deste arco na narrativa.</p><p>As novas imagens mostram Luffy, Zoro, Nami, Sanji e Usopp explorando a cidade. Enquanto o grupo exibe entusiasmo com a recepção inicial, uma cena revela Zoro desembainhando suas espadas para defender os companheiros de um ataque noturno. Essa demonstração de lealdade e força é um ponto crucial para o desenvolvimento do personagem.</p><h2>Whiskey Peak: Um Ponto de Virada para Zoro em 'One Piece'</h2><p>Mackenyu, intérprete de Zoro, destaca que Whiskey Peak é um momento decisivo para o espadachim. É onde ele realmente demonstra sua lealdade e habilidades de luta em nome de sua tripulação. A adaptação live-action busca elevar essas cenas icônicas a um novo patamar.</p><blockquote><p>"Whiskey Peak é um ponto de virada para Zoro. Até agora, você viu vislumbres de seu poder — mas aqui, você realmente entende que tipo de espadachim ele é, e o que ele está disposto a fazer por sua tripulação. É intenso. Há um momento que os fãs do mangá e do anime definitivamente reconhecerão, mas vê-lo em live-action... é diferente. Acho que as pessoas ficarão surpresas e animadas com o quão longe Zoro irá."</p></blockquote><p>A segunda temporada de One Piece tem estreia prevista para 2026. A Netflix já confirmou a terceira temporada, com produção iniciando em breve. As novas imagens e o pôster oferecem um vislumbre do que está por vir nesta nova fase da aventura.</p>",
+      "meta_description": "Novas imagens de One Piece 2 mostram Zoro pronto para batalha em Whiskey Peak. A temporada estreia em 2026 na Netflix com novos desafios.",
+      "focus_keyphrase": "One Piece 2",
+      "related_keyphrases": [
+        "Zoro One Piece",
+        "Netflix One Piece",
+        "adaptação live-action One Piece"
+      ],
+      "slug": "one-piece-2-zoro-whiskey-peak",
+      "categorias": [
+        {
+          "nome": "One Piece",
+          "grupo": "franquias",
+          "evidence": "One Piece"
+        }
+      ],
+      "tags_sugeridas": [
+        "One Piece",
+        "Netflix",
+        "Zoro",
+        "Mackenyu",
+        "Eiichiro Oda",
+        "live-action",
+        "anime"
+      ],
+      "image_alt_texts": {
+        "03171191_poster_w780.jpg": "Pôster da segunda temporada de One Piece com Zoro em destaque em Whiskey Peak."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "One Piece 2: Zoro pronto para batalhar em novas imagens exclusivas",
+        "_yoast_wpseo_metadesc": "Novas imagens de One Piece 2 mostram Zoro pronto para batalha em Whiskey Peak. A temporada estreia em 2026 na Netflix com novos desafios.",
+        "_yoast_wpseo_focuskw": "One Piece 2",
+        "_yoast_news_keywords": "One Piece, One Piece 2, Netflix, Zoro, Mackenyu, Eiichiro Oda, live-action",
+        "_yoast_wpseo_opengraph-title": "One Piece 2: Zoro pronto para batalhar em novas imagens exclusivas",
+        "_yoast_wpseo_opengraph-description": "Novas imagens de One Piece 2 mostram Zoro pronto para batalha em Whiskey Peak. A temporada estreia em 2026 na Netflix com novos desafios.",
+        "_yoast_wpseo_twitter-title": "One Piece 2: Zoro pronto para batalhar em novas imagens exclusivas",
+        "_yoast_wpseo_twitter-description": "Novas imagens de One Piece 2 mostram Zoro pronto para batalha em Whiskey Peak. A temporada estreia em 2026 na Netflix com novos desafios."
+      }
+    },
+    {
+      "titulo_final": "A Hora do Pesadelo: Robert Englund aponta melhor performance de Freddy",
+      "conteudo_final": "<p>Robert Englund, o icônico intérprete de Freddy Krueger na franquia <b>A Hora do Pesadelo</b>, revelou qual sequência considera ter a sua melhor performance como o vilão. Em entrevista exclusiva, Englund destacou 'A Hora do Pesadelo 4: O Mestre dos Sonhos' como o filme em que sentiu maior liberdade para explorar o personagem.</p><p>Segundo Englund, o diretor Renny Harlin compreendeu a natureza onírica e estilizada de Freddy. \"Renny me deixou em paz e entendeu que Freddy só existe nesta paisagem de sonhos, nesta espécie de paisagem da mente, do sonho, do pesadelo. E, portanto, ele pode ser um pouco estilizado\", explicou o ator.</p><p>Englund comentou sobre a evolução do humor de Freddy ao longo da série. Embora as piadas cruéis estivessem presentes desde o início, o personagem se tornou mais cômico com o passar dos filmes. Para o ator, essa característica, amada pelos fãs, foi explorada intensamente, talvez até em excesso em 'Freddy's Dead: A Maldição de Freddy'.</p><p>O legado de 'A Hora do Pesadelo' como um marco do terror dos anos 80 é inegável. A franquia não apenas criou um dos maiores ícones do gênero, mas também lançou carreiras de talentos como Johnny Depp e Patricia Arquette. Recentemente, um novo box 4K com os sete filmes originais foi lançado, oferecendo aos fãs uma nova maneira de revisitar os pesadelos.</p>",
+      "meta_description": "Robert Englund, o Freddy Krueger original, elegeu \"A Hora do Pesadelo 4: O Mestre dos Sonhos\" como sua melhor performance na franquia de terror.",
+      "focus_keyphrase": "A Hora do Pesadelo Freddy Krueger",
+      "related_keyphrases": [
+        "Robert Englund Freddy Krueger",
+        "melhor filme A Hora do Pesadelo",
+        "A Hora do Pesadelo 4"
+      ],
+      "slug": "hora-pesadelo-robert-englund-freddy",
+      "categorias": [
+        {
+          "nome": "A Hora do Pesadelo",
+          "grupo": "franquias",
+          "evidence": "A Nightmare on Elm Street"
+        }
+      ],
+      "tags_sugeridas": [
+        "A Hora do Pesadelo",
+        "Freddy Krueger",
+        "Robert Englund",
+        "terror",
+        "filmes de terror",
+        "Renny Harlin"
+      ],
+      "image_alt_texts": {
+        "e-l-e-c-t-r-o-n-i-c-a-r-t-s.png": "Robert Englund como Freddy Krueger em A Hora do Pesadelo.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Imagem de referência para Freddy Krueger em A Hora do Pesadelo.",
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h-2_47f680.png": "Robert Englund em uma pose icônica como Freddy Krueger.",
+        "Xbox-Gamescom-1.jpg": "Cena de terror com Freddy Krueger em A Hora do Pesadelo.",
+        "2-k-g-a-m-e-s.png": "Freddy Krueger com suas garras em A Hora do Pesadelo.",
+        "Rey-training-with-Leia-in-Star-Wars-The-Rise-of-Skywalker.jpg": "Ilustração de Freddy Krueger.",
+        "blue-steel-congo.jpg": "Arte conceitual de Freddy Krueger.",
+        "w-o-l-f-e-n-s-t-e-i-n.png": "Comparativo visual de A Hora do Pesadelo.",
+        "22HmNMFukxw/hqdefault.jpg": "Robert Englund em entrevista sobre A Hora do Pesadelo.",
+        "22HmNMFukxw/maxresdefault.jpg": "Vídeo promocional de A Hora do Pesadelo com Robert Englund."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Hora do Pesadelo: Robert Englund aponta melhor performance de Freddy",
+        "_yoast_wpseo_metadesc": "Robert Englund, o Freddy Krueger original, elegeu \"A Hora do Pesadelo 4: O Mestre dos Sonhos\" como sua melhor performance na franquia de terror.",
+        "_yoast_wpseo_focuskw": "A Hora do Pesadelo Freddy Krueger",
+        "_yoast_news_keywords": "A Hora do Pesadelo, Freddy Krueger, Robert Englund, A Hora do Pesadelo 4, terror, Wes Craven",
+        "_yoast_wpseo_opengraph-title": "A Hora do Pesadelo: Robert Englund aponta melhor performance de Freddy",
+        "_yoast_wpseo_opengraph-description": "Robert Englund, o Freddy Krueger original, elegeu \"A Hora do Pesadelo 4: O Mestre dos Sonhos\" como sua melhor performance na franquia de terror.",
+        "_yoast_wpseo_twitter-title": "A Hora do Pesadelo: Robert Englund aponta melhor performance de Freddy",
+        "_yoast_wpseo_twitter-description": "Robert Englund, o Freddy Krueger original, elegeu \"A Hora do Pesadelo 4: O Mestre dos Sonhos\" como sua melhor performance na franquia de terror."
+      }
+    }
+  ]
+}

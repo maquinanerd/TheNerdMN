@@ -1,0 +1,105 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "A Múmia (2017): Fracasso que renasce no streaming",
+      "conteudo_final": "<p>Apesar de ter estrelado por Tom Cruise e um elenco de peso, o reboot de <b>A Múmia</b>, de 2017, foi um grande fracasso de crítica e bilheteria. No entanto, o filme tem visto um ressurgimento de interesse nas plataformas de streaming, alcançando o top 10 da HBO Max em outubro.</p><p>O filme, que marcou a estreia de Alex Kurtzman na direção, era a aposta da Universal para iniciar um universo cinematográfico compartilhado com seus monstros clássicos, o "Dark Universe". Apesar de ter arrecadado mais de US$ 400 milhões mundialmente, o desempenho foi considerado insuficiente diante de um orçamento estimado em quase US$ 200 milhões. Planos para sequências e outros filmes foram engavetados.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/the-mummy-tom-cruise-poster.jpg\" alt=\"Poster do filme A Múmia (2017) com Tom Cruise\"><figcaption>O filme A Múmia (2017) com Tom Cruise teve um desempenho decepcionante em seu lançamento.</figcaption></figure><p>O elenco contava com nomes como Russell Crowe, interpretando o Dr. Jekyll, e Sofia Boutella como a vilã titular. Mesmo com o talento em frente e atrás das câmeras, incluindo contribuições de roteiristas como Christopher McQuarrie e David Koepp, o longa obteve apenas 15% de aprovação no agregador Rotten Tomatoes, sendo considerado um fracasso crítico.</p><h2>Universos Compartilhados: Um Desafio Constante</h2><p>O fracasso de <b>A Múmia</b> levou a Universal a abandonar a ideia do universo compartilhado de monstros. Em vez disso, o estúdio optou por focar em filmes independentes e dirigidos por cineastas específicos, muitos deles da Blumhouse, como <b>O Homem Invisível</b> e <b>O Homem-Lobo</b>. Outros estúdios também viram dificuldades em replicar o sucesso da Marvel, com exemplos como o <a href=\"https://www.maquinanerd.com.br/tag/dc-extended-universe\">DCEU</a> tendo um caminho turbulento.</p><p>Apesar do revés, a Universal planeja reiniciar a franquia <b>A Múmia</b> mais uma vez, com Lee Cronin, diretor de <b>A Morte do Demônio: A Ascensão</b>, à frente do novo projeto. O futuro do universo de monstros clássicos da Universal ainda é incerto, mas o interesse renovado em plataformas de streaming pode indicar um caminho para novas adaptações.</p>",
+      "meta_description": "A Múmia (2017), com Tom Cruise, foi um fracasso, mas agora ganha nova vida no streaming. Saiba os detalhes do ressurgimento.",
+      "focus_keyphrase": "A Múmia 2017 streaming",
+      "related_keyphrases": [
+        "Universo Sombrio Universal",
+        "Tom Cruise A Múmia",
+        "Fracassos de bilheteria"
+      ],
+      "slug": "a-mumia-2017-streaming-sucesso-inesperado",
+      "categorias": [
+        {
+          "nome": "A Múmia",
+          "grupo": "obras",
+          "evidence": "franchise kicked off with a reboot of <a href=\"https://collider.com/tag/the-mummy/\">The Mummy</a>"
+        },
+        {
+          "nome": "Dark Universe",
+          "grupo": "franquias",
+          "evidence": "the Dark Universe was Universal's grand attempt to launch a franchise"
+        },
+        {
+          "nome": "Tom Cruise",
+          "grupo": "pessoas",
+          "evidence": "starring <a href=\"https://collider.com/tag/tom-cruise/\">Tom Cruise</a> in the lead role"
+        }
+      ],
+      "tags_sugeridas": [
+        "a-mumia",
+        "tom-cruise",
+        "russell-crowe",
+        "alex-kurtzman",
+        "universal-pictures",
+        "streaming"
+      ],
+      "image_alt_texts": {
+        "the-mummy-tom-cruise-poster.jpg": "Poster do filme A Múmia (2017) com Tom Cruise em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Múmia (2017): Fracasso que renasce no streaming | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "A Múmia (2017), com Tom Cruise, foi um fracasso, mas agora ganha nova vida no streaming. Saiba os detalhes do ressurgimento.",
+        "_yoast_wpseo_focuskw": "A Múmia 2017 streaming",
+        "_yoast_news_keywords": "A Múmia, The Mummy, Tom Cruise, Russell Crowe, Alex Kurtzman, Universal Pictures, Dark Universe, streaming, HBO Max",
+        "_yoast_wpseo_opengraph-title": "A Múmia (2017): Fracasso que renasce no streaming",
+        "_yoast_wpseo_opengraph-description": "A Múmia (2017), com Tom Cruise, foi um fracasso, mas agora ganha nova vida no streaming. Saiba os detalhes do ressurgimento.",
+        "_yoast_wpseo_twitter-title": "A Múmia (2017): Fracasso que renasce no streaming",
+        "_yoast_wpseo_twitter-description": "A Múmia (2017), com Tom Cruise, foi um fracasso, mas agora ganha nova vida no streaming. Saiba os detalhes do ressurgimento."
+      }
+    },
+    {
+      "titulo_final": "O Senhor dos Anéis: O problema que assombra franquias de fantasia",
+      "conteudo_final": "<p>A proximidade de um novo filme de <b>O Senhor dos Anéis</b>, <b>The Hunt for Gollum</b>, evidencia um problema recorrente que afeta grandes franquias de fantasia e ficção científica: a dificuldade em transcender suas obras originais.</p><h2>O Legado da Trilogia Original</h2><p>Enquanto os filmes originais dirigidos por Peter Jackson são aclamados como obras-primas, as produções subsequentes, como a trilogia <b>O Hobbit</b> e a série <b>O Senhor dos Anéis: Os Anéis de Poder</b>, enfrentaram críticas e desafios. Mesmo com o apelo da marca, a franquia parece ter dificuldade em se desvencilhar de seus elementos mais familiares.</p><p><b>The Hunt for Gollum</b>, com direção e estrelando Andy Serkis, promete explorar um período dentro da linha temporal de <b>A Sociedade do Anel</b>, focando na busca por Gollum. Essa escolha temática reforça a tendência de revisitar personagens e eventos já conhecidos, em detrimento de novas histórias.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/09/Andy-Serkis-as-Gollum-in-The-Lord-of-the-Rings-The-Two-Towers.jpg?w=1024\" alt=\"Andy Serkis como Gollum em O Senhor dos Anéis: As Duas Torres\"><figcaption>Andy Serkis retorna como Gollum em novo filme da saga O Senhor dos Anéis.</figcaption></figure><h2>Nostalgia e a Armadilha da Familiaridade</h2><p>Tanto <b>O Hobbit</b> quanto <b>Os Anéis de Poder</b>, apesar de se passarem em eras distintas, optaram por incluir personagens icônicos como Galadriel e Sauron, e até mesmo referências a Gandalf. Esse padrão de depender da nostalgia e de conectar novas obras às propriedades originais é visível em outras grandes franquias como <b>Star Wars</b> e o MCU, e até mesmo em <b>Harry Potter</b>.</p><p>Séries como <b>Andor</b>, de <b>Star Wars</b>, se destacam justamente por priorizar a narrativa e o desenvolvimento de personagens originais, com a franquia em um plano secundário. No entanto, essa abordagem parece ser a exceção, não a regra, em um cenário dominado pela busca por elementos familiares para atrair o público.</p><h2>O Futuro de Terra-Média</h2><p>Existem inúmeras eras e histórias não contadas em Terra-Média que poderiam ser exploradas, mas a tendência é que a nova leva de produções continue a revisitar o passado. Essa dependência excessiva da familiaridade, embora compreensível devido ao apelo de audiência, corre o risco de gerar retornos decrescentes e limitações criativas.</p><p>O público também desempenha um papel, preferindo frequentemente produções com aparições de personagens já conhecidos. Contudo, o sucesso de novas histórias bem construídas e com orçamentos adequados pode oferecer uma plataforma sólida para a evolução de uma franquia, algo que parece faltar em <b>O Senhor dos Anéis</b> atualmente.</p><p><b>O Senhor dos Anéis: The Hunt for Gollum</b> tem previsão de estreia para 17 de dezembro de 2027.</p>",
+      "meta_description": "O novo filme de O Senhor dos Anéis, 'The Hunt for Gollum', evidencia um problema em franquias de fantasia: a dependência da nostalgia.",
+      "focus_keyphrase": "O Senhor dos Anéis problema franquias",
+      "related_keyphrases": [
+        "Peter Jackson",
+        "Os Anéis de Poder",
+        "Andy Serkis Gollum"
+      ],
+      "slug": "o-senhor-dos-aneis-problema-franquias-fantasia",
+      "categorias": [
+        {
+          "nome": "O Senhor dos Anéis",
+          "grupo": "franquias",
+          "evidence": "Another <a href=\"https://comicbook.com/tag/the-lord-of-the-rings/\">The Lord of the Rings</a> movie is on the horizon"
+        },
+        {
+          "nome": "The Hunt for Gollum",
+          "grupo": "obras",
+          "evidence": "<a href=\"https://comicbook.com/tag/the-lord-of-the-rings-the-hunt-for-gollum/\">The Hunt for Gollum</a>"
+        },
+        {
+          "nome": "Os Anéis de Poder",
+          "grupo": "obras",
+          "evidence": "The Lord of the Rings: The Rings of Power"
+        }
+      ],
+      "tags_sugeridas": [
+        "o-senhor-dos-aneis",
+        "the-hunt-for-gollum",
+        "os-aneis-de-poder",
+        "peter-jackson",
+        "andy-serkis",
+        "terra-media",
+        "fantasia"
+      ],
+      "image_alt_texts": {
+        "Andy-Serkis-as-Gollum-in-The-Lord-of-the-Rings-The-Two-Towers.jpg": "Andy Serkis como Gollum em uma cena de O Senhor dos Anéis: As Duas Torres."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "O Senhor dos Anéis: O problema que assombra franquias de fantasia | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "O novo filme de O Senhor dos Anéis, 'The Hunt for Gollum', evidencia um problema em franquias de fantasia: a dependência da nostalgia.",
+        "_yoast_wpseo_focuskw": "O Senhor dos Anéis problema franquias",
+        "_yoast_news_keywords": "O Senhor dos Anéis, The Lord of the Rings, The Hunt for Gollum, Os Anéis de Poder, Peter Jackson, Andy Serkis, fantasia, sci-fi",
+        "_yoast_wpseo_opengraph-title": "O Senhor dos Anéis: O problema que assombra franquias de fantasia",
+        "_yoast_wpseo_opengraph-description": "O novo filme de O Senhor dos Anéis, 'The Hunt for Gollum', evidencia um problema em franquias de fantasia: a dependência da nostalgia.",
+        "_yoast_wpseo_twitter-title": "O Senhor dos Anéis: O problema que assombra franquias de fantasia",
+        "_yoast_wpseo_twitter-description": "O novo filme de O Senhor dos Anéis, 'The Hunt for Gollum', evidencia um problema em franquias de fantasia: a dependência da nostalgia."
+      }
+    }
+  ]
+}

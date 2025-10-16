@@ -1,0 +1,110 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Red, White & Royal Wedding: Sequência do sucesso do Prime Video ganha título e diretora",
+      "conteudo_final": "<p>O romance entre um príncipe britânico e o filho do Presidente dos EUA em <strong><em>Vermelho, Branco e Sangue Azul</em></strong> rapidamente se tornou um grande sucesso no Prime Video. Agora, a sequência do filme foi oficialmente anunciada, trazendo novidades na direção e no título.</p><h2><i>Red, White &amp; Royal Wedding</i> chega com nova diretora</h2><p>O Prime Video anunciou em 15 de outubro que a sequência de <em>Vermelho, Branco e Sangue Azul</em> foi confirmada, com o novo título <strong><em>Red, White &amp; Royal Wedding</em></strong>. A cineasta <strong>Jamie Babbit</strong>, indicada ao Emmy por seu trabalho em séries como <em>Silicon Valley</em> e <em>Only Murders in the Building</em>, além do cultuado filme <em>But I'm a Cheerleader</em>, foi a escolhida para dirigir a produção. Ela assume o posto de Matthew López, que co-escreveu o roteiro da sequência ao lado de Gemma Burgess e Casey McQuiston, autora do romance original.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/red-white-and-royal-wedding-logo.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Logo de Red, White &amp; Royal Wedding\"><figcaption>O título da sequência foi revelado com a confirmação.</figcaption></figure><p>O elenco principal segue inalterado, com <strong>Nicholas Galitzine e Taylor Zakhar Perez reprisando seus papéis</strong> como Príncipe Henry e Alex Claremont-Diaz, respectivamente. No entanto, ainda não há confirmação sobre o retorno de outros membros do elenco original de <em>Vermelho, Branco e Sangue Azul</em>.</p><p>Diferentemente do primeiro filme, <em>Red, White &amp; Royal Wedding</em> não será baseado em um romance de McQuiston. Apesar de os detalhes do enredo serem mantidos em sigilo, o novo título sugere que o filme girará em torno de um <strong>casamento real</strong>.</p><p>“<em>Após ver a incrível recepção de Red, White &amp; Royal Blue por fãs do mundo todo, fica claro que a história de Alex e Henry realmente ressoou com o público</em>”, disse Julie Rapaport, chefe de filmes, produção e desenvolvimento da Amazon MGM Studios. “<em>Estamos muito empolgados para continuar essa jornada com Jamie Babbit no comando</em>.”</p><p><em>Vermelho, Branco e Sangue Azul</em> estreou no Prime Video em 11 de agosto e se tornou um sucesso instantâneo. Em seu primeiro fim de semana, posicionou-se entre as três comédias românticas mais assistidas de todos os tempos na plataforma. A crítica também elogiou o filme, concedendo-lhe uma pontuação "Certified Fresh" de 75% no <a href=\"https://www.rottentomatoes.com/m/red_white_and_royal_blue\" target=\"_blank\">Rotten Tomatoes</a>, enquanto o público deu ao filme uma aprovação de 92%.</p><p>McQuiston também comentou sobre a sequência:</p><blockquote>“Sou muito grata a Matthew por todo o seu trabalho duro no primeiro filme e por co-criar essa nova história comigo, e sei que Jamie tem a visão, o talento e a sensibilidade para cuidar muito bem de Alex e Henry a partir de agora.”</blockquote><p>Ainda não há previsão de lançamento para <strong><em>Red, White &amp; Royal Wedding</strong></em>.</p>",
+      "meta_description": "Sequência do filme Vermelho, Branco e Sangue Azul é confirmada com novo título, Red, White & Royal Wedding, e diretora indicada ao Emmy. Saiba mais!",
+      "focus_keyphrase": "Vermelho, Branco e Sangue Azul",
+      "related_keyphrases": [
+        "Red, White & Royal Wedding",
+        "Nicholas Galitzine",
+        "Taylor Zakhar Perez"
+      ],
+      "slug": "red-white-royal-wedding-sequencia-prime-video",
+      "categorias": [
+        {
+          "nome": "Vermelho, Branco e Sangue Azul",
+          "grupo": "obras",
+          "evidence": "Vermelho, Branco e Sangue Azul"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "editorias",
+          "evidence": "Prime Video"
+        }
+      ],
+      "tags_sugeridas": [
+        "Vermelho Branco e Sangue Azul",
+        "Red White & Royal Wedding",
+        "Nicholas Galitzine",
+        "Taylor Zakhar Perez",
+        "Jamie Babbit",
+        "Prime Video",
+        "Romance"
+      ],
+      "image_alt_texts": {
+        "red-white-and-royal-wedding-logo.jpg": "Logo oficial do filme Red, White & Royal Wedding, anunciando a sequência do romance LGBTQIA+.",
+        "red-white-and-royal-blue-movie-poster.jpg": "Pôster do filme Vermelho, Branco e Sangue Azul, estrelado por Nicholas Galitzine e Taylor Zakhar Perez."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Red, White & Royal Wedding: Sequência do sucesso do Prime Video ganha título e diretora",
+        "_yoast_wpseo_metadesc": "Sequência do filme Vermelho, Branco e Sangue Azul é confirmada com novo título, Red, White & Royal Wedding, e diretora indicada ao Emmy. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Vermelho, Branco e Sangue Azul",
+        "_yoast_news_keywords": "Vermelho Branco e Sangue Azul, Red White & Royal Wedding, Nicholas Galitzine, Taylor Zakhar Perez, Jamie Babbit, Prime Video, Romance",
+        "_yoast_wpseo_opengraph-title": "Red, White & Royal Wedding: Sequência do sucesso do Prime Video ganha título e diretora",
+        "_yoast_wpseo_opengraph-description": "Sequência do filme Vermelho, Branco e Sangue Azul é confirmada com novo título, Red, White & Royal Wedding, e diretora indicada ao Emmy. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Red, White & Royal Wedding: Sequência do sucesso do Prime Video ganha título e diretora",
+        "_yoast_wpseo_twitter-description": "Sequência do filme Vermelho, Branco e Sangue Azul é confirmada com novo título, Red, White & Royal Wedding, e diretora indicada ao Emmy. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "KPop Demon Hunters: Sucesso da Netflix volta aos cinemas para o Halloween",
+      "conteudo_final": "<p>O fenômeno global da Netflix, <strong><em>KPop Demon Hunters</em></strong>, retornará às telonas em uma nova temporada de exibições especiais. Após o sucesso estrondoso na plataforma de streaming, o filme musical de fantasia terá mais uma oportunidade de ser visto nos cinemas.</p><h2>Sessões especiais de KPop Demon Hunters para o Halloween</h2><p>Confirmado para uma nova exibição em cinemas selecionados, <strong><em>KPop Demon Hunters</em> estará em cartaz novamente para um evento especial de canto e dança entre 21 de outubro e 2 de novembro</strong>. As sessões ocorrerão em salas participantes da AMC, Regal e Cinemark, permitindo que os fãs revivam a magia do filme.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/01893263_poster_w780-1.jpg?q=70&amp;fit=contain&amp;w=480&amp;dpr=1\" alt=\"Pôster de KPop Demon Hunters\"><figcaption>O filme musical de fantasia volta aos cinemas para o Halloween.</figcaption></figure><p>A aventura musical de fantasia se tornou um sucesso sem precedentes na Netflix e, posteriormente, teve um breve lançamento em cinemas no final de agosto. Agora, a decisão de trazê-lo de volta atende à demanda do público, que pôde desfrutar do filme em uma experiência coletiva.</p><p>“<em>Após ver a incrível recepção de Red, White &amp; Royal Blue por fãs do mundo todo, fica claro que a história de Alex e Henry realmente ressoou com o público</em>", disse Julie Rapaport, chefe de filmes, produção e desenvolvimento da Amazon MGM Studios. "<em>Estamos muito empolgados para continuar essa jornada com Jamie Babbit no comando</em>.”</p><p>O filme, que conta com a direção de Chris Appelhans e Maggie Kang, e roteiro de Hannah McMechan, Chris Appelhans, Maggie Kang e Danya Jimenez, já recebeu aclamação da crítica e do público. Ele foi aclamado por sua animação vibrante e trilha sonora cativante, alcançando notas altas em plataformas de avaliação.</p><p>Ainda não há uma data específica para o lançamento dessas sessões especiais de Halloween, mas a expectativa é alta para o retorno de <em>KPop Demon Hunters</em> aos cinemas.</p>",
+      "meta_description": "Fenômeno da Netflix, KPop Demon Hunters retorna aos cinemas para o Halloween com sessões especiais de canto e dança. Confira as datas e locais!",
+      "focus_keyphrase": "KPop Demon Hunters",
+      "related_keyphrases": [
+        "KPop Demon Hunters cinemas",
+        "filme Netflix Halloween",
+        "musical fantasia"
+      ],
+      "slug": "kpop-demon-hunters-cinemas-halloween",
+      "categorias": [
+        {
+          "nome": "KPop Demon Hunters",
+          "grupo": "obras",
+          "evidence": "KPop Demon Hunters"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "Animação",
+          "grupo": "editorias",
+          "evidence": "Animação"
+        }
+      ],
+      "tags_sugeridas": [
+        "KPop Demon Hunters",
+        "Netflix",
+        "Animação",
+        "Musical",
+        "Fantasia",
+        "Halloween",
+        "Arden Cho"
+      ],
+      "image_alt_texts": {
+        "01893263_poster_w780-1.jpg": "Pôster do filme de animação KPop Demon Hunters.",
+        "sr-feature-7.jpg": "Membros do grupo HUNTR/X sorrindo e se apresentando no palco em KPop Demon Hunters.",
+        "rumi-looking-over-her-shoulder-at-something-in-growing-horror-while-derpy-cat-smiles-behind-her-in-kpop-demon-hunters.jpg": "Rumi observa algo com um leve susto enquanto um gato sorri atrás dela em KPop Demon Hunters.",
+        "rumi-mira-and-zoey-peeking-around-a-building-in-kpop-demon-hunters.jpg": "Rumi, Mira e Zoey espiam atrás de um prédio em KPop Demon Hunters.",
+        "abby-saja-dancing-with-baby-and-jinu-in-the-background-in-kpop-demon-hunters.jpg": "Abby Saja dança com Baby e Jinu ao fundo em KPop Demon Hunters.",
+        "zoey-smiling-widely-and-giving-two-thumbs-up-in-kpop-demon-hunters.jpg": "Zoey sorri amplamente e faz um sinal de positivo com os dois polegares em KPop Demon Hunters.",
+        "rumi-and-hunterx-group-are-excited-to-see-fans-in-kpop-demon-hunters-1.jpg": "Rumi e o grupo Hunterx estão animados para ver os fãs em KPop Demon Hunters.",
+        "kpop-demon-hunters-sets-a-major-record-as-netflix-eyes-award-potential.jpg": "O grupo feminino Hunterx posa em KPop Demon Hunters.",
+        "all-x-original-songs-in-kpop-demon-hunters-ranked-from-worst-to-best.jpg": "Os Saja Boys se apresentam em KPop Demon Hunters."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "KPop Demon Hunters: Sucesso da Netflix volta aos cinemas para o Halloween",
+        "_yoast_wpseo_metadesc": "Fenômeno da Netflix, KPop Demon Hunters retorna aos cinemas para o Halloween com sessões especiais de canto e dança. Confira as datas e locais!",
+        "_yoast_wpseo_focuskw": "KPop Demon Hunters",
+        "_yoast_news_keywords": "KPop Demon Hunters, Netflix, Animação, Musical, Fantasia, Halloween, Arden Cho, May Hong",
+        "_yoast_wpseo_opengraph-title": "KPop Demon Hunters: Sucesso da Netflix volta aos cinemas para o Halloween",
+        "_yoast_wpseo_opengraph-description": "Fenômeno da Netflix, KPop Demon Hunters retorna aos cinemas para o Halloween com sessões especiais de canto e dança. Confira as datas e locais!",
+        "_yoast_wpseo_twitter-title": "KPop Demon Hunters: Sucesso da Netflix volta aos cinemas para o Halloween",
+        "_yoast_wpseo_twitter-description": "Fenômeno da Netflix, KPop Demon Hunters retorna aos cinemas para o Halloween com sessões especiais de canto e dança. Confira as datas e locais!"
+      }
+    }
+  ]
+}

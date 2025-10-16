@@ -1,0 +1,165 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "One Piece: Netflix revela prévia da segunda temporada com arco de Whiskey Peak",
+      "conteudo_final": "<p>A adaptação em live-action de <b>One Piece</b> pela Netflix já está em produção para a segunda temporada, e a plataforma divulgou as primeiras imagens de um dos arcos mais aguardados: Whiskey Peak. A série, que se tornou um grande sucesso, teve a renovação confirmada rapidamente e já anunciou uma terceira temporada em produção.</p>\n<h2>Um vislumbre de Whiskey Peak na 2ª temporada de One Piece</h2>\n<p>A Netflix tem revelado gradualmente novidades sobre <b>One Piece: Into the Grand Line</b>, título oficial da segunda temporada. Recentemente, os fãs puderam conferir o primeiro olhar sobre a abordagem live-action do arco de Whiskey Peak. Este arco apresenta os Chapéus de Palha em uma ilha misteriosa, que a princípio parece amigável, mas logo revela um submundo perigoso.</p>\n<p>Whiskey Peak é um dos arcos que o criador da obra original, Eiichiro Oda, confirmou para a nova temporada. Apesar de ser relativamente curto, ele marca um dos primeiros <a href=\"https://www.maquinanerd.com.br/tag/desafios\">desafios reais</a> para Monkey D. Luffy e sua tripulação ao adentrarem o perigoso mar, a Grand Line.</p>\n<p>A segunda temporada também incluirá os arcos de Loguetown, Reverse Mountain, Little Garden e Drum Island. Com uma terceira temporada já confirmada, e a introdução de personagens importantes, a narrativa avança em direção à saga de Alabasta, testando a capacidade dos Chapéus de Palha de sobreviverem e realizarem seus sonhos na Grand Line.</p>\n<h2>Novos Personagens em One Piece: Into the Grand Line</h2>\n<p>Os novos episódios trarão personagens importantes como Mikaela Hoover interpretando Tony Tony Chopper, Lera Abova como Nico Robin, Joe Manganiello como Sir Crocodile, e Charitha Chandran como Vivi Nefertari. Outros nomes incluem Sendhil Ramamurthy como Cobra Nefertari, Daniel Lasker como Mr. 9, e Camrus Johnson como Mr. 5, entre outros.</p>\n<p>Alguns desses personagens terão participações pontuais, enquanto outros serão cruciais para o desenvolvimento futuro da série, especialmente na terceira temporada. Acompanhar a evolução desses personagens é parte da diversão que a adaptação de <b>One Piece</b> oferece.</p>",
+      "meta_description": "Netflix revela as primeiras imagens de One Piece: Into the Grand Line, focando no aguardado arco de Whiskey Peak e novos personagens.",
+      "focus_keyphrase": "One Piece live-action segunda temporada",
+      "related_keyphrases": [
+        "One Piece Netflix",
+        "Arco Whiskey Peak",
+        "One Piece Into the Grand Line"
+      ],
+      "slug": "one-piece-netflix-whiskey-peak",
+      "categorias": [
+        {
+          "nome": "One Piece",
+          "grupo": "franquias",
+          "evidence": "Netflix’s One Piece"
+        },
+        {
+          "nome": "Live-action",
+          "grupo": "editorias",
+          "evidence": "live-action adaptation"
+        }
+      ],
+      "tags_sugeridas": [
+        "One Piece",
+        "Netflix",
+        "Live-action",
+        "Whiskey Peak",
+        "Eiichiro Oda",
+        "Luffy"
+      ],
+      "image_alt_texts": {
+        "2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png": "Logo da série live-action de One Piece da Netflix.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Arte conceitual de personagens de anime.",
+        "King-of-the-Hill-Hank-Angry.jpg": "Hank Hill irritado de King of the Hill.",
+        "Netflix-One-Piece-Live-Action-Season-2-Whiskey-Peak-Straw-Hats.jpg": "Os Chapéus de Palha em cena do arco de Whiskey Peak na 2ª temporada de One Piece live-action.",
+        "Netflix-One-Piece-Live-Action-Season-2-Whiskey-Peak-Zoro.jpg": "Zoro em uma cena do arco de Whiskey Peak na 2ª temporada de One Piece live-action.",
+        "Netflix-One-Piece-Live-Action-Season-2-Whiskey-Peak.jpg": "Cena do arco de Whiskey Peak na 2ª temporada de One Piece live-action.",
+        "Star-Trek-TOS-Mudds-Women.jpg": "Mulheres do episódio 'Mudd's Women' de Star Trek.",
+        "The-Simpsons-Bart-Gets-an-F-2.jpg": "Bart Simpson com a nota F em Os Simpsons.",
+        "blue-steel-congo.jpg": "Imagem promocional de Blue Steel.",
+        "s-e-g-a.png": "Logotipo da Sega.",
+        "s-t-e-a-m.png": "Arte com tema steampunk."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "One Piece: Netflix revela prévia da segunda temporada com arco de Whiskey Peak",
+        "_yoast_wpseo_metadesc": "Netflix revela as primeiras imagens de One Piece: Into the Grand Line, focando no aguardado arco de Whiskey Peak e novos personagens.",
+        "_yoast_wpseo_focuskw": "One Piece live-action segunda temporada",
+        "_yoast_news_keywords": "One Piece, Netflix, Live-action, Anime, Série, Whiskey Peak, Eiichiro Oda",
+        "_yoast_wpseo_opengraph-title": "One Piece: Netflix revela prévia da segunda temporada com arco de Whiskey Peak",
+        "_yoast_wpseo_opengraph-description": "Netflix revela as primeiras imagens de One Piece: Into the Grand Line, focando no aguardado arco de Whiskey Peak e novos personagens.",
+        "_yoast_wpseo_twitter-title": "One Piece: Netflix revela prévia da segunda temporada com arco de Whiskey Peak",
+        "_yoast_wpseo_twitter-description": "Netflix revela as primeiras imagens de One Piece: Into the Grand Line, focando no aguardado arco de Whiskey Peak e novos personagens."
+      }
+    },
+    {
+      "titulo_final": "The Big Bang Theory: Trama devastadora iniciada há 18 anos foi resolvida em 414 episódios",
+      "conteudo_final": "<p>Séries de longa duração frequentemente constroem tramas que se desdobram por temporadas. Em <b>The Big Bang Theory</b>, um elemento cômico recorrente foi o elevador quebrado do prédio onde Sheldon Cooper e Leonard Hofstadter moravam. Os personagens precisavam subir escadas para chegar aos seus apartamentos, o que proporcionava momentos hilários e conversas significativas. Esse elevador permaneceu inoperante até o penúltimo episódio da série, 278 episódios após sua introdução.</p>\n<h2>O peso da história de Sheldon Cooper</h2>\n<p>A série, no entanto, foi além, estabelecendo em sua primeira temporada uma trama dramática que levaria mais de 400 episódios e um spin-off para ser completamente resolvida. Tudo girava em torno de Sheldon Cooper e uma inconsistência em sua história pessoal. Sheldon, que adorava compartilhar detalhes de sua vida, revelou que seu pai, George Cooper Sr., havia falecido.</p>\n<p>Segundo o que Sheldon contava, seu pai morreu de um ataque cardíaco pouco antes de ele começar a faculdade. As histórias que Sheldon narrava sobre George pintavam um quadro de um homem propenso a discussões e explosões. Contudo, com o desenrolar da série, a percepção sobre o pai de Sheldon começou a mudar, especialmente com o desenvolvimento do spin-off.</p>\n<h2>Young Sheldon: A Verdade sobre George Cooper Sr.</h2>\n<p>O spin-off <b>Young Sheldon</b> explora a infância do cientista e sua família. George Cooper Sr. se destaca como um pai presente e apoiador, mesmo sem compreender totalmente a genialidade do filho. A relação entre pai e filho se aprofunda ao longo das temporadas, culminando na sétima temporada, quando Sheldon se prepara para ir para a faculdade.</p>\n<p>George ajuda Sheldon a escolher o local ideal e considera se mudar para perto da universidade. Infelizmente, seus planos são interrompidos quando George falece na 7ª temporada, episódio 12, intitulado “A New Home and a Traditional Texas Torture”.</p>\n<p>A ausência do pai força Sheldon a se dedicar integralmente aos estudos, enquanto o restante da família lida com o luto. Esse distanciamento explica a relutância inicial de Sheldon em se aproximar dos parentes. Apenas após 400 episódios, ele reconhece seus erros e dá o devido crédito à sua família, e especialmente ao seu pai, no episódio final de <b>Young Sheldon</b>.</p>",
+      "meta_description": "A série The Big Bang Theory começou uma trama sobre o pai de Sheldon há 18 anos, que só foi totalmente resolvida 414 episódios depois, com ajuda de Young Sheldon.",
+      "focus_keyphrase": "The Big Bang Theory trama pai",
+      "related_keyphrases": [
+        "Young Sheldon George Cooper",
+        "Sheldon Cooper história",
+        "Trama elevador The Big Bang Theory"
+      ],
+      "slug": "big-bang-theory-trama-sheldon-resolvida",
+      "categorias": [
+        {
+          "nome": "The Big Bang Theory",
+          "grupo": "franquias",
+          "evidence": "The Big Bang Theory"
+        },
+        {
+          "nome": "Young Sheldon",
+          "grupo": "franquias",
+          "evidence": "Young Sheldon"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Big Bang Theory",
+        "Young Sheldon",
+        "Sheldon Cooper",
+        "George Cooper Sr.",
+        "Sitcom",
+        "Chuck Lorre"
+      ],
+      "image_alt_texts": {
+        "2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png": "Logo da série The Big Bang Theory.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Arte conceitual de Final Fantasy.",
+        "young-sheldon-dinner.jpg": "Cena de jantar em família na série Young Sheldon.",
+        "sheldon-spot-big-bang-theory.jpg": "Sheldon Cooper em uma cena de The Big Bang Theory.",
+        "King-of-the-Hill-Hank-Angry.jpg": "Hank Hill irritado de King of the Hill.",
+        "Star-Trek-TOS-Mudds-Women.jpg": "Mulheres do episódio 'Mudd's Women' de Star Trek.",
+        "The-Simpsons-Bart-Gets-an-F-2.jpg": "Bart Simpson com a nota F em Os Simpsons.",
+        "blue-steel-congo.jpg": "Imagem promocional de Blue Steel.",
+        "s-e-g-a.png": "Logotipo da Sega.",
+        "s-t-e-a-m.png": "Arte com tema steampunk."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Big Bang Theory: Trama devastadora iniciada há 18 anos foi resolvida em 414 episódios",
+        "_yoast_wpseo_metadesc": "A série The Big Bang Theory começou uma trama sobre o pai de Sheldon há 18 anos, que só foi totalmente resolvida 414 episódios depois, com ajuda de Young Sheldon.",
+        "_yoast_wpseo_focuskw": "The Big Bang Theory trama pai",
+        "_yoast_news_keywords": "The Big Bang Theory, Young Sheldon, Sheldon Cooper, George Cooper Sr., Sitcom, Chuck Lorre, Trama",
+        "_yoast_wpseo_opengraph-title": "The Big Bang Theory: Trama devastadora iniciada há 18 anos foi resolvida em 414 episódios",
+        "_yoast_wpseo_opengraph-description": "A série The Big Bang Theory começou uma trama sobre o pai de Sheldon há 18 anos, que só foi totalmente resolvida 414 episódios depois, com ajuda de Young Sheldon.",
+        "_yoast_wpseo_twitter-title": "The Big Bang Theory: Trama devastadora iniciada há 18 anos foi resolvida em 414 episódios",
+        "_yoast_wpseo_twitter-description": "A série The Big Bang Theory começou uma trama sobre o pai de Sheldon há 18 anos, que só foi totalmente resolvida 414 episódios depois, com ajuda de Young Sheldon."
+      }
+    },
+    {
+      "titulo_final": "Pokémon TCG Pocket: Próxima expansão com Mega Evoluções é vazada",
+      "conteudo_final": "<p>A próxima expansão do <b>Pokémon Trading Card Game Pocket</b> pode ter sido revelada por uma fonte confiável, com foco na mecânica de Mega Evolução. Lançado há quase um ano, em 30 de outubro de 2024, o jogo já expandiu seu catálogo de 286 cartas para quase 1.700, com atualizações regulares.</p>\n<h2>Próxima expansão de Pokémon TCG Pocket pode se chamar \"Mega Rising\"</h2>\n<p>Com o jogo entrando em seu segundo ano, o leaker conhecido como CentroLeaks divulgou informações sobre a próxima expansão, que supostamente se chamará <b>Mega Rising</b>. A arte vazada mostra pacotes com Mega Blaziken, Mega Gyarados e Mega Altaria. Esta seria a primeira vez desde o lançamento que uma expansão seria dividida em três pacotes distintos para sorteio.</p>\n<p>Embora os detalhes oficiais ainda não tenham sido confirmados pela equipe de desenvolvimento, a chegada de cartas de <a href=\"https://www.maquinanerd.com.br/tag/mega-evolucao\">Mega Evolução</a> em <b>Pokémon TCG Pocket</b> já era esperada há quase dois meses. Um anúncio oficial feito durante o Campeonato Mundial Pokémon de 2025 confirmou a mecânica, exibindo as três criaturas que agora aparecem na arte vazada.</p>\n<p>O lançamento mundial da nova expansão está previsto para 29 ou 30 de outubro, dependendo do fuso horário. Vale lembrar que o Deluxe EX Pack, lançado anteriormente, foi uma oferta por tempo limitado e serviu como encerramento da coleção A1, contendo variantes de cartas já existentes sem introduzir novas mecânicas.</p>",
+      "meta_description": "Vazamento aponta que a próxima expansão de Pokémon TCG Pocket se chamará Mega Rising e trará a mecânica de Mega Evolução. Saiba mais!",
+      "focus_keyphrase": "Pokémon TCG Pocket expansão",
+      "related_keyphrases": [
+        "Pokémon TCG Pocket Mega Evolução",
+        "Mega Rising",
+        "Cartas Pokémon TCG Pocket"
+      ],
+      "slug": "pokemon-tcg-pocket-expansao-mega-rising",
+      "categorias": [
+        {
+          "nome": "Pokémon TCG Pocket",
+          "grupo": "franquias",
+          "evidence": "Pokemon Trading Card Game Pocket"
+        },
+        {
+          "nome": "Jogos de Cartas Colecionáveis",
+          "grupo": "editorias",
+          "evidence": "Pokemon Trading Card Game Pocket"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokémon TCG Pocket",
+        "Mega Evolução",
+        "Nintendo",
+        "The Pokémon Company",
+        "TCG",
+        "Celular"
+      ],
+      "image_alt_texts": {
+        "pokemon-tcg-pocket-1.jpg": "Arte de pacote da expansão Mega Rising para Pokémon TCG Pocket com Mega Blaziken.",
+        "pokemon-tcg-pocket-2.jpg": "Arte de pacote da expansão Mega Rising para Pokémon TCG Pocket com Mega Gyarados.",
+        "pokemon-tcg-pocket-3.jpg": "Arte de pacote da expansão Mega Rising para Pokémon TCG Pocket com Mega Altaria.",
+        "pokemon-tcg-pocket-4.jpg": "Tela do jogo Pokémon TCG Pocket.",
+        "pokemon-tcg-pocket-5.jpg": "Interface do jogo Pokémon TCG Pocket.",
+        "pokemon-tcg-cover.jpg": "Capa de um jogo de cartas Pokémon.",
+        "pokemon-tcg-pocket-deluxe-pack-ex-header.jpg": "Imagem promocional do Deluxe EX Pack de Pokémon TCG Pocket.",
+        "pokemon-tcg-pocket-mega-altaria.jpg": "Mega Altaria em arte oficial de Pokémon TCG Pocket."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon TCG Pocket: Próxima expansão com Mega Evoluções é vazada",
+        "_yoast_wpseo_metadesc": "Vazamento aponta que a próxima expansão de Pokémon TCG Pocket se chamará Mega Rising e trará a mecânica de Mega Evolução. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Pokémon TCG Pocket expansão",
+        "_yoast_news_keywords": "Pokémon TCG Pocket, Mega Evolução, Nintendo, The Pokémon Company, TCG, Jogo de Celular, Mega Rising",
+        "_yoast_wpseo_opengraph-title": "Pokémon TCG Pocket: Próxima expansão com Mega Evoluções é vazada",
+        "_yoast_wpseo_opengraph-description": "Vazamento aponta que a próxima expansão de Pokémon TCG Pocket se chamará Mega Rising e trará a mecânica de Mega Evolução. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Pokémon TCG Pocket: Próxima expansão com Mega Evoluções é vazada",
+        "_yoast_wpseo_twitter-description": "Vazamento aponta que a próxima expansão de Pokémon TCG Pocket se chamará Mega Rising e trará a mecânica de Mega Evolução. Saiba mais!"
+      }
+    }
+  ]
+}

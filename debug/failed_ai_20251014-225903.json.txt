@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Good Fortune: Comédia com Keanu Reeves quase teve enredo de filme dos anos 90",
+      "conteudo_final": "<p>A ideia original para <b>Good Fortune</b>, a nova comédia de ação com classificação R estrelada por Keanu Reeves, Seth Rogen e Sandra Oh, era bastante similar à trama de um filme subestimado dos anos 90. O longa, que estreia em 17 de outubro, acompanha o anjo Gabriel interferindo nas vidas de um trabalhador com pouca sorte e um capitalista de sucesso.</p><h2>Origem da Ideia e Parceria com Seth Rogen</h2><p>Escrito e dirigido por Aziz Ansari, que também atua no filme, <b>Good Fortune</b> fez sua estreia no Festival Internacional de Cinema de Toronto, marcando sua estreia na direção de longas-metragens. Em uma conversa com a <i>GQ</i>, Seth Rogen revelou que a ideia inicial que Ansari lhe apresentou há cerca de 15 anos era, essencialmente, o enredo de <b>Mr. Destiny</b>, um filme de Jim Belushi, apesar de Ansari nunca ter ouvido falar dele antes.</p><p>Ansari explicou que a concepção original envolvia um personagem que apresentaria uma lição a outro. Rogen complementou, dizendo que a ideia era similar a um \"homem do destino\" que mostrava como a vida poderia ter sido diferente, comparando a premissa a <i>Esqueceram de Mim em Casa</i> (Sliding Doors).</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/jzodOBT9DTU\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><h2>Mr. Destiny: A Inspiração Inesperada</h2><p><b>Mr. Destiny</b>, lançado em 1990, conta a história de Larry (James Belushi), um homem comum que, com a ajuda de um espírito, revisita um momento crucial de sua vida para viver a realidade que acreditava ser ideal. O filme, coescrito por James Orr e Jim Cruickshank, e estrelado por Courteney Cox, é frequentemente comparado a <i>A Felicidade Não Se Compra</i> (It's a Wonderful Life).</p><p>Os comentários de Rogen e Ansari sugerem que <b>Good Fortune</b> também explora elementos de comédia atemporal. Curiosamente, após a première do filme no TIFF, muitos críticos apontaram semelhanças entre o drama de Ansari e <b>It's a Wonderful Life</b>, destacando uma mensagem similar sobre a apreciação da própria vida.</p><h2>Desenvolvimento e Elenco</h2><p>O roteiro de <b>Good Fortune</b> foi escrito após o cancelamento do filme <i>Being Mortal</i>, de Rogen e Ansari, em 2022, devido a uma reclamação contra Bill Murray. Ansari detalhou que, após o roteiro estar pronto, ele inicialmente convidou Rogen para interpretar o rico Arj, mas enfrentaram dificuldades para encontrar o ator ideal para o papel do trabalhador autônomo, Jeff.</p><p>No final, Aziz Ansari assumiu o papel de Arj e Seth Rogen interpretou Jeff. A participação de Keanu Reeves como o anjo Gabriel ocorreu posteriormente. O diretor revelou que a maioria das piadas e do desenvolvimento do personagem Gabriel foram influenciados após a confirmação de Reeves no projeto. Ele mencionou que a interpretação de Gabriel foi \"obviamente influenciada\" por <i>O Céu de Berlim</i> (Wings of Desire), e que Reeves trouxe uma inocência ao papel, retratando um ser celestial sem experiências humanas como amizade ou diversão.</p>",
+      "meta_description": "Good Fortune, nova comédia com Keanu Reeves e Seth Rogen, quase teve trama de Mr. Destiny. Entenda as inspirações do filme.",
+      "focus_keyphrase": "Good Fortune",
+      "related_keyphrases": [
+        "Good Fortune Keanu Reeves",
+        "comédia Aziz Ansari",
+        "Mr. Destiny filme"
+      ],
+      "slug": "good-fortune-filme-keanu-reeves",
+      "categorias": [
+        {
+          "nome": "Good Fortune",
+          "grupo": "obras",
+          "evidence": "The original plan for Good Fortune"
+        },
+        {
+          "nome": "Mr. Destiny",
+          "grupo": "obras",
+          "evidence": "was essentially the plot of Mr. Destiny"
+        },
+        {
+          "nome": "Keanu Reeves",
+          "grupo": "obras",
+          "evidence": "starring Keanu Reeves"
+        }
+      ],
+      "tags_sugeridas": [
+        "Good Fortune",
+        "Keanu Reeves",
+        "Seth Rogen",
+        "Aziz Ansari",
+        "Mr. Destiny",
+        "comédia",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "9hdvsfqur8fkc4aovbrxpgaulzg.jpg": "Pôster do filme Good Fortune (2025) com Keanu Reeves e o título em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Good Fortune: Comédia com Keanu Reeves quase teve enredo de filme dos anos 90",
+        "_yoast_wpseo_metadesc": "Good Fortune, nova comédia com Keanu Reeves e Seth Rogen, quase teve trama de Mr. Destiny. Entenda as inspirações do filme.",
+        "_yoast_wpseo_focuskw": "Good Fortune",
+        "_yoast_news_keywords": "Good Fortune, Keanu Reeves, Seth Rogen, Aziz Ansari, Mr. Destiny, comédia, cinema, Hollywood",
+        "_yoast_wpseo_opengraph-title": "Good Fortune: Comédia com Keanu Reeves quase teve enredo de filme dos anos 90",
+        "_yoast_wpseo_opengraph-description": "A ideia original para Good Fortune, nova comédia com Keanu Reeves e Seth Rogen, era bastante similar à trama de Mr. Destiny.",
+        "_yoast_wpseo_twitter-title": "Good Fortune: Comédia com Keanu Reeves quase teve enredo de filme dos anos 90",
+        "_yoast_wpseo_twitter-description": "A ideia original para Good Fortune, nova comédia com Keanu Reeves e Seth Rogen, era bastante similar à trama de Mr. Destiny."
+      }
+    }
+  ]
+}

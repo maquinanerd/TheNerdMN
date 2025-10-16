@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Batman vs. Superman alcança sucesso em streaming antes de novo filme de Henry Cavill",
+  "conteudo_final": "<p>Antes de <a href=\"https://www.maquinanerd.com.br/tag/henry-cavill/\">Henry Cavill</a> assumir o papel de guerreiro imortal em <b>Highlander</b>, seu filme de maior bilheteria está ressurgindo nas paradas de streaming. <b>Batman vs. Superman: A Origem da Justiça</b>, o confronto de super-heróis de 2016 dirigido por Zack Snyder, tornou-se um dos filmes mais assistidos na HBO Max globalmente.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/05/0144358_poster_w780.jpg\" alt=\"Pôster do filme Batman vs. Superman: A Origem da Justiça com Henry Cavill e Ben Affleck\"><figcaption>Batman vs. Superman: A Origem da Justiça tem ganhado nova vida no streaming.</figcaption></figure><p>O filme reuniu o Superman de Cavill e o Batman de <a href=\"https://www.maquinanerd.com.br/tag/ben-affleck/\">Ben Affleck</a> pela primeira vez nas telas, com Lex Luthor, interpretado por Jesse Eisenberg, tramando entre a rivalidade deles. Lançado em março de 2016, o longa arrecadou impressionantes US$ 874 milhões mundialmente, contra um orçamento de US$ 250 milhões, consolidando-se como o filme de maior bilheteria da carreira de Cavill até hoje. Apesar do sucesso nas bilheterias, as críticas foram divididas, com 28% de aprovação no Rotten Tomatoes entre os críticos, enquanto o público foi mais receptivo, com 63%.</p><h2>O Legado de Batman vs. Superman</h2><p>Agora que <a href=\"https://www.maquinanerd.com.br/tag/david-corenswet/\">David Corenswet</a> assumiu o manto do Homem de Aço sob a direção de <a href=\"https://www.maquinanerd.com.br/tag/james-gunn/\">James Gunn</a>, é natural que os fãs revisitem a interpretação de Cavill. O filme continua a gerar discussões quase uma década depois, desde suas imagens ousadas e tom sombrio até o infame momento \"Martha\", que instantaneamente se tornou um marco na cultura pop.</p><p>A produção também contou com um elenco estelar, incluindo Amy Adams como Lois Lane, Laurence Fishburne como Perry White, Jeremy Irons como Alfred Pennyworth, Gal Gadot em sua estreia como Mulher-Maravilha e Scoot McNairy como Wallace Keefe.</p><h2>Recepção Crítica e Declarações</h2><p>Jeremy Irons, em entrevista ao <a href=\"http://www.dailymail.co.uk/home/event/article-3611038/Batman-v-Superman-Dawn-Justice-star-Jeremy-Irons-new-life-semi-retired-actor.html\">Daily Mail</a>, não poupou palavras ao comentar as críticas negativas:</p><blockquote><p>“Merecidamente. Quero dizer, faturou US$ 800 milhões, então a recepção não importou, mas era meio que superlotado… Era muito confuso. Acho que o próximo será mais simples. O roteiro é certamente menor, é mais linear.”</p></blockquote><p>A análise da <a href=\"https://www.maquinanerd.com.br/tag/collider/\">Collider</a> sobre o filme concordou:</p><blockquote><p>“Assistir Snyder se esforçar tanto apenas para unir dois personagens, me faz tremer ao pensar em como ele planeja lidar com a Liga da Justiça. A forma como os personagens da Liga da Justiça são introduzidos em Batman vs. Superman é decepcionante e perfunctória, e as alusões a ameaças futuras são tratadas de maneira tão confusa que deixará muitos espectadores coçando a cabeça. Tenho certeza de que alguns de vocês que leem isto assumirão que eu tinha algo contra este filme, e nada do que eu escrever aqui os convencerá do contrário. Eu genuinamente queria gostar de Batman vs. Superman (assim como quero gostar de todos os filmes que vejo; não quero perder horas do meu tempo com um filme ruim), mas Snyder criou um desastre quase total que faz uma grande desfeita a seus heróis lendários.”</p></blockquote><p><b>Batman vs. Superman: A Origem da Justiça</b> está disponível na HBO Max.</p>",
+  "meta_description": "Batman vs. Superman: A Origem da Justiça, com Henry Cavill, faz sucesso em streaming. Saiba mais sobre o filme de Zack Snyder e seu legado.",
+  "focus_keyphrase": "Batman vs. Superman",
+  "related_keyphrases": [
+    "Henry Cavill Superman",
+    "Zack Snyder filmes",
+    "A Origem da Justiça streaming"
+  ],
+  "slug": "batman-vs-superman-sucesso-streaming",
+  "categorias": [
+    {
+      "nome": "Batman vs. Superman: A Origem da Justiça",
+      "grupo": "obras",
+      "evidence": "Batman v Superman: Dawn of Justice"
+    },
+    {
+      "nome": "Superman",
+      "grupo": "franquias",
+      "evidence": "Cavill’s Superman"
+    },
+    {
+      "nome": "Batman",
+      "grupo": "franquias",
+      "evidence": "Affleck’s Batman"
+    }
+  ],
+  "tags_sugeridas": [
+    "Batman vs. Superman",
+    "Henry Cavill",
+    "Ben Affleck",
+    "Zack Snyder",
+    "DC Comics",
+    "super-heróis",
+    "streaming"
+  ],
+  "image_alt_texts": {
+    "0144358_poster_w780.jpg": "Pôster do filme Batman vs. Superman: A Origem da Justiça com Henry Cavill e Ben Affleck"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Batman vs. Superman: Sucesso em Streaming Antes de Novo Filme de Henry Cavill",
+    "_yoast_wpseo_metadesc": "Batman vs. Superman: A Origem da Justiça, com Henry Cavill, faz sucesso em streaming. Saiba mais sobre o filme de Zack Snyder e seu legado.",
+    "_yoast_wpseo_focuskw": "Batman vs. Superman",
+    "_yoast_news_keywords": "Batman vs. Superman, Henry Cavill, Ben Affleck, Zack Snyder, DC Comics, A Origem da Justiça, streaming",
+    "_yoast_wpseo_opengraph-title": "Batman vs. Superman faz sucesso em streaming",
+    "_yoast_wpseo_opengraph-description": "O filme de 2016 dirigido por Zack Snyder, Batman vs. Superman: A Origem da Justiça, com Henry Cavill e Ben Affleck, alcançou o topo das paradas de streaming.",
+    "_yoast_wpseo_twitter-title": "Batman vs. Superman: Sucesso em Streaming",
+    "_yoast_wpseo_twitter-description": "Filme de 2016 com Henry Cavill e Ben Affleck, Batman vs. Superman: A Origem da Justiça, tem novo fôlego no streaming."
+  }
+}

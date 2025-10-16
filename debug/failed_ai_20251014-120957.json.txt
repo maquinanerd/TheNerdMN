@@ -1,0 +1,113 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Josh Gates Retorna com Novas Temporadas de Expedition Unknown e Files",
+      "conteudo_final": "<p>O explorador <b>Josh Gates</b> está de volta com novas aventuras em <b>Expedition Unknown</b> e <b>Expedition Files</b>. As séries retornam ao Discovery com temporadas inéditas a partir de quarta-feira, 5 de novembro.</p><p>Em <b>Expedition Unknown</b>, Gates se dedica a desvendar mistérios e lendas que o fascinaram desde a infância. O trailer mostra o apresentador mergulhando em águas geladas, correndo por selvas e explorando as catacumbas sob as pirâmides do Egito. Ele também fará parceria com Parker Schnabel, estrela de <b>Gold Rush</b>.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/11/0339432_poster_w780.jpg\" alt=\"Josh Gates em nova temporada de Expedition Unknown\"><figcaption>Josh Gates em nova temporada de Expedition Unknown.</figcaption></figure><h2>Novas Investigações em Expedition Unknown</h2><p>A temporada de estreia de Expedition Unknown contará com um especial de duas partes sobre a Grande Pirâmide de Gizé. Gates tentará replicar a construção da maravilha do mundo antigo e utilizará novas técnicas de mapeamento 3D para explorar as profundezas da estrutura. Ele também investigará um roubo de diligência no Velho Oeste com Schnabel, mergulhará no Mar Báltico para encontrar um submarino alemão afundado e embarcará em uma caça ao tesouro em estilo <b>Goonies</b> no Oregon. Além disso, buscará o navio a vapor perdido de Cornelius Vanderbilt nas selvas da Nicarágua.</p><h2>Mistérios Históricos em Expedition Files</h2><p>Já <b>Expedition Files</b> promete uma temporada explosiva, começando com uma nova teoria sobre o desaparecimento de Jimmy Hoffa, líder dos Teamsters. Gates investigará o misterioso falecimento do inventor alemão Rudolf Diesel, que teria caído de um navio em 1913, e a busca pelo Santo Graal. A série também abordará o mistério de Bigfoot, a queda do Hindenburg, a espiã Mata Hari e a morte de <b>Cleópatra</b>.</p><p>As novas temporadas de Expedition Unknown e Expedition Files estreiam em 5 de novembro, exclusivamente no Discovery.</p>",
+      "meta_description": "Josh Gates retorna com novas temporadas de Expedition Unknown e Expedition Files em novembro. Descubra mistérios históricos e lendas em aventuras emocionantes.",
+      "focus_keyphrase": "Expedition Unknown Expedition Files",
+      "related_keyphrases": [
+        "Josh Gates",
+        "Discovery",
+        "Expedições"
+      ],
+      "slug": "josh-gates-expedition-unknown-files",
+      "categorias": [
+        {
+          "nome": "Expedition Unknown",
+          "grupo": "obras",
+          "evidence": "Expedition Unknown and its sister show, Expedition Files, are embarking on another adventure this fall."
+        },
+        {
+          "nome": "Expedition Files",
+          "grupo": "obras",
+          "evidence": "Expedition Unknown and its sister show, Expedition Files, are embarking on another adventure this fall."
+        },
+        {
+          "nome": "Discovery",
+          "grupo": "editorias",
+          "evidence": "exclusively on Discovery."
+        }
+      ],
+      "tags_sugeridas": [
+        "Josh Gates",
+        "Expedition Unknown",
+        "Expedition Files",
+        "Discovery Channel",
+        "Documentário",
+        "Aventura",
+        "Mistério"
+      ],
+      "image_alt_texts": {
+        "0339432_poster_w780.jpg": "Josh Gates em nova temporada de Expedition Unknown com pôster promocional da série."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Josh Gates Retorna com Novas Temporadas de Expedition Unknown e Files",
+        "_yoast_wpseo_metadesc": "Josh Gates retorna com novas temporadas de Expedition Unknown e Expedition Files em novembro. Descubra mistérios históricos e lendas em aventuras emocionantes.",
+        "_yoast_wpseo_focuskw": "Expedition Unknown Expedition Files",
+        "_yoast_news_keywords": "Josh Gates, Expedition Unknown, Expedition Files, Discovery, Aventura, Mistério",
+        "_yoast_wpseo_opengraph-title": "Josh Gates Retorna com Novas Temporadas de Expedition Unknown e Files",
+        "_yoast_wpseo_opengraph-description": "Josh Gates retorna com novas temporadas de Expedition Unknown e Expedition Files em novembro. Descubra mistérios históricos e lendas em aventuras emocionantes.",
+        "_yoast_wpseo_twitter-title": "Josh Gates Retorna com Novas Temporadas de Expedition Unknown e Files",
+        "_yoast_wpseo_twitter-description": "Josh Gates retorna com novas temporadas de Expedition Unknown e Expedition Files em novembro. Descubra mistérios históricos e lendas em aventuras emocionantes."
+      }
+    },
+    {
+      "titulo_final": "Star Trek TOS: 5 Episódios Mais Bizarras e Inesquecíveis",
+      "conteudo_final": "<p>Mais do que qualquer outra iteração de <b>Star Trek</b>, <b>Star Trek: The Original Series (TOS)</b> é um verdadeiro sonho febril. Com alienígenas ancestrais, cérebros perdidos e seres divinos ocasionais, a série frequentemente parecia um mergulho na mente de um roteirista de ficção científica em um dia ruim. Embora brilhante e pioneira, a série era também completamente desvairada.</p><h2>Os Episódios Mais Insanos de Star Trek TOS</h2><p>Além do estranho e do cafona, alguns episódios de TOS cruzam a linha para o inaceitável em termos de exibição televisiva. Difícil imaginar como essas delírios escaparam do corte final. Em um espectro de fantástico, tão ruim que é bom, e simplesmente medíocre, aqui estão cinco episódios da série original de Gene Roddenberry que parecem alucinações genuínas.</p><h2>5) “Wolf in the Fold”</h2><p>Este episódio da 2ª temporada começa com um close-up de um minuto de uma dançarina exótica e termina com o fantasma de Jack, o Estripador, possuindo o computador da Enterprise e processando pi infinitamente. Scotty se recupera de um ferimento e, segundo McCoy, precisa de \"descanso e relaxamento\". Momentos depois, em um planeta de prazeres, uma mulher é esfaqueada até a morte, e Scotty é encontrado ao lado dela com a faca na mão. A investigação foge do controle com mais mortes, e Spock deduz que o culpado é uma entidade psíquica viajante do tempo que habitou Jack, o Estripador.</p><p>Entre o investigador com voz de Piglet e a abertura sensual com extraterrestres, o episódio é tão absurdo que quase se torna uma paródia. Mas a parte mais selvagem de \"Wolf in the Fold\" é o motivo pelo qual a tripulação da Enterprise está lá. A licença médica de Scotty é devido a um ferimento na cabeça causado por uma tripulante, e McCoy, em toda a sua sabedoria, decide que a melhor cura para o ressentimento de Scotty contra as mulheres é mandá-lo para um clube de strip-tease. Após três mulheres, incluindo uma oficial da Frota Estelar, serem brutalmente assassinadas, todos seguem em frente. É impressionante pensar que a série foi ao ar sem um conselheiro a bordo.</p><h2>4) “The Way to Eden”</h2><p>Não dá para falar de <b>Trek</b> desvairado sem mencionar os hippies espaciais. Se você já viu \"The Way to Eden\", basicamente vivenciou a psicodelia dos anos 60. O episódio segue uma tribo de idealistas flower-power que sequestram a Enterprise em sua busca pelo mítico planeta Éden. Eles usam trajes brilhantes e bregas, tocam músicas de alaúde e passam o tempo pregando filosofia anti-establishment para um Capitão Kirk nada entusiasmado. Enquanto isso, Spock se torna o terapeuta não oficial deles, analisando sua rebelião \"ilógica\" enquanto tenta se relacionar com seus ideais.</p><p>Embora possa parecer ridículo hoje, e provavelmente parecia na época, é essencial lembrar o contexto: o episódio foi ao ar em 1969, no auge do movimento da contracultura, e genuinamente tentava dizer algo. Os hippies espaciais não são retratados como bobos; um é médico, outro cientista, e um até foi cadete da Frota Estelar. São pessoas inteligentes, mas perigosamente idealistas, e a série se esforça para mostrar tanto a lógica quanto a loucura em seu pensamento. O final, onde a devoção cega de seu líder leva à destruição, transforma o episódio cafona em um conto de advertência sobre cultos de personalidade — algo tão relevante agora quanto na época.</p><h2>3) “Miri”</h2><p>Descrito como profundamente perturbador, assustador e até \"gorduroso\" pelos fãs, \"Miri\" é um episódio que talvez fosse melhor ter morrido na sala de roteiristas. A tripulação pousa em um planeta que é uma réplica da Terra, onde todos os adultos morreram de uma praga, deixando para trás crianças selvagens de séculos de idade. A tripulação tenta navegar por essa sociedade bizarra de \"Onlies\", mas as coisas dão errado quando Miri, uma garota pré-púbere interpretada por Kim Darby, desenvolve uma paixão pelo Capitão Kirk. A escrita tenta enquadrar como uma adoração inocente, mas espectadores modernos não conseguem deixar de sentir arrepios com Kirk flertando com ela para acalmá-la.</p><p>É, no mínimo, um espetáculo desconfortável, e é francamente desconcertante que o episódio tenha sido feito. A premissa, um planeta de crianças eternas, poderia ter sido um padrão de <b>Trek</b>, mas os estranhos tons românticos e o comportamento borderline de grooming o empurraram para o território do constrangimento, pelo menos pelos padrões atuais. A cena do \"pancada na cabeça\" é admitidamente engraçada, e alguns fãs defendem o comportamento de Kirk apontando que a garota tinha tecnicamente 300 anos e que ele só estava flertando para saber mais sobre os Onlies. Concordando ou não, é difícil não se maravilhar com a audácia de TOS ter exibido essa história em horário nobre.</p><h2>2) “Plato’s Stepchildren”</h2><p>\"Plato's Stepchildren\" é simultaneamente um dos episódios mais ridículos e perturbadores de TOS. A tripulação da Enterprise encontra alienígenas que idolatram Platão, concedendo-lhes poderes divinos e um instinto sádico. A tripulação é forçada a situações humilhantes, incluindo Kirk sendo obrigado a se comportar como um cavalo, enquanto Uhura e Chapel navegam pelos caprichos perversos de seus captores. A sociedade alienígena está repleta de questões éticas que provocariam controvérsia imediata hoje: práticas de eugenia, um anão em servidão e a infame cena de chicotadas. No entanto, a coisa mais controversa na época foi o beijo interracial do episódio, que enfrentou resistência de afiliados da rede no sul.</p><p>Apesar de toda a controvérsia, o episódio funciona de sua própria maneira distorcida. A performance exagerada de Shatner é perfeita para capturar a humilhação pelos Platonianos. Muitos fãs consideram Alexander um dos melhores personagens coadjuvantes de TOS. Embora o público moderno possa ter dificuldades com alguns elementos, o episódio explora de forma inteligente temas de poder, consentimento e dignidade. Talvez sua premissa seja um pouco demais do tipo Ancient Aliens, e talvez seja progressista e problemático, mas desafia os espectadores a confrontar uma verdade desconfortável, alinhando-se com a visão de Roddenberry para Trek.</p><h2>1) “Spock’s Brain”</h2><p>Há o high camp, e depois há \"Spock's Brain\". Neste abridor da 3ª temporada, o mainframe central de uma civilização alienígena falha, então eles roubam o cérebro de Spock para substituí-lo. Enquanto isso, o corpo de Spock é deixado na Enterprise, sem vida, enquanto o Dr. McCoy tenta freneticamente usar uma máquina alienígena de aprendizado rápido para dominar a cirurgia necessária para reconectá-lo. Apenas que o dispositivo não foi projetado para humanos, então McCoy esquece a maior parte do que aprendeu no meio da operação.</p><p>Dada a qualidade da maioria da escrita de TV hoje, é quase inacreditável que \"Spock's Brain\" tenha ido ao ar. O episódio bizarro é tão pateticamente adorável que quase exige carinho, apesar de ter sido apelidado de \"peru\" da temporada pelo próprio Leonard Nimoy. Embora a reação inicial ao episódio tenha sido de decepção, o roubo insano de cérebro se tornou um favorito cult entre os fãs e é agora considerado o episódio número um do tipo tão ruim que é bom. \"Aqueles que levaram o cérebro de Spock, Doutor\" e \"Cérebro e cérebro; o que é cérebro?\" ainda são algumas das frases mais citadas de toda a franquia de ficção científica. Por que e como ele obteve o sinal verde continua sendo um mistério, mas, sem dúvida, estamos gratos por isso.</p>",
+      "meta_description": "Relembre os 5 episódios mais bizarros e inesquecíveis de Star Trek: The Original Series (TOS), que desafiaram a lógica e a censura da época.",
+      "focus_keyphrase": "Star Trek TOS episódios bizarros",
+      "related_keyphrases": [
+        "Star Trek Original Series",
+        "Episódios clássicos Star Trek",
+        "Gene Roddenberry"
+      ],
+      "slug": "star-trek-tos-episodios-bizarras",
+      "categorias": [
+        {
+          "nome": "Star Trek: The Original Series",
+          "grupo": "obras",
+          "evidence": "Star Trek: The Original Series is a straight-up fever dream."
+        },
+        {
+          "nome": "Gene Roddenberry",
+          "grupo": "pessoas",
+          "evidence": "Gene Roddenberry’s The Original Series"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Trek TOS",
+        "Star Trek Original Series",
+        "Spock",
+        "Capitão Kirk",
+        "Episódios clássicos",
+        "Ficção Científica",
+        "Séries Antigas"
+      ],
+      "image_alt_texts": {
+        "e-l-e-c-t-r-o-n-i-c-a-r-t-s.png": "Ilustração abstrata representando tecnologia e ficção científica, associada a Star Trek.",
+        "f-i-n-a-l-f-a-s-y.png": "Arte conceitual de Final Fantasy, mostrando personagens em um mundo de fantasia.",
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h-2_47f680.png": "Imagem relacionada ao console Nintendo Switch, possivelmente um jogo.",
+        "Xbox-Gamescom-1.jpg": "Logo da Xbox ou imagem promocional de um evento como a Gamescom.",
+        "2-k-g-a-m-e-s.png": "Imagem genérica sobre jogos de videogame, possivelmente 2K Games.",
+        "Rey-training-with-Leia-in-Star-Wars-The-Rise-of-Skywalker.jpg": "Rey treinando com Leia em Star Wars: A Ascensão Skywalker.",
+        "Star-Trek-TOS-Miri.jpg": "Cena do episódio 'Miri' de Star Trek: The Original Series.",
+        "Star-Trek-TOS-Platos-Stepchildren.jpg": "Cena do episódio 'Plato's Stepchildren' de Star Trek: The Original Series.",
+        "Star-Trek-TOS-Spocks-Brain.jpg": "Cena do episódio 'Spock's Brain' de Star Trek: The Original Series.",
+        "Star-Trek-TOS-Way-to-Eden.jpg": "Cena do episódio 'The Way to Eden' de Star Trek: The Original Series.",
+        "Star-Trek-TOS-Wolf-in-the-Fold.jpg": "Cena do episódio 'Wolf in the Fold' de Star Trek: The Original Series.",
+        "saved-by-the-bell-cast.jpg": "Elenco da série de TV 'Saved by the Bell'.",
+        "w-o-l-f-e-n-s-t-e-i-n.png": "Imagem promocional do jogo Wolfenstein."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Trek TOS: 5 Episódios Mais Bizarras e Inesquecíveis",
+        "_yoast_wpseo_metadesc": "Relembre os 5 episódios mais bizarros e inesquecíveis de Star Trek: The Original Series (TOS), que desafiaram a lógica e a censura da época.",
+        "_yoast_wpseo_focuskw": "Star Trek TOS episódios bizarros",
+        "_yoast_news_keywords": "Star Trek TOS, Star Trek Original Series, Episódios clássicos, Spock, Capitão Kirk, Ficção Científica",
+        "_yoast_wpseo_opengraph-title": "Star Trek TOS: 5 Episódios Mais Bizarras e Inesquecíveis",
+        "_yoast_wpseo_opengraph-description": "Relembre os 5 episódios mais bizarros e inesquecíveis de Star Trek: The Original Series (TOS), que desafiaram a lógica e a censura da época.",
+        "_yoast_wpseo_twitter-title": "Star Trek TOS: 5 Episódios Mais Bizarras e Inesquecíveis",
+        "_yoast_wpseo_twitter-description": "Relembre os 5 episódios mais bizarros e inesquecíveis de Star Trek: The Original Series (TOS), que desafiaram a lógica e a censura da época."
+      }
+    }
+  ]
+}

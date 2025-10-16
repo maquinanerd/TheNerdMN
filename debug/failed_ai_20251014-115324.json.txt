@@ -1,0 +1,121 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Millie Bobby Brown estrela nova série de ficção científica com diretores do MCU",
+      "conteudo_final": "<p>Millie Bobby Brown, conhecida por sua interpretação de Eleven em <i>Stranger Things</i>, está prestes a estrelar uma nova série de ficção científica chamada <b>Prism</b>, em desenvolvimento pela Netflix. A atriz também atuará como produtora executiva do projeto. A novidade surge enquanto a quinta e última temporada de <i>Stranger Things</i> se aproxima de sua estreia.</p><h2>Prism: Uma Nova Aventura de Ficção Científica</h2><p>Em <b>Prism</b>, Brown dará vida a Cassie, uma mulher com a habilidade única de se comunicar com aparições. Sua missão será descobrir a causa de um fenômeno mundial que faz com que “visitantes” (fantasmas) surjam em todos os lugares, antes que seja tarde demais. O projeto conta com a participação dos diretores <b>Anthony e Joe Russo</b>, conhecidos por seus trabalhos no Universo Cinematográfico Marvel (MCU), como produtores executivos através de sua empresa AGBO.</p><p>Este não é o primeiro trabalho de Brown com os irmãos Russo; eles também colaboraram no filme de ficção científica da Netflix, <i>The Electric State</i>, lançado anteriormente este ano. Etan Frankel, de <i>Shameless</i>, será o showrunner da série, baseada em um conto homônimo de Nick Shafir.</p><h2>Millie Bobby Brown e a Netflix: Uma Parceria Duradoura</h2><p>A nova série reforça a longa parceria de Millie Bobby Brown com a Netflix, que começou em 2016 com o lançamento de <i>Stranger Things</i>. Desde então, a atriz estrelou diversos títulos de sucesso na plataforma, como <i>Enola Holmes</i> (e sua sequência), <i>Damsel</i> e <i>The Electric State</i>. Ela ainda tem dois projetos futuros previstos na gigante do streaming: <i>Enola Holmes 3</i>, em pós-produção, e a comédia romântica <i>Just Picture It</i>.</p><p>Se <b>Prism</b> for oficialmente encomendada como série, marcará um dos primeiros trabalhos de Brown após o término de <i>Stranger Things</i>, uma das séries mais bem-sucedidas da Netflix, responsável por lançar as carreiras de jovens talentos como Finn Wolfhard, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp e Sadie Sink.</p><h2>Expectativas para Prism e o Futuro de Brown</h2><p>Ainda não há uma data de estreia definida para <b>Prism</b>, e a produção aguarda uma ordem oficial de série pela Netflix. A escalação de elenco adicional para a série também não foi divulgada. Enquanto isso, a temporada final de <i>Stranger Things</i> tem lançamento agendado para novembro e dezembro deste ano, dividida em três partes.</p>",
+      "meta_description": "Millie Bobby Brown estrelará e produzirá a nova série de ficção científica Prism na Netflix, reunindo-a com diretores do MCU.",
+      "focus_keyphrase": "Millie Bobby Brown Prism Netflix",
+      "related_keyphrases": [
+        "Millie Bobby Brown nova série",
+        "Stranger Things elenco",
+        "diretores do MCU"
+      ],
+      "slug": "millie-bobby-brown-prism-netflix",
+      "categorias": [
+        {
+          "nome": "Prism",
+          "grupo": "obras",
+          "evidence": "Prism, a new series currently in development at Netflix"
+        },
+        {
+          "nome": "Stranger Things",
+          "grupo": "obras",
+          "evidence": "Stranger Things’ fifth and final season"
+        },
+        {
+          "nome": "Millie Bobby Brown",
+          "grupo": "franquias",
+          "evidence": "Millie Bobby Brown won’t disappear from TV screens anytime soon."
+        }
+      ],
+      "tags_sugeridas": [
+        "Millie Bobby Brown",
+        "Prism",
+        "Netflix",
+        "Russo Brothers",
+        "Stranger Things",
+        "Ficção Científica",
+        "MCU"
+      ],
+      "image_alt_texts": {
+        "e-l-e-c-t-r-o-n-i-c-a-r-t-s.png": "Millie Bobby Brown em nova série da Netflix.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Millie Bobby Brown e Russo Brothers em novo projeto.",
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h-2_47f680.png": "Atriz Millie Bobby Brown confirmada em Prism.",
+        "Xbox-Gamescom-1.jpg": "Netflix anuncia nova série com Millie Bobby Brown.",
+        "2-k-g-a-m-e-s.png": "Millie Bobby Brown trabalhará com diretores do MCU em Prism.",
+        "Rey-training-with-Leia-in-Star-Wars-The-Rise-of-Skywalker.jpg": "Millie Bobby Brown em \"Prism\", nova série da Netflix.",
+        "saved-by-the-bell-cast.jpg": "Netflix e Millie Bobby Brown se unem para nova série.",
+        "w-o-l-f-e-n-s-t-e-i-n.png": "Atriz Millie Bobby Brown em projeto pós-Stranger Things."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Millie Bobby Brown estrela nova série de ficção científica com diretores do MCU",
+        "_yoast_wpseo_metadesc": "Millie Bobby Brown estrelará e produzirá a nova série de ficção científica Prism na Netflix, reunindo-a com diretores do MCU.",
+        "_yoast_wpseo_focuskw": "Millie Bobby Brown Prism Netflix",
+        "_yoast_news_keywords": "Millie Bobby Brown, Prism, Netflix, Russo Brothers, Stranger Things, Ficção Científica, MCU",
+        "_yoast_wpseo_opengraph-title": "Millie Bobby Brown estrela nova série de ficção científica com diretores do MCU",
+        "_yoast_wpseo_opengraph-description": "Millie Bobby Brown estrelará e produzirá a nova série de ficção científica Prism na Netflix, reunindo-a com diretores do MCU.",
+        "_yoast_wpseo_twitter-title": "Millie Bobby Brown estrela nova série de ficção científica com diretores do MCU",
+        "_yoast_wpseo_twitter-description": "Millie Bobby Brown estrelará e produzirá a nova série de ficção científica Prism na Netflix, reunindo-a com diretores do MCU."
+      }
+    },
+    {
+      "titulo_final": "James Gunn responde críticas sobre o final de Pacificador 2",
+      "conteudo_final": "<p>James Gunn, criador do <b>Universo DC (DCU)</b>, abordou as reações negativas ao final da segunda temporada de <i>Pacificador</i>, intitulado \"Full Nelson\". Após o lançamento da série animada <i>Creature Commandos</i>, que inaugurou o novo cânone do DCU, e a recepção positiva de <i>Superman</i>, <i>Pacificador</i> enfrentou opiniões divididas à medida que a temporada avançava. O episódio final, em particular, gerou controvérsia entre os fãs.</p><h2>Reação de Gunn às Críticas</h2><p>Em resposta a um fã na plataforma Threads, Gunn confirmou estar ciente das críticas sobre \"Full Nelson\". \"Definitivamente! Nem todo mundo pode amar tudo\", escreveu o diretor. \"Eu amo o episódio, mas entendo que nem todo mundo gosta, o que é completamente justo.\" A declaração reflete uma aceitação da diversidade de opiniões, mesmo reconhecendo que o episódio pode não ter agradado a todos.</p><h2>Expectativas Futuras para o DCU</h2><p>A principal crítica ao episódio final de <i>Pacificador</i> é o foco excessivo em preparar o terreno para futuros projetos do DCU, como <i>Salvation</i>, em detrimento da conclusão do arco dos 11th Street Kids. Fãs expressaram insatisfação com o abandono do conflito da Terra-X sem uma resolução clara e com o aparente apressamento de momentos emocionais para estabelecer a agência Checkmate. Essa abordagem gerou um sentimento de que o final de <i>Pacificador</i> pode ter sido o primeiro deslize significativo do DCU em termos de consenso geral.</p><p>No entanto, \"Full Nelson\" não é considerado um fracasso total. Embora não haja planos para uma terceira temporada de <i>Pacificador</i>, a trama de <i>Salvation</i> será um elemento crucial para o futuro do universo, incluindo o próximo filme de Gunn, <i>Man of Tomorrow</i>. A forma como o DCU desenvolverá a história de <i>Salvation</i> nos próximos anos será determinante para reavaliar a recepção do final da segunda temporada de <i>Pacificador</i>. Se <i>Salvation</i> ressoar com o público e entregar um espetáculo envolvente, o episódio final pode ser visto de forma mais positiva, reconhecendo seu papel na introdução do arco definidor do DCU.</p><p>As respostas mistas ao final de <i>Pacificador</i> ilustram o delicado equilíbrio que os universos compartilhados exigem. A DC Studios busca que cada filme e série se sustentem individualmente, permitindo que o público acompanhe sem grande esforço, mas ainda assim constrói um objetivo final para a franquia. Se <i>Salvation</i> será um elemento recorrente, os projetos precisam trabalhar em conjunto para desenvolvê-lo. Gunn se referiu a <i>Salvation</i> como parte de \"uma história maior sendo contada\", indicando que essas conexões narrativas são esperadas.</p><p>A esperança é que o tempo seja gentil com o final de <i>Pacificador</i>. Projetos futuros do DCU podem mudar a percepção pública, e uma nova visualização, com o conhecimento do que esperar, pode levar os fãs a reconsiderarem os méritos do episódio. A grande antecipação em torno de \"Full Nelson\", especialmente após Gunn sugerir sua importância para <i>Man of Tomorrow</i>, gerou muitas teorias que não se concretizaram. Talvez, em uma nova exibição, o público seja mais receptivo.</p>",
+      "meta_description": "James Gunn comenta as críticas ao final de Pacificador 2, reconhecendo a divisão de opiniões e o foco em futuros projetos do DCU como Salvation.",
+      "focus_keyphrase": "James Gunn Pacificador final",
+      "related_keyphrases": [
+        "Críticas Pacificador 2",
+        "James Gunn DCU",
+        "Salvation DCU"
+      ],
+      "slug": "james-gunn-pacificador-final-criticas",
+      "categorias": [
+        {
+          "nome": "Pacificador",
+          "grupo": "obras",
+          "evidence": "Pacificador Season 2"
+        },
+        {
+          "nome": "DCU",
+          "grupo": "franquias",
+          "evidence": "new DC Universe canon"
+        },
+        {
+          "nome": "James Gunn",
+          "grupo": "franquias",
+          "evidence": "James Gunn Addresses Peacemaker Season 2 Finale Backlash"
+        }
+      ],
+      "tags_sugeridas": [
+        "James Gunn",
+        "Pacificador",
+        "DCU",
+        "Salvation",
+        "DC Studios",
+        "Críticas",
+        "Superman"
+      ],
+      "image_alt_texts": {
+        "e-l-e-c-t-r-o-n-i-c-a-r-t-s.png": "James Gunn comenta final de Pacificador.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Críticas ao final da 2ª temporada de Pacificador.",
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h-2_47f680.png": "James Gunn responde sobre Pacificador.",
+        "Xbox-Gamescom-1.jpg": "Final de Pacificador 2 gera controvérsia.",
+        "2-k-g-a-m-e-s.png": "DCU: James Gunn aborda reações ao fim de Pacificador.",
+        "John-Cena-in-Peacemaker-Season-2.jpg": "James Gunn fala sobre as críticas ao final de Pacificador.",
+        "Rey-training-with-Leia-in-Star-Wars-The-Rise-of-Skywalker.jpg": "James Gunn e o futuro do DCU após Pacificador.",
+        "saved-by-the-bell-cast.jpg": "Pacificador: James Gunn reage a comentários sobre o final.",
+        "w-o-l-f-e-n-s-t-e-i-n.png": "James Gunn comenta o final de Pacificador 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "James Gunn responde críticas sobre o final de Pacificador 2",
+        "_yoast_wpseo_metadesc": "James Gunn comenta as críticas ao final de Pacificador 2, reconhecendo a divisão de opiniões e o foco em futuros projetos do DCU como Salvation.",
+        "_yoast_wpseo_focuskw": "James Gunn Pacificador final",
+        "_yoast_news_keywords": "James Gunn, Pacificador, DCU, Salvation, DC Studios, Críticas, Superman",
+        "_yoast_wpseo_opengraph-title": "James Gunn responde críticas sobre o final de Pacificador 2",
+        "_yoast_wpseo_opengraph-description": "James Gunn comenta as críticas ao final de Pacificador 2, reconhecendo a divisão de opiniões e o foco em futuros projetos do DCU como Salvation.",
+        "_yoast_wpseo_twitter-title": "James Gunn responde críticas sobre o final de Pacificador 2",
+        "_yoast_wpseo_twitter-description": "James Gunn comenta as críticas ao final de Pacificador 2, reconhecendo a divisão de opiniões e o foco em futuros projetos do DCU como Salvation."
+      }
+    }
+  ]
+}

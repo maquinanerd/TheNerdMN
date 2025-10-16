@@ -1,0 +1,110 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Série da HBO Task: Episódio final muda premissa do confronto",
+      "conteudo_final": "<p>A série de drama policial da HBO, <strong><em>Task</em></strong>, que apostou em uma dinâmica de gato e rato entre o agente Tom (Mark Ruffalo) e o investigado Robbie (Tom Pelphrey) durante a maior parte de sua exibição, apresentará uma nova reviravolta em sua premissa para o episódio final.</p>\n\n<h2>A Mudança de Foco em Task</h2>\n<p>Inicialmente, a trama girava em torno da caçada de Tom a Robbie, suspeito de uma série de assaltos e homicídios ligados à gangue Dark Hearts. No entanto, o sexto episódio da série abalou essa estrutura com a morte de Robbie e Lizzie durante um confronto com a polícia. Com o fim trágico de Robbie, a premissa original de <em>Task</em>, que opunha Tom e Robbie legalmente, chega ao fim.</p>\n\n<h2>Anthony Grasso Assume o Papel de Antagonista</h2>\n<p>O desfecho da série agora foca em Anthony Grasso (Fabien Frankel), um ex-aliado de Tom que se revela como o verdadeiro culpado por vazar informações para a gangue Dark Hearts. Tom descobre que Grasso estava passando informações para a organização criminosa por anos, e o confronto iminente promete ser o novo duelo central da série. A questão que fica é como Tom conseguirá reunir provas concretas contra Grasso, que parece estar um passo à frente.</p>\n\n<h2>Possíveis Reviravoltas no Final</h2>\n<p>A tensão aumenta à medida que Grasso, ciente de que Tom está em seu encalço, provoca o agente. A série sugere que as fraquezas de Grasso, como seu remorso pela morte de Lizzie, podem ser a chave para sua captura. Outras possibilidades incluem a intervenção de Maeve, que herdou o dinheiro de Robbie e pode atrair a atenção dos Dark Hearts, ou um sacrifício de Grasso para proteger Maeve e Tom, expondo a todos.</p>\n\n<p>O final de <em>Task</em> promete manter os espectadores na beira do assento, com a série redefinindo sua própria premissa para entregar um desfecho impactante.</p>",
+      "meta_description": "O episódio final de Task na HBO trará uma nova dinâmica com a substituição de Robbie por Grasso na caçada de Tom, mudando o foco da trama.",
+      "focus_keyphrase": "Task série HBO final episódio",
+      "related_keyphrases": [
+        "Task série enredo",
+        "Mark Ruffalo série HBO",
+        "Task episódio final Grasso"
+      ],
+      "slug": "task-serie-hbo-final-episodio",
+      "categorias": [
+        {
+          "nome": "Task",
+          "grupo": "obras",
+          "evidence": "HBO’s Task"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "editorias",
+          "evidence": "HBO’s Task"
+        }
+      ],
+      "tags_sugeridas": [
+        "Task",
+        "HBO",
+        "Mark Ruffalo",
+        "Fabien Frankel",
+        "Séries de Drama"
+      ],
+      "image_alt_texts": {
+        "fabien-frankel-in-task.jpg": "Fabien Frankel como Anthony Grasso na série Task da HBO.",
+        "mark-ruffalo-looking-suspicious-in-task.jpg": "Mark Ruffalo como o agente Tom em uma cena de suspense na série Task da HBO.",
+        "lizzie-and-grasso-in-task.jpg": "Lizzie e Grasso em uma cena tensa da série Task da HBO.",
+        "aleah-grasso-lizzie-and-tom-in-task.jpg": "Aleah, Grasso, Lizzie e Tom em cenas da série Task da HBO.",
+        "fabien-frankel-as-anthony-grasso-in-task.jpg": "Fabien Frankel em seu papel como Anthony Grasso na série Task da HBO.",
+        "task_d6vkgh-1.jpg": "Mark Ruffalo como Tom Brandis na série Task da HBO, com um walkie-talkie.",
+        "eryn-and-perry-at-the-quarry-in-task-episode-5.jpg": "Eryn e Perry em uma cena na pedreira da série Task, episódio 5.",
+        "emilia-jones-as-maeve-at-the-police-station-in-task-episode-5.jpg": "Emilia Jones como Maeve na delegacia na série Task, episódio 5.",
+        "jayson-hugging-eryn-from-behind-in-task.jpg": "Jayson abraçando Eryn por trás na série Task.",
+        "alison-oliver-in-task-episode-2.jpg": "Alison Oliver em uma cena da série Task, episódio 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Task: Episódio final da série da HBO muda premissa do confronto",
+        "_yoast_wpseo_metadesc": "A série da HBO Task terá uma reviravolta no episódio final, com Grasso substituindo Robbie no centro da trama de Tom. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Task série HBO final episódio",
+        "_yoast_news_keywords": "Task, HBO, Mark Ruffalo, Fabien Frankel, série de drama policial, suspense",
+        "_yoast_wpseo_opengraph-title": "Task: Episódio final da série da HBO muda premissa do confronto",
+        "_yoast_wpseo_opengraph-description": "A série da HBO Task terá uma reviravolta no episódio final, com Grasso substituindo Robbie no centro da trama de Tom. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Task: Episódio final da série da HBO muda premissa do confronto",
+        "_yoast_wpseo_twitter-description": "A série da HBO Task terá uma reviravolta no episódio final, com Grasso substituindo Robbie no centro da trama de Tom. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Stranger Things 5: Criadores desmentem boatos sobre duração dos episódios",
+      "conteudo_final": "<p>A quinta e última temporada de <strong><em>Stranger Things</em></strong> está se aproximando de sua estreia, prometendo um desfecho épico para a saga iniciada em 2016. Rumores recentes indicavam que os episódios teriam entre 90 e 120 minutos de duração, o que gerou preocupação entre os fãs devido à longa duração de alguns capítulos da temporada anterior.</p>\n\n<h2>Duração Real dos Episódios Revelada</h2>\n<p>Para acalmar os ânimos, Ross Duffer, um dos criadores da série, compartilhou em suas redes sociais as durações oficiais dos quatro primeiros episódios do volume inicial, que será lançado em 26 de novembro. Os tempos são os seguintes:</p>\n<ul>\n<li>“Capítulo Um: The Crawl” – 68 minutos</li>\n<li>“Capítulo Dois: The Vanishing of…” – 54 minutos</li>\n<li>“Capítulo Três: The Turnbow Trap” – 66 minutos</li>\n<li>“Capítulo Quatro: Sorcerer” – 83 minutos</li>\n</ul>\n\n<h2>Por que Episódios Mais Curtos São Benéficos</h2>\n<p>Embora a temporada final de <em>Stranger Things</em> tenha muito a cobrir em termos de arcos de personagens e a conclusão do conflito com o Mundo Invertido, a perspectiva de episódios com duas horas de duração era preocupante. As durações reveladas para o primeiro volume são mais gerenciáveis, especialmente considerando o lançamento em um período de festas de fim de ano, quando os espectadores podem ter menos tempo para maratonar episódios longos.</p>\n\n<p>Essa decisão também sugere uma maior concisão na narrativa, reduzindo o risco de conteúdo supérfluo. Episódios mais curtos tendem a ser mais dinâmicos e focados em impulsionar a trama ou desenvolver personagens de forma eficaz. Apenas um dos episódios iniciais se aproxima da marca de 90 minutos, o que indica um ritmo mais equilibrado para o início da temporada.</p>\n\n<h2>Expectativas para o Final da Temporada</h2>\n<p>Ainda não há informações sobre a duração dos episódios da segunda metade da quinta temporada. A série já demonstrou sua capacidade de produzir capítulos longos, como o final da quarta temporada, que teve duas horas e meia. No entanto, a escolha de reservar durações estendidas para os momentos cruciais, como o desfecho da série, pode aumentar o impacto e a sensação de evento especial.</p>\n\n<p>A produção de episódios com cerca de uma hora de duração parece ser um ponto ideal para séries de streaming, oferecendo tempo suficiente para desenvolvimento sem se tornar arrastado. A equipe criativa parece ter encontrado um equilíbrio, com a expectativa de um início de temporada envolvente.</p>",
+      "meta_description": "Os criadores de Stranger Things confirmam as durações reais dos episódios da 5ª temporada, desmentindo boatos de capítulos com mais de 90 minutos.",
+      "focus_keyphrase": "Stranger Things 5 duração episódios",
+      "related_keyphrases": [
+        "Stranger Things temporada final",
+        "Duffer Brothers",
+        "Stranger Things 5 episódios"
+      ],
+      "slug": "stranger-things-5-duracao-episodios",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "obras",
+          "evidence": "Stranger Things"
+        },
+        {
+          "nome": "Séries",
+          "grupo": "editorias",
+          "evidence": "temporada"
+        }
+      ],
+      "tags_sugeridas": [
+        "Stranger Things",
+        "Stranger Things 5",
+        "Netflix",
+        "Duffer Brothers",
+        "Séries de Drama",
+        "Ficção Científica"
+      ],
+      "image_alt_texts": {
+        "2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png": "Pôster promocional da série Stranger Things.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Imagem promocional com temática de fantasia.",
+        "Steve-Dustin-Robin-Max-and-Lucas-in-the-Creel-house-in-Stranger-Things-season-4.jpg": "Personagens de Stranger Things em cena da quarta temporada.",
+        "Xbox-Gamescom-1.jpg": "Logo da Xbox.",
+        "2-k-g-a-m-e-s.png": "Imagem com elementos de games.",
+        "Rey-training-with-Leia-in-Star-Wars-The-Rise-of-Skywalker.jpg": "Rey treinando com Leia em Star Wars: A Ascensão Skywalker.",
+        "blue-steel-congo.jpg": "Imagem genérica.",
+        "s-e-g-a.png": "Logo da Sega.",
+        "w-o-l-f-e-n-s-t-e-i-n.png": "Arte conceitual de Wolfenstein."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Stranger Things 5: Duração dos episódios revelada pelos criadores",
+        "_yoast_wpseo_metadesc": "Criadores de Stranger Things desmentem boatos e revelam a duração real dos primeiros episódios da 5ª temporada. Confira!",
+        "_yoast_wpseo_focuskw": "Stranger Things 5 duração episódios",
+        "_yoast_news_keywords": "Stranger Things, Stranger Things 5, Netflix, Duffer Brothers, Duração episódios",
+        "_yoast_wpseo_opengraph-title": "Stranger Things 5: Duração dos episódios revelada pelos criadores",
+        "_yoast_wpseo_opengraph-description": "Criadores de Stranger Things desmentem boatos e revelam a duração real dos primeiros episódios da 5ª temporada. Confira!",
+        "_yoast_wpseo_twitter-title": "Stranger Things 5: Duração dos episódios revelada pelos criadores",
+        "_yoast_wpseo_twitter-description": "Criadores de Stranger Things desmentem boatos e revelam a duração real dos primeiros episódios da 5ª temporada. Confira!"
+      }
+    }
+  ]
+}

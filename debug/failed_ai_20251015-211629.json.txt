@@ -1,0 +1,51 @@
+{
+  "titulo_final": "From Dusk Till Dawn: Sucesso no Streaming Antes de Deixar a Tubi",
+  "conteudo_final": "<p>Recentemente, <b>George Clooney</b> reagiu a uma sugestão de <b>Quentin Tarantino</b> de que ele não seria uma estrela de cinema. Os dois trabalharam juntos no clássico cult de vampiros de <b>Robert Rodriguez</b>, <i><b>From Dusk Till Dawn</b></i>, lançado em 1996. Considerado um precursor do aclamado filme <i><b>Sinners</b></i> deste ano, <i>From Dusk Till Dawn</i> viu um aumento de interesse no streaming, alcançando o top 10 na plataforma gratuita Tubi.</p><h2>Sucesso Inesperado na Tubi</h2><p>Segundo o FlixPatrol, <i>From Dusk Till Dawn</i> foi o nono título mais assistido na Tubi em 13 de outubro, superando o filme de <b>Gerard Butler</b>, <i><b>Olympus Has Fallen</b></i>. <i>The Mummy</i>, estrelado por <b>Brendan Fraser</b>, liderou o ranking da Tubi. O filme acompanha dois irmãos bandidos que buscam refúgio em um bar, onde descobrem que ele é habitado por vampiros. O filme <i>Sinners</i>, dirigido por <b>Ryan Coogler</b>, também apresentou um confronto envolvendo vampiros em um bar e foi muito bem recebido pela crítica, sendo um forte candidato ao Oscar. Embora também tenha sido bem recebido, <i>From Dusk Till Dawn</i> não alcançou o mesmo sucesso comercial, mas emergiu como um clássico cult nas últimas três décadas.</p><p>O filme detém uma pontuação de 63% no agregador Rotten Tomatoes, com o consenso da crítica descrevendo-o como “Uma mistura de drama policial pulp e filme de vampiro, <i>From Dusk Till Dawn</i> é um B-movie irregular, mas frequentemente deliciosamente divertido”. Estrelado também por <b>Harvey Keitel</b> e <b>Juliette Lewis</b>, o filme foi um modesto sucesso de bilheteria, arrecadando US$ 60 milhões mundialmente contra um orçamento reportado de cerca de US$ 20 milhões.</p><h2>A \"briga\" entre Tarantino e Clooney</h2><p>A tensão entre Tarantino e Clooney ocorreu no ano passado, quando Clooney promovia o filme da Apple, <i>Wolfs</i>. Em resposta aos comentários de Tarantino sobre ele não ser uma estrela, Clooney disse à GQ: \"Ele deu uma entrevista onde estava nomeando estrelas de cinema, e estava falando sobre [Brad], e outro cara, e então esse cara diz, 'Bem, e o George?' Ele disse, ele não é uma estrela de cinema. E então ele disse literalmente algo como: 'Me cite um filme desde o milênio.' E eu pensei, 'Desde o milênio? Essa é praticamente toda a minha carreira.'" Você pode assistir à química na tela entre Tarantino e Clooney em <i>From Dusk Till Dawn</i> em casa antes que ele deixe a Tubi em novembro. Fique ligado para mais atualizações.</p>",
+  "meta_description": "Apesar de uma \"briga\" pública entre seus astros, From Dusk Till Dawn volta a ganhar destaque no streaming Tubi antes de sair em novembro.",
+  "focus_keyphrase": "From Dusk Till Dawn",
+  "related_keyphrases": [
+    "George Clooney Quentin Tarantino",
+    "Filme de vampiro cult",
+    "Tubi streaming"
+  ],
+  "slug": "from-dusk-till-dawn-streaming-sucesso",
+  "categorias": [
+    {
+      "nome": "From Dusk Till Dawn",
+      "grupo": "obras",
+      "evidence": "From Dusk Till Dawn, which was released in 1996."
+    },
+    {
+      "nome": "Sinners",
+      "grupo": "obras",
+      "evidence": "this year’s critically acclaimed hit <a href=\"https://collider.com/tag/movie/sinners-2025/\">Sinners</a>"
+    },
+    {
+      "nome": "Tubi",
+      "grupo": "plataformas",
+      "evidence": "landing a top 10 spot on the free Tubi platform."
+    }
+  ],
+  "tags_sugeridas": [
+    "From Dusk Till Dawn",
+    "George Clooney",
+    "Quentin Tarantino",
+    "Robert Rodriguez",
+    "Filme cult",
+    "Vampiros",
+    "Tubi"
+  ],
+  "image_alt_texts": {
+    "from-dusk-till-dawn-movie-poster.jpg": "Pôster do filme de vampiro cult 'From Dusk Till Dawn', com George Clooney e Quentin Tarantino."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "From Dusk Till Dawn: Sucesso no Streaming Antes de Deixar a Tubi | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Apesar de uma \"briga\" pública entre seus astros, From Dusk Till Dawn volta a ganhar destaque no streaming Tubi antes de sair em novembro.",
+    "_yoast_wpseo_focuskw": "From Dusk Till Dawn",
+    "_yoast_news_keywords": "From Dusk Till Dawn, George Clooney, Quentin Tarantino, Robert Rodriguez, Vampiros, Tubi",
+    "_yoast_wpseo_opengraph-title": "From Dusk Till Dawn: Sucesso no Streaming Antes de Deixar a Tubi",
+    "_yoast_wpseo_opengraph-description": "Apesar de uma \"briga\" pública entre seus astros, From Dusk Till Dawn volta a ganhar destaque no streaming Tubi antes de sair em novembro.",
+    "_yoast_wpseo_twitter-title": "From Dusk Till Dawn: Sucesso no Streaming Antes de Deixar a Tubi",
+    "_yoast_wpseo_twitter-description": "Apesar de uma \"briga\" pública entre seus astros, From Dusk Till Dawn volta a ganhar destaque no streaming Tubi antes de sair em novembro."
+  }
+}

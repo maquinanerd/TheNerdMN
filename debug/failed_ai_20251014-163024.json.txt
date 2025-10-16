@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Vision Quest: Paul Bettany revela detalhes sobre psiquiatra em série do Visão Branco",
+  "conteudo_final": "<p>Paul Bettany, estrela de <b>Vision Quest</b>, revelou o que o atraiu para a série e o que os fãs podem esperar quando ela estrear no Disney+ no próximo ano. O programa ganhou destaque durante a <a href=\"https://www.maquinanerd.com.br/tag/new-york-comic-con\">New York Comic-Con</a> em um painel da Marvel para promover sua programação futura. Detalhes sobre a série foram divulgados, incluindo a aparição de DUM-E e U, robôs do <b>Homem de Ferro</b>, no programa.</p><h2>Psicopata dentro da mente do Visão Branco</h2><p>Em entrevista, Paul Bettany deu detalhes sobre a dinâmica do Visão Branco com outras inteligências artificiais (AIs) confirmadas na série. Ele explicou que os espectadores terão a chance de ver o que acontece dentro da mente do Visão. \"Ele está claramente salvando e copiando e colando essas memórias para mantê-las vivas dentro de sua cabeça\", disse Bettany. Uma dessas AIs requer uma \"firewall bastante impressionante\" por ser um psicopata, mas um \"clever one\" (inteligente).</p><p>O \"psicopata\" mencionado por Bettany é, quase certamente, o vilão <b>Ultron</b>, interpretado por James Spader, que está confirmado para retornar. A declaração do ator sugere como o perigoso inimigo voltará na nova série, ambientada após os eventos de <b>WandaVision</b>.</p><blockquote><p>\"Terry teve um ótimo plano para... ele está lutando. Visão Branco está realmente lutando para conectar sentimentos a essas memórias. Terry teve uma boa ideia visual de como fazer isso.\""</p></blockquote><h2>Quem mais estrela em 'Vision Quest'?</h2><p>Além de Paul Bettany, James Spader retorna como Ultron, seu icônico vilão de <b>Vingadores: Era de Ultron</b>. Emily Hampshire interpretará E.D.I.T.H. (Even Dead I’m the Hero), e T’Nia Miller será Jocasta. Nos quadrinhos da Marvel, Jocasta foi uma IA criada por Ultron para ser sua esposa, mas ela o deixa e se junta aos Vingadores.</p><p>Todd Stashwick também foi escalado como Paladin, descrito como o Boba Fett do Universo Marvel. Faran Tahir, de <b>Homem de Ferro</b>, reprisará seu papel como Raza. Terry Matalas, conhecido por seu trabalho em <a href=\"https://www.maquinanerd.com.br/tag/star-trek-picard\">Star Trek: Picard</a>, é o showrunner de Vision Quest, trazendo sua experiência em ficção científica para a série.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/vision-quest-temp-poster.jpg\" alt=\"Poster temporário da série Vision Quest com o Visão Branco em destaque.\"><figcaption>Poster promocional de 'Vision Quest'.</figcaption></figure>",
+  "meta_description": "Paul Bettany, astro de Vision Quest, detalha a mente do Visão Branco e a presença de Ultron e outras IAs na série do Disney+.",
+  "focus_keyphrase": "Vision Quest Paul Bettany Visão Branco",
+  "related_keyphrases": [
+    "série do Visão Branco",
+    "Ultron em Vision Quest",
+    "Disney+ Vision Quest"
+  ],
+  "slug": "vision-quest-paul-bettany-ulтрон",
+  "categorias": [
+    {
+      "nome": "Vision Quest",
+      "grupo": "obras",
+      "evidence": "Vision Quest star Paul Bettany has pulled back the curtain on what drew him to the series"
+    },
+    {
+      "nome": "Visão Branco",
+      "grupo": "personagens",
+      "evidence": "Paul Bettany has pulled back the curtain on what drew him to the series in the first place, and what fans can expect to see when it arrives on Disney+ next year. Vision Quest took the spotlight over the weekend at"
+    },
+    {
+      "nome": "Marvel Cinematic Universe",
+      "grupo": "franquias",
+      "evidence": "Marvel’s panel to promote its upcoming slate of TV shows"
+    }
+  ],
+  "tags_sugeridas": [
+    "Vision Quest",
+    "Paul Bettany",
+    "Visão Branco",
+    "Ultron",
+    "Disney+",
+    "Marvel",
+    "MCU"
+  ],
+  "image_alt_texts": {
+    "vision-quest-temp-poster.jpg": "Poster promocional da série Vision Quest com o Visão Branco em destaque, com texto em português."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Vision Quest: Paul Bettany revela detalhes sobre psiquiatra em série do Visão Branco",
+    "_yoast_wpseo_metadesc": "Paul Bettany, astro de Vision Quest, detalha a mente do Visão Branco e a presença de Ultron e outras IAs na série do Disney+.",
+    "_yoast_wpseo_focuskw": "Vision Quest Paul Bettany Visão Branco",
+    "_yoast_news_keywords": "Vision Quest, Paul Bettany, Visão Branco, Ultron, Disney+, Marvel, MCU",
+    "_yoast_wpseo_opengraph-title": "Vision Quest: Paul Bettany revela detalhes sobre psiquiatra em série do Visão Branco",
+    "_yoast_wpseo_opengraph-description": "Paul Bettany, astro de Vision Quest, detalha a mente do Visão Branco e a presença de Ultron e outras IAs na série do Disney+.",
+    "_yoast_wpseo_twitter-title": "Vision Quest: Paul Bettany revela detalhes sobre psiquiatra em série do Visão Branco",
+    "_yoast_wpseo_twitter-description": "Paul Bettany, astro de Vision Quest, detalha a mente do Visão Branco e a presença de Ultron e outras IAs na série do Disney+."
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Walking Dead: Futuro da franquia pode se estender por mais décadas",
+      "conteudo_final": "<p>Com a franquia <em><strong>The Walking Dead</strong></em> celebrando seu 15º aniversário, a AMC demonstra grande otimismo em relação ao futuro. O episódio piloto, \"Days Gone Bye\", que estreou em 31 de outubro de 2010, marcou o início de um universo televisivo que se expandiu para sete séries individuais, incluindo prequels, sequências e antologias.</p><h2>Expandindo o Universo The Walking Dead</h2><p>Scott Gimple, o principal criador da franquia, comparou a estrutura narrativa de <em>The Walking Dead</em> às de universos de super-heróis, como o Universo Cinematográfico Marvel (MCU). Ele destacou a capacidade de explorar novas direções e desafios para personagens estabelecidos em diferentes cenários, como visto em <em>The Walking Dead: Daryl Dixon</em>, que leva os personagens para novos países como França e Espanha, abrindo um vasto leque de possibilidades para a narrativa.</p><p>A AMC acredita que a saga dos zumbis pode continuar ativa por mais 15 anos, espelhando a longevidade do MCU. Dan McDermott, presidente da AMC Networks, sugeriu durante um painel em Mipcom que a equipe criativa e os atores poderiam estar presentes para celebrar outro marco em uma década e meia.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/norman-reedus-daryl-holding-a-rifle-with-melissa-mcbride-s-carol-in-the-background-in-the-walking-dead-daryl-dixon-seaosn-3.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Norman Reedus como Daryl e Melissa McBride como Carol em The Walking Dead: Daryl Dixon" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/norman-reedus-daryl-holding-a-rifle-with-melissa-mcbride-s-carol-in-the-background-in-the-walking-dead-daryl-dixon-seaosn-3.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Norman Reedus como Daryl e Melissa McBride como Carol em The Walking Dead: Daryl Dixon.</figcaption></figure><h2>Novas Histórias e Possibilidades</h2><p>McDermott também ressaltou o potencial de expansão para outros continentes e a evolução dos personagens ao longo do tempo. Atualmente, a franquia continua a se desdobrar através de séries como <em>Daryl Dixon</em>, renovada para sua quarta e última temporada, e <em>The Walking Dead: Dead City</em>, que retornará para a terceira temporada.</p><p>A possibilidade de um reencontro entre Rick Grimes (Andrew Lincoln) e Daryl Dixon (Norman Reedus) tem sido um tópico de interesse. Embora Reedus tenha indicado que uma reunião não ocorreria em <em>Daryl Dixon</em>, a possibilidade não foi totalmente descartada. Reedus também comentou que a história de Daryl e Carol (Melissa McBride) pode continuar além da série atual, com a quarta temporada concluindo a jornada deles na Espanha.</p><p>O futuro de <em>The Walking Dead</em> promete novas explorações e reviravoltas, mantendo os fãs engajados por muitos anos.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/the-walking-dead-2010-movie-poster.jpg?q=70&amp;fit=contain&amp;w=280&amp;dpr=1" media="(max-width: 1023px)"/><img alt="Poster oficial de The Walking Dead (2010)" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/the-walking-dead-2010-movie-poster.jpg?q=70&amp;fit=contain&amp;w=280&amp;dpr=1"/></picture><figcaption>Poster oficial de The Walking Dead (2010).</figcaption></figure>",
+      "meta_description": "A AMC planeja expandir o universo de The Walking Dead, com planos de novas histórias que podem durar décadas, inspiradas no sucesso do MCU.",
+      "focus_keyphrase": "The Walking Dead futuro",
+      "related_keyphrases": [
+        "expansão The Walking Dead",
+        "novas séries The Walking Dead",
+        "Scott Gimple AMC"
+      ],
+      "slug": "the-walking-dead-futuro-franquia-decadas",
+      "categorias": [
+        {
+          "nome": "The Walking Dead",
+          "grupo": "franquias",
+          "evidence": "The Walking Dead universe now comprises seven individual shows"
+        },
+        {
+          "nome": "AMC",
+          "grupo": "editorias",
+          "evidence": "AMC has high hopes for the franchise's future"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Walking Dead",
+        "AMC",
+        "Scott Gimple",
+        "Daryl Dixon",
+        "Zumbis",
+        "Series de TV"
+      ],
+      "image_alt_texts": {
+        "norman-reedus-daryl-holding-a-rifle-with-melissa-mcbride-s-carol-in-the-background-in-the-walking-dead-daryl-dixon-seaosn-3.jpg": "Norman Reedus como Daryl e Melissa McBride como Carol em The Walking Dead: Daryl Dixon",
+        "the-walking-dead-2010-movie-poster.jpg": "Poster oficial de The Walking Dead (2010)"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Walking Dead: Futuro da franquia pode se estender por décadas",
+        "_yoast_wpseo_metadesc": "A AMC planeja expandir o universo de The Walking Dead, com planos de novas histórias que podem durar décadas, inspiradas no sucesso do MCU.",
+        "_yoast_wpseo_focuskw": "The Walking Dead futuro",
+        "_yoast_news_keywords": "The Walking Dead, AMC, Scott Gimple, Daryl Dixon, Zumbis, Series de TV",
+        "_yoast_wpseo_opengraph-title": "The Walking Dead: Futuro da franquia pode se estender por décadas",
+        "_yoast_wpseo_opengraph-description": "A AMC planeja expandir o universo de The Walking Dead, com planos de novas histórias que podem durar décadas, inspiradas no sucesso do MCU.",
+        "_yoast_wpseo_twitter-title": "The Walking Dead: Futuro da franquia pode se estender por décadas",
+        "_yoast_wpseo_twitter-description": "A AMC planeja expandir o universo de The Walking Dead, com planos de novas histórias que podem durar décadas, inspiradas no sucesso do MCU."
+      }
+    },
+    {
+      "titulo_final": "Splinter Cell: Deathwatch 2? Criador otimista sobre futuro na Netflix",
+      "conteudo_final": "<p>A primeira temporada de <em><strong>Splinter Cell: Deathwatch</strong></em> apresentou um novo capítulo para Sam Fisher, que saiu da aposentadoria para auxiliar Zannia McKenna. Baseado na aclamada série de videogames, o anime adaptou com sucesso o universo de ação e espionagem, incorporando elementos de <em>John Wick</em>, segundo o roteirista Derek Kolstad.</p><h2>Novidades sobre Splinter Cell: Deathwatch Temporada 2</h2><p>Apesar do final instigante da primeira temporada ter deixado a porta aberta para novas aventuras, a Netflix ainda não confirmou oficialmente a produção de uma segunda temporada. A decisão dependerá da recepção do público e dos índices de audiência, que a plataforma analisa antes de tomar uma decisão executiva.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/sam-fisher-aiming-a-gun-while-bleeding-in-splinter-cell-deathwatch.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)"/><img alt="Sam Fisher em ação em Splinter Cell: Deathwatch." src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/sam-fisher-aiming-a-gun-while-bleeding-in-splinter-cell-deathwatch.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/></picture><figcaption>Sam Fisher em ação em Splinter Cell: Deathwatch.</figcaption></figure><h2>Expectativas para o Continente da História</h2><p>Derek Kolstad, criador da série, expressou otimismo sobre a possibilidade de mais episódios. Ele mencionou que, embora uma única temporada fosse satisfatória, ele espera que a qualidade da produção garanta a continuação. Kolstad também indicou ter planos para expandir histórias de personagens como McKenna e Thunder, reforçando seu entusiasmo em entrevistas.</p><p>Se a série for renovada, é provável que Liev Schreiber retorne como a voz de Sam Fisher, figura central da trama. Kirby Howell-Baptiste como McKenna e Joel Oulette como Thunder também são presenças esperadas, assim como Janet Varney como Anna Grimsdottir. Novas ameaças e antagonistas podem surgir, abrindo espaço para novas contratações no elenco.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/diana-shetland-looking-at-something-in-splinter-cell-deathwatch.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)"/><img alt="Diana Shetland em Splinter Cell: Deathwatch." src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/diana-shetland-looking-at-something-in-splinter-cell-deathwatch.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/></picture><figcaption>Diana Shetland em Splinter Cell: Deathwatch.</figcaption></figure><h2>O Futuro da Trama</h2><p>A possível segunda temporada de <em>Splinter Cell: Deathwatch</em> provavelmente dará continuidade aos eventos da primeira, abordando as consequências do atentado que vitimou figuras influentes. A necessidade de enfrentar novas ameaças e a exploração do passado de personagens como McKenna e Thunder abrem caminhos promissores para o desenvolvimento da narrativa. Independentemente da direção, a expectativa é que Sam Fisher continue ativo, desvendando ameaças nas sombras.</p><p>A decisão final sobre a continuação da série cabe à Netflix. O criador da série demonstrou entusiasmo em desenvolver novas histórias para o universo de Splinter Cell.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/mckenna-sam-and-grim-watching-thunder-work-at-a-computer-in-splinter-cell-deathwatch.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="McKenna, Sam e Grim em Splinter Cell: Deathwatch." src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/mckenna-sam-and-grim-watching-thunder-work-at-a-computer-in-splinter-cell-deathwatch.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>McKenna, Sam e Grim em Splinter Cell: Deathwatch.</figcaption></figure>",
+      "meta_description": "A Netflix ainda não confirmou a 2ª temporada de Splinter Cell: Deathwatch, mas o criador Derek Kolstad está otimista sobre novas aventuras de Sam Fisher.",
+      "focus_keyphrase": "Splinter Cell: Deathwatch temporada 2",
+      "related_keyphrases": [
+        "futuro Splinter Cell anime",
+        "Derek Kolstad Netflix",
+        "Sam Fisher série"
+      ],
+      "slug": "splinter-cell-deathwatch-temporada-2-netflix",
+      "categorias": [
+        {
+          "nome": "Splinter Cell: Deathwatch",
+          "grupo": "obras",
+          "evidence": "Splinter Cell: Deathwatch season 1 provided an exciting new chapter"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix hasn't yet confirmed whether season 2 will go ahead"
+        },
+        {
+          "nome": "Anime",
+          "grupo": "editorias",
+          "evidence": "Given that Splinter Cell: Deathwatch's timeline taking place after the games"
+        }
+      ],
+      "tags_sugeridas": [
+        "Splinter Cell: Deathwatch",
+        "Netflix",
+        "Derek Kolstad",
+        "Sam Fisher",
+        "Anime",
+        "Video games"
+      ],
+      "image_alt_texts": {
+        "sam-fisher-aiming-a-gun-while-bleeding-in-splinter-cell-deathwatch.jpg": "Sam Fisher em ação em Splinter Cell: Deathwatch.",
+        "diana-shetland-looking-at-something-in-splinter-cell-deathwatch.jpg": "Diana Shetland em Splinter Cell: Deathwatch.",
+        "mckenna-sam-and-grim-watching-thunder-work-at-a-computer-in-splinter-cell-deathwatch.jpg": "McKenna, Sam e Grim em Splinter Cell: Deathwatch."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Splinter Cell: Deathwatch Temporada 2: Criador Otimista Sobre Futuro na Netflix",
+        "_yoast_wpseo_metadesc": "A Netflix ainda não confirmou a 2ª temporada de Splinter Cell: Deathwatch, mas o criador Derek Kolstad está otimista sobre novas aventuras de Sam Fisher.",
+        "_yoast_wpseo_focuskw": "Splinter Cell: Deathwatch temporada 2",
+        "_yoast_news_keywords": "Splinter Cell: Deathwatch, Netflix, Derek Kolstad, Sam Fisher, Anime, Video games",
+        "_yoast_wpseo_opengraph-title": "Splinter Cell: Deathwatch Temporada 2: Criador Otimista Sobre Futuro na Netflix",
+        "_yoast_wpseo_opengraph-description": "A Netflix ainda não confirmou a 2ª temporada de Splinter Cell: Deathwatch, mas o criador Derek Kolstad está otimista sobre novas aventuras de Sam Fisher.",
+        "_yoast_wpseo_twitter-title": "Splinter Cell: Deathwatch Temporada 2: Criador Otimista Sobre Futuro na Netflix",
+        "_yoast_wpseo_twitter-description": "A Netflix ainda não confirmou a 2ª temporada de Splinter Cell: Deathwatch, mas o criador Derek Kolstad está otimista sobre novas aventuras de Sam Fisher."
+      }
+    },
+    {
+      "titulo_final": "Spider-Man e Venom se encontram em animação da Marvel em 2026",
+      "conteudo_final": "<p>Fãs da <strong>Marvel</strong> sonham com o encontro entre o <strong>Spider-Man</strong> do Universo Cinematográfico Marvel (MCU) e o <strong>Venom</strong> de Tom Hardy. No entanto, o aguardado confronto não ocorrerá em live-action em 2026, mas sim na animação <em>Your Friendly Neighborhood Spider-Man</em>, prevista para estrear no Disney+.</p><h2>Venom na série animada do Aranha</h2><p>A segunda temporada da série animada <em>Your Friendly Neighborhood Spider-Man</em> revelou em seu trailer que Venom fará sua aparição ao lado da versão do Homem-Aranha interpretada por Hudson Thames. Embora a série não seja canônica ao MCU, ela apresenta uma versão alternativa do universo Marvel, onde Peter Parker assume o papel do Homem de Ferro e eventos como os de <em>Capitão América: Guerra Civil</em> são mencionados.</p><p>A primeira temporada deixou uma ponta solta: um fragmento do simbionte permaneceu no universo do herói após uma batalha envolvendo Doutor Estranho, Norman Osborn e uma criatura alienígena. A ausência de Eddie Brock até o momento abre espaço para que outros personagens assumam a identidade de Venom, como Norman ou Harry Osborn, ou até mesmo o Escorpião.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/your-friendly-neighborhood-spiderman-season-1-ep-10-33.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Aranha e Venom em 'Your Friendly Neighborhood Spider-Man'" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/your-friendly-neighborhood-spiderman-season-1-ep-10-33.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Aranha e Venom em 'Your Friendly Neighborhood Spider-Man'.</figcaption></figure><h2>O Futuro do Aranha no MCU</h2><p>Embora a série animada não apresente o Spider-Man de Tom Holland, a possibilidade de um encontro entre ele e Venom no MCU permanece. Com dois filmes multiversais planejados, existe a chance de Eddie Brock cruzar de seu universo para o MCU, ou que outro hospedeiro, como Flash Thompson ou Escorpião, utilize o simbionte para enfrentar o Homem-Aranha.</p><p>O universo do Homem-Aranha está em constante expansão, e a aparição de Venom na animação em 2026 é apenas um vislumbre das futuras possibilidades que a Marvel reserva para seus fãs. A animação promete trazer um novo olhar sobre a dinâmica clássica entre o herói e o simbionte.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/live-action-venom-from-the-tom-hardy-films.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Venom interpretado por Tom Hardy." src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/live-action-venom-from-the-tom-hardy-films.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Venom interpretado por Tom Hardy.</figcaption></figure>",
+      "meta_description": "Spider-Man e Venom se encontrarão na animação 'Your Friendly Neighborhood Spider-Man' em 2026. Saiba os detalhes e o futuro do confronto no MCU.",
+      "focus_keyphrase": "Spider-Man e Venom 2026",
+      "related_keyphrases": [
+        "Your Friendly Neighborhood Spider-Man temporada 2",
+        "Marvel animação Venom",
+        "Tom Holland Venom"
+      ],
+      "slug": "spider-man-venom-animacao-marvel-2026",
+      "categorias": [
+        {
+          "nome": "Your Friendly Neighborhood Spider-Man",
+          "grupo": "obras",
+          "evidence": "Your Friendly Neighborhood Spider-Man season 2 at New York Comic Con"
+        },
+        {
+          "nome": "Spider-Man",
+          "grupo": "franquias",
+          "evidence": "Spider-Man and Venom are going to meet in 2026"
+        },
+        {
+          "nome": "Marvel",
+          "grupo": "editorias",
+          "evidence": "Marvel Cinematic Universe"
+        }
+      ],
+      "tags_sugeridas": [
+        "Spider-Man",
+        "Venom",
+        "Marvel",
+        "Disney+",
+        "Animação",
+        "Your Friendly Neighborhood Spider-Man"
+      ],
+      "image_alt_texts": {
+        "your-friendly-neighborhood-spiderman-season-1-ep-10-33.jpg": "Aranha e Venom em 'Your Friendly Neighborhood Spider-Man'.",
+        "live-action-venom-from-the-tom-hardy-films.jpg": "Venom interpretado por Tom Hardy."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Spider-Man e Venom se encontram em animação da Marvel em 2026",
+        "_yoast_wpseo_metadesc": "Spider-Man e Venom se encontrarão na animação 'Your Friendly Neighborhood Spider-Man' em 2026. Saiba os detalhes e o futuro do confronto no MCU.",
+        "_yoast_wpseo_focuskw": "Spider-Man e Venom 2026",
+        "_yoast_news_keywords": "Spider-Man, Venom, Marvel, Disney+, Animação, Your Friendly Neighborhood Spider-Man",
+        "_yoast_wpseo_opengraph-title": "Spider-Man e Venom se encontram em animação da Marvel em 2026",
+        "_yoast_wpseo_opengraph-description": "Spider-Man e Venom se encontrarão na animação 'Your Friendly Neighborhood Spider-Man' em 2026. Saiba os detalhes e o futuro do confronto no MCU.",
+        "_yoast_wpseo_twitter-title": "Spider-Man e Venom se encontram em animação da Marvel em 2026",
+        "_yoast_wpseo_twitter-description": "Spider-Man e Venom se encontrarão na animação 'Your Friendly Neighborhood Spider-Man' em 2026. Saiba os detalhes e o futuro do confronto no MCU."
+      }
+    }
+  ]
+}

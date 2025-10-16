@@ -1,0 +1,104 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Christopher Nolan elogia atuação de Dwayne Johnson em \"The Smashing Machine\"",
+      "conteudo_final": "<p>O cineasta Christopher Nolan, vencedor do Oscar, elogiou a performance dramática de Dwayne Johnson em seu novo filme, <strong><em>The Smashing Machine</em></strong>. O longa, que retrata a vida do lutador de MMA Mark Kerr, foca tanto nos triunfos de sua carreira quanto em seus momentos mais sombrios. A produção da A24 se passa entre o final dos anos 90 e início dos anos 2000, explorando as lutas de Kerr contra o abuso de substâncias e seu relacionamento conturbado com Dawn Staples, interpretada por Emily Blunt.</p>\n<h2>Atuação de Johnson como Mark Kerr</h2>\n<p>Em uma sessão de perguntas e respostas em Los Angeles, Nolan comentou sobre o desenvolvimento do filme e suas estrelas, destacando a atuação de Johnson como Kerr. "É de partir o coração. Acho que é uma performance incrível. Não acho que veremos uma performance melhor este ano", declarou Nolan.</p>\n<figure class=\"video-container\"><img alt=\"Dwayne Johnson como Mark Kerr em The Smashing Machine\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/dwayne-johnson-as-mark-kerr-holding-up-a-championship-belt-in-the-smashing-machine.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" /></figure>\n<p>Embora Johnson seja conhecido por papéis de ação, como Hobbs na franquia <em><a href=\"https://www.maquinanerd.com.br/tag/velozes-e-furiosos\">Velozes e Furiosos</a></em> e Spencer Gilpin em <em>Jumanji</em>, sua interpretação de Mark Kerr representa seu papel mais dramático até então. O ex-lutador e agora ator gerou expectativas de premiação meses antes do lançamento, com trailers evidenciando sua notável transformação para viver Kerr.</p>\n<h2>Desempenho em bilheteria e planos futuros</h2>\n<p>Apesar de ter recebido uma pontuação de 71% no Rotten Tomatoes, a cinebiografia não obteve sucesso nas bilheterias. O filme da A24 estreou com apenas US$ 5,9 milhões nos Estados Unidos, marcando a menor abertura de fim de semana para qualquer filme estrelado por Johnson. O valor ficou abaixo das projeções de US$ 17-20 milhões. Até o momento, a arrecadação totaliza pouco mais de US$ 13 milhões em duas semanas e meia, apesar de um orçamento reportado de US$ 50 milhões.</p>\n<p>Apesar do desempenho fraco nas bilheterias de <em>The Smashing Machine</em>, Johnson não pretende abandonar papéis dramáticos. O ator expressou o desejo de se desafiar, o que o levou a explorar gêneros fora de sua zona de conforto de ação.</p>\n<p>Johnson continua a tomar medidas drásticas para se preparar para seus papéis. Poucos dias antes do lançamento de <em>The Smashing Machine</em>, o ator exibiu uma perda de peso considerável. Após gerar preocupações online, ele esclareceu que a dieta era para se preparar para o papel de um homem de 70 anos no filme <em>Lizard Music</em>, onde ele faz amizade com uma galinha. O filme o reunirá com o diretor Benny Safdie.</p>\n<p>Adicionalmente, Johnson voltará a contracenar com Emily Blunt em um filme sobre a máfia ambientado no Havaí, produzido por Martin Scorsese. O filme, ainda sem título, é descrito como no estilo de "Os Bons Companheiros", ambientado nas décadas de 1960 e 1970. O elenco também conta com o vencedor do Oscar Leonardo DiCaprio. Blunt recentemente elogiou o projeto, chamando-o de "a última grande história de máfia americana" e compartilhando que é um "papel terrivelmente emocionante" para Johnson.</p>",
+      "meta_description": "Christopher Nolan elogia performance de Dwayne Johnson em \"The Smashing Machine\", destacando o papel dramático do ator. Saiba mais.",
+      "focus_keyphrase": "The Smashing Machine Dwayne Johnson",
+      "related_keyphrases": [
+        "Christopher Nolan sobre Dwayne Johnson",
+        "performance dramática Dwayne Johnson",
+        "Mark Kerr A24"
+      ],
+      "slug": "christopher-nolan-dwayne-johnson-smashing-machine",
+      "categorias": [
+        {
+          "nome": "The Smashing Machine",
+          "grupo": "obras",
+          "evidence": "The A24 film takes place between the late 90s to early 2000s"
+        },
+        {
+          "nome": "Dwayne Johnson",
+          "grupo": "obras",
+          "evidence": "while Johnson is known for portraying action-heavy roles"
+        },
+        {
+          "nome": "Christopher Nolan",
+          "grupo": "obras",
+          "evidence": "Oscar-winning filmmaker Christopher Nolan recently applauded"
+        }
+      ],
+      "tags_sugeridas": [
+        "Dwayne Johnson",
+        "Christopher Nolan",
+        "The Smashing Machine",
+        "A24",
+        "Benny Safdie",
+        "Emily Blunt"
+      ],
+      "image_alt_texts": {
+        "dwayne-johnson-as-mark-kerr-holding-up-a-championship-belt-in-the-smashing-machine.jpg": "Dwayne Johnson como Mark Kerr, ostentando um cinturão de campeão em \"The Smashing Machine\"."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Christopher Nolan elogia atuação de Dwayne Johnson em \"The Smashing Machine\"",
+        "_yoast_wpseo_metadesc": "Christopher Nolan elogia performance de Dwayne Johnson em \"The Smashing Machine\", destacando o papel dramático do ator. Saiba mais.",
+        "_yoast_wpseo_focuskw": "The Smashing Machine Dwayne Johnson",
+        "_yoast_news_keywords": "Dwayne Johnson, Christopher Nolan, The Smashing Machine, A24, Benny Safdie, Emily Blunt",
+        "_yoast_wpseo_opengraph-title": "Christopher Nolan elogia atuação de Dwayne Johnson em \"The Smashing Machine\"",
+        "_yoast_wpseo_opengraph-description": "Christopher Nolan elogia performance de Dwayne Johnson em \"The Smashing Machine\", destacando o papel dramático do ator.",
+        "_yoast_wpseo_twitter-title": "Christopher Nolan elogia atuação de Dwayne Johnson em \"The Smashing Machine\"",
+        "_yoast_wpseo_twitter-description": "Christopher Nolan elogia performance de Dwayne Johnson em \"The Smashing Machine\", destacando o papel dramático do ator."
+      }
+    },
+    {
+      "titulo_final": "Keira Knightley despista sobre sequência de \"Quero Ser Como Beckham\"",
+      "conteudo_final": "<p>Antes de sucessos como <em>Desejo e Reparação</em>, <em>Orgulho e Preconceito</em> e a saga <em>Piratas do Caribe</em>, Keira Knightley estrelou o clássico cult <strong><em>Quero Ser Como Beckham</em></strong>. No filme, Knightley interpreta Jules, uma jovem que, ao lado de Jess (Parminder Nagra), sonha em se tornar jogadora profissional de futebol, para a desaprovação de suas famílias.</p>\n<h2>Continuação para \"Quero Ser Como Beckham\"?</h2>\n<p>O filme, que se tornou um marco, parece estar ressurgindo no imaginário popular. Em julho de 2025, a roteirista e diretora Gurinder Chadha anunciou uma possível sequência para <em>Quero Ser Como Beckham</em>. No entanto, quando Knightley foi questionada pela revista <em>PEOPLE</em> sobre seu retorno ao papel de Jules em um evento de lançamento de seu novo filme, ela pareceu evitar a resposta direta.</p>\n<figure class=\"video-container\"><img alt=\"Jess e Jules em Quero Ser Como Beckham\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/10/bend-it-like-beckham-keira-knightley-parminder-nagra.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" /></figure>\n<p><strong>"Eu vi isso na TV",</strong> disse Knightley sobre a notícia da sequência, acrescentando: "Então sim, quero dizer, que empolgação. No entanto, ela não forneceu nenhuma atualização concreta sobre seu envolvimento, expressando curiosidade sobre como seria o novo filme: "Quer dizer, quando eu vi na TV, pensei: 'Ah, que legal, fico imaginando como será?'". A continuação traria de volta os personagens originais, mas até o momento, nenhum membro do elenco original assinou contrato.</p>\n<h2>Legado de \"Quero Ser Como Beckham\"</h2>\n<p>A atriz de 40 anos também comentou sobre o impacto duradouro de <em>Quero Ser Como Beckham</em>, revelando que é o filme sobre o qual mais lhe perguntam. "Especialmente porque tantas garotas jogam [futebol] agora, e elas vêm conversar sobre isso. Então é incrível fazer parte de algo que tem, de certa forma, um legado e essa positividade em torno dele", comentou Knightley.</p>\n<p><strong><em>Quero Ser Como Beckham</em> foi o papel de destaque de Knightley,</strong> mas ela só alcançou fama internacional com <em>Piratas do Caribe: A Maldição do Pérola Negra</em> um ano depois. 2003 também marcou sua participação na icônica comédia romântica de Natal, <em>Simplesmente Amor</em>. Em poucos anos, ela estrelou mais dois filmes de <em>Piratas do Caribe</em> e recebeu sua primeira indicação ao Oscar por <em>Orgulho e Preconceito</em>.</p>\n<p>Knightley continuou a receber outra indicação ao Oscar por <em>O Jogo da Imitação</em> e atuou em outros filmes como <em>Desejo e Reparação</em>, <em>A Duquesa</em>, <em>Não me Abandone Jamais</em> e <em>Anna Karenina</em>. Mais recentemente, ela tem se destacado em thrillers da Netflix com <em>Black Doves</em> e <em>The Woman in Cabin 10</em>. <strong>Knightley é, sem dúvida, a estrela de maior destaque hoje vinda de <em>Quero Ser Como Beckham</em>.</strong></p>\n<p>No entanto, a sequência provavelmente também buscaria trazer de volta Parminder Nagra e Jonathan Rhys Meyers, que continuam atuando. Um novo filme de <em>Quero Ser Como Beckham</em> seria mais uma continuação de legado a chegar aos cinemas, o que pode gerar preocupações sobre manchar a reputação do original. Contudo, ainda pode ser uma nova e inspiradora história sobre as carreiras e a amizade de Jess e Jules anos depois.</p>",
+      "meta_description": "Keira Knightley despista sobre possível retorno como Jules em sequência de \"Quero Ser Como Beckham\", filme cult de 2002. Saiba mais.",
+      "focus_keyphrase": "Quero Ser Como Beckham Keira Knightley",
+      "related_keyphrases": [
+        "sequência Quero Ser Como Beckham",
+        "Keira Knightley filme cult",
+        "Gurinder Chadha novo filme"
+      ],
+      "slug": "keira-knightley-quero-ser-como-beckham-sequel",
+      "categorias": [
+        {
+          "nome": "Quero Ser Como Beckham",
+          "grupo": "obras",
+          "evidence": "Before Black Doves, Pride & Prejudice, or even Pirates of the Caribbean, fan-favorite star Keira Knightley starred in a feel-good cult classic called Bend It Like Beckham."
+        },
+        {
+          "nome": "Keira Knightley",
+          "grupo": "obras",
+          "evidence": "fan-favorite star Keira Knightley"
+        },
+        {
+          "nome": "Gurinder Chadha",
+          "grupo": "obras",
+          "evidence": "writer-director Gurinder Chadha announcing a Bend It Like Beckham sequel"
+        }
+      ],
+      "tags_sugeridas": [
+        "Keira Knightley",
+        "Quero Ser Como Beckham",
+        "Gurinder Chadha",
+        "Parminder Nagra",
+        "Sequência de Filme",
+        "Futebol"
+      ],
+      "image_alt_texts": {
+        "bend-it-like-beckham-keira-knightley-parminder-nagra.jpeg": "Jess (Parminder Nagra) e Jules (Keira Knightley) em cena de \"Quero Ser Como Beckham\"."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Keira Knightley despista sobre sequência de \"Quero Ser Como Beckham\"",
+        "_yoast_wpseo_metadesc": "Keira Knightley despista sobre possível retorno como Jules em sequência de \"Quero Ser Como Beckham\", filme cult de 2002. Saiba mais.",
+        "_yoast_wpseo_focuskw": "Quero Ser Como Beckham Keira Knightley",
+        "_yoast_news_keywords": "Keira Knightley, Quero Ser Como Beckham, Gurinder Chadha, Parminder Nagra, Sequência de Filme, Futebol",
+        "_yoast_wpseo_opengraph-title": "Keira Knightley despista sobre sequência de \"Quero Ser Como Beckham\"",
+        "_yoast_wpseo_opengraph-description": "Keira Knightley despista sobre possível retorno como Jules em sequência de \"Quero Ser Como Beckham\", filme cult de 2002.",
+        "_yoast_wpseo_twitter-title": "Keira Knightley despista sobre sequência de \"Quero Ser Como Beckham\"",
+        "_yoast_wpseo_twitter-description": "Keira Knightley despista sobre possível retorno como Jules em sequência de \"Quero Ser Como Beckham\", filme cult de 2002."
+      }
+    }
+  ]
+}

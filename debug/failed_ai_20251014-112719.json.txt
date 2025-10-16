@@ -1,0 +1,165 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Série de Jensen Ackles Sai do Top 10 da Amazon Prime Video Após Cancelamento",
+      "conteudo_final": "<p>A série de drama criminal estrelada por Jensen Ackles, <b>Countdown</b>, não foi renovada para a segunda temporada, e agora, a atração desapareceu das paradas globais do Prime Video. Após o anúncio do cancelamento, a série, que abordava um drama criminal, não figura mais entre os dez programas mais populares na plataforma de streaming, segundo a FlixPatrol.</p><p>Desde sua estreia no início do verão, a série estrelada por Ackles mantinha um lugar ao lado de outros sucessos do streaming, como <b>The Summer I Turned Pretty</b> e <b>Gen V</b>, spin-off de <b>The Boys</b>. No entanto, com a mudança de estação e o surgimento de novas produções, <b>Countdown</b> parece ter perdido seu espaço. O desaparecimento repentino do Top 10 indica uma possível perda de interesse do público após a confirmação de que a história não teria continuidade.</p><h2>O que é Countdown?</h2><p>Ao longo de 13 episódios, os espectadores acompanharam o detetive do LAPD Mark Meachum (interpretado por Jensen Ackles) e um grupo de oficiais de diferentes agências na caça a uma ameaça terrorista em Los Angeles. A trama envolvia a busca do grupo para impedir um evento de massa, enquanto também explorava os dramas pessoais dos personagens. A decisão de não renovar a série deixou muitas pontas soltas e um grande ponto de interrogação sobre o futuro de diversas tramas.</p><h2>Declarações de Jensen Ackles sobre o Cancelamento</h2><p>Jensen Ackles expressou sua gratidão, mas também desapontamento com a notícia do cancelamento. O ator agradeceu à equipe criativa, ao estúdio e aos seus co-estrelas, incluindo Jessica Camacho, Elliot Knight, Eric Dane, Uli Latukefu e Violette Beane, mantendo um tom positivo ao se despedir do elenco e da série. A série <b>Countdown</b> está disponível na íntegra no Prime Video.</p>",
+      "meta_description": "A série de drama criminal Countdown, estrelada por Jensen Ackles, desapareceu do Top 10 do Prime Video após ser cancelada, frustrando fãs.",
+      "focus_keyphrase": "Countdown série Jensen Ackles cancelamento",
+      "related_keyphrases": [
+        "Jensen Ackles série Prime Video",
+        "Countdown Prime Video",
+        "Drama criminal cancelado"
+      ],
+      "slug": "countdown-serie-jensen-ackles-cancelamento",
+      "categorias": [
+        {
+          "nome": "Countdown",
+          "grupo": "obras",
+          "evidence": "Jensen Ackles’ crime drama, Countdown"
+        },
+        {
+          "nome": "Jensen Ackles",
+          "grupo": "ator",
+          "evidence": "Jensen Ackles’ crime drama"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "plataforma",
+          "evidence": "Prime Video’s global Top 10"
+        }
+      ],
+      "tags_sugeridas": [
+        "countdown",
+        "jensen ackles",
+        "prime video",
+        "drama criminal",
+        "cancelamento de série"
+      ],
+      "image_alt_texts": {
+        "20250703228172_poster_w780-1.jpg": "Pôster oficial da série Countdown, estrelada por Jensen Ackles."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Countdown: Série de Jensen Ackles Sai do Top 10 do Prime Video Após Cancelamento",
+        "_yoast_wpseo_metadesc": "A série de drama criminal Countdown, estrelada por Jensen Ackles, desapareceu do Top 10 do Prime Video após ser cancelada, frustrando fãs.",
+        "_yoast_wpseo_focuskw": "Countdown série Jensen Ackles cancelamento",
+        "_yoast_news_keywords": "Countdown, Jensen Ackles, Prime Video, série cancelada, drama criminal",
+        "_yoast_wpseo_opengraph-title": "Countdown: Série de Jensen Ackles Sai do Top 10 do Prime Video Após Cancelamento",
+        "_yoast_wpseo_opengraph-description": "A série de drama criminal Countdown, estrelada por Jensen Ackles, desapareceu do Top 10 do Prime Video após ser cancelada, frustrando fãs.",
+        "_yoast_wpseo_twitter-title": "Countdown: Série de Jensen Ackles Sai do Top 10 do Prime Video Após Cancelamento",
+        "_yoast_wpseo_twitter-description": "A série de drama criminal Countdown, estrelada por Jensen Ackles, desapareceu do Top 10 do Prime Video após ser cancelada, frustrando fãs."
+      }
+    },
+    {
+      "titulo_final": "George R. R. Martin Exige Mudança em Série Derivada de Game of Thrones",
+      "conteudo_final": "<p>A próxima prequela de <b>Game of Thrones</b>, intitulada <b>A Knight of the Seven Kingdoms</b>, terá uma abordagem única, atendendo a um pedido explícito de <b>George R. R. Martin</b>: o foco não será na perspectiva da alta classe. A série, baseada nas novelas de Dunk e Egg, estreia em 18 de janeiro de 2026.</p><p>O showrunner <b>Ira Parker</b> revelou que a premissa fundamental da série, que ele prometeu a Martin, é nunca mudar o ponto de vista para personagens de classes mais altas. \"Achar uma versão totalmente diferente deste mundo que todos parecem conhecer tão bem foi muito, muito atraente\", disse Parker à Entertainment Weekly. \"O fato de vivermos neste mundo, onde a magia um dia existiu, é muito interessante para mim. Esta é a terra e a grama que viram dragões e fogo de dragão antes. Então, tudo é apenas como o mundo é, mas um pouco mais estranho, um pouco diferente.\"</p><h2>O que é 'A Knight of the Seven Kingdoms' sobre?</h2><p>Diferentemente de <b>Game of Thrones</b> ou <b>House of the Dragon</b>, <b>A Knight of the Seven Kingdoms</b> não se concentrará nas casas governantes de Westeros. Em vez disso, a temporada de seis episódios focará em um cavaleiro errante e seu jovem escudeiro, navegando por um mundo que ainda carrega os ecos dos dragões.</p><p>Estrelada por <b>Peter Claffey</b> como Ser Duncan, o Alto, e Dexter Sol Ansell como Egg — o futuro Rei Aegon V Targaryen — a série explora Westeros da perspectiva daqueles que vivem em sua sombra, em vez de seus castelos. Para Parker, que anteriormente escreveu o episódio 4 de <b>House of the Dragon</b>, essa mudança de escala e tom foi essencial. A promessa que ele fez a Martin não foi apenas criativa, mas filosófica: contar a história de Westeros de baixo para cima.</p><p>O tom da série refletirá as origens humildes e a resiliência de seu personagem central. Parker descreveu a jornada de Ser Duncan como profundamente pessoal, espelhando sua própria perseverança como contador de histórias trabalhando dentro de um dos universos fictícios mais famosos do mundo.</p><blockquote>“Você não sabe exatamente o destino final, mas você continua. Essa é toda a superpotência de Dunk. Ele levanta e, um pé na frente do outro, ele continua indo.”</blockquote><p><b>A Knight of the Seven Kingdoms</b> estreia na HBO e HBO Max em 18 de janeiro de 2026.</p>",
+      "meta_description": "George R. R. Martin exigiu que 'A Knight of the Seven Kingdoms' focasse na perspectiva das classes baixas, afastando-se da realeza de Game of Thrones.",
+      "focus_keyphrase": "A Knight of the Seven Kingdoms George R.R. Martin",
+      "related_keyphrases": [
+        "Game of Thrones série Dunk e Egg",
+        "George R.R. Martin novas séries HBO",
+        "Prequela de Game of Thrones"
+      ],
+      "slug": "knight-seven-kingdoms-george-rr-martin",
+      "categorias": [
+        {
+          "nome": "A Knight of the Seven Kingdoms",
+          "grupo": "obras",
+          "evidence": "A Knight of the Seven Kingdoms, which premieres January 18, 2026"
+        },
+        {
+          "nome": "Game of Thrones",
+          "grupo": "franquias",
+          "evidence": "The next Game of Thrones prequel"
+        },
+        {
+          "nome": "George R. R. Martin",
+          "grupo": "autor",
+          "evidence": "George R.R. Martin wants it"
+        }
+      ],
+      "tags_sugeridas": [
+        "a knight of the seven kingdoms",
+        "game of thrones",
+        "george rr martin",
+        "dunk e egg",
+        "hbo",
+        "ira parker",
+        "peter claffey"
+      ],
+      "image_alt_texts": {
+        "imgi_2_2l3zukzgbitf1.jpg": "Peter Claffey como Ser Duncan the Tall em A Knight of the Seven Kingdoms.",
+        "untitled-63.jpg": "Dexter Sol Ansell como Egg na série A Knight of the Seven Kingdoms.",
+        "a-knight-of-the-seven-kingdoms-knight-image.jpg": "Cena de A Knight of the Seven Kingdoms mostrando os personagens principais."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "George R. R. Martin Exige Mudança em 'A Knight of the Seven Kingdoms'",
+        "_yoast_wpseo_metadesc": "George R. R. Martin exigiu que 'A Knight of the Seven Kingdoms' focasse na perspectiva das classes baixas, afastando-se da realeza de Game of Thrones.",
+        "_yoast_wpseo_focuskw": "A Knight of the Seven Kingdoms George R.R. Martin",
+        "_yoast_news_keywords": "A Knight of the Seven Kingdoms, George R. R. Martin, Game of Thrones, HBO, Dunk e Egg, Ira Parker, Peter Claffey",
+        "_yoast_wpseo_opengraph-title": "George R. R. Martin Exige Mudança em 'A Knight of the Seven Kingdoms'",
+        "_yoast_wpseo_opengraph-description": "George R. R. Martin exigiu que 'A Knight of the Seven Kingdoms' focasse na perspectiva das classes baixas, afastando-se da realeza de Game of Thrones.",
+        "_yoast_wpseo_twitter-title": "George R. R. Martin Exige Mudança em 'A Knight of the Seven Kingdoms'",
+        "_yoast_wpseo_twitter-description": "George R. R. Martin exigiu que 'A Knight of the Seven Kingdoms' focasse na perspectiva das classes baixas, afastando-se da realeza de Game of Thrones."
+      }
+    },
+    {
+      "titulo_final": "NYCC 2025: Marvel e DC Revelam Novidades de Filmes e Séries",
+      "conteudo_final": "<p>A New York Comic Con (NYCC) 2025 foi palco de grandes anúncios para os fãs de super-heróis, com a Marvel e a DC apresentando novidades sobre seus universos cinematográficos e de streaming. Trailers inéditos, novas escalações e confirmações aguardadas prometem agitar o calendário de lançamentos de ambos os estúdios nos próximos anos.</p><p>A Marvel Studios detalhou seu universo televisivo interconectado no Disney+ com novas datas de estreia e trechos de suas séries. Paralelamente, a DC e a Warner Bros. Animation anunciaram projetos que prometem explorar narrativas icônicas de formas inovadoras. O volume de informações garante conteúdo de super-heróis para os próximos anos, com novas temporadas, séries e filmes a caminho.</p><h2>Trailer de 'BAT-FAM', Nova Série Animada da DC, é Divulgado</h2><p>A Prime Video revelou o primeiro trailer de <b>BAT-FAM</b>, sua nova série animada de ação-comédia, com estreia marcada para 10 de novembro. A produção é uma continuação de <b>Merry Little Batman</b> e acompanha o <b>Batman</b> (voz de Luke Wilson), Alfred (James Cromwell) e Damian Wayne (Yonas Kibreab) transformando a Mansão Wayne em um lar para uma família incomum. Novos moradores incluem a sobrinha-neta de Alfred, Alicia Pennyworth (London Hughes), e supervilões reformados como Man-Bat (Bobby Moynihan) e Volcana (Haley Tju). A série também contará com a presença de Ra's al Ghul (Michael Benyaer) e outros vilões clássicos de Gotham.</p><h2>'Batman: Knightfall' Ganha Adaptação em Filme Animado</h2><p>A Warner Bros. Animation e a DC anunciaram um ambicioso projeto de filme animado adaptando a icônica saga dos quadrinhos dos anos 90, <b>“Batman: Knightfall”</b>. A história será contada em uma série de filmes. O primeiro longa, <b>Batman: Knightfall Part 1: Knightfall</b>, está em produção e tem lançamento previsto para 2026. A trama inicial mostra o vilão Bane libertando a galeria de vilões do <b>Batman</b> do Arkham Asylum, em uma tentativa de levar o Cavaleiro das Trevas ao seu limite mental e físico. Jeff Wamester dirige o projeto, com roteiro de Jeremy Adams.</p><h2>'Wonder Man' Ganha Trailer e Nova Data de Lançamento</h2><p>A Marvel Studios apresentou o primeiro trailer de sua série para o Disney+, <b>Wonder Man</b>, com estreia confirmada para 27 de janeiro de 2026. A minissérie de oito episódios estrela <b>Yahya Abdul-Mateen II</b> como Simon Williams, um ator em busca de sucesso cuja carreira se cruza com o universo dos super-heróis. A série é descrita como uma sátira de Hollywood que aborda diretamente o conceito de fadiga de super-heróis. A história segue Simon enquanto ele faz testes para um reboot de um filme do <b>Wonder Man</b>, competindo diretamente com Trevor Slattery (Ben Kingsley). O elenco também inclui Demetrius Grosse como Eric Williams, irmão de Simon, conhecido nos quadrinhos como Grim Reaper. A série será lançada sob o selo Marvel Spotlight.</p><h2>'Your Friendly Neighborhood Spider-Man' e 'Daredevil' Ganham Novidades</h2><p>A Marvel Animation confirmou que a segunda temporada de <b>Your Friendly Neighborhood Spider-Man</b> estreia no Disney+ no outono de 2026. Um trailer mostrou a introdução de Gwen Stacy neste universo e a chegada do <b>Venom</b>. Peter Parker (Hudson Thames) investiga a Oscorp e interage com Norman e Harry Osborn. A temporada também contará com o retorno de <b>Daredevil</b>, com Charlie Cox reprisando o papel, agora com seu traje clássico vermelho. Vilões como Doutor Octopus, Camaleão e Escorpião também estão confirmados.</p><h2>Foggy Nelson Retorna em 'Daredevil: Born Again' Temporada 2</h2><p>Em uma das maiores surpresas da NYCC, a Marvel confirmou o retorno de Elden Henson como <b>Foggy Nelson</b> na segunda temporada de <b>Daredevil: Born Again</b>, apesar da morte do personagem no final da primeira temporada. Um trailer exclusivo mostrou Foggy em sequências de flashback. O trailer também deu o primeiro vislumbre do retorno de Krysten Ritter como Jessica Jones, interagindo com Matt Murdock (Cox). A temporada apresentará uma Nova York sob o controle de Wilson Fisk (Vincent D’Onofrio) e confirmou o reacendimento do relacionamento entre Matt e Karen Page (Deborah Ann Woll). A temporada também preparará os eventos do filme <b>Spider-Man: Brand New Day</b>.</p><h2>'X-Men '97' Renova para Terceira Temporada e Anuncia Data da Segunda</h2><p>A Marvel Animation anunciou que <b>X-Men '97</b> foi oficialmente renovada para uma terceira temporada, com planos de lançar novas temporadas anualmente. Foi revelado também que a tão esperada segunda temporada estreia no Disney+ no verão de 2026. A temporada 2 contará com o retorno de Apocalypse como vilão principal e mostrará os <b>X-Men</b> espalhados pelo tempo após o final da primeira temporada. Um grupo, incluindo Rogue e Professor X, fica preso no Egito Antigo, onde confrontam En Sabah Nur antes que ele se torne Apocalypse. Enquanto isso, Ciclope e Jean Grey estão no futuro distante com uma versão adolescente de seu filho, Nathan Summers. Foi anunciado que os criadores originais Eric e Julia Lewald, juntamente com o diretor Larry Houston, se juntarão como produtores executivos para a segunda temporada.</p><h2>'Vision Quest' Traz Tommy e um Ultron Humano</h2><p>As primeiras imagens da série do Disney+ <b>Vision Quest</b> revelaram retornos chocantes e detalhes da trama. O trailer confirmou que James Spader reprisará seu papel como o vilão Ultron, em uma nova forma humana. Jocasta, criada por Ultron nos quadrinhos, será introduzida e interpretada por T’Nia Miller. A série também apresentará versões humanas de outras IAs de Tony Stark, com James D'Arcy como J.A.R.V.I.S., Orla Brady como F.R.I.D.A.Y., e Emily Hampshire como E.D.I.T.H. Além disso, a série apresentará Ruaridh Mollica como uma versão adulta de Tommy Maximoff, filho de Visão e Wanda. A série, que estreia em 2026, focará no Visão Branco (Paul Bettany) enquanto ele lida com as memórias do Visão original. <b>Vision Quest</b> é posicionada como o capítulo final de uma trilogia temática iniciada em <b>WandaVision</b> e continuada em <b>Agatha All Along</b>.</p>",
+      "meta_description": "NYCC 2025: Marvel e DC anunciam novidades sobre séries e filmes, incluindo trailers de Batman, Wonder Man, X-Men '97 e retorno de personagens icônicos.",
+      "focus_keyphrase": "NYCC 2025 Marvel DC anúncios",
+      "related_keyphrases": [
+        "Novidades Marvel DC",
+        "Marvel Studios Disney+",
+        "DC Warner Bros",
+        "Eventos de cultura pop"
+      ],
+      "slug": "nycc-2025-marvel-dc-anuncios",
+      "categorias": [
+        {
+          "nome": "Marvel",
+          "grupo": "estudio",
+          "evidence": "Marvel Studios showcased its increasingly interconnected television universe"
+        },
+        {
+          "nome": "DC",
+          "grupo": "estudio",
+          "evidence": "DC and Warner Bros. Animation made significant waves"
+        },
+        {
+          "nome": "New York Comic Con",
+          "grupo": "evento",
+          "evidence": "The New York Comic Con consistently delivers"
+        }
+      ],
+      "tags_sugeridas": [
+        "nycc 2025",
+        "marvel studios",
+        "dc comics",
+        "disney+",
+        "warner bros",
+        "cinema",
+        "series"
+      ],
+      "image_alt_texts": {
+        "e-l-e-c-t-r-o-n-i-c-a-r-t-s.png": "Arte conceitual eletrônica, possivelmente ligada a um anúncio da NYCC 2025.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Arte promocional de um jogo da série Final Fantasy.",
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h-2_47f680.png": "Imagem promocional do console Nintendo Switch.",
+        "x-men-97-series-still.jpg": "Personagem da série animada X-Men '97.",
+        "Foggy-Nelson-dies-in-Daredevil-Born-Again-Season-2.jpg": "Foggy Nelson em cena de Daredevil: Born Again.",
+        "Peter-Parker-with-the-Symbiote-in-Your-Friendly-Neighborhood-Spider-Man.jpg": "Peter Parker com o simbionte Venom em Your Friendly Neighborhood Spider-Man.",
+        "White-Vision-looking-surprised-in-WandaVision.jpg": "Visão Branco em cena da série WandaVision.",
+        "batman-knightfall-movies.jpg": "Arte conceitual dos filmes animados de Batman: Knightfall."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "NYCC 2025: Marvel e DC Revelam Novidades de Filmes e Séries",
+        "_yoast_wpseo_metadesc": "NYCC 2025: Marvel e DC anunciam novidades sobre séries e filmes, incluindo trailers de Batman, Wonder Man, X-Men '97 e retorno de personagens icônicos.",
+        "_yoast_wpseo_focuskw": "NYCC 2025 Marvel DC anúncios",
+        "_yoast_news_keywords": "NYCC 2025, Marvel, DC, Marvel Studios, DC Studios, Disney+, Warner Bros, X-Men '97, Daredevil, Batman",
+        "_yoast_wpseo_opengraph-title": "NYCC 2025: Marvel e DC Revelam Novidades de Filmes e Séries",
+        "_yoast_wpseo_opengraph-description": "NYCC 2025: Marvel e DC anunciam novidades sobre séries e filmes, incluindo trailers de Batman, Wonder Man, X-Men '97 e retorno de personagens icônicos.",
+        "_yoast_wpseo_twitter-title": "NYCC 2025: Marvel e DC Revelam Novidades de Filmes e Séries",
+        "_yoast_wpseo_twitter-description": "NYCC 2025: Marvel e DC anunciam novidades sobre séries e filmes, incluindo trailers de Batman, Wonder Man, X-Men '97 e retorno de personagens icônicos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Tom Felton, de Harry Potter, retorna em épico bíblico na Netflix",
+      "conteudo_final": "<p>O drama bíblico de 2016, <b>'Risen'</b>, estrelado por Tom Felton, ícone da franquia <b>Harry Potter</b>, ganhará uma nova chance de sucesso com sua chegada à Netflix em 1º de novembro de 2025. A plataforma de streaming permitirá que o público revisite o filme, que teve um modesto desempenho nas bilheterias há nove anos.</p><p>Dirigido por Kevin Reynolds e coescrito por Paul Aiello, o filme épico bíblico acompanhou um tribuno romano chamado Clavius, interpretado por Joseph Fiennes. Clavius é encarregado de investigar o misterioso desaparecimento do corpo de Jesus após a crucificação. Em sua busca pela verdade, ele é acompanhado por seu jovem tenente, Lucius, interpretado por Tom Felton.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/05/risen-poster-joseph-fiennes.jpg\" alt=\"Pôster do filme Risen com Joseph Fiennes\"><figcaption>Pôster do filme Risen, estrelado por Joseph Fiennes e Tom Felton.</figcaption></figure><p>Com um orçamento de produção de US$ 20 milhões, 'Risen' arrecadou cerca de US$ 46,4 milhões mundialmente, um retorno respeitável para um drama histórico de cunho religioso. A recepção da crítica foi mista, com uma pontuação média de 53% no Rotten Tomatoes, enquanto o Metacritic o classificou na faixa “mista ou média”. O público, por outro lado, respondeu de forma mais positiva, concedendo ao filme 70% de aprovação no Rotten Tomatoes.</p><p>A estreia na Netflix em novembro deve apresentar 'Risen' a um público de streaming mais amplo, o que pode influenciar essas pontuações. Atualmente, o filme está disponível para streaming no Prime Video.</p><h2>Tom Felton fará sua estreia na Broadway como Draco Malfoy neste outono</h2><p>Tom Felton também está confirmado para sua aguardada estreia na Broadway neste outono, reprisando o icônico personagem Draco Malfoy em <b>Harry Potter and the Cursed Child</b>. A peça, que começou a ter apresentações em 11 de novembro de 2025 e se estende até 26 de março de 2026, no Lyric Theatre em Nova York, se passa 19 anos após a Batalha de Hogwarts.</p><p>Na trama, o foco está em Albus, filho de Harry Potter, que luta com o legado de seu pai. Felton interpreta um Draco Malfoy mais velho, agora pai de Scorpius, o melhor amigo de Albus. A participação de Felton na produção da Broadway marca a primeira vez que um membro do elenco original se junta à montagem teatral. A peça estreou originalmente em 2018 e se tornou uma das produções de maior duração no Lyric Theatre.</p><p>Em declarações sobre o projeto, Felton expressou entusiasmo: “Entrar nesta produção será um momento de círculo completo para mim, porque quando eu começar as apresentações em 'Cursed Child' neste outono, terei a mesma idade que Draco tem na peça. É surreal voltar a vestir seus sapatos – e, claro, seu icônico cabelo loiro platinado.”</p>",
+      "meta_description": "Tom Felton, de Harry Potter, estrela o épico bíblico 'Risen', que chega à Netflix em novembro de 2025. O ator também estreia na Broadway como Draco Malfoy.",
+      "focus_keyphrase": "Tom Felton Harry Potter Risen Netflix",
+      "related_keyphrases": [
+        "Risen filme Netflix",
+        "Tom Felton Draco Malfoy",
+        "Harry Potter and the Cursed Child"
+      ],
+      "slug": "tom-felton-risen-netflix-broadway",
+      "categorias": [
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "starring Harry Potter franchise icon Tom Felton"
+        },
+        {
+          "nome": "Risen",
+          "grupo": "obras",
+          "evidence": "The 2016 biblical drama Risen"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "now that it is coming to Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tom Felton",
+        "Harry Potter",
+        "Risen",
+        "Netflix",
+        "Draco Malfoy",
+        "Broadway"
+      ],
+      "image_alt_texts": {
+        "risen-poster-joseph-fiennes.jpg": "Pôster do filme Risen com Joseph Fiennes e Tom Felton, indicando a chegada à Netflix."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tom Felton, de Harry Potter, em 'Risen' na Netflix e na Broadway",
+        "_yoast_wpseo_metadesc": "Tom Felton, de Harry Potter, estrela o épico bíblico 'Risen', que chega à Netflix em novembro de 2025. O ator também estreia na Broadway como Draco Malfoy.",
+        "_yoast_wpseo_focuskw": "Tom Felton Harry Potter Risen Netflix",
+        "_yoast_news_keywords": "Tom Felton, Harry Potter, Risen, Netflix, Draco Malfoy, Broadway",
+        "_yoast_wpseo_opengraph-title": "Tom Felton, de Harry Potter, em 'Risen' na Netflix e na Broadway",
+        "_yoast_wpseo_opengraph-description": "Tom Felton, de Harry Potter, estrela o épico bíblico 'Risen', que chega à Netflix em novembro de 2025. O ator também estreia na Broadway como Draco Malfoy.",
+        "_yoast_wpseo_twitter-title": "Tom Felton, de Harry Potter, em 'Risen' na Netflix e na Broadway",
+        "_yoast_wpseo_twitter-description": "Tom Felton, de Harry Potter, estrela o épico bíblico 'Risen', que chega à Netflix em novembro de 2025. O ator também estreia na Broadway como Draco Malfoy."
+      }
+    },
+    {
+      "titulo_final": "Animação de 2000s está disponível grátis no streaming: não é Disney ou Pixar",
+      "conteudo_final": "<p>Enquanto <b>Disney</b> e <b>Pixar</b> continuam a definir o padrão de excelência em filmes de animação, com sucessos de bilheteria contínuos, outras produções conquistaram seu espaço. Durante a década de 2000, que viu o lançamento de vários clássicos como 'Procurando Nemo' e 'Os Incríveis', um filme fora do eixo Disney/Pixar provou ser igualmente grandioso e agora está disponível gratuitamente em streaming.</p><p><b>'Tá Chovendo Hambúrguer'</b> (Cloudy With a Chance of Meatballs), produzido pela Sony Pictures Animation, estreou no <b>Tubi</b> em 1º de outubro, oferecendo acesso gratuito ao público. Baseado livremente no livro infantil de Judi e Ron Barrett, o filme acompanha um inventor aspirante que, ao tentar solucionar a crise alimentar de sua cidade, constrói uma máquina que faz chover comida.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2023/02/2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png?w=300\" alt=\"Cena do filme Tá Chovendo Hambúrguer com Flint Lockwood\"><figcaption>Flint Lockwood em ação em 'Tá Chovendo Hambúrguer'.</figcaption></figure><h2>'Tá Chovendo Hambúrguer' rivaliza com os melhores da Disney e Pixar</h2><p>Não há dúvida de que Disney e Pixar dominam o cenário da animação, uma tendência que dificilmente mudará. No entanto, em uma década que viu esses estúdios lançarem sucessos como 'Procurando Nemo', 'Os Incríveis', 'Monstros S.A.' e 'WALL-E', <b>'Tá Chovendo Hambúrguer'</b> se manteve firme.</p><p>O filme, aclamado como \"Certified Fresh\" no Rotten Tomatoes com 85% de aprovação da crítica e 72% do público, é um dos melhores filmes de animação dos anos 2000. Ele permanece como uma obra divertida e altamente rejogável, apreciada por todas as idades. O filme expande com sucesso um livro de 32 páginas para uma aventura cinematográfica, apresentando uma trama original e hilária com nevascas de sorvete e chuvas de hambúrguer.</p><p>A animação visualmente vibrante e o design de personagens exagerados e peculiares dão vida a essa história absurda. Os eventos climáticos estranhos, o humor peculiar e a comédia pastelão garantem risadas do início ao fim. O elenco de voz também brilha, com nomes como Bill Hader, Neil Patrick Harris e Anna Faris.</p><h2>Outros filmes familiares disponíveis no Tubi</h2><p><b>'Tá Chovendo Hambúrguer'</b> juntou-se ao catálogo do Tubi este mês, ao lado de outros títulos perfeitos para noites de cinema em família. O serviço de streaming gratuito da Fox agora também exibe 'Arthur e os Minimoys', 'Astro Boy', 'Encantada', 'A Pior das Intenções', 'As Crônicas de Spiderwick', 'Pequenos Espiões 3D: Game Over' e 'Pequenos Espiões 4', que começaram a ser exibidos no início de outubro.</p><p>O Tubi adiciona novos títulos ao seu catálogo mensalmente, prometendo mais filmes infantis excelentes no futuro. Embora ainda não tenham divulgado a programação de novembro, o serviço continua a ser uma fonte valiosa de entretenimento familiar.</p>",
+      "meta_description": "O aclamado filme de animação dos anos 2000, 'Tá Chovendo Hambúrguer', está agora disponível gratuitamente no serviço de streaming Tubi.",
+      "focus_keyphrase": "Tá Chovendo Hambúrguer Tubi Streaming",
+      "related_keyphrases": [
+        "Filmes de animação 2000s",
+        "Sony Pictures Animation",
+        "Tubi filmes grátis"
+      ],
+      "slug": "ta-chovendo-inburghurguer-tubi-gratis",
+      "categorias": [
+        {
+          "nome": "Tá Chovendo Hambúrguer",
+          "grupo": "obras",
+          "evidence": "Cloudy With a Chance of Meatballs"
+        },
+        {
+          "nome": "Sony Pictures Animation",
+          "grupo": "editorias",
+          "evidence": "produced by Sony Pictures Animation"
+        },
+        {
+          "nome": "Tubi",
+          "grupo": "editorias",
+          "evidence": "Cloudy With a Chance of Meatballs arrived on Tubi"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tá Chovendo Hambúrguer",
+        "Tubi",
+        "Sony Pictures Animation",
+        "Animação",
+        "Filmes Grátis",
+        "Anos 2000"
+      ],
+      "image_alt_texts": {
+        "2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png": "Cena de Flint Lockwood em 'Tá Chovendo Hambúrguer', destacando a animação e o humor do filme.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Imagem promocional de fantasia.",
+        "King-of-the-Hill-Hank-Angry.jpg": "Hank Hill irritado da série King of the Hill.",
+        "The-Simpsons-Bart-Gets-an-F-2.jpg": "Bart Simpson com uma nota F na série Os Simpsons.",
+        "blue-steel-congo.jpg": "Referência a Blue Steel e Congo.",
+        "s-e-g-a.png": "Logo ou imagem relacionada à SEGA.",
+        "s-t-e-a-m.png": "Imagem com tema 'steam' (vapor ou estilo Steampunk).",
+        "this-is-us-streaming-free-tubi.jpg": "Imagem promocional da série This Is Us em Tubi.",
+        "pUaKcFI4BZY_hqdefault.jpg": "Miniatura de vídeo do YouTube com tema de animação.",
+        "pUaKcFI4BZY_maxresdefault.jpg": "Miniatura de alta resolução de vídeo do YouTube."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Animação Clássica de 2000s Grátis no Tubi: 'Tá Chovendo Hambúrguer'",
+        "_yoast_wpseo_metadesc": "O aclamado filme de animação dos anos 2000, 'Tá Chovendo Hambúrguer', está agora disponível gratuitamente no serviço de streaming Tubi.",
+        "_yoast_wpseo_focuskw": "Tá Chovendo Hambúrguer Tubi Streaming",
+        "_yoast_news_keywords": "Tá Chovendo Hambúrguer, Tubi, Sony Pictures Animation, Animação, Filmes Grátis, Anos 2000",
+        "_yoast_wpseo_opengraph-title": "Animação Clássica de 2000s Grátis no Tubi: 'Tá Chovendo Hambúrguer'",
+        "_yoast_wpseo_opengraph-description": "O aclamado filme de animação dos anos 2000, 'Tá Chovendo Hambúrguer', está agora disponível gratuitamente no serviço de streaming Tubi.",
+        "_yoast_wpseo_twitter-title": "Animação Clássica de 2000s Grátis no Tubi: 'Tá Chovendo Hambúrguer'",
+        "_yoast_wpseo_twitter-description": "O aclamado filme de animação dos anos 2000, 'Tá Chovendo Hambúrguer', está agora disponível gratuitamente no serviço de streaming Tubi."
+      }
+    }
+  ]
+}

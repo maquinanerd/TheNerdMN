@@ -1,0 +1,41 @@
+{
+  "titulo_final": "Predator: Badlands é classificado como PG-13, surpreendendo fãs antes da estreia",
+  "conteudo_final": "<p>A caçada está de volta em <b>Predator: Badlands</b>, novo filme da franquia que chega em 7 de novembro. Dirigido por Dan Trachtenberg, o longa marca o terceiro mergulho do cineasta no universo de ficção científica e terror, após os bem recebidos <b>Prey</b> (2022) e o futuro <b>Predator: Killer of Killers</b> (2025).</p><h2>Mudança de Classificação Indicativa Inesperada</h2><p>A principal novidade que tem gerado burburinho entre os fãs é a classificação indicativa do filme. Pela primeira vez em quase quatro décadas, <b>Predator: Badlands</b> quebra o padrão da franquia e opta pela classificação PG-13, em vez de R. Anteriormente, a única outra produção do universo a receber essa classificação foi <b>Alien vs. Predator</b>, um crossover.</p><p>A decisão de buscar uma classificação mais ampla, PG-13, é provavelmente para atingir um público maior. Filmes com essa classificação podem conter uso moderado de linguagem e violência, desde que não seja realista, extrema ou persistente. Já a classificação R restringe a entrada de menores de 17 anos desacompanhados e é geralmente associada a gore, nudez em contexto sexual e linguagem explícita.</p><h2>Personagens Podem Explicar a Classificação PG-13</h2><p>A trama de <b>Predator: Badlands</b>, segundo as prévias, centrar-se-á na jornada de Dek (Dimitrius Schuster-Koloamatangi) e de uma sintética danificada da Weyland-Yutani chamada Thia (Elle Fanning). Eles precisarão atravessar um planeta perigoso. A ausência de grande interação humana com o Predador pode ter influenciado a decisão pela classificação PG-13, focando em violência talvez menos realista.</p><p>Vale lembrar que <b>Predator: Killer of Killers</b>, embora animado, apresentou violência considerada “extrema” e “persistente”. A diferença na classificação de <b>Predator: Badlands</b> pode indicar um nível de violência distinto ou focado em conflitos entre criaturas, o que se alinha com os critérios PG-13.</p><p>Independentemente das razões, a expectativa é alta para o retorno do icônico caçador alienígena às telas em <b>Predator: Badlands</b>, que estreia em 7 de novembro.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/04/predator-badlands-official-poster.jpeg\" alt=\"Poster oficial de Predator: Badlands com Elle Fanning\"><figcaption>Poster oficial de Predator: Badlands.</figcaption></figure>",
+  "meta_description": "Predator: Badlands, novo filme da franquia, surpreende ao receber classificação PG-13, abrindo caminho para um público maior e gerando debates.",
+  "focus_keyphrase": "Predator: Badlands PG-13",
+  "related_keyphrases": [
+    "Predator: Badlands classificação",
+    "Novo filme Predator",
+    "Dan Trachtenberg Predator"
+  ],
+  "slug": "predator-badlands-classificacao-pg-13",
+  "categorias": [
+    {
+      "nome": "Predator",
+      "grupo": "franquias",
+      "evidence": "Predator: Badlands"
+    }
+  ],
+  "tags_sugeridas": [
+    "Predator: Badlands",
+    "PG-13",
+    "Dan Trachtenberg",
+    "Elle Fanning",
+    "Ciência Ficção",
+    "Terror",
+    "Franquia Predator"
+  ],
+  "image_alt_texts": {
+    "predator-badlands-official-poster.jpeg": "Poster oficial de Predator: Badlands com Elle Fanning em destaque."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Predator: Badlands é PG-13: Entenda a classificação e o motivo antes da estreia",
+    "_yoast_wpseo_metadesc": "Predator: Badlands, novo filme da franquia, surpreende ao receber classificação PG-13, abrindo caminho para um público maior e gerando debates.",
+    "_yoast_wpseo_focuskw": "Predator: Badlands PG-13",
+    "_yoast_news_keywords": "Predator: Badlands, PG-13, Dan Trachtenberg, Elle Fanning, Franquia Predator, Ciência Ficção, Terror",
+    "_yoast_wpseo_opengraph-title": "Predator: Badlands é PG-13: Entenda a classificação e o motivo antes da estreia",
+    "_yoast_wpseo_opengraph-description": "Predator: Badlands, novo filme da franquia, surpreende ao receber classificação PG-13, abrindo caminho para um público maior e gerando debates.",
+    "_yoast_wpseo_twitter-title": "Predator: Badlands é PG-13: Entenda a classificação e o motivo antes da estreia",
+    "_yoast_wpseo_twitter-description": "Predator: Badlands, novo filme da franquia, surpreende ao receber classificação PG-13, abrindo caminho para um público maior e gerando debates."
+  }
+}

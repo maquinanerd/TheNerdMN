@@ -1,0 +1,99 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Mel Gibson filma sequência de 'A Paixão de Cristo' com novo ator para Jesus",
+      "conteudo_final": "<p>Mais de duas décadas após <b>A Paixão de Cristo</b> chocar Hollywood e o público com sua violência gráfica e sucesso de bilheteria, Mel Gibson iniciou a filmagem de sua tão esperada sequência. Desta vez, um novo ator interpretará Jesus.</p><h2>Novo Jesus Cristo na Continuação</h2><p>O ator finlandês Jaakko Ohtonen, conhecido por seu papel como Wolland em <b>The Last Kingdom</b> da Netflix, assume o manto de Jesus, papel originalmente interpretado por Jim Caviezel. A produção começou discretamente na semana passada nos Estúdios Cinecittà, em Roma, o mesmo local onde Gibson filmou o original de 2004.</p><p>A decisão de reformular o elenco em vez de usar efeitos de rejuvenescimento digital foi motivada pela cronologia da história. A sequência se passa apenas três dias após a crucificação de Cristo, tornando a substituição do ator uma opção mais prática e econômica. \"Fez sentido refazer todo o filme\", explicou uma fonte.</p><h2>Elenco e Sinopse de 'The Resurrection of the Christ'</h2><p>Além de Ohtonen, Mariela Garriga (de <b>Missão: Impossível - Acerto de Contas Final</b>) interpretará Maria Madalena, enquanto Kasia Smutniak substitui Maia Morgenstern como Maria. Pier Luigi Pasino (de <b>The Law According to Lidia Poët</b>) será Pedro, e Riccardo Scamarcio (de <b>Modì</b>) retorna como Pôncio Pilatos. Rupert Everett também está confirmado em um papel pequeno, mas \"importante\".</p><p>Descrito por Gibson como uma \"viagem ácida\", o roteiro, coescrito com Randall Wallace, promete explorar a ressurreição de Cristo e suas consequências espirituais e políticas. A história, que será dividida em duas partes, visa expandir o escopo filosófico e narrativo do filme original.</p><p>Gibson descreveu a ambiciosa narrativa em uma entrevista recente: “É uma coisa muito difícil de encontrar e sintetizar, porque você tem que entender, antes de tudo, por que isso importa… Você tem que pensar, por que a humanidade é tão importante neste processo? Por que os grandes reinos do bem e do mal estão lutando pelos corações, mentes e almas da humanidade? Por que nós? Somos apenas um bando de coisas fodidas. Somos imperfeitos. Você tem que se perguntar, por que somos importantes? Por que estamos fazendo o sanduíche? Essa história inteira.”</p><h2>Lançamento e Produção</h2><p>A produção está a cargo de Mel Gibson e Bruce Davey através da Icon Productions, com distribuição da Lionsgate. Oficialmente intitulado <b>The Resurrection of the Christ</b>, o projeto chegará aos cinemas em duas partes: a primeira em 26 de março de 2027 (Sexta-feira Santa) e a segunda em 6 de maio de 2027 (Dia da Ascensão).</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/the-passion-of-the-christ.jpg\" alt=\"\"><figcaption></figcaption></figure>",
+      "meta_description": "Mel Gibson inicia filmagens de 'A Paixão de Cristo 2', que trará um novo ator para Jesus Cristo e explorará a ressurreição.",
+      "focus_keyphrase": "A Paixão de Cristo 2",
+      "related_keyphrases": [
+        "Mel Gibson",
+        "The Resurrection of the Christ",
+        "Jaakko Ohtonen Jesus"
+      ],
+      "slug": "mel-gibson-paixao-cristo-sequencia",
+      "categorias": [
+        {
+          "nome": "A Paixão de Cristo",
+          "grupo": "franquias",
+          "evidence": "after Mel Gibson’s ‘The Passion of the Christ’"
+        },
+        {
+          "nome": "The Resurrection of the Christ",
+          "grupo": "obras",
+          "evidence": "the project, officially titled The Resurrection of the Christ"
+        }
+      ],
+      "tags_sugeridas": [
+        "Mel Gibson",
+        "A Paixão de Cristo",
+        "The Resurrection of the Christ",
+        "Jaakko Ohtonen",
+        "Jim Caviezel",
+        "Cinema Cristão"
+      ],
+      "image_alt_texts": {
+        "the-passion-of-the-christ.jpg": "Imagem promocional do filme 'A Paixão de Cristo', com foco em Mel Gibson."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Mel Gibson filma sequência de 'A Paixão de Cristo' com novo ator para Jesus",
+        "_yoast_wpseo_metadesc": "Mel Gibson inicia filmagens de 'A Paixão de Cristo 2', que trará um novo ator para Jesus Cristo e explorará a ressurreição.",
+        "_yoast_wpseo_focuskw": "A Paixão de Cristo 2",
+        "_yoast_news_keywords": "A Paixão de Cristo, Mel Gibson, The Resurrection of the Christ, Jaakko Ohtonen, Jim Caviezel, Cinema",
+        "_yoast_wpseo_opengraph-title": "Mel Gibson filma sequência de 'A Paixão de Cristo' com novo ator para Jesus",
+        "_yoast_wpseo_opengraph-description": "Mel Gibson inicia filmagens de 'A Paixão de Cristo 2', que trará um novo ator para Jesus Cristo e explorará a ressurreição.",
+        "_yoast_wpseo_twitter-title": "Mel Gibson filma sequência de 'A Paixão de Cristo' com novo ator para Jesus",
+        "_yoast_wpseo_twitter-description": "Mel Gibson inicia filmagens de 'A Paixão de Cristo 2', que trará um novo ator para Jesus Cristo e explorará a ressurreição."
+      }
+    },
+    {
+      "titulo_final": "Ação de Gerard Butler, 'O Ataque ao Pentágono', viraliza em streaming",
+      "conteudo_final": "<p>Enquanto estrelas como Brad Pitt e Leonardo DiCaprio dominam o escalão de Hollywood, nomes como Jason Statham e Gerard Butler solidificam seu espaço com sucessos consistentes em filmes de ação. Butler, em particular, construiu uma carreira sólida em produções diretas, como a franquia <b>O Ataque ao Pentágono</b> (Olympus Has Fallen), que continua a ser um sucesso em plataformas de streaming mais de uma década após seu lançamento.</p><h2>Sucesso em Streaming</h2><p>Recentemente, <b>O Ataque ao Pentágono</b> figurou entre os filmes mais assistidos no serviço de streaming gratuito Tubi, conforme dados da FlixPatrol. Lançado em 2013, o filme arrecadou cerca de US$ 170 milhões mundialmente, com um orçamento reportado de US$ 70 milhões.</p><p>Sob a direção de Antoine Fuqua, o longa de ação dividiu opiniões da crítica, sendo inicialmente rotulado como um \"derivado de <b>Duro de Matar</b>\". A trama acompanha Butler como um agente de segurança encarregado de proteger o Presidente dos Estados Unidos durante um ataque terrorista à Casa Branca. O filme coincidiu com o lançamento de <b>Invasão à Casa Branca</b> (White House Down), estrelado por Channing Tatum e Jamie Foxx, que possuía uma premissa semelhante.</p><p>No Rotten Tomatoes, <b>O Ataque ao Pentágono</b> detém uma pontuação de 49%. O consenso da crítica aponta: \"Embora esteja longe de ser original, o filme se beneficia da direção tensa de Antoine Fuqua e de uma forte performance de Gerard Butler – o que pode ser suficiente para os fãs de ação.\"</p><h2>A Franquia 'Has Fallen'</h2><p>A franquia deu origem a duas sequências: <b>Londres em Queda</b> (London Has Fallen), dirigido por Babak Najafi, que arrecadou mais de US$ 200 milhões mundialmente com um orçamento de US$ 60 milhões; e <b>Quebrando o Silêncio</b> (Angel Has Fallen), de Ric Roman Waugh, que gerou pouco menos de US$ 150 milhões mundialmente com um orçamento de US$ 40 milhões.</p><p>Um quarto filme, intitulado <b>Night Has Fallen</b>, encontra-se em desenvolvimento há anos, enfrentando atrasos devido a disputas legais envolvendo Butler e uma das produtoras. <b>O Ataque ao Pentágono</b> está disponível para streaming no Tubi.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/olympus-has-fallen-movie-poster.jpg\" alt=\"\"><figcaption></figcaption></figure>",
+      "meta_description": "O filme de ação 'O Ataque ao Pentágono', estrelado por Gerard Butler, ganha nova vida em streaming e consolida sua popularidade.",
+      "focus_keyphrase": "O Ataque ao Pentágono",
+      "related_keyphrases": [
+        "Gerard Butler",
+        "Olympus Has Fallen",
+        "Franquia Has Fallen"
+      ],
+      "slug": "ataque-pentagono-streaming-gerard-butler",
+      "categorias": [
+        {
+          "nome": "O Ataque ao Pentágono",
+          "grupo": "obras",
+          "evidence": "Olympus Has Fallen"
+        },
+        {
+          "nome": "Gerard Butler",
+          "grupo": "elenco",
+          "evidence": "Gerard Butler"
+        },
+        {
+          "nome": "Franquia Has Fallen",
+          "grupo": "franquias",
+          "evidence": "spawned two sequels, director Babak Najafi's London Has Fallen"
+        }
+      ],
+      "tags_sugeridas": [
+        "O Ataque ao Pentágono",
+        "Gerard Butler",
+        "Olympus Has Fallen",
+        "Antoine Fuqua",
+        "Ação",
+        "Streaming"
+      ],
+      "image_alt_texts": {
+        "olympus-has-fallen-movie-poster.jpg": "Poster do filme 'O Ataque ao Pentágono' com Gerard Butler em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ação de Gerard Butler, 'O Ataque ao Pentágono', viraliza em streaming",
+        "_yoast_wpseo_metadesc": "O filme de ação 'O Ataque ao Pentágono', estrelado por Gerard Butler, ganha nova vida em streaming e consolida sua popularidade.",
+        "_yoast_wpseo_focuskw": "O Ataque ao Pentágono",
+        "_yoast_news_keywords": "O Ataque ao Pentágono, Gerard Butler, Olympus Has Fallen, Antoine Fuqua, Ação, Filmes",
+        "_yoast_wpseo_opengraph-title": "Ação de Gerard Butler, 'O Ataque ao Pentágono', viraliza em streaming",
+        "_yoast_wpseo_opengraph-description": "O filme de ação 'O Ataque ao Pentágono', estrelado por Gerard Butler, ganha nova vida em streaming e consolida sua popularidade.",
+        "_yoast_wpseo_twitter-title": "Ação de Gerard Butler, 'O Ataque ao Pentágono', viraliza em streaming",
+        "_yoast_wpseo_twitter-description": "O filme de ação 'O Ataque ao Pentágono', estrelado por Gerard Butler, ganha nova vida em streaming e consolida sua popularidade."
+      }
+    }
+  ]
+}

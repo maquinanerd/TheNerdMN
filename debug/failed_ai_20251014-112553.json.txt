@@ -1,0 +1,156 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jason Statham: Novo Filme de Ação \"Shelter\" Ganha Atualização de Lançamento",
+      "conteudo_final": "<p>O próximo filme de ação estrelado por <b>Jason Statham</b>, intitulado <b>Shelter</b>, acaba de receber uma atualização emocionante de um de seus co-estrelas. A produtora Black Bear anunciou que o longa chegará aos cinemas em 30 de janeiro de 2025. A notícia surge após o adiamento de outro filme de Statham, <b>Mutiny</b>, que foi remanejado de sua data original para o verão.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/jason-statham-shelter-movie-bill-nighy-naomi-ackie.jpg\" alt=\"Jason Statham, Bill Nighy e Naomi Ackie em \"Shelter\"\"><figcaption>Bill Nighy comentou sobre a experiência de trabalhar com Jason Statham em \"Shelter\".</figcaption></figure><p><b>Shelter</b> acompanha um homem que vive recluso à beira-mar e decide resgatar uma garota de uma morte certa. Esse ato desencadeia uma série de eventos que culminam em um ataque violento à sua própria vida, enquanto seu passado ressurge. <b>Naomi Ackie</b> (Mickey 17) divide a tela com Statham.</p><h2>Detalhes sobre o Elenco e Produção</h2><p>O elenco de <b>Shelter</b> também conta com <b>Bill Nighy</b>, conhecido por seu papel como Davy Jones em <b>Piratas do Caribe: O Baú da Morte</b>. Em uma entrevista recente, Nighy compartilhou suas impressões sobre o projeto. \"Foi ótimo, e foi filmado na Irlanda. Foi muito bom conhecer Jason. Ele foi muito generoso e acolhedor com toda a equipe\", disse o ator.</p><p>Nighy também detalhou seu personagem, indicando que não será um papel amigável. \"Eu não interpreto um cara legal. Não sou contratado para ser legal. Mas foi muito bom, e pude trabalhar com Jason\". Apesar da persona um tanto rústica de Statham em seus filmes, Nighy é mais um colega de elenco a destacar o quão agradável é trabalhar com o ator.</p><h2>Conexão com \"Greenland\"</h2><p><b>Ric Roman Waugh</b> dirigiu <b>Shelter</b>, com roteiro de <b>Ward Parry</b>. Waugh é conhecido por seu trabalho anterior com <b>Gerard Butler</b> em <b>Greenland</b> (2020), um thriller de desastre que também terá uma sequência, <b>Greenland: Migration</b>. Waugh também dirigiu outros filmes de destaque como <b>Invasão à Casa Branca</b> (com Dwayne Johnson) e <b>O Culpado</b> (com Nikolaj Coster-Waldau).</p>",
+      "meta_description": "Jason Statham estrela o novo filme de ação \"Shelter\", com lançamento previsto para janeiro de 2025. Bill Nighy e Naomi Ackie também estão no elenco.",
+      "focus_keyphrase": "Jason Statham Shelter novo filme",
+      "related_keyphrases": [
+        "filme de ação Jason Statham",
+        "Shelter data de lançamento",
+        "Bill Nighy Shelter"
+      ],
+      "slug": "jason-statham-shelter-novo-filme-acao",
+      "categorias": [
+        {
+          "nome": "Shelter",
+          "grupo": "obras",
+          "evidence": "Jason Statham’s Shelter to theaters next year on January 30"
+        },
+        {
+          "nome": "Jason Statham",
+          "grupo": "ator",
+          "evidence": "Jason Statham’s next action movie"
+        },
+        {
+          "nome": "Ric Roman Waugh",
+          "grupo": "diretor",
+          "evidence": "Ric Roman Waugh directed Shelter"
+        }
+      ],
+      "tags_sugeridas": [
+        "jason statham",
+        "shelter",
+        "bill nighy",
+        "naomi ackie",
+        "ric roman waugh",
+        "filme de ação"
+      ],
+      "image_alt_texts": {
+        "jason-statham-shelter-movie-bill-nighy-naomi-ackie.jpg": "Jason Statham, Bill Nighy e Naomi Ackie em cena do filme \"Shelter\"."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jason Statham: Novo Filme de Ação \"Shelter\" Ganha Atualização de Lançamento",
+        "_yoast_wpseo_metadesc": "Jason Statham estrela o novo filme de ação \"Shelter\", com lançamento previsto para janeiro de 2025. Bill Nighy e Naomi Ackie também estão no elenco.",
+        "_yoast_wpseo_focuskw": "Jason Statham Shelter novo filme",
+        "_yoast_news_keywords": "Jason Statham, Shelter, Bill Nighy, Naomi Ackie, Ric Roman Waugh, Filme de Ação",
+        "_yoast_wpseo_opengraph-title": "Jason Statham: Novo Filme de Ação \"Shelter\" Ganha Atualização de Lançamento",
+        "_yoast_wpseo_opengraph-description": "Jason Statham estrela o novo filme de ação \"Shelter\", com lançamento previsto para janeiro de 2025. Bill Nighy e Naomi Ackie também estão no elenco.",
+        "_yoast_wpseo_twitter-title": "Jason Statham: Novo Filme de Ação \"Shelter\" Ganha Atualização de Lançamento",
+        "_yoast_wpseo_twitter-description": "Jason Statham estrela o novo filme de ação \"Shelter\", com lançamento previsto para janeiro de 2025. Bill Nighy e Naomi Ackie também estão no elenco."
+      }
+    },
+    {
+      "titulo_final": "Russell Crowe: Filme de Guerra \"Nuremberg\" Ganha Data de Lançamento nos Cinemas",
+      "conteudo_final": "<p>O aguardado filme de guerra com <b>Russell Crowe</b>, <b>Nuremberg</b>, deu um passo significativo em direção ao sucesso. Crowe estrelará ao lado de <b>Rami Malek</b> e <b>Michael Shannon</b> neste thriller jurídico ambientado na Segunda Guerra Mundial. O filme foca em um psiquiatra (Malek) que avalia líderes nazistas (Crowe) para determinar se são aptos a serem julgados por crimes de guerra.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/10/imgi_1_o6cmowttsyzbvqgfohc20h0ugsf.jpeg\" alt=\"Russell Crowe como Hermann Göring em \"Nuremberg\"\"><figcaption>Russell Crowe interpreta Hermann Göring no drama de guerra \"Nuremberg\".</figcaption></figure><p><b>Nuremberg</b> tem estreia confirmada nos cinemas americanos em 7 de novembro. A Sony Pictures também anunciou que o filme terá um amplo lançamento comercial na Índia na mesma data. Este é um desenvolvimento importante para as chances do filme no Oscar.</p><h2>Impacto no Oscar e Recepção Inicial</h2><p>Embora os números de bilheteria nem sempre sejam o foco principal, eles são cruciais para filmes que almejam indicações ao Oscar. A performance de bilheteria de um filme pode influenciar a percepção da crítica e da Academia. Se <b>Nuremberg</b> tiver um desempenho financeiro positivo, suas chances de reconhecimento serão maiores.</p><p>O filme estreou no Festival Internacional de Cinema de Toronto com pontuações relativamente baixas no Rotten Tomatoes. No entanto, após mais exibições e festivais, a pontuação subiu para um respeitável 62%. O filme é escrito e dirigido por <b>James Vanderbilt</b>, conhecido por seu trabalho em roteiros como <b>Pânico</b> (2022) e <b>Pânico VI</b> (2023).</p><h2>Próximos Projetos de Russell Crowe</h2><p>Antes de assumir o papel de Hermann Göring em <b>Nuremberg</b>, Crowe estrelou o épico bíblico <b>Noé</b>, que se tornou um sucesso de streaming. Dirigido por <b>Darren Aronofsky</b> e coestrelado por <b>Jennifer Connelly</b> e <b>Anthony Hopkins</b>, o filme narra a história bíblica de Noé.</p><p>Após <b>Nuremberg</b>, os fãs poderão ver Crowe no reboot de <b>Highlander</b>, estrelado por <b>Henry Cavill</b>, e também em <b>The Last Druid</b>, previsto para 2026. O lançamento de <b>Highlander</b> é esperado para 2027.</p><video controls><source src="https://www.youtube.com/embed/WvAy9C-bipY"></video>",
+      "meta_description": "Russell Crowe estrela o drama de guerra \"Nuremberg\", com estreia marcada para 7 de novembro. O filme busca reconhecimento no Oscar com elenco de peso.",
+      "focus_keyphrase": "Russell Crowe Nuremberg filme",
+      "related_keyphrases": [
+        "Nuremberg data de lançamento",
+        "filme de guerra Russell Crowe",
+        "Oscar Nuremberg"
+      ],
+      "slug": "russell-crowe-nuremberg-filme-guerra",
+      "categorias": [
+        {
+          "nome": "Nuremberg",
+          "grupo": "obras",
+          "evidence": "Nuremberg, the WWII legal thriller"
+        },
+        {
+          "nome": "Russell Crowe",
+          "grupo": "ator",
+          "evidence": "Russell Crowe’s long-awaited WWII movie"
+        },
+        {
+          "nome": "Segunda Guerra Mundial",
+          "grupo": "editorias",
+          "evidence": "WWII movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "russell crowe",
+        "nuremberg",
+        "rami malek",
+        "michael shannon",
+        "james vanderbilt",
+        "segunda guerra mundial",
+        "filme de guerra"
+      ],
+      "image_alt_texts": {
+        "imgi_1_o6cmowttsyzbvqgfohc20h0ugsf.jpeg": "Russell Crowe interpretando Hermann Göring no filme \"Nuremberg\"."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Russell Crowe: Filme de Guerra \"Nuremberg\" Ganha Data de Lançamento nos Cinemas",
+        "_yoast_wpseo_metadesc": "Russell Crowe estrela o drama de guerra \"Nuremberg\", com estreia marcada para 7 de novembro. O filme busca reconhecimento no Oscar com elenco de peso.",
+        "_yoast_wpseo_focuskw": "Russell Crowe Nuremberg filme",
+        "_yoast_news_keywords": "Russell Crowe, Nuremberg, Rami Malek, Michael Shannon, James Vanderbilt, Segunda Guerra Mundial, Filme de Guerra",
+        "_yoast_wpseo_opengraph-title": "Russell Crowe: Filme de Guerra \"Nuremberg\" Ganha Data de Lançamento nos Cinemas",
+        "_yoast_wpseo_opengraph-description": "Russell Crowe estrela o drama de guerra \"Nuremberg\", com estreia marcada para 7 de novembro. O filme busca reconhecimento no Oscar com elenco de peso.",
+        "_yoast_wpseo_twitter-title": "Russell Crowe: Filme de Guerra \"Nuremberg\" Ganha Data de Lançamento nos Cinemas",
+        "_yoast_wpseo_twitter-description": "Russell Crowe estrela o drama de guerra \"Nuremberg\", com estreia marcada para 7 de novembro. O filme busca reconhecimento no Oscar com elenco de peso."
+      }
+    },
+    {
+      "titulo_final": "Batman: Série \"Caped Crusader\" Apresentará Nova Versão do Coringa",
+      "conteudo_final": "<p>O Coringa está de volta a Gotham em <b>Batman: Caped Crusader</b>, a série animada de <b>Matt Reeves</b>. A segunda temporada, com estreia prevista para 2026 no Prime Video, apresentará uma interpretação inédita do icônico vilão. Segundo o co-showrunner <b>James Tucker</b>, esta versão do Coringa será \"muito diferente\" para quem conhece as representações de Mark Hamill ou Jack Nicholson, mas fiel às raízes dos quadrinhos.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/05/batman-caped-crusader-poster-showing-batman-in-front-of-the-moon-hovering-over-gotham-city.jpeg\" alt=\"Pôster da série \"Batman: Caped Crusader\" com Batman em Gotham.\"><figcaption>A série \"Batman: Caped Crusader\" trará uma nova visão do Coringa em sua segunda temporada.</figcaption></figure><p>Tucker explicou que, embora alguns fãs reconheçam a inspiração nos quadrinhos, outros ficarão surpresos com a abordagem. \"Eu acho que é tudo Coringa\", afirmou.</p><h2>Teaser e Origens do Coringa</h2><p>Embora o Coringa não tenha aparecido na primeira temporada, o final revelou uma sinistra prévia do personagem: uma cena com reféns morrendo de rir, enquanto uma figura sombria com uma agulha dizia \"Perfeito\". Tucker confirmou que a segunda temporada explorará mais a fundo as origens desta versão do Coringa, que pode remeter à Era de Ouro dos quadrinhos do <b>Batman</b>.</p><p>A série se destaca pelo tom noir e foco investigativo, características que o próprio <b>Matt Reeves</b> encorajou. Tucker ressaltou que a equipe não teve a obrigação de replicar o trabalho de Reeves nos cinemas, pois entendem que <b>Caped Crusader</b> é uma obra separada, embora ambas compartilhem um Batman mais detetive.</p><h2>O Futuro do Batman e Novas Interpretações</h2><p>Com a aposentadoria de <b>Mark Hamill</b> do papel do Coringa após o falecimento de <b>Kevin Conroy</b>, <b>Caped Crusader</b> introduzirá um novo ator para o vilão, com escalação ainda não anunciada. <b>Hamish Linklater</b> já empresta sua voz ao Batman na série, seguindo a filosofia de um novo começo para o Coringa.</p><p>Enquanto <b>Caped Crusader</b> desenvolve sua segunda temporada, <b>Reeves</b> também está focado em <b>The Batman: Part II</b> e na produção de outros projetos relacionados a Gotham, como um filme sobre o Clayface e uma animação em stop-motion chamada Dynamic Duo.</p>",
+      "meta_description": "A segunda temporada de \"Batman: Caped Crusader\" em 2026 apresentará uma nova versão do Coringa. A série explora o lado detetive do herói.",
+      "focus_keyphrase": "Batman Caped Crusader Coringa",
+      "related_keyphrases": [
+        "série do Batman Prime Video",
+        "Matt Reeves Batman",
+        "nova versão Coringa"
+      ],
+      "slug": "batman-caped-crusader-coringa-serie",
+      "categorias": [
+        {
+          "nome": "Batman: Caped Crusader",
+          "grupo": "obras",
+          "evidence": "Batman: Caped Crusader is set to debut its second season"
+        },
+        {
+          "nome": "DC Comics",
+          "grupo": "franquias",
+          "evidence": "Batman"
+        },
+        {
+          "nome": "Coringa",
+          "grupo": "personagens",
+          "evidence": "The Joker is returning to Gotham"
+        }
+      ],
+      "tags_sugeridas": [
+        "batman",
+        "coringa",
+        "matt reeves",
+        "prime video",
+        "james tucker",
+        "dc comics",
+        "animação"
+      ],
+      "image_alt_texts": {
+        "batman-caped-crusader-poster-showing-batman-in-front-of-the-moon-hovering-over-gotham-city.jpeg": "Pôster da série animada \"Batman: Caped Crusader\" com o Batman em destaque sobre Gotham City."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Batman: Série \"Caped Crusader\" Apresentará Nova Versão do Coringa em 2026",
+        "_yoast_wpseo_metadesc": "A segunda temporada de \"Batman: Caped Crusader\" em 2026 apresentará uma nova versão do Coringa. A série explora o lado detetive do herói.",
+        "_yoast_wpseo_focuskw": "Batman Caped Crusader Coringa",
+        "_yoast_news_keywords": "Batman, Coringa, Matt Reeves, Prime Video, James Tucker, DC Comics, Animação",
+        "_yoast_wpseo_opengraph-title": "Batman: Série \"Caped Crusader\" Apresentará Nova Versão do Coringa em 2026",
+        "_yoast_wpseo_opengraph-description": "A segunda temporada de \"Batman: Caped Crusader\" em 2026 apresentará uma nova versão do Coringa. A série explora o lado detetive do herói.",
+        "_yoast_wpseo_twitter-title": "Batman: Série \"Caped Crusader\" Apresentará Nova Versão do Coringa em 2026",
+        "_yoast_wpseo_twitter-description": "A segunda temporada de \"Batman: Caped Crusader\" em 2026 apresentará uma nova versão do Coringa. A série explora o lado detetive do herói."
+      }
+    }
+  ]
+}
