@@ -1,0 +1,46 @@
+{
+  "titulo_final": "Mr. Robot: Fã tenta hackear criador para pedir série derivada",
+  "conteudo_final": "<p>Durante um evento em celebração aos 10 anos de <b>Mr. Robot</b> na New York Comic-Con de 2025, o criador da série, <b>Sam Esmail</b>, compartilhou uma história inusitada sobre um fã que tentou "hackear" seu e-mail na tentativa de pedir uma nova série derivada. A ocasião contou com a presença de atores como <b>Rami Malek</b> e <b>Christian Slater</b>.</p><h2>Tentativa de Hacking com Propósito de Spin-off</h2><p>Esmail relatou que, há alguns meses, recebeu uma ligação de alguém que alegava ser do Google, informando sobre um suposto comprometimento de sua conta Gmail e solicitando informações para ajudar. Curioso, o criador decidiu entrar no jogo do interlocutor. \"Eu pensei, 'cara, você pegou a pessoa errada para fazer isso'. Ele [o suposto hacker] respondeu: 'Desculpe, não entendi, isto é o Google e nós somos blah blah blah'. E eu decidi entrar na brincadeira. Ok. Vamos ver até onde isso vai\", contou Esmail.</p><p>O criador manteve o diálogo, mas de forma a dificultar a ação do outro lado, sem clicar em links suspeitos e pedindo um número de caso. A conversa se estendeu até que o interlocutor solicitou um número de autenticação de dois fatores, algo que jamais deveria ser compartilhado. Foi nesse ponto que Esmail percebeu a farsa. \"Eu disse: 'cara, é aqui que você perdeu'. 'Por favor, desiste. Estou apenas curioso. O que você está tentando conseguir de mim?'\", questionou.</p><p>Diante da insistência de Esmail, o suposto hacker "largou o disfarce" e revelou seu verdadeiro objetivo: \"Eu só quero muito a temporada com <b>Carly [Chaikin]</b> e Joey Badass. Eu só quero esse spin-off. Você pode fazer isso, por favor?\" A solicitação se referia a um possível spin-off focado nos personagens Darlene e Leon, interpretados por Chaikin e pelo rapper Joey Bada$$, respectivamente, ambos favoritos dos fãs e com potencial para aventuras próprias após o final da série. Esmail admitiu ter ficado "até lisonjeado" com a abordagem criativa, vendo o lado "divertido" e "adorável" na situação.</p><h2>O Futuro de Mr. Robot no Universo de Séries Derivadas</h2><p>Apesar da admiração pela iniciativa do fã, um novo spin-off ou sequência para <b>Mr. Robot</b> não parece estar nos planos imediatos de Sam Esmail. O criador expressou seu carinho pelo universo da série, mas acredita que a história foi concluída de forma satisfatória. \"Eu adoraria nada mais do que voltar para o mundo de <b>Mr. Robot</b>, mas cara... eu só sinto que contamos aquela história, e ela terminou, eu acho, de uma forma muito ótima\", declarou.</p><p>No entanto, Esmail também comentou com um tom de curiosidade sobre a possibilidade de algo acontecer no futuro, deixando uma porta entreaberta para os fãs mais esperançosos. A série original <b>Mr. Robot</b> está disponível para streaming na Netflix.</p>",
+  "meta_description": "Fã tenta enganar criador de Mr. Robot, Sam Esmail, em ligação para pedir uma série derivada focada em Darlene e Leon. Saiba mais!",
+  "focus_keyphrase": "Mr. Robot spin-off",
+  "related_keyphrases": [
+    "Sam Esmail",
+    "Mr. Robot série derivada",
+    "Sam Esmail hackeado"
+  ],
+  "slug": "mr-robot-fas-tentam-hackear-criador",
+  "categorias": [
+    {
+      "nome": "Mr. Robot",
+      "grupo": "obras",
+      "evidence": "A 'Mr. Robot 10th Anniversary: A Live Happy Sad Confused Event' panel hosted by Josh Horowitz during the 2025 New York Comic-Con"
+    },
+    {
+      "nome": "Sam Esmail",
+      "grupo": "pessoas",
+      "evidence": "creator Sam Esmail told an anecdote"
+    }
+  ],
+  "tags_sugeridas": [
+    "Mr. Robot",
+    "Sam Esmail",
+    "Rami Malek",
+    "Christian Slater",
+    "Carly Chaikin",
+    "Joey Bada$$",
+    "New York Comic-Con"
+  ],
+  "image_alt_texts": {
+    "0381024_poster_w780.jpg": "Poster oficial da série Mr. Robot, com os personagens Elliot Alderson e Mr. Robot em destaque."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Mr. Robot: Fã tenta hackear criador para pedir série derivada",
+    "_yoast_wpseo_metadesc": "Fã tenta enganar criador de Mr. Robot, Sam Esmail, em ligação para pedir uma série derivada focada em Darlene e Leon. Saiba mais!",
+    "_yoast_wpseo_focuskw": "Mr. Robot spin-off",
+    "_yoast_news_keywords": "Mr. Robot, Sam Esmail, Rami Malek, Christian Slater, Carly Chaikin, Joey Bada$$, New York Comic-Con, série derivada",
+    "_yoast_wpseo_opengraph-title": "Mr. Robot: Fã tenta hackear criador para pedir série derivada",
+    "_yoast_wpseo_opengraph-description": "Fã tenta enganar criador de Mr. Robot, Sam Esmail, em ligação para pedir uma série derivada focada em Darlene e Leon. Saiba mais!",
+    "_yoast_wpseo_twitter-title": "Mr. Robot: Fã tenta hackear criador para pedir série derivada",
+    "_yoast_wpseo_twitter-description": "Fã tenta enganar criador de Mr. Robot, Sam Esmail, em ligação para pedir uma série derivada focada em Darlene e Leon. Saiba mais!"
+  }
+}

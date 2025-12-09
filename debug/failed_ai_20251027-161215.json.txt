@@ -1,0 +1,182 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Wars: 7 diretores que quase comandaram um filme da saga",
+      "conteudo_final": "<p>Criar uma história dentro do universo de <b>Star Wars</b> é um privilégio para qualquer cineasta. A obra de George Lucas inspira milhões, e ocasionalmente, um diretor se destaca e recebe a aprovação da Lucasfilm para realizar seus projetos. No entanto, nem todas as ideias são aprovadas.</p><p>Recentemente, Adam Driver revelou que Steven Soderbergh, conhecido por seu trabalho na trilogia <i>Ocean's</i>, apresentou à Lucasfilm um projeto para um filme centrado em Ben Solo. Contudo, a Disney não aprovou a ideia, sem compreender como o personagem de Driver poderia estar vivo após os eventos de <i>Star Wars: A Ascensão Skywalker</i>. Soderbergh foi, portanto, rejeitado.</p><h2>Diretores que Quase Dirigiram Star Wars</h2><p>Ser rejeitado pela equipe criativa de <i>Star Wars</i> coloca Soderbergh em um clube seleto. A Lucasfilm frequentemente estabelece parcerias com cineastas talentosos antes de finalizar todos os detalhes. Abaixo estão sete diretores que estiveram perto de dirigir um filme de <i>Star Wars</i>, incluindo um que merece uma nova chance.</p><h2>David Benioff &amp; D.B. Weiss</h2><p>David Benioff e D.B. Weiss, criadores da aclamada série <i>Game of Thrones</i> da HBO, foram inicialmente escalados para desenvolver uma trilogia de filmes de <i>Star Wars</i>. A proposta visava expandir o universo após o encerramento da saga Skywalker.</p><p>No entanto, um acordo firmado pela dupla com a Netflix impossibilitou a realização de seus filmes de <i>Star Wars</i>. Benioff e Weiss nunca detalharam o conteúdo de seus projetos, mas fãs expressaram um forte desejo de vê-los explorar a era da Velha República.</p><h2>David Lynch</h2><p>David Lynch nunca precisou responder a perguntas sobre seu projeto de <i>Star Wars</i>, pois George Lucas o procurou para dirigir <i>Star Wars: O Retorno de Jedi</i>, o capítulo final da trilogia original. Apesar do respeito mútuo, Lucas e Lynch não chegaram a um acordo criativo.</p><p>Lynch sugeriu que Lucas dirigisse o filme, por ser sua criação. Lucas não concordou e acabou escolhendo Richard Marquand para a direção, que cumpriu seu papel no Episódio VI.</p><h2>Josh Trank</h2><p>Após a aquisição da Lucasfilm pela Disney, diversos talentos foram considerados para iniciar uma nova era na franquia. Josh Trank foi um dos nomes selecionados para dirigir um filme solo de Boba Fett.</p><p>O desempenho problemático de <i>Quarteto Fantástico</i> resultou no cancelamento do projeto de Trank. Embora o caçador de recompensas tenha retornado em <i>The Mandalorian</i> e em sua própria série, <i>O Livro de Boba Fett</i>, o filme solo de Trank não se concretizou.</p><h2>Guillermo del Toro</h2><p>A galáxia muito, muito distante abriga inúmeras criaturas com histórias ricas, muitas das quais poderiam protagonizar seus próprios projetos. Guillermo del Toro acreditou ter uma ideia promissora ao propor à Lucasfilm um filme focado em Jabba, o Hutt, explorando o submundo de <i>Star Wars</i>.</p><p>Embora o projeto não tenha avançado, seria prudente para a Lucasfilm manter contato com del Toro, um renomado nome em Hollywood com um amor declarado por monstros.</p><h2>Colin Trevorrow</h2><p>J.J. Abrams assumiu a direção de <i>Star Wars: A Ascensão Skywalker</i>, mas Colin Trevorrow também trabalhou em uma versão inicial do roteiro. Seu conceito envolvia o retorno de Coruscant e a estreia em live-action de Mortis.</p><p>Diferenças criativas levaram à saída de Trevorrow do Episódio IX, e ele retornou à Universal para dirigir <i>Jurassic World: Domínio</i>.</p><h2>Patty Jenkins</h2><p>Apesar de <i>Star Wars</i> pertencer à Disney, que também detém a Marvel, a franquia não descarta talentos de outros estúdios. Patty Jenkins, diretora de <i>Mulher-Maravilha</i>, esteve envolvida no desenvolvimento de <i>Star Wars: Rogue Squadron</i>, inspirado em jogos e livros.</p><p>Rumores esporádicos sugerem que <i>Rogue Squadron</i> pode sair do papel, mas informações concretas não surgiram. O projeto parece ter sido arquivado, especialmente com a produção de <i>Star Wars: Starfighter</i> por Shawn Levy, que aborda temas semelhantes.</p>",
+      "meta_description": "Conheça 7 diretores que estiveram perto de comandar um filme de Star Wars, mas tiveram seus projetos cancelados pela Lucasfilm ou Disney.",
+      "focus_keyphrase": "Diretores que quase fizeram filme de Star Wars",
+      "related_keyphrases": [
+        "Lucasfilm projetos cancelados",
+        "Steven Soderbergh Star Wars",
+        "Guillermo del Toro Jabba the Hutt"
+      ],
+      "slug": "diretores-quase-fizeram-star-wars",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "play in the <a href=\"https://comicbook.com/tag/star-wars/\">Star Wars</a> sandbox"
+        },
+        {
+          "nome": "Lucasfilm",
+          "grupo": "franquias",
+          "evidence": "gets the go-ahead from Lucasfilm"
+        },
+        {
+          "nome": "Ben Solo",
+          "grupo": "personagens",
+          "evidence": "pitched a Ben Solo movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Lucasfilm",
+        "David Lynch",
+        "Josh Trank",
+        "Guillermo del Toro",
+        "Patty Jenkins",
+        "Steven Soderbergh"
+      ],
+      "image_alt_texts": {
+        "Star-Wars-Rogue-Squadron-II-Rogue-Leader.jpg": "Arte conceitual de Star Wars: Rogue Squadron com naves em combate.",
+        "u-b-i-s-o-f-t.png": "Logo da Ubisoft.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_8d231e.png": "Logo do Xbox Game Pass.",
+        "Jon-Snow-Kit-Harington-beyond-the-Wall-in-Game-of-Thrones-Season-7.jpg": "Kit Harington como Jon Snow em Game of Thrones.",
+        "luke-skywalker-darth-vader-return-of-the-jedi.jpg": "Luke Skywalker e Darth Vader em Star Wars: O Retorno de Jedi.",
+        "hey-thats-jabba-the-hutt.jpg": "Jabba, o Hutt, em Star Wars.",
+        "the-book-of-boba-fett.jpg": "Logo da série The Book of Boba Fett.",
+        "Ex-Machina.jpg": "Poster do filme Ex Machina.",
+        "Firefly-Out-of-Gas-episode.jpg": "Imagem do episódio 'Out of Gas' da série Firefly.",
+        "Halo-Combat-Evolved.jpg": "Capa do jogo Halo: Combat Evolved.",
+        "Rey-with-yellow-lightsaber-in-Star-Wars-The-Rise-of-Skywalker.jpg": "Rey com sabre de luz amarelo em Star Wars: A Ascensão Skywalker.",
+        "mackenzie-davis.jpg": "Atriz Mackenzie Davis."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Diretores que Quase Dirigiram Filmes da Saga | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra quais diretores renomados quase comandaram filmes de Star Wars, mas tiveram seus projetos cancelados pela Lucasfilm.",
+        "_yoast_wpseo_focuskw": "Diretores que quase fizeram filme de Star Wars",
+        "_yoast_news_keywords": "Star Wars, Lucasfilm, Steven Soderbergh, David Benioff, D.B. Weiss, David Lynch, Josh Trank, Guillermo del Toro, Colin Trevorrow, Patty Jenkins",
+        "_yoast_wpseo_opengraph-title": "Star Wars: 7 diretores que quase comandaram um filme da saga",
+        "_yoast_wpseo_opengraph-description": "De Steven Soderbergh a Patty Jenkins, veja os cineastas que tiveram projetos de Star Wars cancelados pela Lucasfilm.",
+        "_yoast_wpseo_twitter-title": "Star Wars: 7 diretores que quase comandaram um filme da saga",
+        "_yoast_wpseo_twitter-description": "De Steven Soderbergh a Patty Jenkins, veja os cineastas que tiveram projetos de Star Wars cancelados pela Lucasfilm."
+      }
+    },
+    {
+      "titulo_final": "MCU: Agentes da S.H.I.E.L.D. teve obra-prima de ficção científica",
+      "conteudo_final": "<p>O Universo Cinematográfico Marvel (MCU) é conhecido por momentos icônicos, como o surgimento de Nick Fury em <i>Homem de Ferro</i>, a formação dos Vingadores na Batalha de Nova York e o inesquecível \"Do seu lado...\" em <i>Vingadores: Ultimato</i>. Contudo, a Marvel expandiu seu universo com outras produções notáveis, especialmente na televisão, que muitas vezes não recebem o mesmo reconhecimento nostálgico. Conteúdo serializado apresenta desafios para manter a qualidade constante, mas quando uma série da Marvel atinge seu ápice, os resultados são fantásticos.</p><h2>\"4,722 Horas\": Um Marco em Agentes da S.H.I.E.L.D.</h2><p>Exatamente dez anos atrás, em 27 de outubro de 2015, o episódio \"4,722 Horas\" de <i>Marvel's Agents of S.H.I.E.L.D.</i> foi ao ar. Até hoje, ele se destaca como uma das peças mais originais do MCU e uma das melhores histórias de ficção científica já apresentadas na TV.</p><p>O episódio \"4,722 Horas\" era o quinto da terceira temporada de <i>Agents of S.H.I.E.L.D.</i>, que se concentrava nos Inumanos e sua presença na Terra. Ele respondeu a um mistério crucial que ficou em aberto no final da segunda temporada: o que aconteceu com a cientista Jemma Simmons (Elizabeth Henstridge) durante um período de tempo desaparecido.</p><p>A cena final da segunda temporada mostrou Simmons sendo sugada por um portal dentro de um monólito alienígena (Kree) que ela estava estudando. Embora a equipe do Agente Phil Coulson (Clark Gregg) tenha conseguido reabrir o portal e resgatá-la com a ajuda dos poderes da agente Inumana Quake, a história de sua ausência era muito mais profunda.</p><p>Descobriu-se que Simmons passou por uma intensa história de sobrevivência de ficção científica ao ficar presa no planeta <b>Maveth</b>. Durante o primeiro mês, ela se dedicou à sobrevivência básica: encontrou fontes de alimento e água, e buscou abrigo das violentas tempestades de areia do planeta. Eventualmente, Simmons conheceu Will Daniels (Dillon Casey), um astronauta perdido em uma expedição de 2001, que estava em Maveth há 14 anos. Will alertou Simmons sobre uma presença senciente no planeta, capaz de corromper e enlouquecer as pessoas.</p><p>Simmons utilizou todo o seu conhecimento científico para prever os padrões naturais de abertura do portal e encontrar um caminho de volta para casa. No entanto, a entidade do planeta frustrou seus esforços, e Simmons eventualmente abandonou a esperança de retornar, começando uma vida com Will. Enquanto isso, seu parceiro científico e interesse amoroso, Leo Fitz (Iain De Caestecker), nunca desistiu de procurá-la e conseguiu chegar ao planeta para resgatá-la. A reviravolta final do episódio revelou que Simmons desenvolveu sentimentos românticos conflitantes e estava determinada a retornar ao planeta para salvar Will.</p><h2>\"4,722 Horas\": A Ficção Científica que o MCU Precisa Mais</h2><p>As histórias da Marvel Comics, em sua essência, são fortemente influenciadas pela ficção científica, diferenciando-se da DC. No entanto, com o sucesso global do MCU, os elementos centrais de ficção científica parecem ter sido deixados de lado em favor de uma abordagem mais voltada para fantasia e aventura. <i>Agents of S.H.I.E.L.D.</i> funcionou como um laboratório criativo, permitindo mais riscos em narrativas episódicas, e \"4,722 Horas\" foi um exemplo bem-sucedido dessa ousadia.</p><p>O episódio foi uma parábola de ficção científica sem precedentes, e um dos raros da série a focar quase inteiramente em um único personagem. Foi uma oportunidade merecida para a atriz Elizabeth Henstridge, que frequentemente atuava como coadjuvante e dividia seu tempo de tela com Fitz. Como peça do MCU, ele equilibrou perfeitamente a tendência da franquia de criar mistérios e revelações subsequentes com a necessidade de contar uma história substancial, que fosse além de uma lista de novidades.</p><p>A relação \"FitzSimmons\" era um pilar emocional da série. \"4,722 Horas\" explorou a ideia de um amor inquebrável que, no entanto, se vê desafiado quando Simmons precisa ponderar entre um futuro de saudade e uma vida ainda possível. Como as melhores histórias de ficção científica, o episódio não prega ou julga sua protagonista; em vez disso, levanta questões profundas e difíceis sobre amor, fidelidade e esperança, ambientadas em um cenário extremamente fantástico e assustador.</p><p>Além disso, este episódio independente introduziu elementos e revelações cruciais para a narrativa da temporada, sem permitir que as preocupações maiores da franquia ofuscassem os temas e o desenvolvimento da trama episódica. Os fãs tiveram um vislumbre da ameaça de \"Hive\" (o vilão da temporada), bem como pistas sobre os monólitos e seu papel como portais entre a Terra e uma antiga entidade Kree. Em suma, foi um conteúdo do MCU que se destacou por sua qualidade e conclusão autônoma, ao mesmo tempo em que impactava a linha narrativa principal da franquia. Atualmente, esse tipo de joia rara é ainda mais difícil de encontrar no universo Marvel.</p><p><i>Marvel's Agents of S.H.I.E.L.D.</i> está disponível para streaming no Disney+, incluindo o episódio \"4,722 Horas\".</p>",
+      "meta_description": "Há 10 anos, o MCU nos presenteou com \"4,722 Horas\", um episódio de Agents of S.H.I.E.L.D. que se tornou uma obra-prima de ficção científica.",
+      "focus_keyphrase": "Agentes da S.H.I.E.L.D. ficção científica",
+      "related_keyphrases": [
+        "Agents of S.H.I.E.L.D. \"4,722 Horas\"",
+        "Melhores episódios MCU TV",
+        "Jemma Simmons e Leo Fitz"
+      ],
+      "slug": "agentes-shield-obra-prima-ficcao",
+      "categorias": [
+        {
+          "nome": "Agents of S.H.I.E.L.D.",
+          "grupo": "obras",
+          "evidence": "<a href=\"https://comicbook.com/tag/agents-of-shield/\">Marvel’s Agents of S.H.I.E.L.D.</a>"
+        },
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "The Marvel Cinematic Universe is a franchise"
+        },
+        {
+          "nome": "FitzSimmons",
+          "grupo": "personagens",
+          "evidence": "the “FitzSimmons” coupling was a major part of the show’s emotional core"
+        }
+      ],
+      "tags_sugeridas": [
+        "Agents of S.H.I.E.L.D.",
+        "MCU",
+        "Ficção Científica",
+        "Jemma Simmons",
+        "Leo Fitz",
+        "Maveth",
+        "Disney+"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Logo da Ubisoft.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_8d231e.png": "Logo do Xbox Game Pass.",
+        "Agents-of-SHIELD-4722-Hours-Aired-10-Years-Ago-Today.jpg": "Jemma Simmons em uma paisagem alienígena no episódio \"4,722 Horas\" de Agents of S.H.I.E.L.D.",
+        "Agents-of-SHIELD-FitzSimmons.jpg": "Jemma Simmons e Leo Fitz em Agents of S.H.I.E.L.D.",
+        "Ex-Machina.jpg": "Poster do filme Ex Machina.",
+        "Firefly-Out-of-Gas-episode.jpg": "Imagem do episódio 'Out of Gas' da série Firefly.",
+        "Halo-Combat-Evolved.jpg": "Capa do jogo Halo: Combat Evolved.",
+        "mackenzie-davis.jpg": "Atriz Mackenzie Davis."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Agentes da S.H.I.E.L.D.: Obra-prima de Ficção Científica no MCU | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Há 10 anos, o episódio \"4,722 Horas\" de Agents of S.H.I.E.L.D. entregou uma história única de ficção científica para o MCU.",
+        "_yoast_wpseo_focuskw": "Agentes da S.H.I.E.L.D. ficção científica",
+        "_yoast_news_keywords": "Agents of S.H.I.E.L.D., MCU, Elizabeth Henstridge, Iain De Caestecker, Disney+, Ficção Científica",
+        "_yoast_wpseo_opengraph-title": "MCU: Agents of S.H.I.E.L.D. entregou obra-prima de ficção científica há 10 anos",
+        "_yoast_wpseo_opengraph-description": "O episódio \"4,722 Horas\" de Agents of S.H.I.E.L.D. é lembrado como uma das histórias mais originais e bem-sucedidas do MCU.",
+        "_yoast_wpseo_twitter-title": "MCU: Agents of S.H.I.E.L.D. entregou obra-prima de ficção científica há 10 anos",
+        "_yoast_wpseo_twitter-description": "O episódio \"4,722 Horas\" de Agents of S.H.I.E.L.D. é lembrado como uma das histórias mais originais e bem-sucedidas do MCU."
+      }
+    },
+    {
+      "titulo_final": "Twin Peaks: 35 anos da trama problemática e personagem controverso",
+      "conteudo_final": "<p>Há mais de 35 anos, <b>David Lynch</b> e Mark Frost redefiniram a televisão com <i>Twin Peaks</i>. A série conquistou o público com seus personagens excêntricos, cenário peculiar e mistério envolvente, tornando-se um sucesso imediato em seu lançamento em 1990. No entanto, interferências criativas posteriores levaram a show por caminhos inesperados, quase comprometendo sua identidade artística. Como resultado, a segunda temporada por vezes saiu dos trilhos, resultando em decisões de enredo que deixaram os espectadores perplexos por anos.</p><h2>O Ponto de Virada em Twin Peaks: Episódio 12</h2><p><i>Twin Peaks</i> não era estranha a tramas inacreditáveis e digressões de personagens que pareciam não levar a lugar algum. Uma delas é Nadine Hurley, a esposa de um olho só de Big Ed. Nadine passou a primeira temporada desenvolvendo um sistema de corrediças para cortinas. Na segunda temporada, após ter sua patente negada e enfrentar depressão, Nadine tenta suicídio, o que nos leva à trama iniciada no Episódio 12 de <i>Twin Peaks</i>.</p><p>Após seu quase suicídio, um desenvolvimento curioso ocorreu com Nadine. Ao acordar do coma, sua mente reverteu para a adolescência, e ela se convence de que ainda está no colégio. Contudo, isso não é tudo. Nadine agora exibe uma força descomunal, revelada ao arrancar a porta da geladeira das dobradiças. Essa combinação de força similar à do Hulk e a crença de ser adolescente começou aqui e se estendeu por mais 16 episódios, incluindo sua reintegração ao ensino médio e participação na equipe de luta livre.</p><p>A segunda grande trama que se inicia no Episódio 12 é uma das mais controversas da série. Um misterioso empresário japonês, Sr. Tojamura, faz sua estreia e tenta comprar o lucrativo Projeto Ghostwood de Ben Horne. A trama parecia direta para os espectadores da época, mas os episódios seguintes revelaram que o Sr. Tojamura era, na verdade, Catherine Martell (Piper Laurie), a proprietária da Packard Sawmill, disfarçada.</p><p>Em 1990, um dos maiores programas de televisão apresentou uma atriz indicada ao Oscar usando <i>yellowface</i>. Laurie não apenas utilizou próteses e uma peruca para o disfarce, mas também adotou uma afetação vocal baseada em estereótipos racistas ofensivos. Para manter o segredo, a série creditou Laurie como \"Fumio Yamaguchi\" e informou à equipe que ela era uma atriz japonesa. Essa subtrama, embora mais curta que a de Nadine, é facilmente uma das mais problemáticas de toda a série, e ambas tiveram seu início no mesmo episódio.</p><p><i>Twin Peaks</i> está disponível para streaming no Paramount+.</p>",
+      "meta_description": "35 anos após sua estreia, Twin Peaks introduziu a problemática Catherine Martell disfarçada e a insana trama de Nadine Hurley.",
+      "focus_keyphrase": "Twin Peaks trama problemática",
+      "related_keyphrases": [
+        "Twin Peaks personagem controverso",
+        "David Lynch séries",
+        "Nadine Hurley força sobrenatural"
+      ],
+      "slug": "twin-peaks-35-anos-controversa",
+      "categorias": [
+        {
+          "nome": "Twin Peaks",
+          "grupo": "obras",
+          "evidence": "<a href=\"https://comicbook.com/tag/twin-peaks/\">Twin Peaks</a>"
+        },
+        {
+          "nome": "David Lynch",
+          "grupo": "diretores",
+          "evidence": "<a href=\"https://comicbook.com/tag/david-lynch/\">David Lynch</a>"
+        },
+        {
+          "nome": "Catherine Martell",
+          "grupo": "personagens",
+          "evidence": "Catherine Martell (Piper Laurie)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Twin Peaks",
+        "David Lynch",
+        "Mark Frost",
+        "Nadine Hurley",
+        "Catherine Martell",
+        "Yellowface",
+        "Paramount+"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Logo da Ubisoft.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_8d231e.png": "Logo do Xbox Game Pass.",
+        "Ex-Machina.jpg": "Poster do filme Ex Machina.",
+        "Firefly-Out-of-Gas-episode.jpg": "Imagem do episódio 'Out of Gas' da série Firefly.",
+        "Halo-Combat-Evolved.jpg": "Capa do jogo Halo: Combat Evolved.",
+        "mackenzie-davis.jpg": "Atriz Mackenzie Davis.",
+        "twin-peaks-mr-Tojamura.jpg": "Catherine Martell disfarçada como Sr. Tojamura em Twin Peaks.",
+        "twin-peaks-nadine-is-strong-now.jpg": "Nadine Hurley demonstrando super força em Twin Peaks."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Twin Peaks: 35 Anos de Trama Problemática e Personagem Controverso | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Há 35 anos, Twin Peaks apresentou a controversa trama do Sr. Tojamura e a insana jornada de Nadine Hurley. Relembre.",
+        "_yoast_wpseo_focuskw": "Twin Peaks trama problemática",
+        "_yoast_news_keywords": "Twin Peaks, David Lynch, Mark Frost, Nadine Hurley, Catherine Martell, Yellowface, Piper Laurie",
+        "_yoast_wpseo_opengraph-title": "Twin Peaks: 35 anos da trama problemática e personagem controverso",
+        "_yoast_wpseo_opengraph-description": "Relembre as duas tramas mais controversas introduzidas no Episódio 12 de Twin Peaks, que marcaram a série há 35 anos.",
+        "_yoast_wpseo_twitter-title": "Twin Peaks: 35 anos da trama problemática e personagem controverso",
+        "_yoast_wpseo_twitter-description": "Relembre as duas tramas mais controversas introduzidas no Episódio 12 de Twin Peaks, que marcaram a série há 35 anos."
+      }
+    }
+  ]
+}

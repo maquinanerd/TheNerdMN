@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Buck Rogers: Filme é anunciado com roteirista de Deadpool & Wolverine",
+      "conteudo_final": "<p>Um novo remake da clássica série de ficção científica <b>Buck Rogers</b> está em desenvolvimento. O herói, conhecido por suas aventuras espaciais, foi criado originalmente nos anos 1930 e ganhou fama mundial através de tirinhas de jornal.</p><h2>História e Reimaginações de Buck Rogers</h2><p>Ao longo das décadas, <i>Buck Rogers</i> foi adaptado em diversas mídias, incluindo uma serial de cinema, programas de rádio e séries de televisão. Em 1979, aproveitando o sucesso de <i>Star Wars</i>, uma nova série do personagem estrelada por Gil Gerard foi exibida pela NBC por duas temporadas.</p><figure><img src=\"https:
+      "meta_description": "Um novo filme de Buck Rogers está em desenvolvimento pela Legendary, com roteiro de Zeb Wells, conhecido por Deadpool & Wolverine. Saiba mais sobre o projeto.",
+      "focus_keyphrase": "Buck Rogers",
+      "related_keyphrases": [
+        "filme Buck Rogers",
+        "Zeb Wells",
+        "Legendary Pictures"
+      ],
+      "slug": "buck-rogers-filme-zeb-wells",
+      "categorias": [
+        {
+          "nome": "Buck Rogers",
+          "grupo": "franquias",
+          "evidence": "Buck Rogers movie is in the works"
+        },
+        {
+          "nome": "Deadpool & Wolverine",
+          "grupo": "obras",
+          "evidence": "Deadpool & Wolverine writer Zeb Wells"
+        }
+      ],
+      "tags_sugeridas": [
+        "buck rogers",
+        "zeb wells",
+        "deadpool & wolverine",
+        "legendary pictures",
+        "ficção científica",
+        "anos 70"
+      ],
+      "image_alt_texts": {
+        "Buck-Rogers-TV-show-poster.jpg": "Pôster da série de TV Buck Rogers retratando o personagem em seu traje icônico.",
+        "buck-rogers-poster.jpg": "Pôster de Buck Rogers para um novo filme, com elementos futuristas."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Buck Rogers: Filme anunciado com roteirista de Deadpool & Wolverine",
+        "_yoast_wpseo_metadesc": "Um novo filme de Buck Rogers está em desenvolvimento pela Legendary, com roteiro de Zeb Wells, conhecido por Deadpool & Wolverine. Saiba mais sobre o projeto.",
+        "_yoast_wpseo_focuskw": "Buck Rogers",
+        "_yoast_news_keywords": "Buck Rogers, Zeb Wells, Legendary Pictures, Deadpool & Wolverine, ficção científica, série de TV",
+        "_yoast_wpseo_opengraph-title": "Buck Rogers: Filme anunciado com roteirista de Deadpool & Wolverine",
+        "_yoast_wpseo_opengraph-description": "Um novo remake da clássica série de ficção científica Buck Rogers está em desenvolvimento pela Legendary, com roteiro de Zeb Wells.",
+        "_yoast_wpseo_twitter-title": "Buck Rogers: Filme anunciado com roteirista de Deadpool & Wolverine",
+        "_yoast_wpseo_twitter-description": "Um novo remake da clássica série de ficção científica Buck Rogers está em desenvolvimento pela Legendary, com roteiro de Zeb Wells."
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Host: O Filme de Terror Mais Assustador Adicionado à Netflix",
+      "conteudo_final": "<p>Uma adição recente à Netflix está conquistando a atenção de fãs de terror: <b>Host</b>, um filme independente de 2020 que se destaca por sua atmosfera aterradora. Adicionado à plataforma no mês passado, o longa-metragem dirigido por Rob Savage promete ser uma experiência intensa para os espectadores mais corajosos.</p><h2>Host: Um Fenômeno do Terror Pandêmico</h2><p>Ambientado durante a pandemia, <b>Host</b> se desenrola inteiramente em uma chamada de vídeo via Zoom. O filme acompanha um grupo de amigos que decide realizar uma sessão espírita virtual, mas acaba inadvertidamente invocando uma presença demoníaca malévola em suas casas. A premissa simples, mas eficaz, combinada com a execução aterrorizante, garantiu ao filme uma pontuação de 98% no Rotten Tomatoes, sendo aclamado como “um deleite eficaz e desagradável para os entusiastas do terror”.</p><h2>A Ciência Confirma: Host é um dos Filmes Mais Assustadores</h2><p>A fama de <b>Host</b> como um dos filmes de terror mais assustadores não é infundada. Um experimento científico conduzido pelo The Science of Scare Project mediu as taxas de batimento cardíaco de 250 participantes para determinar o fator de susto de diversos filmes. O estudo revelou que <b>Host</b> é o segundo filme mais assustador já registrado, com uma pontuação de susto de 95, superando outros títulos notórios como <i>Insidious</i>, <i>The Exorcism of Emily Rose</i> e <i>Paranormal Activity</i>. O filme ficou atrás apenas de <i>Sinister</i>.</p><p>Com uma duração total inferior a uma hora, <b>Host</b> utiliza seu tempo de forma exemplar para entregar momentos de puro pavor. A obra combina de maneira inteligente experiências cotidianas e ansiedades modernas com tropos clássicos do terror, resultando em uma narrativa imprevisível e que prende o espectador do início ao fim. Relatos de espectadores indicam que o filme é capaz de causar um medo visceral, com \"jump scares de primeira linha\".</p><h2>Outros Filmes de Terror Disponíveis na Netflix</h2><p>Além de <b>Host</b>, a Netflix adicionou outros títulos de peso ao seu catálogo em outubro, ideal para a temporada de Halloween. Assinantes podem agora encontrar na plataforma filmes como <i>Death Becomes Her</i>, <i>Sinister 2</i>, <i>The Strangers</i>, <i>When a Stranger Calls</i>, <i>Night of the Living Dead</i>, <i>I Still Know What You Did Last Summer</i> e <i>I Know What You Did Last Summer</i> (2025). A seleção oferece uma variedade de subgêneros do horror para todos os gostos.</p>",
+      "meta_description": "Descubra Host, um filme de terror aclamado pela crítica e ciência, agora disponível na Netflix. Veja por que ele é considerado um dos mais assustadores.",
+      "focus_keyphrase": "Host filme de terror Netflix",
+      "related_keyphrases": [
+        "Host filme mais assustador",
+        "filmes de terror Netflix 2020",
+        "Rob Savage Host"
+      ],
+      "slug": "host-filme-terror-netflix-assustador",
+      "categorias": [
+        {
+          "nome": "Host",
+          "grupo": "obras",
+          "evidence": "Netflix subscribers who think they can handle great scares need to check out Host."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "streaming on <a href=\"https://comicbook.com/tag/netflix/\">Netflix</a>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Host",
+        "Netflix",
+        "filmes de terror",
+        "Rob Savage",
+        "paranormal",
+        "sobrenatural"
+      ],
+      "image_alt_texts": {
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Imagem ilustrativa de tecnologia, não diretamente relacionada ao conteúdo.",
+        "Escape-from-New-York.jpg": "Poster do filme Escape from New York.",
+        "Battlestar-Galactica-33.jpg": "Imagem promocional da série Battlestar Galactica.",
+        "Star-Cops.jpg": "Imagem promocional da série Star Cops.",
+        "comicbook.com-images3.png": "Arte promocional genérica de entretenimento.",
+        "p-s-5-p-r-o.png": "Imagem ilustrativa do console PlayStation 5 Pro.",
+        "p-s-5_aed69f.png": "Imagem do console PlayStation 5.",
+        "sunshine.jpg": "Poster do filme Sunshine.",
+        "SNlKbqHqGcY/hqdefault.jpg": "Thumbnail do YouTube para o trailer do filme Host.",
+        "SNlKbqHqGcY/maxresdefault.jpg": "Imagem de alta resolução do trailer do filme Host."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Host: O Filme de Terror Mais Assustador Adicionado à Netflix",
+        "_yoast_wpseo_metadesc": "Descubra Host, um filme de terror aclamado pela crítica e ciência, agora disponível na Netflix. Veja por que ele é considerado um dos mais assustadores.",
+        "_yoast_wpseo_focuskw": "Host filme de terror Netflix",
+        "_yoast_news_keywords": "Host, Netflix, filmes de terror, Rob Savage, paranormal, sobrenatural, Session 7",
+        "_yoast_wpseo_opengraph-title": "Host: O Filme de Terror Mais Assustador Adicionado à Netflix",
+        "_yoast_wpseo_opengraph-description": "Descubra Host, um filme de terror aclamado pela crítica e ciência, agora disponível na Netflix. Veja por que ele é considerado um dos mais assustadores.",
+        "_yoast_wpseo_twitter-title": "Host: O Filme de Terror Mais Assustador Adicionado à Netflix",
+        "_yoast_wpseo_twitter-description": "Descubra Host, um filme de terror aclamado pela crítica e ciência, agora disponível na Netflix. Veja por que ele é considerado um dos mais assustadores."
+      }
+    }
+  ]
+}

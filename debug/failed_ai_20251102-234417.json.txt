@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Ator de 'Mayor of Kingstown' entra para nova série de Taylor Sheridan",
+  "conteudo_final": "<p>Após a morte chocante de seu personagem em <b>Mayor of Kingstown</b>, o ator Lane Garrison foi confirmado em uma nova série criada por Taylor Sheridan. Garrison interpretava Carney, um guarda prisional leal a Mike McLusky (Jeremy Renner).</p><h2>Morte de Carney em 'Mayor of Kingstown'</h2><p>No segundo episódio da quarta temporada de <b>Mayor of Kingstown</b>, Carney foi surpreendentemente morto por Cortez (Derek Rivera). A saída abrupta do personagem representou a perda de um aliado para Mike.</p><p>Em entrevista a um veículo especializado, Garrison expressou surpresa com o destino de seu personagem. Ele revelou que, ao receber a notícia da morte de Carney, também soube que integraria o elenco de <b>Tulsa King</b>, outra produção de Sheridan para a Paramount+.</p><blockquote><p>Eu não esperava. Fiquei um pouco chocado. Recebi uma ligação do produtor executivo neste verão, que é sempre uma ligação estranha. É como se você estivesse sendo chamado para as grandes ligas, ou então é: “Você foi cortado, estamos mandando você para o Triple-A e você nunca chegará às maiores ligas.” E então eu atendi, e eles disseram: “Temos boas e más notícias. A má notícia é que vamos te matar.” Eu disse: “Qual é a boa notícia?” “Vamos arranjar algo para você em Tulsa King.” Ainda não fiz isso, mas, sim, foi um pouco chocante, mas pelo menos eles me avisaram: “Ei, nesta temporada, não se apegue muito.” É sempre decepcionante quando esse grupo peculiar de pessoas se torna parte da sua família e, então, você tem que dizer adeus. Essa é a parte mais difícil.</p></blockquote><h2>Nova Oportunidade em 'Tulsa King'</h2><p>Garrison ainda não tem detalhes sobre seu novo papel em <b>Tulsa King</b>, mas demonstrou entusiasmo com a possibilidade de trabalhar com Michael Beach, que também atuou em ambas as séries. O ator deixou claro, no entanto, sua única condição para estrear no drama criminal estrelado por Sylvester Stallone: ele não quer mais morrer em cena.</p><blockquote><p>Bem, não, ainda não sei. Eles apenas me disseram isso, e eu não sei… mas espero que sim, porque adoraria ver Michael Beach, que migrou do nosso programa para aquele, e ele foi uma das minhas pessoas favoritas com quem já trabalhei. Então, não sei, talvez eu receba uma ligação de lá, ou de <em>Landman</em> ou de algum lugar, mas não vou morrer na próxima vez. Vou dizer a eles: “Se eu morrer, não farei isso.” Esta foi talvez minha 16ª ou 17ª morte na tela. Cansa porque dá mais trabalho dizer adeus do que fazer a morte em si. É como, “Ei, conheço essas 200 pessoas!”</p></blockquote><p>Esta não é a primeira vez que Garrison participa de múltiplas séries de Taylor Sheridan. Além de <b>Mayor of Kingstown</b>, ele apareceu em quatro episódios da segunda temporada de <b>Yellowstone</b>. Agora, ele se junta a James Jordan, Dawn Olivieri, Matt Gerald e Nichole Galicia, que já estiveram em pelo menos três séries de Sheridan.</p><h2>O Futuro de Taylor Sheridan e Seus Atores</h2><p>A notícia da colaboração de Garrison com Sheridan surge uma semana após o anúncio de que o criador deixará a Paramount para se juntar à NBCUniversal. Contudo, a mudança contratual só começará a valer a partir de 2029, com o acordo atual com a Paramount se estendendo até 2028.</p><p>Considerando que Sheridan tem contrato para criar pelo menos 20 séries para o serviço de streaming Peacock da NBC, é possível que ele desenvolva novas produções com Garrison, talvez até em papéis principais. No entanto, tais projetos ainda estão distantes.</p><figure class="video-container"><iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></figure><p>Por enquanto, Garrison pode ser visto em <b>Mayor of Kingstown</b>, <b>Yellowstone</b> e em futuras temporadas de <b>Tulsa King</b>, todas disponíveis na Paramount+. A sua condição de não morrer em cena, caso seja atendida, garantirá que seu novo personagem sobreviva, ao contrário de Carney.</p>",
+  "meta_description": "Lane Garrison, após morte em Mayor of Kingstown, junta-se a Tulsa King. Ator busca novos papéis em séries de Taylor Sheridan.",
+  "focus_keyphrase": "Lane Garrison Taylor Sheridan",
+  "related_keyphrases": [
+    "Taylor Sheridan séries",
+    "Mayor of Kingstown Tulsa King",
+    "Lane Garrison novo papel"
+  ],
+  "slug": "ator-mayor-kingstown-nova-serie-sheridan",
+  "categorias": [
+    {
+      "nome": "Mayor of Kingstown",
+      "grupo": "obras",
+      "evidence": "Mayor of Kingstown"
+    },
+    {
+      "nome": "Tulsa King",
+      "grupo": "obras",
+      "evidence": "Tulsa King"
+    },
+    {
+      "nome": "Yellowstone",
+      "grupo": "obras",
+      "evidence": "Yellowstone"
+    }
+  ],
+  "tags_sugeridas": [
+    "Lane Garrison",
+    "Taylor Sheridan",
+    "Mayor of Kingstown",
+    "Tulsa King",
+    "Yellowstone",
+    "Paramount+",
+    "Jeremy Renner"
+  ],
+  "image_alt_texts": {
+    "mayor-of-kingstown-season-3-episode-6-26.jpg": "Lane Garrison como Carney em uma cena de prisão em Mayor of Kingstown."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Ator de 'Mayor of Kingstown' entra para nova série de Taylor Sheridan",
+    "_yoast_wpseo_metadesc": "Lane Garrison, após morte em Mayor of Kingstown, junta-se a Tulsa King. Ator busca novos papéis em séries de Taylor Sheridan.",
+    "_yoast_wpseo_focuskw": "Lane Garrison Taylor Sheridan",
+    "_yoast_news_keywords": "Lane Garrison, Taylor Sheridan, Mayor of Kingstown, Tulsa King, Yellowstone, Paramount+, Jeremy Renner, Sylvester Stallone",
+    "_yoast_wpseo_opengraph-title": "Ator de 'Mayor of Kingstown' entra para nova série de Taylor Sheridan",
+    "_yoast_wpseo_opengraph-description": "Lane Garrison, após morte em Mayor of Kingstown, junta-se a Tulsa King. Ator busca novos papéis em séries de Taylor Sheridan.",
+    "_yoast_wpseo_twitter-title": "Ator de 'Mayor of Kingstown' entra para nova série de Taylor Sheridan",
+    "_yoast_wpseo_twitter-description": "Lane Garrison, após morte em Mayor of Kingstown, junta-se a Tulsa King. Ator busca novos papéis em séries de Taylor Sheridan."
+  }
+}

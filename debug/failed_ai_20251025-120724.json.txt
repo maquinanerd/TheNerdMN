@@ -1,0 +1,110 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Nobody Wants This: Atriz comenta romance de Morgan e Sasha após final da 2ª temporada",
+      "conteudo_final": "<p>Justine Lupe, estrela de <b>Nobody Wants This</b>, comentou o futuro do relacionamento entre Morgan e Sasha após o impactante final da segunda temporada. Embora a série foque nos dilemas românticos de Joanne (Kristen Bell) e do Rabino Noah (Adam Brody), a segunda temporada também explorou a vida amorosa de Morgan (Lupe), irmã de Joanne.</p><h2>O desenvolvimento da amizade entre Morgan e Sasha</h2><p>Nesta temporada, a amizade entre Morgan e Sasha (Timothy Simons), irmão de Noah, se aprofundou. Eles se tornaram confidentes um do outro em meio a complicações em seus respectivos relacionamentos. Morgan busca o conselho de Sasha, que por sua vez encontra nela apoio.</p><p>Em entrevista recente, Lupe explicou como Morgan vê Sasha e o papel dele em sua vida: \"Eles são parceiros de uma maneira específica que não é romântica neste momento\", disse a atriz.</p><h2>O final da segunda temporada e novas possibilidades</h2><p>O final da segunda temporada de <b>Nobody Wants This</b>, intitulado \"When Noah Met Joanne\", culminou na festa de noivado de Morgan. Durante o evento, Morgan percebe a toxicidade de seu relacionamento com Dr. Andy (Arian Moayed), enquanto Sasha enfrenta a decisão de sua esposa, Esther (Jackie Tohn), que pede um tempo para se redescobrir. Essas rupturas permitem que Morgan e Sasha se reconectem, ambos contemplando seu novo status de solteiros.</p><p>Diante disso, surge a questão: Morgan e Sasha estão destinados a um romance? Lupe não tem certeza se essa mudança seria ideal para eles, pelo menos por enquanto. \"Eu não sei para onde isso vai, mas agora ele tem que se curar, e Morgan também\", explicou a atriz. \"Não tenho esperanças porque acho que, aconteça o que acontecer, será divertido entre eles. Instintivamente, penso que vocês devem apenas apoiar um ao outro como amigos, pois acho que podem ser presenças muito curativas um para o outro\".</p><p>No entanto, Lupe reconheceu que, às vezes, os melhores relacionamentos românticos podem surgir de uma profunda amizade e respeito mútuo. \"Se acabar lá, eu entendo e consigo ver isso\". Mesmo assim, ela ressaltou que, por ora, Morgan e Sasha deveriam manter sua amizade intacta.</p><p>\"Ela acabou de terminar com alguém em um relacionamento caótico e apressado, claramente não está em seu juízo perfeito nesta temporada. Ela precisa de autoconhecimento, ganhar autoconfiança e se estabilizar como ser humano. Ele precisa processar o que aconteceu com sua esposa e mãe de seu filho. Então, acho que apressar um romance... quero dizer, essa é apenas a minha opinião como membro da audiência\".</p><p>\"Eu aprecio que eles estejam neste momento e que, no futuro, isso possa evoluir para algo mais, mas, por enquanto, eles estão apenas sendo ótimos amigos um para o outro\".</p><h2>A importância da amizade em Nobody Wants This</h2><p>Em uma temporada marcada pelos dilemas cíclicos de Joanne e Noah – Joanne se converterá ao judaísmo e Noah poderá viver com isso se ela não o fizer? – a amizade peculiar e cativante entre Morgan e Sasha foi um ponto alto. Enquanto Joanne apoiou Morgan fervorosamente, chegando a brigar por isso, Sasha oferece um tipo diferente de suporte, livre de ciúmes ou história familiar.</p><p>Romances, notoriamente, complicam os relacionamentos. A amizade entre Sasha e Morgan sobreviverá a essa mudança? Isso ainda está para ser visto. No entanto, segundo Kristen Bell, a sala de roteiristas da terceira temporada de <b>Nobody Wants This</b> já está a todo vapor, apesar de a Netflix ainda não ter confirmado a renovação da série. Esperamos que isso signifique que os espectadores verão o desenvolvimento da relação entre Sasha e Morgan, de qualquer forma.</p><p><b>Nobody Wants This</b> está disponível na Netflix.</p>",
+      "meta_description": "Atriz Justine Lupe fala sobre o futuro da relação entre Morgan e Sasha em Nobody Wants This após o final da 2ª temporada da Netflix.",
+      "focus_keyphrase": "Nobody Wants This Morgan Sasha romance",
+      "related_keyphrases": [
+        "Nobody Wants This final temporada",
+        "Morgan e Sasha",
+        "Justine Lupe Nobody Wants This"
+      ],
+      "slug": "nobody-wants-this-morgan-sasha-romance",
+      "categorias": [
+        {
+          "nome": "Nobody Wants This",
+          "grupo": "obras",
+          "evidence": "<em>Nobody Wants This</em> star Justine Lupe"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "<b>Nobody Wants This</b> está disponível na Netflix."
+        }
+      ],
+      "tags_sugeridas": [
+        "Nobody Wants This",
+        "Netflix",
+        "Justine Lupe",
+        "Kristen Bell",
+        "Adam Brody",
+        "Comédia Romântica"
+      ],
+      "image_alt_texts": {
+        "03222889_poster_w780.jpg": "Pôster oficial da série Nobody Wants This, com os personagens principais.",
+        "adam-brody-as-noah-in-nobody-wants-this-season-2.jpg": "Adam Brody como o Rabino Noah em uma cena da segunda temporada de Nobody Wants This.",
+        "adam-brody-and-kristen-bell-as-noah-and-joanne-in-nobody-wants-this-season-2.jpg": "Adam Brody como Noah e Kristen Bell como Joanne em cena de Nobody Wants This.",
+        "nobody-wants-this.jpg": "Noah (Adam Brody) e Joanne (Kristen Bell) em abraço na série Nobody Wants This.",
+        "nobody-wants-this_mr8g56.jpg": "Adam Brody (Noah) e Kristen Bell (Joanne) prestes a se beijar em Nobody Wants This.",
+        "kristen-bell-s-joanne-smiling-while-playing-a-card-game-in-nobody-wants-this-season-2.jpg": "Kristen Bell como Joanne sorrindo enquanto joga cartas em Nobody Wants This.",
+        "nobody-wants-this-adam-brody-as-noah.jpg": "Adam Brody como Noah em cena da série Nobody Wants This."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Nobody Wants This: Atriz comenta romance de Morgan e Sasha após final da 2ª temporada",
+        "_yoast_wpseo_metadesc": "Atriz Justine Lupe fala sobre o futuro da relação entre Morgan e Sasha em Nobody Wants This após o final da 2ª temporada da Netflix.",
+        "_yoast_wpseo_focuskw": "Nobody Wants This Morgan Sasha romance",
+        "_yoast_news_keywords": "Nobody Wants This, Morgan, Sasha, romance, Justine Lupe, Kristen Bell, Adam Brody, Netflix, série",
+        "_yoast_wpseo_opengraph-title": "Nobody Wants This: Atriz comenta romance de Morgan e Sasha após final da 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Atriz Justine Lupe fala sobre o futuro da relação entre Morgan e Sasha em Nobody Wants This após o final da 2ª temporada da Netflix.",
+        "_yoast_wpseo_twitter-title": "Nobody Wants This: Atriz comenta romance de Morgan e Sasha após final da 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Atriz Justine Lupe fala sobre o futuro da relação entre Morgan e Sasha em Nobody Wants This após o final da 2ª temporada da Netflix."
+      }
+    },
+    {
+      "titulo_final": "Glen Powell: Marvel propõe Nova, mas DC é destino ideal para ator",
+      "conteudo_final": "<p>Um dos roteiristas de <b>Avengers: Doomsday</b> comentou a possibilidade de <b>Glen Powell</b> integrar o Universo Cinematográfico Marvel (MCU). Embora o papel sugerido para o ator em <b>Marvel</b> seja promissor, acredita-se que o talento de Powell seria mais bem aproveitado em um personagem já confirmado para o novo Universo DC.</p><p>Atualmente, a experiência de Powell no universo de super-heróis se resume a um papel como corretor da bolsa em <b>O Cavaleiro das Trevas Ressurge</b>. Nos últimos anos, o ator se tornou um dos mais requisitados de Hollywood, com participações em sucessos como <i>Todos Menos Você</i>, <i>Top Gun: Maverick</i> e <i>Twisters</i>. Essa ascensão fez com que fãs pedissem sua escalação tanto no MCU quanto no DCU de James Gunn.</p><h2>Roteirista da Marvel sugere Glen Powell como Nova</h2><p>Embora Powell ainda não tenha sido escalado como super-herói, há um papel perfeito para ele na DC, mas um roteirista da Marvel gostaria de vê-lo no MCU. Ambos os papéis seriam em séries de super-heróis em diferentes estágios de desenvolvimento. É certo que Powell poderia brilhar na Marvel, e o papel seria significativo, mas espera-se que sua trajetória anterior no universo DC pese mais.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/null\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>Michael Waldron, desenvolvedor de <i>Loki</i> para a Marvel Studios, é um dos roteiristas de <b>Avengers: Doomsday</b>. Ele escreveu o roteiro de <i>Vingadores: A Dinastia Kang</i> antes de o projeto ser alterado, e agora Waldron retorna para auxiliar os irmãos Russo e o roteirista Stephen McFeely em <i>Doomsday</i>. Waldron também escreveu <i>Doutor Estranho no Multiverso da Loucura</i>, demonstrando profundo conhecimento do MCU.</p><p>Agora, Waldron sugeriu que Glen Powell deveria se juntar ao MCU, afirmando: \"Ele seria um Nova muito bom\". Além de conhecer a Marvel, Waldron conhece o talento de Powell de perto, pois ambos são co-criadores da série de comédia esportiva <i>Chad Powers</i>. Uma série de <b>Nova</b> estava em desenvolvimento para o Disney+, mas foi adiada.</p><p>Powell possui o carisma e o estrelato necessários para tornar Nova um membro proeminente do universo cósmico do MCU. Seu timing cômico o faria interagir de forma brilhante com o Star-Lord de Chris Pratt. Ele poderia até substituir Peter Quill na equipe dos Guardiões da Galáxia, já que Quill deixou a equipe de Rocket Raccoon, algo que Nova fez nos quadrinhos.</p><h2>O destino ideal de Glen Powell é no universo DC</h2><p>Certamente, Nova seria um papel emocionante para Powell no MCU. No entanto, seu personagem perfeito é o <b>Booster Gold</b> da DC. A série <i>Chad Powers</i> demonstra isso, com Powell interpretando um ex-quarterback estrela cuja vida vira de cabeça para baixo, levando-o a fingir ser outra pessoa para ser amado novamente.</p><p>Booster Gold também foi um quarterback habilidoso antes de sua queda, usando tecnologia e viagens no tempo para se tornar um super-herói. Powell provou que pode dar vida a esse personagem, possuindo o timing cômico para torná-lo tão hilário quanto deveria ser.</p><p>Desde que uma série de <b>Booster Gold</b> foi anunciada para o DCU, Powell se tornou uma escolha popular entre os fãs para o papel. Powell já comentou sobre os rumores de Booster Gold, dizendo: \"Booster Gold é muito engraçado\". Com o desenvolvimento da série avançando lentamente, ter alguém como Glen Powell liderando o projeto certamente ajudaria Booster Gold a avançar, e espera-se que isso aconteça.</p>",
+      "meta_description": "Apesar da sugestão de roteirista da Marvel para Glen Powell como Nova, o ator se encaixaria melhor como Booster Gold no novo DCU.",
+      "focus_keyphrase": "Glen Powell Nova Booster Gold",
+      "related_keyphrases": [
+        "Glen Powell DCU",
+        "Glen Powell MCU",
+        "Booster Gold série",
+        "Nova MCU"
+      ],
+      "slug": "glen-powell-marvel-dc-booster-gold-nova",
+      "categorias": [
+        {
+          "nome": "Marvel",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        },
+        {
+          "nome": "DC Universe",
+          "grupo": "franquias",
+          "evidence": "James Gunn's DCU"
+        },
+        {
+          "nome": "Booster Gold",
+          "grupo": "obras",
+          "evidence": "Booster Gold"
+        }
+      ],
+      "tags_sugeridas": [
+        "Glen Powell",
+        "Marvel",
+        "DC",
+        "Nova",
+        "Booster Gold",
+        "MCU",
+        "DCU"
+      ],
+      "image_alt_texts": {
+        "cosmic-marvel-hero-nova-floating-above-earth.jpg": "O herói cósmico da Marvel, Nova, flutuando acima da Terra.",
+        "booster-gold-in-gold-and-blue-costume-in-dc-comics.jpg": "Arte de quadrinhos: Booster Gold veste seu traje dourado e azul nos quadrinhos da DC.",
+        "nova-from-marvel-comics.jpg": "Nova dos quadrinhos da Marvel.",
+        "booster-gold.jpg": "Booster Gold em arte promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Glen Powell: Marvel propõe Nova, mas DC é destino ideal para ator",
+        "_yoast_wpseo_metadesc": "Apesar da sugestão de roteirista da Marvel para Glen Powell como Nova, o ator se encaixaria melhor como Booster Gold no novo DCU.",
+        "_yoast_wpseo_focuskw": "Glen Powell Nova Booster Gold",
+        "_yoast_news_keywords": "Glen Powell, Marvel, DC, Nova, Booster Gold, MCU, DCU, Vingadores: Ultimato, Michael Waldron",
+        "_yoast_wpseo_opengraph-title": "Glen Powell: Marvel propõe Nova, mas DC é destino ideal para ator",
+        "_yoast_wpseo_opengraph-description": "Apesar da sugestão de roteirista da Marvel para Glen Powell como Nova, o ator se encaixaria melhor como Booster Gold no novo DCU.",
+        "_yoast_wpseo_twitter-title": "Glen Powell: Marvel propõe Nova, mas DC é destino ideal para ator",
+        "_yoast_wpseo_twitter-description": "Apesar da sugestão de roteirista da Marvel para Glen Powell como Nova, o ator se encaixaria melhor como Booster Gold no novo DCU."
+      }
+    }
+  ]
+}

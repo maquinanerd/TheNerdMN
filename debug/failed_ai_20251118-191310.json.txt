@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix: Novo suspense de sobrevivência com 100% em 'Rotten Tomatoes' vira hit",
+      "conteudo_final": "<p>O novo suspense de sobrevivência <b>Last Samurai Standing</b> está dominando a lista Top 10 da Netflix. A série estreou em 13 de novembro e tem sido um sucesso com a crítica. A série em japonês se passa no final do século XIX e foca em um grupo de lutadores competindo por um prêmio em dinheiro.</p><h2>Sucesso Global na Netflix</h2><p>A série limitada <b>Last Samurai Standing</b> já é um sucesso internacional e ocupa a 2ª posição na lista Global Top 10 de Shows Não Ingleses da Netflix para a semana de 10 a 16 de novembro de 2025. Até o momento, a série japonesa acumulou 6,2 milhões de visualizações e 31,7 milhões de horas assistidas.</p><p>A série limitada <em>As You Stood By</em> lidera a lista com 7,8 milhões de visualizações e 65 milhões de horas assistidas. Outras séries como <em>Dynamite Kiss</em>, <em>50 Seconds: The Fernando Báez Sosa Case</em>, e <em>Rulers of Fortune</em> temporada 1 completam o Top 10.</p><figure><figcaption>Tabela de audiência dos shows não ingleses na Netflix.</figcaption><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%;\"><tbody><tr><th scope=\"row\"><p>Netflix Top 10 Shows Não Ingleses (11/10/25-11/16/25)</p></th><td><p><strong>Visualizações</strong></p></td><td><p><strong>Horas Assistidas</strong></p></td></tr><tr><th scope=\"row\"><p>As You Stood By</p></th><td><p>7.800.000</p></td><td><p>65.000.000</p></td></tr><tr><th scope=\"row\"><p>Last Samurai Standing temporada 1</p></th><td><p>6.200.000</p></td><td><p>31.700.000</p></td></tr><tr><th scope=\"row\"><p>Dynamite Kiss</p></th><td><p>6.100.000</p></td><td><p>13.800.000</p></td></tr><tr><th scope=\"row\"><p>50 Seconds: The Fernando Báez Sosa Case</p></th><td><p>3.800.000</p></td><td><p>9.500.000</p></td></tr><tr><th scope=\"row\"><p>Rulers of Fortune temporada 1</p></th><td><p>3.100.000</p></td><td><p>23.300.000</p></td></tr><tr><th scope=\"row\"><p>The Crystal Cuckoo</p></th><td><p>2.700.000</p></td><td><p>13.000.000</p></td></tr><tr><th scope=\"row\"><p>The Asset temporada 1</p></th><td><p>2.600.000</p></td><td><p>12.200.000</p></td></tr><tr><th scope=\"row\"><p>Physical: Asia temporada 1</p></th><td><p>2.500.000</p></td><td><p>25.800.000</p></td></tr><tr><th scope=\"row\"><p>Delhi Crime temporada 3</p></th><td><p>2.300.000</p></td><td><p>11.100.000</p></td></tr><tr><th scope=\"row\"><p>Heweliusz</p></th><td><p>1.800.000</p></td><td><p>9.600.000</p></td></tr></tbody></table></figure><h2>Desempenho Internacional</h2><p>No Japão, <b>Last Samurai Standing</b> está em 1º lugar, mas não aparece na lista dos EUA. Em contrapartida, séries como <em>The Beast in Me</em> e <em>Death By Lightning</em> figuram no Top 10 americano. O elenco da série inclui Junichi Okada, Yumia Fujisaki, Kaya Kiyohara, Masahiro Higashide, Shota Sometani e outros.</p><p>Desde o fenômeno <em>Squid Game</em> em 2021, a Netflix busca produzir outros suspenses de sobrevivência em idiomas não ingleses. <b>Last Samurai Standing</b> é baseado em um romance de 2022 e descrito como uma mistura de <em>Squid Game</em> com <em>Shōgun</em>.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/shota-sometani-s-kocha-drawing-their-bow-and-arrow-in-last-samurai-standing.jpg?q=49&fit=crop&w=825&dpr=2" alt="Shota Sometani como Kocha em Last Samurai Standing, mirando com arco e flecha."/><figcaption>Shota Sometani como Kocha, mirando com seu arco e flecha em uma cena de Last Samurai Standing.</figcaption></figure><p>Com uma pontuação perfeita no Rotten Tomatoes, críticos elogiaram <b>Last Samurai Standing</b> como uma montanha-russa emocionante e visualmente cativante. O público concorda, resultando em uma aprovação de 85% na plataforma.</p><h2>Substituta de Sucessos</h2><p>Enquanto a Netflix busca manter o interesse em suspenses de sobrevivência com derivados como <em>Squid Game: The Challenge</em>, os assinantes encontraram uma substituta ideal para <em>Squid Game</em>. Com o fim de <em>Squid Game</em> e a espera pela segunda temporada de <em>Shōgun</em>, a nova adaptação de mangá preenche a lacuna.</p><p>Resta saber se a Netflix anunciará uma segunda temporada de <b>Last Samurai Standing</b> diante deste enorme sucesso.</p>",
+      "meta_description": "Last Samurai Standing, novo suspense de sobrevivência da Netflix, conquista 100% no Rotten Tomatoes e vira hit global menos de uma semana após lançamento.",
+      "focus_keyphrase": "Last Samurai Standing Netflix",
+      "related_keyphrases": [
+        "suspense de sobrevivência Netflix",
+        "série japonesa Netflix",
+        "sucesso global Netflix"
+      ],
+      "slug": "last-samurai-standing-netflix-hit",
+      "categorias": [
+        {
+          "nome": "Last Samurai Standing",
+          "grupo": "obras",
+          "evidence": "O novo suspense de sobrevivência Last Samurai Standing está dominando a lista Top 10 da Netflix."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "dominando a lista Top 10 da Netflix."
+        }
+      ],
+      "tags_sugeridas": [
+        "Last Samurai Standing",
+        "Netflix",
+        "suspense",
+        "série japonesa",
+        "Rotten Tomatoes",
+        "Shogo Imamura",
+        "Squid Game"
+      ],
+      "image_alt_texts": {
+        "shota-sometani-s-kocha-drawing-their-bow-and-arrow-in-last-samurai-standing.jpg?q=49&fit=crop&w=825&dpr=2": "Shota Sometani como Kocha em Last Samurai Standing, mirando com arco e flecha."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: Novo suspense de sobrevivência com 100% em 'Rotten Tomatoes' vira hit",
+        "_yoast_wpseo_metadesc": "Last Samurai Standing, novo suspense de sobrevivência da Netflix, conquista 100% no Rotten Tomatoes e vira hit global menos de uma semana após lançamento.",
+        "_yoast_wpseo_focuskw": "Last Samurai Standing Netflix",
+        "_yoast_news_keywords": "Last Samurai Standing, Netflix, série japonesa, suspense, sobrevivência, Rotten Tomatoes, Shogo Imamura, Squid Game, Shōgun",
+        "_yoast_wpseo_opengraph-title": "Netflix: Novo suspense de sobrevivência com 100% em 'Rotten Tomatoes' vira hit",
+        "_yoast_wpseo_opengraph-description": "Last Samurai Standing, novo suspense de sobrevivência da Netflix, conquista 100% no Rotten Tomatoes e vira hit global menos de uma semana após lançamento.",
+        "_yoast_wpseo_twitter-title": "Netflix: Novo suspense de sobrevivência com 100% em 'Rotten Tomatoes' vira hit",
+        "_yoast_wpseo_twitter-description": "Last Samurai Standing, novo suspense de sobrevivência da Netflix, conquista 100% no Rotten Tomatoes e vira hit global menos de uma semana após lançamento."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Edge of Tomorrow ganha anime fiel ao livro com trailer impactante",
+      "conteudo_final": "<p>Mais de uma década após o sucesso de <b>Edge of Tomorrow</b>, que transformou um romance japonês de ficção científica em um dos filmes de ação mais inteligentes de Hollywood, o material original finalmente ganha sua própria adaptação — e o resultado é deslumbrante.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/08/01115063_poster_w780.jpg\" alt=\"Pôster do anime All You Need Is Kill\"><figcaption>O anime 'All You Need Is Kill' adapta o romance original.</figcaption></figure><p>Após sua estreia nos Estados Unidos na New York Comic Con, o filme de anime <b>All You Need Is Kill</b> revelou um novo e impressionante trailer, confirmando uma curta temporada de exibição nos cinemas do Japão a partir de 9 de janeiro de 2026. O longa será exibido em apenas dez cinemas no lançamento, com exibições antecipadas planejadas para o Animation Is Film Festival, o Bucheon International Animation Film Festival e outros eventos pelo mundo. Um lançamento internacional mais amplo ainda não foi anunciado, mas com o burburinho gerado pela NYCC, é apenas uma questão de tempo.</p><p>Dirigido por Kenichiro Akimoto (Fortune Favors Lady Nikuko) e animado pelo STUDIO 4°C, o filme reimagina o romance de 2004 de Hiroshi Sakurazaka de uma forma que finalmente abraça suas raízes visuais originais. O elenco de vozes inclui Natsuki Hanae (Demon Slayer, DAN DA DAN) como o protagonista Keiji Kiriya e Ai Mikami como Rita Vrataski, marcando sua primeira experiência em dublagem. Mikami apareceu recentemente na série live-action de Netflix, Yu Yu Hakusho, e estrelou Undead Lovers.</p><h2>Sobre o que é 'All You Need Is Kill'?</h2><p>Para aqueles que conhecem a história apenas pela adaptação de <b>Edge of Tomorrow</b> (ou, dependendo de quem você pergunta, <b>Live. Die. Repeat.</b>), a premissa permanece igualmente simples e existencialmente aterrorizante. Quando invasores alienígenas chamados Mimics atacam a Terra, um soldado chamado Keiji (uma versão do personagem interpretado por <a href=\"https://www.maquinanerd.com.br/tag/tom-cruise\">Tom Cruise</a>) é morto em combate — apenas para acordar vivo, preso em um loop temporal infinito que o força a reviver o mesmo dia brutal repetidamente. Em seu 158º reinício, ele encontra uma guerreira lendária conhecida como a Bitch de Metal Completo (Rita, interpretada por Emily Blunt no filme de Doug Liman), que pode deter a chave para quebrar o ciclo... ou acabar com ele permanentemente.</p><p>Enquanto o filme de Cruise, Blunt e Liman transformou essa premissa em um thriller de ação aclamado e polido, ele também alterou significativamente a estrutura do livro e reescreveu o final. O futuro anime retorna ao material original, embora diga-se que ele reflete ligeiramente a história da perspectiva de Rita — algo que os fãs do romance estão curiosos (e talvez um pouco apreensivos) para ver.</p><p><b>All You Need Is Kill</b> iniciará uma exibição limitada nos cinemas do Japão a partir de 9 de janeiro de 2026. Confira o trailer acima.</p>",
+      "meta_description": "Anime 'All You Need Is Kill' ganha trailer impressionante e confirma exibição limitada no Japão a partir de janeiro de 2026. Adaptação fiel ao livro de Hiroshi Sakurazaka.",
+      "focus_keyphrase": "All You Need Is Kill anime",
+      "related_keyphrases": [
+        "Edge of Tomorrow",
+        "Tom Cruise",
+        "filme de anime"
+      ],
+      "slug": "all-you-need-is-kill-anime-trailer",
+      "categorias": [
+        {
+          "nome": "All You Need Is Kill",
+          "grupo": "obras",
+          "evidence": "o <a href=\"https://collider.com/tom-cruise-edge-of-tomorrow-sci-fi-movie-netflix-streaming-september-2025/\">All You Need Is Kill</a> anime film has dropped a breathtaking new trailer"
+        },
+        {
+          "nome": "Edge of Tomorrow",
+          "grupo": "obras",
+          "evidence": "Tom Cruise’s <a href=\"https://collider.com/tom-cruise-edge-of-tomorrow-global-streaming-success-october-2025/\">Edge of Tomorrow</a> turned a Japanese sci-fi novel into one of Hollywood’s smartest action blockbusters"
+        },
+        {
+          "nome": "Tom Cruise",
+          "grupo": "pessoas",
+          "evidence": "Tom Cruise’s Edge of Tomorrow"
+        }
+      ],
+      "tags_sugeridas": [
+        "All You Need Is Kill",
+        "Edge of Tomorrow",
+        "Tom Cruise",
+        "anime",
+        "Hiroshi Sakurazaka",
+        "STUDIO 4°C"
+      ],
+      "image_alt_texts": {
+        "01115063_poster_w780.jpg": "Pôster do anime All You Need Is Kill"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Edge of Tomorrow ganha anime fiel ao livro com trailer impactante",
+        "_yoast_wpseo_metadesc": "Anime 'All You Need Is Kill' ganha trailer impressionante e confirma exibição limitada no Japão a partir de janeiro de 2026. Adaptação fiel ao livro de Hiroshi Sakurazaka.",
+        "_yoast_wpseo_focuskw": "All You Need Is Kill anime",
+        "_yoast_news_keywords": "All You Need Is Kill, Edge of Tomorrow, Tom Cruise, anime, Hiroshi Sakurazaka, STUDIO 4°C, Kenichiro Akimoto, Natsuki Hanae, Ai Mikami",
+        "_yoast_wpseo_opengraph-title": "Edge of Tomorrow ganha anime fiel ao livro com trailer impactante",
+        "_yoast_wpseo_opengraph-description": "Anime 'All You Need Is Kill' ganha trailer impressionante e confirma exibição limitada no Japão a partir de janeiro de 2026. Adaptação fiel ao livro de Hiroshi Sakurazaka.",
+        "_yoast_wpseo_twitter-title": "Edge of Tomorrow ganha anime fiel ao livro com trailer impactante",
+        "_yoast_wpseo_twitter-description": "Anime 'All You Need Is Kill' ganha trailer impressionante e confirma exibição limitada no Japão a partir de janeiro de 2026. Adaptação fiel ao livro de Hiroshi Sakurazaka."
+      }
+    },
+    {
+      "titulo_final": "The Witcher: Showrunner detalha diferenças entre Geralt de Cavill e Hemsworth",
+      "conteudo_final": "<p>A Netflix concluiu a produção da quinta e última temporada de <b>The Witcher</b>. Com a quarta temporada estreando em 30 de outubro, a showrunner Lauren Schmidt Hissrich finalmente abordou a questão principal desde a saída de <a href=\"https://www.maquinanerd.com.br/tag/henry-cavill\">Henry Cavill</a>: o que realmente muda com <a href=\"https://www.maquinanerd.com.br/tag/liam-hemsworth\">Liam Hemsworth</a> sob a peruca branca? A resposta curta é que o bruxo, famoso por sua expressão séria, agora poderá sorrir, conforme Hissrich revelou em entrevista.</p><blockquote><p>“Quando estávamos procurando quem poderia preencher os sapatos de Geralt, havia uma fisicalidade que tinha que estar presente. Você precisa de alguém que você possa imaginar que se destaca nessas cenas de ação, que tem uma presença física tão grande que pode ser intimidador na história, mas também, Geralt tem um enorme lado emocional… O que eu realmente amei no trabalho de Liam que eu tinha visto é que ele conseguiu misturar organicamente essas duas coisas… ele conseguiu carregar essa alma específica, eu acho que chamo assim. Ele tem uma alma que traz para o papel… para ter isso presente mesmo através das cenas de ação quando ele está lutando contra monstros, e é a mesma coisa que está presente quando ele está tendo conversas com Ciri ou com Yennefer.”</p></blockquote><p>Como Geralt começa a quarta temporada mais fraco e ferido após o confronto com Vilgefortz, Hissrich e os roteiristas ajustaram a “voz” do personagem para se adequar à cadência de Hemsworth e ao arco da história. “Isso absolutamente impacta as coisas… Mesmo depois que escrevemos todos os roteiros, quando começamos a filmá-los, começamos a fazer ajustes para garantir que as coisas soassem mais naturais saindo da boca de Liam,” ela disse. E sim, a famosa economia de palavras foi reequilibrada: “Trouxemos de volta alguns grunhidos, alguns suspiros, alguns murmúrios e certamente alguns ‘fucks’ de vez em quando. Mas também permitimos que Geralt, especificamente, nesses momentos emocionais, tivesse conversas mais longas… não quero chamá-las de discursos, mas conversas mais longas com seus companheiros.”</p><h2>Como o Geralt de Liam Hemsworth se Diferencia do de Henry Cavill?</h2><p>A outra grande mudança é tonal, e surgiu a partir do primeiro encontro online de Hemsworth com a equipe. “Liam tem um sorriso maroto, e foi uma das primeiras coisas sobre as quais realmente conversamos,” Hissrich relembrou. “Uma das coisas que ele falou muito foi sobre esse humor seco que Geralt tem e que, com toda a honestidade, ele não sentiu que estava muito presente na série. Era algo sobre o qual ele perguntou se eu estaria aberta a ver mais.”</p><p>Hemsworth conectou isso à vida interior de Geralt: “Minha interpretação deste personagem é que Geralt é uma pessoa profundamente empática… Neste ponto da história, estamos realmente vendo ele passar por muitas mudanças… É puramente o fato de que ele é capaz de ser vulnerável com seus amigos e encontrar essa família escolhida na qual ele pode confiar para encontrar coragem e força.”</p><p>Há também uma passagem de bastão respeitosa. “Eu não queria tentar refazer diretamente nada do que [Henry Cavill] fez,” disse Hemsworth. “Nós conectamos algumas das coisas anteriores que Henry tinha feito… ao início de eu assumir o papel… dizendo, ‘Aqui está a minha versão, e vamos seguir em frente com isso.’” Cavill estabeleceu o tom em 2022: “Como com os maiores personagens literários, passo o bastão com reverência pelo tempo passado interpretando Geralt e entusiasmo em ver a abordagem de Liam a este homem fascinante e cheio de nuances. Liam, meu bom senhor, este personagem tem uma profundidade maravilhosa, aproveite para mergulhar e ver o que você pode encontrar.”</p><p><b>The Witcher</b> retorna à Netflix para sua quarta temporada em 30 de outubro de 2025.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/03153842_poster_w780-1.jpg\" alt=\"Liam Hemsworth como Geralt em The Witcher\"><figcaption>Liam Hemsworth assume o papel de Geralt na 4ª temporada de The Witcher.</figcaption></figure>",
+      "meta_description": "Showrunner de The Witcher revela as principais diferenças entre Geralt interpretado por Henry Cavill e Liam Hemsworth, incluindo um tom mais leve e humor seco.",
+      "focus_keyphrase": "The Witcher Geralt",
+      "related_keyphrases": [
+        "Liam Hemsworth",
+        "Henry Cavill",
+        "The Witcher temporada 4"
+      ],
+      "slug": "the-witcher-geralt-cavill-hemsworth-diferencas",
+      "categorias": [
+        {
+          "nome": "The Witcher",
+          "grupo": "obras",
+          "evidence": "Netflix just wrapped production on <a href=\"https://collider.com/nero-the-assassin-netflix-streaming-success-october-2025/\">The Witcher’s</a> fifth and final season"
+        },
+        {
+          "nome": "Lauren Schmidt Hissrich",
+          "grupo": "pessoas",
+          "evidence": "showrunner Lauren Schmidt Hissrich is finally talking"
+        },
+        {
+          "nome": "Liam Hemsworth",
+          "grupo": "pessoas",
+          "evidence": "what actually changes with <a href=\"https://collider.com/the-witcher-season-4-trailer-henry-cavill-liam-hemsworth/\">Liam Hemsworth</a> under the white wig?"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Witcher",
+        "Geralt de Rivia",
+        "Henry Cavill",
+        "Liam Hemsworth",
+        "Netflix",
+        "Lauren Schmidt Hissrich",
+        "2025"
+      ],
+      "image_alt_texts": {
+        "03153842_poster_w780-1.jpg": "Liam Hemsworth como Geralt em The Witcher"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Witcher: Showrunner detalha diferenças entre Geralt de Cavill e Hemsworth",
+        "_yoast_wpseo_metadesc": "Showrunner de The Witcher revela as principais diferenças entre Geralt interpretado por Henry Cavill e Liam Hemsworth, incluindo um tom mais leve e humor seco.",
+        "_yoast_wpseo_focuskw": "The Witcher Geralt",
+        "_yoast_news_keywords": "The Witcher, Geralt de Rivia, Henry Cavill, Liam Hemsworth, Netflix, Lauren Schmidt Hissrich, 2025",
+        "_yoast_wpseo_opengraph-title": "The Witcher: Showrunner detalha diferenças entre Geralt de Cavill e Hemsworth",
+        "_yoast_wpseo_opengraph-description": "Showrunner de The Witcher revela as principais diferenças entre Geralt interpretado por Henry Cavill e Liam Hemsworth, incluindo um tom mais leve e humor seco.",
+        "_yoast_wpseo_twitter-title": "The Witcher: Showrunner detalha diferenças entre Geralt de Cavill e Hemsworth",
+        "_yoast_wpseo_twitter-description": "Showrunner de The Witcher revela as principais diferenças entre Geralt interpretado por Henry Cavill e Liam Hemsworth, incluindo um tom mais leve e humor seco."
+      }
+    }
+  ]
+}

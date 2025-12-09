@@ -1,0 +1,59 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "World of Warcraft: Midnight - Pre-Patch pode chegar em 20 de janeiro",
+      "conteudo_final": "<p>O aguardado <b>World of Warcraft: Midnight</b> está se aproximando, com a expansão programada para o início do próximo ano. Antes disso, o Patch 11.2.7 está previsto para chegar em 2 de dezembro, introduzindo os tão esperados Sistemas de Moradia (Player Housing), um prólogo para Midnight e mais, marcando a última atualização de The War Within.</p>\n<h2>World of Warcraft: Midnight - Data Provável do Pre-Patch</h2>\n<p>Mesmo com o patch 11.2.7 ainda não lançado, fãs já descobriram a data provável para a primeira atualização de <b>World of Warcraft: Midnight</b>. Uma nova tela de carregamento dataminada nos servidores de teste indica que o evento do Pre-Patch Twilight Ascension, relacionado a Midnight, começará em 27 de janeiro. Isso sugere que a atualização em si chegará um pouco antes, possivelmente em 20 de janeiro.</p>\n<p>Historicamente, eventos de Pre-Patch de expansões anteriores começaram uma semana após o lançamento das atualizações correspondentes. Esse padrão confirma o plano atual de lançar o Pre-Patch 12.0 em 20 de janeiro.</p>\n<h2>Conteúdo do Pre-Patch Midnight</h2>\n<p>Se a data estiver correta, a atualização de 20 de janeiro adicionará os Projetos de Vizinhança (Neighborhood Endeavors) ao sistema de Moradia do jogador em World of Warcraft. Além disso, Caçadores de Demônios poderão jogar com a especialização Devorador (Devourer), escolher a raça Elfo do Vazio (Void Elf) e completar uma missão que explica a lore dessas novas opções. A atualização também implementará as massivas <b>mudanças de classe de World of Warcraft: Midnight</b>.</p>\n<figure><img src=\"https:
+      "meta_description": "World of Warcraft: Midnight - Pre-Patch com Moradia e novas habilidades para Caçador de Demônios pode chegar em 20 de janeiro.",
+      "focus_keyphrase": "World of Warcraft Midnight",
+      "related_keyphrases": [
+        "World of Warcraft pre-patch",
+        "WoW Midnight data de lançamento",
+        "The War Within patch"
+      ],
+      "slug": "world-of-warcraft-midnight-pre-patch-data",
+      "categorias": [
+        {
+          "nome": "World of Warcraft",
+          "grupo": "franquias",
+          "evidence": "World of Warcraft: Midnight"
+        },
+        {
+          "nome": "The War Within",
+          "grupo": "franquias",
+          "evidence": "last update of The War Within"
+        }
+      ],
+      "tags_sugeridas": [
+        "World of Warcraft",
+        "Midnight",
+        "MMORPG",
+        "Blizzard",
+        "Pre-Patch",
+        "The War Within"
+      ],
+      "image_alt_texts": {
+        "e9zc7dk3211a1755622280364.jpg": "Imagem genérica de World of Warcraft.",
+        "wow_midnight_cinematic_stills_-1.jpg": "Cena cinematográfica de World of Warcraft: Midnight com foco em personagens misteriosos.",
+        "wow_midnight_cinematic_stills_-2.jpg": "Cena de ação em World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-3.jpg": "Arte conceitual de World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-4.jpg": "Personagens em World of Warcraft: Midnight em pose de exploração.",
+        "wow_midnight_cinematic_stills_-5.jpg": "Visual de World of Warcraft: Midnight com foco em ambientes.",
+        "wow_midnight_cinematic_stills_-6.jpg": "Detalhe visual de World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-7.jpg": "Cena épica de World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-8.jpg": "Personagens em World of Warcraft: Midnight em pose de combate ou investigação.",
+        "world-of-warcraft-midnight-twilight-s-blade-cultists-ogre.jpg": "Inimigos cultistas em World of Warcraft: Midnight, possivelmente o Crepúsculo.",
+        "world-of-warcraft-player-housing-neighborhood-endeavors-val-sharah.jpg": "Jogador em World of Warcraft interagindo com o sistema de Moradia em Vashj'arah."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "World of Warcraft: Midnight - Pre-Patch pode chegar em 20 de janeiro | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "World of Warcraft: Midnight - Pre-Patch com Moradia e novas habilidades para Caçador de Demônios pode chegar em 20 de janeiro.",
+        "_yoast_wpseo_focuskw": "World of Warcraft Midnight",
+        "_yoast_news_keywords": "World of Warcraft, Midnight, WoW, Pre-Patch, MMORPG, Blizzard, The War Within, Caçador de Demônios",
+        "_yoast_wpseo_opengraph-title": "World of Warcraft: Midnight - Pre-Patch pode chegar em 20 de janeiro",
+        "_yoast_wpseo_opengraph-description": "O aguardado World of Warcraft: Midnight está se aproximando, com a expansão programada para o início do próximo ano.",
+        "_yoast_wpseo_twitter-title": "World of Warcraft: Midnight - Pre-Patch pode chegar em 20 de janeiro",
+        "_yoast_wpseo_twitter-description": "O aguardado World of Warcraft: Midnight está se aproximando, com a expansão programada para o início do próximo ano."
+      }
+    }
+  ]
+}

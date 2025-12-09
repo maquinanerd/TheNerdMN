@@ -1,0 +1,132 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Regretting You: Filme de Colleen Hoover chega ao VOD em novembro",
+      "conteudo_final": "<p>A performance surpreendente na bilheteria deixou todos maravilhados, e agora o filme <strong><em>Regretting You</em></strong> alcançará um público totalmente novo com sua chegada para compra digital em 25 de novembro.</p><h2>Chegada ao VOD</h2><p>A adaptação do romance da autora best-seller Colleen Hoover, <strong><em>Regretting You</em>, estará disponível para compra digital em 25 de novembro</strong>. Dirigido por Josh Boone, o filme teve um desempenho melhor do que o previsto na bilheteria, arrecadando US$ 87 milhões mundialmente contra um orçamento de US$ 30 milhões.</p><h2>Elenco e Críticas</h2><p><em>Regretting You</em> contou com um elenco impressionante, incluindo Mckenna Grace, Mason Thames, Allison Williams, Dave Franco, Willa Fitzgerald e Scott Eastwood.</p><blockquote><p>\"Da autora best-seller número 1 Colleen Hoover vem uma história que captura a magia do amor jovem e deixará você sentindo tudo. Quando o mundo de Clara (Grace) vira de cabeça para baixo, a última coisa que ela espera é o amor, mas então Miller (Thames) muda tudo.</p><p>Com sua força tranquila e calor constante, ele a ajuda a redescobrir a alegria em meio ao caos. Um conto terno de primeiro amor, segundas chances e o tipo de conexão que torna tudo mais brilhante.\"</p></blockquote><p>Apesar dos impressionantes números de bilheteria, infelizmente, o filme em si não foi muito bem avaliado e atualmente possui uma pontuação de 28% no Rotten Tomatoes. No entanto, nem todos odiaram a adaptação, e apesar da baixa pontuação da crítica, a pontuação do público é bem mais alta, com 85%. Algumas críticas incluem sentimentos como, \"<em>é tão fofo e emocionante</em>\", além de elogiar a performance de Grace como \"<em>magnífica</em>\".</p><h2>Outras Adaptações de Hoover</h2><p>Outra adaptação de Hoover foi o controverso filme <em>It Ends With Us</em>, estrelado por Blake Lively e Justin Baldoni. A controvérsia decorre de uma batalha legal entre os dois protagonistas, o que causou um racha entre o elenco, incluindo a própria autora.</p><p>Independentemente do drama legal, o filme foi bastante bem-sucedido e arrecadou mais de US$ 350 milhões na bilheteria com uma pontuação razoável de 54% no Rotten Tomatoes.</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mason-thames-as-miller-and-mckenna-grace-as-clara-in-regretting-you.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mason-thames-as-miller-and-mckenna-grace-as-clara-in-regretting-you.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Mason Thames como Miller e McKenna Grace como Clara em Regretting You" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mason-thames-as-miller-and-mckenna-grace-as-clara-in-regretting-you.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="1100" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mason-thames-as-miller-and-mckenna-grace-as-clara-in-regretting-you.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Mason Thames como Miller e McKenna Grace como Clara em Regretting You.</figcaption></figure><p>Thames tem tido bastante sucesso recentemente, após suas aparições em filmes como <em>The Black Phone</em>, <em>Black Phone 2</em> e <em>How to Train Your Dragon</em>. Ele também aparecerá em <em>How to Train Your Dragon 2</em>, reprisando o papel principal de Hiccup, e em <em>The Shitheads</em> ao lado de Kiernan Shipka, reunindo-se com Franco mais uma vez.</p><p>Grace também teve papéis notáveis desde o início de sua carreira, incluindo <em>Gifted</em>, <em>The Handmaid’s Tale</em> e <em>Ghostbusters: Afterlife</em>. Ela tem vários projetos futuros, que incluem <em>Five Nights at Freddy’s 2</em>, <em>Scream 7</em> e <em>The Hunger Games: Sunrise on the Reaping</em>.</p><p><strong><em>Regretting You</em> estará disponível para compra digital em 25 de novembro.</strong></p>",
+      "meta_description": "O filme Regretting You, adaptação de Colleen Hoover, chega para compra digital em 25 de novembro após sucesso inesperado na bilheteria mundial.",
+      "focus_keyphrase": "Regretting You VOD",
+      "related_keyphrases": [
+        "Regretting You Colleen Hoover",
+        "filme Regretting You",
+        "McKenna Grace",
+        "Mason Thames"
+      ],
+      "slug": "regretting-you-vod-data",
+      "categorias": [
+        {
+          "nome": "Regretting You",
+          "grupo": "obras",
+          "evidence": "Regretting You"
+        },
+        {
+          "nome": "Colleen Hoover",
+          "grupo": "autores",
+          "evidence": "Colleen Hoover"
+        }
+      ],
+      "tags_sugeridas": [
+        "Regretting You",
+        "Colleen Hoover",
+        "McKenna Grace",
+        "Mason Thames",
+        "Josh Boone",
+        "VOD"
+      ],
+      "image_alt_texts": {
+        "mason-thames-as-miller-and-mckenna-grace-as-clara-in-regretting-you.jpg": "Mason Thames como Miller e McKenna Grace como Clara em cena do filme Regretting You."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Regretting You: Filme de Colleen Hoover chega ao VOD em novembro",
+        "_yoast_wpseo_metadesc": "O filme Regretting You, adaptação de Colleen Hoover, chega para compra digital em 25 de novembro após sucesso inesperado na bilheteria mundial.",
+        "_yoast_wpseo_focuskw": "Regretting You VOD",
+        "_yoast_news_keywords": "Regretting You, Colleen Hoover, McKenna Grace, Mason Thames, Josh Boone, VOD",
+        "_yoast_wpseo_opengraph-title": "Regretting You: Filme de Colleen Hoover chega ao VOD em novembro",
+        "_yoast_wpseo_opengraph-description": "O filme Regretting You, adaptação de Colleen Hoover, chega para compra digital em 25 de novembro após sucesso inesperado na bilheteria mundial.",
+        "_yoast_wpseo_twitter-title": "Regretting You: Filme de Colleen Hoover chega ao VOD em novembro",
+        "_yoast_wpseo_twitter-description": "O filme Regretting You, adaptação de Colleen Hoover, chega para compra digital em 25 de novembro após sucesso inesperado na bilheteria mundial."
+      }
+    },
+    {
+      "titulo_final": "Wicked: Elenco e equipe superam desafios de filmar 2 filmes juntos",
+      "conteudo_final": "<p><em>Wicked</em> e <strong><em>Wicked: For Good</em></strong> foram filmados simultaneamente, e o elenco e a equipe compartilharam algumas de suas estratégias para manter a história e os arcos dos personagens corretos ao alternar entre cenas e cenários diariamente. <strong>Estrelados por Cynthia Erivo e Ariana Grande, os dois filmes são uma adaptação conjunta do musical da Broadway</strong>, que por si só tem uma duração menor que o primeiro filme.</p><h2>Divisão em Duas Partes</h2><p><strong>Houve muito debate em torno da produção de <em>Wicked</em> sobre se a divisão em duas partes era a decisão certa</strong>, algo que foi novamente discutido pela crítica após as resenhas menos favoráveis de <a href=\"https://screenrant.com/wicked-for-good-miss-morrible-fix/\" target=\"_blank\"><em>Wicked: For Good</em></a>. No entanto, Chu e os roteiristas Winnie Holzman (que também escreveu o roteiro do show da Broadway) defenderam novamente a escolha em uma nova entrevista à <em>The Hollywood Reporter</em>.</p><p>\"<em>Começamos a perceber que poderíamos dar muito mais detalhe, nuance e intimidade ao que Glinda estava passando, e que <strong>tudo o que adicionássemos a Glinda aprimoraria o arco e a jornada de Elphaba também</strong></em>\", diz Holzman. Os dois filmes, no entanto, foram uma única e enorme produção, o que poderia ser confuso para os atores que precisavam incorporar diferentes momentos em seus arcos de personagem.</p><h2>Estratégias de Produção</h2><p>Os cineastas também foram desafiados a manter a história e seu tom em evolução. \"<em>Foi uma loucura, como dizem</em>\", afirma Chu. <strong>Chu criou uma \"<em>sala de guerra</em>\" para <em>Wicked</em> com inúmeros desenhos e modelos</strong> para acompanhar tudo. Eles também tinham escolhas de cores específicas e temas pretendidos para \"<em>ancorar</em>\" cada cena, o que é visível nos filmes concluídos.</p><p>\"<em>Algumas das intenções para o primeiro filme eram desejo, escolha, anseio, saudade e sonhos, e o segundo filme foi sacrifício, rendição e consequência</em>\", diz a diretora de fotografia Alice Brooks. <em>Wicked</em> é um filme muito mais brilhante, pois Elphaba e Glinda consideram o que querem da vida enquanto estão na escola, enquanto <em>Wicked: For Good</em> as mostra navegando pela verdade de seus sonhos.</p><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/untitled-2025-09-25t151232-460-1.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/untitled-2025-09-25t151232-460-1.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/><img alt=\"Glinda e Elphaba sorrindo uma para a outra enquanto seguram as mãos e olham no espelho em seu quarto em Wicked.\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/untitled-2025-09-25t151232-460-1.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" decoding=\"async\" height=\"413\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/untitled-2025-09-25t151232-460-1.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" width=\"825\"/></picture><figcaption>Glinda e Elphaba sorrindo uma para a outra enquanto seguram as mãos e olham no espelho em seu quarto em Wicked.</figcaption></figure><p>Grande e Erivo ambas tinham \"<em>roteiros gigantes e anotados</em>\" para ajudá-las a realizar suas histórias de forma coesa, enquanto Erivo também adotou a estratégia inteligente de usar perfumes diferentes para cada ponto do arco de Elphaba. Isso, em particular, parece uma boa maneira de usar um gatilho sensorial para levar Elphaba de estudante curiosa a bruxa poderosa, além de depender de anotações escritas.</p><p>Apesar da pontuação de <em>Wicked: For Good</em> no Rotten Tomatoes ter sofrido uma queda significativa em relação à estreia do primeiro filme, quase todos concordam que Erivo e Grande ainda entregam performances poderosas, sinalizando que elas dominaram a progressão das vidas de Elphaba e Glinda. <strong><em>Wicked: For Good</em></strong> também é um deleite visual como seu predecessor, mas com seu próprio tom distinto, ilustrando os resultados desse planejamento meticuloso.</p>",
+      "meta_description": "Elenco e equipe de Wicked revelam estratégias para filmar dois filmes simultaneamente, superando desafios de manter a continuidade e o tom.",
+      "focus_keyphrase": "Wicked filmagem dois filmes",
+      "related_keyphrases": [
+        "Wicked For Good",
+        "Cynthia Erivo Ariana Grande",
+        "produção Wicked"
+      ],
+      "slug": "wicked-filmagem-dois-filmes",
+      "categorias": [
+        {
+          "nome": "Wicked",
+          "grupo": "obras",
+          "evidence": "Wicked"
+        }
+      ],
+      "tags_sugeridas": [
+        "Wicked",
+        "Wicked For Good",
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jon M. Chu",
+        "produção de cinema"
+      ],
+      "image_alt_texts": {
+        "untitled-2025-09-25t151232-460-1.jpeg": "Glinda e Elphaba sorrindo uma para a outra enquanto seguram as mãos e olham no espelho em seu quarto em Wicked."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wicked: Elenco e equipe superam desafios de filmar 2 filmes juntos",
+        "_yoast_wpseo_metadesc": "Elenco e equipe de Wicked revelam estratégias para filmar dois filmes simultaneamente, superando desafios de manter a continuidade e o tom.",
+        "_yoast_wpseo_focuskw": "Wicked filmagem dois filmes",
+        "_yoast_news_keywords": "Wicked, Wicked For Good, Cynthia Erivo, Ariana Grande, Jon M. Chu, produção de cinema",
+        "_yoast_wpseo_opengraph-title": "Wicked: Elenco e equipe superam desafios de filmar 2 filmes juntos",
+        "_yoast_wpseo_opengraph-description": "Elenco e equipe de Wicked revelam estratégias para filmar dois filmes simultaneamente, superando desafios de manter a continuidade e o tom.",
+        "_yoast_wpseo_twitter-title": "Wicked: Elenco e equipe superam desafios de filmar 2 filmes juntos",
+        "_yoast_wpseo_twitter-description": "Elenco e equipe de Wicked revelam estratégias para filmar dois filmes simultaneamente, superando desafios de manter a continuidade e o tom."
+      }
+    },
+    {
+      "titulo_final": "Now You See Me 3: Final e retorno de Dylan Shrike podem salvar a franquia",
+      "conteudo_final": "<p>Após quase uma década, o grupo de mágicos conhecido como os Quatro Cavaleiros, que representa apenas metade de seus membros atuais, está de volta em <strong><em>Now You See Me: Now You Don't</em></strong>. Eles continuam realizando travessuras bobas e exageradas em nome de truques de mágica, responsáveis pelo fator entretenimento em <em>Now You See Me: Now You Don't</em>.</p><h2>Problemas de Roteiro e Elenco</h2><p>O <strong>tamanho do elenco de <em>Now You See Me 3</em> é um problema</strong>, pois muitos personagens parecem subdesenvolvidos e não recebem a atenção que merecem. Apesar de contar com um elenco estelar composto por alguns dos talentos mais promissores da indústria, <strong>o filme subutiliza muitos dos grandes atores presentes</strong>. Ele se baseia principalmente em elaborados cenários para engajar o público.</p><p>Como é comum nesses filmes, há mais reviravoltas na terceira parte do que se pode acompanhar. Frequentemente, dependem de lógica tênue, mas estabelecem revelações inesperadas e adicionam um certo nível de intriga à trama rasa. No entanto, uma reviravolta é cativante e ocorre no <strong>final de <em>Now You See Me: Now You Don't</em></strong>.</p><h2><em>Now You See Me: Now You Don't</em> Não Leva Nada a Sério</h2><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mcdnoyo_lg010-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mcdnoyo_lg010-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Ariana Greenblatt, Jesse Eisenberg, Dave Franco vestidos e correndo enquanto são perseguidos em Now You See: Now You Don't\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mcdnoyo_lg010-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"928\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mcdnoyo_lg010-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Ariana Greenblatt, Jesse Eisenberg, Dave Franco vestidos e correndo enquanto são perseguidos em Now You See: Now You Don't.</figcaption><small class=\"body-img-caption\">Katalin Vermes/© Lionsgate/Courtesy Everett Collection</small></figure><p><em>Now You See Me: Now You Don't</em> acompanha três novos mágicos, interpretados por Justice Smith (Charlie), Dominic Sessa (Bosco) e Ariana Greenblatt (June), que se juntam a Atlas de Jesse Eisenberg e, posteriormente, aos seus outros três membros do primeiro filme, Merritt (Woody Harrelson), Henley (Isla Fisher) e Jack (Dave Franco). Eles enfrentam a rica socialite Veronika (Rosamund Pike).</p><p>Lula de Lizzy Caplan, de <em>Now You See Me 2</em>, também se junta ao grupo na segunda metade, tornando-os os Oito Cavaleiros, embora continuem usando o nome artístico de Quatro Cavaleiros. Veronika é uma CEO corporativa maligna sem empatia por ninguém e sem respeito por nenhuma cultura, tornando-a a vilã ideal para os Cavaleiros visarem.</p><p>No entanto, apesar de dar uma motivação pessoal a um dos personagens, <strong>o filme falha em engajar os espectadores emocionalmente</strong> porque está muito mais focado em criar um espetáculo a cada poucos minutos. Não há espaço para respirar na história, que é preenchida com reviravoltas desnecessárias e uma completa falta de sinceridade. Embora isso garanta que seja divertido, o filme não é memorável.</p><p>Há até uma morte chocante de personagem, mas o filme avança mais rápido do que você pode dizer Abracadabra. A recusa em deixar que isso se desenvolva em um ponto de discussão maior ou dar ao ator uma despedida melhor, especialmente considerando que ele é um veterano amado, é chocante. Embora as mortes não se sustentem na franquia, um momento tão emocional ainda merece mais seriedade.</p><p>Na verdade, é essa falta de consideração pelas emoções que faz esta sequência parecer insensível e frustrante. A franquia sempre usou reviravoltas mal escritas e acrobacias exageradas para criar espetáculos emocionantes, mas tanto as parcelas anteriores quanto especialmente a última tiveram um forte fio emocional, que provou ser seu aspecto mais forte. Você estava investido apesar do sacrifício da lógica.</p><h2>O Arco de Dylan Shrike em Now You See Me 2 é o Melhor da Franquia</h2><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mark-ruffalo-as-dylan-in-now-you-see-me-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mark-ruffalo-as-dylan-in-now-you-see-me-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Mark Ruffalo como Dylan em Now You See Me 2\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mark-ruffalo-as-dylan-in-now-you-see-me-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"928\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/mark-ruffalo-as-dylan-in-now-you-see-me-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Mark Ruffalo como Dylan em Now You See Me 2.</figcaption></figure><p>O papel de Dylan Shrike, interpretado por Mark Ruffalo, em <em>Now You See Me 2</em> é carregado de emoção. Ele busca vingar a morte de seus pais nas mãos de indivíduos corruptos que, embora não intencionalmente, sabotaram seu truque de mágica final que levou à sua morte prematura diante dos olhos de Dylan, o que torna o <strong>final de <em>Now You See Me 2</em></strong> um tanto satisfatório.</p><p>O filme ainda usa lógica quebrada para explicar as claras lacunas de lógica e continuidade, mas há uma razão para se investir na história. <strong>Você torce por Dylan durante todo o filme</strong>, especialmente porque ele começa com a cena de sua morte paterna. Portanto, apesar dos espetáculos exagerados, você está emocionalmente engajado nos eventos do filme.</p><p>É particularmente decepcionante ver que <em>Now You See Me: Now You Don't</em> luta para manter o espectador investido, apesar de contar uma história de vingança, considerando como o arco de Dylan foi tratado no último filme. O novo filme não dedica tempo suficiente para preparar o clímax emocional, razão pela qual você pode se sentir entediado com o bombardeio constante de espetáculos.</p><h2>O Retorno de Dylan Pode Tornar a Franquia Cativante Novamente</h2><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/Mark-Ruffalo-in-Now-You-See-Me-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/Mark-Ruffalo-in-Now-You-See-Me-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Mark Ruffalo em Now You See Me 2\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/Mark-Ruffalo-in-Now-You-See-Me-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"826\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/Mark-Ruffalo-in-Now-You-See-Me-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Mark Ruffalo em Now You See Me 2.</figcaption></figure><p>Uma das maiores razões pelas quais Dylan Shrike pode mantê-lo emocionalmente investido nos filmes <em>Now You See Me</em> é o talento do ator que o interpreta. <strong>O retorno de Mark Ruffalo em <em>Now You See Me 4</em></strong> pode ajudar a franquia a lidar com seu problema de lutar para deixar uma impressão duradoura nos espectadores, que agora assistem apenas por diversão boba.</p><p>O compromisso de Mark Ruffalo com seu ofício faz você sentir a raiva de Dylan nas poucas cenas em que ele tem permissão para ser sincero. <strong>Você se comove com sua necessidade de vingança</strong> e seu amor pela mágica como um meio de alcançar mudanças significativas no mundo. Quando Dylan fala, você esquece o quão bobos são os filmes, mesmo que ele esteja dizendo algo bobo.</p><p>Portanto, mesmo que, como <em>Ariana Greenblatt, o final com reviravolta de <em>Now You See Me 3</em> me confundiu</em>, fico feliz que o filme sugira uma possível quarta parte onde Dylan retorna como personagem, esperançosamente com um papel principal. Mark Ruffalo pode tornar esses filmes cativantes além de apenas divertidos, e espero sinceramente que a configuração climática eventualmente se concretize.</p>",
+      "meta_description": "O final de Now You See Me 3 e o potencial retorno de Dylan Shrike (Mark Ruffalo) podem revigorar a franquia, focando em emoção e vingança.",
+      "focus_keyphrase": "Now You See Me 3 final Dylan",
+      "related_keyphrases": [
+        "Now You See Me 4",
+        "Mark Ruffalo",
+        "franquia Now You See Me"
+      ],
+      "slug": "now-you-see-me-3-final-dylan",
+      "categorias": [
+        {
+          "nome": "Now You See Me",
+          "grupo": "obras",
+          "evidence": "Now You See Me: Now You Don't"
+        }
+      ],
+      "tags_sugeridas": [
+        "Now You See Me 3",
+        "Now You See Me",
+        "Mark Ruffalo",
+        "Jesse Eisenberg",
+        "filme de mágica",
+        "sequência"
+      ],
+      "image_alt_texts": {
+        "mcdnoyo_lg010-cropped.jpg": "Ariana Greenblatt, Jesse Eisenberg e Dave Franco em cena de Now You See Me: Now You Don't.",
+        "mark-ruffalo-as-dylan-in-now-you-see-me-2.jpg": "Mark Ruffalo como o personagem Dylan em uma cena do filme Now You See Me 2.",
+        "mark-ruffalo-in-now-you-see-me-2.jpg": "Mark Ruffalo em uma imagem promocional do filme Now You See Me 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Now You See Me 3: Final e retorno de Dylan Shrike podem salvar a franquia",
+        "_yoast_wpseo_metadesc": "O final de Now You See Me 3 e o potencial retorno de Dylan Shrike (Mark Ruffalo) podem revigorar a franquia, focando em emoção e vingança.",
+        "_yoast_wpseo_focuskw": "Now You See Me 3 final Dylan",
+        "_yoast_news_keywords": "Now You See Me 3, Now You See Me, Mark Ruffalo, Jesse Eisenberg, filme de mágica, sequência",
+        "_yoast_wpseo_opengraph-title": "Now You See Me 3: Final e retorno de Dylan Shrike podem salvar a franquia",
+        "_yoast_wpseo_opengraph-description": "O final de Now You See Me 3 e o potencial retorno de Dylan Shrike (Mark Ruffalo) podem revigorar a franquia, focando em emoção e vingança.",
+        "_yoast_wpseo_twitter-title": "Now You See Me 3: Final e retorno de Dylan Shrike podem salvar a franquia",
+        "_yoast_wpseo_twitter-description": "O final de Now You See Me 3 e o potencial retorno de Dylan Shrike (Mark Ruffalo) podem revigorar a franquia, focando em emoção e vingança."
+      }
+    }
+  ]
+}

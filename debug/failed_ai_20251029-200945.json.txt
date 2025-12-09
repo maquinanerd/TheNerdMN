@@ -1,0 +1,65 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "X-Men: Episódios da Série Animada Superam os Filmes",
+      "conteudo_final": "<p>A série animada <b><i>X-Men: The Animated Series</i></b> apresenta episódios notáveis que superam as adaptações cinematográficas dos mutantes. Embora existam alguns episódios menos inspirados, a maioria demonstra grande mérito, solidificando-se como a adaptação definitiva para uma geração.</p><p>Mesmo com os diversos <b>filmes dos X-Men</b> lançados nas décadas de 2000 e 2010, a série animada permaneceu como um padrão de qualidade para muitos fãs. Ao revisitar a série, fica evidente que o apelo não se baseia apenas na nostalgia. Muitos episódios de <i>X-Men: The Animated Series</i> ainda se sustentam hoje e adaptam as histórias dos mutantes dos quadrinhos de forma superior a qualquer filme.</p><p>Considerando também os melhores episódios de <b><i>X-Men '97</i></b>, a sequência da série animada original, diversos capítulos se destacam acima dos 14 filmes principais da franquia <i>X-Men</i>.</p><h2>Time Fugitives: Part 1</h2><figure><img src=\"https:
+      "meta_description": "Descubra por que episódios de X-Men: The Animated Series e X-Men '97 superam todos os filmes da franquia em narrativa e impacto.",
+      "focus_keyphrase": "X-Men The Animated Series",
+      "related_keyphrases": [
+        "X-Men '97",
+        "melhores episódios X-Men",
+        "X-Men adaptações"
+      ],
+      "slug": "x-men-episodios-animados-superam-filmes",
+      "categorias": [
+        {
+          "nome": "X-Men: The Animated Series",
+          "grupo": "obras",
+          "evidence": "<em>X-Men: The Animated Series</em> includes some stellar episodes"
+        },
+        {
+          "nome": "X-Men '97",
+          "grupo": "obras",
+          "evidence": "When factoring in <em>X-Men '97</em>'s best episodes too"
+        },
+        {
+          "nome": "X-Men",
+          "grupo": "franquias",
+          "evidence": "highly-ranked <em>X-Men</em> movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "X-Men The Animated Series",
+        "X-Men '97",
+        "Marvel",
+        "Animação",
+        "Super-heróis",
+        "Disney Plus",
+        "Fox Kids"
+      ],
+      "image_alt_texts": {
+        "bishop-fighting-the-x-men-in-x-men-the-animated-series-days-of-future-past.jpg": "Bishop lutando contra os X-Men em X-Men: The Animated Series - Dias de um Futuro Esquecido.",
+        "cable-with-beast-in-x-men-the-animated-series.jpg": "Cable e Fera em uma cena de X-Men: The Animated Series.",
+        "charles-xavier-walking-outdoors-in-x-men-the-animated-series-one-man-s-worth.jpg": "Professor Charles Xavier caminhando ao ar livre em X-Men: The Animated Series.",
+        "magneto-standing-with-his-cape-billowing-in-x-men-the-animated-series.jpg": "Magneto em pé, com sua capa esvoaçante, em X-Men: The Animated Series.",
+        "jean-grey-with-the-phoenix-force-in-x-men-the-animated-series.jpg": "Jean Grey com a Força Fênix em X-Men: The Animated Series.",
+        "dark-phoenix-on-fire-in-x-men-the-animated-series.jpg": "Jean Grey como Fênix Negra em chamas em X-Men: The Animated Series.",
+        "bastion-with-his-dead-mother-in-x-men-97-episode-8.jpg": "Bastion com sua mãe falecida em um episódio de X-Men '97.",
+        "magneto-trapped-in-x-men-97-episode-8.jpg": "Magneto preso em um momento tenso de X-Men '97.",
+        "x-men-97-magneto-giving-a-speech-will-surrounded-by-magnetic-energy.jpg": "Magneto discursando, cercado por energia magnética, em X-Men '97.",
+        "gambit-sacrificing-himself-in-x-men-97.jpg": "Gambit realizando um sacrifício heroico em X-Men '97.",
+        "x-men-the-animated-series-tv-poster.jpg": "Poster da série animada X-Men: The Animated Series."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "X-Men: Episódios da Série Animada Superam os Filmes | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Descubra por que episódios de X-Men: The Animated Series e X-Men '97 superam todos os filmes da franquia em narrativa e impacto.",
+        "_yoast_wpseo_focuskw": "X-Men The Animated Series",
+        "_yoast_news_keywords": "X-Men The Animated Series, X-Men '97, Marvel, Animação, Super-heróis, Disney Plus, Fox Kids",
+        "_yoast_wpseo_opengraph-title": "X-Men: Episódios da Série Animada Superam os Filmes",
+        "_yoast_wpseo_opengraph-description": "Descubra por que episódios de X-Men: The Animated Series e X-Men '97 superam todos os filmes da franquia em narrativa e impacto.",
+        "_yoast_wpseo_twitter-title": "X-Men: Episódios da Série Animada Superam os Filmes",
+        "_yoast_wpseo_twitter-description": "Descubra por que episódios de X-Men: The Animated Series e X-Men '97 superam todos os filmes da franquia em narrativa e impacto."
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Hulk em 2025 no MCU: O que 'Spider-Man: Brand New Day' precisa para ter o Hulk Selvagem",
+  "conteudo_final": "<p>O <b>Hulk</b> retorna ao Universo Cinematográfico Marvel (MCU) em sua última estreia de 2025, e isso serve como um exemplo perfeito do porquê as teorias sobre o <i>Spider-Man: Brand New Day</i> e o Hulk Selvagem serem precisas são tão esperadas. Bruce Banner é um dos veteranos da franquia, presente desde 2008, quando a linha do tempo do MCU começou, embora Mark Ruffalo tenha se juntado mais tarde.</p><p>Nesse tempo, vimos o Hulk passar por várias transformações. O personagem aparecerá em 2026 no elenco de <i>Spider-Man: Brand New Day</i>. Após a última estreia do MCU em 2025 ter utilizado o Hulk de forma crucial em uma história multiversal, o MCU principal precisa trazer de volta o Hulk Selvagem para igualar essa proeza.</p><h2>Marvel Zombies mostrou o Hulk em seu auge de poder</h2><p>O Hulk desempenha um papel importante em <i>Marvel Zombies</i>. A série animada, classificada como TV-MA, não hesitou em mostrar sangue, com vários heróis do MCU morrendo ao longo dos quatro episódios da primeira temporada. Existem muitas ameaças na série multiversal, incluindo um Thanos zumbificado. Após sua derrota para o Pantera Negra, a energia das Joias do Infinito foi liberada.</p><p>Isso poderia ter destruído a Terra se não fosse pelo sacrifício do Hulk, que se ofereceu para servir como âncora para a Tempestade de Infinito até o fim de seus dias. A história do universo alternativo demonstrou a impressionante resistência do Hulk, com o último episódio de <i>Marvel Zombies</i> explorando como a energia infinita tornou o Hulk o ser mais poderoso que ele já foi na tela.</p><p>O Hulk enfrentou o exército de mortos-vivos da Feiticeira Escarlate sozinho por um bom tempo, matando milhares enquanto protegia sua posição. Embora ele eventualmente morresse, foi preciso toda a força de muitos dos seres mais poderosos da Marvel para chegar a esse ponto. No geral, <i>Marvel Zombies</i> mostrou o quão empolgante pode ser um Hulk poderoso lutando com força total.</p><figure class="video-container"><iframe src="https:
+  "meta_description": "A aparição do Hulk em 2025 no MCU em 'Marvel Zombies' destaca a necessidade de um Hulk Selvagem em 'Spider-Man: Brand New Day'.",
+  "focus_keyphrase": "Hulk MCU",
+  "related_keyphrases": [
+    "Hulk Selvagem",
+    "Spider-Man: Brand New Day",
+    "Marvel Zombies"
+  ],
+  "slug": "hulk-mcu-spider-man-brand-new-day",
+  "categorias": [
+    {
+      "nome": "Marvel Zombies",
+      "grupo": "obras",
+      "evidence": "Marvel Zombies"
+    },
+    {
+      "nome": "Spider-Man: Brand New Day",
+      "grupo": "obras",
+      "evidence": "Spider-Man: Brand New Day"
+    },
+    {
+      "nome": "MCU",
+      "grupo": "franquias",
+      "evidence": "Marvel Cinematic Universe"
+    }
+  ],
+  "tags_sugeridas": [
+    "Hulk",
+    "Mark Ruffalo",
+    "Marvel Cinematic Universe",
+    "Spider-Man: Brand New Day",
+    "Marvel Zombies",
+    "Hulk Selvagem"
+  ],
+  "image_alt_texts": {
+    "the-hulk-being-savage-in-avengers-age-of-ultron.jpg": "Mark Ruffalo como Hulk em Vingadores: Era de Ultron, mostrando sua força bruta.",
+    "spider-man-brand-new-day-logo-poster.jpg": "Logo oficial do filme Spider-Man: Brand New Day."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Hulk em 2025 no MCU: O que 'Spider-Man: Brand New Day' precisa para ter o Hulk Selvagem",
+    "_yoast_wpseo_metadesc": "A aparição do Hulk em 2025 no MCU em 'Marvel Zombies' destaca a necessidade de um Hulk Selvagem em 'Spider-Man: Brand New Day'.",
+    "_yoast_wpseo_focuskw": "Hulk MCU",
+    "_yoast_news_keywords": "Hulk, Mark Ruffalo, Marvel Cinematic Universe, MCU, Spider-Man: Brand New Day, Marvel Zombies, Hulk Selvagem, Bruce Banner",
+    "_yoast_wpseo_opengraph-title": "Hulk em 2025 no MCU: O que 'Spider-Man: Brand New Day' precisa para ter o Hulk Selvagem",
+    "_yoast_wpseo_opengraph-description": "A aparição do Hulk em 2025 no MCU em 'Marvel Zombies' destaca a necessidade de um Hulk Selvagem em 'Spider-Man: Brand New Day'.",
+    "_yoast_wpseo_twitter-title": "Hulk em 2025 no MCU: O que 'Spider-Man: Brand New Day' precisa para ter o Hulk Selvagem",
+    "_yoast_wpseo_twitter-description": "A aparição do Hulk em 2025 no MCU em 'Marvel Zombies' destaca a necessidade de um Hulk Selvagem em 'Spider-Man: Brand New Day'."
+  }
+}

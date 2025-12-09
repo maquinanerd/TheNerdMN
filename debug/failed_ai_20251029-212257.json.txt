@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Guillermo del Toro e Nosferatu: Trágicos Amores Góticos no Terror",
+  "conteudo_final": "<p>Uma das maiores mudanças em <em><strong>Frankenstein</strong></em>, a nova adaptação de Guillermo del Toro, cria uma poderosa conexão temática com a reimaginação gótica de um clássico do terror de 2024: <em>Nosferatu</em>. Ambas as produções mergulham em tropos característicos de seus diretores, explorando um amor trágico e inesperado, com um forte componente sexual e condenações a sociedades falhas.</p><h2>Frankenstein e Nosferatu: Explorando a Frustração Sexual no Cinema de Terror</h2><p>Guillermo del Toro e Robert Eggers abordam a essência de seus icônicos vilões do horror com um olhar voltado para o apelo romântico e sexual. Em ambas as obras, os relacionamentos falham tragicamente, servindo como um espelho para as falhas sociais que impediram tais uniões.</p><p>Embora ambientados no passado, os filmes apresentam perspectivas surpreendentemente modernas sobre como as expectativas sociais podem aprisionar as mulheres e reprimir seus desejos genuínos. Em <em>Frankenstein</em>, Elizabeth desenvolve uma forte ligação com a Criatura ao encontrá-la no laboratório de Victor. Esse vínculo silencioso contrasta com sua relação mais superficial com o irmão de Victor, William.</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "Guillermo del Toro e Robert Eggers exploram o amor trágico e a atração sexual em Frankenstein e Nosferatu, subvertendo o terror gótico.",
+  "focus_keyphrase": "Frankenstein e Nosferatu",
+  "related_keyphrases": [
+    "Guillermo del Toro Frankenstein",
+    "Robert Eggers Nosferatu",
+    "Terror Gótico"
+  ],
+  "slug": "frankenstein-nosferatu-amores-tragicos",
+  "categorias": [
+    {
+      "nome": "Frankenstein",
+      "grupo": "obras",
+      "evidence": "Guillermo del Toro's *Frankenstein*"
+    },
+    {
+      "nome": "Nosferatu",
+      "grupo": "obras",
+      "evidence": "Robert Eggers' *Nosferatu*"
+    },
+    {
+      "nome": "Terror",
+      "grupo": "editorias",
+      "evidence": "icônicos vilões do horror"
+    }
+  ],
+  "tags_sugeridas": [
+    "guillermo del toro",
+    "robert eggers",
+    "frankenstein",
+    "nosferatu",
+    "terror",
+    "cinema",
+    "romance gotico"
+  ],
+  "image_alt_texts": {
+    "frankenstein-elizabeth-2025-3.jpg": "Elizabeth, interpretada por Elena Schmidt, em uma cena de Frankenstein.",
+    "frankenstein-netflix-2025-movie-poster.jpg": "Pôster oficial do filme Frankenstein, com lançamento previsto para 2025."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Guillermo del Toro e Nosferatu: Trágicos Amores Góticos no Terror",
+    "_yoast_wpseo_metadesc": "Guillermo del Toro e Robert Eggers exploram o amor trágico e a atração sexual em Frankenstein e Nosferatu, subvertendo o terror gótico.",
+    "_yoast_wpseo_focuskw": "Frankenstein e Nosferatu",
+    "_yoast_news_keywords": "Frankenstein, Nosferatu, Guillermo del Toro, Robert Eggers, cinema, terror, romance gótico",
+    "_yoast_wpseo_opengraph-title": "Guillermo del Toro e Nosferatu: Trágicos Amores Góticos no Terror",
+    "_yoast_wpseo_opengraph-description": "Guillermo del Toro e Robert Eggers exploram o amor trágico e a atração sexual em Frankenstein e Nosferatu, subvertendo o terror gótico.",
+    "_yoast_wpseo_twitter-title": "Guillermo del Toro e Nosferatu: Trágicos Amores Góticos no Terror",
+    "_yoast_wpseo_twitter-description": "Guillermo del Toro e Robert Eggers exploram o amor trágico e a atração sexual em Frankenstein e Nosferatu, subvertendo o terror gótico."
+  }
+}

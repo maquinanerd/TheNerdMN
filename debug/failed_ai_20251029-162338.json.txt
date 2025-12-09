@@ -1,0 +1,64 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Clint Eastwood: 10 Citações Marcantes de um Ícone do Faroeste",
+      "conteudo_final": "<p>Clint Eastwood, ao lado de John Wayne, é possivelmente a estrela de faroeste mais icônica da história do cinema. Suas citações ao longo da carreira solidificam essa reputação, especialmente em filmes do gênero western, tanto nos clássicos spaghetti westerns quanto em produções revisionistas e em filmes de ação como <b>Dirty Harry</b>.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Relembre 10 citações marcantes de Clint Eastwood que definem sua carreira como o ícone definitivo do gênero western e das telas de cinema.",
+      "focus_keyphrase": "Clint Eastwood citações faroeste",
+      "related_keyphrases": [
+        "Clint Eastwood frases western",
+        "citações de filmes de faroeste",
+        "personagens Clint Eastwood"
+      ],
+      "slug": "clint-eastwood-citacoes-icônicas-faroeste",
+      "categorias": [
+        {
+          "nome": "Clint Eastwood",
+          "grupo": "obras",
+          "evidence": "Clint Eastwood"
+        },
+        {
+          "nome": "Por um Punhado de Dólares",
+          "grupo": "obras",
+          "evidence": "A Fistful of Dollars"
+        },
+        {
+          "nome": "Três Homens em Conflito",
+          "grupo": "obras",
+          "evidence": "The Good, the Bad and the Ugly"
+        }
+      ],
+      "tags_sugeridas": [
+        "Clint Eastwood",
+        "Faroeste",
+        "Western",
+        "Sergio Leone",
+        "Por um Punhado de Dólares",
+        "Três Homens em Conflito",
+        "Imperdoável"
+      ],
+      "image_alt_texts": {
+        "clint-eastwood-points-a-gun-in-a-scene-from-a-fistful-of-dollars.jpg": "Clint Eastwood como o Homem Sem Nome, apontando uma arma em uma cena de Por um Punhado de Dólares.",
+        "clint-eastwood-as-the-stranger-in-high-plains-drifter.jpg": "Clint Eastwood interpreta o misterioso Estranho em O Justiceiro.",
+        "clint-eastwood-on-horseback-outside-in-pale-rider.jpg": "Clint Eastwood a cavalo em uma cena de O Cavaleiro da Vingança.",
+        "hogan-and-sara-in-two-mules-for-sister-sara.jpg": "Clint Eastwood como Hogan e Shirley MacLaine como Irmã Sara em Dois Homens e Uma Mula.",
+        "clint-eastwood-s-man-with-no-name-staring-ahead-in-the-good-the-bad-the-ugly.jpg": "Clint Eastwood como Blondie em Três Homens em Conflito.",
+        "clint-eastwood-in-the-outlaw-josey-wales-posing-with-a-gun.jpg": "Clint Eastwood como Josey Wales em Josey Wales, o Desafiador, segurando duas pistolas.",
+        "clint-eastwood-as-mike-milo-outside-in-cry-macho.jpg": "Clint Eastwood como Mike Milo em Cry Macho, em cena externa.",
+        "clint-eastwood-as-manco-in-for-a-few-dollars-more-1.jpg": "Clint Eastwood como Manco em Por Mais Alguns Dólares, com um olhar determinado.",
+        "hang-em-high-1968.jpg": "Clint Eastwood como Jed Cooper, mostrando uma cicatriz no pescoço em Rebatedor de Foras-da-Lei.",
+        "clint-eastwood-as-william-munny-in-unforgiven.jpg": "Clint Eastwood como William Munny, o ex-pistoleiro, em Imperdoável."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Clint Eastwood: 10 Citações Marcantes que o Consagram no Faroeste",
+        "_yoast_wpseo_metadesc": "Relembre 10 citações marcantes de Clint Eastwood que definem sua carreira como o ícone definitivo do gênero western e das telas de cinema.",
+        "_yoast_wpseo_focuskw": "Clint Eastwood citações faroeste",
+        "_yoast_news_keywords": "Clint Eastwood, Citações Faroeste, Western, Sergio Leone, Três Homens em Conflito, Imperdoável, O Justiceiro, Por um Punhado de Dólares",
+        "_yoast_wpseo_opengraph-title": "Clint Eastwood: As Citações que Definem um Rei do Faroeste",
+        "_yoast_wpseo_opengraph-description": "Descubra as frases mais memoráveis de Clint Eastwood que solidificaram seu status como lenda do cinema western.",
+        "_yoast_wpseo_twitter-title": "Clint Eastwood: As Citações Que o Consagram no Faroeste",
+        "_yoast_wpseo_twitter-description": "As falas mais icônicas de Clint Eastwood que o transformaram em um símbolo imortal do gênero western."
+      }
+    }
+  ]
+}

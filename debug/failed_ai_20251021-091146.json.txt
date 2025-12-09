@@ -1,0 +1,114 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "A Bela e a Fera ganha versão sombria e inesperada na Webtoon",
+      "conteudo_final": "<p>A <b>Disney</b> expandiu seu catálogo de clássicos animados com uma nova e sombria releitura de um de seus filmes mais icônicos: <b>A Bela e a Fera</b>. A nova versão, intitulada <b>Disney As Old As Time: A Twisted Tale</b>, já está disponível na plataforma de quadrinhos digitais Webtoon, prometendo uma experiência surpreendente para os fãs.</p><h2>Uma Nova Perspectiva para um Clássico</h2><p>A parceria entre <b>Disney</b> e Webtoon reimagina a amada história de <b>A Bela e a Fera</b>, com roteiro de Beatrice Bassoli e Francesca Siviero, e arte de Chiara Bracale e Rossella Gentile. Longe de ser apenas uma versão ligeiramente mais escura, esta adaptação mergulha em reviravoltas inesperadas e brutais que mudam fundamentalmente a dinâmica da narrativa.</p><p>A história começa de forma familiar: um príncipe egocêntrico rejeita uma feiticeira idosa, que o transforma em uma fera. Quando <b>Bela</b> chega ao castelo, a trama toma um rumo chocante. Ao contrário da animação original e até mesmo da adaptação live-action, a mãe de <b>Bela</b>, antes uma figura periférica, torna-se central para o enredo.</p><h2>A Revelação da Mãe de Bela</h2><p>Em <b>A Twisted Tale</b>, <b>Bela</b> mal se lembra de sua mãe. A revelação chocante é que a mãe de <b>Bela</b> é, na verdade, a mesma feiticeira que amaldiçoou o príncipe. Essa descoberta lança <b>Bela</b> e a <b>Fera</b> em uma aventura para desvendar um mistério familiar profundo, enquanto a fera ainda precisa encontrar o amor verdadeiro para quebrar seu feitiço.</p><p>A nova perspectiva altera um dos pilares do relacionamento entre <b>Bela</b> e a <b>Fera</b>, adicionando camadas de complexidade e um toque de tragédia. A descrição oficial da obra ressalta:</p><p>“Esperta e imaginativa, <b>Bela</b> anseia por escapar de sua cidade provincial em busca de aventura. Apenas o pai de <b>Bela</b> não vai embora. Ele espera o retorno de sua mãe — uma mãe da qual <b>Bela</b> não consegue se lembrar. Mas quando o pai de <b>Bela</b> é feito prisioneiro por uma <b>Fera</b> aterrorizante, ela se oferece para tomar seu lugar para salvar a vida dele. <b>Bela</b> encontra a rosa encantada da <b>Fera</b> e, ao tocá-la, imagens inundam sua mente com memórias de sua mãe, a quem ela acreditava que nunca mais veria. Chocados e confusos, <b>Bela</b> e a <b>Fera</b> devem trabalhar juntos para desvendar um mistério sombrio sobre suas famílias.”</p><h2>Disponibilidade</h2><p>Os episódios 1, 2 e 3 de <b>Disney As Old As Time: A Twisted Tale</b> já estão disponíveis para leitura na Webtoon, oferecendo aos fãs a chance de explorar essa fascinante reimaginação de um conto clássico.</p>",
+      "meta_description": "A Disney lança uma nova e sombria versão de A Bela e a Fera, 'Disney As Old As Time: A Twisted Tale', na Webtoon, com reviravoltas inesperadas.",
+      "focus_keyphrase": "A Bela e a Fera versão sombria",
+      "related_keyphrases": [
+        "Disney As Old As Time",
+        "Webtoon A Bela e a Fera",
+        "Bela e a Fera reimaginados"
+      ],
+      "slug": "bela-fera-versao-sombria-disney-webtoon",
+      "categorias": [
+        {
+          "nome": "A Bela e a Fera",
+          "grupo": "obras",
+          "evidence": "Disney As Old As Time: A Twisted Tale"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "franquias",
+          "evidence": "Disney’s catalog of animated classics"
+        },
+        {
+          "nome": "Webtoon",
+          "grupo": "obras",
+          "evidence": "Disney and Webtoon have teamed up"
+        }
+      ],
+      "tags_sugeridas": [
+        "A Bela e a Fera",
+        "Disney",
+        "Webtoon",
+        "Animação",
+        "Contos de Fadas"
+      ],
+      "image_alt_texts": {
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Arte promocional de A Bela e a Fera com um toque sombrio.",
+        "alan-cumming-blue-as-nightcrawler-in-x2-x-men-united.jpg": "Ilustração de Bela em uma versão sombria de A Bela e a Fera.",
+        "army-in-dune-part-two.jpg": "Capa da HQ 'Disney As Old As Time: A Twisted Tale'.",
+        "as-old-as-time-a-twisted-tale.jpg": "Personagens de A Bela e a Fera em uma versão retorcida.",
+        "battlestar-galactica-33.jpg": "Cena de A Bela e a Fera em sua nova versão sombria.",
+        "star-cops.jpg": "Arte conceitual de 'Disney As Old As Time: A Twisted Tale'.",
+        "p-s-5-p-r-o.png": "Bela em perigo no castelo da Fera.",
+        "p-s-5_aed69f.png": "A Fera em sua nova forma na releitura sombria.",
+        "sunshine.jpg": "A feiticeira amaldiçoando o príncipe em A Bela e a Fera."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Bela e a Fera ganha versão sombria e inesperada na Webtoon",
+        "_yoast_wpseo_metadesc": "A Disney lança uma nova e sombria versão de A Bela e a Fera, 'Disney As Old As Time: A Twisted Tale', na Webtoon, com reviravoltas inesperadas.",
+        "_yoast_wpseo_focuskw": "A Bela e a Fera versão sombria",
+        "_yoast_news_keywords": "A Bela e a Fera, Disney, Webtoon, Animação, Contos de Fadas, Beatrice Bassoli, Francesca Siviero",
+        "_yoast_wpseo_opengraph-title": "A Bela e a Fera ganha versão sombria e inesperada na Webtoon",
+        "_yoast_wpseo_opengraph-description": "A Disney lança uma nova e sombria versão de A Bela e a Fera, 'Disney As Old As Time: A Twisted Tale', na Webtoon, com reviravoltas inesperadas.",
+        "_yoast_wpseo_twitter-title": "A Bela e a Fera ganha versão sombria e inesperada na Webtoon",
+        "_yoast_wpseo_twitter-description": "A Disney lança uma nova e sombria versão de A Bela e a Fera, 'Disney As Old As Time: A Twisted Tale', na Webtoon, com reviravoltas inesperadas."
+      }
+    },
+    {
+      "titulo_final": "Pokémon Legends: Z-A - Mega Starmie vira frango frito no KFC",
+      "conteudo_final": "<p>A chegada de <b>Pokémon Legends: Z-A</b> não só trouxe de volta a <b>Mega Evolução</b>, mas também introduziu novas formas que rapidamente conquistaram a internet. Destaque para a <b>Mega Starmie</b>, que, para a surpresa de muitos, gerou uma campanha publicitária inusitada por parte do <b>KFC</b>.</p><h2>A Adoção Viral da Mega Starmie</h2><p>Enquanto alguns fãs criticaram o design da <b>Mega Dragonite</b> por ser pouco criativo, a <b>Mega Starmie</b>, com suas pernas alongadas, cativou a comunidade de <b>Pokémon</b>. O Pokémon do tipo Água/Psíquico se tornou um fenômeno viral, inspirando uma enxurrada de fan arts e memes.</p><p>O que era esperado eram homenagens criativas dos fãs, mas ninguém antecipou que o <b>KFC</b> entraria na brincadeira. Em uma ação surpreendente, a rede de fast-food espanhola do <b>KFC</b> publicou uma arte que transforma a <b>Mega Starmie</b> em um delicioso frango frito, com a assinatura dos famosos 11 ervas e especiarias do Colonel Sanders.</p><h2>KFC Celebra Mega Starmie com Toque de Frango Frito</h2><p>A arte compartilhada pela conta espanhola do <b>KFC</b> mostra a <b>Mega Starmie</b> coberta pela receita secreta e, presumivelmente, pronta para ser frita. A publicação gerou debate entre os fãs se a ação era uma demonstração de apreço genuíno pela criatura ou uma insinuação de que ela seria melhor servida como comida. Ao ser questionado se a arte foi feita por IA, o perfil do <b>KFC</b> respondeu: \"Não é IA, mano, é Paint\".</p><p>Essa interação peculiar entre o universo de <b>Pokémon</b> e uma marca global de fast-food demonstra o impacto cultural do jogo e a criatividade da comunidade de fãs. A arte viral da <b>Mega Starmie</b> transformada em frango frito se espalhou rapidamente pelas redes sociais.</p><p>Além da homenagem do <b>KFC</b>, a <b>Mega Starmie</b> inspirou outras criações notáveis. Um fã recriou o logo de Sonic Adventure utilizando o Pokémon, enquanto outro utilizou o Blender para criar uma curta animação 3D de <b>Mega Starmie</b> escapando de uma instalação.</p>",
+      "meta_description": "Pokémon Legends: Z-A apresenta Mega Starmie, que virou frango frito em uma campanha inusitada do KFC e viralizou na internet.",
+      "focus_keyphrase": "Pokémon Legends Z-A Mega Starmie KFC",
+      "related_keyphrases": [
+        "Mega Starmie KFC",
+        "Pokémon Legends Z-A novidades",
+        "Mega Evolução Pokémon"
+      ],
+      "slug": "pokemon-legends-z-a-mega-starmie-kfc",
+      "categorias": [
+        {
+          "nome": "Pokémon Legends: Z-A",
+          "grupo": "obras",
+          "evidence": "Pokemon Legends: Z-A"
+        },
+        {
+          "nome": "Pokémon",
+          "grupo": "franquias",
+          "evidence": "Pokemon Legends: Z-A"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokémon Legends: Z-A",
+        "Mega Starmie",
+        "KFC",
+        "Mega Evolução",
+        "Pokémon",
+        "Game Freak"
+      ],
+      "image_alt_texts": {
+        "pokemon-z-a-cover-art-1.jpg": "Capa do jogo Pokémon Legends: Z-A.",
+        "pokemon-legends-z-a-press-image-1.jpg": "Arte promocional de Pokémon Legends: Z-A.",
+        "pokemon-legends-z-a-press-image-2.jpg": "Ilustração de Mega Starmie no jogo Pokémon Legends: Z-A.",
+        "pokemon-legends-z-a-press-image-3.jpg": "Cena de batalha em Pokémon Legends: Z-A com Mega Starmie.",
+        "pokemon-legends-z-a-press-image-4.jpg": "Mega Starmie em destaque em arte de Pokémon Legends: Z-A.",
+        "pokemon-legends-z-a-press-image-5.jpg": "Ambiente do jogo Pokémon Legends: Z-A.",
+        "pokemon-legends-z-a-press-image-6.jpg": "Personagens de Pokémon Legends: Z-A.",
+        "pokemon-legends-z-a-press-image-7.jpg": "Outra arte promocional de Pokémon Legends: Z-A.",
+        "mega-starmie-on-a-pokemon-legends-z-a-background.jpg": "Mega Starmie em pose dinâmica em Pokémon Legends: Z-A."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon Legends: Z-A - Mega Starmie vira frango frito no KFC",
+        "_yoast_wpseo_metadesc": "Pokémon Legends: Z-A apresenta Mega Starmie, que virou frango frito em uma campanha inusitada do KFC e viralizou na internet.",
+        "_yoast_wpseo_focuskw": "Pokémon Legends Z-A Mega Starmie KFC",
+        "_yoast_news_keywords": "Pokémon Legends: Z-A, Mega Starmie, KFC, Mega Evolução, Pokémon, Game Freak, Nintendo",
+        "_yoast_wpseo_opengraph-title": "Pokémon Legends: Z-A - Mega Starmie vira frango frito no KFC",
+        "_yoast_wpseo_opengraph-description": "Pokémon Legends: Z-A apresenta Mega Starmie, que virou frango frito em uma campanha inusitada do KFC e viralizou na internet.",
+        "_yoast_wpseo_twitter-title": "Pokémon Legends: Z-A - Mega Starmie vira frango frito no KFC",
+        "_yoast_wpseo_twitter-description": "Pokémon Legends: Z-A apresenta Mega Starmie, que virou frango frito em uma campanha inusitada do KFC e viralizou na internet."
+      }
+    }
+  ]
+}

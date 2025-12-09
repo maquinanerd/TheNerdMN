@@ -1,0 +1,118 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "O Quarteto Fantástico: Nova versão chega ao Disney+ em novembro",
+      "conteudo_final": "<p>Os filmes de super-heróis são ideais para serem exibidos em formatos premium como o IMAX. Com suas cenas de ação deslumbrantes e momentos empolgantes, adaptações de quadrinhos exigem ser vistas nas maiores telas possíveis, imergindo completamente os espectadores em uma história e mundo empolgantes. Embora não haja nada como ver um grande lançamento de estúdio no cinema, os estúdios têm buscado maneiras de permitir que os fãs reproduzam a experiência em casa. Lançamentos em home media de certos títulos veem a proporção de tela do filme mudar, preenchendo toda a tela para sequências específicas, espelhando o que acontece durante as exibições em cinemas IMAX. Vários filmes da Marvel no Disney+ tiram proveito dessa ferramenta, e <b>O Quarteto Fantástico: Primeiros Passos</b> será o próximo.</p>\n<h2>O Quarteto Fantástico terá versão IMAX no Disney+</h2>\n<p>A Disney anunciou oficialmente que <b>O Quarteto Fantástico: Primeiros Passos</b> estreará no Disney+ na quarta-feira, 5 de novembro. Na página do filme no aplicativo do Disney+, a nota \"IMAX Enhanced\" está incluída. Esta marca uma mudança importante em relação ao lançamento de Primeiros Passos em plataformas PVOD em setembro, quando apenas a versão padrão em letterbox estava disponível para alugar e comprar.</p>\n<h2>Melhorias IMAX Farão do Quarteto Fantástico um 'Must Watch' no Disney+</h2>\n<p>Se os fãs adiaram uma nova maratona de <b>Primeiros Passos</b>, a estreia no Disney+ parece ser o momento perfeito para revisitar a Primeira Família da Marvel. O filme é visualmente deslumbrante, em grande parte graças ao design de produção distinto usado para criar o cenário de inspiração retrô-futurista dos anos 1960. Essa abordagem deu a Primeiros Passos um visual único quando comparado a muitos outros filmes da Marvel, transportando o público para uma realidade diferente no multiverso. Até que <b>Primeiros Passos</b> chegue ao Disney+, não se sabe quais sequências receberão o tratamento IMAX, mas seria ótimo se alguns momentos iniciais (como a montagem de notícias retratando as batalhas do Quarteto Fantástico contra vários vilões) fossem aprimorados, sem perder tempo em imergir os espectadores no local.</p>\n<p>É razoável acreditar que qualquer cena envolvendo Galactus será aprimorada. O vilão massivo se eleva acima de todos os outros, então seria uma forma muito eficaz de ilustrar seu tamanho titânico utilizando a proporção de tela IMAX sempre que ele estiver em cena. Os fãs realmente poderiam apreciar o trabalho que foi feito para criar o design do personagem fiel aos quadrinhos, e isso faria Galactus parecer uma presença ainda mais intimidadora, adicionando aos riscos do clímax do filme, onde o Quarteto Fantástico tenta derrotar Galactus e salvar seu mundo.</p>\n<p><b>O Quarteto Fantástico: Primeiros Passos</b> é o segundo lançamento do Universo Cinematográfico Marvel a ser aprimorado em IMAX no Disney+, juntando-se a Capitão América: Admirável Mundo Novo (apesar de ter sido exibido em cinemas IMAX durante o verão, Thunderbolts* não recebeu o upgrade para streaming). Embora Admirável Mundo Novo tenha sido uma decepção na bilheteria, ele se tornou um dos maiores filmes em streaming no início deste ano, provando que o MCU continua sendo um atrativo apesar das dificuldades recentes. Se muitos assinantes do Disney+ assistiram Admirável Mundo Novo, haverá provavelmente muito interesse em <b>Primeiros Passos</b>, que recebeu críticas muito mais fortes. Não seria surpreendente ver o filme subir ao topo das paradas de streaming no início do próximo mês. Com os aprimoramentos IMAX, o Disney+ pode se tornar a forma preferida de assistir <b>Primeiros Passos</b> em casa.</p>\n<p>É lamentável que os aprimoramentos IMAX não tenham sido incluídos em todas as versões dos lançamentos em home media de Primeiros Passos, mas pelo menos os fãs têm uma maneira de experimentar o filme (ou pelo menos algumas cenas) em toda a sua glória de tela cheia. Esses filmes são projetados com formatos premium em mente, e eles merecem ser vistos dessa forma, mesmo quando estão fora dos cinemas. <b>O Quarteto Fantástico: Primeiros Passos</b> deve ter uma ótima aparência quando as pessoas o transmitirem em suas TVs de tela grande durante o outono.</p>",
+      "meta_description": "O Quarteto Fantástico: Primeiros Passos chega ao Disney+ em novembro com a versão \"IMAX Enhanced\", prometendo uma experiência imersiva em tela cheia.",
+      "focus_keyphrase": "O Quarteto Fantástico Primeiros Passos",
+      "related_keyphrases": [
+        "Quarteto Fantástico Disney+",
+        "Filme IMAX no Disney+",
+        "Galactus Quarteto Fantástico"
+      ],
+      "slug": "quarteto-fantastico-disney-plus-imax",
+      "categorias": [
+        {
+          "nome": "O Quarteto Fantástico: Primeiros Passos",
+          "grupo": "obras",
+          "evidence": "The Fantastic Four: First Steps"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "editorias",
+          "evidence": "Disney has officially announced that The Fantastic Four: First Steps will premiere on Disney+"
+        },
+        {
+          "nome": "IMAX Enhanced",
+          "grupo": "editorias",
+          "evidence": "the “IMAX Enhanced” note is included"
+        }
+      ],
+      "tags_sugeridas": [
+        "O Quarteto Fantástico",
+        "Primeiros Passos",
+        "Disney+",
+        "IMAX",
+        "Galactus",
+        "Marvel"
+      ],
+      "image_alt_texts": {
+        "Galactus-with-glowing-eyes-in-The-Fantastic-Four-First-Steps.jpg": "Galactus com olhos brilhantes em O Quarteto Fantástico: Primeiros Passos, pronto para o confronto.",
+        "hbo-max-binge-dramas.jpg": "Montagem de logos de serviços de streaming, indicando opções de entretenimento.",
+        "netflix-scifi.jpg": "Imagem promocional genérica de um filme de ficção científica.",
+        "Army-in-Dune-Part-Two.jpg": "Cena de exército em Duna Parte Dois.",
+        "IT-Welcome-to-derry-rotten-tomatoes-score.jpg": "Pontuação do Rotten Tomatoes para a série It: Welcome to Derry.",
+        "The-Division.jpg": "Arte conceitual do jogo The Division.",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Colagem de pôsteres de filmes de vampiro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "O Quarteto Fantástico: Primeira versão IMAX chega ao Disney+ em novembro",
+        "_yoast_wpseo_metadesc": "O Quarteto Fantástico: Primeiros Passos terá lançamento \"IMAX Enhanced\" no Disney+ a partir de novembro, oferecendo uma nova forma de assistir.",
+        "_yoast_wpseo_focuskw": "O Quarteto Fantástico Primeiros Passos",
+        "_yoast_news_keywords": "O Quarteto Fantástico, Primeiros Passos, Disney+, IMAX, Galactus, Marvel, Super-herói",
+        "_yoast_wpseo_opengraph-title": "O Quarteto Fantástico: Nova versão chega ao Disney+ em novembro",
+        "_yoast_wpseo_opengraph-description": "O Quarteto Fantástico: Primeiros Passos terá lançamento \"IMAX Enhanced\" no Disney+ a partir de novembro, oferecendo uma nova forma de assistir.",
+        "_yoast_wpseo_twitter-title": "O Quarteto Fantástico: Nova versão chega ao Disney+ em novembro",
+        "_yoast_wpseo_twitter-description": "O Quarteto Fantástico: Primeiros Passos terá lançamento \"IMAX Enhanced\" no Disney+ a partir de novembro, oferecendo uma nova forma de assistir."
+      }
+    },
+    {
+      "titulo_final": "The Boys: Nova equipe pode derrubar o Sete e o Capitão Pátria",
+      "conteudo_final": "<p>O Sete sempre foi o auge do universo de <b>The Boys</b>. A Vought garante que seus melhores estejam sob os holofotes, pois o contrário significa que a missão da empresa está falhando. No entanto, a equipe de supers tem sofrido nos últimos anos. Tudo começa quando Translucido cruza o caminho de Billy Butcher e morre de forma excruciante. Depois disso, as comportas se abrem, com membros do Sete entrando e saindo como se a Torre Vought não tivesse nada além de portas giratórias. As coisas parecem estáveis para a 5ª temporada, mas pode não importar, porque outro participante está entrando na disputa.</p>\n<h2>Nova Equipe Poderosa Surge em The Boys</h2>\n<p>Apesar da Vought controlar quase tudo, incluindo o governo dos Estados Unidos, ela está perdendo o foco sob a liderança do Capitão Pátria. Bem debaixo do nariz dele, uma nova equipe está se formando com o potencial de derrubar não apenas o Sete, mas ele também. E a pior parte é que um de seus aliados mais próximos é o culpado por sua criação.</p>\n<h2>Sister Sage Abre Caminho para Derrota da Vought em Gen V Temporada 2</h2>\n<p>Após Cifrador causar danos irreparáveis a God U em <b>Gen V</b> Temporada 2, ele revela que não é Cifrador e que, na verdade, é Godolkin, que vem agindo nas sombras por décadas. Sua última manobra envolve usar Marie Moreau para \"curar o mundo\". O que isso significa é um mistério, mas Sister Sage não gosta do som disso porque acredita que ela e seu namorado lutarão para chegar ao topo juntos. Contra o conselho, Godolkin realiza um último seminário para atrair Marie e obter controle sobre ela. Ele a tem onde quer, até que Polarity, que Sister Sage deixou escapar, chega e destrói todo o plano. Marie assume a vantagem com Polarity ao seu lado e mata Godolkin, salvando todos na escola da qual ela simplesmente não consegue desistir.</p>\n<p>Infelizmente, Marie e seus amigos não têm escolha a não ser deixar sua casa, porque a Vought está vindo para limpar a bagunça e não mostrará misericórdia. Eles procuram o esconderijo de Stan Edgar, apenas para Starlight e A-Train aparecerem e lhes darem as boas-vindas à resistência. Nenhum papel é atribuído, mas parece bastante claro que Marie, Jordan Li, Emma Meyer, Sam Riordan, Cate Dunlap e Annabeth Moreau são os verdadeiros Guardiões de Godolkin e terão papéis a desempenhar na batalha contra a Vought e o Capitão Pátria. Na verdade, eles têm o que é preciso para acabar com o conflito sem suar.</p>\n<h2>Os Sete Não São Páreo para os Guardiões de Godolkin</h2>\n<p>Marie descobre durante sua investigação de Cifrador que ela é um produto do Projeto Odessa, que também é responsável pelo Capitão Pátria. Como Edgar explica, ela está no nível do Capitão Pátria, e ele insinua que pode precisar dela para combatê-lo no futuro. Ela certamente terá sua chance, mas não pode fazer isso sozinha, porque os outros membros do Sete certamente estarão apoiando seu líder. Mas o confronto não é bom para o Sete, já que Jordan e Sam são mais fortes do que qualquer um dos membros atuais, além do Capitão Pátria. Adicione Cate, que pode manipular os membros mentalmente fracos da equipe da Vought como The Deep e Firecracker, e está feito. A única coisa que está no caminho dos Guardiões é a história de <b>The Boys</b>.</p>\n<p>Ter um monte de Supers de outro programa invadindo a festa de <b>The Boys</b> e eliminando os maiores vilões da franquia provavelmente não será bem recebido, mesmo que faça sentido do ponto de vista do poder. A narrativa terá precedência, o que significa que Billy Butcher será o primeiro na fila para ensinar uma lição ao Sete. Starlight, Hughie e os outros vêm depois dele, então não há muito espaço para a equipe de <b>Gen V</b>. O melhor que eles provavelmente podem esperar é ajudar a libertar <b>The Boys</b> da prisão e dar alguns golpes depois que todos receberem sua vingança.</p>\n<p>A 2ª temporada de <b>Gen V</b> está em streaming no Prime Video.</p>",
+      "meta_description": "Uma nova equipe de supers de Gen V, os Guardiões de Godolkin, surge com poder suficiente para desafiar o Sete e o Capitão Pátria em The Boys.",
+      "focus_keyphrase": "The Boys nova equipe Sete",
+      "related_keyphrases": [
+        "Guardiões de Godolkin",
+        "Capitão Pátria vs Novos Supers",
+        "Gen V e The Boys"
+      ],
+      "slug": "the-boys-nova-equipe-vs-sete",
+      "categorias": [
+        {
+          "nome": "The Boys",
+          "grupo": "obras",
+          "evidence": "The Seven have always been the cream of the crop in The Boys universe."
+        },
+        {
+          "nome": "Gen V",
+          "grupo": "obras",
+          "evidence": "Gen V Season 2"
+        },
+        {
+          "nome": "Vought",
+          "grupo": "franquias",
+          "evidence": "Vought sees to it that its top dogs are the only ones in the spotlight"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Boys",
+        "Gen V",
+        "O Sete",
+        "Capitão Pátria",
+        "Vought",
+        "Sister Sage",
+        "Marie Moreau"
+      ],
+      "image_alt_texts": {
+        "hbo-max-binge-dramas.jpg": "Imagem promocional de séries de TV para maratonar.",
+        "Sister-Sage-in-Gen-V-Season-2.jpg": "Sister Sage em cena da segunda temporada de Gen V.",
+        "netflix-scifi.jpg": "Imagem promocional genérica de um filme de ficção científica.",
+        "Annabeth-Marie-Cate-Jordan-Emma-and-Sam-at-the-end-of-Gen-V-Season-2.jpg": "Annabeth, Marie, Cate, Jordan, Emma e Sam ao final de Gen V Temporada 2.",
+        "Army-in-Dune-Part-Two.jpg": "Cena de exército em Duna Parte Dois.",
+        "IT-Welcome-to-derry-rotten-tomatoes-score.jpg": "Pontuação do Rotten Tomatoes para a série It: Welcome to Derry.",
+        "The-Division.jpg": "Arte conceitual do jogo The Division.",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Colagem de pôsteres de filmes de vampiro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Boys: Nova equipe formada em Gen V pode derrubar o Sete",
+        "_yoast_wpseo_metadesc": "Uma nova equipe de supers de Gen V, os Guardiões de Godolkin, surge com poder suficiente para desafiar o Sete e o Capitão Pátria em The Boys.",
+        "_yoast_wpseo_focuskw": "The Boys nova equipe Sete",
+        "_yoast_news_keywords": "The Boys, Gen V, O Sete, Capitão Pátria, Vought, Sister Sage, Marie Moreau, Super-heróis",
+        "_yoast_wpseo_opengraph-title": "The Boys: Nova equipe pode derrubar o Sete e o Capitão Pátria",
+        "_yoast_wpseo_opengraph-description": "Uma nova equipe de supers de Gen V, os Guardiões de Godolkin, surge com poder suficiente para desafiar o Sete e o Capitão Pátria em The Boys.",
+        "_yoast_wpseo_twitter-title": "The Boys: Nova equipe pode derrubar o Sete e o Capitão Pátria",
+        "_yoast_wpseo_twitter-description": "Uma nova equipe de supers de Gen V, os Guardiões de Godolkin, surge com poder suficiente para desafiar o Sete e o Capitão Pátria em The Boys."
+      }
+    }
+  ]
+}

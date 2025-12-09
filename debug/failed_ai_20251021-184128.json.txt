@@ -1,0 +1,114 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "8 Atores do MCU que Atuaram em The Boys e Gen V",
+      "conteudo_final": "<p>O universo de <b>The Boys</b>, a popular franquia de super-heróis satíricos da Amazon Prime Video, tem se expandido, e com isso, as conexões com o Universo Cinematográfico Marvel (MCU) se tornam mais evidentes. Oito atores que já fizeram parte de produções do MCU também marcaram presença em <b>The Boys</b> e seu spin-off, <b>Gen V</b>.</p><h2>Atores em Comum entre MCU e The Boys</h2><p>Enquanto a série animada <b>The Boys: Diabolical</b> contou com talentos como Fred Tatasciore e Don Cheadle, o foco aqui são os projetos canônicos em live-action. A lista de atores que transitaram entre o MCU e o universo de <b>The Boys</b> inclui nomes surpreendentes e estrelas consolidadas.</p><h2>Karl Urban: Skurge em Thor: Ragnarok e Billy Butcher</h2><p><b>Karl Urban</b>, conhecido como o implacável Billy Butcher em <b>The Boys</b>, deu vida ao asgardiano Skurge, o Executor, em <b>Thor: Ragnarok</b> (2017). No MCU, Skurge foi manipulado por Hela, mas eventualmente se voltou contra ela. Em <b>The Boys</b>, Butcher passou por uma jornada de herói a anti-herói, desenvolvendo poderes próprios e preparando-se para a quinta e última temporada da série.</p><h2>Erin Moriarty: Hope Shlottman em Jessica Jones e Starlight</h2><p><b>Erin Moriarty</b>, que interpretou a problemática Hope Shlottman na série <b>Jessica Jones</b> – agora confirmada como canônica ao MCU –, brilha em <b>The Boys</b> como a Supo Annie January, conhecida como Starlight. Inicialmente membro dos Sete, Starlight se tornou uma figura chave na luta pela liberdade ao lado dos The Boys.</p><h2>Colby Minifie: Robyn em Jessica Jones e Ashley Barrett</h2><p><b>Colby Minifie</b> fez a ponte entre <b>Jessica Jones</b> e <b>The Boys</b>. Na série da Netflix, ela viveu Robyn, vizinha de Jessica. Em <b>The Boys</b>, Minifie assume o papel de Ashley Barrett, a CEO de fato da Vought International. Ashley teve sua posição ameaçada por Homelander, levando-a a buscar uma transformação através do Composto V, deixando seu futuro incerto para a 5ª temporada.</p><h2>Jessica Hecht: Audrey Eastman em Jessica Jones e Carol Mannheim</h2><p><b>Jessica Hecht</b>, lembrada por seu papel em <b>Friends</b>, interpretou Audrey Eastman em <b>Jessica Jones</b>, uma mulher que culpava super-humanos pela morte de seu irmão. Em <b>The Boys</b>, Hecht deu vida a Carol Mannheim, a diretora de divulgação da Igreja do Coletivo, que atuou como terapeuta de The Deep e facilitou seu retorno aos Sete.</p><h2>Da’Vinchi: Eric Ambrose em Jessica Jones e Anthony</h2><p>O ator <b>Da’Vinchi</b> participou de ambas as franquias. Em <b>Jessica Jones</b>, ele interpretou Eric Ambrose, um personagem com quem a heroína interagiu para obter informações. Em <b>The Boys</b>, Da’Vinchi deu vida a Anthony, um amigo de infância de Hughie Campbell, com quem se reencontrou em uma taverna na primeira temporada.</p><h2>Clancy Brown: Surtur em Thor: Ragnarok e Brink em Gen V</h2><p>O veterano <b>Clancy Brown</b>, voz de Surtur em <b>Thor: Ragnarok</b>, também interpretou o Coronel Ray Schoonover na série <b>O Justiceiro</b>, parte da Saga dos Defensores no MCU. Em <b>Gen V</b>, spin-off de <b>The Boys</b>, Brown deu vida ao professor Richard “Rich Brink” Brinkerhoff na Universidade Godolkin.</p><h2>Giancarlo Esposito: Sidewinder em Capitão América 4 e Stan Edgar</h2><p><b>Giancarlo Esposito</b>, aguardado no MCU como o vilão Sidewinder em <b>Capitão América: Admirável Mundo Novo</b> (previsto para 2025), é uma presença constante em <b>The Boys</b> como Stan Edgar, ex-CEO da Vought International. Edgar também marcou presença em <b>Gen V</b>, continuando sua disputa contra Homelander, um conflito que promete ser central na 5ª temporada de <b>The Boys</b>.</p><h2>Tilda Swinton: A Ancestral em Doutor Estranho e Ambrosius</h2><p>A lendária <b>Tilda Swinton</b> surpreendeu ao emprestar sua voz a Ambrosius, o polvo apaixonado por The Deep em <b>The Boys</b>. Anteriormente, Swinton já havia se destacado no MCU como A Ancestral, a ex-Supremo Feiticeira, desde <b>Doutor Estranho</b> (2016), com aparições em <b>Vingadores: Ultimato</b> e na série animada <b>What If...?</b>.</p>",
+      "meta_description": "Descubra quais 8 atores do Universo Cinematográfico Marvel (MCU) também atuaram nas séries The Boys e Gen V, expandindo as conexões entre os universos.",
+      "focus_keyphrase": "Atores do MCU em The Boys",
+      "related_keyphrases": [
+        "MCU e The Boys",
+        "Elenco de The Boys",
+        "Gen V atores Marvel"
+      ],
+      "slug": "atores-mcu-the-boys-gen-v",
+      "categorias": [
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "Eight actors from the Marvel Cinematic Universe have also appeared in an Amazon Prime Video satirical superhero franchise that kicked off in 2019 with The Boys."
+        },
+        {
+          "nome": "Gen V",
+          "grupo": "franquias",
+          "evidence": "In Gen V, Brown played acclaimed Godolkin University professor Richard “Rich Brink” Brinkerhoff"
+        },
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "Eight actors from the Marvel Cinematic Universe have also appeared in an Amazon Prime Video satirical superhero franchise"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Boys",
+        "Gen V",
+        "MCU",
+        "Karl Urban",
+        "Erin Moriarty",
+        "Clancy Brown",
+        "Giancarlo Esposito"
+      ],
+      "image_alt_texts": {
+        "Karl-Urban-as-Skurge-and-Billy-Butcher.jpg": "Karl Urban como Skurge em Thor: Ragnarok e Billy Butcher em The Boys.",
+        "Erin-Moriarty-as-Hope-Shlottman-and-Starlight.jpg": "Erin Moriarty como Hope Shlottman em Jessica Jones e Starlight em The Boys.",
+        "Colby-Minifie-as-Robyn-and-Ashley-Barrett.jpg": "Colby Minifie como Robyn em Jessica Jones e Ashley Barrett em The Boys.",
+        "Jessica-Hecht-as-Audrey-Eastman-and-Carol-Mannheim.jpg": "Jessica Hecht como Audrey Eastman em Jessica Jones e Carol Mannheim em The Boys.",
+        "DaVinchi-as-Eric-Ambrose-and-Anthony.jpg": "Da'Vinchi como Eric Ambrose em Jessica Jones e Anthony em The Boys.",
+        "Clancy-Brown-as-Ray-Schoonover-and-Brink.jpg": "Clancy Brown como Ray Schoonover em O Justiceiro e Brink em Gen V.",
+        "Giancarlo-Esposito-as-Seth-Voelker-and-Stan-Edgar.jpg": "Giancarlo Esposito como Sidewinder em Capitão América 4 e Stan Edgar em The Boys.",
+        "Tilda-Swinton-as-the-Ancient-One-and-Ambrosius.jpg": "Tilda Swinton como A Ancestral em Doutor Estranho e a voz de Ambrosius em The Boys."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "8 Atores do MCU que Atuaram em The Boys e Gen V | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Descubra quais 8 atores do Universo Cinematográfico Marvel (MCU) também atuaram nas séries The Boys e Gen V, expandindo as conexões entre os universos.",
+        "_yoast_wpseo_focuskw": "Atores do MCU em The Boys",
+        "_yoast_news_keywords": "The Boys, Gen V, MCU, Marvel, Karl Urban, Erin Moriarty, Clancy Brown, Giancarlo Esposito, Tilda Swinton, Colby Minifie",
+        "_yoast_wpseo_opengraph-title": "8 Atores do MCU que Atuaram em The Boys e Gen V",
+        "_yoast_wpseo_opengraph-description": "Descubra quais 8 atores do Universo Cinematográfico Marvel (MCU) também atuaram nas séries The Boys e Gen V, expandindo as conexões entre os universos.",
+        "_yoast_wpseo_twitter-title": "8 Atores do MCU que Atuaram em The Boys e Gen V",
+        "_yoast_wpseo_twitter-description": "Descubra quais 8 atores do Universo Cinematográfico Marvel (MCU) também atuaram nas séries The Boys e Gen V, expandindo as conexões entre os universos."
+      }
+    },
+    {
+      "titulo_final": "Starship Troopers: Clássico Cult dos Anos 90 Deixa Netflix",
+      "conteudo_final": "<p>Os fãs de ficção científica têm apenas mais alguns dias para assistir a um dos filmes cult mais incompreendidos dos anos 90 antes que ele deixe o catálogo da Netflix. Lançado em 1997, <b>Starship Troopers</b>, de Paul Verhoeven, um clássico cult que divide opiniões, encerrará sua exibição na plataforma em 31 de outubro.</p><h2>Starship Troopers: Um Clássico Cult Incompreendido</h2><p>A década de 1990 foi marcante para a ficção científica, com títulos como <b>Jurassic Park</b> e <b>Independence Day</b>. No entanto, <b>Starship Troopers</b>, apesar de seu status cult posterior, enfrentou críticas negativas em seu lançamento. O filme foi mal interpretado como um endosso ao fascismo, em vez de ser reconhecido como a sátira mordaz ao militarismo e ao fascismo que realmente é. Críticas da época apontavam inconsistência no tom, com alguns argumentando que o filme promovia o \"utopianismo fascista\" presente no livro de Robert A. Heinlein.</p><p>Anos depois, <b>Starship Troopers</b> foi reavaliado e hoje é amplamente celebrado como uma alegoria antifascista. Com 72% de aprovação da crítica e 70% do público no Rotten Tomatoes, o filme é elogiado por sua crítica social afiada, mesclando ação visceral com temas profundos. Além do filme original, a franquia rendeu quatro sequências (duas live-action e duas animações) e uma série animada.</p><h2>Onde assistir Starship Troopers após a saída da Netflix</h2><p>Com a saída iminente da Netflix, <b>Starship Troopers</b> ainda não tem um novo lar de streaming anunciado para novembro. É possível que o filme migre para outra plataforma, mas caso contrário, os fãs terão que recorrer a serviços de VOD (Video on Demand) como Fandango at Home, Google Play Filmes e Prime Video, ou adquirir cópias físicas.</p><p>Para aqueles que desejam explorar mais da franquia, as sequências live-action estão disponíveis no The Roku Channel, enquanto os filmes animados só podem ser encontrados em VOD.</p>",
+      "meta_description": "Assista ao clássico cult de ficção científica Starship Troopers na Netflix antes de 31 de outubro! Descubra onde assistir após a remoção da plataforma.",
+      "focus_keyphrase": "Starship Troopers Netflix",
+      "related_keyphrases": [
+        "Starship Troopers cult",
+        "filmes de ficção científica",
+        "Paul Verhoeven"
+      ],
+      "slug": "starship-troopers-netflix-sai",
+      "categorias": [
+        {
+          "nome": "Starship Troopers",
+          "grupo": "franquias",
+          "evidence": "Starship Troopers is scheduled to leave Netflix"
+        },
+        {
+          "nome": "Ficção Científica",
+          "grupo": "editorias",
+          "evidence": "The 1990s were a great decade for sci-fi"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix’s streaming lineup features some incredible sci-fi movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "Starship Troopers",
+        "Paul Verhoeven",
+        "Ficção Científica",
+        "Cult Classic",
+        "Netflix",
+        "Anos 90",
+        "Terror Sci-Fi"
+      ],
+      "image_alt_texts": {
+        "starship_troopers_poster.jpg": "Pôster do filme cult de ficção científica Starship Troopers.",
+        "netflix_logo.png": "Logo oficial da Netflix, plataforma onde o filme está disponível."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Starship Troopers: Clássico Cult dos Anos 90 Deixa Netflix | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Assista ao clássico cult de ficção científica Starship Troopers na Netflix antes de 31 de outubro! Descubra onde assistir após a remoção da plataforma.",
+        "_yoast_wpseo_focuskw": "Starship Troopers Netflix",
+        "_yoast_news_keywords": "Starship Troopers, Netflix, Paul Verhoeven, Ficção Científica, Cult Classic, Anos 90",
+        "_yoast_wpseo_opengraph-title": "Starship Troopers: Clássico Cult dos Anos 90 Deixa Netflix",
+        "_yoast_wpseo_opengraph-description": "Assista ao clássico cult de ficção científica Starship Troopers na Netflix antes de 31 de outubro! Descubra onde assistir após a remoção da plataforma.",
+        "_yoast_wpseo_twitter-title": "Starship Troopers: Clássico Cult dos Anos 90 Deixa Netflix",
+        "_yoast_wpseo_twitter-description": "Assista ao clássico cult de ficção científica Starship Troopers na Netflix antes de 31 de outubro! Descubra onde assistir após a remoção da plataforma."
+      }
+    }
+  ]
+}

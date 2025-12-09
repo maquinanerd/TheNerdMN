@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Julia Roberts ganha salário milionário em \"After the Hunt\", apesar do fracasso em bilheteria",
+  "conteudo_final": "<p>Apesar do desempenho tímido nas bilheterias, o filme <b><i>After the Hunt</i></b> garantiu o pagamento prometido à sua estrela principal, Julia Roberts. Com um orçamento estimado entre US$ 70 e US$ 80 milhões, a produção arrecadou apenas cerca de US$ 5,6 milhões mundialmente.</p>\n\n<div class=\"body-img landscape mobile-optimized\">\n<div class=\"responsive-img image-expandable img-article-item\" data-img-caption='\"\"' data-img-url=\"https:
+  "meta_description": "Julia Roberts recebeu US$ 20 milhões por \"After the Hunt\", filme que arrecadou apenas US$ 5,6 milhões mundialmente, tornando seu salário uma grande fatia do orçamento.",
+  "focus_keyphrase": "After the Hunt Julia Roberts salário",
+  "related_keyphrases": [
+    "After the Hunt bilheteria",
+    "Julia Roberts After the Hunt",
+    "Salário Julia Roberts cinema"
+  ],
+  "slug": "after-the-hunt-julia-roberts-salario",
+  "categorias": [
+    {
+      "nome": "After the Hunt",
+      "grupo": "obras",
+      "evidence": "After the Hunt"
+    },
+    {
+      "nome": "Julia Roberts",
+      "grupo": "obras",
+      "evidence": "Julia Roberts"
+    },
+    {
+      "nome": "Luca Guadagnino",
+      "grupo": "obras",
+      "evidence": "Luca Guadagnino"
+    }
+  ],
+  "tags_sugeridas": [
+    "After the Hunt",
+    "Julia Roberts",
+    "Luca Guadagnino",
+    "Andrew Garfield",
+    "Ayo Edebiri",
+    "thriller psicológico",
+    "bilheteria"
+  ],
+  "image_alt_texts": {
+    "maggie-talking-to-a-severe-looking-alma-in-after-the-hunt-2.jpg": "Julia Roberts em uma cena de \"After the Hunt\"",
+    "after-the-hunt-2025-updated-film-poster.jpg": "Pôster do filme \"After the Hunt\""
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Julia Roberts: Salário milionário em \"After the Hunt\" apesar do fracasso",
+    "_yoast_wpseo_metadesc": "Julia Roberts recebeu US$ 20 milhões por \"After the Hunt\", filme que arrecadou apenas US$ 5,6 milhões mundialmente, tornando seu salário uma grande fatia do orçamento.",
+    "_yoast_wpseo_focuskw": "After the Hunt Julia Roberts salário",
+    "_yoast_news_keywords": "After the Hunt, Julia Roberts, salário, bilheteria, cinema, thriller psicológico, Luca Guadagnino",
+    "_yoast_wpseo_opengraph-title": "Julia Roberts: Salário milionário em \"After the Hunt\" apesar do fracasso",
+    "_yoast_wpseo_opengraph-description": "Julia Roberts recebeu US$ 20 milhões por \"After the Hunt\", filme que arrecadou apenas US$ 5,6 milhões mundialmente, tornando seu salário uma grande fatia do orçamento.",
+    "_yoast_wpseo_twitter-title": "Julia Roberts: Salário milionário em \"After the Hunt\" apesar do fracasso",
+    "_yoast_wpseo_twitter-description": "Julia Roberts recebeu US$ 20 milhões por \"After the Hunt\", filme que arrecadou apenas US$ 5,6 milhões mundialmente, tornando seu salário uma grande fatia do orçamento."
+  }
+}

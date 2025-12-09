@@ -1,0 +1,141 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jennifer Aniston revela por que recusou convite para o SNL",
+      "conteudo_final": "<p>A atriz <b>Jennifer Aniston</b>, conhecida por seu papel icônico em <em>Friends</em>, revelou em entrevista recente o motivo pelo qual recusou uma oferta para se juntar ao elenco do famoso programa de esquetes <em>Saturday Night Live</em> (SNL). A estrela, que participou de <em>Friends</em> por dez anos (1994-2004), admitiu ter tido uma conversa com o produtor executivo do SNL, <b>Lorne Michaels</b>.</p><h2>A atitude de Aniston e a percepção sobre o SNL</h2><p>Durante sua participação no podcast <em>Armchair Expert</em>, Aniston contou que, na época, conheceu <b>Adam Sandler</b> e <b>David Spade</b>, que já faziam parte do programa. Ela expressou que teria gostado de integrar o elenco em uma época anterior, quando <b>Gilda Radner</b> fazia parte do show. No entanto, Aniston confessou ter tido uma "atitude auto-justa" na ocasião e acreditava que as mulheres não eram tratadas de forma justa no SNL, descrevendo o ambiente como "muito dominado por homens".</p><p>Apesar das hesitações, Aniston demonstrou gratidão pela trajetória que seguiu, já que logo após essa conversa garantiu seu papel em <em>Friends</em>. A série se tornou um fenômeno global, catapultando-a ao estrelato e rendendo-lhe cinco indicações ao Emmy, com uma vitória.</p><h2>Carreira pós-Friends e aparições no SNL</h2><p>A fama conquistada com <em>Friends</em> transformou Aniston em uma estrela internacional, alcançando o auge de sua carreira. Contudo, a recusa ao SNL não a impediu de retornar ao programa como apresentadora. Aniston comandou o SNL em 1999 e novamente em 2004, pouco antes do final de <em>Friends</em>.</p><p>Após o fim de <em>Friends</em>, Jennifer Aniston embarcou em uma bem-sucedida carreira cinematográfica, estrelando filmes como <em>Marley &amp; Me</em>, <em>Horrible Bosses</em>, <em>We're the Millers</em>, <em>Office Christmas Party</em> e <em>Murder Mystery</em>. Na televisão, ela reencontrou o sucesso com a série <em>The Morning Show</em>, ao lado de <b>Reese Witherspoon</b>, disponível atualmente para streaming.</p>",
+      "meta_description": "Jennifer Aniston revela por que recusou a oferta para integrar o elenco do Saturday Night Live (SNL) em entrevista. Saiba os motivos da atriz.",
+      "focus_keyphrase": "Jennifer Aniston SNL",
+      "related_keyphrases": [
+        "Jennifer Aniston Saturday Night Live",
+        "Amizade",
+        "Carreira Jennifer Aniston"
+      ],
+      "slug": "jennifer-aniston-recusou-snl",
+      "categorias": [
+        {
+          "nome": "Friends",
+          "grupo": "obras",
+          "evidence": "Aniston starred on Friends for 10 years"
+        },
+        {
+          "nome": "Saturday Night Live",
+          "grupo": "obras",
+          "evidence": "Jennifer Aniston almost joined the cast of Saturday Night Live"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jennifer Aniston",
+        "Saturday Night Live",
+        "Friends",
+        "Lorne Michaels",
+        "Adam Sandler"
+      ],
+      "image_alt_texts": {
+        "03103650_poster_w780.jpg": "Jennifer Aniston, estrela de Friends, em foto promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jennifer Aniston revela por que recusou convite para o SNL",
+        "_yoast_wpseo_metadesc": "Jennifer Aniston revela por que recusou a oferta para integrar o elenco do Saturday Night Live (SNL) em entrevista. Saiba os motivos da atriz.",
+        "_yoast_wpseo_focuskw": "Jennifer Aniston SNL",
+        "_yoast_news_keywords": "Jennifer Aniston, Saturday Night Live, SNL, Friends, Lorne Michaels, Adam Sandler",
+        "_yoast_wpseo_opengraph-title": "Jennifer Aniston revela por que recusou convite para o SNL",
+        "_yoast_wpseo_opengraph-description": "Jennifer Aniston revelou em entrevista os motivos que a levaram a recusar uma oferta para participar do Saturday Night Live.",
+        "_yoast_wpseo_twitter-title": "Jennifer Aniston revela por que recusou convite para o SNL",
+        "_yoast_wpseo_twitter-description": "Jennifer Aniston revelou em entrevista os motivos que a levaram a recusar uma oferta para participar do Saturday Night Live."
+      }
+    },
+    {
+      "titulo_final": "Gen V: Revelações do final da 2ª temporada sobre Thomas Godolkin",
+      "conteudo_final": "<p>O final da segunda temporada de <em>Gen V</em>, intitulado <em>"The Guardians Of Godolkin"</em>, trouxe à tona detalhes cruciais sobre <b>Thomas Godolkin</b>, o fundador da Universidade Godolkin. As revelações explicam sua sobrevivência a um incêndio e o motivo de sua aparência jovem, além de desvendar a identidade de <b>Cipher</b> e seus planos para <b>Marie Moreau</b>.</p><h2>A Sobrevivência de Godolkin e o Envelhecimento</h2><p>A cena de abertura da temporada 2 de <em>Gen V</em> mostrou a aparente morte de Thomas Godolkin em um incêndio. No entanto, o episódio final revelou que, em um ato desesperado, ele injetou em si mesmo uma dose de <b>Composto V</b>, a mesma substância pura utilizada na criação de <b>Soldier Boy</b> e <b>Stormfront</b>. Essa injeção não apenas o ajudou a sobreviver às queimaduras, mas também o tornou imune ao envelhecimento, explicando sua juventude persistente.</p><p>Após ser curado por Marie, Godolkin recuperou sua aparência juvenil. O Composto V também lhe conferiu habilidades psíquicas, essenciais para manipular <b>Cipher</b> e convencer Marie a salvá-lo. A combinação da substância pura e de um tanque de hiperbaria foi fundamental para mantê-lo vivo, apesar das graves lesões.</p><h2>A Verdadeira Identidade de Cipher</h2><p>A figura misteriosa de Dean Cipher, que se mostrou um grande antagonista ao longo da temporada, teve sua identidade revelada de forma surpreendente: ele era apenas um humano comum chamado <b>Doug</b>. Doug era o segundo fantoche de Godolkin, já que o primeiro havia morrido sob seu controle. Ele se surpreendeu ao ser libertado por Godolkin após a cura deste, mostrando-se bem mais amigável do que o temido Cipher.</p><p>A reviravolta em torno de Doug, interpretado por <b>Hamish Linklater</b>, destacou o controle absoluto que Godolkin exercia. A aparente bondade de Doug durou pouco, pois ele foi assassinado por <b>Black Noir</b>, possivelmente a pedido de <b>Sister Sage</b>, que temia a descoberta dos planos por parte de Homelander.</p><h2>Os Planos de Godolkin para Marie Moreau</h2><p>O interesse de Godolkin por Marie Moreau era mais profundo do que parecia. Ele a manipulou para que o curasse, reconhecendo nela a única capaz de tal feito. Contudo, o plano de Godolkin ia além: ele desejava controlar Marie para provar sua capacidade de manipular um Super-Humano do Projeto Odessa, com o objetivo final de confrontar <b>Homelander</b>.</p><p>Apesar de ter sido impedido por Marie e seus amigos, que o detiveram durante um seminário onde ele planejava "eliminar" alunos considerados fracos, Godolkin foi finalmente derrotado. O esforço conjunto dos estudantes, utilizando o poder de Black Hole e a intervenção de <b>Polarity</b>, permitiu que Marie o matasse de vez.</p><p>A vitória sobre Godolkin ressaltou a importância do trabalho em equipe, sugerindo que essa união será crucial para os eventos futuros em <em>The Boys</em>, especialmente no confronto com Homelander.</p>",
+      "meta_description": "Revelações sobre Thomas Godolkin e Cipher no final da 2ª temporada de Gen V. Descubra os planos do vilão e o que aconteceu com Doug.",
+      "focus_keyphrase": "Gen V Thomas Godolkin",
+      "related_keyphrases": [
+        "Gen V Cipher",
+        "Thomas Godolkin sobrevivência",
+        "Gen V temporada 2"
+      ],
+      "slug": "gen-v-thomas-godolkin-revelacoes-final",
+      "categorias": [
+        {
+          "nome": "Gen V",
+          "grupo": "obras",
+          "evidence": "Gen V's Godolkin University"
+        },
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "As soon as The Boys spinoff revealed"
+        }
+      ],
+      "tags_sugeridas": [
+        "Gen V",
+        "Thomas Godolkin",
+        "Cipher",
+        "Marie Moreau",
+        "The Boys",
+        "Composto V"
+      ],
+      "image_alt_texts": {
+        "thomas-godolkin-looking-shocked-in-gen-v-season-2-s-lab-flashback.jpg": "Thomas Godolkin em flashback na 2ª temporada de Gen V.",
+        "hamish-linklater-as-cipher-in-gen-v-season-2.jpg": "Hamish Linklater como Cipher na 2ª temporada de Gen V.",
+        "marie-moreau-in-gen-v-season-2.jpg": "Marie Moreau em cena da 2ª temporada de Gen V.",
+        "img_0267.jpeg": "Ethan Slater como Thomas Godolkin na 2ª temporada de Gen V."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Gen V: Thomas Godolkin e Cipher – Tudo sobre o final da 2ª temporada",
+        "_yoast_wpseo_metadesc": "Revelações sobre Thomas Godolkin e Cipher no final da 2ª temporada de Gen V. Descubra os planos do vilão e o que aconteceu com Doug.",
+        "_yoast_wpseo_focuskw": "Gen V Thomas Godolkin",
+        "_yoast_news_keywords": "Gen V, Thomas Godolkin, Cipher, Marie Moreau, Doug, The Boys, Composto V, Prime Video",
+        "_yoast_wpseo_opengraph-title": "Gen V: Thomas Godolkin e Cipher – Tudo sobre o final da 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "O final da 2ª temporada de Gen V trouxe respostas sobre Thomas Godolkin e a verdadeira identidade de Cipher. Entenda os planos e desfechos.",
+        "_yoast_wpseo_twitter-title": "Gen V: Thomas Godolkin e Cipher – Tudo sobre o final da 2ª temporada",
+        "_yoast_wpseo_twitter-description": "O final da 2ª temporada de Gen V trouxe respostas sobre Thomas Godolkin e a verdadeira identidade de Cipher. Entenda os planos e desfechos."
+      }
+    },
+    {
+      "titulo_final": "Lanterns: James Gunn atualiza sobre trailer da série do DCU",
+      "conteudo_final": "<p>O futuro do Universo DC (DCU) nas telinhas ganha contornos com a série <b><em>Lanterns</em></b>, que abordará as aventuras dos Guardiões da Galáxia <b>John Stewart</b> e <b>Hal Jordan</b>. James Gunn, co-CEO da DC Studios, compartilhou uma atualização sobre o lançamento do trailer da aguardada produção, que tem previsão de estreia para 2026.</p><h2>Trailer de Lanterns: O que esperar?</h2><p>James Gunn revelou ter visto um vislumbre do material promocional da série <em>Lanterns</em>. Em entrevista ao canal <em>BobaTalks</em>, ele comentou que, embora o trailer já exista, ainda não há uma data definida para sua divulgação. Gunn atribuiu essa incerteza à estratégia de marketing da HBO, que difere significativamente da utilizada para filmes.</p><p>A série, que foi originalmente concebida para HBO Max e posteriormente transferida para a HBO, contará com oito episódios e focará na dupla de heróis intergalácticos. A trama envolverá um mistério sombrio em solo americano, centrado na investigação de um assassinato.</p><h2>Elenco e Produção de Lanterns</h2><p><b>Aaron Pierre</b> interpretará John Stewart, enquanto <b>Kyle Chandler</b> dará vida a Hal Jordan. Esta será a primeira vez que John Stewart aparece em live-action fora das animações e quadrinhos. <b>Ulrich Thomsen</b> está confirmado como o vilão <b>Sinestro</b>, um dos inimigos mais icônicos dos Lanternas Verdes. <b>Nathan Fillion</b>, que já fez sua estreia como Guy Gardner em <em>Superman</em>, também estará presente na série.</p><p>A produção, que tem Christopher Mundy como showrunner e conta com <b>Damon Lindelof</b> e <b>Tom King</b> na equipe de produtores executivos, promete ser um marco para o DCU televisivo. Com a mudança para a HBO, <em>Lanterns</em> se junta a outras produções de prestígio, como <em>The Penguin</em>, que se passa no universo de <em>The Batman</em> de Matt Reeves.</p>",
+      "meta_description": "James Gunn dá novidades sobre o trailer de Lanterns, série do DCU com John Stewart e Hal Jordan, prevista para 2026. Saiba mais sobre a produção.",
+      "focus_keyphrase": "Lanterns trailer",
+      "related_keyphrases": [
+        "James Gunn Lanterns",
+        "DCU séries",
+        "John Stewart Hal Jordan"
+      ],
+      "slug": "lanterns-trailer-james-gunn-atualizacao",
+      "categorias": [
+        {
+          "nome": "DC Universe",
+          "grupo": "franquias",
+          "evidence": "The DC Universe franchise has finished its 2025 run"
+        },
+        {
+          "nome": "Lanterns",
+          "grupo": "obras",
+          "evidence": "HBO's Lanterns TV show"
+        }
+      ],
+      "tags_sugeridas": [
+        "Lanterns",
+        "James Gunn",
+        "DCU",
+        "John Stewart",
+        "Hal Jordan",
+        "Sinestro"
+      ],
+      "image_alt_texts": {
+        "aaroin-pierre-s-john-stewart-and-kyle-chandler-s-hal-jordan-walk-down-a-road-in-lanterns.jpg": "John Stewart (Aaron Pierre) e Hal Jordan (Kyle Chandler) caminham juntos em cena da série Lanterns do DCU."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Lanterns: James Gunn atualiza sobre trailer da série do DCU em 2026",
+        "_yoast_wpseo_metadesc": "James Gunn dá novidades sobre o trailer de Lanterns, série do DCU com John Stewart e Hal Jordan, prevista para 2026. Saiba mais sobre a produção.",
+        "_yoast_wpseo_focuskw": "Lanterns trailer",
+        "_yoast_news_keywords": "Lanterns, James Gunn, DCU, John Stewart, Hal Jordan, Kyle Chandler, Aaron Pierre, HBO",
+        "_yoast_wpseo_opengraph-title": "Lanterns: James Gunn atualiza sobre trailer da série do DCU em 2026",
+        "_yoast_wpseo_opengraph-description": "James Gunn confirmou que o trailer de Lanterns, nova série do DCU com John Stewart e Hal Jordan, já foi visto, mas sem data de lançamento definida.",
+        "_yoast_wpseo_twitter-title": "Lanterns: James Gunn atualiza sobre trailer da série do DCU em 2026",
+        "_yoast_wpseo_twitter-description": "James Gunn confirmou que o trailer de Lanterns, nova série do DCU com John Stewart e Hal Jordan, já foi visto, mas sem data de lançamento definida."
+      }
+    }
+  ]
+}

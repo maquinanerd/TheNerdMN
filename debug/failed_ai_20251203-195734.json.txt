@@ -1,0 +1,133 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Trek: Apenas Série Original Existia Durante Stranger Things 1-4",
+      "conteudo_final": "<p>A franquia <em>Star Trek</em> era simples de acompanhar durante as primeiras temporadas de <em>Stranger Things</em>, pois apenas uma série de TV e um punhado de filmes da criação de Gene Roddenberry existiam. <em>Stranger Things</em> é ambientada nos anos 1980; a primeira temporada começou em 6 de novembro de 1983, e a quinta temporada inicia em 3 de novembro de 1987.</p><p>Embora o fenômeno global da Netflix criado pelos Duffer Brothers seja repleto da cultura pop dos anos 80, o jovem elenco de <em>Stranger Things</em>, incluindo Mike (Winn Wolfhard), Dustin (Gaten Matarazzo), Lucas (Caleb McLaughlin), Will (Noah Schnapp), Max (Sadie Sink) e Eleven (Millie Bobby Brown), não referencia nem parece assistir <em>Star Trek</em>.</p><p><em>Star Trek</em> é, em vez disso, uma influência espiritual em <em>Stranger Things</em>. A ausência de <em>Star Trek</em> e <em>Star Wars</em>, as duas maiores franquias de ficção científica, deve-se às suas empresas controladoras, Paramount e Disney, que detêm os direitos de Capitão Kirk (William Shatner), Luke Skywalker (Mark Hamill) e seus respectivos universos.</p><h2>Apenas Star Trek: A Série Original Existia Durante Stranger Things 1-4</h2><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-kirk-and-chekov-on-the-bridge.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Kirk, Bones e Chekov na ponte de comando da Enterprise em Star Trek: A Série Original.\"><figcaption>Em Stranger Things 1-4, apenas Star Trek: A Série Original estaria disponível.</figcaption></figure><p>Mesmo que os adolescentes nerds de Hawkins, Indiana, não falem sobre <em>Star Trek</em>, a fronteira final consistiria apenas em <em>Star Trek: The Original Series</em> nas temporadas 1 a 4 de <em>Stranger Things</em>. Além disso, <em>Star Trek</em> seria conhecida apenas como '<em>Star Trek</em>', pois a franquia ainda não havia se expandido além das viagens da Nave Enterprise do Capitão Kirk.</p><p>Nas quatro primeiras temporadas de <em>Stranger Things</em>, os 78 episódios originais de <em>Star Trek</em> estariam continuamente no ar em reprises. Poderia haver também uma chance remota de reprises de <em>Star Trek: The Animated Series</em> em algum canal de TV.</p><p><em>Star Trek</em> se tornou uma franquia cinematográfica em 1979, mas <em>Star Trek: O Filme</em> e <em>Star Trek II: A Ira de Khan</em> — que terminou com a morte de Spock (Leonard Nimoy) — chegaram aos cinemas antes do início da primeira temporada de <em>Stranger Things</em> em novembro de 1983.</p><p>Na linha do tempo das temporadas 1 a 4 de <em>Stranger Things</em>, mais dois filmes de <em>Star Trek</em> chegaram aos cinemas, ambos dirigidos por Leonard Nimoy. <em>Star Trek III: A Busca por Spock</em> estreou em 1º de junho de 1984 e terminou com a ressurreição de Spock. <em>Star Trek IV: A Volta para Casa</em> chegou aos cinemas em 26 de novembro de 1986, cerca de um ano antes da quinta temporada de <em>Stranger Things</em>.</p><h2>Star Trek: A Nova Geração Estreou Antes da 5ª Temporada de Stranger Things</h2><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/enterprise-d-bridge-star-trek-tng-premiere.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Ponte de comando da Enterprise-D em Star Trek: A Nova Geração.\"><figcaption>Star Trek: A Nova Geração estreou em setembro de 1987, pouco antes da 5ª temporada de Stranger Things.</figcaption></figure><p>O evento mais monumental de <em>Star Trek</em> nos anos 1980 acontece em 28 de setembro de 1987, quando <em>Star Trek: The Next Generation</em> estreia em reprises. <em>TNG</em> chega às telas de TV poucas semanas antes do início da quinta temporada de <em>Stranger Things</em> em 3 de novembro de 1987.</p><p>Uma das coisas infelizes sobre <em>Stranger Things</em> não reconhecer <em>Star Trek</em> é que Mike, Dustin, Will, Caleb e Max não debatem a chegada de um novo <em>Star Trek</em> que não seja sobre o Capitão Kirk e Mr. Spock. Na época, a maioria dos fãs de <em>Star Trek</em> achava que um novo elenco substituindo os originais era sacrílego.</p><p>Seis episódios de <em>Star Trek: The Next Generation</em> foram exibidos antes do início da quinta temporada de <em>Stranger Things</em>, incluindo "The Naked Now", um remake de "The Naked Time" de <em>Star Trek: The Original Series</em>, e o infame "Code of Honor", talvez o pior episódio de <em>TNG</em>.</p><p>Apesar de <em>Stranger Things</em> se deliciar com franquias icônicas dos anos 80 como <em>Ghostbusters</em>, <em>Mad Max</em> e <em>Dungeons & Dragons</em>, é uma pena que nunca ouvimos o Hellfire Club discutir sobre <em><strong>Star Trek</strong></em> e se o Capitão Kirk é melhor que o Capitão Picard (Patrick Stewart).</p>",
+      "meta_description": "Descubra por que Star Trek: A Série Original era a única opção para os fãs durante as primeiras temporadas de Stranger Things, e quando TNG estreou.",
+      "focus_keyphrase": "Star Trek e Stranger Things",
+      "related_keyphrases": [
+        "Star Trek A Série Original",
+        "Stranger Things anos 80",
+        "Star Trek A Nova Geração"
+      ],
+      "slug": "star-trek-stranger-things-existencia",
+      "categorias": [
+        {
+          "nome": "Star Trek",
+          "grupo": "franquias",
+          "evidence": "<em><strong>Star Trek</strong></em>"
+        },
+        {
+          "nome": "Stranger Things",
+          "grupo": "obras",
+          "evidence": "<em>Stranger Things</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Trek",
+        "Stranger Things",
+        "Gene Roddenberry",
+        "Netflix",
+        "Ficção Científica"
+      ],
+      "image_alt_texts": {
+        "bones-kirk-and-chekov-on-the-bridge.jpg": "Capitão Kirk, Dr. McCoy e Chekov na ponte de comando da USS Enterprise em Star Trek: A Série Original.",
+        "enterprise-d-bridge-star-trek-tng-premiere.jpg": "A ponte de comando da USS Enterprise-D em Star Trek: A Nova Geração."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Trek: Apenas Série Original Existia Durante Stranger Things 1-4",
+        "_yoast_wpseo_metadesc": "Descubra por que Star Trek: A Série Original era a única opção para os fãs durante as primeiras temporadas de Stranger Things, e quando TNG estreou.",
+        "_yoast_wpseo_focuskw": "Star Trek e Stranger Things",
+        "_yoast_news_keywords": "Star Trek, Stranger Things, Star Trek A Série Original, Star Trek A Nova Geração, Netflix, Ficção Científica",
+        "_yoast_wpseo_opengraph-title": "Star Trek: Apenas Série Original Existia Durante Stranger Things 1-4",
+        "_yoast_wpseo_opengraph-description": "Descubra por que Star Trek: A Série Original era a única opção para os fãs durante as primeiras temporadas de Stranger Things, e quando TNG estreou.",
+        "_yoast_wpseo_twitter-title": "Star Trek: Apenas Série Original Existia Durante Stranger Things 1-4",
+        "_yoast_wpseo_twitter-description": "Descubra por que Star Trek: A Série Original era a única opção para os fãs durante as primeiras temporadas de Stranger Things, e quando TNG estreou."
+      }
+    },
+    {
+      "titulo_final": "Médico que Forneceu Ketamina a Matthew Perry é Condenado",
+      "conteudo_final": "<p>Salvador Plasencia, um dos médicos envolvidos no fornecimento de drogas a <strong>Matthew Perry</strong> pouco antes de sua overdose fatal, foi sentenciado a 30 meses de prisão.</p><p>A mãe e a meia-irmã do astro de <em>Friends</em> estavam presentes no tribunal quando o médico foi sentenciado. Sherilyn Peace Garnett, uma juíza distrital dos EUA, ordenou que ele cumprisse dois anos e meio de prisão, além de uma multa de US$ 5.600. Plasencia, que se declarou culpado no início do verão, foi detido após a audiência. Ele também deverá cumprir dois anos de liberdade supervisionada após o término de sua sentença de prisão.</p><p>O médico anteriormente se referiu a Perry como um \"idiota\" em mensagens de texto para outro médico, Mark Chavez, enquanto discutia o fornecimento de cetamina. No entanto, ele pareceu expressar algum remorso durante sua audiência, afirmando: \"Eu falhei com ele, eu deveria tê-lo protegido\".</p><p>Plasencia foi uma das cinco pessoas processadas pela morte de Perry. Chavez admitiu em outubro de 2024 ter distribuído cetamina. O assistente pessoal do ator, Kenneth Iwamasa, aceitou responsabilidade por seu papel em agosto de 2024. Eric Fleming, que forneceu a cetamina que levou à sua morte, também reconheceu seu envolvimento no mesmo mês. Jasveen Sangha, conhecida como a \"Rainha da Cetamina\", declarou-se culpada em setembro de 2025.</p><p>Declarações foram divulgadas por ambos os pais de Perry, condenando Plasencia por suas ações e implorando ao juiz que o punisse adequadamente. A mãe e o padrasto do ator envergonharam corretamente o médico por quebrar seus votos de proteger seus pacientes como profissional de saúde e o acusaram de se aproveitar de seu filho durante um momento muito vulnerável de sua vida.</p><blockquote>Este médico conspirou para quebrar seus votos mais importantes, furtivamente se encontrava com sua vítima à noite. Por quê, alguns milhares de dólares? Para que ele pudesse se alimentar da vulnerabilidade de nosso filho... e gabar-se, como fez, com aquela pergunta reveladora: 'Será que me pergunto quanto esse idiota vai pagar. Vamos descobrir.'</blockquote><p>O pai e a madrasta do astro de <em>Friends</em> disseram que o médico não foi bom o suficiente para \"ouvir nossos sentimentos\" e \"o quanto você devastou nossa família, contribuindo para a perda de Matthew, nosso único filho\".</p><p>O astro de <em>Friends</em>, indicado ao Emmy, faleceu aos 54 anos em 28 de outubro de 2023. Ele foi encontrado morto em sua residência em Los Angeles. De acordo com relatos, Perry foi encontrado sem resposta em uma banheira em sua casa.</p><p>Pouco depois da morte de <strong>Perry</strong>, os cocriadores de <em>Friends</em>, Marta Kauffman e David Crane, e o produtor executivo da série, Kevin Bright, emitiram uma declaração conjunta. \"Isso é verdadeiramente 'Aquele em que Nossos Corações Estão Quebrados'. Sempre guardaremos a alegria, a luz, a inteligência ofuscante que ele trouxe a cada momento. Não apenas ao seu trabalho, mas na vida também. Ele era sempre a pessoa mais engraçada da sala. Mais do que isso, ele era o mais doce, com um coração generoso e altruísta.\"</p>",
+      "meta_description": "Salvador Plasencia, médico que forneceu cetamina a Matthew Perry, é sentenciado a 30 meses de prisão após a morte trágica do ator de Friends.",
+      "focus_keyphrase": "Matthew Perry",
+      "related_keyphrases": [
+        "Matthew Perry cetamina",
+        "Matthew Perry morte",
+        "Salvador Plasencia sentença"
+      ],
+      "slug": "medico-matthew-perry-sentenca",
+      "categorias": [
+        {
+          "nome": "Matthew Perry",
+          "grupo": "pessoas",
+          "evidence": "Matthew Perry"
+        },
+        {
+          "nome": "Friends",
+          "grupo": "obras",
+          "evidence": "<em>Friends</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Matthew Perry",
+        "Friends",
+        "Salvador Plasencia",
+        "Cetamina",
+        "Notícias de celebridades"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Médico que Forneceu Ketamina a Matthew Perry é Condenado",
+        "_yoast_wpseo_metadesc": "Salvador Plasencia, médico que forneceu cetamina a Matthew Perry, é sentenciado a 30 meses de prisão após a morte trágica do ator de Friends.",
+        "_yoast_wpseo_focuskw": "Matthew Perry",
+        "_yoast_news_keywords": "Matthew Perry, Friends, Salvador Plasencia, Cetamina, Notícias de celebridades",
+        "_yoast_wpseo_opengraph-title": "Médico que Forneceu Ketamina a Matthew Perry é Condenado",
+        "_yoast_wpseo_opengraph-description": "Salvador Plasencia, médico que forneceu cetamina a Matthew Perry, é sentenciado a 30 meses de prisão após a morte trágica do ator de Friends.",
+        "_yoast_wpseo_twitter-title": "Médico que Forneceu Ketamina a Matthew Perry é Condenado",
+        "_yoast_wpseo_twitter-description": "Salvador Plasencia, médico que forneceu cetamina a Matthew Perry, é sentenciado a 30 meses de prisão após a morte trágica do ator de Friends."
+      }
+    },
+    {
+      "titulo_final": "Hulu Renova Chad Powers com Glen Powell para Segunda Temporada",
+      "conteudo_final": "<p>O destino de <em><strong>Chad Powers</strong></em> foi decidido no Hulu. A série de comédia esportiva estrela Glen Powell como Russ Holliday, um ex-quarterback universitário que se desgraçou. Ele finge ser um indivíduo chamado Chad Powers para recuperar seus dias de glória no futebol americano universitário, chegando a usar próteses em seu disfarce como um quarterback convidado para o South Georgia Catfish.</p><p>Agora, o Hulu anunciou que <em>Chad Powers</em> foi renovada para a segunda temporada, com Powell confirmado para retornar como o personagem titular. A renovação oficial vem mais de um mês após o final da primeira temporada ter sido lançado em 28 de outubro.</p><p>Criada por Powell e Michael Waldron, a série é inspirada no segmento \"Eli's Places\" da ESPN e Omaha Productions, que apresentava Eli Manning disfarçado com próteses enquanto participava de testes para a equipe de futebol da Penn State University.</p><p>Além de Powell, o elenco da primeira temporada inclui Steven Zahn como Treinador Jake Hudson, Perry Mattfeld como Ricky, Quentin Plair como Treinador Byrd, Wynn Everett como Tricia Yeager e Frankie A. Rodriguez como Danny. Powell e Waldron, juntamente com Eli e Peyton Manning, são produtores da série.</p><p>Críticos deram críticas mistas a <em>Chad Powers</em>, resultando em uma pontuação de 57% no Tomatometer do Rotten Tomatoes. Ben Sherlock, do <em>ScreenRant</em>, observa em sua crítica que \"O humor nem sempre acerta, a narrativa é um pouco segura demais, e Russ/Chad é o único personagem que parece totalmente desenvolvido e distintamente traçado.\" Com uma pontuação de 84% no Popcornmeter, o público teve uma reação mais favorável ao programa.</p><p>Anteriormente, os criadores de <em>Chad Powers</em> discutiram seu plano de três temporadas com o <em>ScreenRant</em>, compartilhando que \"o que queremos fazer são pelo menos mais duas [temporadas]\", ao mesmo tempo em que reconhecem que \"não é uma premissa que podemos esticar por 15 temporadas\".</p><p>Eles também revelaram que a segunda temporada de <em>Chad Powers</em> \"verá o Catfish passar por esta temporada de futebol universitário\" e \"continuará logo após\" o \"ponto médio da temporada de futebol\". Agora que a segunda temporada é oficialmente uma realidade, a série pode seguir este plano.</p><p>No final da primeira temporada, Ricky descobre que Chad é na verdade Russ, mas ela ainda não revelou seu segredo. A segunda temporada precisará abordar se ela expõe sua identidade ou a mantém em segredo enquanto a temporada de futebol continua para o Catfish. Resta saber se o Treinador Hudson ou outros personagens descobrirão a verdade, e o que isso significaria para Russ/Chad.</p><p>Junto com <strong><em>Chad Powers</em></strong>, Powell estrelou recentemente a adaptação de Edgar Wright de <em>The Running Man</em>, de Stephen King. Ele também estrela o próximo filme de comédia sombria da A24, <em>How to Make a Killing</em>, ao lado de Margaret Qualley, Ed Harris, Jessica Henwick, Bill Camp e Topher Grace. Powell interpreta Beckett Redfellow, que pretende matar seus parentes ricos para reivindicar a herança da família.</p>",
+      "meta_description": "Hulu renova a série de comédia esportiva Chad Powers, estrelada por Glen Powell, para a segunda temporada, confirmando o retorno do ator.",
+      "focus_keyphrase": "Chad Powers",
+      "related_keyphrases": [
+        "Chad Powers segunda temporada",
+        "Glen Powell Chad Powers",
+        "Hulu renova Chad Powers"
+      ],
+      "slug": "hulu-renova-chad-powers-segunda-temporada",
+      "categorias": [
+        {
+          "nome": "Chad Powers",
+          "grupo": "obras",
+          "evidence": "<em><strong>Chad Powers</strong></em>"
+        },
+        {
+          "nome": "Glen Powell",
+          "grupo": "pessoas",
+          "evidence": "Glen Powell"
+        }
+      ],
+      "tags_sugeridas": [
+        "Chad Powers",
+        "Glen Powell",
+        "Hulu",
+        "Comédia",
+        "Esportes"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hulu Renova Chad Powers com Glen Powell para Segunda Temporada",
+        "_yoast_wpseo_metadesc": "Hulu renova a série de comédia esportiva Chad Powers, estrelada por Glen Powell, para a segunda temporada, confirmando o retorno do ator.",
+        "_yoast_wpseo_focuskw": "Chad Powers",
+        "_yoast_news_keywords": "Chad Powers, Glen Powell, Hulu, Comédia, Esportes",
+        "_yoast_wpseo_opengraph-title": "Hulu Renova Chad Powers com Glen Powell para Segunda Temporada",
+        "_yoast_wpseo_opengraph-description": "Hulu renova a série de comédia esportiva Chad Powers, estrelada por Glen Powell, para a segunda temporada, confirmando o retorno do ator.",
+        "_yoast_wpseo_twitter-title": "Hulu Renova Chad Powers com Glen Powell para Segunda Temporada",
+        "_yoast_wpseo_twitter-description": "Hulu renova a série de comédia esportiva Chad Powers, estrelada por Glen Powell, para a segunda temporada, confirmando o retorno do ator."
+      }
+    }
+  ]
+}

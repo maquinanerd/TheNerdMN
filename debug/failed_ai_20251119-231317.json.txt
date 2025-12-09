@@ -1,0 +1,127 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Wars: Aventuras de Jovens Jedi tem 3ª temporada confirmada",
+      "conteudo_final": "<p>A terceira temporada de <em>Star Wars: Aventuras de Jovens Jedi</em> está a caminho. O trailer da nova temporada foi divulgado, indicando novas aventuras para os jovens aprendizes Jedi.</p><h2>Novas Aventuras Jedi</h2><p>A série animada <em>Star Wars: Aventuras de Jovens Jedi</em>, que foca em jovens aprendizes Jedi em treinamento, retorna para sua terceira temporada. O trailer recém-lançado promete novas missões e desafios para os protagonistas.</p><h2>Foco na Nova Geração Jedi</h2><p>A série tem sido elogiada por apresentar a saga <em>Star Wars</em> para um público mais jovem, com personagens carismáticos e histórias que ensinam valores importantes como amizade, coragem e trabalho em equipe. A terceira temporada deve continuar essa linha.</p><h2>O Futuro de Star Wars nas Animações</h2><p><em>Aventuras de Jovens Jedi</em> se junta a outras produções animadas que expandem o universo <em>Star Wars</em>, mostrando o compromisso da Lucasfilm em desenvolver histórias para todas as idades dentro da galáxia muito, muito distante.</p>",
+      "meta_description": "A terceira temporada de Star Wars: Aventuras de Jovens Jedi está confirmada. Veja o trailer e saiba o que esperar das novas aventuras dos jovens Jedi.",
+      "focus_keyphrase": "Star Wars Aventuras de Jovens Jedi 3ª temporada",
+      "related_keyphrases": [
+        "trailer Star Wars Aventuras de Jovens Jedi",
+        "novidades Star Wars",
+        "séries animadas Star Wars"
+      ],
+      "slug": "star-wars-jovens-jedi-temporada-3",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars: Aventuras de Jovens Jedi"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Aventuras de Jovens Jedi",
+        "Lucasfilm",
+        "Série Animada",
+        "Disney+"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Aventuras de Jovens Jedi tem 3ª temporada confirmada",
+        "_yoast_wpseo_metadesc": "A terceira temporada de Star Wars: Aventuras de Jovens Jedi está confirmada. Veja o trailer e saiba o que esperar das novas aventuras dos jovens Jedi.",
+        "_yoast_wpseo_focuskw": "Star Wars Aventuras de Jovens Jedi 3ª temporada",
+        "_yoast_news_keywords": "Star Wars, Aventuras de Jovens Jedi, Lucasfilm, Série Animada, Disney+",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Aventuras de Jovens Jedi tem 3ª temporada confirmada",
+        "_yoast_wpseo_opengraph-description": "A terceira temporada de Star Wars: Aventuras de Jovens Jedi está confirmada. Veja o trailer e saiba o que esperar das novas aventuras dos jovens Jedi.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Aventuras de Jovens Jedi tem 3ª temporada confirmada",
+        "_yoast_wpseo_twitter-description": "A terceira temporada de Star Wars: Aventuras de Jovens Jedi está confirmada. Veja o trailer e saiba o que esperar das novas aventuras dos jovens Jedi."
+      }
+    },
+    {
+      "titulo_final": "Twisted Metal: 3ª temporada confirma sucesso de adaptações de games",
+      "conteudo_final": "<p>A série <em>Twisted Metal</em>, baseada na popular franquia de jogos de combate veicular, foi renovada para a terceira temporada pela Peacock. A notícia é mais um indicativo do crescente sucesso das adaptações de videogames para a TV.</p><h2>Renovação e Novo Showrunner</h2><p>David Reed assume como showrunner para a terceira temporada, sucedendo Michael Jonathan Smith. A série, estrelada por Anthony Mackie como John Doe, conquistou o público e a crítica, especialmente após uma segunda temporada aclamada com 92% de aprovação no Rotten Tomatoes.</p><h2>O Sucesso de Twisted Metal</h2><p><em>Twisted Metal</em> é elogiada por capturar a essência caótica e estilizada dos jogos originais, sem tentar "aterrissar" elementos mais exagerados. A série equilibra ação intensa com uma narrativa envolvente, provando que adaptações de games podem ser bem-sucedidas quando respeitam o material de origem.</p><h2>Adaptações de Games em Alta</h2><p>A renovação de <em>Twisted Metal</em> se soma a outros sucessos recentes como <em>The Last of Us</em>, <em>Fallout</em> e <em>Arcane</em>, consolidando uma nova era dourada para as adaptações de videogames. O gênero prova que é possível criar conteúdo de qualidade que agrada tanto aos fãs dos jogos quanto a novos espectadores.</p>",
+      "meta_description": "Twisted Metal é renovada para a 3ª temporada pela Peacock, celebrando o sucesso das adaptações de games e o talento de Anthony Mackie. Saiba mais!",
+      "focus_keyphrase": "Twisted Metal 3ª temporada",
+      "related_keyphrases": [
+        "adaptações de games",
+        "Peacock séries",
+        "Anthony Mackie Twisted Metal"
+      ],
+      "slug": "twisted-metal-temporada-3-sucesso",
+      "categorias": [
+        {
+          "nome": "Twisted Metal",
+          "grupo": "franquias",
+          "evidence": "Twisted Metal has been renewed for season 3"
+        },
+        {
+          "nome": "Peacock",
+          "grupo": "plataformas",
+          "evidence": "Peacock recently announced"
+        }
+      ],
+      "tags_sugeridas": [
+        "Twisted Metal",
+        "Peacock",
+        "Anthony Mackie",
+        "Adaptação de Game",
+        "Série de TV"
+      ],
+      "image_alt_texts": {
+        "anthony-mackie-as-john-doe-looking-serious-in-twisted-metal-season-2-episode-2.jpg": "Anthony Mackie como John Doe em cena de Twisted Metal, série renovada para a 3ª temporada."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Twisted Metal: 3ª temporada confirma sucesso de adaptações de games",
+        "_yoast_wpseo_metadesc": "Twisted Metal é renovada para a 3ª temporada pela Peacock, celebrando o sucesso das adaptações de games e o talento de Anthony Mackie. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Twisted Metal 3ª temporada",
+        "_yoast_news_keywords": "Twisted Metal, Peacock, Anthony Mackie, Adaptação de Game, Série de TV, Jogos",
+        "_yoast_wpseo_opengraph-title": "Twisted Metal: 3ª temporada confirma sucesso de adaptações de games",
+        "_yoast_wpseo_opengraph-description": "Twisted Metal é renovada para a 3ª temporada pela Peacock, celebrando o sucesso das adaptações de games e o talento de Anthony Mackie. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Twisted Metal: 3ª temporada confirma sucesso de adaptações de games",
+        "_yoast_wpseo_twitter-description": "Twisted Metal é renovada para a 3ª temporada pela Peacock, celebrando o sucesso das adaptações de games e o talento de Anthony Mackie. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Coleção John Wick da Shoe Palace é sonho de fãs da franquia",
+      "conteudo_final": "<p>A Shoe Palace lança uma nova coleção inspirada na franquia <em>John Wick</em>, oferecendo aos fãs a chance de vestir o estilo do icônico assassino. A linha inclui vestuário e acessórios que remetem ao universo do personagem.</p><h2>Estilo John Wick</h2><p>A coleção da Shoe Palace busca capturar a elegância e a funcionalidade vistas nos filmes de <em>John Wick</em>. Peças como jaquetas, camisetas e calças foram desenvolvidas com atenção aos detalhes que definem o visual do protagonista, interpretado por Keanu Reeves.</p><h2>Para os Fãs da Franquia</h2><p>Esta linha é um prato cheio para os admiradores de <em>John Wick</em>, permitindo que incorporem elementos do mundo do cinema em seu dia a dia. A colaboração promete trazer a atmosfera de ação e sofisticação dos filmes para o guarda-roupa dos fãs.</p><h2>Disponibilidade da Coleção</h2><p>A nova coleção já está disponível nas lojas físicas e online da Shoe Palace. Os fãs interessados em adquirir peças exclusivas inspiradas em <em>John Wick</em> devem conferir os itens antes que esgotem.</p>",
+      "meta_description": "A Shoe Palace lança coleção exclusiva inspirada em John Wick. Descubra as peças que trazem o estilo do assassino para os fãs da franquia.",
+      "focus_keyphrase": "Coleção John Wick Shoe Palace",
+      "related_keyphrases": [
+        "John Wick moda",
+        "roupas John Wick",
+        "Shoe Palace lançamentos"
+      ],
+      "slug": "colecao-john-wick-shoe-palace",
+      "categorias": [
+        {
+          "nome": "John Wick",
+          "grupo": "franquias",
+          "evidence": "John Wick Collection"
+        },
+        {
+          "nome": "Gear",
+          "grupo": "editorias",
+          "evidence": "Gear"
+        }
+      ],
+      "tags_sugeridas": [
+        "John Wick",
+        "Keanu Reeves",
+        "Shoe Palace",
+        "Moda",
+        "Franquia de Cinema"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Coleção John Wick da Shoe Palace é sonho de fãs da franquia",
+        "_yoast_wpseo_metadesc": "A Shoe Palace lança coleção exclusiva inspirada em John Wick. Descubra as peças que trazem o estilo do assassino para os fãs da franquia.",
+        "_yoast_wpseo_focuskw": "Coleção John Wick Shoe Palace",
+        "_yoast_news_keywords": "John Wick, Keanu Reeves, Shoe Palace, Moda, Franquia de Cinema, Lançamento",
+        "_yoast_wpseo_opengraph-title": "Coleção John Wick da Shoe Palace é sonho de fãs da franquia",
+        "_yoast_wpseo_opengraph-description": "A Shoe Palace lança coleção exclusiva inspirada em John Wick. Descubra as peças que trazem o estilo do assassino para os fãs da franquia.",
+        "_yoast_wpseo_twitter-title": "Coleção John Wick da Shoe Palace é sonho de fãs da franquia",
+        "_yoast_wpseo_twitter-description": "A Shoe Palace lança coleção exclusiva inspirada em John Wick. Descubra as peças que trazem o estilo do assassino para os fãs da franquia."
+      }
+    }
+  ]
+}

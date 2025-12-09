@@ -1,0 +1,58 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Long Walk: Novo Filme de Stephen King Supera Votação do Público",
+      "conteudo_final": "<p>O filme <b>The Long Walk</b>, uma adaptação do universo de <b>Stephen King</b>, alcançou a marca de US$ 47 milhões globalmente. Após um período teatral mais extenso do que o usual para o gênero, o longa-metragem de terror e suspense estreou recentemente em plataformas de vídeo sob demanda (PVOD).</p><p>A estreia em formato doméstico acontece em boa hora, coincidindo com a temporada de halloween. O filme superou a arrecadação de uma das mais aclamadas adaptações de <b>Stephen King</b>, <b>O Iluminado</b>, que somou US$ 46 milhões em sua trajetória nos cinemas. Originalmente baseado em um dos primeiros contos de King, o filme de 1980, dirigido por <b>Stanley Kubrick</b>, é frequentemente considerado uma obra-prima do terror. No entanto, o próprio King expressou seu descontentamento com a visão de Kubrick, o que o levou a produzir uma minissérie televisiva em 1990. Posteriormente, o escritor endossou <b>Doutor Sono</b>, sequência de <b>O Iluminado</b>, dirigida por <b>Mike Flanagan</b>.</p><h2>Direção e Inspiração</h2><p><b>The Long Walk</b> é dirigido por <b>Francis Lawrence</b>, conhecido por seu trabalho na franquia <b>Jogos Vorazes</b>, à qual retornará em breve com <b>Sunrise on the Reaping</b>. A obra original de King, ambientada em um futuro distópico onde jovens são forçados a uma competição mortal a pé, serviu como inspiração para os livros de <b>Jogos Vorazes</b> e diversas outras produções cinematográficas e televisivas. <b>Stephen King</b> também escreveu <b>O Homem Corredor</b>, explorando temas semelhantes. Uma nova adaptação de <b>The Long Walk</b>, dirigida por <b>Edgar Wright</b> e estrelada por <b>Glen Powell</b>, está em desenvolvimento.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/07/01587852_poster_w780.jpg\" alt=\"Pôster do filme The Long Walk.\"><figcaption>Pôster de 'The Long Walk'.</figcaption></figure><p>A direção de Lawrence em <b>The Long Walk</b> foi elogiada pela crítica, assim como as atuações centrais de <b>Cooper Hoffman</b> e <b>David Jonsson</b>. O filme ostenta uma pontuação de 88% em avaliações "certified fresh" no agregador Rotten Tomatoes.</p><h2>Um Ano Produtivo para Fãs de Stephen King</h2><p>Além de <b>The Running Man</b>, os fãs de <b>Stephen King</b> podem aguardar <b>It: Welcome to Derry</b>, uma série derivada dos filmes <b>It - A Coisa</b>, que arrecadaram mais de US$ 1,1 bilhão globalmente e tem estreia prevista na HBO. Este ano já apresentou diversas adaptações de King, como <b>The Life of Chuck</b> e <b>The Monkey</b>. Outras adaptações estão em produção, incluindo uma nova versão de <b>Carrie</b>, o primeiro filme de <b>Stephen King</b> já produzido, supervisionada por <b>Mike Flanagan</b>.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/david-jonsson-and-others-the-long-walk.jpg\" alt=\"David Jonsson em uma cena do filme The Long Walk.\"><figcaption>David Jonsson como Peter McVries em 'The Long Walk'.</figcaption></figure><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/screenrant-sandbox-2025-09-12t144434-313.jpg\" alt=\"Cooper Hoffman em uma cena do filme The Long Walk.\"><figcaption>Cooper Hoffman como Ray Garraty em 'The Long Walk'.</figcaption></figure><p>A trama de <b>The Long Walk</b> se desenrola em um mundo distópico onde cem adolescentes são forçados a participar de uma competição extenuante. Sob o controle de um regime autoritário, os jovens precisam caminhar continuamente, sem reduzir a velocidade, sob pena de morte. A história acompanha Ray Garraty enquanto ele enfrenta os desafios físicos e psicológicos da prova, lidando com o esgotamento extremo, o perigo iminente e o declínio da sanidade de seus colegas.</p><p>Uma nova adaptação da história, dirigida por Edgar Wright e estrelada por Glen Powell, também está a caminho, prometendo explorar ainda mais o universo sombrio criado por King.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/the-long-walk-1.jpg\" alt=\"Cena do filme The Long Walk com múltiplos participantes.\"><figcaption>Participantes da corrida mortal em 'The Long Walk'.</figcaption></figure>",
+      "meta_description": "O filme The Long Walk, adaptação de Stephen King, supera O Iluminado em bilheteria global e chega ao PVOD. Saiba mais sobre a obra e o universo do autor.",
+      "focus_keyphrase": "The Long Walk Stephen King",
+      "related_keyphrases": [
+        "filme de terror Stephen King",
+        "O Iluminado bilheteria",
+        "adaptação literária distópica"
+      ],
+      "slug": "the-long-walk-stephen-king-bilheteria",
+      "categorias": [
+        {
+          "nome": "Stephen King",
+          "grupo": "franquias",
+          "evidence": "Stephen King adaptations"
+        },
+        {
+          "nome": "The Long Walk",
+          "grupo": "obras",
+          "evidence": "The Long Walk finally debuted"
+        },
+        {
+          "nome": "O Iluminado",
+          "grupo": "obras",
+          "evidence": "Stanley Kubrick's The Shining"
+        }
+      ],
+      "tags_sugeridas": [
+        "Stephen King",
+        "The Long Walk",
+        "O Iluminado",
+        "Francis Lawrence",
+        "Cooper Hoffman",
+        "David Jonsson",
+        "terror distópico"
+      ],
+      "image_alt_texts": {
+        "01587852_poster_w780.jpg": "Pôster do filme The Long Walk, com título e imagem promocional.",
+        "david-jonsson-and-others-the-long-walk.jpg": "David Jonsson como Peter McVries em cena do filme The Long Walk.",
+        "screenrant-sandbox-2025-09-12t144434-313.jpg": "Cooper Hoffman como Ray Garraty em cena do filme The Long Walk.",
+        "the-long-walk-1.jpg": "Cena do filme The Long Walk mostrando múltiplos participantes em uma corrida."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Long Walk: Novo Filme de Stephen King Supera Bilheteria de O Iluminado",
+        "_yoast_wpseo_metadesc": "O filme The Long Walk, adaptação de Stephen King, supera O Iluminado em bilheteria global e chega ao PVOD. Saiba mais sobre a obra e o universo do autor.",
+        "_yoast_wpseo_focuskw": "The Long Walk Stephen King",
+        "_yoast_news_keywords": "The Long Walk, Stephen King, O Iluminado, Francis Lawrence, Cooper Hoffman, David Jonsson, terror, suspense, bilheteria",
+        "_yoast_wpseo_opengraph-title": "The Long Walk: Novo Filme de Stephen King Supera O Iluminado em Bilheteria",
+        "_yoast_wpseo_opengraph-description": "O mais novo filme baseado na obra de Stephen King, The Long Walk, alcança expressiva bilheteria global, superando o clássico O Iluminado.",
+        "_yoast_wpseo_twitter-title": "The Long Walk: Novo Filme de Stephen King Supera O Iluminado em Bilheteria",
+        "_yoast_wpseo_twitter-description": "The Long Walk, adaptação de Stephen King, supera O Iluminado em bilheteria global e chega ao PVOD. Descubra os detalhes!"
+      }
+    }
+  ]
+}

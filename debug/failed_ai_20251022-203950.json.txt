@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Jeremy Renner: Mãe Ameaça Co-criador de 'Mayor of Kingstown' Após Retorno",
+  "conteudo_final": "<p>Jeremy Renner retornou às filmagens de <b>Mayor of Kingstown</b> após seu grave acidente, mas não sem antes receber um aviso de sua mãe: ela prometeu que "mataria" Taylor Sheridan e Hugh Dillon se algo desse errado.</p><p>O ator, que quase perdeu a vida em janeiro de 2023 após ser atropelado por uma máquina de remoção de neve de mais de 6 toneladas, passou por uma longa recuperação. Renner, 54, retornou à atuação para a terceira temporada da série e, agora, com a quarta temporada se aproximando da estreia no Paramount+, ele relembrou o apoio familiar.</p><p>Em uma entrevista recente, Renner brincou que sua mãe assegurou aos co-criadores da série, <a href=\"https://www.maquinanerd.com.br/tag/taylor-sheridan\">Taylor Sheridan</a> e <a href=\"https://www.maquinanerd.com.br/tag/hugh-dillon\">Hugh Dillon</a>, a gravidade da situação. Dillon, que também estrela a série como Ian, compartilhou o cuidado extra tomado com a segurança de Renner no set.</p>\n\n<blockquote>\n<p>“Quando ele voltou [ao set], lembro que tive que prometer à mãe dele que cuidaríamos dele. Ele estava em um lugar tão vulnerável, e Taylor sempre disse: ‘Faça o que for preciso’. Não se trata apenas de, sabe, terminar a temporada ou terminar a cena. Com o titânio em seu corpo, eu quero que ele seja feliz. Esta é a vida dele — não é apenas trabalho.”</p>\n</blockquote>\n\n<h2>Recuperação de Jeremy Renner</h2>\n<p>Nos meses seguintes ao acidente, Renner passou por um intenso processo de recuperação, reconstruindo sua força e confiança. Ele admitiu que os primeiros dias de volta ao set foram desafiadores física e emocionalmente.</p>\n\n<blockquote>\n<p>“No começo, acho que porque eu não tinha visto ninguém — e essas são pessoas com quem trabalhei por duas temporadas — eu realmente não tinha conversado com ninguém. Eles não sabiam qual versão de Jeremy voltaria. Na verdade, precisei ser tratado com luvas de pelica no início”, acrescentou. “Eu tive que me apoiar fisicamente nas pessoas, emocionalmente nelas, e elas cuidaram de mim. Fiz o meu melhor para cuidar delas e passar pela série da melhor forma que pudemos, e trabalhamos juntos e conseguimos.”</p>\n</blockquote>\n\n<p>A quarta temporada de <b>Mayor of Kingstown</b> estreia neste fim de semana no Paramount+.</p>\n\n<figure>\n<img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/08/03177408_poster_w780.jpg\" alt=\"Jeremy Renner como Mike McLusky em Mayor of Kingstown\">\n<figcaption>Jeremy Renner retorna como Mike McLusky em Mayor of Kingstown.</figcaption>\n</figure>\n\n<h2>O que esperar de Mayor of Kingstown</h2>\n<p>Na cidade de Kingstown, marcada pela corrupção e criminalidade, a família McLusky atua como mediadora entre a aplicação da lei, facções criminosas e o sistema prisional. Mike McLusky, que assumiu após a morte prematura de seu irmão, tenta manter uma paz precária em meio à corrupção e violência generalizadas. Ao equilibrar as demandas dos diversos jogadores e buscar justiça para a comunidade, Mike enfrenta desafios implacáveis que o levam aos seus limites e questionam seus próprios limites morais.</p>",
+  "meta_description": "Jeremy Renner retorna para Mayor of Kingstown sob o olhar atento de sua mãe, que fez promessas aos criadores da série após seu grave acidente.",
+  "focus_keyphrase": "Jeremy Renner Mayor of Kingstown",
+  "related_keyphrases": [
+    "Jeremy Renner acidente",
+    "Taylor Sheridan",
+    "Hugh Dillon"
+  ],
+  "slug": "jeremy-renner-mae-mayor-kingstown",
+  "categorias": [
+    {
+      "nome": "Mayor of Kingstown",
+      "grupo": "obras",
+      "evidence": "When Jeremy Renner returned to filming Mayor of Kingstown"
+    },
+    {
+      "nome": "Taylor Sheridan",
+      "grupo": "franquias",
+      "evidence": "Taylor Sheridan and Hugh Dillon"
+    },
+    {
+      "nome": "Hugh Dillon",
+      "grupo": "franquias",
+      "evidence": "Taylor Sheridan and Hugh Dillon"
+    }
+  ],
+  "tags_sugeridas": [
+    "jeremy renner",
+    "mayor of kingstown",
+    "paramount+",
+    "taylor sheridan",
+    "hugh dillon",
+    "série",
+    "acidente"
+  ],
+  "image_alt_texts": {
+    "03177408_poster_w780.jpg": "Jeremy Renner como Mike McLusky em Mayor of Kingstown, mostrando sua força após a recuperação."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Jeremy Renner: Mãe Ameaça Co-criador de 'Mayor of Kingstown' Após Retorno",
+    "_yoast_wpseo_metadesc": "Jeremy Renner retorna para Mayor of Kingstown sob o olhar atento de sua mãe, que fez promessas aos criadores da série após seu grave acidente.",
+    "_yoast_wpseo_focuskw": "Jeremy Renner Mayor of Kingstown",
+    "_yoast_news_keywords": "Jeremy Renner, Mayor of Kingstown, Paramount+, Taylor Sheridan, Hugh Dillon, série, acidente, recuperação",
+    "_yoast_wpseo_opengraph-title": "Jeremy Renner: Mãe Ameaça Co-criador de 'Mayor of Kingstown' Após Retorno",
+    "_yoast_wpseo_opengraph-description": "Jeremy Renner retorna para Mayor of Kingstown sob o olhar atento de sua mãe, que fez promessas aos criadores da série após seu grave acidente.",
+    "_yoast_wpseo_twitter-title": "Jeremy Renner: Mãe Ameaça Co-criador de 'Mayor of Kingstown' Após Retorno",
+    "_yoast_wpseo_twitter-description": "Jeremy Renner retorna para Mayor of Kingstown sob o olhar atento de sua mãe, que fez promessas aos criadores da série após seu grave acidente."
+  }
+}

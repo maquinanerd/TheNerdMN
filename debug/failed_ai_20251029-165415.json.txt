@@ -1,0 +1,56 @@
+{
+  "titulo_final": "The Witcher 4: Conheça o Elenco e Personagens da Nova Temporada",
+  "conteudo_final": "<p>A quarta temporada de <b>The Witcher</b> promete trazer de volta a maior parte do elenco principal e coadjuvante, mas com algumas mudanças significativas em personagens chave. Após um cliffhanger impactante no final da terceira temporada, a série da Netflix retorna com sua quarta temporada, marcada pela ausência de Henry Cavill como Geralt de Rívia.</p><h2>Liam Hemsworth como Geralt de Rívia</h2><p>Liam Hemsworth assume o papel de Geralt de Rívia na nova temporada. Nascido em Melbourne, Austrália, Hemsworth iniciou sua carreira na TV e ganhou destaque com <b>Jogos Vorazes</b>. Seus trabalhos notáveis incluem a saga <b>Jogos Vorazes</b>, <b>Os Mercenários 2</b> e <b>Independence Day: O Ressurgimento</b>. Em <i>The Witcher</i>, ele assume o maior projeto televisivo de sua carreira até o momento.</p><figure><img src=\"https:
+  "meta_description": "Conheça o elenco completo e os personagens de The Witcher temporada 4, incluindo Liam Hemsworth como Geralt, Anya Chalotra e Freya Allan.",
+  "focus_keyphrase": "The Witcher temporada 4 elenco",
+  "related_keyphrases": [
+    "personagens The Witcher 4",
+    "Liam Hemsworth Geralt",
+    "Netflix The Witcher"
+  ],
+  "slug": "the-witcher-4-elenco-personagens",
+  "categorias": [
+    {
+      "nome": "The Witcher",
+      "grupo": "franquias",
+      "evidence": "The Witcher season 4"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "editorias",
+      "evidence": "Netflix series"
+    }
+  ],
+  "tags_sugeridas": [
+    "The Witcher",
+    "Netflix",
+    "Liam Hemsworth",
+    "Anya Chalotra",
+    "Freya Allan",
+    "Geralt de Rívia",
+    "Yennefer de Vengerberg"
+  ],
+  "image_alt_texts": {
+    "liam-hemsworth-as-geralt-of-rivia-in-the-witcher-season-4.jpg": "Liam Hemsworth como Geralt de Rívia em The Witcher temporada 4",
+    "yennefer-covered-in-blood-and-mud-in-the-witcher-sesson-4.jpg": "Yennefer coberta de sangue e lama em The Witcher temporada 4",
+    "ciri-as-falka-looking-angry-in-the-witcher-season-4.jpg": "Ciri como Falka com expressão de raiva em The Witcher temporada 4",
+    "jaskier-writing-in-the-witcher-season-4.jpg": "Jaskier escrevendo em The Witcher temporada 4",
+    "The-Witcher-season-2-Vilgefortz.jpg": "Vilgefortz com expressão séria em The Witcher",
+    "emhyr-holding-as-sword-in-the-witcher-season-3.jpg": "Emhyr segurando uma espada em The Witcher temporada 3",
+    "cahir-in-the-witcher-season-3.jpg": "Cahir em The Witcher temporada 3",
+    "milva-looking-worried-in-the-witcher-season-4.jpg": "Milva com expressão preocupada em The Witcher temporada 4",
+    "regis-riding-a-horse-in-the-witcher-season-4.jpg": "Regis montado em um cavalo em The Witcher temporada 4",
+    "percival-milva-jaskier-zoltan-and-geralt-in-the-witcher-season-4.jpg": "Percival, Milva, Jaskier, Zoltan e Geralt em The Witcher temporada 4",
+    "03153842_poster_w780-1.jpg": "Pôster oficial de The Witcher"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "The Witcher 4: Conheça o Elenco e Personagens da Nova Temporada",
+    "_yoast_wpseo_metadesc": "Conheça o elenco completo e os personagens de The Witcher temporada 4, incluindo Liam Hemsworth como Geralt, Anya Chalotra e Freya Allan.",
+    "_yoast_wpseo_focuskw": "The Witcher temporada 4 elenco",
+    "_yoast_news_keywords": "The Witcher, Netflix, Liam Hemsworth, Anya Chalotra, Freya Allan, Geralt de Rívia, Yennefer de Vengerberg, Ciri, Vilgefortz",
+    "_yoast_wpseo_opengraph-title": "The Witcher 4: Conheça o Elenco e Personagens da Nova Temporada",
+    "_yoast_wpseo_opengraph-description": "Descubra quem são os atores e personagens que retornam e chegam na quarta temporada de The Witcher.",
+    "_yoast_wpseo_twitter-title": "The Witcher 4: Conheça o Elenco e Personagens da Nova Temporada",
+    "_yoast_wpseo_twitter-description": "Descubra quem são os atores e personagens que retornam e chegam na quarta temporada de The Witcher."
+  }
+}

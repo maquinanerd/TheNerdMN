@@ -1,0 +1,112 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Spider-Man 4: Hulk de Mark Ruffalo é confirmado em novas fotos de set",
+      "conteudo_final": "<p>Novas imagens dos bastidores de <b>Spider-Man: Brand New Day</b> confirmaram o retorno de Mark Ruffalo como Bruce Banner, o Hulk, ao Universo Cinematográfico Marvel (MCU). A participação do personagem era um dos segredos mais mal guardados de Hollywood e agora foi oficialmente revelada através de fotos que circulam nas redes sociais, onde Ruffalo aparece no set, vestindo um casaco verde e conversando com a equipe de produção.</p><p>Esta marca a primeira aparição de Ruffalo em um filme do MCU desde <b>Shang-Chi e a Lenda dos Dez Anéis</b> (2021), onde Bruce Banner teve uma breve participação na cena pós-créditos ao lado da Capitã Marvel (Brie Larson). Sua última atuação em live-action foi em <b>Mulher-Hulk: Defensora de Mulheres</b> (2022), onde apresentou seu filho, Skaar, antes de deixar a Terra.</p><h2>Rumores e Negações</h2><p>O envolvimento de Ruffalo em <b>Spider-Man: Brand New Day</b> foi especulado durante grande parte de 2025. Questionado diretamente sobre o assunto em uma entrevista recente, o ator, fiel a uma prática comum entre veteranos da Marvel, negou os rumores. Ele declarou: “Não sei, ainda estou esperando para ouvir. Eu ainda não li um roteiro. Bem, se acontecer, seria incrível. Eu cresci com isso, e isso mudou minha vida da melhor maneira. Cada vez, é um novo diretor, um novo mundo, e é tão emocionante. Não há nada igual.” A última frase pode ter sido um indicativo, já que <b>Brand New Day</b> representa um novo mundo para o Homem-Aranha e, aparentemente, agora também para o Hulk.</p><h2>O que esperar de 'Brand New Day'?</h2><p>Os detalhes do enredo de <b>Spider-Man: Brand New Day</b> estão sendo mantidos em sigilo. No entanto, o Peter Parker de Tom Holland frequentemente precisa de um Vingador para trocar ideias. O novo filme continua a colaboração entre a Sony e a Marvel, iniciada com <b>Homem-Aranha: Sem Volta Para Casa</b> (2021). O longa está programado para ser a segunda entrada na Fase 6 do MCU.</p><p>Além do retorno de Holland, o filme contará com a participação de <b>Jon Bernthal como o Justiceiro</b>, em sua primeira aparição cinematográfica no MCU, e Michael Mando reprisando seu papel como Escorpião, de <b>Homem-Aranha: De Volta ao Lar</b>. Entre os novos nomes estão Sadie Sink, vista pela primeira vez no set em meados de outubro em um papel misterioso, além de Liza Colón-Zayas e Tramell Tillman, ambos em papéis não divulgados.</p><p><b>Spider-Man: Brand New Day</b> tem estreia marcada nos cinemas para 31 de julho de 2026. Fique atento para mais atualizações sobre o Universo Cinematográfico Marvel.</p>",
+      "meta_description": "Mark Ruffalo retorna como Hulk em fotos de set de Spider-Man: Brand New Day. O filme promete expandir o MCU na Fase 6 com novas e antigas faces.",
+      "focus_keyphrase": "Spider-Man: Brand New Day Hulk",
+      "related_keyphrases": [
+        "Mark Ruffalo MCU",
+        "Spider-Man 4",
+        "Universo Marvel"
+      ],
+      "slug": "spider-man-4-hulk-mark-ruffalo-confirmado",
+      "categorias": [
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        },
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "grupo": "obras",
+          "evidence": "Spider-Man: Brand New Day"
+        },
+        {
+          "nome": "Spider-Man",
+          "grupo": "franquias",
+          "evidence": "Spider-Man"
+        }
+      ],
+      "tags_sugeridas": [
+        "Spider-Man 4",
+        "Mark Ruffalo",
+        "Hulk",
+        "MCU",
+        "Marvel Studios",
+        "Tom Holland",
+        "Jon Bernthal"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Spider-Man 4: Hulk de Mark Ruffalo é confirmado em novas fotos de set",
+        "_yoast_wpseo_metadesc": "Mark Ruffalo retorna como Hulk em fotos de set de Spider-Man: Brand New Day. O filme promete expandir o MCU na Fase 6 com novas e antigas faces.",
+        "_yoast_wpseo_focuskw": "Spider-Man: Brand New Day Hulk",
+        "_yoast_news_keywords": "Spider-Man: Brand New Day, Hulk, Mark Ruffalo, MCU, Marvel Studios, Tom Holland, Jon Bernthal",
+        "_yoast_wpseo_opengraph-title": "Spider-Man 4: Hulk de Mark Ruffalo é confirmado em novas fotos de set",
+        "_yoast_wpseo_opengraph-description": "Novas fotos de set de Spider-Man: Brand New Day revelam o retorno de Mark Ruffalo como Bruce Banner, o Hulk, ao MCU.",
+        "_yoast_wpseo_twitter-title": "Spider-Man 4: Hulk de Mark Ruffalo é confirmado em novas fotos de set",
+        "_yoast_wpseo_twitter-description": "Novas fotos de set de Spider-Man: Brand New Day revelam o retorno de Mark Ruffalo como Bruce Banner, o Hulk, ao MCU."
+      }
+    },
+    {
+      "titulo_final": "Disney perde mais de US$ 100 milhões com flop de ficção científica TRON: Ares",
+      "conteudo_final": "<p>A Walt Disney Company, conhecida por evitar grandes fracassos, não está imune a eles. Além de sucessos como <b>Lilo & Stitch</b>, que ultrapassou um bilhão de dólares globalmente, o estúdio lançou a refilmagem de <b>Snow White</b>, que arrecadou US$ 205 milhões mundialmente, mas apenas US$ 87 milhões nos EUA. Dois dos três lançamentos da Marvel também não atingiram as expectativas. Agora, um reboot de ficção científica se junta à lista de flops notórios, gerando perdas superiores a cem milhões de dólares.</p><h2>TRON: Ares contribui para os fracassos do ano</h2><p>Lançado em outubro, <b>TRON: Ares</b> é o terceiro filme da franquia de ficção científica, mas manteve a tradição da série de decepcionar o público e não alcançar as metas esperadas. De acordo com um novo relatório do Deadline, os custos de produção e promoção de <b>TRON: Ares</b> aumentaram consideravelmente, especialmente com o desempenho fraco do filme nas bilheterias globais. As perdas da série já atingiram a faixa de nove dígitos.</p><h2>Box office de TRON: Ares: um fracasso, mas e a franquia?</h2><p>Até o momento, <b>TRON: Ares</b> arrecadou US$ 54 milhões nas bilheterias domésticas e US$ 102 milhões mundialmente. Nos Estados Unidos, o filme se posiciona entre <b>John Wick: Capítulo 4</b> e a nova versão de <b>Corra que o Futuro</b>. Considerando o custo da sequência estrelada por Jared Leto, que segundo o relatório foi de aproximadamente US$ 220 milhões, o desempenho nas bilheterias está longe do ideal.</p><p>Os custos da produção não param por aí, com os gastos de marketing e publicidade de <b>TRON: Ares</b> ultrapassando os US$ 100 milhões. Somando custos adicionais de produção e promoção, além de cachês, o filme deve registrar um prejuízo de US$ 132,7 milhões. Em sua segunda semana, <b>TRON: Ares</b> registrou uma queda de 66% em relação à estreia, indicando que o filme pode ter atingido seu limite com o público doméstico.</p><p>Apesar das perdas financeiras, um fator chave para a Disney em relação a <b>TRON</b> ameniza o impacto deste fracasso: as atrações temáticas <b>Tron Lightcycle Power Run</b> em seus parques. As duas versões desta montanha-russa, uma em Xangai e outra em Orlando, continuam sendo atrações populares. A atração na Flórida, atualmente, apresenta o maior tempo de espera em todo o Walt Disney World. Isso sugere que a Disney pode tolerar a perda de um filme quando ele gera interesse em suas atrações principais, que são as verdadeiras fontes de receita.</p><p>Ainda não está claro qual será o futuro da franquia <b>TRON</b> fora dos parques temáticos. Com os três filmes da série variando entre decepção e fracasso de bilheteria, é provável que <b>TRON</b> fique afastado de futuras aventuras cinematográficas por enquanto. No entanto, a Disney raramente deixa suas franquias adormecerem por muito tempo, especialmente se elas ajudam a impulsionar o interesse em atrações populares de seus parques.</p>",
+      "meta_description": "TRON: Ares amarga um prejuízo de mais de US$ 100 milhões para a Disney, mas a franquia pode ter sobrevida graças às atrações dos parques temáticos.",
+      "focus_keyphrase": "TRON: Ares prejuízo Disney",
+      "related_keyphrases": [
+        "Franquia TRON futuro",
+        "Disney bilheteria",
+        "Flops de ficção científica"
+      ],
+      "slug": "tron-ares-prejuizo-disney",
+      "categorias": [
+        {
+          "nome": "TRON: Ares",
+          "grupo": "obras",
+          "evidence": "TRON: Ares"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "editorias",
+          "evidence": "The Walt Disney Company"
+        },
+        {
+          "nome": "TRON",
+          "grupo": "franquias",
+          "evidence": "TRON"
+        }
+      ],
+      "tags_sugeridas": [
+        "TRON: Ares",
+        "Disney",
+        "Jared Leto",
+        "ficção científica",
+        "bilheteria",
+        "parques temáticos",
+        "franchise"
+      ],
+      "image_alt_texts": {
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Nintendo Switch - Imagem genérica de videogame.",
+        "Escape-from-New-York.jpg": "Pôster do filme Escape from New York.",
+        "Battlestar-Galactica-33.jpg": "Imagem promocional da série Battlestar Galactica.",
+        "Star-Cops.jpg": "Pôster da série de TV Star Cops.",
+        "comicbook.com-images3.png": "Imagem genérica de games.",
+        "p-s-5-p-r-o.png": "PlayStation 5 Pro - Imagem de console.",
+        "p-s-5_aed69f.png": "PlayStation 5 - Imagem de console.",
+        "sunshine.jpg": "Pôster do filme Sunshine.",
+        "tron-ares-disney.jpg": "Imagem promocional de TRON: Ares."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Disney perde mais de US$ 100 milhões com flop de ficção científica TRON: Ares",
+        "_yoast_wpseo_metadesc": "TRON: Ares amarga um prejuízo de mais de US$ 100 milhões para a Disney, mas a franquia pode ter sobrevida graças às atrações dos parques temáticos.",
+        "_yoast_wpseo_focuskw": "TRON: Ares prejuízo Disney",
+        "_yoast_news_keywords": "TRON: Ares, Disney, Jared Leto, ficção científica, bilheteria, parques temáticos, franchise",
+        "_yoast_wpseo_opengraph-title": "Disney perde mais de US$ 100 milhões com flop de ficção científica TRON: Ares",
+        "_yoast_wpseo_opengraph-description": "O novo filme da franquia TRON, TRON: Ares, se tornou um grande fracasso de bilheteria, com perdas estimadas em mais de US$ 100 milhões para a Disney.",
+        "_yoast_wpseo_twitter-title": "Disney perde mais de US$ 100 milhões com flop de ficção científica TRON: Ares",
+        "_yoast_wpseo_twitter-description": "O novo filme da franquia TRON, TRON: Ares, se tornou um grande fracasso de bilheteria, com perdas estimadas em mais de US$ 100 milhões para a Disney."
+      }
+    }
+  ]
+}

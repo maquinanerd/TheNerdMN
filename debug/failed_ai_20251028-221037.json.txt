@@ -1,0 +1,120 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Final Fantasy 7 Rebirth: Promessa de performance no Switch 2",
+      "conteudo_final": "<p>Fãs de Nintendo podem ficar tranquilos quanto à versão de <b>Final Fantasy 7 Rebirth</b> para o Switch 2. Um executivo sênior da Square Enix garantiu que a empresa busca entregar um port com desempenho igual ou superior ao de <b>Final Fantasy 7 Remake Intergrade</b> no console híbrido.</p>\n\n<h2>FF7 Rebirth pode superar FF7 Remake em performance no Switch 2</h2>\n<p>Apesar de <b>Final Fantasy 7 Rebirth</b> ter sido aclamado por seus gráficos impressionantes em 2024, espera-se que ele se adapte bem ao hardware do Switch 2, considerado modesto em comparação com consoles de última geração. Segundo Naoki Hamaguchi, produtor de longa data da série <b>Final Fantasy</b>, a Square Enix está trabalhando arduamente para otimizar o jogo. \"Os donos do Switch 2 terão uma versão tão satisfatória e de alta qualidade quanto o primeiro jogo, se não superior\", afirmou o executivo.</p>\n\n<h2>Port do FF7 Remake Intergrade para Switch 2 já mostra potencial</h2>\n<p>Embora ainda não tenha data de lançamento no console da Nintendo, o novo port de <b>Final Fantasy 7 Remake Intergrade</b>, primeiro jogo da trilogia remake, já demonstra grande potencial. A Square Enix divulgou um vídeo comparando os visuais da versão para Switch 2 com outras plataformas, indicando que o jogo manterá um alto nível de fidelidade gráfica nas cutscenes. Em termos de performance, o estúdio comprometeu-se a mirar em 30 quadros por segundo.</p>\n<p>Mesmo que a versão para Switch 2 de <b>Final Fantasy 7 Rebirth</b> vise um desempenho semelhante ao seu antecessor, ainda pode cumprir a promessa de melhoria, como uma taxa de quadros mais estável. Embora a meta de ultrapassar 30fps no Switch 2 seja improvável, não pode ser totalmente descartada. A performance de <b>FF7 Remake Intergrade</b> no console servirá como um indicador claro do que esperar de <b>Rebirth</b>, visto que ambos utilizam o mesmo motor gráfico, compartilham muitos assets e são desenvolvidos pelo mesmo estúdio.</p>\n<p>\"Os donos do Switch 2 terão uma versão tão satisfatória e de alta qualidade quanto o primeiro jogo, se não superior\", declarou Hamaguchi.</p>\n<p>A Square Enix ainda não especificou quando <b>Final Fantasy 7 Rebirth</b> chegará ao console da Nintendo. Dado que a versão física de <b>Final Fantasy 7 Remake Intergrade</b> para Switch 2 será um lançamento em cartão de jogo, é provável que sua sequência siga o mesmo modelo.</p>\n\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/tifa-final-fantasy-7-rebirth-cropped.jpg\" alt=\"Tifa em Final Fantasy 7 Rebirth\"><figcaption>Tifa em uma cena de Final Fantasy 7 Rebirth.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/6-final-fantasy-7-rebirth-aerith-death-scene.jpg\" alt=\"Cena da morte de Aerith em Final Fantasy 7 Rebirth\"><figcaption>O destino de Aerith em Final Fantasy 7 Rebirth é um ponto crucial.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/ff7-rebirth-party.jpg\" alt=\"Grupo de personagens em Final Fantasy 7 Rebirth\"><figcaption>O grupo de heróis em Final Fantasy 7 Rebirth.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/final-fantasy-vii-rebirth.jpeg\" alt=\"Capa de Final Fantasy 7 Rebirth\"><figcaption>A arte da capa de Final Fantasy 7 Rebirth.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/playing-the-chocobo-racing-mini-game-in-final-fantasy-7-rebirth.jpg\" alt=\"Minigame de corrida de Chocobo em Final Fantasy 7 Rebirth\"><figcaption>Jogando o minigame de corrida de Chocobo em Final Fantasy 7 Rebirth.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/03/402-1740498095-1774378492.jpg\" alt=\"Cena de combate em Final Fantasy 7 Rebirth\"><figcaption>Combate em Final Fantasy 7 Rebirth.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/final-fantasy-7-rebirth-aerith-fate-moment.jpg\" alt=\"Momento do destino de Aerith em Final Fantasy 7 Rebirth\"><figcaption>Um momento definidor para Aerith em Final Fantasy 7 Rebirth.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/final-fantasy-7-rebirth-cloud-party-members-riding-chocobos-through-corel-region.jpg\" alt=\"Cloud e membros do grupo em Chocobos em Final Fantasy 7 Rebirth\"><figcaption>Cloud e seus companheiros em Chocobos na região de Corel em Final Fantasy 7 Rebirth.</figcaption></figure>",
+      "meta_description": "Produtor de Final Fantasy 7 Rebirth promete performance de alta qualidade no Switch 2, comparável ou superior ao jogo anterior.",
+      "focus_keyphrase": "Final Fantasy 7 Rebirth Switch 2",
+      "related_keyphrases": [
+        "Final Fantasy 7 Remake Intergrade Switch 2",
+        "Square Enix Switch 2",
+        "Performance Final Fantasy 7 Rebirth"
+      ],
+      "slug": "final-fantasy-7-rebirth-switch-2-promessa",
+      "categorias": [
+        {
+          "nome": "Final Fantasy 7 Rebirth",
+          "grupo": "obras",
+          "evidence": "Final Fantasy 7 Rebirth"
+        },
+        {
+          "nome": "Final Fantasy 7 Remake Intergrade",
+          "grupo": "obras",
+          "evidence": "Final Fantasy 7 Remake Intergrade"
+        },
+        {
+          "nome": "Nintendo Switch 2",
+          "grupo": "franquias",
+          "evidence": "Switch 2"
+        }
+      ],
+      "tags_sugeridas": [
+        "Final Fantasy 7 Rebirth",
+        "Final Fantasy 7 Remake Intergrade",
+        "Nintendo Switch 2",
+        "Square Enix",
+        "Naoki Hamaguchi",
+        "RPG"
+      ],
+      "image_alt_texts": {
+        "tifa-final-fantasy-7-rebirth-cropped.jpg": "Tifa em Final Fantasy 7 Rebirth",
+        "6-final-fantasy-7-rebirth-aerith-death-scene.jpg": "Cena da morte de Aerith em Final Fantasy 7 Rebirth",
+        "ff7-rebirth-party.jpg": "O grupo de heróis em Final Fantasy 7 Rebirth",
+        "final-fantasy-vii-rebirth.jpeg": "A arte da capa de Final Fantasy 7 Rebirth",
+        "playing-the-chocobo-racing-mini-game-in-final-fantasy-7-rebirth.jpg": "Jogando o minigame de corrida de Chocobo em Final Fantasy 7 Rebirth",
+        "402-1740498095-1774378492.jpg": "Combate em Final Fantasy 7 Rebirth",
+        "final-fantasy-7-rebirth-aerith-fate-moment.jpg": "Um momento definidor para Aerith em Final Fantasy 7 Rebirth",
+        "final-fantasy-7-rebirth-cloud-party-members-riding-chocobos-through-corel-region.jpg": "Cloud e seus companheiros em Chocobos na região de Corel em Final Fantasy 7 Rebirth"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Final Fantasy 7 Rebirth: Promessa de performance no Switch 2",
+        "_yoast_wpseo_metadesc": "Produtor de Final Fantasy 7 Rebirth promete performance de alta qualidade no Switch 2, comparável ou superior ao jogo anterior.",
+        "_yoast_wpseo_focuskw": "Final Fantasy 7 Rebirth Switch 2",
+        "_yoast_news_keywords": "Final Fantasy 7 Rebirth, Final Fantasy 7 Remake Intergrade, Nintendo Switch 2, Square Enix, Naoki Hamaguchi, RPG",
+        "_yoast_wpseo_opengraph-title": "Final Fantasy 7 Rebirth: Promessa de performance no Switch 2",
+        "_yoast_wpseo_opengraph-description": "Produtor de Final Fantasy 7 Rebirth promete performance de alta qualidade no Switch 2, comparável ou superior ao jogo anterior.",
+        "_yoast_wpseo_twitter-title": "Final Fantasy 7 Rebirth: Promessa de performance no Switch 2",
+        "_yoast_wpseo_twitter-description": "Produtor de Final Fantasy 7 Rebirth promete performance de alta qualidade no Switch 2, comparável ou superior ao jogo anterior."
+      }
+    },
+    {
+      "titulo_final": "Pokémon GO: Recompensas do Passe de Novembro 2025 reveladas",
+      "conteudo_final": "<p>O <b>Pokémon GO</b> trará de volta o <b>Amuleto da Sorte</b> como recompensa principal do Passe de Batalha Deluxe de novembro de 2025. Treinadores que alcançarem o nível 100 no Passe de Batalha de novembro poderão encontrar o Pokémon Lendário <b>Virizion</b> em uma batalha especial, temática do evento em andamento \"Contos de Transformação\".</p>\n\n<h2>Virizion, o Pokémon da Savana, chega ao Pokémon GO</h2>\n<p>Conhecido como o Pokémon da Savana, <b>Virizion</b> apareceu pela primeira vez em <b>Pokémon Black and White</b> como um dos Espadas da Justiça. Virizion é um Pokémon do tipo Grama e Lutador, famoso por sua forma esguia e verde e alta defesa especial. Ele foi adicionado ao <b>Pokémon GO</b> em dezembro de 2019 como chefe de Reide, com sua versão brilhante disponível em maio seguinte. Virizion pode usar ataques rápidos como Dupla Chance e ataques carregados como Lâmina de Folha, Pedra de Toque e seu movimento característico, Espada Santa. No entanto, a tipagem de Virizion o coloca em desvantagem contra Pokémon Voadores, de Fogo e Psíquicos.</p>\n\n<h2>O Amuleto da Sorte retorna ao Pokémon GO</h2>\n<p>O Passe de Batalha e o Passe de Batalha Deluxe de novembro de 2025 estarão disponíveis de 4 de novembro a 2 de dezembro, começando e terminando às 10h, horário local. Jogadores de <b>Pokémon GO</b> terão poucos dias para aproveitar o evento de Halloween em andamento antes que ele termine em 2 de novembro. Aqueles que atingirem o Nível 100 no Passe de Batalha de novembro poderão encontrar <b>Virizion</b> com um fundo especial temático do evento \"Contos de Transformação\". Ao adquirir o pacote Passe de Batalha Deluxe, a partir de US$ 7,99, os treinadores podem progredir mais rapidamente e obter recompensas aprimoradas. Os níveis do Passe de Batalha são conquistados ao completar tarefas diárias e semanais, como capturar Pokémon, chocar Ovos ou participar de batalhas.</p>\n<p>Ao atingir o nível máximo com o upgrade do Passe de Batalha Deluxe, os treinadores de <b>Pokémon GO</b> podem ganhar um <b>Amuleto da Sorte</b>, que permitirá que um Grande Amigo ou superior se torne um Amigo Sortudo. Trocar Pokémon com um Amigo Sortudo concede a ambos os Pokémon o status Sortudo, o que corta pela metade a quantidade de Poeira Estelar necessária para fortalecê-los e garante que todos os seus valores individuais (IVs) sejam no mínimo 12.</p>\n<p>O Passe de Batalha de novembro de 2025 ocorrerá paralelamente ao próximo evento de crossover de <b>Pokémon GO</b> com o TCG de Pokémon em varejistas como GameStop e Best Buy. Tanto o Passe de Batalha de novembro de 2025 quanto o evento de crossover com o TCG de Pokémon ocorrerão entre 7 e 30 de novembro, dando aos jogadores de <b>Pokémon GO</b> duas grandes chances de obter recompensas ao longo do mês.</p>\n\n<h2>Recompensas do Passe de Batalha de Novembro de 2025 em Pokémon GO</h2>\n<p><b>Recompensas do Passe de Batalha (Grátis):</b></p>\n<ul>\n<li>Encontro com Virizion com um Fundo Especial temático de \"Contos de Transformação\"</li>\n<li>Poeira Estelar</li>\n<li>XP</li>\n<li>Partículas Máximas</li>\n<li>Poké Bolas</li>\n<li>Doces</li>\n<li>E muito mais!</li>\n</ul>\n<p><b>Recompensas do Passe de Batalha Deluxe (Pago):</b></p>\n<ul>\n<li>Um Amuleto da Sorte</li>\n<li>Um Super Incubador</li>\n<li>Encontros adicionais com ainda mais Pokémon!</li>\n<li>Itens premium, como Passes de Batalha Premium, Incensos, um Incubador, Módulos de Íman e mais!</li>\n<li>Doces XL</li>\n<li>E muito mais!</li>\n</ul>\n<p><b>Bônus de Marco Importante:</b></p>\n<ul>\n<li><b>Nível 1 – Rank 25</b><ul><li>Abra até 40 Presentes por dia.</li><li>Receba até 125 Presentes por dia ao girar Foto Discos de PokéParadas e Ginásios.</li><li>Segure até 30 Presentes na sua Bolsa de Itens.</li></ul></li>\n<li><b>Nível 2 – Rank 50</b><ul><li>Duração 2x do Incenso de Aventura Diário.</li></ul></li>\n<li><b>Nível 3 – Rank 75</b><ul><li>2x Poeira Estelar e XP ao chocar Ovos.</li></ul></li>\n</ul>\n<p>Atualize para o Passe de Batalha Deluxe para fortalecer o seguinte bônus:</p>\n<ul>\n<li><b>Nível 1 – Rank 25</b><ul><li>Abra até 50 Presentes por dia.</li><li>Receba até 150 Presentes por dia ao girar Foto Discos de PokéParadas e Ginásios.</li><li>Segure até 40 Presentes na sua Bolsa de Itens.</li></ul></li>\n</ul>\n\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/03/virizion-in-pogo.jpg\" alt=\"Virizion em Pokémon GO\"><figcaption>Virizion, o Pokémon Lendário em Pokémon GO.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/04/pokemon-go-lucky-trinket.jpg\" alt=\"Amuleto da Sorte em Pokémon GO\"><figcaption>O Amuleto da Sorte é uma recompensa valiosa em Pokémon GO.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/pokemon-go-press-image-1.jpg\" alt=\"Treinadores em Pokémon GO\"><figcaption>Treinadores interagindo em Pokémon GO.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/pokemon-go-press-image-2.jpg\" alt=\"Capturando Pokémon em Pokémon GO\"><figcaption>Captura de Pokémon em Pokémon GO.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/pokemon-go-press-image-3.jpg\" alt=\"Batalha em Pokémon GO\"><figcaption>Batalha entre treinadores em Pokémon GO.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/pokemon-go-press-image-4.jpg\" alt=\"Explorando o mundo em Pokémon GO\"><figcaption>Explorando o mundo de Pokémon GO.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/pokemon-go-press-image-5.jpg\" alt=\"Chocando ovos em Pokémon GO\"><figcaption>Chocando ovos para obter novos Pokémon em Pokémon GO.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/pokemon-go-press-image-6.jpg\" alt=\"Troca de Pokémon em Pokémon GO\"><figcaption>Troca de Pokémon entre amigos em Pokémon GO.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/pokemon-go-press-image-7.jpg\" alt=\"Pokémon Lendário em Pokémon GO\"><figcaption>Encontro com um Pokémon Lendário em Pokémon GO.</figcaption></figure>",
+      "meta_description": "Pokémon GO revela as recompensas do Passe de Batalha de Novembro de 2025, incluindo Virizion e o Amuleto da Sorte. Confira os detalhes!",
+      "focus_keyphrase": "Pokémon GO Passe de Novembro 2025",
+      "related_keyphrases": [
+        "Recompensas Pokémon GO",
+        "Virizion Pokémon GO",
+        "Amuleto da Sorte Pokémon GO"
+      ],
+      "slug": "pokemon-go-recompensas-passe-novembro-2025",
+      "categorias": [
+        {
+          "nome": "Pokémon GO",
+          "grupo": "obras",
+          "evidence": "Pokemon GO"
+        },
+        {
+          "nome": "Virizion",
+          "grupo": "franquias",
+          "evidence": "Virizion"
+        },
+        {
+          "nome": "Pokémon",
+          "grupo": "franquias",
+          "evidence": "Pokemon"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokémon GO",
+        "Virizion",
+        "Amuleto da Sorte",
+        "Passe de Batalha",
+        "Niantic",
+        "RPG",
+        "Mobile"
+      ],
+      "image_alt_texts": {
+        "virizion-in-pogo.jpg": "Virizion em Pokémon GO",
+        "pokemon-go-lucky-trinket.jpg": "Amuleto da Sorte em Pokémon GO",
+        "pokemon-go-press-image-1.jpg": "Treinadores interagindo em Pokémon GO",
+        "pokemon-go-press-image-2.jpg": "Captura de Pokémon em Pokémon GO",
+        "pokemon-go-press-image-3.jpg": "Batalha entre treinadores em Pokémon GO",
+        "pokemon-go-press-image-4.jpg": "Explorando o mundo de Pokémon GO",
+        "pokemon-go-press-image-5.jpg": "Chocando ovos para obter novos Pokémon em Pokémon GO",
+        "pokemon-go-press-image-6.jpg": "Troca de Pokémon entre amigos em Pokémon GO",
+        "pokemon-go-press-image-7.jpg": "Encontro com um Pokémon Lendário em Pokémon GO"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon GO: Recompensas do Passe de Novembro 2025 reveladas",
+        "_yoast_wpseo_metadesc": "Pokémon GO revela as recompensas do Passe de Batalha de Novembro de 2025, incluindo Virizion e o Amuleto da Sorte. Confira os detalhes!",
+        "_yoast_wpseo_focuskw": "Pokémon GO Passe de Novembro 2025",
+        "_yoast_news_keywords": "Pokémon GO, Virizion, Amuleto da Sorte, Passe de Batalha, Niantic, RPG, Mobile",
+        "_yoast_wpseo_opengraph-title": "Pokémon GO: Recompensas do Passe de Novembro 2025 reveladas",
+        "_yoast_wpseo_opengraph-description": "Pokémon GO revela as recompensas do Passe de Batalha de Novembro de 2025, incluindo Virizion e o Amuleto da Sorte. Confira os detalhes!",
+        "_yoast_wpseo_twitter-title": "Pokémon GO: Recompensas do Passe de Novembro 2025 reveladas",
+        "_yoast_wpseo_twitter-description": "Pokémon GO revela as recompensas do Passe de Batalha de Novembro de 2025, incluindo Virizion e o Amuleto da Sorte. Confira os detalhes!"
+      }
+    }
+  ]
+}

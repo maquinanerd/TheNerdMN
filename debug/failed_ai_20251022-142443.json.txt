@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Gen V: Nova habilidade de Marie Moreau pode derrotar o Capitão Pátria em The Boys",
+  "conteudo_final": "<p>A recém-descoberta habilidade de Marie Moreau de trazer pessoas de volta dos mortos em <em>Gen V</em> temporada 2 promete ser uma arma crucial na guerra contra o Capitão Pátria (Homelander). Com <em>The Boys</em> se aproximando de sua quinta e última temporada, a busca da equipe de vigilantes para destruir todos os supers está entrando em sua reta final, e uma arma secreta pode ter sido encontrada.</p><p>No episódio final, o encerramento de <em>Gen V</em> temporada 2 prepara o terreno para <em>The Boys</em> temporada 5. Enquanto a série principal se aproxima do fim, é provável que os supers universitários de <em>Gen V</em> se unam aos sádicos matadores de supers de <em>The Boys</em>. Após Marie descobrir a extensão total de seus poderes na segunda temporada de <em>Gen V</em>, ela pode se tornar inestimável para a equipe de <em>The Boys</em>.</p><h2>Marie Moreau: A Habilidade de Ressurreição Contra o Capitão Pátria</h2><p>Na segunda temporada de <em>Gen V</em>, episódio 5, intitulado “The Kids Are Not All Right”, Marie e seus amigos estão presos em Elmira e elaboram um plano ousado para escapar. Ao invadirem a cela da irmã de Marie, Annabeth, para libertá-la, eles a encontram com a garganta cortada e morta. No entanto, em meio a uma profunda tristeza, Marie recebe uma atualização de seus poderes.</p><div class=\"figure\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/img_0266.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" alt=\"Jaz Sinclair como Marie em Gen V\"\n><figcaption>Jaz Sinclair como Marie Moreau em Gen V.</figcaption></div><p>Marie manipula o sangue derramado de Annabeth para voltar à sua garganta, cura o ferimento e reorganiza as células de sua irmã para trazê-la de volta à vida. Esse feito exigiu muito de Marie (e das pessoas ao seu redor), mas ela conseguiu enganar a morte. Agora que essa habilidade é conhecida, Marie se torna praticamente imparável.</p><p>A capacidade de Marie de ressuscitar os mortos pode ser inestimável na luta de <em>The Boys</em> contra o Capitão Pátria. Até agora, o maior obstáculo nessa batalha tem sido que o Capitão Pátria pode matar qualquer um deles sem hesitar. Mas se Marie puder trazê-los de volta à vida, o Capitão Pátria não poderá matá-los permanentemente.</p><h2>O Poder de Ressurreição de Marie Moreau Pode Ser a Chave para Derrotar o Capitão Pátria</h2><p>O Capitão Pátria possui quase todos os superpoderes imagináveis: força, resistência, voo, olhos de laser, visão de raio-x, envelhecimento lento, cura acelerada e sentidos sobre-humanos. Ele é essencialmente o Superman, mas sem o amor e o apoio de seus pais adotivos, o que o levou a se tornar um sociopata frio e assassino. Derrotar o Capitão Pátria é, em grande parte, impossível.</p><div class=\"figure\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/marie-gen-v-bleeding-from-her-nose.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Close up de Jaz Sinclair como Marie Moreau em Gen V temporada 2 sangrando pelo nariz com expressão ansiosa\"\n><figcaption>Marie Moreau em Gen V temporada 2, demonstrando seus poderes.</figcaption></div><p>No entanto, há um poder que o Capitão Pátria não possui: ele não pode trazer pessoas de volta à vida. Ele pode matar, e frequentemente o faz, mas é incapaz de reverter a morte. Agora que sabemos que Marie pode, graças a uma das melhores reviravoltas da segunda temporada de <em>Gen V</em>, ela é, sem dúvida, mais poderosa que o Capitão Pátria.</p>",
+  "meta_description": "Em Gen V, Marie Moreau ganha a habilidade de ressuscitar os mortos. Essa nova arma pode ser a chave para The Boys derrotar o poderoso Capitão Pátria.",
+  "focus_keyphrase": "Marie Moreau derrota Capitão Pátria",
+  "related_keyphrases": [
+    "Gen V poderes de Marie",
+    "The Boys Capitão Pátria",
+    "Super poderes Gen V"
+  ],
+  "slug": "gen-v-marie-derrota-capitao-patria",
+  "categorias": [
+    {
+      "nome": "Gen V",
+      "grupo": "obras",
+      "evidence": "Gen V temporada 2"
+    },
+    {
+      "nome": "The Boys",
+      "grupo": "franquias",
+      "evidence": "The Boys’ war against Homelander"
+    },
+    {
+      "nome": "Capitão Pátria",
+      "grupo": "personagens",
+      "evidence": "The Boys’ war against Homelander"
+    }
+  ],
+  "tags_sugeridas": [
+    "gen v",
+    "the boys",
+    "marie moreau",
+    "capitão pátria",
+    "super heróis",
+    "amazona studios"
+  ],
+  "image_alt_texts": {
+    "img_0266.jpeg": "Jaz Sinclair como Marie Moreau em Gen V, série derivada de The Boys.",
+    "marie-gen-v-bleeding-from-her-nose.jpg": "Marie Moreau (Jaz Sinclair) em Gen V, com poder de cura e ressurreição, pronta para enfrentar o Capitão Pátria."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Gen V: Marie Moreau pode derrotar o Capitão Pátria com novo poder | Maquina Nerd",
+    "_yoast_wpseo_metadesc": "Em Gen V, Marie Moreau ganha a habilidade de ressuscitar os mortos. Essa nova arma pode ser a chave para The Boys derrotar o poderoso Capitão Pátria.",
+    "_yoast_wpseo_focuskw": "Marie Moreau derrota Capitão Pátria",
+    "_yoast_news_keywords": "Gen V, The Boys, Marie Moreau, Capitão Pátria, super heróis, Amazon Prime Video, Vought",
+    "_yoast_wpseo_opengraph-title": "Gen V: Marie Moreau pode derrotar o Capitão Pátria com novo poder",
+    "_yoast_wpseo_opengraph-description": "A recém-descoberta habilidade de Marie Moreau de trazer pessoas de volta dos mortos em Gen V temporada 2 promete ser uma arma crucial na guerra contra o Capitão Pátria.",
+    "_yoast_wpseo_twitter-title": "Gen V: Marie Moreau pode derrotar o Capitão Pátria com novo poder",
+    "_yoast_wpseo_twitter-description": "A recém-descoberta habilidade de Marie Moreau de trazer pessoas de volta dos mortos em Gen V temporada 2 promete ser uma arma crucial na guerra contra o Capitão Pátria."
+  }
+}

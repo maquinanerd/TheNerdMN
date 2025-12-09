@@ -1,0 +1,67 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Os 15 Melhores Filmes de Slasher de Todos os Tempos",
+      "conteudo_final": "<p>Os <strong>melhores filmes de slasher de todos os tempos</strong> tiveram suas origens na década de 1970, embora um filme de 1960, <em>Psicose</em>, tenha servido como precursor do gênero. Embora esses filmes de terror tenham saído de moda nos anos 90, vários foram lançados posteriormente, em sua maioria por cineastas que cresceram amando o gênero e queriam adicionar seus próprios toques ao formato.</p><h2>Psicose (1960) e o Início do Gênero</h2><p>A maioria dos filmes de slasher compartilha a mesma premissa básica: um ou mais assassinos caçam majoritariamente jovens adultos. Eles funcionam como contos morais, onde os \"garotos maus\" morrem primeiro e a \"Final Girl\" sobrevive até o final. Os assassinos são brutais e, por vezes, sobrenaturais, tornando-se os personagens mais queridos.</p><h2>My Bloody Valentine (1981)</h2><figure><picture><source data-srcset=\"https:
+      "meta_description": "Descubra os 15 melhores filmes de slasher de todos os tempos, com clássicos assustadores que definiram o gênero e novos sucessos que continuam a aterrorizar.",
+      "focus_keyphrase": "filmes de slasher",
+      "related_keyphrases": [
+        "melhores filmes de terror",
+        "gênero slasher",
+        "cinema de horror"
+      ],
+      "slug": "melhores-filmes-slasher",
+      "categorias": [
+        {
+          "nome": "Slasher",
+          "grupo": "obras",
+          "evidence": "The best slasher movies of all time"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "horror movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "slasher",
+        "terror",
+        "filmes de terror",
+        "cinema",
+        "My Bloody Valentine",
+        "Child's Play",
+        "Terrifier 2",
+        "X",
+        "The Burning",
+        "Behind The Mask",
+        "Black Christmas",
+        "You're Next",
+        "Candyman",
+        "Friday the 13th",
+        "Halloween"
+      ],
+      "image_alt_texts": {
+        "the-miner-drowning-dave-in-hot-dog-water-in-my-bloody-valentine-1981.jpg": "O mineiro afogando Dave em água de cachorro-quente em My Bloody Valentine (1981), um filme slasher clássico.",
+        "Chucky-in-Childs-Play-1988.jpg": "Chucky, o boneco assassino possuído, em O Brinquedo Assassino (1988), um dos filmes slasher mais icônicos.",
+        "art-smiling-in-terrifier-2.jpg": "Art the Clown, o sádico palhaço assassino, sorrindo em Terrifier 2, um slasher moderno e sangrento.",
+        "pearl-behind-maxxxine-in-x.jpg": "Mia Goth como Pearl, a assassina idosa, e Maxine em uma cena de X, um slasher dos anos 70 reimaginado.",
+        "screenrant-sandbox-2025-10-07t233909-130.jpg": "Cropsy, o assassino com tesouras, em The Burning (1981), um slasher esquecido e violento.",
+        "Behind-The-Mask-The-Rise-Of-Leslie-Vernon-6.7.jpg": "Leslie Vernon, o assassino mascarado, em Behind The Mask: The Rise Of Leslie Vernon (2006), um slasher mockumentary.",
+        "jess-bradford-on-the-phone-in-black-christmas-1.jpg": "Jess Bradford ao telefone em Black Christmas (1974), considerado um dos primeiros filmes slasher.",
+        "sharni-vinson-you-re-next.jpeg": "Sharni Vinson como Erin segurando um machado em You're Next (2011), um slasher com reviravolta inesperada.",
+        "a-man-wears-a-fur-coat-and-has-a-hook-hand-in-candyman-cropped.jpg": "Candyman, o icônico assassino com gancho, em Candyman (1992), um slasher com elementos sobrenaturais.",
+        "pam-friday-the-13.jpg": "A Sra. Voorhees empunhando uma faca em Sexta-Feira 13 (1980), o filme que deu início a uma franquia slasher popular."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Os 15 Melhores Filmes de Slasher de Todos os Tempos | [Nome do Portal]",
+        "_yoast_wpseo_metadesc": "Descubra os 15 melhores filmes de slasher de todos os tempos, com clássicos assustadores que definiram o gênero e novos sucessos que continuam a aterrorizar.",
+        "_yoast_wpseo_focuskw": "filmes de slasher",
+        "_yoast_news_keywords": "filmes de slasher, terror, cinema de horror, slasher",
+        "_yoast_wpseo_opengraph-title": "Os 15 Melhores Filmes de Slasher de Todos os Tempos",
+        "_yoast_wpseo_opengraph-description": "Descubra os 15 melhores filmes de slasher de todos os tempos, com clássicos assustadores que definiram o gênero e novos sucessos que continuam a aterrorizar.",
+        "_yoast_wpseo_twitter-title": "Os 15 Melhores Filmes de Slasher de Todos os Tempos",
+        "_yoast_wpseo_twitter-description": "Descubra os 15 melhores filmes de slasher de todos os tempos, com clássicos assustadores que definiram o gênero e novos sucessos que continuam a aterrorizar."
+      }
+    }
+  ]
+}

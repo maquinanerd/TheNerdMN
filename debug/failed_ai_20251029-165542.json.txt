@@ -1,0 +1,112 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Adaptação de Colleen Hoover Supera Bilheteria de Mistério de Daniel Craig",
+      "conteudo_final": "<p>A nova adaptação de Colleen Hoover, <b>Regretting You</b>, já superou a bilheteria doméstica de um clássico recente. Após apenas um fim de semana completo em cartaz, o filme arrecadou US$ 15,1 milhões nos Estados Unidos, ultrapassando os US$ 15 milhões de <b>Glass Onion: Um Mistério Knives Out</b>, a sequência do filme de Daniel Craig.</p><p>Com uma arrecadação adicional de US$ 1,4 milhão na primeira segunda-feira, o total doméstico de <b>Regretting You</b> atingiu US$ 15,1 milhões. Somando os US$ 9,9 milhões internacionais, o filme soma US$ 25,1 milhões globalmente. Este valor já supera a bilheteria total de <b>King Richard</b>, vencedor do Oscar de 2021 estrelado por Will Smith, que arrecadou US$ 15,1 milhões mundialmente.</p><p>O filme, dirigido por Josh Boone e roteirizado por Susan McMartin, é baseado no popular romance de Colleen Hoover. Estrelado por Allison Williams como Morgan Grant, Mckenna Grace como Clara Grant, Dave Franco como Jonah Sullivan, Mason Thames como Miller Adams, Scott Eastwood como Chris Grant, Willa Fitzgerald como Jenny Davidson e Clancy Brown como Hank Adams Sr., <b>Regretting You</b> tem sido comparado a <b>It Ends With Us</b>, outra adaptação de uma obra de Hoover.</p><h2>'Regretting You' Está em Streaming?</h2><p>Atualmente, <b>Regretting You</b> não está disponível em plataformas de streaming e só pode ser assistido nos cinemas. Espera-se que o filme seja disponibilizado para aluguel ou compra em plataformas digitais como Prime Video e Fandango at Home em algumas semanas. Distribuído pela Paramount Pictures nos Estados Unidos, é provável que o filme chegue ao Paramount+ alguns meses após sua estreia nos cinemas.</p><p>Fique ligado para mais atualizações sobre a bilheteria de <b>Regretting You</b> e cobertura geral do filme.</p><figure><img src=\"https:
+      "meta_description": "Adaptação de Colleen Hoover, Regretting You, ultrapassa bilheteria de Glass Onion. Saiba mais sobre a arrecadação e onde assistir ao filme.",
+      "focus_keyphrase": "Regretting You bilheteria",
+      "related_keyphrases": [
+        "Colleen Hoover adaptação",
+        "Glass Onion bilheteria",
+        "Daniel Craig filme"
+      ],
+      "slug": "regretting-you-bilheteria-supera-glass-onion",
+      "categorias": [
+        {
+          "nome": "Regretting You",
+          "grupo": "obras",
+          "evidence": "Colleen Hoover’s new adaptation has already surpassed"
+        },
+        {
+          "nome": "Glass Onion: A Knives Out Mystery",
+          "grupo": "obras",
+          "evidence": "Glass Onion: A Knives Out Mystery, Daniel Craig’s Knives Out sequel"
+        },
+        {
+          "nome": "Colleen Hoover",
+          "grupo": "franquias",
+          "evidence": "Colleen Hoover’s new adaptation"
+        }
+      ],
+      "tags_sugeridas": [
+        "Regretting You",
+        "Colleen Hoover",
+        "Glass Onion",
+        "Daniel Craig",
+        "Allison Williams",
+        "Paramount Pictures"
+      ],
+      "image_alt_texts": {
+        "unnamed.jpg": "Allison Williams e Dave Franco em cena de Regretting You."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Regretting You Supera Bilheteria de Mistério de Daniel Craig",
+        "_yoast_wpseo_metadesc": "Adaptação de Colleen Hoover, Regretting You, ultrapassa bilheteria de Glass Onion. Saiba mais sobre a arrecadação e onde assistir ao filme.",
+        "_yoast_wpseo_focuskw": "Regretting You bilheteria",
+        "_yoast_news_keywords": "Regretting You, Colleen Hoover, Glass Onion, Daniel Craig, Allison Williams, Paramount Pictures",
+        "_yoast_wpseo_opengraph-title": "Adaptação de Colleen Hoover Supera Bilheteria de Mistério de Daniel Craig",
+        "_yoast_wpseo_opengraph-description": "Adaptação de Colleen Hoover, Regretting You, ultrapassa bilheteria de Glass Onion. Saiba mais sobre a arrecadação e onde assistir ao filme.",
+        "_yoast_wpseo_twitter-title": "Adaptação de Colleen Hoover Supera Bilheteria de Mistério de Daniel Craig",
+        "_yoast_wpseo_twitter-description": "Adaptação de Colleen Hoover, Regretting You, ultrapassa bilheteria de Glass Onion. Saiba mais sobre a arrecadação e onde assistir ao filme."
+      }
+    },
+    {
+      "titulo_final": "Vampire: The Masquerade - Bloodlines 2 Recebe Atualização Importante",
+      "conteudo_final": "<p><b>Vampire: The Masquerade - Bloodlines 2</b>, apesar de um lançamento conturbado e críticas mistas, está recebendo atenção dos desenvolvedores. A The Chinese Room lançou uma nova atualização focada em corrigir bugs e adicionar opções de customização, buscando aprimorar a experiência dos jogadores.</p><p>A atualização de Halloween introduz novas opções cosméticas para a personagem Phyre, incluindo oito novos penteados, oito estilos de maquiagem e oito cores de olhos. Além disso, a atualização promete corrigir diversos crashes e bugs que afetavam o jogo, tornando dois achievements anteriormente inatingíveis agora desbloqueáveis.</p><h2>The Chinese Room Trabalha em Vampire: The Masquerade - Bloodlines 2</h2><p>Embora a desenvolvedora The Chinese Room esteja comprometida com o jogo, o futuro de novas funcionalidades ainda é incerto. Opções como configurações de dificuldade personalizadas e um slider de FOV (campo de visão) foram mencionadas, mas não há garantia de que serão implementadas. A comunidade também aguarda ansiosamente por um sistema de salvamento manual, já que o jogo atualmente depende apenas de salvamentos automáticos, o que pode levar à perda de progresso.</p><p>Em futuras atualizações, a equipe considera incluir recursos como um slider de FOV, novas opções de salvamento de jogo e configurações de dificuldade personalizadas. Uma dessas opções permitiria jogar apenas o lado da história de Phyre em uma segunda jogatina, além de mais opções de customização.</p><p><b>Vampire: The Masquerade - Bloodlines 2</b> coloca o jogador no papel de um Nomade, um vampiro ancião que desperta no século XXI em Seattle. Guiado por Fabien, um detetive vampiro, o jogador investiga um caso antigo que ameaça a sociedade. O jogo promete ação RPG imersiva com combate visceral, baseado nas escolhas de clã e estilo de jogo do jogador.</p><p>Explore a corte vampírica de Seattle e seu submundo, onde suas escolhas moldarão o equilíbrio de poder na cidade. O jogo é desenvolvido pelo estúdio The Chinese Room, vencedor do BAFTA, e busca honrar o legado do cultuado predecessor.</p>",
+      "meta_description": "Vampire: The Masquerade - Bloodlines 2 recebe atualização com correções de bugs e novas opções de customização. Saiba mais sobre as novidades.",
+      "focus_keyphrase": "Vampire The Masquerade Bloodlines 2 atualização",
+      "related_keyphrases": [
+        "The Chinese Room",
+        "Vampire The Masquerade",
+        "Bloodlines 2 bugs"
+      ],
+      "slug": "vampire-bloodlines-2-atualizacao-corrigir-bugs",
+      "categorias": [
+        {
+          "nome": "Vampire: The Masquerade - Bloodlines 2",
+          "grupo": "obras",
+          "evidence": "Vampire: The Masquerade - Bloodlines 2 isn't off to a great start."
+        },
+        {
+          "nome": "The Chinese Room",
+          "grupo": "editorias",
+          "evidence": "The Chinese Room is sticking by the game"
+        },
+        {
+          "nome": "Paradox Interactive",
+          "grupo": "editorias",
+          "evidence": "Publisher(s) Paradox Interactive"
+        }
+      ],
+      "tags_sugeridas": [
+        "Vampire The Masquerade Bloodlines 2",
+        "The Chinese Room",
+        "Paradox Interactive",
+        "RPG",
+        "Vampiros",
+        "Atualização de Jogo"
+      ],
+      "image_alt_texts": {
+        "vampire-the-masquerade-bloodlines-2-press-image-1.jpg": "Personagem Phyre em Vampire: The Masquerade - Bloodlines 2 com novas opções de customização.",
+        "vampire-the-masquerade-bloodlines-2-press-image-2.jpg": "Cena de combate em Vampire: The Masquerade - Bloodlines 2.",
+        "vampire-the-masquerade-bloodlines-2-press-image-3.jpg": "Ambiente urbano de Seattle em Vampire: The Masquerade - Bloodlines 2.",
+        "vampire-the-masquerade-bloodlines-2-press-image-4.jpg": "Detalhe de customização de personagem em Vampire: The Masquerade - Bloodlines 2.",
+        "vampire-the-masquerade-bloodlines-2-press-image-5.jpg": "Interface do jogo Vampire: The Masquerade - Bloodlines 2.",
+        "vampire-the-masquerade-bloodlines-2-press-image-6.jpg": "Vampiro em ação em Vampire: The Masquerade - Bloodlines 2.",
+        "vampire-the-masquerade-bloodlines-2-press-image-7.jpg": "Ilustração de Seattle em Vampire: The Masquerade - Bloodlines 2.",
+        "vampire-the-masquerade-bloodlines-2-press-image-8.jpg": "Personagem Fabien em Vampire: The Masquerade - Bloodlines 2.",
+        "vampire-the-masquerade-bloodlines-2-tag-page-cover-art.jpg": "Arte principal de Vampire: The Masquerade - Bloodlines 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Vampire: The Masquerade - Bloodlines 2 Recebe Atualização Importante",
+        "_yoast_wpseo_metadesc": "Vampire: The Masquerade - Bloodlines 2 recebe atualização com correções de bugs e novas opções de customização. Saiba mais sobre as novidades.",
+        "_yoast_wpseo_focuskw": "Vampire The Masquerade Bloodlines 2 atualização",
+        "_yoast_news_keywords": "Vampire The Masquerade Bloodlines 2, The Chinese Room, Paradox Interactive, RPG, Vampiros, Atualização de Jogo",
+        "_yoast_wpseo_opengraph-title": "Vampire: The Masquerade - Bloodlines 2 Recebe Atualização Importante",
+        "_yoast_wpseo_opengraph-description": "Vampire: The Masquerade - Bloodlines 2 recebe atualização com correções de bugs e novas opções de customização. Saiba mais sobre as novidades.",
+        "_yoast_wpseo_twitter-title": "Vampire: The Masquerade - Bloodlines 2 Recebe Atualização Importante",
+        "_yoast_wpseo_twitter-description": "Vampire: The Masquerade - Bloodlines 2 recebe atualização com correções de bugs e novas opções de customização. Saiba mais sobre as novidades."
+      }
+    }
+  ]
+}

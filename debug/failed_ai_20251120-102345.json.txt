@@ -1,0 +1,45 @@
+{
+  "titulo_final": "Hazbin Hotel: Criadora explica impacto da reviravolta de Angel Dust na 3ª temporada",
+  "conteudo_final": "<p>A criadora de <b>Hazbin Hotel</b>, Vivienne Medrano, detalha como a reviravolta no final da segunda temporada afetará o arco de Angel Dust na terceira temporada, que terá um foco maior no personagem. A segunda temporada revelou que Vox hipnotizou Angel para ser seu espião no hotel desde a primeira temporada. Posteriormente, ele o hipnotizou para renegar o hotel e apoiar a revolta de Vox contra o Céu.</p><p>Ao final de <i>Hazbin Hotel</i>, Angel decide deixar o hotel, incapaz de confiar em si mesmo após suas ações, que incluíram quase matar Cherry e Husk quando tentaram resgatá-lo dos Vees. Ele retorna a trabalhar com Valentino, apesar dos apelos de seus amigos para que volte para casa, o que estabelece sua futura linha narrativa.</p><p>Em entrevista ao <i>Collider</i>, Medrano explicou que a terceira temporada de <i>Hazbin Hotel</i> dará mais destaque a Angel, explorando sua situação de abuso com Valentino e trazendo Husk para a história em sua tentativa de ajudar o amigo. Medrano comentou:</p><blockquote><p>A terceira temporada é muito sobre Angel e sobre a situação dele. E também sobre Husk e o fato de que Husk é um personagem que realmente passou a se importar com Angel, e essa é uma posição muito difícil porque já sabemos, através de ‘Loser Baby’, que eles têm muita conexão um com o outro, e ambos estão em uma situação muito semelhante, mas, ao contrário de Angel, Husk pelo menos tem alguém que — quero dizer, é difícil comparar abusadores neste show, mas pelo menos Alastor tem sua própria agenda. Husk está apenas lá para ajudá-lo a alcançar seus objetivos aqui e ali. Mas com Valentino, é como se Angel fosse algo que ele quer dominar, e ele quer controle, e ele quer controlar e usar e machucar, e essa é a diferença. E eu acho que há um elemento que estou animada para as pessoas verem nós explorarmos, de Husk percebendo o quão diferente a situação de Angel é da dele.</p></blockquote><p>Angel está sob o controle dos Vees desde o início da série, com sua alma contratada a Valentino. Isso permitiu que Vox o usasse como espião e é o motivo pelo qual Angel não pode deixar seu trabalho. Embora o abuso de Angel não tenha sido o tema de nenhuma das canções da segunda temporada de <i>Hazbin Hotel</i>, a primeira temporada apresentou seu solo, \"Poison\", retratando o sofrimento que ele teve que suportar.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/angel-dust-looks-scared-in-hazbin-hotel-season-2-episode-3.jpg?q=49&fit=crop&w=825&dpr=2" alt="Angel Dust com expressão assustada em Hazbin Hotel temporada 2 episódio 3"/><figcaption>Angel Dust demonstra medo em cena da segunda temporada de Hazbin Hotel.</figcaption></figure><p>Com base na declaração de Medrano, fica claro que Angel terá mais destaque na terceira temporada, explorando sua situação abusiva e seus pecados com mais detalhes. A segunda temporada já revelou que seu pecado foi matar o pai, outro problema tumultuado com o qual ele pode precisar lidar nos próximos episódios. Como sua história se desenrolará, no entanto, ainda está para ser visto.</p>",
+  "meta_description": "Criadora de Hazbin Hotel, Vivienne Medrano, explica como o final da 2ª temporada impactará o arco de Angel Dust na 3ª temporada, com foco em seu abuso e relação com Husk.",
+  "focus_keyphrase": "Hazbin Hotel Angel Dust 3ª temporada",
+  "related_keyphrases": [
+    "Hazbin Hotel Vox",
+    "Angel Dust Valentino",
+    "Vivienne Medrano Hazbin Hotel"
+  ],
+  "slug": "hazbin-hotel-angel-dust-temporada-3",
+  "categorias": [
+    {
+      "nome": "Hazbin Hotel",
+      "grupo": "obras",
+      "evidence": "Hazbin Hotel creator Vivienne Medrano"
+    },
+    {
+      "nome": "Angel Dust",
+      "grupo": "personagens",
+      "evidence": "Angel Dust's season 3 arc"
+    }
+  ],
+  "tags_sugeridas": [
+    "Hazbin Hotel",
+    "Angel Dust",
+    "Vivienne Medrano",
+    "Vox",
+    "Valentino",
+    "Husk"
+  ],
+  "image_alt_texts": {
+    "angel-dust-looks-scared-in-hazbin-hotel-season-2-episode-3.jpg": "Angel Dust com expressão assustada em Hazbin Hotel temporada 2 episódio 3"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Hazbin Hotel: Criadora explica impacto da reviravolta de Angel Dust na 3ª temporada",
+    "_yoast_wpseo_metadesc": "Criadora de Hazbin Hotel, Vivienne Medrano, explica como o final da 2ª temporada impactará o arco de Angel Dust na 3ª temporada, com foco em seu abuso e relação com Husk.",
+    "_yoast_wpseo_focuskw": "Hazbin Hotel Angel Dust 3ª temporada",
+    "_yoast_news_keywords": "Hazbin Hotel, Angel Dust, Vivienne Medrano, Vox, Valentino, Husk, série animada",
+    "_yoast_wpseo_opengraph-title": "Hazbin Hotel: Criadora explica impacto da reviravolta de Angel Dust na 3ª temporada",
+    "_yoast_wpseo_opengraph-description": "Criadora de Hazbin Hotel, Vivienne Medrano, explica como o final da 2ª temporada impactará o arco de Angel Dust na 3ª temporada, com foco em seu abuso e relação com Husk.",
+    "_yoast_wpseo_twitter-title": "Hazbin Hotel: Criadora explica impacto da reviravolta de Angel Dust na 3ª temporada",
+    "_yoast_wpseo_twitter-description": "Criadora de Hazbin Hotel, Vivienne Medrano, explica como o final da 2ª temporada impactará o arco de Angel Dust na 3ª temporada, com foco em seu abuso e relação com Husk."
+  }
+}

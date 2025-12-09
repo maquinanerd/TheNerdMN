@@ -1,0 +1,61 @@
+{
+  "titulo_final": "Netflix: Nobody Wants This é o Binge Perfeito de Comédia Romântica dos Anos 2000",
+  "conteudo_final": "<p>Se você sente falta das <strong>comédias românticas</strong> dos anos 2000, a Netflix tem a opção ideal para um fim de semana de maratona: a série <em>Nobody Wants This</em>. Embora as produções atuais ofereçam muito, elas tendem a deixar de lado os clichês clássicos de décadas passadas. Escritores têm se afastado de tramas previsíveis, mas o público ainda sente falta delas.</p>\n\n<h2>Nobody Wants This: Um Novo Romance na TV</h2>\n<p><em>Nobody Wants This</em> surge como uma proposta fresca e divertida. A série não é apenas um filme de comédia romântica, mas uma produção televisiva com um casal central bastante inusitado. Kristen Bell interpreta Joanne, uma podcaster sobre sexo e agnóstica, que se apaixona por um rabino, Noah, interpretado por Adam Brody. O futuro do relacionamento depende da conversão de Joanne ao Judaísmo.</p>\n\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/t7f-6-F9h0w?si=J4Gg2w20_0fB7f2W\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n\n<p>A primeira temporada de <em>Nobody Wants This</em> estreou em setembro de 2024, e a segunda temporada chegou à Netflix em outubro de 2025. A série ostenta uma pontuação de 85% no <em>Rotten Tomatoes</em>, com elogios direcionados à química entre Bell e Brody, à abordagem do namoro moderno e aos diálogos espirituosos. O grande trunfo da série é a incorporação de tropos clássicos das comédias românticas.</p>\n\n<h2>O Final Perfeito Inspirado nos Anos 2000</h2>\n<p>As comédias românticas ganharam força nos anos 2000, com filmes que, mesmo que clichês e "cafonas", conquistavam o público. <em>Nobody Wants This</em> captura essa mesma sensação nostálgica, especialmente no final da segunda temporada, que reúne quase todos os clichês do gênero. A trilha sonora, os amantes que se procuram após uma briga e até locais icônicos de Los Angeles, como a escultura Urban Light (vista em <em>No Strings Attached</em> e <em>Valentine's Day</em>), são elementos clássicos que ressurgem na série.</p>\n\n<figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/tcdnowa_zx070-cropped.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Noah e Joanne se beijando em Nobody Wants This temporada 2\" loading=\"lazy\" width=\"825\" height=\"826\" /><figcaption>Noah e Joanne se beijando em Nobody Wants This temporada 2.</figcaption></figure>\n\n<p>O final da segunda temporada de <em>Nobody Wants This</em> remete diretamente às comédias românticas preferidas da época, proporcionando uma experiência emocionante e familiar.</p>\n\n<h2>Uma Maratona Fácil Para o Fim de Semana</h2>\n<p>Um dos grandes atrativos de <em>Nobody Wants This</em> é ser uma série completa, com duas temporadas e dez episódios de aproximadamente 25 minutos cada. Isso totaliza cerca de 4 horas e 20 minutos para cada temporada, e um pouco mais de 8 horas e meio para assistir à série inteira. A produção se torna, assim, a maratona perfeita para um fim de semana, ideal para relaxar com um bom sorvete e reviver a vibe das comédias românticas dos anos 2000 em um formato moderno.</p>\n\n<figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/nwt_201_unit_00796rc.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Noah e Joanne se abraçando na cama assistindo a um show no laptop em Nobody Wants This temporada 2.\" loading=\"lazy\" width=\"825\" height=\"826\" /><figcaption>Noah e Joanne se abraçando na cama assistindo a um show no laptop em Nobody Wants This temporada 2.</figcaption></figure>\n\n<figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/03222889_poster_w780.jpg?q=70&fit=contain&w=480&dpr=1\" alt=\"Pôster de Nobody Wants This\" loading=\"lazy\" width=\"480\" height=\"719\" /><figcaption>Pôster oficial de Nobody Wants This.</figcaption></figure>\n\n<p>A série está disponível na Netflix, combinando o charme nostálgico dos anos 2000 com uma abordagem contemporânea, ideal para quem busca uma opção leve e envolvente.</p>",
+  "meta_description": "Descubra Nobody Wants This, a série da Netflix que revive as melhores comédias românticas dos anos 2000 com Kristen Bell e Adam Brody. Perfeita para maratonar!",
+  "focus_keyphrase": "Nobody Wants This Netflix",
+  "related_keyphrases": [
+    "Comédias românticas anos 2000",
+    "Kristen Bell e Adam Brody",
+    "Séries da Netflix"
+  ],
+  "slug": "nobody-wants-this-netflix-binge-romcom",
+  "categorias": [
+    {
+      "nome": "Nobody Wants This",
+      "grupo": "obras",
+      "evidence": "“Nobody Wants This should do the trick.”"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "plataformas",
+      "evidence": "“season 2 just hit Netflix in October 2025.”"
+    },
+    {
+      "nome": "Comédia Romântica",
+      "grupo": "gêneros",
+      "evidence": "“Romantic comedies just aren't what they once were”"
+    }
+  ],
+  "tags_sugeridas": [
+    "Nobody Wants This",
+    "Netflix",
+    "Kristen Bell",
+    "Adam Brody",
+    "Comédia Romântica",
+    "Séries 2024",
+    "Séries 2025"
+  ],
+  "image_alt_texts": {
+    "tcdnowa_zx070-cropped.jpg": "Noah e Joanne se beijando apaixonadamente em uma cena da segunda temporada de Nobody Wants This.",
+    "nwt_201_unit_00796rc.jpg": "Noah e Joanne abraçados e relaxados em um momento íntimo na cama em Nobody Wants This.",
+    "03222889_poster_w780.jpg": "Pôster oficial da série Nobody Wants This, apresentando os protagonistas.",
+    "adam-brody-as-noah-in-nobody-wants-this-season-2.jpg": "Adam Brody interpretando Noah em uma cena da segunda temporada de Nobody Wants This.",
+    "adam-brody-and-kristen-bell-as-noah-and-joanne-in-nobody-wants-this-season-2.jpg": "Adam Brody e Kristen Bell como Noah e Joanne em uma cena romântica de Nobody Wants This.",
+    "nobody-wants-this.jpg": "Noah (Adam Brody) e Joanne (Kristen Bell) em um momento de cumplicidade na série Nobody Wants This.",
+    "nobody-wants-this_mr8g56.jpg": "Adam Brody como Noah e Kristen Bell como Joanne em um momento de aproximação em Nobody Wants This.",
+    "kristen-bell-s-joanne-smiling-while-playing-a-card-game-in-nobody-wants-this-season-2.jpg": "Kristen Bell como Joanne, sorrindo enquanto joga um jogo de cartas na segunda temporada de Nobody Wants This.",
+    "nobody-wants-this-adam-brody-as-noah.jpg": "Adam Brody como Noah em uma imagem da série Nobody Wants This.",
+    "instar53807004.jpg": "Foto de Kristen Bell, atriz que interpreta Joanne em Nobody Wants This.",
+    "instar49386873-1.jpg": "Foto de Adam Brody, ator que interpreta Noah em Nobody Wants This."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Nobody Wants This: A Comédia Romântica Perfeita dos Anos 2000 na Netflix",
+    "_yoast_wpseo_metadesc": "Reviva o charme das comédias românticas dos anos 2000 com Nobody Wants This, série da Netflix estrelada por Kristen Bell e Adam Brody. Ideal para maratonar!",
+    "_yoast_wpseo_focuskw": "Nobody Wants This Netflix",
+    "_yoast_news_keywords": "Nobody Wants This, Netflix, Kristen Bell, Adam Brody, Comédia Romântica, Séries 2024, Séries 2025, Binge-watching",
+    "_yoast_wpseo_opengraph-title": "Nobody Wants This: A Comédia Romântica Perfeita dos Anos 2000 na Netflix",
+    "_yoast_wpseo_opengraph-description": "Se você sente falta das comédias românticas dos anos 2000, a Netflix tem a opção ideal para um fim de semana de maratona: a série Nobody Wants This.",
+    "_yoast_wpseo_twitter-title": "Nobody Wants This: A Comédia Romântica Perfeita dos Anos 2000 na Netflix",
+    "_yoast_wpseo_twitter-description": "Descubra Nobody Wants This, a série da Netflix que revive as melhores comédias românticas dos anos 2000 com Kristen Bell e Adam Brody. Perfeita para maratonar!"
+  }
+}

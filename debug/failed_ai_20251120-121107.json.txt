@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "All Creatures Great and Small ganha mais duas temporadas na PBS",
+      "conteudo_final": "<p>Os fãs da aclamada série britânica <strong><em>All Creatures Great and Small</em></strong> já têm motivos para comemorar o fim de 2025. Ahead of the premiere of its sixth season on <a href=\"https://www.maquinanerd.com.br/tag/pbs-masterpiece\">PBS Masterpiece</a>, marcada para 11 de janeiro de 2026, a série foi oficialmente renovada para as temporadas 7 e 8. A notícia confirma a continuidade do drama aconchegante ambientado nos pitorescos Yorkshire Dales, cenário que cativa milhões de espectadores desde 2020.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/DspUGhK7Eqg\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer oficial de All Creatures Great and Small.</figcaption></figure><p>A dupla renovação chega poucas semanas após o ator <strong>Callum Woodhouse</strong>, intérprete de Tristan, sugerir que a série poderia, um dia, se tornar um longa-metragem. Para uma obra ambientada no passado, o futuro se mostra promissor.</p><p>Em comunicado, <strong>Susanne Simpson</strong>, Head of Scripted Content e produtora executiva da Masterpiece, expressou sua satisfação:</p><blockquote><p>\"<em>All Creatures Great and Small</em> conquistou o coração do público americano e é uma de nossas séries mais assistidas na Masterpiece. Estou empolgada em trazer mais temporadas de calor, esperança e humor que tornam esta série tão especial para a Masterpiece PBS.\"</p></blockquote><h2 id=\"qual-o-enredo-da-6a-temporada-de-all-creatures-great-and-small\">Qual o enredo da 6ª temporada de All Creatures Great and Small?</h2><p>Antes de mergulharmos nas temporadas 7 e 8, a 6ª temporada de <em>All Creatures Great and Small</em> promete continuar encantando. A nova temporada "traz o público de volta aos belos Yorkshire Dales para mais contos emocionantes de humanos e animais", com a narrativa avançando para 1945. Os anos anteriores dispersaram a equipe, com James e Helen em Heston Grange, Tristan servindo no exterior, Sra. Hall ausente e Siegfried lutando para lidar sozinho com Skeldale. Eles se reúnem enquanto a guerra na Europa chega ao fim, vislumbrando um futuro de paz. A série mantém seu característico calor reconfortante, humor e senso de comunidade, juntamente com uma série de animais, grandes e pequenos.</p><p><em>All Creatures Great and Small </em>foi renovada para as temporadas 7 e 8. A 6ª temporada estreia domingo, 11 de janeiro de 2026, às 21h (horário de Brasília) na PBS.</p>",
+      "meta_description": "All Creatures Great and Small é renovada para as temporadas 7 e 8. A 6ª temporada estreia em janeiro de 2026 na PBS Masterpiece com mais histórias em Yorkshire.",
+      "focus_keyphrase": "All Creatures Great and Small renovada",
+      "related_keyphrases": [
+        "All Creatures Great and Small temporadas 7 e 8",
+        "All Creatures Great and Small PBS Masterpiece",
+        "All Creatures Great and Small nova temporada"
+      ],
+      "slug": "all-creatures-great-and-small-renovada",
+      "categorias": [
+        {
+          "nome": "All Creatures Great and Small",
+          "grupo": "obras",
+          "evidence": "All Creatures Great and Small"
+        },
+        {
+          "nome": "PBS Masterpiece",
+          "grupo": "plataformas",
+          "evidence": "PBS Masterpiece"
+        }
+      ],
+      "tags_sugeridas": [
+        "All Creatures Great and Small",
+        "PBS Masterpiece",
+        "Renovação de série",
+        "Yorkshire Dales",
+        "Drama britânico",
+        "Temporada 6",
+        "Callum Woodhouse"
+      ],
+      "image_alt_texts": {
+        "DspUGhK7Eqg": "Trailer oficial de All Creatures Great and Small."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "All Creatures Great and Small ganha mais duas temporadas na PBS",
+        "_yoast_wpseo_metadesc": "All Creatures Great and Small é renovada para as temporadas 7 e 8. A 6ª temporada estreia em janeiro de 2026 na PBS Masterpiece com mais histórias em Yorkshire.",
+        "_yoast_wpseo_focuskw": "All Creatures Great and Small renovada",
+        "_yoast_news_keywords": "All Creatures Great and Small, PBS Masterpiece, Renovação de série, Yorkshire, Drama britânico, Temporada 6, Callum Woodhouse",
+        "_yoast_wpseo_opengraph-title": "All Creatures Great and Small ganha mais duas temporadas na PBS",
+        "_yoast_wpseo_opengraph-description": "All Creatures Great and Small é renovada para as temporadas 7 e 8. A 6ª temporada estreia em janeiro de 2026 na PBS Masterpiece com mais histórias em Yorkshire.",
+        "_yoast_wpseo_twitter-title": "All Creatures Great and Small ganha mais duas temporadas na PBS",
+        "_yoast_wpseo_twitter-description": "All Creatures Great and Small é renovada para as temporadas 7 e 8. A 6ª temporada estreia em janeiro de 2026 na PBS Masterpiece com mais histórias em Yorkshire."
+      }
+    }
+  ]
+}

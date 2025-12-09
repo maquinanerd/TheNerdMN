@@ -1,0 +1,111 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Vin Diesel tranquiliza fãs sobre futuro de Velozes e Furiosos após rumores",
+      "conteudo_final": "<p>A produção de <b>Fast X – Part 2</b>, o capítulo final da saga principal de Velozes e Furiosos, tem enfrentado desafios no desenvolvimento. Relatos recentes indicaram que o filme corria risco de não acontecer devido a preocupações da Universal com o orçamento proposto, que precisaria ser reduzido para cerca de US$ 200 milhões. A ausência de um roteiro finalizado para a sequência também adicionou incertezas sobre o futuro da franquia. No entanto, Vin Diesel, estrela da saga, tem se empenhado em acalmar os fãs.</p><h2>Vin Diesel e Universal buscam viabilizar Fast X – Part 2</h2><p>Vin Diesel compartilhou em suas redes sociais fotos e um vídeo de um encontro com Michael Moses, executivo de marketing da Universal. Nas imagens, Diesel aparece com uma camiseta indicando a produção de \"Fast X Part 2 Los Angeles Production 2025\", enquanto Moses expressa otimismo sobre o planejamento. Este encontro sugere que ambas as partes seguem interessadas em chegar a um acordo para viabilizar a produção do filme.</p><p>Embora uma data oficial de início de produção ou lançamento ainda não tenha sido confirmada, a iniciativa de Diesel em se reunir com executivos da Universal é um sinal positivo. A especulação sobre dificuldades nos bastidores indicava um distanciamento entre a equipe criativa e o estúdio. Contudo, o cancelamento completo de <b>Fast X – Part 2</b> seria um cenário improvável, dada a importância da franquia para a Universal. Apesar de alguns questionamentos sobre o frescor da série nos últimos anos, ela continua sendo um dos pilares do estúdio, com um considerável investimento financeiro em jogo.</p><p>A camiseta de Diesel sugere uma esperança de início de filmagens ainda em 2025. Contudo, com o tempo se esgotando para o fim do ano, pode ser um objetivo desafiador. A Universal ainda precisa aprovar o roteiro, e alguns obstáculos permanecem. O orçamento mais recente divulgado para <b>Fast X – Part 2</b> é de US$ 250 milhões, o que significa que cerca de US$ 50 milhões precisam ser cortados antes que o estúdio avance. A equipe criativa avalia opções para reduzir custos, como limitar locações e o número de personagens secundários.</p><p>Apesar das palavras de Moses sobre a resolução dos problemas, é realista pensar que ainda há trabalho a ser feito em <b>Fast X – Part 2</b>. Esta pode ter sido apenas uma das reuniões de Diesel com a cúpula da Universal. Em fases anteriores do desenvolvimento, Diesel já havia mencionado que demandas conflitantes do estúdio poderiam estar atrasando o projeto. Na época, a Universal pressionava por uma estreia em 2026, para coincidir com o 25º aniversário da franquia, e a Comcast, empresa-mãe da Universal, cogitava um final em duas partes. Mudanças podem ter ocorrido desde então, mas uma única reunião pode não ser suficiente para resolver todas as pendências, especialmente a aprovação do roteiro pelos executivos.</p><p>Se as discussões entre Diesel e Moses foram produtivas, espera-se que os próximos passos ocorram rapidamente. A Universal certamente prefere lançar o filme o quanto antes, mas a exigência em relação ao orçamento é compreensível, considerando as mudanças nos hábitos do público e o desempenho recente de Velozes e Furiosos nas bilheterias. Alcançar a janela de estreia planejada para 2026 parece irrealista agora, sendo mais prudente evitar maiores atrasos.</p>",
+      "meta_description": "Vin Diesel tranquiliza fãs sobre o futuro de Velozes e Furiosos após rumores de cancelamento de Fast X - Part 2. Saiba os detalhes.",
+      "focus_keyphrase": "Vin Diesel Velozes e Furiosos",
+      "related_keyphrases": [
+        "Fast X - Part 2",
+        "Universal Pictures",
+        "Produção de cinema"
+      ],
+      "slug": "vin-diesel-velozes-furiosos-futuro",
+      "categorias": [
+        {
+          "nome": "Velozes e Furiosos",
+          "grupo": "franquias",
+          "evidence": "Fast X – Part 2, the planned conclusion to the mainline Fast & Furious saga"
+        }
+      ],
+      "tags_sugeridas": [
+        "Velozes e Furiosos",
+        "Vin Diesel",
+        "Universal Pictures",
+        "Fast X - Part 2",
+        "Cinema"
+      ],
+      "image_alt_texts": {
+        "Alan-Cumming-blue-as-Nightcrawler-in-X2-X-Men-United.jpg?w=300": "Vin Diesel em reunião com executivos da Universal discutindo futuro de Velozes e Furiosos",
+        "Army-in-Dune-Part-Two.jpg?w=300": "Vin Diesel em reunião com executivos da Universal discutindo futuro de Velozes e Furiosos",
+        "Battlestar-Galactica-33.jpg?w=300": "Vin Diesel em reunião com executivos da Universal discutindo futuro de Velozes e Furiosos",
+        "Star-Cops.jpg?w=300": "Vin Diesel em reunião com executivos da Universal discutindo futuro de Velozes e Furiosos",
+        "p-s-5-p-r-o.png?w=300": "Vin Diesel em reunião com executivos da Universal discutindo futuro de Velozes e Furiosos",
+        "p-s-5_aed69f.png?w=300": "Vin Diesel em reunião com executivos da Universal discutindo futuro de Velozes e Furiosos",
+        "prime-video-our-fault-culpa-nuestra_786c1f.jpg?w=300": "Vin Diesel em reunião com executivos da Universal discutindo futuro de Velozes e Furiosos",
+        "sunshine.jpg?w=300": "Vin Diesel em reunião com executivos da Universal discutindo futuro de Velozes e Furiosos"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Vin Diesel sobre Velozes e Furiosos: \"Estamos resolvendo tudo\" | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Vin Diesel tranquiliza fãs sobre o futuro de Velozes e Furiosos após rumores de cancelamento de Fast X - Part 2. Saiba os detalhes.",
+        "_yoast_wpseo_focuskw": "Vin Diesel Velozes e Furiosos",
+        "_yoast_news_keywords": "Vin Diesel, Velozes e Furiosos, Fast X - Part 2, Universal Pictures, Cinema",
+        "_yoast_wpseo_opengraph-title": "Vin Diesel sobre Velozes e Furiosos: \"Estamos resolvendo tudo\"",
+        "_yoast_wpseo_opengraph-description": "Vin Diesel tranquiliza fãs sobre o futuro de Velozes e Furiosos após rumores de cancelamento de Fast X - Part 2. Saiba os detalhes.",
+        "_yoast_wpseo_twitter-title": "Vin Diesel sobre Velozes e Furiosos: \"Estamos resolvendo tudo\"",
+        "_yoast_wpseo_twitter-description": "Vin Diesel tranquiliza fãs sobre o futuro de Velozes e Furiosos após rumores de cancelamento de Fast X - Part 2. Saiba os detalhes."
+      }
+    },
+    {
+      "titulo_final": "Kang no MCU: 7 Atores que Podem Substituir Jonathan Majors",
+      "conteudo_final": "<p>Após a saída de Jonathan Majors do <b>Marvel Cinematic Universe</b> devido a condenações por assédio e agressão, o futuro de Kang, o Conquistador, no MCU se tornou incerto. Majors, que interpretou variantes de Kang desde 2021, foi demitido pela Marvel Studios em dezembro de 2023. Com a iminente \"redefinição\" do universo após <b>Avengers: Secret Wars</b>, a possibilidade de um novo ator assumir o papel de Kang surge como uma oportunidade para o estúdio.</p><h2>Doctor Doom substitui Kang em Vingadores: Guerras Secretas</h2><p>Embora muitos fãs desejassem uma substituição rápida de Kang, a Marvel Studios optou por substituí-lo por <b>Doctor Doom</b> em <i>Avengers: Secret Wars</i>. A dificuldade em recasting o personagem reside no fato de que Majors interpretou todas as variantes de Kang. No entanto, a porta permanece aberta para o retorno do vilão em futuras produções do MCU, especialmente após a grande reconfiguração que <i>Secret Wars</i> promete. Diversos atores talentosos poderiam assumir o papel do antagonista multiversal.</p><h2>7) John Boyega</h2><p>O ator britânico John Boyega, conhecido por seu papel como Finn na trilogia sequela de Star Wars, é um nome frequentemente citado por fãs para o papel de Kang. Sua habilidade de atuação e presença física o tornam uma escolha popular. No entanto, Boyega tem negado veementemente o interesse na personagem. Recentemente, ele impressionou em filmes como \"A Mulher Rei\" e \"Eles Clonaram Tyrone\", mas parece não estar inclinado a ingressar em mais uma franquia de super-heróis.</p><h2>6) Corey Hawkins</h2><p>Corey Hawkins, após seu misterioso desaparecimento de The Walking Dead, tem construído uma sólida carreira com atuações em \"Infiltrado na Klan\", \"A Tragédia de Macbeth\" e \"A Cor Púrpura\". Sua versatilidade seria um trunfo para interpretar as diversas variantes de Kang. Hawkins já possui conexões com a Marvel por um papel não creditado em \"Homem de Ferro 3\", o que poderia facilitar sua entrada no MCU como o novo Kang.</p><h2>5) David Oyelowo</h2><p>David Oyelowo é reconhecido por sua capacidade de dar vida a personagens complexos e formidáveis. Ele seria ideal para assumir o papel de Kang, trazendo uma teatralidade e carisma que poucos atores poderiam igualar, especialmente com sua experiência no teatro. Aclamado por papéis em \"Selma\", \"Lincoln\" e \"Silo\", sua atuação em \"Lawmen: Bass Reeves\" demonstrou sua aptidão para personagens poderosos e imponentes, características essenciais para Kang.</p><h2>4) John David Washington</h2><p>Com Denzel Washington prestes a ingressar no MCU em um futuro projeto de Ryan Coogler, seria interessante ver seu filho, John David Washington, também ganhar destaque na franquia. Após performances notáveis em \"Infiltrado na Klan\", \"Tenet\" e \"Resistência\", Washington é um favorito dos fãs para o papel de Kang. Sua presença de tela, carisma, dramaticidade e versatilidade o tornam uma escolha fantástica para o vilão multiversal.</p><h2>3) Ray Fisher</h2><p>Ray Fisher, que teve uma experiência desafiadora em \"Liga da Justiça\" no DC Extended Universe, poderia buscar redenção em uma franquia de super-heróis ao se juntar ao MCU como uma nova iteração de Kang. O papel de Cyborg em seu longa de estreia provou sua capacidade de interpretar personagens complexos e poderosos. Suas atuações recentes em \"The Piano Lesson\" e \"True Detective\" consolidam Fisher como um dos melhores de sua geração.</p><h2>2) Caleb McLaughlin</h2><p>Com o fim de Stranger Things se aproximando, o elenco da série da Netflix pode buscar novos caminhos. Caleb McLaughlin, o mais jovem desta lista, seria uma escolha inspirada para dar vida a uma versão mais jovem de Kang, talvez até mesmo como <b>Iron Lad</b>, um dos fundadores dos Jovens Vingadores nos quadrinhos. Após diversos trabalhos de dublagem, McLaughlin está pronto para um novo papel de destaque em live-action após a temporada final de Stranger Things.</p><h2>1) Trevante Rhodes</h2><p>Após seu papel de destaque em \"Moonlight\", Trevante Rhodes tem se consolidado em papéis potentes e complexos em filmes como \"12 Heróis\", \"Bird Box\" e \"The United States vs. Billie Holiday\". Ainda sem incursões em franquias de super-heróis, Rhodes possui o físico, a presença de tela e a energia necessários para assumir um vilão formidável como Kang. A escalação de Rhodes seria uma excelente forma de trazer o personagem de volta ao MCU após <i>Avengers: Secret Wars</i>.</p>",
+      "meta_description": "Jonathan Majors foi demitido da Marvel e Kang pode ser recasted. Conheça 7 atores que seriam perfeitos para o vilão no MCU.",
+      "focus_keyphrase": "Recasting Kang MCU",
+      "related_keyphrases": [
+        "Kang o Conquistador",
+        "Marvel Studios",
+        "Avengers: Secret Wars",
+        "Jonathan Majors"
+      ],
+      "slug": "recasting-kang-mcu-atores",
+      "categorias": [
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "The Marvel Cinematic Universe is heading towards a “reset” after Avengers: Secret Wars"
+        },
+        {
+          "nome": "Avengers: Secret Wars",
+          "grupo": "obras",
+          "evidence": "after Avengers: Secret Wars, which creates the opportunity for Kang the Conqueror to officially be recast"
+        }
+      ],
+      "tags_sugeridas": [
+        "Kang",
+        "MCU",
+        "Marvel Studios",
+        "Jonathan Majors",
+        "Avengers: Secret Wars",
+        "Doctor Doom",
+        "Recasting"
+      ],
+      "image_alt_texts": {
+        "Alan-Cumming-blue-as-Nightcrawler-in-X2-X-Men-United.jpg?w=300": "Actor John Boyega em cena de filme, potencial candidato a Kang no MCU",
+        "Army-in-Dune-Part-Two.jpg?w=300": "Actor Corey Hawkins em cena de filme, potencial candidato a Kang no MCU",
+        "Battlestar-Galactica-33.jpg?w=300": "Actor David Oyelowo em cena de filme, potencial candidato a Kang no MCU",
+        "Caleb-McLaughlin-in-Stranger-Things.jpg?w=1024": "Actor Caleb McLaughlin em cena de Stranger Things, potencial candidato a Kang no MCU",
+        "Corey-Hawkins-in-The-Color-Purple.jpg?w=1024": "Actor Corey Hawkins em cena de filme, potencial candidato a Kang no MCU",
+        "David-Oyelowo-in-The-Cloverfield-Paradox.jpg?w=1024": "Actor David Oyelowo em cena de filme, potencial candidato a Kang no MCU",
+        "John-Boyega-in-The-Woman-King.jpg?w=1024": "Actor John Boyega em cena de filme, potencial candidato a Kang no MCU",
+        "John-David-Washington-in-Tenet.jpg?w=1024": "Actor John David Washington em cena de filme, potencial candidato a Kang no MCU",
+        "Ray-Fisher-in-The-Piano-Lesson.jpg?w=1024": "Actor Ray Fisher em cena de filme, potencial candidato a Kang no MCU",
+        "Star-Cops.jpg?w=300": "Actor John David Washington em cena de filme, potencial candidato a Kang no MCU",
+        "Trevante-Rhodes-in-Moonlight.jpg?w=1024": "Actor Trevante Rhodes em cena de filme, potencial candidato a Kang no MCU",
+        "p-s-5-p-r-o.png?w=300": "Actor Caleb McLaughlin em cena de filme, potencial candidato a Kang no MCU",
+        "p-s-5_aed69f.png?w=300": "Actor Ray Fisher em cena de filme, potencial candidato a Kang no MCU",
+        "prime-video-our-fault-culpa-nuestra_786c1f.jpg?w=300": "Actor David Oyelowo em cena de filme, potencial candidato a Kang no MCU",
+        "sunshine.jpg?w=300": "Actor Trevante Rhodes em cena de filme, potencial candidato a Kang no MCU"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Kang no MCU: 7 Atores Perfeitos para Substituir Jonathan Majors | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Jonathan Majors foi demitido da Marvel e Kang pode ser recasted. Conheça 7 atores que seriam perfeitos para o vilão no MCU.",
+        "_yoast_wpseo_focuskw": "Recasting Kang MCU",
+        "_yoast_news_keywords": "Kang, MCU, Marvel Studios, Jonathan Majors, Avengers: Secret Wars, Doctor Doom, Recasting, John Boyega, Corey Hawkins, David Oyelowo, John David Washington, Ray Fisher, Caleb McLaughlin, Trevante Rhodes",
+        "_yoast_wpseo_opengraph-title": "Kang no MCU: 7 Atores Perfeitos para Substituir Jonathan Majors",
+        "_yoast_wpseo_opengraph-description": "Jonathan Majors foi demitido da Marvel e Kang pode ser recasted. Conheça 7 atores que seriam perfeitos para o vilão no MCU.",
+        "_yoast_wpseo_twitter-title": "Kang no MCU: 7 Atores Perfeitos para Substituir Jonathan Majors",
+        "_yoast_wpseo_twitter-description": "Jonathan Majors foi demitido da Marvel e Kang pode ser recasted. Conheça 7 atores que seriam perfeitos para o vilão no MCU."
+      }
+    }
+  ]
+}

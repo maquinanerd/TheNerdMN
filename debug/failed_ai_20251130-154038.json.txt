@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Jodie Foster defende que Killers of the Flower Moon seria melhor como série",
+  "conteudo_final": "<p>Jodie Foster argumenta que <b><i>Assassinos da Lua das Flores</i></b>, de Martin Scorsese, funcionaria melhor como uma série de streaming. O filme adapta a história real de membros da tribo Osage sendo assassinados após a descoberta de petróleo em suas terras. Com 93% de aprovação no Rotten Tomatoes, as críticas de <i>Killers of the Flower Moon</i> foram esmagadoramente positivas.</p><h2>O formato de streaming e a narrativa</h2><p>No Festival Internacional de Cinema de Marrakech, onde recebeu o Prêmio de Homenagem, Foster falou sobre como, após trabalhar em <i>True Detective</i> temporada 4, ela percebe os benefícios das séries de streaming mais do que nunca. Ela acredita que o streaming oferece vantagens significativas sobre o cinema atualmente, especialmente para a mídia mainstream nos EUA.</p><p>\"O streaming consegue fazer coisas que não conseguimos mais em filmes tradicionais mainstream. A narrativa real agora nos Estados Unidos está no streaming. Grandes filmes de super-heróis de franquia são o que você vê nos cinemas, mas a narrativa real está no streaming\", comentou Foster.</p><p>Ela destacou que o formato permite contar histórias de oito horas ou de cinco temporadas, explorando cada ângulo de uma forma impossível em um longa-metragem. \"Eu amo a liberdade disso\", acrescentou.</p><h2>Foco nos personagens e na história Osage</h2><p>Foster continuou, ressaltando que <i>Killers of the Flower Moon</i> seria um exemplo de filme mais adequado para uma minissérie de oito horas. Ela focou especificamente em como o formato de streaming poderia ter evitado que a história fosse dominada pelos personagens de Leonardo DiCaprio e Robert De Niro, Ernest Burkhat e William King Hale, e dado mais atenção aos personagens indígenas antes de seu trágico fim.</p><p>\"Ele queria explorar a experiência da América Nativa naquela época, e o que tínhamos era um filme interessante sobre dois caras que vão e voltam e conversam um com o outro\", disse Foster.</p><p>Ela observou que, embora houvesse empolgação em contar a história nativa, o resultado foi que \"todas as mulheres nativas estão mortas\". Foster lamentou que, apesar de haver tempo, uma série limitada de oito horas poderia ter explorado mais a fundo a história, incluindo a masculinidade tóxica, e dedicado episódios inteiros à narrativa indígena.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/lily-gladstone-killers_of_the_flower_moon.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/lily-gladstone-killers_of_the_flower_moon.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1" media="(max-width: 767px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/lily-gladstone-killers_of_the_flower_moon.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)"/><img alt="Lily Gladstone como Mollie Burkhart sorrindo em Killers of the Flower Moon" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/lily-gladstone-killers_of_the_flower_moon.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" height="413" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/lily-gladstone-killers_of_the_flower_moon.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" width="825"/></picture><figcaption>Lily Gladstone como Mollie Burkhart em <i>Killers of the Flower Moon</i>.</figcaption></figure><h2>Scorsese e o futuro do cinema</h2><p>Foster, que trabalhou com Scorsese anteriormente em <b><i>Taxi Driver</i></b> (1976), deixou claro que não estava criticando o cineasta, mas usando <i>Killers of the Flower Moon</i> para discutir questões mais amplas na indústria cinematográfica. Ela enfatizou seu desejo de que Scorsese faça mais trabalhos como a série dramática <i>Vinyl</i> (2016) e que ele e outros cineastas abracem mais o streaming.</p><p>\"Mal posso esperar até que ele abrace isso ainda mais, porque ele tem muito a oferecer. Muitos cineastas têm muito a oferecer, mas eles têm essa ideia de, 'Ah, espere, eu só quero fazer um longa, mas não quero fazer um longa de uma hora e 45 minutos, quero fazer um longa de cinco horas'. Você pensa, espere, por que estamos fazendo isso no cinema?\", questionou.</p><p>O debate sobre se o filme de Martin Scorsese teria funcionado melhor como uma série de streaming é subjetivo, mas Foster apresenta um argumento convincente que se alinha com algumas das críticas mais proeminentes ao filme. Vários críticos apontaram o tempo de execução de aproximadamente três horas e meia do filme e desejaram um foco maior na personagem de Lily Gladstone, Mollie Kyle.</p><p>No início do festival, Scorsese enviou uma mensagem de vídeo surpresa a Foster parabenizando-a por sua conquista, expressando que desejava poder estar lá e relembrando o \"poder\" que ela tinha desde jovem.</p><p>Foster e Scorsese mantêm um forte vínculo desde a colaboração em <i>Taxi Driver</i> décadas atrás, mas isso não significa que eles sempre compartilham as mesmas opiniões. Como visto com <i>Killers of the Flower Moon</i>, Scorsese continua a defender os filmes e a experiência teatral, enquanto Foster vê o streaming como o melhor caminho a seguir, à medida que ambos os artistas prolíficos navegam pela indústria do entretenimento em constante evolução.</p>",
+  "meta_description": "Jodie Foster sugere que 'Killers of the Flower Moon' de Scorsese seria melhor como série de streaming, focando na narrativa e personagens Osage.",
+  "focus_keyphrase": "Killers of the Flower Moon série streaming",
+  "related_keyphrases": [
+    "Jodie Foster Martin Scorsese",
+    "Assassinos da Lua das Flores formato",
+    "Streaming vs Cinema"
+  ],
+  "slug": "jodie-foster-killers-flower-moon-serie",
+  "categorias": [
+    {
+      "nome": "Killers of the Flower Moon",
+      "grupo": "obras",
+      "evidence": "Martin Scorsese’s 93% RT Movie Should’ve Been A Streaming Series, Says Jodie Foster"
+    },
+    {
+      "nome": "Jodie Foster",
+      "grupo": "atores",
+      "evidence": "Jodie Foster argues that Martin Scorsese's"
+    },
+    {
+      "nome": "Martin Scorsese",
+      "grupo": "diretores",
+      "evidence": "Martin Scorsese’s 93% RT Movie"
+    }
+  ],
+  "tags_sugeridas": [
+    "Killers of the Flower Moon",
+    "Jodie Foster",
+    "Martin Scorsese",
+    "Streaming",
+    "Cinema",
+    "Osage",
+    "True Detective"
+  ],
+  "image_alt_texts": {
+    "lily-gladstone-killers_of_the_flower_moon.jpg": "Lily Gladstone como Mollie Burkhart sorrindo em Killers of the Flower Moon, destacando a importância da personagem."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Jodie Foster defende que Killers of the Flower Moon seria melhor como série",
+    "_yoast_wpseo_metadesc": "Jodie Foster sugere que 'Killers of the Flower Moon' de Scorsese seria melhor como série de streaming, focando na narrativa e personagens Osage.",
+    "_yoast_wpseo_focuskw": "Killers of the Flower Moon série streaming",
+    "_yoast_news_keywords": "Killers of the Flower Moon, Jodie Foster, Martin Scorsese, Streaming, Cinema, Osage, True Detective, Assassinos da Lua das Flores",
+    "_yoast_wpseo_opengraph-title": "Jodie Foster defende que Killers of the Flower Moon seria melhor como série",
+    "_yoast_wpseo_opengraph-description": "Jodie Foster sugere que 'Killers of the Flower Moon' de Scorsese seria melhor como série de streaming, focando na narrativa e personagens Osage.",
+    "_yoast_wpseo_twitter-title": "Jodie Foster defende que Killers of the Flower Moon seria melhor como série",
+    "_yoast_wpseo_twitter-description": "Jodie Foster sugere que 'Killers of the Flower Moon' de Scorsese seria melhor como série de streaming, focando na narrativa e personagens Osage."
+  }
+}

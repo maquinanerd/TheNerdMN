@@ -1,0 +1,89 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Marvel: Channing Tatum prevê Vingadores: Doomsday como o maior filme da década",
+      "conteudo_final": "<p>O Universo Cinematográfico Marvel (MCU) está mais perto do que nunca de trazer de volta os Heróis Mais Poderosos da Terra. <strong><em>Vingadores: Doomsday</em></strong>, previsto para 2026, promete reunir a icônica equipe para enfrentar a maior ameaça ao multiverso.</p><p>Em uma nova entrevista ao <em>Deadline</em>, Channing Tatum, que retorna como Gambit em <em>Vingadores: Doomsday</em>, compartilhou suas expectativas para o filme. O astro do MCU declarou: <strong>\"Todo mundo no mundo vai ver este filme.\"</strong> Ele acrescentou: <strong>\"É difícil dizer isso, porque, quero dizer, você ouve essas coisas e pensa, 'Claro'. Mas eles se superaram a cada vez.\"</strong></p><p>Segundo Tatum, <strong>\"Este será o maior filme do próximo ano e talvez até dos próximos 10 anos.\"</strong> O ator enfatizou que <strong>\"o escopo, o que eles estão tentando fazer, o que os Irmãos Russo criaram – quando li, pensei: 'Como eles vão fazer isso?'\"</strong>. <em>Vingadores: Doomsday</em> marcará o retorno de Anthony e Joe Russo desde que concluíram <em>Vingadores: Ultimato</em>.</p><p>Tatum finalizou sua resposta provocando as grandes cenas de ação que realizou para a produção de 2026. De acordo com o ator, <strong>\"Foi um Everest a escalar. Ainda estou maravilhado. Eu faço muita ação neste filme, mas isso foi apenas uma pequena parte.\"</strong></p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/gambit-looking-up-in-deadpool-wolverine-jpg.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)"/><img alt="Channing Tatum como Gambit olhando para o céu em Deadpool e Wolverine" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/gambit-looking-up-in-deadpool-wolverine-jpg.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/gambit-looking-up-in-deadpool-wolverine-jpg.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/></picture><figcaption>Channing Tatum como Gambit em uma cena que pode indicar sua participação em futuros filmes do MCU.</figcaption></figure><p>O Gambit de Tatum não é o único herói dos X-Men presente em <strong><em>Vingadores: Doomsday</em></strong>, <strong>já que várias estrelas originais da era Fox-Marvel reprisarão seus papéis</strong>. Sir Patrick Stewart e Sir Ian McKellen, que deram vida a Professor X e Magneto no início dos anos 2000, estarão reunidos.</p><p>O primeiro trailer de <strong><em>Vingadores: Doomsday</em></strong> será divulgado mundialmente em dezembro de 2025, <strong>o que idealmente destacará parte do escopo que Tatum está antecipando em sua última entrevista</strong>. As filmagens foram concluídas em 19 de setembro de 2025, e embora não esteja claro quantos atores retornarão em 2027, <strong>os Irmãos Russo dirigirão <em>Vingadores: Guerras Secretas</em></strong>.</p><p><strong>A próxima produção cinematográfica do MCU será <em>Spider-Man: Brand New Day</em></strong>, estrelada por Tom Holland, com estreia prevista para 31 de julho de 2026. A Marvel Studios agendou <strong><em>Vingadores: Doomsday</em></strong> para chegar aos cinemas em 18 de dezembro de 2026.</p>",
+      "meta_description": "Channing Tatum prevê Vingadores: Doomsday como o maior filme da década, destacando o escopo e a ação. Saiba mais sobre a produção do MCU.",
+      "focus_keyphrase": "Vingadores: Doomsday",
+      "related_keyphrases": [
+        "Channing Tatum Vingadores Doomsday",
+        "Marvel Vingadores Doomsday",
+        "Filmes do MCU 2026"
+      ],
+      "slug": "vingadores-doomsday-channing-tatum-preve-maior-filme-decada",
+      "categorias": [
+        {
+          "nome": "Vingadores: Doomsday",
+          "grupo": "franquias",
+          "evidence": "<em><strong>Vingadores: Doomsday</strong></em>"
+        },
+        {
+          "nome": "Marvel",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        }
+      ],
+      "tags_sugeridas": [
+        "Vingadores: Doomsday",
+        "Channing Tatum",
+        "Marvel Studios",
+        "MCU",
+        "Irmãos Russo"
+      ],
+      "image_alt_texts": {
+        "gambit-looking-up-in-deadpool-wolverine-jpg.jpg": "Channing Tatum como Gambit em uma cena que pode indicar sua participação em futuros filmes do MCU."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Marvel: Channing Tatum prevê Vingadores: Doomsday como o maior filme da década",
+        "_yoast_wpseo_metadesc": "Channing Tatum prevê Vingadores: Doomsday como o maior filme da década, destacando o escopo e a ação. Saiba mais sobre a produção do MCU.",
+        "_yoast_wpseo_focuskw": "Vingadores: Doomsday",
+        "_yoast_news_keywords": "Vingadores: Doomsday, Channing Tatum, Marvel Studios, MCU, Irmãos Russo, Vingadores Doomsday",
+        "_yoast_wpseo_opengraph-title": "Marvel: Channing Tatum prevê Vingadores: Doomsday como o maior filme da década",
+        "_yoast_wpseo_opengraph-description": "Channing Tatum prevê Vingadores: Doomsday como o maior filme da década, destacando o escopo e a ação. Saiba mais sobre a produção do MCU.",
+        "_yoast_wpseo_twitter-title": "Marvel: Channing Tatum prevê Vingadores: Doomsday como o maior filme da década",
+        "_yoast_wpseo_twitter-description": "Channing Tatum prevê Vingadores: Doomsday como o maior filme da década, destacando o escopo e a ação. Saiba mais sobre a produção do MCU."
+      }
+    },
+    {
+      "titulo_final": "Mercenários 5: Franquia precisa matar personagens para sobreviver",
+      "conteudo_final": "<p>Parece que <strong><em>Mercenários 5</em></strong> realmente acontecerá, mas para funcionar, o filme precisará quebrar a maior regra da franquia de Sylvester Stallone. Após dois de seus filmes recentes receberem 0% no Rotten Tomatoes, Stallone poderia se beneficiar do retorno às suas grandes franquias.</p><p>Infelizmente, ele não tem muitas opções. Stallone rejeitou qualquer retorno como Rocky nos filmes de <em>Creed</em> e saiu do reboot de <em>Cliffhanger</em>. Da mesma forma, o próximo <em>Rambo</em> será uma prequela detalhando o tempo do personagem titular no Vietnã, com Noah Centineo herdando o papel.</p><p>Isso deixa apenas a franquia <strong><em>Mercenários</em></strong>, e seu envolvimento em futuras sequências não é uma certeza. <strong><em>Mercenários 4</em> foi um fracasso crítico e comercial</strong>, mal recuperando metade de seu orçamento estimado de US$ 100 milhões (via <em>Box Office Mojo</em>), e o quarto filme também tentou substituir o líder da equipe de Sly, Barney, por Christmas, de Jason Statham.</p><p>Apesar da recepção universalmente negativa do quarto filme, a franquia arrecadou mais de US$ 850 milhões até agora. É por isso que <strong>a Lionsgate adquiriu recentemente os direitos de <em>Rambo</em> e <em>Mercenários</em>, tornando uma nova sequência do último uma quase certeza</strong>.</p><h2>Mercenários 5 deve matar a maioria dos personagens originais</h2><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/10/the-poster-for-the-expendables-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="O pôster de Mercenários 2." data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/10/the-poster-for-the-expendables-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/10/the-poster-for-the-expendables-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>O pôster de Mercenários 2, mostrando o elenco original.</figcaption></figure><p>Dado o fracasso de <em>Mercenários 3</em> e <em>4</em>, a propriedade poderia usar uma reformulação completa. Uma maneira clara de sinalizar isso seria trazer um novo grupo de personagens e realmente cumprir a premissa matando alguns dos membros do elenco original.</p><p>Este é um movimento que a série tem evitado bizarramente desde seu início em 2010. Até agora, <strong>Billy the Kid, de Liam Hemsworth, é o único Mercenário a ser \"expendado\" até o momento</strong>. Gunner, de Dolph Lundgren, ou Hale Caesar, de Terry Crews, deveriam morrer no primeiro e terceiro filmes, respectivamente, mas foram salvos por reescritas de última hora.</p><p>Isso tem prejudicado a franquia por muito tempo. Embora matar um personagem possa ser um choque barato, <strong>a falta de fatalidades em <em>Mercenários</em> é gritante</strong>. A premissa inteira é que esses veteranos endurecidos vivem para a luta, mas é difícil vender qualquer perigo genuíno se eles sempre saem com apenas um arranhão.</p><p><strong><em>Mercenários 5</em></strong> poderia ser um reboot total sem ligações com filmes anteriores, mas no mundo atual focado em propriedade intelectual, isso é improvável. <strong>A jogada inteligente para a quinta parte seria trazer de volta alguns rostos familiares enquanto introduz uma nova equipe</strong>. Se o grupo original for amplamente dizimado, esta seria uma maneira lógica de começar de novo.</p><h2>Por que Mercenários evitou matar personagens</h2><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/sylvester-stallone-as-barney-ross-in-the-expendables.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)"/><img alt="Sylvester Stallone como Barney Ross em Mercenários." data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/sylvester-stallone-as-barney-ross-in-the-expendables.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/sylvester-stallone-as-barney-ross-in-the-expendables.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/></picture><figcaption>Sylvester Stallone como Barney Ross, o líder da equipe Mercenários.</figcaption></figure><p><strong>Stallone explicou em seu documentário da Netflix, <em>Sly</em>, que ele odeia filmes que matam o protagonista</strong>, pois acredita que isso desanima o público. Em 1978, ele estrelou <em>F.I.S.T.</em>, um suspense sombrio sobre um líder sindical. O filme termina em uma nota sombria onde seu personagem é morto a tiros, embora o próprio Stallone discordasse fortemente desse movimento.</p><p>Desde então, <strong>Stallone <em>nunca</em> morreu de verdade em um filme, independentemente da história</strong>. Mesmo quando filmes como <em>Rocky V</em> ou <em>Rambo: Last Blood</em> terminariam com os personagens titulares perecendo, Stallone mudou de ideia mais tarde. É por isso que a saga <em>Mercenários</em>, com uma exceção, evitou matar seus mercenários veteranos.</p><p>Por um lado, a lógica de Stallone é compreensível, mas com <em>Mercenários</em>, isso se tornou ridículo. <strong>Esses são soldados idosos enfrentando exércitos inteiros, e após quatro filmes, é implausível que as coisas continuem dando certo para eles</strong>. <em>Mercenários 3</em> tinha cerca de 15 personagens titulares, e todos saíram sorrindo.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/10/bike-000.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)"/><img alt="Jason Statham em uma moto em Mercenários 4." data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/10/bike-000.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/10/bike-000.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/></picture><figcaption>Jason Statham como Christmas em Mercenários 4.</figcaption></figure><p><strong>A quinta parte precisa estabelecer que o trabalho da equipe é realmente perigoso</strong>.</p><h2>Após os últimos dois filmes, Mercenários 5 precisa ser algo muito diferente</h2><p>Assumindo que os próximos <em>Mercenários</em> se afastem da mão orientadora de Stallone, <em>precisam</em> tentar algo novo. A série parecia cansada e previsível com a quarta produção, e novo sangue precisa ser injetado para mantê-la relevante.</p><p>A Lionsgate é o lar de franquias como <em>John Wick</em>, então é um bom lugar para os próximos <em>Mercenários</em>. Pensando em uma nova escalação para a equipe, <strong>seria bom ver o próprio Sr. Wick, Keanu Reeves, juntando-se, ao lado de outros potenciais como Charlize Theron, Gerard Butler ou até mesmo Dwayne Johnson</strong>.</p><p>Mais do que tudo, precisa ser uma equipe que empolgue tanto os fãs quanto os novatos. <strong>Seria inteligente manter um personagem original como Barney ou até mesmo Trench, de Arnold Schwarzenegger, para mentorar ou até mesmo se juntar à equipe</strong>, mas acima de tudo, <em>Mercenários 5</em> precisa sinalizar uma nova direção.</p><p>A recepção do último filme foi tóxica, enquanto o terceiro <em>Mercenários</em> também teve uma resposta morna. <strong>O quinto filme é a última chance de provar a viabilidade da franquia</strong>, então a equipe criativa precisará criar algo especial. Outras franquias estagnadas já ressurgiram das cinzas antes, então não há razão para pensar que <em><strong>Mercenários 5</strong></em> não pode agitar.</p>",
+      "meta_description": "Mercenários 5 precisa matar personagens para ter relevância. Saiba por que a franquia deve inovar e trazer novas caras para o futuro.",
+      "focus_keyphrase": "Mercenários 5",
+      "related_keyphrases": [
+        "Sylvester Stallone Mercenários",
+        "Franquia Mercenários",
+        "Próximos filmes de ação"
+      ],
+      "slug": "mercenarios-5-precisa-matar-personagens-para-sobreviver",
+      "categorias": [
+        {
+          "nome": "Mercenários",
+          "grupo": "franquias",
+          "evidence": "<em><strong>The Expendables</strong></em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Mercenários 5",
+        "Sylvester Stallone",
+        "Jason Statham",
+        "Lionsgate",
+        "Filmes de Ação"
+      ],
+      "image_alt_texts": {
+        "the-poster-for-the-expendables-2.jpg": "O pôster de Mercenários 2, mostrando o elenco original.",
+        "sylvester-stallone-as-barney-ross-in-the-expendables.jpg": "Sylvester Stallone como Barney Ross, o líder da equipe Mercenários.",
+        "bike-000.jpg": "Jason Statham como Christmas em Mercenários 4."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Mercenários 5: Franquia precisa matar personagens para sobreviver",
+        "_yoast_wpseo_metadesc": "Mercenários 5 precisa matar personagens para ter relevância. Saiba por que a franquia deve inovar e trazer novas caras para o futuro.",
+        "_yoast_wpseo_focuskw": "Mercenários 5",
+        "_yoast_news_keywords": "Mercenários 5, Sylvester Stallone, Jason Statham, Lionsgate, Filmes de Ação, Franquia Mercenários",
+        "_yoast_wpseo_opengraph-title": "Mercenários 5: Franquia precisa matar personagens para sobreviver",
+        "_yoast_wpseo_opengraph-description": "Mercenários 5 precisa matar personagens para ter relevância. Saiba por que a franquia deve inovar e trazer novas caras para o futuro.",
+        "_yoast_wpseo_twitter-title": "Mercenários 5: Franquia precisa matar personagens para sobreviver",
+        "_yoast_wpseo_twitter-description": "Mercenários 5 precisa matar personagens para ter relevância. Saiba por que a franquia deve inovar e trazer novas caras para o futuro."
+      }
+    }
+  ]
+}

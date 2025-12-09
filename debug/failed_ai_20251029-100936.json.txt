@@ -1,0 +1,64 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Adult Swim: Os 15 Melhores Programas do Bloco de TV, Ranking Completo",
+      "conteudo_final": "<p>O bloco de programação adulta do Cartoon Network, o <strong>Adult Swim</strong>, produziu séries icônicas ao longo dos anos. Esta lista classifica os 15 melhores programas originais, que exemplificam o humor surrealista, a animação de qualidade e a irreverência pela qual o canal é conhecido.</p><h2>Xavier: Renegade Angel</h2><p>Um dos maiores expoentes do humor absurdo do Adult Swim é <em>Xavier: Renegade Angel</em>. A série acompanha um xamã com características bizarras em suas jornadas para resolver problemas insólitos, com monólogos incompreensíveis e visuais psicodélicos. A animação 3D peculiar e o estilo alucinógeno tornam a experiência única, inconfundível do Adult Swim.</p>\n<figure><img alt=\"Adult Swim Quiz - xavier renegade angel\" src=\"https:
+      "meta_description": "Descubra o ranking dos 15 melhores programas do Adult Swim, o bloco icônico do Cartoon Network que marcou gerações com humor surreal e animações únicas.",
+      "focus_keyphrase": "programas do Adult Swim",
+      "related_keyphrases": [
+        "melhores séries Adult Swim",
+        "animações Adult Swim",
+        "humor surrealista Adult Swim"
+      ],
+      "slug": "adult-swim-melhores-programas-ranking",
+      "categorias": [
+        {
+          "nome": "Adult Swim",
+          "grupo": "franquias",
+          "evidence": "Cartoon Network's adult programming block, Adult Swim"
+        },
+        {
+          "nome": "Xavier: Renegade Angel",
+          "grupo": "obras",
+          "evidence": "Xavier: Renegade Angel"
+        },
+        {
+          "nome": "My Adventures with Superman",
+          "grupo": "obras",
+          "evidence": "My Adventures with Superman"
+        }
+      ],
+      "tags_sugeridas": [
+        "Adult Swim",
+        "Xavier: Renegade Angel",
+        "Mike Tyson Mysteries",
+        "My Adventures with Superman",
+        "Samurai Jack",
+        "Robot Chicken",
+        "The Venture Bros."
+      ],
+      "image_alt_texts": {
+        "Adult-Swim-Quiz-xavier-renegade-angel.jpg": "Xavier: Renegade Angel, programa de animação surrealista do Adult Swim.",
+        "Adult-Swim-Quiz-Mike-Tyson-Mysteries.jpg": "Mike Tyson Mysteries, série animada do Adult Swim com o boxeador.",
+        "my-adventures-with-superman-supergirl-new-suit-1.jpg": "Superman e Supergirl em cena da série My Adventures with Superman do Adult Swim.",
+        "Harvey-Birdman-Attorney-At-Law-Cropped.jpg": "Harvey Birdman, Attorney at Law, série animada do Adult Swim.",
+        "sf.jpg": "Personagens de Smiling Friends, série recente do Adult Swim.",
+        "jack-facing-off-against-aku-in-samurai-jack.jpg": "Samurai Jack em uma cena de ação da série do Adult Swim.",
+        "gargamel-and-guy-fieri-cheering-while-driving-a-convertible-in-robot-chicken-self-discovery-special-1.jpg": "Robot Chicken, série de esquetes do Adult Swim.",
+        "Adult-Swim-Quiz-Eric-Andre-Show.jpg": "The Eric Andre Show, talk show irreverente do Adult Swim.",
+        "space-ghost-coast-to-coast.jpg": "Space Ghost Coast to Coast, pioneiro do humor do Adult Swim.",
+        "brock-reaching-to-turn-over-hank-in-venture-bros-movie.jpg": "Cena de The Venture Bros., série de animação do Adult Swim."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Adult Swim: Os 15 Melhores Programas do Bloco de TV, Ranking Completo",
+        "_yoast_wpseo_metadesc": "Descubra o ranking dos 15 melhores programas do Adult Swim, o bloco icônico do Cartoon Network que marcou gerações com humor surreal e animações únicas.",
+        "_yoast_wpseo_focuskw": "programas do Adult Swim",
+        "_yoast_news_keywords": "Adult Swim, Xavier: Renegade Angel, Mike Tyson Mysteries, My Adventures with Superman, Harvey Birdman, Smiling Friends, Samurai Jack, Robot Chicken, The Eric Andre Show, Space Ghost Coast to Coast, The Venture Bros., animação, série de TV",
+        "_yoast_wpseo_opengraph-title": "Adult Swim: Os 15 Melhores Programas do Bloco de TV, Ranking Completo",
+        "_yoast_wpseo_opengraph-description": "Descubra o ranking dos 15 melhores programas do Adult Swim, o bloco icônico do Cartoon Network que marcou gerações com humor surreal e animações únicas.",
+        "_yoast_wpseo_twitter-title": "Adult Swim: Os 15 Melhores Programas do Bloco de TV, Ranking Completo",
+        "_yoast_wpseo_twitter-description": "Descubra o ranking dos 15 melhores programas do Adult Swim, o bloco icônico do Cartoon Network que marcou gerações com humor surreal e animações únicas."
+      }
+    }
+  ]
+}

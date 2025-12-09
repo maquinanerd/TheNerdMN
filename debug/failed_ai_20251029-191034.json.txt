@@ -1,0 +1,53 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Big Bang Theory: Os episódios de Halloween ranqueados do pior ao melhor",
+      "conteudo_final": "<p>Sheldon Cooper, de <b>The Big Bang Theory</b>, raramente seria o tipo de personagem que celebra o Halloween. Sua rigidez com horários e aversão a interrupções e barulhos o tornariam pouco propenso a distribuir doces ou usar fantasias. Surpreendentemente, Sheldon e seus amigos comemoraram o Halloween em quatro ocasiões distintas durante as 12 temporadas da série, mas nem todos os episódios foram igualmente engraçados.</p>\n<h2>Ranking dos Episódios de Halloween de The Big Bang Theory</h2>\n<h3>4) “The Good Guy Fluctuation”</h3>\n<p>Este episódio da quinta temporada apresentou duas tramas principais. Uma delas envolvia Sheldon buscando vingança contra os amigos por pregarem peças nele. Embora a trama de vingança tenha sido aceitável, não atingiu o mesmo nível de humor de episódios como “The Imitation Perturbation”, que também abordou a vingança de Sheldon por se sentir magoado. Além disso, o sub-enredo sobre Leonard beijar outra pessoa que não sua namorada na época torna “The Good Guy Fluctuation” um dos episódios mais controversos de <b>The Big Bang Theory</b>. O comportamento de Leonard pareceu fora de personagem, o que prejudicou o episódio e tornou a subtrama difícil de assistir.</p>\n<h3>3) “The Holographic Excitation”</h3>\n<p>O episódio de Halloween da sexta temporada focou principalmente em Howard. Howard é um dos personagens mais engraçados de <b>The Big Bang Theory</b>, tornando-o uma escolha forte para ser o centro de uma história especial de feriado. No entanto, neste caso específico, Howard poderia ter sido substituído por Sheldon sem alterar significativamente o episódio. A trama gira em torno de Howard alheio ao fato de seus monólogos obsessivos sobre o espaço estarem entediando a todos, uma trama típica de Sheldon. Assim, o episódio perde um pouco de força, apesar de ser divertido, pois a história já foi contada muitas vezes com Sheldon.</p>\n<h3>2) “The Middle Earth Paradigm”</h3>\n<p>“The Middle Earth Paradigm” foi a primeira tentativa de <b>The Big Bang Theory</b> em um episódio de Halloween. É uma visualização obrigatória para fãs de Leonard e Penny, pois o casal compartilha seu primeiro beijo na festa de Halloween de Penny. Isso ocorre depois que Leonard tem um desentendimento com o ex-namorado de Penny, tornando o momento ainda mais doce. Adicionalmente, “The Middle Earth Paradigm” apresenta Sheldon em seu auge e mais engraçado, usando uma fantasia de Halloween que não faz sentido para mais ninguém. Ambas as tramas destacam o humor nerd pelo qual <b>The Big Bang Theory</b> é conhecida, tornando este episódio um dos mais divertidos da série.</p>\n<h3>1) “The Imitation Perturbation”</h3>\n<p>O último episódio de Halloween da série é também o mais engraçado. Neste episódio, Howard se veste como Sheldon para o Halloween. Sua imitação de Sheldon é inacreditável e, ao mesmo tempo, magoa os sentimentos de Sheldon. Por isso, Sheldon e Amy se vestem como Howard e Bernadette. A imitação de Amy de Bernadette é particularmente engraçada por ser tão precisa. Este episódio de <b>The Big Bang Theory</b> tem muito coração, além de ser hilário. Os sentimentos feridos de Sheldon dão o pontapé inicial, e as imitações de Halloween levam a uma cena emocional entre Sheldon e Bernadette, onde ele aponta que se identifica com a experiência dela de se sentir pequeno, pois foi para o ensino médio muito jovem. Essa cena torna o episódio tão memorável quanto engraçado.</p>\n<figure><img src=\"https:
+      "meta_description": "Descubra o ranking completo dos episódios de Halloween de The Big Bang Theory, do mais fraco ao mais hilário, e relembre os momentos marcantes.",
+      "focus_keyphrase": "episódios de Halloween The Big Bang Theory",
+      "related_keyphrases": [
+        "melhores episódios de Halloween TBBT",
+        "ranking The Big Bang Theory",
+        "análise episódios TBBT"
+      ],
+      "slug": "the-big-bang-theory-episodios-halloween-ranking",
+      "categorias": [
+        {
+          "nome": "The Big Bang Theory",
+          "grupo": "obras",
+          "evidence": "The Big Bang Theory‘s Sheldon Cooper"
+        }
+      ],
+      "tags_sugeridas": [
+        "the big bang theory",
+        "sheldon cooper",
+        "halloween",
+        "episódios",
+        "ranking",
+        "comédia"
+      ],
+      "image_alt_texts": {
+        "Ex-Machina.jpg": "Cena de ficção científica com robôs.",
+        "Howard-and-Bernadette-On-The-Big-Bang-Theory.jpg": "Howard e Bernadette em The Big Bang Theory.",
+        "Leonard-Kisses-Alice-On-The-Big-Bang-Theory-The-Good-Guy-Fluctuation.jpg": "Leonard beija alguém em The Big Bang Theory.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Episode-.jpg": "Referência a Agentes da S.H.I.E.L.D. do MCU.",
+        "Penny-and-Leonards-First-Kiss-On-The-Big-Bang-Theory.jpg": "Penny e Leonard em The Big Bang Theory.",
+        "PlayStation-Plus-Stray.jpg": "Imagem do jogo Stray.",
+        "The-Big-Bang-Theory-The-Gang-Dresses-As-each-Other-For-Halloween.jpg": "Elenco de The Big Bang Theory fantasiado para Halloween.",
+        "hbo-david-chase-new-series-mkultra-stranger-things.jpg": "Imagem promocional de séries da HBO.",
+        "netflix-a-house-of-dynamite.jpg": "Imagem promocional de série da Netflix.",
+        "nightfall-movie.jpg": "Pôster de um filme chamado Nightfall."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Big Bang Theory: Ranking dos Episódios de Halloween do Pior ao Melhor",
+        "_yoast_wpseo_metadesc": "Descubra o ranking completo dos episódios de Halloween de The Big Bang Theory, do mais fraco ao mais hilário, e relembre os momentos marcantes.",
+        "_yoast_wpseo_focuskw": "episódios de Halloween The Big Bang Theory",
+        "_yoast_news_keywords": "The Big Bang Theory, Sheldon Cooper, Halloween, episódios, ranking, comédia, CBS",
+        "_yoast_wpseo_opengraph-title": "The Big Bang Theory: Os Episódios de Halloween Ranqueados",
+        "_yoast_wpseo_opengraph-description": "Confira nosso ranking dos episódios de Halloween de The Big Bang Theory, do pior ao melhor. Veja quais momentos foram mais marcantes!",
+        "_yoast_wpseo_twitter-title": "The Big Bang Theory: Ranking dos Episódios de Halloween",
+        "_yoast_wpseo_twitter-description": "Qual episódio de Halloween de The Big Bang Theory é o melhor? Veja o nosso ranking completo!"
+      }
+    }
+  ]
+}

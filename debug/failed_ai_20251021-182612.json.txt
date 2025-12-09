@@ -1,0 +1,47 @@
+{
+  "titulo_final": "The Bear: Jeremy Allen White comenta sobre o início das filmagens da 5ª temporada",
+  "conteudo_final": "<p>A quinta temporada de <b>The Bear</b> está confirmada e seguirá a decisão de Carmy Berzatto no final da quarta temporada. Quase quatro meses se passaram desde que a quarta temporada de <b>The Bear</b> estreou, com o episódio final mostrando o chef estrela decidindo deixar o restaurante, passando a responsabilidade para Sydney, Ritchie e Natalie.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/videoseries?list=PLJdZ5h5s28T2e21164mFh8bF1qT-X-c5W\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><h2>Status das Filmagens da 5ª Temporada de The Bear</h2><p>Em uma nova entrevista, Jeremy Allen White foi questionado sobre o início da produção da próxima temporada. O ator confirmou que <b>“ainda não filmamos a próxima temporada”</b>. Ele mencionou a produção da quarta temporada e o cronograma peculiar: <em>“É interessante porque filmamos este final no ano passado, mas depois filmamos muitos episódios da quarta temporada este ano, então é uma coisa estranha. Parece que foi há muito tempo.”</em></p><p>Allen ressaltou como <b>“Carmy se desapegou tanto naquele final e se abriu de tantas maneiras”</b>. Descrevendo a escolha de Carmy como uma tentativa de <em>“fazer o que ele acha que é certo ou melhor”</em>, o ator vencedor do Emmy acrescentou: <em>“mas depois, trabalhando para trás um ano depois foi uma experiência estranha. Mas lembro que o último episódio foi muito divertido, porque o filmamos como uma peça de teatro.”</em></p><p>Do ponto de vista técnico, <b>“havia três câmeras e depois Ayo [Edebiri], Ebon [Moss-Bachrach], eu mesmo e Abby [Elliott] no final.”</b> Segundo o veterano de <em>Shameless</em>, <em>“levou 36 minutos para interpretar e fizemos isso umas quatro vezes.”</em></p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/untitled-7.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Jeremy Allen White e Ayo Edebiri em The Bear\" /><figcaption>Jeremy Allen White e Ayo Edebiri em cena da série The Bear.</figcaption></figure><h2>Elogios ao Criador e Futuro da Série</h2><p>O ator de 34 anos também elogiou o showrunner de <b>The Bear</b> pela direção criativa, destacando: <em>“Sempre fico muito tocado pela maneira como [o criador] Chris [Storer] escreve e desenvolve essa história, e eu gostaria de poder atuar com todos aqueles caras para sempre, honestamente, se houvesse uma maneira de resolver isso.”</em> A FX renovou a série em 1º de julho de 2025, apenas uma semana após o lançamento da quarta temporada.</p><p>Atualmente, não se sabe se <b>The Bear</b> temporada 5 será o último ano da aclamada série. <b>“Embora nenhuma decisão tenha sido tomada ainda sobre o futuro do programa”</b>, pode ser revelado mais tarde se a próxima temporada encerrará o drama.</p><p>No momento, <b>The Bear</b> temporada 5 não tem data de estreia definida.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/03117844_season_poster_342-2.jpg?q=70&fit=contain&w=342&dpr=1\" alt=\"Poster da 1ª temporada de The Bear\" /><figcaption>Poster promocional da primeira temporada de The Bear.</figcaption></figure>",
+  "meta_description": "Jeremy Allen White, astro de The Bear, deu detalhes sobre o início das filmagens da 5ª temporada, que já tem renovação confirmada pela FX.",
+  "focus_keyphrase": "The Bear 5ª temporada",
+  "related_keyphrases": [
+    "Jeremy Allen White The Bear",
+    "Renovação The Bear",
+    "Status filmagens The Bear"
+  ],
+  "slug": "the-bear-temporada-5-filmagem-jeremy-allen-white",
+  "categorias": [
+    {
+      "nome": "The Bear",
+      "grupo": "obras",
+      "evidence": "<em>The Bear</em> season 5 is confirmed to go forward, following Carmy Berzatto's game-changing decision in the season 4 finale."
+    },
+    {
+      "nome": "Jeremy Allen White",
+      "grupo": "elenco",
+      "evidence": "Jeremy Allen White was asked if the next season had started production yet."
+    }
+  ],
+  "tags_sugeridas": [
+    "The Bear",
+    "Jeremy Allen White",
+    "FX",
+    "Hulu",
+    "Carmy Berzatto",
+    "Sydney Adamu",
+    "Ebon Moss-Bachrach"
+  ],
+  "image_alt_texts": {
+    "untitled-7.jpg": "Jeremy Allen White e Ayo Edebiri em cena da série The Bear.",
+    "03117844_season_poster_342-2.jpg": "Poster promocional da primeira temporada de The Bear."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "The Bear: Jeremy Allen White comenta sobre início das filmagens da 5ª temporada",
+    "_yoast_wpseo_metadesc": "Jeremy Allen White, astro de The Bear, deu detalhes sobre o início das filmagens da 5ª temporada, que já tem renovação confirmada pela FX.",
+    "_yoast_wpseo_focuskw": "The Bear 5ª temporada",
+    "_yoast_news_keywords": "The Bear, 5ª temporada, Jeremy Allen White, FX, Hulu, Carmy Berzatto, Sydney Adamu, renovação",
+    "_yoast_wpseo_opengraph-title": "The Bear: Jeremy Allen White comenta sobre início das filmagens da 5ª temporada",
+    "_yoast_wpseo_opengraph-description": "Jeremy Allen White, astro de The Bear, deu detalhes sobre o início das filmagens da 5ª temporada, que já tem renovação confirmada pela FX.",
+    "_yoast_wpseo_twitter-title": "The Bear: Jeremy Allen White comenta sobre início das filmagens da 5ª temporada",
+    "_yoast_wpseo_twitter-description": "Jeremy Allen White, astro de The Bear, deu detalhes sobre o início das filmagens da 5ª temporada, que já tem renovação confirmada pela FX."
+  }
+}

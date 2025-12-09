@@ -1,0 +1,95 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Elizabeth Olsen exige lançamentos no cinema após série flopar",
+      "conteudo_final": "<p>Elizabeth Olsen está estabelecendo um limite claro sobre como e onde seus filmes serão lançados. A estrela de <b>WandaVision</b> revelou em uma nova entrevista que agora se recusa a assinar contratos para filmes de grandes estúdios a menos que garantam uma exibição cinematográfica.</p><p>Olsen declarou que sua visão sobre o streaming mudou após estrelar <b>Sorry for Your Loss</b>, uma série aclamada pela crítica, mas pouco vista, lançada no Facebook Watch e que terminou em 2019.</p><p>“Se um filme for feito de forma independente e vendido apenas para um streamer, tudo bem. Mas eu não quero fazer algo onde [o streaming] seja o fim de tudo. Acho importante que as pessoas se reúnam como comunidade, para ver outros humanos, estarem juntas em um espaço”, afirmou Olsen.</p><p>Ela acrescentou que experiências compartilhadas, como ir ao cinema e assistir a esportes ao vivo, são o que mantêm o público conectado:</p><p>“É por isso que gosto de esportes. Acho que é muito poderoso as pessoas se unirem por algo que as empolga.”</p><h2>Elizabeth Olsen Retornará para a Marvel?</h2><p>É amplamente conhecida por interpretar Wanda Maximoff, a Feiticeira Escarlate, em diversas produções do Universo Cinematográfico Marvel (MCU), incluindo <b>Vingadores: Era de Ultron</b>, <b>Capitão América: Guerra Civil</b>, <b>Vingadores: Ultimato</b> e <b>Doutor Estranho no Multiverso da Loucura</b>.</p><p>Sua performance em <b>WandaVision</b>, que lhe rendeu uma indicação ao Emmy, a tornou um dos rostos do investimento inicial da Disney em streaming. No entanto, os comentários de Olsen deixam claro que ela ainda valoriza a experiência da tela grande acima de tudo.</p><p>Apesar de seu novo foco em projetos cinematográficos, Olsen diz que ainda está aberta a retornar ao MCU, mas apenas se houver uma história convincente. “Fazer os filmes é divertido. Bobo. É ridículo. Somos adultos como crianças em um parquinho. Estamos voando. Estamos atirando coisas das mãos. E é uma personagem que pude retornar tantas vezes em mais de 10 anos. É bom deixá-la de lado e então sinto falta dela e quero que ela volte. Eu pularia na oportunidade de estar em seus sapatos novamente”, disse.</p><p>No mês passado, Olsen disse à rádio irlandesa que reprisaria o papel “se houvesse uma boa maneira de usá-la”. Ela elogiou <b>WandaVision</b> por encontrar nova profundidade emocional na personagem.</p><p>“O MCU conseguiu utilizar a personagem de forma eficaz em maneiras interessantes de contar histórias que eles ainda não haviam explorado”, explicou. “Então, se houver uma boa maneira de usá-la, fico feliz em voltar, da maneira que puderem fazer isso funcionar.”</p><p><b>Sorry for Your Loss</b> está disponível em streaming, mas a plataforma exata não foi detalhada.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/11/03109785_poster_w780.jpg\" alt=\"Elizabeth Olsen como Wanda Maximoff, a Feiticeira Escarlate.\"><figcaption>Elizabeth Olsen é conhecida por seu papel como Feiticeira Escarlate no MCU.</figcaption></figure>",
+      "meta_description": "Elizabeth Olsen, a estrela de WandaVision, declara que só aceitará papéis em filmes com lançamento garantido nos cinemas, mudando sua visão sobre o streaming.",
+      "focus_keyphrase": "Elizabeth Olsen lançamentos cinema",
+      "related_keyphrases": [
+        "Elizabeth Olsen streaming",
+        "Feiticeira Escarlate",
+        "WandaVision"
+      ],
+      "slug": "elizabeth-olsen-lancamentos-cinema",
+      "categorias": [
+        {
+          "nome": "WandaVision",
+          "grupo": "obras",
+          "evidence": "The WandaVision star"
+        },
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        }
+      ],
+      "tags_sugeridas": [
+        "elizabeth olsen",
+        "wandavision",
+        "mcu",
+        "feiticeira escarlate",
+        "streaming",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "sharedimages_2024_11_03109785_poster_w780.jpg": "Elizabeth Olsen como Wanda Maximoff, a Feiticeira Escarlate."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Elizabeth Olsen exige lançamentos no cinema após série flopar",
+        "_yoast_wpseo_metadesc": "Elizabeth Olsen, a estrela de WandaVision, declara que só aceitará papéis em filmes com lançamento garantido nos cinemas, mudando sua visão sobre o streaming.",
+        "_yoast_wpseo_focuskw": "Elizabeth Olsen lançamentos cinema",
+        "_yoast_news_keywords": "Elizabeth Olsen, WandaVision, MCU, Feiticeira Escarlate, streaming, cinema",
+        "_yoast_wpseo_opengraph-title": "Elizabeth Olsen exige lançamentos no cinema após série flopar",
+        "_yoast_wpseo_opengraph-description": "Elizabeth Olsen, a estrela de WandaVision, declara que só aceitará papéis em filmes com lançamento garantido nos cinemas, mudando sua visão sobre o streaming.",
+        "_yoast_wpseo_twitter-title": "Elizabeth Olsen exige lançamentos no cinema após série flopar",
+        "_yoast_wpseo_twitter-description": "Elizabeth Olsen, a estrela de WandaVision, declara que só aceitará papéis em filmes com lançamento garantido nos cinemas, mudando sua visão sobre o streaming."
+      }
+    },
+    {
+      "titulo_final": "One Piece: Netflix revela primeiro vislumbre dos Gigantes de Little Garden",
+      "conteudo_final": "<p>Enquanto os Piratas do Chapéu de Palha se preparam para sua jornada rumo à Grand Line, a Netflix liberou um vislumbre dos icônicos Gigantes de Little Garden, que farão sua aparição na 2ª temporada de <b>One Piece</b>. Werner Coetser e Brendan Murray interpretarão Dorry e Brogy, os dois gigantes que se enfrentam constantemente na ilha. Os fãs aguardam ansiosamente para ver como a Netflix adaptará esses personagens marcantes.</p><p>Através da página oficial de <b>One Piece</b> na Netflix, um pôster mostrando os dois gigantes observando os Chapéus de Palha foi divulgado, juntamente com uma pequena foto dos dois irmãos frente a frente. Little Garden será uma das locações presentes na próxima temporada, ao lado de Loguetown, Whiskey Peak, Reverse Mountain e Drum Island. Como a Netflix já revelou os nomes dos episódios da 2ª temporada, a estreia dos gigantes provavelmente ocorrerá no Episódio 4, intitulado \"Big Trouble in Little Garden\".</p><p>Além dos gigantes, a 2ª temporada de <b>One Piece</b> apresentou um teaser há dois meses, mostrando o que está por vir na próxima parcela live-action. Haverá não apenas gigantes, mas também novas criaturas e personagens que Monkey D. Luffy (interpretado por Iñaki Godoy) e seus aliados encontrarão em sua busca pelo One Piece e pela realização de seus sonhos.</p><h2>O que é 'One Piece' da Netflix?</h2><p>A adaptação live-action de <b>One Piece</b> é baseada no mangá homônimo de 1997, de Eiichiro Oda. A série acompanha Monkey D. Luffy, que sonha em se tornar o Rei dos Piratas. A 1ª temporada apresentou Luffy e sua tripulação: Nami (Emily Rudd), Roronoa Zoro (Mackenyu), Usopp (Jacob Romero) e Sanji (Taz Skylar), enquanto eles se preparavam para se tornarem piratas de verdade e embarcavam em uma perigosa jornada rumo à Grand Line, enfrentando fuzileiros navais e outras tripulações piratas.</p><p>A 1ª temporada obteve sucesso massivo em seu lançamento, alcançando uma pontuação de 86% de Críticos Certificados e uma pontuação média de audiência de 95% no Rotten Tomatoes, além de receber uma indicação a \"Outstanding Young Teen Series\" (Série Jovem Excepcional para Adolescentes) no 2025 Children's and Family Emmy Awards.</p><p>A Netflix anunciou a renovação para a 2ª temporada em setembro de 2023, poucas semanas após a estreia do final da 1ª temporada. Desde então, teasers de novas locações e personagens foram divulgados, incluindo a introdução de Tony Tony Chopper (dublado por Mikaela Hoover), além de outros como Smoker (Callum Kerr), Miss Wednesday (Charithra Chandran) e Mr. 0 (Joe Manganiello), entre outros. Adicionalmente, a Netflix confirmou que a série retornará para uma terceira temporada, embora a data de lançamento ainda não tenha sido anunciada.</p><p>A 2ª temporada de <b>One Piece</b> está programada para estrear em 2026. Enquanto isso, todos os episódios da 1ª temporada estão disponíveis na Netflix. Siga o Collider para se manter atualizado com as últimas novidades.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/02/03171191_poster_w780.jpg\" alt=\"Os gigantes Dorry e Brogy de One Piece em sua primeira imagem oficial na série live-action da Netflix.\"><figcaption>Dorry e Brogy são apresentados oficialmente para a segunda temporada de One Piece.</figcaption></figure>",
+      "meta_description": "A Netflix revela o primeiro vislumbre dos gigantes Dorry e Brogy para a 2ª temporada de One Piece, que chega em 2026 com novos personagens e ilhas.",
+      "focus_keyphrase": "One Piece segunda temporada Netflix",
+      "related_keyphrases": [
+        "Gigantes de One Piece",
+        "Dorry e Brogy",
+        "Eiichiro Oda"
+      ],
+      "slug": "one-piece-gigantes-netflix",
+      "categorias": [
+        {
+          "nome": "One Piece",
+          "grupo": "franquias",
+          "evidence": "Netflix has released a glimpse of the live-action version of the Giants of Little Garden, who are set to appear in One Piece Season 2."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix has released"
+        }
+      ],
+      "tags_sugeridas": [
+        "one piece",
+        "netflix",
+        "dorry e brogy",
+        "gigantes little garden",
+        "eiichiro oda",
+        "live-action",
+        "manga"
+      ],
+      "image_alt_texts": {
+        "sharedimages_2025_02_03171191_poster_w780.jpg": "Os gigantes Dorry e Brogy de One Piece em sua primeira imagem oficial na série live-action da Netflix."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "One Piece: Netflix revela primeiro vislumbre dos Gigantes de Little Garden",
+        "_yoast_wpseo_metadesc": "A Netflix revela o primeiro vislumbre dos gigantes Dorry e Brogy para a 2ª temporada de One Piece, que chega em 2026 com novos personagens e ilhas.",
+        "_yoast_wpseo_focuskw": "One Piece segunda temporada Netflix",
+        "_yoast_news_keywords": "One Piece, Netflix, Dorry e Brogy, Gigantes de Little Garden, Eiichiro Oda, live-action, manga",
+        "_yoast_wpseo_opengraph-title": "One Piece: Netflix revela primeiro vislumbre dos Gigantes de Little Garden",
+        "_yoast_wpseo_opengraph-description": "A Netflix revela o primeiro vislumbre dos gigantes Dorry e Brogy para a 2ª temporada de One Piece, que chega em 2026 com novos personagens e ilhas.",
+        "_yoast_wpseo_twitter-title": "One Piece: Netflix revela primeiro vislumbre dos Gigantes de Little Garden",
+        "_yoast_wpseo_twitter-description": "A Netflix revela o primeiro vislumbre dos gigantes Dorry e Brogy para a 2ª temporada de One Piece, que chega em 2026 com novos personagens e ilhas."
+      }
+    }
+  ]
+}

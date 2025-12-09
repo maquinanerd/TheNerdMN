@@ -1,0 +1,92 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Missão: Impossível - Efeito Fallout Brilha em Streaming Global",
+      "conteudo_final": "<p>O aclamado filme de ação <b>Missão: Impossível - Efeito Fallout</b>, estrelado por <b>Rebecca Ferguson</b> e <b>Henry Cavill</b>, está experimentando um renascimento nas paradas de streaming globais. O longa, que acompanha a missão de Ethan Hunt para salvar o mundo, voltou ao top 10 em diversos países, incluindo Áustria e Indonésia.</p><figure><img src=\"https:
+      "meta_description": "Missão: Impossível - Efeito Fallout, com Henry Cavill e Rebecca Ferguson, domina paradas de streaming globais após sucesso de bilheteria.",
+      "focus_keyphrase": "Missão: Impossível - Efeito Fallout",
+      "related_keyphrases": [
+        "Henry Cavill",
+        "Rebecca Ferguson",
+        "Missão Impossível streaming"
+      ],
+      "slug": "missao-impossivel-efeito-fallout-streaming",
+      "categorias": [
+        {
+          "nome": "Missão: Impossível - Efeito Fallout",
+          "grupo": "obras",
+          "evidence": "Mission: Impossible - Fallout"
+        },
+        {
+          "nome": "Missão: Impossível",
+          "grupo": "franquias",
+          "evidence": "Mission: Impossible"
+        }
+      ],
+      "tags_sugeridas": [
+        "missao impossivel",
+        "efeito fallout",
+        "henry cavill",
+        "rebecca ferguson",
+        "christopher mcquarrie",
+        "paramount plus"
+      ],
+      "image_alt_texts": {
+        "01257215_poster_w780.jpg": "Pôster de Missão: Impossível - Efeito Fallout com Henry Cavill e Rebecca Ferguson"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Missão: Impossível - Efeito Fallout Brilha em Streaming Global",
+        "_yoast_wpseo_metadesc": "Missão: Impossível - Efeito Fallout, com Henry Cavill e Rebecca Ferguson, domina paradas de streaming globais após sucesso de bilheteria.",
+        "_yoast_wpseo_focuskw": "Missão: Impossível - Efeito Fallout",
+        "_yoast_news_keywords": "Missão: Impossível, Efeito Fallout, Henry Cavill, Rebecca Ferguson, Christopher McQuarrie, Paramount+",
+        "_yoast_wpseo_opengraph-title": "Missão: Impossível - Efeito Fallout Brilha em Streaming Global",
+        "_yoast_wpseo_opengraph-description": "Missão: Impossível - Efeito Fallout, com Henry Cavill e Rebecca Ferguson, domina paradas de streaming globais após sucesso de bilheteria.",
+        "_yoast_wpseo_twitter-title": "Missão: Impossível - Efeito Fallout Brilha em Streaming Global",
+        "_yoast_wpseo_twitter-description": "Missão: Impossível - Efeito Fallout, com Henry Cavill e Rebecca Ferguson, domina paradas de streaming globais após sucesso de bilheteria."
+      }
+    },
+    {
+      "titulo_final": "George R.R. Martin Processa OpenAI por Uso Indevido de 'Game of Thrones'",
+      "conteudo_final": "<p>O autor <b>George R. R. Martin</b>, criador do universo de <b>Game of Thrones</b>, está no centro de um processo judicial contra a OpenAI e a Microsoft. O autor é um dos vários escritores de renome que acusam as empresas de infração de direitos autorais, alegando que seus modelos de linguagem, como o ChatGPT, foram treinados com obras protegidas por copyright sem permissão.</p><p>Um juiz federal dos Estados Unidos, Sidney Stein, deu luz verde para que o caso avance. A decisão baseia-se em um esboço gerado pelo ChatGPT para um novo livro da saga, intitulado <i>A Dance with Shadows</i>. O juiz considerou que o conteúdo gerado pela IA poderia ser substancialmente similar às obras originais de Martin, justificando a continuidade do processo.</p><h2>O Caso Contra a OpenAI</h2><p>A ação judicial, que faz parte de um processo coletivo envolvendo outros autores como Michael Chabon, Ta-Nehisi Coates, Jia Tolentino e Sarah Silverman, argumenta que ferramentas de IA como o ChatGPT são capazes de imitar o estilo, temas e personagens de autores consagrados. Isso resultaria na criação de obras derivadas sem o devido crédito ou compensação aos criadores originais.</p><p>O exemplo que chamou a atenção do juiz Stein foi uma solicitação feita aos advogados dos autores para que o ChatGPT criasse um esboço detalhado para uma sequência de <i>A Clash of Kings</i>, que se diferenciasse de <i>A Storm of Swords</i> e levasse a história em uma nova direção. A IA respondeu prontamente com a proposta de <i>A Dance with Shadows</i>, apresentando detalhes como uma nova herdeira Targaryen, Lady Elara, uma seita dissidente dos Filhos da Floresta e uma forma misteriosa de magia ligada a dragões.</p><blockquote><p>“Absolutamente! Vamos imaginar uma sequência alternativa para A Clash of Kings e divergir dos eventos de A Storm of Swords. Chamaremos esta sequência de A Dance with Shadows.”</p></blockquote><p>Segundo o juiz Stein, essas semelhanças são suficientes para justificar uma análise legal mais aprofundada em relação ao universo de <i>A Song of Ice and Fire</i>, a obra original de Martin.</p><h2>Implicações para o Futuro da IA e da Criação</h2><p>A decisão judicial levanta questões importantes sobre o uso de conteúdo protegido por direitos autorais no treinamento de modelos de inteligência artificial. Para os fãs, a notícia também significa que a IA não será responsável por escrever o aguardado livro <i>The Winds of Winter</i>.</p><p>Representantes da OpenAI e da Microsoft ainda não comentaram a decisão mais recente, aguardando o desenvolvimento do caso.</p>",
+      "meta_description": "George R.R. Martin lidera processo contra OpenAI e Microsoft por infração de direitos autorais em 'Game of Thrones' com uso de IA.",
+      "focus_keyphrase": "George R.R. Martin Game of Thrones",
+      "related_keyphrases": [
+        "Game of Thrones IA",
+        "OpenAI direitos autorais",
+        "ChatGPT processo"
+      ],
+      "slug": "george-rr-martin-processa-openai-game-of-thrones",
+      "categorias": [
+        {
+          "nome": "Game of Thrones",
+          "grupo": "franquias",
+          "evidence": "Game of Thrones"
+        },
+        {
+          "nome": "A Song of Ice and Fire",
+          "grupo": "obras",
+          "evidence": "Martin’s A Song of Ice and Fire"
+        }
+      ],
+      "tags_sugeridas": [
+        "george rr martin",
+        "game of thrones",
+        "openai",
+        "chatgpt",
+        "direitos autorais",
+        "inteligencia artificial"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "George R.R. Martin Processa OpenAI por Uso Indevido de 'Game of Thrones'",
+        "_yoast_wpseo_metadesc": "George R.R. Martin lidera processo contra OpenAI e Microsoft por infração de direitos autorais em 'Game of Thrones' com uso de IA.",
+        "_yoast_wpseo_focuskw": "George R.R. Martin Game of Thrones",
+        "_yoast_news_keywords": "George R.R. Martin, Game of Thrones, OpenAI, ChatGPT, Direitos Autorais, Inteligência Artificial",
+        "_yoast_wpseo_opengraph-title": "George R.R. Martin Processa OpenAI por Uso Indevido de 'Game of Thrones'",
+        "_yoast_wpseo_opengraph-description": "George R.R. Martin lidera processo contra OpenAI e Microsoft por infração de direitos autorais em 'Game of Thrones' com uso de IA.",
+        "_yoast_wpseo_twitter-title": "George R.R. Martin Processa OpenAI por Uso Indevido de 'Game of Thrones'",
+        "_yoast_wpseo_twitter-description": "George R.R. Martin lidera processo contra OpenAI e Microsoft por infração de direitos autorais em 'Game of Thrones' com uso de IA."
+      }
+    }
+  ]
+}

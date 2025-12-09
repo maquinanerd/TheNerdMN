@@ -1,0 +1,63 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Battlefield Redsec: Pacote Rogue Ops Grátis para Assinantes PS Plus",
+      "conteudo_final": "<p>O modo Battle Royale de <b>Battlefield</b>, chamado <b>RedSec</b>, já está disponível. A <b>PlayStation</b> tem dado suporte à série, especialmente após a aquisição de estúdios pela <b>Xbox</b>. Um item cosmético de RedSec é exclusivo para <b>PS5</b>, e um segundo pacote pode ser desbloqueado gratuitamente por assinantes da <b>PS Plus</b>.</p>\n\n<p>O <b>Initial Strike Pack</b> é o item exclusivo para jogadores de <b>PS5</b>, utilizável tanto em <b>Battlefield 6</b> quanto em RedSec. Com as cores azuis características da plataforma, o pacote traz um visual que remete ao console.</p>\n\n<h2>Mais Conteúdo Gratuito para Assinantes PS Plus no PS5</h2>\n\n<p>O <b>Rogue Ops Pack</b> é mais um pacote de itens gratuitos para jogadores de <b>PS5</b>. Diferente do Initial Strike Pack, este não é totalmente exclusivo para PlayStation, mas requer uma assinatura ativa da <b>PS Plus</b> para ser resgatado sem custo. Sem a assinatura, ou para jogadores em outras plataformas, o pacote custará US$ 20.</p>\n\n<p>A iniciativa da <b>PlayStation</b> em apoiar <b>Battlefield 6</b> e <b>RedSec</b> sugere uma estratégia para posicionar a série como uma forte concorrente para <b>Call of Duty</b>. Anteriormente, a divulgação de Battlefield 6 pela Sony foi tão intensa que muitos jogadores poderiam tê-lo confundido com um título exclusivo de PS5.</p>\n\n<p>A <b>EA</b> demonstra grande apreço pelo suporte da <b>PlayStation</b>. Relatórios indicam que a expectativa é atrair mais de 100 milhões de jogadores. O sucesso de <b>RedSec</b> será crucial, mas a venda de 6,5 milhões de cópias de <b>Battlefield 6</b>, mesmo com o preço de US$ 70, aponta para um futuro promissor para o modo battle royale gratuito.</p>\n\n<h2>Detalhes de Battlefield Redsec</h2>\n\n<p>O jogo foi lançado em 28 de outubro de 2025 e é classificado como Mature 17+ pela ESRB, contendo linguagem forte, violência e compras no jogo. Desenvolvido pela Battlefield Studios e publicado pela <b>EA</b>, o título oferece multiplayer online e cooperativo.</p>\n\n<figure>\n  <img src=\"https:
+      "meta_description": "Jogadores de PS5 podem obter o pacote Rogue Ops de Battlefield Redsec gratuitamente com PS Plus. Saiba mais sobre a oferta.",
+      "focus_keyphrase": "Battlefield Redsec Pacote Grátis",
+      "related_keyphrases": [
+        "Battlefield Redsec PS Plus",
+        "Pacote Rogue Ops Battlefield",
+        "Itens gratuitos Battlefield PS5"
+      ],
+      "slug": "battlefield-redsec-pacote-gratis-ps5",
+      "categorias": [
+        {
+          "nome": "Battlefield Redsec",
+          "grupo": "obras",
+          "evidence": "Battlefield's battle royale, RedSec is here"
+        },
+        {
+          "nome": "PlayStation",
+          "grupo": "franquias",
+          "evidence": "PlayStation has continued a trend"
+        },
+        {
+          "nome": "EA",
+          "grupo": "editorias",
+          "evidence": "Publisher(s)\nEA"
+        }
+      ],
+      "tags_sugeridas": [
+        "battlefield",
+        "redsec",
+        "ea",
+        "playstation",
+        "ps5",
+        "ps plus",
+        "battle royale"
+      ],
+      "image_alt_texts": {
+        "mixcollage-29-oct-2025-10-43-am-2625.jpg": "Pacote cosmético de Battlefield Redsec com tema azul da PlayStation.",
+        "mixcollage-29-oct-2025-10-44-am-1679.jpg": "Jogadores de Battlefield Redsec no PlayStation 5 recebem itens gratuitos.",
+        "battlefield-redsec-press-image-1-1.jpg": "Conteúdo do pacote Rogue Ops de Battlefield Redsec.",
+        "battlefield-redsec-press-image-2-1.jpg": "Detalhes do pacote Rogue Ops de Battlefield Redsec.",
+        "battlefield-redsec-press-image-3-1.jpg": "Item exclusivo do PlayStation 5 em Battlefield Redsec.",
+        "battlefield-redsec-press-image-4-1.jpg": "Pacote gratuito para assinantes PS Plus em Battlefield Redsec.",
+        "battlefield-redsec-press-image-5-1.jpg": "Assinantes PS Plus podem obter o pacote Rogue Ops de Battlefield Redsec de graça.",
+        "battlefield-redsec-press-image-6-1.jpg": "Oferta especial para jogadores de Battlefield Redsec no PS5.",
+        "battlefield-redsec-tag-page-cover-art.jpg": "Arte principal de Battlefield Redsec."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Battlefield Redsec: Pacote Rogue Ops Grátis para Assinantes PS Plus",
+        "_yoast_wpseo_metadesc": "Jogadores de PS5 podem obter o pacote Rogue Ops de Battlefield Redsec gratuitamente com PS Plus. Saiba mais sobre a oferta.",
+        "_yoast_wpseo_focuskw": "Battlefield Redsec Pacote Grátis",
+        "_yoast_news_keywords": "Battlefield, RedSec, EA, PlayStation, PS5, PS Plus, Pacote Grátis, Rogue Ops",
+        "_yoast_wpseo_opengraph-title": "Battlefield Redsec: Pacote Rogue Ops Grátis para Assinantes PS Plus",
+        "_yoast_wpseo_opengraph-description": "Jogadores de PS5 podem obter o pacote Rogue Ops de Battlefield Redsec gratuitamente com PS Plus. Saiba mais sobre a oferta.",
+        "_yoast_wpseo_twitter-title": "Battlefield Redsec: Pacote Rogue Ops Grátis para Assinantes PS5",
+        "_yoast_wpseo_twitter-description": "Jogadores de PS5 podem obter o pacote Rogue Ops de Battlefield Redsec gratuitamente com PS Plus. Saiba mais sobre a oferta."
+      }
+    }
+  ]
+}

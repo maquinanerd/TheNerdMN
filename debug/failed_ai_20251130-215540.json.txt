@@ -1,0 +1,54 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jeri Ryan revela dificuldade em retomar Seven de Borg em Picard",
+      "conteudo_final": "<p>Jeri Ryan admite que houve um motivo específico pelo qual achou <b>\"difícil\"</b> reprisar Seven de Borg em <i>Star Trek: Picard</i>. Ryan interpretou Seven de Borg ao longo de quatro temporadas de <i>Star Trek: Voyager</i>, e sua icônica personagem, após se libertar da Coletividade Borg, perdura como uma das mais populares de <i>Star Trek</i> décadas após o fim de <i>Voyager</i> em 2001.</p><p>Em 2020, <i>Star Trek: Picard</i> trouxe de volta Seven de Borg para integrar a tripulação do Almirante Jean-Luc Picard (Patrick Stewart). Seven era uma personagem transformada, que havia enfrentado adversidades após <i>Star Trek: Voyager</i>, deixando a Terra e encontrando uma nova vida com os Fenris Rangers no Quadrante Beta.</p><p>Jeri Ryan participou de um painel no evento Creation Entertainment's ST: CHI - Trek to Chicago, ao lado de seu colega de <i>Star Trek: Voyager</i>, Tim Russ. Ryan discutiu como Seven foi criada para dar atenção mainstream a <i>Star Trek: Voyager</i> e revelou suas opiniões sobre os característicos macacões de Seven.</p><p>Em relação ao retorno de Seven de Borg, Jeri Ryan afirma que <b>\"teve mais dificuldade em encontrá-la\"</b> quando se juntou a <i>Star Trek: Picard</i> devido à diferença na escrita. Ryan credita ao produtor executivo de <i>Star Trek: Voyager</i>, Brannon Braga, por criar Seven, e observa que havia um contraste entre a ex-Borg <b>\"maravilhosamente escrita\"</b> de Braga e como Seven foi escrita inicialmente em <i>Picard</i>. Leia a citação de Jeri:</p><blockquote><p>\"Basicamente, cada palavra que eu pronunciei em <i>Voyager</i> foi escrita ou reescrita por Brannon Braga. Esse era muito o personagem dele. Ela era a visão dele. Era o bebê dele. Ela realmente surgiu completamente formada de seu cérebro, e ele nunca cometeu um deslize, realmente, eu acho, no desenvolvimento dela. Foi maravilhosamente escrito. Então nunca houve um momento em que eu tive que pensar, 'Oh, eu não acho que ela diria isso.' Porque ele sabia o que ela pensava. Então eu fui muito sortuda com a forma como ela foi escrita.\"</p><p>\"Com <i>Picard</i>, foi diferente. Foi difícil. Eu tive mais dificuldade em encontrá-la no começo. Eu estava tão acostumada com aquela voz sendo tão específica por tanto tempo. E houve algumas vezes em que eu pensei, 'Ok, eu não tenho certeza se isso é...' Mas eles eram muito abertos a feedback e opiniões sobre coisas assim.\"</p></blockquote><p>O showrunner da primeira temporada de <i>Star Trek: Picard</i> foi Michael Chabon, e o aclamado romancista explorou a mitologia Romulana e Borg. A primeira temporada de <i>Picard</i> foi uma notável diferença, em tom e estrutura, do que os fãs de <i>Star Trek: The Next Generation</i> e <i>Star Trek: Voyager</i> esperavam.</p><h2>A Nova Sete de Borg em Picard</h2><p>Vinte anos após <i>Star Trek: Voyager</i>, Seven de Borg era uma personagem diferente em <i>Star Trek: Picard</i>. Seven estava isolada de seus amigos de <i>Voyager</i> e viveu uma vida de violência e perda como Fenris Ranger no Quadrante Delta. Outra mudança para Seven foi que <i>Picard</i> a transformou mais em uma heroína de ação relutante, empunhando um phaser.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/seven-of-nine-toting-phaser-rifles.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Seven de Borg empunhando rifles phaser em Star Trek: Picard"/></figure><p>Em uma aparição em 2023 no <i>The Shuttlepod Show</i>, Brannon Braga apontou: \"<i>Não tenho certeza se eu faria</i>\" o tipo de histórias com Seven de Borg que <i>Star Trek: Picard</i> apresentou. Braga, que teve um relacionamento com Jeri Ryan durante os anos de <i>Star Trek: Voyager</i>, também achou que Seven deveria ter morrido no final de <i>Voyager</i>.</p><h2>Futuro de Seven de Borg</h2><p>A terceira temporada de <i>Star Trek: Picard</i> foi a mais bem-sucedida dessa série, e Jeri Ryan ficou encantada com a forma como sua amiga próxima, Terry Matalas, escreveu Seven de Borg, que se tornou Capitã da USS Enterprise-G. Se Jeri Ryan terá a oportunidade de interpretar a Capitã Seven no spin-off esperado <i>Star Trek: Legacy</i>, ainda é uma incógnita.</p>",
+      "meta_description": "Jeri Ryan revela que achou desafiador reprisar Seven de Borg em Star Trek: Picard devido a diferenças na escrita, comparando com sua experiência em Voyager.",
+      "focus_keyphrase": "Jeri Ryan Seven de Borg Picard",
+      "related_keyphrases": [
+        "Seven of Nine em Star Trek Picard",
+        "Jeri Ryan Star Trek Voyager",
+        "reprise de personagem Seven of Nine"
+      ],
+      "slug": "jeri-ryan-dificuldade-seven-borg-picard",
+      "categorias": [
+        {
+          "nome": "Star Trek: Picard",
+          "grupo": "obras",
+          "evidence": "Star Trek: Picard"
+        },
+        {
+          "nome": "Star Trek: Voyager",
+          "grupo": "obras",
+          "evidence": "Star Trek: Voyager"
+        },
+        {
+          "nome": "Seven of Nine",
+          "grupo": "personagens",
+          "evidence": "Seven of Nine"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jeri Ryan",
+        "Seven of Nine",
+        "Star Trek Picard",
+        "Star Trek Voyager",
+        "Brannon Braga",
+        "Fenris Rangers"
+      ],
+      "image_alt_texts": {
+        "seven-of-nine-toting-phaser-rifles.jpg": "Jeri Ryan como Seven de Borg empunhando rifles phaser em cena de Star Trek: Picard, mostrando sua evolução como heroína de ação."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jeri Ryan revela dificuldade em retomar Seven de Borg em Picard",
+        "_yoast_wpseo_metadesc": "Jeri Ryan revela que achou desafiador reprisar Seven de Borg em Star Trek: Picard devido a diferenças na escrita, comparando com sua experiência em Voyager.",
+        "_yoast_wpseo_focuskw": "Jeri Ryan Seven de Borg Picard",
+        "_yoast_news_keywords": "Jeri Ryan, Seven of Nine, Star Trek Picard, Star Trek Voyager, Brannon Braga, Fenris Rangers, Jeri Ryan Seven de Borg",
+        "_yoast_wpseo_opengraph-title": "Jeri Ryan revela dificuldade em retomar Seven de Borg em Star Trek: Picard",
+        "_yoast_wpseo_opengraph-description": "A atriz Jeri Ryan compartilhou em entrevista os desafios de voltar a interpretar Seven de Borg na série Star Trek: Picard, destacando as diferenças na escrita do personagem.",
+        "_yoast_wpseo_twitter-title": "Jeri Ryan revela dificuldade em retomar Seven de Borg em Picard",
+        "_yoast_wpseo_twitter-description": "A atriz Jeri Ryan compartilhou em entrevista os desafios de voltar a interpretar Seven de Borg na série Star Trek: Picard, destacando as diferenças na escrita do personagem."
+      }
+    }
+  ]
+}

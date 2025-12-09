@@ -1,0 +1,158 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Night Gallery: Série de Terror de Rod Serling Ganha Box em Blu-Ray",
+      "conteudo_final": "<p>A obra visionária de <b>Rod Serling</b>, conhecido por criar a icônica série de ficção científica <b>The Twilight Zone</b>, continua a inspirar com o anúncio de um novo box em Blu-ray da sua aclamada série de terror, <b>Night Gallery</b>. Produzido pela Imprint Films, este lançamento promete ser uma adição valiosa para os fãs do gênero e do legado de Serling.</p><h2>O Que é Night Gallery?</h2><p>Originalmente concebida como um filme piloto, <b>Night Gallery</b> evoluiu para uma série antológica de três temporadas. Diferente do tom mais voltado para a ficção científica de <i>The Twilight Zone</i>, esta série mergulha no terror sobrenatural, adaptando contos de autores como H.P. Lovecraft, Oscar Cook e August Derleth, além de apresentar histórias originais escritas pelo próprio Serling. A série também contou com a colaboração de renomados escritores como Jack Laird e Malcolm Marmorstein, além de lendas da ficção científica e gênero como Richard Matheson e Robert Bloch.</p><p>A produção reuniu uma lista impressionante de talentos, tanto na direção quanto no elenco. Diretores como <b>Steven Spielberg</b>, John Badham, John Astin e Leonard Nimoy, nomes que se tornariam gigantes na indústria, passaram pela série. O elenco também foi repleto de estrelas, incluindo <b>Joan Crawford</b>, Leslie Nielsen, <b>Diane Keaton</b>, Mark Hamill, Sandra Dee, Vincent Price, Burl Ives, Agnes Moorehead, Roddy McDowall, Sally Field, Dean Stockwell, Adam West, Nimoy, Orson Welles, Edward G. Robinson, Joel Grey, Mickey Rooney e Joanna Pettet.</p><h2>Edição Especial em Blu-ray</h2><p>A edição definitiva, intitulada <b>Night Gallery: The Complete Collection</b>, será lançada em 7 de janeiro de 2026. O box de 10 discos apresenta todos os 43 episódios, além do filme piloto, em alta definição. Os fãs podem esperar recursos especiais de alta qualidade, incluindo comentários de especialistas para cada episódio, novas entrevistas com o diretor Jeannot Szwarc, Carol Serling (esposa de Rod Serling), e os historiadores Scott Skelton e Jim Benson. O conjunto ainda inclui um livreto capa dura de 108 páginas com todas as pinturas de <i>Night Gallery</i> e um guia de episódios em capa mole.</p><p>A série, considerada uma obra-prima do terror hoje, foi vista como muito sombria para sua época. Contudo, sua exploração de elementos aterrorizantes e sobrenaturais solidificou seu lugar na história da televisão.</p>",
+      "meta_description": "Box em Blu-ray de Night Gallery, série de terror de Rod Serling, criador de The Twilight Zone, será lançado em janeiro de 2026.",
+      "focus_keyphrase": "Night Gallery Blu-ray",
+      "related_keyphrases": [
+        "Rod Serling",
+        "The Twilight Zone",
+        "Terror Sobrenatural"
+      ],
+      "slug": "night-gallery-blu-ray-lancamento",
+      "categorias": [
+        {
+          "nome": "Night Gallery",
+          "grupo": "obras",
+          "evidence": "Serling’s Night Gallery was considered too dark for its time."
+        },
+        {
+          "nome": "The Twilight Zone",
+          "grupo": "obras",
+          "evidence": "its predecessor, The Twilight Zone"
+        },
+        {
+          "nome": "Rod Serling",
+          "grupo": "pessoas",
+          "evidence": "Rod Serling is among the visionaries"
+        }
+      ],
+      "tags_sugeridas": [
+        "Night Gallery",
+        "Rod Serling",
+        "The Twilight Zone",
+        "Blu-ray",
+        "Terror",
+        "Coleção"
+      ],
+      "image_alt_texts": {
+        "04144903_poster_w780.jpg": "Poster oficial da série Night Gallery, de Rod Serling, destacando o tom sombrio."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Night Gallery: Série de Terror de Rod Serling Ganha Box em Blu-Ray",
+        "_yoast_wpseo_metadesc": "Box em Blu-ray de Night Gallery, série de terror de Rod Serling, criador de The Twilight Zone, será lançado em janeiro de 2026.",
+        "_yoast_wpseo_focuskw": "Night Gallery Blu-ray",
+        "_yoast_news_keywords": "Night Gallery, Rod Serling, The Twilight Zone, Blu-ray, Terror, Steven Spielberg, Imprint Films",
+        "_yoast_wpseo_opengraph-title": "Night Gallery: Série de Terror de Rod Serling Ganha Box em Blu-Ray",
+        "_yoast_wpseo_opengraph-description": "Box em Blu-ray de Night Gallery, série de terror de Rod Serling, criador de The Twilight Zone, será lançado em janeiro de 2026.",
+        "_yoast_wpseo_twitter-title": "Night Gallery: Série de Terror de Rod Serling Ganha Box em Blu-Ray",
+        "_yoast_wpseo_twitter-description": "Box em Blu-ray de Night Gallery, série de terror de Rod Serling, criador de The Twilight Zone, será lançado em janeiro de 2026."
+      }
+    },
+    {
+      "titulo_final": "9-1-1 e 9-1-1: Nashville Retornam em Janeiro de 2026 na ABC",
+      "conteudo_final": "<p>A rede ABC anunciou as datas de retorno para suas séries mais populares: <b>9-1-1</b> e o spin-off <b>9-1-1: Nashville</b>. A nona temporada de <i>9-1-1</i> e a primeira de <i>9-1-1: Nashville</i> estreiam em 8 de janeiro de 2026. Ambas as produções manterão seus horários originais, com <i>9-1-1</i> abrindo a noite às 20h (horário de Brasília), seguida por <i>9-1-1: Nashville</i> às 21h.</p><p>O retorno em meados da temporada também marca a volta de outros dramas aclamados pela crítica, como <b>Grey's Anatomy</b>, que inicia sua 22ª temporada às 22h, <b>Will Trent</b> em sua quarta temporada, e <b>The Rookie</b> em sua oitava temporada. A programação reforça a aposta da ABC em seus títulos de maior audiência para impulsionar a grade de 2026.</p>",
+      "meta_description": "ABC confirma retorno de 9-1-1 (Temporada 9) e 9-1-1: Nashville (Temporada 1) para 8 de janeiro de 2026. Grey's Anatomy, Will Trent e The Rookie também retornam.",
+      "focus_keyphrase": "9-1-1 e 9-1-1: Nashville 2026",
+      "related_keyphrases": [
+        "ABC séries 2026",
+        "Retorno de 9-1-1",
+        "Spin-off 9-1-1"
+      ],
+      "slug": "9-1-1-nashville-retorno-2026",
+      "categorias": [
+        {
+          "nome": "9-1-1",
+          "grupo": "obras",
+          "evidence": "new episodes of 9-1-1 Season 9"
+        },
+        {
+          "nome": "9-1-1: Nashville",
+          "grupo": "obras",
+          "evidence": "and the first season of its spin-off 9-1-1: Nashville"
+        },
+        {
+          "nome": "Grey's Anatomy",
+          "grupo": "obras",
+          "evidence": "Grey's Anatomy Season 22"
+        }
+      ],
+      "tags_sugeridas": [
+        "9-1-1",
+        "9-1-1 Nashville",
+        "ABC",
+        "Séries de TV",
+        "Estreia 2026"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "9-1-1 e 9-1-1: Nashville Retornam em Janeiro de 2026 na ABC",
+        "_yoast_wpseo_metadesc": "ABC confirma retorno de 9-1-1 (Temporada 9) e 9-1-1: Nashville (Temporada 1) para 8 de janeiro de 2026. Grey's Anatomy, Will Trent e The Rookie também retornam.",
+        "_yoast_wpseo_focuskw": "9-1-1 e 9-1-1: Nashville 2026",
+        "_yoast_news_keywords": "9-1-1, 9-1-1 Nashville, ABC, Grey's Anatomy, Will Trent, The Rookie",
+        "_yoast_wpseo_opengraph-title": "9-1-1 e 9-1-1: Nashville Retornam em Janeiro de 2026 na ABC",
+        "_yoast_wpseo_opengraph-description": "ABC confirma retorno de 9-1-1 (Temporada 9) e 9-1-1: Nashville (Temporada 1) para 8 de janeiro de 2026. Grey's Anatomy, Will Trent e The Rookie também retornam.",
+        "_yoast_wpseo_twitter-title": "9-1-1 e 9-1-1: Nashville Retornam em Janeiro de 2026 na ABC",
+        "_yoast_wpseo_twitter-description": "ABC confirma retorno de 9-1-1 (Temporada 9) e 9-1-1: Nashville (Temporada 1) para 8 de janeiro de 2026. Grey's Anatomy, Will Trent e The Rookie também retornam."
+      }
+    },
+    {
+      "titulo_final": "The Town: Filme de Ben Affleck Volta ao Streaming em Novembro",
+      "conteudo_final": "<p>Um dos filmes de assalto mais aclamados da última década, <b>The Town</b>, dirigido e estrelado por <b>Ben Affleck</b>, estará de volta ao catálogo de streaming. A partir de 1º de novembro, o thriller neo-noir de 2010 estará disponível na HBO Max, celebrando os 15 anos de seu lançamento original.</p><p>Baseado no romance <i>Prince of Thieves</i> de Chuck Hogan, <i>The Town</i> acompanha a história de Douglas “Doug” MacRay (Affleck), um ladrão de bancos de Boston que se apaixona por uma das vítimas de um de seus assaltos. O filme foi um sucesso de crítica e público, arrecadando mais de US$ 154 milhões mundialmente e sendo selecionado pelo National Board of Review como um dos 10 melhores filmes de 2010.</p><h2>Talento de Affleck em Destaque</h2><p>Com uma pontuação de 92% de aprovação pela crítica e 85% pelo público no Rotten Tomatoes, <i>The Town</i> solidifica-se como um dos filmes de maior destaque na filmografia de Ben Affleck. Além de impulsionar as carreiras de Jeremy Renner, Rebecca Hall e Blake Lively com papéis memoráveis, o filme também estabeleceu Affleck como um diretor promissor. Este foi seu segundo trabalho na direção após <i>Gone Baby Gone</i>, demonstrando sua habilidade em criar narrativas autênticas e envolventes, que equilibram drama humano com a tensão de uma história criminal.</p><p>O longa-metragem entrega cenas de ação eletrizantes e atuações marcantes. A performance de Affleck como Doug MacRay é particularmente notável, apresentando um personagem complexo com um passado profundo. Quinze anos após seu lançamento, <i>The Town</i> não é apenas um dos melhores filmes da carreira de Affleck, mas também um marco no gênero de assaltos, valendo a pena ser redescoberto em sua nova casa de streaming.</p><h2>Novidades na HBO Max</h2><p>A chegada de <i>The Town</i> à HBO Max em novembro faz parte de uma onda de novos conteúdos que se juntam ao catálogo. Outros títulos como <i>Dangerous Liaisons</i>, <i>National Lampoon’s Christmas Vacation</i>, <i>Red Riding Hood</i> e <i>Thirty Seconds Over Tokyo</i> também estarão disponíveis a partir do início do mês, enriquecendo as opções para os assinantes.</p>",
+      "meta_description": "Um dos melhores filmes de Ben Affleck, o thriller 'The Town' retorna ao streaming na HBO Max em 1º de novembro, 15 anos após seu lançamento.",
+      "focus_keyphrase": "The Town Ben Affleck streaming",
+      "related_keyphrases": [
+        "Filmes de assalto",
+        "Ben Affleck diretor",
+        "HBO Max novembro"
+      ],
+      "slug": "the-town-ben-affleck-streaming",
+      "categorias": [
+        {
+          "nome": "The Town",
+          "grupo": "obras",
+          "evidence": "Ben Affleck's Best Movie Is Coming Back to Streaming"
+        },
+        {
+          "nome": "Ben Affleck",
+          "grupo": "pessoas",
+          "evidence": "Ben Affleck is one of the biggest stars Hollywood"
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "editorias",
+          "evidence": "available to stream on HBO Max"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Town",
+        "Ben Affleck",
+        "Filme de Assalto",
+        "Crime",
+        "HBO Max",
+        "Streaming"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Poster promocional do filme The Town, com Ben Affleck em destaque.",
+        "Ex-Machina.jpg": "Imagem promocional do filme Ex Machina.",
+        "Halo-Combat-Evolved.jpg": "Arte conceitual do jogo Halo Combat Evolved.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Episode-.jpg": "Cena da série Agents of SHIELD do MCU.",
+        "netflix-a-house-of-dynamite.jpg": "Poster do filme A House of Dynamite da Netflix.",
+        "stephen-king-misery.jpg": "Imagem promocional do filme Misery, baseado em Stephen King.",
+        "hqdefault.jpg": "Thumbnail do trailer do filme The Town no YouTube.",
+        "maxresdefault.jpg": "Imagem de alta resolução do trailer do filme The Town no YouTube."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Town: Filme de Ben Affleck Volta ao Streaming em Novembro na HBO Max",
+        "_yoast_wpseo_metadesc": "Um dos melhores filmes de Ben Affleck, o thriller 'The Town' retorna ao streaming na HBO Max em 1º de novembro, 15 anos após seu lançamento.",
+        "_yoast_wpseo_focuskw": "The Town Ben Affleck streaming",
+        "_yoast_news_keywords": "The Town, Ben Affleck, HBO Max, Filmes de Assalto, Crime",
+        "_yoast_wpseo_opengraph-title": "The Town: Filme de Ben Affleck Volta ao Streaming em Novembro na HBO Max",
+        "_yoast_wpseo_opengraph-description": "Um dos melhores filmes de Ben Affleck, o thriller 'The Town' retorna ao streaming na HBO Max em 1º de novembro, 15 anos após seu lançamento.",
+        "_yoast_wpseo_twitter-title": "The Town: Filme de Ben Affleck Volta ao Streaming em Novembro na HBO Max",
+        "_yoast_wpseo_twitter-description": "Um dos melhores filmes de Ben Affleck, o thriller 'The Town' retorna ao streaming na HBO Max em 1º de novembro, 15 anos após seu lançamento."
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Aaahh!!! Real Monsters: A animação de terror da Nickelodeon que merece um revival",
+      "conteudo_final": "<p>Há 31 anos, a Nickelodeon estreava um de seus NickToons mais assustadores: <b>Aaahh!!! Real Monsters</b>. A série acompanhava as histórias de terror contadas pela Sociedade da Meia-Noite, um grupo de crianças que compartilhava contos para manter os espectadores acordados. Embora a série tenha recebido um reboot com novos personagens, a produção original focada em criaturas assustadoras merece uma nova chance.</p>\n\n<h2>A Origem dos Monstros Reais</h2>\n<p><b>Aaahh!!! Real Monsters</b> estreou na Nickelodeon em 29 de outubro de 1994, apresentando uma escola de monstros dedicada a treinar jovens criaturas para assustar a humanidade. Antes mesmo de <b>Harry Potter</b> e <b>Monstros S.A.</b> ganharem destaque, Ickis, Krumm e Oblina já frequentavam a universidade sobrenatural. Para se destacar na escola, o trio precisava criar sustos criativos e impressionar seu diretor, The Gromble. Falhas nas tarefas resultavam em punições severas, não apenas do diretor, mas também do silencioso e imponente The Snorch.</p>\n\n<p>A série chegou ao fim após quatro temporadas e mais de cinquenta episódios. Infelizmente, para Oblina, Ickis e Krumm, o final da série marcou o fim da franquia, exceto por aparições em videogames e material promocional. A Nickelodeon tem um histórico de revivals de NickToons, como <b>Rugrats</b>, <b>Os Padrinhos Mágicos</b> e <b>Doug</b>. Em celebração à temporada de Halloween, é natural pensar em como os Monstros Reais poderiam funcionar nos dias atuais.</p>\n\n<h2>O Retorno dos Monstros Reais</h2>\n<p>O mundo mudou bastante desde que <b>Aaahh!!! Real Monsters</b> esteve no ar, oferecendo um vasto território a ser explorado em um possível retorno. Assim como outras séries animadas com temática escolar, como <b>Tiny Toons</b>, um revival poderia apresentar os personagens mais velhos, agora no ensino superior. Ver Krumm, Oblina e Ickis em um ambiente universitário, tentando assustar enquanto lidam com temas mais adultos, seria uma reviravolta interessante. A série se diferenciava de <b>Monstros S.A.</b>, da Disney, por focar em uma escola para jovens monstros, em vez de adultos, abrindo novas possibilidades.</p>\n\n<p>O último episódio da série não terminou em um cliffhanger, mas sim revisitando o momento em que o trio de monstros se conheceu antes de se tornarem melhores amigos na escola. Isso significa que um potencial revival não estaria limitado por eventos passados da série original.</p>\n\n<p>Até o momento, não há informações sobre um retorno de <b>Aaahh!!! Real Monsters</b> com uma sequência ou reboot. No entanto, a série se encaixaria perfeitamente no catálogo atual da Paramount. Para quem não conhece a série ou não teve a chance de assistir, todas as quatro temporadas estão disponíveis para streaming na Paramount+. Com pouca continuidade entre os episódios, a série permite que o público comece a assistir a qualquer momento, tornando-a acessível para novos fãs.</p>\n\n<figure>\n  <img src=\"https:
+      "meta_description": "Há 31 anos, Aaahh!!! Real Monsters estreava na Nickelodeon. A animação de terror merece um revival e aqui explicamos o porquê.",
+      "focus_keyphrase": "Aaahh!!! Real Monsters revival",
+      "related_keyphrases": [
+        "Aaahh!!! Real Monsters",
+        "NickToons",
+        "Nickelodeon"
+      ],
+      "slug": "aaahh-real-monsters-revival-nickelodeon",
+      "categorias": [
+        {
+          "nome": "Aaahh!!! Real Monsters",
+          "grupo": "obras",
+          "evidence": "Aaahh!!! Real Monsters first arrived on Nickelodeon on October 29th, 1994"
+        },
+        {
+          "nome": "Nickelodeon",
+          "grupo": "editorias",
+          "evidence": "Aaahh!!! Real Monsters first arrived on Nickelodeon"
+        },
+        {
+          "nome": "NickToons",
+          "grupo": "franquias",
+          "evidence": "NickToons being brought back for a revival is nothing new for Nickelodeon"
+        }
+      ],
+      "tags_sugeridas": [
+        "Aaahh!!! Real Monsters",
+        "Nickelodeon",
+        "NickToons",
+        "Animação",
+        "Revival"
+      ],
+      "image_alt_texts": {
+        "Aaahh-Real-Monsters.jpg": "Ickis, Krumm e Oblina em Aaahh!!! Real Monsters",
+        "Ex-Machina.jpg": "Cena do filme Ex Machina",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Cena da série Agents of SHIELD",
+        "PlayStation-Plus-Stray.jpg": "Imagem do jogo Stray",
+        "netflix-a-house-of-dynamite.jpg": "Cena da série A House of Dynamite",
+        "nightfall-movie.jpg": "Cena do filme Nightfall",
+        "x-b-o-x-g-a-m-e-p-a-s-s_45a3c5.png": "Logo do Xbox Game Pass"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Aaahh!!! Real Monsters: A animação de terror da Nickelodeon que merece um revival",
+        "_yoast_wpseo_metadesc": "Há 31 anos, Aaahh!!! Real Monsters estreava na Nickelodeon. A animação de terror merece um revival e aqui explicamos o porquê.",
+        "_yoast_wpseo_focuskw": "Aaahh!!! Real Monsters revival",
+        "_yoast_news_keywords": "Aaahh!!! Real Monsters, Nickelodeon, NickToons, Animação, Revival",
+        "_yoast_wpseo_opengraph-title": "Aaahh!!! Real Monsters: A animação de terror da Nickelodeon que merece um revival",
+        "_yoast_wpseo_opengraph-description": "Há 31 anos, Aaahh!!! Real Monsters estreava na Nickelodeon. A animação de terror merece um revival e aqui explicamos o porquê.",
+        "_yoast_wpseo_twitter-title": "Aaahh!!! Real Monsters: A animação de terror da Nickelodeon que merece um revival",
+        "_yoast_wpseo_twitter-description": "Há 31 anos, Aaahh!!! Real Monsters estreava na Nickelodeon. A animação de terror merece um revival e aqui explicamos o porquê."
+      }
+    },
+    {
+      "titulo_final": "Station Eleven: Minissérie de ficção científica da HBO com 98% no Rotten Tomatoes",
+      "conteudo_final": "<p>Em meio a um mar de séries de ficção científica de prestígio, muitas se perdem no radar cultural. No entanto, a HBO possui uma joia escondida que, apesar de ter conquistado uma pontuação quase perfeita no Rotten Tomatoes, parece ter sido amplamente ignorada: <b>Station Eleven</b>.</p>\n\n<h2>O que é Station Eleven?</h2>\n<p>Baseada no romance de Emily St. John Mandel de 2014 e adaptada por Patrick Somerville, a minissérie de ficção científica estreou na HBO Max em dezembro de 2021 com uma temporada limitada de 10 episódios. No agregador de críticas <b>Rotten Tomatoes</b>, a série ostenta uma aprovação de 98% dos críticos, com o consenso destacando que a obra \"recompensa espectadores pacientes com uma afirmação perspicaz e tematicamente rica de que — mesmo no pós-apocalipse — o show deve continuar\". Se você a perdeu, esta é a sua chance de conferir <b>Station Eleven</b>.</p>\n\n<h2>Por que Station Eleven é Imperdível</h2>\n<p><b>Station Eleven</b> transita entre diferentes linhas do tempo: o colapso desencadeado por uma gripe letal e a situação duas décadas depois, onde os sobreviventes tentam reconstruir a civilização em meio às ruínas. O grupo central é a \"Traveling Symphony\", uma trupe de atores e músicos que arriscam tudo para levar apresentações (frequentemente de Shakespeare) a assentamentos isolados. Ao focar na arte após o apocalipse, <b>Station Eleven</b> se distancia do típico drama de sobrevivência de ficção científica para apresentar um estudo sobre o que torna a vida significativa.</p>\n\n<p>Críticos aclamam a série como imperdível. Uma crítica no Rotten Tomatoes a descreve como \"Absolutamente digna de ser assistida, mesmo que apenas pela construção de mundo assombrosa e pela atuação excelente em exibição\". Outra elogiou seu otimismo: \"Station Eleven é uma história de fim de mundo singularmente otimista que atinge todos os pontos certos\".</p>\n\n<p>À medida que as linhas do tempo se entrelaçam, a excelente adaptação de Somerville é sustentada por performances fantásticas de Mackenzie Davis como Kirsten Raymonde e Himesh Patel como Jeevan, antes e depois do colapso. A série foi indicada a múltiplos Emmys, incluindo Ator Principal Excepcional em Minissérie. Apesar de seu sucesso crítico, <b>Station Eleven</b> ainda não alcançou o mesmo reconhecimento cultural de outras séries de ficção científica como <b>Black Mirror</b> e <b>Severance</b>. No entanto, sua nota de 98% não é por acaso. A aventura pós-apocalíptica única é uma experiência recompensadora que cumpre suas promessas sobre arte e esperança como meios de sobrevivência após o fim do mundo como o conhecemos.</p>\n\n<figure>\n  <img src=\"https:
+      "meta_description": "Station Eleven, minissérie de ficção científica da HBO, tem 98% no Rotten Tomatoes e merece sua atenção. Descubra por que esta joia pós-apocalíptica é imperdível.",
+      "focus_keyphrase": "Station Eleven HBO",
+      "related_keyphrases": [
+        "Minissérie de ficção científica",
+        "Rotten Tomatoes",
+        "HBO Max"
+      ],
+      "slug": "station-eleven-hbo-minisserie",
+      "categorias": [
+        {
+          "nome": "Station Eleven",
+          "grupo": "obras",
+          "evidence": "Station Eleven is based on Emily St. John Mandel’s 2014 novel."
+        },
+        {
+          "nome": "HBO",
+          "grupo": "editorias",
+          "evidence": "One such hidden gem from HBO appears to have been largely overlooked"
+        },
+        {
+          "nome": "Ficção Científica",
+          "grupo": "editorias",
+          "evidence": "The streaming landscape is currently flooded with prestige sci-fi shows"
+        }
+      ],
+      "tags_sugeridas": [
+        "Station Eleven",
+        "HBO",
+        "HBO Max",
+        "Ficção Científica",
+        "Minissérie",
+        "Rotten Tomatoes"
+      ],
+      "image_alt_texts": {
+        "Mackenzie-Davis-in-Station-Eleven.jpg": "Mackenzie Davis como Kirsten Raymonde em Station Eleven",
+        "Ex-Machina.jpg": "Cena do filme Ex Machina",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Cena da série Agents of SHIELD",
+        "PlayStation-Plus-Stray.jpg": "Imagem do jogo Stray",
+        "netflix-a-house-of-dynamite.jpg": "Cena da série A House of Dynamite",
+        "nightfall-movie.jpg": "Cena do filme Nightfall",
+        "x-b-o-x-g-a-m-e-p-a-s-s_45a3c5.png": "Logo do Xbox Game Pass"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Station Eleven: Minissérie de ficção científica da HBO com 98% no Rotten Tomatoes",
+        "_yoast_wpseo_metadesc": "Station Eleven, minissérie de ficção científica da HBO, tem 98% no Rotten Tomatoes e merece sua atenção. Descubra por que esta joia pós-apocalíptica é imperdível.",
+        "_yoast_wpseo_focuskw": "Station Eleven HBO",
+        "_yoast_news_keywords": "Station Eleven, HBO, HBO Max, Ficção Científica, Minissérie, Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-title": "Station Eleven: Minissérie de ficção científica da HBO com 98% no Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-description": "Station Eleven, minissérie de ficção científica da HBO, tem 98% no Rotten Tomatoes e merece sua atenção. Descubra por que esta joia pós-apocalíptica é imperdível.",
+        "_yoast_wpseo_twitter-title": "Station Eleven: Minissérie de ficção científica da HBO com 98% no Rotten Tomatoes",
+        "_yoast_wpseo_twitter-description": "Station Eleven, minissérie de ficção científica da HBO, tem 98% no Rotten Tomatoes e merece sua atenção. Descubra por que esta joia pós-apocalíptica é imperdível."
+      }
+    }
+  ]
+}

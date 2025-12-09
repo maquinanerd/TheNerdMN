@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Aaron Pierre relembra saída do reboot de Blade e fala sobre 'Lanterns'",
+  "conteudo_final": "<p>O reboot de <b>Blade</b>, há muito tempo em desenvolvimento pela Marvel, passou por diversas mudanças de roteiristas, diretores e até atores desde seu anúncio em 2019. Entre os nomes que estiveram ligados ao projeto está <b>Aaron Pierre</b>, escalado para um papel importante ao lado de <b>Mahershala Ali</b>. Pierre comentou sua saída, revelando que ela ocorreu devido às constantes alterações criativas do filme.</p><p>As primeiras versões do roteiro imaginavam uma ambientação de época onde seu personagem teria um papel crucial. No entanto, com a evolução do projeto para uma linha do tempo moderna, essa versão da história e o personagem de Pierre foram deixados de lado. Em entrevista recente, ele expressou sua empolgação: \"Lembro de ter sido escalado para <b>Blade</b> e me sentir eufórico\", disse. Contudo, devido a uma mudança criativa, ele foi dispensado. \"Algo que aprendi naquele período foi que, até você pisar no set, não começou o trabalho. Apenas tomou um rumo criativo diferente, e eu não fazia mais parte disso. Você tem que aceitar\", compartilhou.</p><p>Mais de um ano após a saída de Pierre, a Marvel ainda não definiu uma direção clara para <b>Blade</b>. Uma série de adiamentos na data de lançamento culminou na retirada completa do filme da agenda do estúdio. Embora Kevin Feige tenha assegurado aos fãs que o filme ainda acontecerá, ele parece ter ficado em segundo plano diante de prioridades maiores, como <b>Vingadores: Doomsday</b> e <b>Guerras Secretas</b>. Felizmente, uma equipe ainda permanece quando a Marvel decidir retomar o projeto. Ali continua ligado ao papel principal, mas sua paciência parece estar se esgotando com os atrasos na produção. Enquanto isso, a colega de elenco Mia Goth, escalada como Lilith, defendeu a decisão da Marvel de adiar, afirmando que \"é para melhor\" porque \"eles querem fazer certo\".</p><h2>'Lanterns', série da DC de Aaron Pierre, é descrita como \"Buddy Cop Show\"</h2><p>A saída de Pierre de <b>Blade</b> abriu caminho para uma oportunidade ainda maior no rival Universo DC. A franquia reformulada por <b>James Gunn</b> rapidamente escalou o ator para interpretar John Stewart, o Lanterna Verde negro, ao lado de Kyle Chandler como Hal Jordan, na futura série da HBO, <b>Lanterns</b>, prevista para o início de 2026. O showrunner Chris Mundy (True Detective, Ozark) adiantou que a série será \"tanto um show de policiais parceiros quanto um show de super-heróis\".</p><p>Teaseando o personagem de Pierre e o que esperar da série, Mundy disse:</p><blockquote><p>“Nosso show, em muitos aspectos, é sobre substituição – quando alguém deve dar um passo para o lado e quando é hora da próxima pessoa assumir as rédeas? Esse embate entre esses dois personagens é realmente importante. Grande parte do poder que John possui é por não morder a isca, entendendo que você perde seu poder se estiver gritando e berrando. É isso que estamos tentando transmitir: ele sabe que pertence, então não precisa compensar demais. Há um equilíbrio real ali que está inerentemente dentro de Aaron. Ele é grande. Ele é uma presença intimidadora fisicamente. Mas há uma suavidade nele também. Há uma reflexão. Você não pode ensinar isso.”</p></blockquote><p>Fique ligado para mais atualizações.</p><figure><img src=\"https:
+  "meta_description": "Aaron Pierre revela detalhes sobre sua saída do reboot de Blade da Marvel e comenta seu novo papel como John Stewart na série Lanterns da DC.",
+  "focus_keyphrase": "Aaron Pierre Blade Lanterns",
+  "related_keyphrases": [
+    "reboot de Blade Marvel",
+    "série Lanterns DC",
+    "John Stewart Lanterna Verde"
+  ],
+  "slug": "aaron-pierre-blade-lanterns",
+  "categorias": [
+    {
+      "nome": "Blade",
+      "grupo": "franquias",
+      "evidence": "Marvel’s long-gestating Blade reboot"
+    },
+    {
+      "nome": "Lanterns",
+      "grupo": "franquias",
+      "evidence": "HBO series Lanterns"
+    },
+    {
+      "nome": "DC Universe",
+      "grupo": "franquias",
+      "evidence": "rival DC Universe came knocking"
+    }
+  ],
+  "tags_sugeridas": [
+    "Aaron Pierre",
+    "Blade",
+    "Marvel Studios",
+    "DC Studios",
+    "Lanterns",
+    "John Stewart",
+    "Mahershala Ali"
+  ],
+  "image_alt_texts": {
+    "03171309_poster_w780.jpg": "Aaron Pierre como John Stewart na série Lanterns da DC."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Aaron Pierre: Saída de Blade e Novo Papel em 'Lanterns' da DC",
+    "_yoast_wpseo_metadesc": "Aaron Pierre revela detalhes sobre sua saída do reboot de Blade da Marvel e comenta seu novo papel como John Stewart na série Lanterns da DC.",
+    "_yoast_wpseo_focuskw": "Aaron Pierre Blade Lanterns",
+    "_yoast_news_keywords": "Aaron Pierre, Blade, Marvel Studios, DC Studios, Lanterns, John Stewart, Mahershala Ali, James Gunn",
+    "_yoast_wpseo_opengraph-title": "Aaron Pierre: Saída de Blade e Novo Papel em 'Lanterns' da DC",
+    "_yoast_wpseo_opengraph-description": "Aaron Pierre revela detalhes sobre sua saída do reboot de Blade da Marvel e comenta seu novo papel como John Stewart na série Lanterns da DC.",
+    "_yoast_wpseo_twitter-title": "Aaron Pierre: Saída de Blade e Novo Papel em 'Lanterns' da DC",
+    "_yoast_wpseo_twitter-description": "Aaron Pierre revela detalhes sobre sua saída do reboot de Blade da Marvel e comenta seu novo papel como John Stewart na série Lanterns da DC."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "titulo_final": "Tulsa King: Neal McDonough quer destronar Sylvester Stallone na 3ª temporada",
+  "conteudo_final": "<p>A terceira temporada de <b>Tulsa King</b> promete uma disputa acirrada pelo poder em Tulsa, com o personagem de Neal McDonough, Cal Thresher, determinado a assumir o posto de Sylvester Stallone como Dwight \"The General\" Manfredi.</p><h2>Cal Thresher Mira o Governo de Tulsa</h2><p>Neal McDonough, conhecido por seus papéis em <b>Yellowstone</b> e <b>Band of Brothers</b>, revelou em entrevista que Cal Thresher terá uma missão clara na terceira temporada: tornar-se o governador de Oklahoma. Essa ambição pessoal foi uma sugestão do próprio ator ao produtor David Glasser, que rapidamente se concretizou nos roteiros.</p><p>McDonough descreve Cal como um homem movido por reflexão e fé, mais do que por fama. Sua participação em eventos sociais é contida, preferindo o convívio familiar, esportes e momentos de introspecção. No entanto, a ambição de Cal o leva a uma linha tênue entre suas convicções e a busca por poder, onde ele demonstra ter um lado mais implacável.</p><blockquote><p>“Cal Thresher é um homem com uma missão na 3ª temporada — custe o que custar, ele vai se tornar o governador. Existem certas coisas que ele tem que fazer e certas coisas que ele não deveria fazer. E o que ele não deveria fazer é passar tempo em público com Frank Grillo ou Sylvester Stallone. Bevilacqua e Manfredi são meio que sua kryptonita.”</p></blockquote><h2>Ambição e Amor por Oklahoma</h2><p>Apesar de sua natureza ambiciosa, o ator insiste que há um coração genuíno por trás das aspirações de Cal. McDonough expressa um forte apreço pela cidade e pelo estado de Oklahoma, afirmando que Cal compartilha desse orgulho e deseja proteger a região para as futuras gerações. \"Ele realmente ama Oklahoma. Adoro filmar em Tulsa. Tudo sobre isso — é cowboy encontra artista encontra ótima comida. Então, posso ver alguém como Cal, dessa área, sentindo orgulho e querendo protegê-la para as gerações futuras.\"</p><p>McDonough vê a rivalidade entre Cal e Dwight Manfredi como uma competição saudável, onde Cal não busca destruir Dwight, mas sim superar suas próprias ambições. O ator aborda seus personagens vilanescos a partir de um lugar de convicção, acreditando que a complexidade e uma aparente \"bondade\" subjacente tornam os personagens mais intrigantes e assustadores.</p><blockquote><p>“Quando interpreto um vilão, sempre penso que estou certo em tudo o que faço. É isso que o torna assustador. É o cara da porta ao lado que parece legal — até você perceber do que ele é capaz.”</p></blockquote><h2>O Futuro de Tulsa King</h2><p>Cal Thresher não é um vilão comum; ele possui uma trajetória de bondade e um desejo de contribuir para o estado, utilizando seus recursos e influência para promover mudanças. Ele acredita ser o único capaz de realizar o que é necessário para Oklahoma.</p><p>O personagem não hesita em confrontos e não se intimida facilmente. A relação profissional entre McDonough e Frank Grillo (intérprete de Bill Bevilacqua) é de grande respeito, apesar da rivalidade na tela. McDonough até revelou ter escrito um roteiro de filme sobre gângsteres para Grillo.</p><blockquote><p>“Eu amo Frank. Nos conhecemos desde Minority Report, e ele é o cara que mais preza pela família. Sly é a mesma coisa — vamos ter um ótimo dia, vamos trabalhar duro. Todos nós somos do mesmo tipo.”</p></blockquote><p>Ao final da terceira temporada de Tulsa King, o público verá Cal Thresher revelar sua verdadeira face: um político calculista por trás de uma fachada charmosa. Ele começa a temporada com intenções cooperativas, mas à medida que seus objetivos se aproximam, sua verdadeira natureza emerge. McDonough garante que, embora Dwight Manfredi tenha reinado em Tulsa até agora, a nova temporada mudará essa dinâmica.</p><blockquote><p>“No final desta temporada, haverá apenas um verdadeiro Rei de Tulsa — e esse é Cal Thresher.”</p></blockquote><p>Tulsa King é exibida aos domingos no Paramount+.</p>",
+  "meta_description": "Neal McDonough revela a ambição de seu personagem Cal Thresher em Tulsa King 3: destronar Sylvester Stallone e se tornar governador.",
+  "focus_keyphrase": "Tulsa King 3 Cal Thresher",
+  "related_keyphrases": [
+    "Neal McDonough Tulsa King",
+    "Sylvester Stallone Tulsa King",
+    "Cal Thresher governador"
+  ],
+  "slug": "tulsa-king-3-cal-thresher-stallone",
+  "categorias": [
+    {
+      "nome": "Tulsa King",
+      "grupo": "obras",
+      "evidence": "Tulsa King Season 3"
+    },
+    {
+      "nome": "Sylvester Stallone",
+      "grupo": "elenco",
+      "evidence": "Sylvester Stallone’s Dwight “The General” Manfredi"
+    },
+    {
+      "nome": "Neal McDonough",
+      "grupo": "elenco",
+      "evidence": "Neal McDonough wants there to be no doubt"
+    }
+  ],
+  "tags_sugeridas": [
+    "tulsa-king",
+    "sylvester-stallone",
+    "neal-mcdonough",
+    "paramount+",
+    "séries-de-crime",
+    "drama"
+  ],
+  "image_alt_texts": {
+    "tulsa-king-season-3-neal-mcdonough.jpg": "Neal McDonough como Cal Thresher em cena da 3ª temporada de Tulsa King.",
+    "poster_w780.jpg": "Pôster oficial da série Tulsa King.",
+    "greene.jpg": "Personagens da série Tulsa King em cena.",
+    "sylvester-stallone-as-dwight-manfredi-flanked-by-jay-will-as-tyson-mitchell-and-mike-walden-as-bigfoot-in-tulsa-king-season-3.jpg": "Sylvester Stallone como Dwight Manfredi ladeado por outros personagens em Tulsa King.",
+    "tulsa-king-season-2-ep-10-1.jpg": "Cena da segunda temporada de Tulsa King.",
+    "tulsa-king-season-2-ep-10-17.jpg": "Bastidores de Tulsa King.",
+    "tulsa-king-season-2-ep-10-20.jpg": "Elenco de Tulsa King em cena.",
+    "tulsa-king-season-2-ep-10-27.jpg": "Sequência de ação em Tulsa King.",
+    "tulsa-king-season-2-ep-10-28.jpg": "Personagens em momento de tensão em Tulsa King.",
+    "tulsa-king-season-2-ep-10-3.jpg": "Cena dramática em Tulsa King.",
+    "tulsa-king-season-2-ep-10-4.jpg": "Diálogo entre personagens em Tulsa King.",
+    "tulsa-king-season-2-ep-10-9.jpg": "Visão geral de Tulsa King."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Tulsa King 3: Neal McDonough quer destronar Sylvester Stallone",
+    "_yoast_wpseo_metadesc": "Neal McDonough revela a ambição de seu personagem Cal Thresher em Tulsa King 3: destronar Sylvester Stallone e se tornar governador.",
+    "_yoast_wpseo_focuskw": "Tulsa King 3 Cal Thresher",
+    "_yoast_news_keywords": "Tulsa King, Neal McDonough, Sylvester Stallone, Cal Thresher, Paramount+, séries de crime",
+    "_yoast_wpseo_opengraph-title": "Tulsa King 3: Neal McDonough quer destronar Sylvester Stallone",
+    "_yoast_wpseo_opengraph-description": "Neal McDonough revela a ambição de seu personagem Cal Thresher em Tulsa King 3: destronar Sylvester Stallone e se tornar governador.",
+    "_yoast_wpseo_twitter-title": "Tulsa King 3: Neal McDonough quer destronar Sylvester Stallone",
+    "_yoast_wpseo_twitter-description": "Neal McDonough revela a ambição de seu personagem Cal Thresher em Tulsa King 3: destronar Sylvester Stallone e se tornar governador."
+  }
+}

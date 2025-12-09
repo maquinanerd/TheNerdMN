@@ -1,0 +1,98 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Sitcoms dos anos 90: Episódios icônicos que superam a TV atual",
+      "conteudo_final": "<p>Em meio a novas comédias como <em>Abbott Elementary</em> e o aguardado spin-off de <em>The Office</em>, <em>The Paper</em>, há um conforto especial em revisitar as séries que marcaram os anos 1990. Os episódios dessa década não apenas nos fazem refletir sobre temas sérios e reviver emoções, mas também nos encantam com a sabedoria e o humor de personagens amados.</p><h2><strong><em>Mad About You</strong></em><strong>, “Neighbors From Hell” (Temporada 1, Episódio 10)</strong></h2><p>A subestimada série <em>Mad About You</em> apresenta um episódio notável em sua primeira temporada que demonstra o porquê de sua relevância. Acompanhar <strong>Jamie (Helen Hunt) e Paul Buchman (Paul Reiser) tentando se tornar amigos de seus vizinhos, Maggie (Judy Geeson) e Hal Conway (Paxton Whitehead)</strong>, é hilário e, ao mesmo tempo, incrivelmente fácil de se identificar. A trama explora a frustração e o desespero dos casais que não conseguem se conectar, um dilema comum na vida real.</p><figure class=\"video-container\"><img src=\"https:
+      "meta_description": "Relembre 10 episódios de sitcoms dos anos 90 que, por sua relevância e qualidade, ainda superam muitas produções televisivas atuais. Descubra os clássicos que definiram uma era.",
+      "focus_keyphrase": "Sitcoms anos 90",
+      "related_keyphrases": [
+        "melhores episódios sitcom 1990",
+        "comédias clássicas dos anos 90",
+        "TV dos anos 90"
+      ],
+      "slug": "sitcoms-anos-90-episodios-classicos",
+      "categorias": [
+        {
+          "nome": "Mad About You",
+          "grupo": "obras",
+          "evidence": "Mad About You, “Neighbors From Hell”"
+        },
+        {
+          "nome": "Friends",
+          "grupo": "obras",
+          "evidence": "Friends, “The One Where Monica Gets A Roommate”"
+        },
+        {
+          "nome": "Frasier",
+          "grupo": "obras",
+          "evidence": "Frasier, “Dinner Party”"
+        },
+        {
+          "nome": "Boy Meets World",
+          "grupo": "obras",
+          "evidence": "Boy Meets World, “And Then There Was Shawn”"
+        },
+        {
+          "nome": "Family Matters",
+          "grupo": "obras",
+          "evidence": "Family Matters, “The Quilt”"
+        },
+        {
+          "nome": "Newsradio",
+          "grupo": "obras",
+          "evidence": "Newsradio, “Smoking”"
+        },
+        {
+          "nome": "Sex and the City",
+          "grupo": "obras",
+          "evidence": "Sex And The City, “The Baby Shower”"
+        },
+        {
+          "nome": "Everybody Loves Raymond",
+          "grupo": "obras",
+          "evidence": "Everybody Loves Raymond, “Baggage”"
+        },
+        {
+          "nome": "The Fresh Prince of Bel-Air",
+          "grupo": "obras",
+          "evidence": "The Fresh Prince Of Bel-Air, “Bullets Over Bel-Air”"
+        },
+        {
+          "nome": "Seinfeld",
+          "grupo": "obras",
+          "evidence": "Seinfeld, “The Chinese Restaurant”"
+        }
+      ],
+      "tags_sugeridas": [
+        "sitcoms",
+        "anos 90",
+        "tv clássica",
+        "comédia",
+        "episódios marcantes",
+        "nostalgia"
+      ],
+      "image_alt_texts": {
+        "mad-about-you.jpg": "Paul e Jamie em uma cena de Mad About You com seus vizinhos.",
+        "friends-pilot-rachel-on-the-phone-with-ross-behind-her.jpg": "Rachel em seu vestido de noiva, conversando ao telefone, com Ross ao fundo em Friends.",
+        "frasier-dinner-party.jpg": "Niles e Frasier Crane em uma conversa tensa no episódio Dinner Party de Frasier.",
+        "Boy-Meets-World-And-Then-There-Was-Shawn-Season-5.jpg": "Cory, Shawn, Topanga e Angela em uma cena de suspense do episódio de Boy Meets World.",
+        "family-matters-laura.jpg": "Laura Winslow em uma cena emocionante do episódio The Quilt de Family Matters.",
+        "newsradio-smoking-episode.jpg": "Phil Hartman e Dave Foley em uma cena do episódio Smoking de Newsradio.",
+        "sex-and-the-city-miranda-carrie.jpg": "Miranda e Carrie em um chá de bebê no episódio The Baby Shower de Sex and the City.",
+        "everybody-loves-raymond-debra.jpg": "Debra (Patricia Heaton) com uma expressão preocupada em Everybody Loves Raymond.",
+        "the-fresh-prince-of-bel-air-will-carlton.jpg": "Will Smith e Alfonso Ribeiro em uma cena dramática de The Fresh Prince of Bel-Air.",
+        "jerry-elaine-and-george-in-a-chinese-restaurant-in-seinfeld.jpg": "Jerry, Elaine e George em um restaurante chinês em uma cena de Seinfeld."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Sitcoms Anos 90: Episódios Icônicos que Superam a TV Atual | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Relembre 10 episódios de sitcoms dos anos 90 que, por sua relevância e qualidade, ainda superam muitas produções televisivas atuais. Descubra os clássicos que definiram uma era.",
+        "_yoast_wpseo_focuskw": "Sitcoms anos 90",
+        "_yoast_news_keywords": "sitcoms, anos 90, Friends, Seinfeld, Frasier, Mad About You, Everybody Loves Raymond, The Fresh Prince of Bel-Air, Family Matters, Boy Meets World, Newsradio, Sex and the City",
+        "_yoast_wpseo_opengraph-title": "Sitcoms dos Anos 90: Episódios que Continuam Melhores que Conteúdo Atual",
+        "_yoast_wpseo_opengraph-description": "Reviva os melhores momentos das sitcoms dos anos 90 e descubra por que seus episódios ainda são referência na televisão.",
+        "_yoast_wpseo_twitter-title": "Sitcoms Anos 90: Episódios Icônicos que Superam a TV Atual",
+        "_yoast_wpseo_twitter-description": "Relembre 10 episódios de sitcoms dos anos 90 que, por sua relevância e qualidade, ainda superam muitas produções televisivas atuais. Descubra os clássicos que definiram uma era."
+      }
+    }
+  ]
+}

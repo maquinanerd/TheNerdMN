@@ -1,0 +1,97 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Kitchen é cancelado pela Food Network após 10 anos no ar",
+      "conteudo_final": "<p>O programa de culinária e talk show <b>The Kitchen</b>, exibido pela Food Network, foi oficialmente cancelado e fará sua última apresentação ainda este ano, após mais de uma década de exibição. A notícia surpreendeu os fãs, que transformaram o programa em parte de sua rotina nas manhãs de sábado desde sua estreia em 2014.</p>\n<p>Com apresentação de Sunny Anderson, Katie Lee Biegel, Jeff Mauro e Geoffrey Zakarian, e a participação frequente de Alex Guarnaschelli, The Kitchen se consolidou como um pilar da programação da Food Network por mais de dez anos. O programa estreou com Anderson, Biegel, Mauro, Zakarian e Marcella Valladolid, que deixou o elenco em 2017.</p>\n<h2>O Legado de 'The Kitchen'</h2>\n<p>Ao longo de suas temporadas, The Kitchen se destacou pela combinação de receitas simples e populares, conversas animadas e episódios temáticos. O formato misturava o ensino de culinária com um bate-papo leve, proporcionando aos espectadores um vislumbre das personalidades por trás dos maiores nomes da Food Network.</p>\n<p>O programa recebeu inúmeras celebridades e personalidades do mundo da gastronomia. Entre os convidados ilustres estiveram Daniel Radcliffe, Regina King, Tony Shalhoub, Susan Lucci, Tiffani Thiessen, Trisha Yearwood, Joey Fatone, Martha Stewart, Emeril Lagasse, Wolfgang Puck, Rachael Ray, Bobby Flay, Ree Drummond e Carla Hall.</p>\n<h2>Declaração Oficial da Warner Bros. Discovery</h2>\n<p>Betsy Ayala, Head of Content for Food da Warner Bros. Discovery, elogiou o elenco e o legado do programa em uma declaração oficial:</p>\n<blockquote>\n<p>“Por mais de uma década, Sunny, Katie, Jeff, Geoffrey e, mais recentemente, Alex, engajaram o público com suas sensibilidades culinárias e senso de humor distintos, que juntos tornam The Kitchen uma forma deliciosa de passar uma hora”, disse Ayala. “Todos sabem que as melhores festas acabam na cozinha, onde a conversa, as risadas e a comida fluem; as melhores festas provavelmente terminam um pouco mais cedo do que alguns convidados gostariam, mas temos doze anos de memórias e queríamos celebrar o trabalho árduo desta equipe durante uma última temporada de festas.”</p>\n</blockquote>\n<p>O episódio final está programado para ir ao ar próximo às festas de fim de ano, convidando os espectadores a se reunirem em família para cozinhar e desfrutar do programa uma última vez.</p>",
+      "meta_description": "Food Network anuncia o fim de 'The Kitchen' após 10 anos de sucesso. Programa de culinária e talk show com Sunny Anderson e outros hosts chega ao fim.",
+      "focus_keyphrase": "The Kitchen cancelado Food Network",
+      "related_keyphrases": [
+        "Food Network cancela programa",
+        "The Kitchen última temporada",
+        "Sunny Anderson programa"
+      ],
+      "slug": "the-kitchen-cancelado-food-network",
+      "categorias": [
+        {
+          "nome": "The Kitchen",
+          "grupo": "obras",
+          "evidence": "After more than ten years of cooking, chatting and mingling with the biggest names in show business, The Kitchen is officially closing its doors and serving its last meal."
+        },
+        {
+          "nome": "Food Network",
+          "grupo": "editorias",
+          "evidence": "Food Network confirmed that the long-running weekend talk show will end later this year"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Kitchen",
+        "Food Network",
+        "Sunny Anderson",
+        "Katie Lee Biegel",
+        "Jeff Mauro",
+        "Geoffrey Zakarian"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Kitchen Cancelado: Food Network encerra programa após 10 anos",
+        "_yoast_wpseo_metadesc": "Food Network anuncia o fim de 'The Kitchen' após 10 anos de sucesso. Programa de culinária e talk show com Sunny Anderson e outros hosts chega ao fim.",
+        "_yoast_wpseo_focuskw": "The Kitchen cancelado Food Network",
+        "_yoast_news_keywords": "The Kitchen,Food Network,Sunny Anderson,Katie Lee Biegel,Jeff Mauro,Geoffrey Zakarian,Cancelamento de programa",
+        "_yoast_wpseo_opengraph-title": "The Kitchen Cancelado: Food Network encerra programa após 10 anos",
+        "_yoast_wpseo_opengraph-description": "Food Network anuncia o fim de 'The Kitchen' após 10 anos de sucesso. Programa de culinária e talk show com Sunny Anderson e outros hosts chega ao fim.",
+        "_yoast_wpseo_twitter-title": "The Kitchen Cancelado: Food Network encerra programa após 10 anos",
+        "_yoast_wpseo_twitter-description": "Food Network anuncia o fim de 'The Kitchen' após 10 anos de sucesso. Programa de culinária e talk show com Sunny Anderson e outros hosts chega ao fim."
+      }
+    },
+    {
+      "titulo_final": "The Sims Mobile: EA encerra suporte em janeiro de 2026",
+      "conteudo_final": "<p>A Electronic Arts (EA) anunciou que <b>The Sims Mobile</b>, o popular jogo para dispositivos móveis, terá seu suporte encerrado. A partir de janeiro de 2026, o jogo se tornará completamente injogável. Os jogadores que ainda não baixaram o título devem fazê-lo imediatamente, pois ele será removido das lojas de aplicativos amanhã.</p>\n<p>Este anúncio chega sete anos após o lançamento de The Sims Mobile e em um momento em que a comunidade gamer clama pela preservação de jogos online. No entanto, a EA não apresentou planos para manter The Sims Mobile acessível após a data estipulada.</p>\n<h2>O Fim de The Sims Mobile</h2>\n<p>Em um comunicado oficial, a EA declarou: \"Temos uma notícia triste hoje. Após sete anos e mais de 50 atualizações, The Sims Mobile lança sua atualização final. A partir de 20 de janeiro de 2026, às 13:59 UTC, TSM não estará mais acessível para jogar e será desativado.\"</p>\n<p>A partir de hoje, as compras dentro do aplicativo foram desativadas. Não haverá reembolsos para moedas virtuais não utilizadas, mas os jogadores podem gastá-las no jogo até a data final de desativação.</p>\n<p>The Sims Mobile nunca alcançou a popularidade de outras versões da franquia, como The Sims 4, que oferece uma experiência gratuita. Ainda assim, fãs expressaram insatisfação com a forma como o encerramento está sendo conduzido. O investimento em moedas virtuais e itens no jogo não renderá nada após poucos meses, a menos que surjam soluções criadas pela comunidade.</p>\n<h2>Serviços Live Service e Preservação de Jogos</h2>\n<p>Resta saber se a EA planeja lançar uma nova versão mobile de The Sims que possa atrair um público maior, ou se esta decisão faz parte de medidas de corte de custos após a aquisição da empresa por um consórcio de grupos de investimento. Independentemente disso, é mais um serviço online que é descontinuado sem muita consideração pela base de jogadores que investiu tempo e dinheiro.</p>\n<p>O movimento 'Stop Killing Games' visa pressionar desenvolvedoras a criarem jogos com longevidade, garantindo que permaneçam acessíveis mesmo após o fim do suporte oficial. Contudo, a indústria de jogos tem demonstrado resistência a compromissos de preservação.</p>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/10/the-sims-franchise-tag-image.jpg\" alt=\"Imagem representando a franquia The Sims\"><figcaption>Franquia The Sims pode ter novas aventuras mobile no futuro.</figcaption></figure>",
+      "meta_description": "EA confirma encerramento de The Sims Mobile em janeiro de 2026. Jogo será removido das lojas e ficará injogável após sete anos. Saiba mais.",
+      "focus_keyphrase": "The Sims Mobile encerrado",
+      "related_keyphrases": [
+        "The Sims Mobile desativado",
+        "EA encerra The Sims Mobile",
+        "Fim de The Sims Mobile"
+      ],
+      "slug": "the-sims-mobile-encerrado-ea",
+      "categorias": [
+        {
+          "nome": "The Sims Mobile",
+          "grupo": "obras",
+          "evidence": "After seven years and more than 50 updates, The Sims Mobile is releasing its final update."
+        },
+        {
+          "nome": "Electronic Arts",
+          "grupo": "editorias",
+          "evidence": "EA is removing it from app stores tomorrow."
+        },
+        {
+          "nome": "The Sims",
+          "grupo": "franquias",
+          "evidence": "The Sims Mobile was far from the most popular way to play The Sims"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Sims Mobile",
+        "EA",
+        "The Sims",
+        "Jogos Mobile",
+        "Cancelamento de jogos",
+        "EA Sports"
+      ],
+      "image_alt_texts": {
+        "2024/10/the-sims-franchise-tag-image.jpg": "Imagem da franquia The Sims com logo e personagens icônicos, representando o encerramento de The Sims Mobile."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Sims Mobile: EA encerra suporte em janeiro de 2026",
+        "_yoast_wpseo_metadesc": "EA confirma encerramento de The Sims Mobile em janeiro de 2026. Jogo será removido das lojas e ficará injogável após sete anos. Saiba mais.",
+        "_yoast_wpseo_focuskw": "The Sims Mobile encerrado",
+        "_yoast_news_keywords": "The Sims Mobile,EA,Electronic Arts,The Sims,Jogos Mobile,Cancelamento de jogos",
+        "_yoast_wpseo_opengraph-title": "The Sims Mobile: EA encerra suporte em janeiro de 2026",
+        "_yoast_wpseo_opengraph-description": "EA confirma encerramento de The Sims Mobile em janeiro de 2026. Jogo será removido das lojas e ficará injogável após sete anos. Saiba mais.",
+        "_yoast_wpseo_twitter-title": "The Sims Mobile: EA encerra suporte em janeiro de 2026",
+        "_yoast_wpseo_twitter-description": "EA confirma encerramento de The Sims Mobile em janeiro de 2026. Jogo será removido das lojas e ficará injogável após sete anos. Saiba mais."
+      }
+    }
+  ]
+}

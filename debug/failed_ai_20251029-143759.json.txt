@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Adam Driver Retorna à TV na Netflix com Série \"Rabbit, Rabbit\"",
+      "conteudo_final": "<p>A Netflix anunciou um novo projeto televisivo que marca o retorno de Adam Driver à TV após oito anos. A série, intitulada <b>Rabbit, Rabbit</b>, promete ser um suspense centrado em reféns.</p><h2>Detalhes da Série \"Rabbit, Rabbit\"</h2><p>Adam Driver interpretará um fugitivo que toma reféns em uma tentativa de barganhar por sua liberdade. A premissa sugere uma trama intensa e cheia de reviravoltas, explorando as consequências de um ato desesperado.</p><p>A série é criada por Peter Craig, conhecido por seu trabalho em sucessos como <b>O Batman</b> e <b>Top Gun: Maverick</b>. A direção fica a cargo de Philip Barantini, de <b>Adolescence</b>, indicando uma equipe criativa com experiência em dramas de alta tensão.</p><figure class=\"video-container\"><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Adam Driver will star in the new series RABBIT, RABBIT. Created by Peter Craig (The Batman, Top: Gun Maverick, The Town) and directed by Adolescence’s Philip Barantini.<br>An escaped convict takes hostages in an effort to bargain for his freedom — finding himself in an<a href=\"https:
+      "meta_description": "Adam Driver retorna à TV após 8 anos em \"Rabbit, Rabbit\", nova série de suspense da Netflix criada por Peter Craig. Saiba mais sobre a produção.",
+      "focus_keyphrase": "Adam Driver Netflix série",
+      "related_keyphrases": [
+        "Rabbit Rabbit Netflix",
+        "Adam Driver TV",
+        "Nova série Netflix"
+      ],
+      "slug": "adam-driver-netflix-rabbit-rabbit-serie",
+      "categorias": [
+        {
+          "nome": "Rabbit, Rabbit",
+          "grupo": "obras",
+          "evidence": "Rabbit, Rabbit"
+        },
+        {
+          "nome": "Adam Driver",
+          "grupo": "franquias",
+          "evidence": "Adam Driver"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "adam driver",
+        "netflix",
+        "rabbit rabbit",
+        "peter craig",
+        "philip barantini",
+        "séries de suspense",
+        "tv"
+      ],
+      "image_alt_texts": {
+        "instar54108920.jpg?q=70&fit=contain&w=280&dpr=1": "Adam Driver em foto promocional da série Rabbit, Rabbit."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Adam Driver Retorna à TV na Netflix com Série \"Rabbit, Rabbit\"",
+        "_yoast_wpseo_metadesc": "Adam Driver retorna à TV após 8 anos em \"Rabbit, Rabbit\", nova série de suspense da Netflix criada por Peter Craig. Saiba mais sobre a produção.",
+        "_yoast_wpseo_focuskw": "Adam Driver Netflix série",
+        "_yoast_news_keywords": "Adam Driver, Netflix, Rabbit Rabbit, Peter Craig, Philip Barantini, séries de suspense, TV",
+        "_yoast_wpseo_opengraph-title": "Adam Driver Retorna à TV na Netflix com Série \"Rabbit, Rabbit\"",
+        "_yoast_wpseo_opengraph-description": "Adam Driver retorna à TV após 8 anos em \"Rabbit, Rabbit\", nova série de suspense da Netflix criada por Peter Craig. Saiba mais sobre a produção.",
+        "_yoast_wpseo_twitter-title": "Adam Driver Retorna à TV na Netflix com Série \"Rabbit, Rabbit\"",
+        "_yoast_wpseo_twitter-description": "Adam Driver retorna à TV após 8 anos em \"Rabbit, Rabbit\", nova série de suspense da Netflix criada por Peter Craig. Saiba mais sobre a produção."
+      }
+    }
+  ]
+}

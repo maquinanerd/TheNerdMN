@@ -1,0 +1,151 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "South Park: Temporada 27 é a mais curta da história, e futuro é incerto",
+      "conteudo_final": "<p>A notícia de que a <b><a href=\"https://www.maquinanerd.com.br/tag/south-park/\">temporada 27 de South Park</a></b> chegou ao fim após apenas cinco episódios é motivo de preocupação para o futuro da animação adulta. Episódios banidos de <i>South Park</i> já demonstraram a longa batalha da série contra a censura. Recentemente, em setembro de 2025, a série causou polêmica ao retratar o presidente dos EUA de forma controversa.</p>\n\n<h2>Temporada 27 se torna a mais curta de South Park</h2>\n\n<p>Um dos episódios da temporada 27 gerou polêmica ao retratar o presidente dos EUA em uma situação delicada, mas essa não foi a maior surpresa. Dias depois, os fãs descobriram que a <b>temporada 27 de South Park</b> já estava encerrada e que a temporada 28 havia começado sem aviso prévio. O episódio 5 da temporada 27, intitulado “Conflict of Interest”, foi o último, e o episódio seguinte, “Twisted Christian”, marcou o início da temporada 28, com apenas cinco episódios.</p>\n\n<figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/cartman-lies-by-a-toilet-covered-in-vomit-and-exhausted-in-south-park-season-28-episode-1.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Cartman deitado perto de um vaso sanitário, vomitando e exausto no episódio 1 da temporada 28 de South Park\"><figcaption>Imagem: Paramount</figcaption></figure>\n\n<p>Com apenas cinco episódios, a <b>temporada 27 de South Park</b> se tornou, de longe, a mais curta da história da série. As temporadas 25 e 26 tiveram seis episódios cada, mas foram complementadas por especiais de longa-metragem como <i>Not Suitable for Children</i>, <i>Joining the Panderverse</i> e o especial de duas partes <i>The Streaming Wars</i>. Comparativamente, as temporadas mais recentes parecem encurtar significativamente o conteúdo entregue aos fãs.</p>\n\n<p>Anteriormente, temporadas de <i>South Park</i> continham pelo menos dez episódios, e as temporadas anteriores à 14 apresentavam entre 14 e 22 episódios. Originalmente, a série seguia o padrão da TV aberta, produzindo uma quantidade de novos episódios similar a séries como <i>Family Guy</i> e <i>The Simpsons</i> anualmente.</p>\n\n<h2>Fim dos Especiais de Longa Duração?</h2>\n\n<p>O último especial de longa duração de <i>South Park</i> foi <i>The End of Obesity</i>, lançado em maio de 2024. A energia criativa que gerou os múltiplos especiais em 2022 e 2023 parece ter chegado ao fim em 2025. Episódios da temporada 27 foram adiados e, em um caso, cancelados horas antes da exibição.</p>\n\n<figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/kyle-kenny-cartman-butters-and-stan-in-south-park-the-end-of-obesity-image-courtesy-of-everett-collection.jpeg?q=49&fit=crop&w=825&dpr=2\" alt=\"Kyle, Kenny, Cartman, Butters e Stan em South Park: The End of Obesity\"><figcaption>Imagem: Everett Collection</figcaption></figure>\n\n<p>Apesar disso, <i>South Park</i> manteve a liderança em streaming no Paramount Plus e continua popular. A série é uma das maiores franquias da TV, evidenciada pelo lucrativo acordo de streaming de US$ 1,5 bilhão assinado por seus criadores em julho de 2025. Os especiais pareciam uma forma eficaz de expandir o escopo da série e explorar temas de forma mais aprofundada, mas os criadores parecem ter se afastado dessa abordagem.</p>\n\n<h2>O Futuro Incerto da Animação</h2>\n\n<p>A mudança para temporadas mais curtas, sem a promessa de especiais para compensar, levanta questões sobre o futuro da série. Embora os criadores tenham prometido 10 episódios por ano como parte de seu acordo histórico, não foi especificado quantos episódios comporiam cada temporada. Isso sugere que as temporadas de <i>South Park</i> podem continuar a encurtar.</p>\n\n<figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/donald-trump-in-bed-with-satan-in-south-park.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Donald Trump na cama com Satanás em South Park\"><figcaption></figcaption></figure>\n\n<p>É uma pena, pois a série passa por uma renovação criativa. Com episódios que abordam desde a presidência de Trump até referências culturais complexas, a drástica redução no número de episódios é um ponto de atenção para os fãs. Embora os especiais possam surgir sem aviso prévio, a temporada 27 já é a mais curta, e o precedente estabelecido preocupa quanto aos próximos anos.</p>\n\n<figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/cartman-looks-sad-wearing-a-woke-is-dead-t-shirt-on-south-park-season-27.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Cartman com uma camiseta 'Woke is Dead' na temporada 27 de South Park\"><figcaption></figcaption></figure>",
+      "meta_description": "A temporada 27 de South Park surpreende com apenas 5 episódios, tornando-se a mais curta da história e levantando dúvidas sobre o futuro da aclamada animação.",
+      "focus_keyphrase": "temporada 27 de South Park",
+      "related_keyphrases": [
+        "South Park futuro",
+        "temporadas South Park",
+        "animação adulta"
+      ],
+      "slug": "south-park-temporada-27-curta-futuro-incerto",
+      "categorias": [
+        {
+          "nome": "South Park",
+          "grupo": "franquias",
+          "evidence": "The news that South Park season 27 is already over after only five episodes"
+        },
+        {
+          "nome": "Animação",
+          "grupo": "editorias",
+          "evidence": "R-rated animated comedy"
+        }
+      ],
+      "tags_sugeridas": [
+        "south-park",
+        "temporada-27",
+        "animação",
+        "trey-parker",
+        "matt-stone",
+        "paramount-plus"
+      ],
+      "image_alt_texts": {
+        "cartman-lies-by-a-toilet-covered-in-vomit-and-exhausted-in-south-park-season-28-episode-1.jpg": "Cartman deitado perto de um vaso sanitário, vomitando e exausto no episódio 1 da temporada 28 de South Park",
+        "kyle-kenny-cartman-butters-and-stan-in-south-park-the-end-of-obesity-image-courtesy-of-everett-collection.jpeg": "Kyle, Kenny, Cartman, Butters e Stan em South Park: The End of Obesity",
+        "donald-trump-in-bed-with-satan-in-south-park.jpg": "Donald Trump na cama com Satanás em South Park",
+        "cartman-looks-sad-wearing-a-woke-is-dead-t-shirt-on-south-park-season-27.jpg": "Cartman com uma camiseta 'Woke is Dead' na temporada 27 de South Park"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "South Park: Temporada 27 é a mais curta da história, e futuro é incerto | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "A temporada 27 de South Park surpreende com apenas 5 episódios, tornando-se a mais curta da história e levantando dúvidas sobre o futuro da aclamada animação.",
+        "_yoast_wpseo_focuskw": "temporada 27 de South Park",
+        "_yoast_news_keywords": "South Park, temporada 27, Trey Parker, Matt Stone, animação, Paramount+, futuro da série",
+        "_yoast_wpseo_opengraph-title": "South Park: Temporada 27 é a mais curta da história, e futuro é incerto",
+        "_yoast_wpseo_opengraph-description": "A temporada 27 de South Park surpreende com apenas 5 episódios, tornando-se a mais curta da história e levantando dúvidas sobre o futuro da aclamada animação.",
+        "_yoast_wpseo_twitter-title": "South Park: Temporada 27 é a mais curta da história, e futuro é incerto",
+        "_yoast_wpseo_twitter-description": "A temporada 27 de South Park surpreende com apenas 5 episódios, tornando-se a mais curta da história e levantando dúvidas sobre o futuro da aclamada animação."
+      }
+    },
+    {
+      "titulo_final": "Apple TV+ revela trailer de Pluribus com Rhea Seehorn",
+      "conteudo_final": "<p>A Apple TV+ divulgou o trailer completo de sua nova série de ficção científica, <b><a href=\"https://www.maquinanerd.com.br/tag/pluribus/\">Pluribus</a></b>, estrelada por <b>Rhea Seehorn</b>, conhecida por seu papel em <i>Better Call Saul</i>.</p>\n\n<h2>Um Apocalipse de Felicidade Forçada</h2>\n\n<p>O trailer de <i>Pluribus</i> apresenta Seehorn como Carol, uma mulher visivelmente infeliz em uma sociedade onde todos ao seu redor parecem exalar contentamento e alegria. A premissa sugere um contraste intrigante entre o estado emocional da protagonista e o ambiente utópico (ou distópico?) que a cerca.</p>\n\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/a6lzvWby9UE\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n\n<p>A série promete explorar temas de conformidade social e a busca pela felicidade em um mundo pós-apocalíptico peculiar. A tensão entre a melancolia de Carol e a aparente felicidade de sua sociedade cria um gancho para o desenvolvimento da trama, que ainda não teve detalhes adicionais divulgados.</p>\n\n<h2>Expectativas para a Nova Série</h2>\n\n<p>Com a participação de Rhea Seehorn, conhecida por sua capacidade de entregar performances complexas e emotivas, <i>Pluribus</i> tem o potencial de ser um dos destaques do catálogo de ficção científica da Apple TV+. A ambientação e a premissa sugerem uma abordagem diferenciada para histórias de fim de mundo, focando mais na psicologia social do que em catástrofes externas.</p>\n\n<p>Detalhes sobre a data de estreia e o restante do elenco ainda não foram revelados, mas o trailer já gera expectativas sobre o que a série reserva. A temática de um apocalipse onde a felicidade é obrigatória pode trazer reflexões interessantes sobre a natureza humana e a pressão social.</p>",
+      "meta_description": "Apple TV+ lança trailer de Pluribus, nova série de ficção científica com Rhea Seehorn, que explora um apocalipse onde a felicidade é obrigatória. Saiba mais!",
+      "focus_keyphrase": "série Pluribus Apple TV+",
+      "related_keyphrases": [
+        "Rhea Seehorn",
+        "ficção científica Apple TV+",
+        "trailer Pluribus"
+      ],
+      "slug": "apple-tv-pluribus-trailer-rhea-seehorn",
+      "categorias": [
+        {
+          "nome": "Pluribus",
+          "grupo": "obras",
+          "evidence": "Apple TV released the full-length trailer for its upcoming sci-fi series Pluribus"
+        },
+        {
+          "nome": "Ficção Científica",
+          "grupo": "editorias",
+          "evidence": "upcoming sci-fi series"
+        },
+        {
+          "nome": "Apple TV+",
+          "grupo": "plataformas",
+          "evidence": "Apple TV released"
+        }
+      ],
+      "tags_sugeridas": [
+        "pluribus",
+        "apple-tv+",
+        "rhea-seehorn",
+        "ficção-científica",
+        "trailer"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pluribus: Trailer da nova série de ficção científica da Apple TV+ com Rhea Seehorn | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Apple TV+ lança trailer de Pluribus, nova série de ficção científica com Rhea Seehorn, que explora um apocalipse onde a felicidade é obrigatória. Saiba mais!",
+        "_yoast_wpseo_focuskw": "série Pluribus Apple TV+",
+        "_yoast_news_keywords": "Pluribus, Apple TV+, Rhea Seehorn, ficção científica, trailer",
+        "_yoast_wpseo_opengraph-title": "Pluribus: Trailer da nova série de ficção científica da Apple TV+ com Rhea Seehorn",
+        "_yoast_wpseo_opengraph-description": "Apple TV+ lança trailer de Pluribus, nova série de ficção científica com Rhea Seehorn, que explora um apocalipse onde a felicidade é obrigatória. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Pluribus: Trailer da nova série de ficção científica da Apple TV+ com Rhea Seehorn",
+        "_yoast_wpseo_twitter-description": "Apple TV+ lança trailer de Pluribus, nova série de ficção científica com Rhea Seehorn, que explora um apocalipse onde a felicidade é obrigatória. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Fallout Temporada 2: Nova imagem sugere romance inesperado entre Lucy e The Ghoul",
+      "conteudo_final": "<p>Uma nova imagem divulgada pela Empire Magazine para a <b>segunda temporada de Fallout</b> mostra Lucy (Ella Purnell) e The Ghoul (Walton Goggins) em uma jornada. Purnell descreveu o momento como uma \"road trip de parceiros\", alimentando especulações sobre um possível romance entre os personagens, algo que muitos espectadores já sentiram na primeira temporada.</p>\n\n<h2>Intrigas e Relações na Segunda Temporada de Fallout</h2>\n\n<p>A dinâmica entre Lucy e The Ghoul promete ser um dos focos da nova temporada. Purnell revelou que haverá momentos de tensão e influências mútuas. \"Eles estão tentando influenciar um ao outro e ver quem vai mudar quem. O Ghoul vai se tornar bom? Lucy vai se tornar má? Ou eles vão se encontrar no meio do caminho?\", questionou a atriz, indicando um desenvolvimento complexo para a relação.</p>\n\n<figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/10/img_0213.jpeg\" alt=\"Lucy e The Ghoul em uma estrada em Fallout Temporada 2\"><figcaption>Imagem: Fallout / Prime Video</figcaption></figure>\n\n<p>A nova temporada contará com o retorno de Aaron Moten como Maximus, Moises Arias como Norm, e apresentará Leer Leary como David, Leslie Uggams como Betty e Rachel Marsh como Claudia. A série continua a explorar o universo pós-apocalíptico inspirado nos jogos, sem adaptações diretas, o que permite maior liberdade criativa para os roteiristas.</p>\n\n<h2>Lançamento e Futuro da Série Fallout</h2>\n\n<p>A <b>segunda temporada de Fallout</b> tem estreia marcada para 17 de dezembro, com lançamentos semanais até 4 de fevereiro. Essa mudança do modelo de binge-watching da primeira temporada para um lançamento semanal visa estender o hype e a discussão sobre a série ao longo de mais tempo.</p>\n\n<figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/fallout-tv-show-poster-showing-lucy-cx404-ghoul-and-maximus-in-front-of-an-explosion-with-flying-bottle-caps.jpg\" alt=\"Poster de Fallout com Lucy, The Ghoul e Maximus em frente a uma explosão\"><figcaption>Poster promocional de Fallout.</figcaption></figure>\n\n<p>Além disso, uma <b>terceira temporada de Fallout</b> já está em desenvolvimento, demonstrando a confiança da Prime Video no sucesso da franquia. A renovação antecipada indica a força da série e a expectativa de que a segunda temporada mantenha ou supere o sucesso da primeira. Os fãs podem esperar novidades sobre o futuro de New Vegas e outros elementos icônicos do universo <i>Fallout</i>.</p>",
+      "meta_description": "Nova imagem de Fallout Temporada 2 revela Lucy e The Ghoul em 'road trip', alimentando especulações de romance. Série estreia em dezembro com lançamentos semanais.",
+      "focus_keyphrase": "Fallout Temporada 2",
+      "related_keyphrases": [
+        "Lucy e The Ghoul",
+        "romance Fallout",
+        "lançamento Fallout T2"
+      ],
+      "slug": "fallout-temporada-2-romance-lucy-ghoul",
+      "categorias": [
+        {
+          "nome": "Fallout",
+          "grupo": "franquias",
+          "evidence": "all episodes of Fallout premiered on Prime Video"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "plataformas",
+          "evidence": "Fallout Season 2 will premiere on December 19"
+        },
+        {
+          "nome": "Série de TV",
+          "grupo": "editorias",
+          "evidence": "upcoming sci-fi series"
+        }
+      ],
+      "tags_sugeridas": [
+        "fallout",
+        "fallout-temporada-2",
+        "prime-video",
+        "lucy",
+        "the-ghoul",
+        "ella-purnell",
+        "walton-goggins"
+      ],
+      "image_alt_texts": {
+        "img_0213.jpeg": "Lucy e The Ghoul em uma estrada em Fallout Temporada 2",
+        "fallout-tv-show-poster-showing-lucy-cx404-ghoul-and-maximus-in-front-of-an-explosion-with-flying-bottle-caps.jpg": "Poster de Fallout com Lucy, The Ghoul e Maximus em frente a uma explosão"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Fallout Temporada 2: Nova imagem sugere romance entre Lucy e The Ghoul | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Nova imagem de Fallout Temporada 2 revela Lucy e The Ghoul em 'road trip', alimentando especulações de romance. Série estreia em dezembro com lançamentos semanais.",
+        "_yoast_wpseo_focuskw": "Fallout Temporada 2",
+        "_yoast_news_keywords": "Fallout, Fallout Temporada 2, Prime Video, Lucy, The Ghoul, Ella Purnell, Walton Goggins, New Vegas",
+        "_yoast_wpseo_opengraph-title": "Fallout Temporada 2: Nova imagem sugere romance entre Lucy e The Ghoul",
+        "_yoast_wpseo_opengraph-description": "Nova imagem de Fallout Temporada 2 revela Lucy e The Ghoul em 'road trip', alimentando especulações de romance. Série estreia em dezembro com lançamentos semanais.",
+        "_yoast_wpseo_twitter-title": "Fallout Temporada 2: Nova imagem sugere romance entre Lucy e The Ghoul",
+        "_yoast_wpseo_twitter-description": "Nova imagem de Fallout Temporada 2 revela Lucy e The Ghoul em 'road trip', alimentando especulações de romance. Série estreia em dezembro com lançamentos semanais."
+      }
+    }
+  ]
+}

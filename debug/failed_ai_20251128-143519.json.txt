@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Percy Jackson 2: Vilão e Episódios são revelados em novos pôsteres",
+      "conteudo_final": "<p>A segunda temporada de <em>Percy Jackson e os Olimpianos</em> se aproxima, prometendo uma perigosa jornada marítima com novos inimigos aterrorizantes e mistérios mitológicos. Baseada no segundo livro da série de Rick Riordan, <em>O Mar de Monstros</em>, a nova temporada trará de volta Walker Scobell, Leah Sava Jeffries e Aryan Simhadri como o trio heroico do Acampamento Meio-Sangue.</p><h2>A Jornada de Percy e Seus Amigos</h2><p>Em <em>O Mar de Monstros</em>, Percy (Scobell), Annabeth (Jeffries) e o surpreendente meio-irmão de Percy, o ciclope bebê Tyson (Daniel Demer), embarcam em uma missão não autorizada para salvar Grover (Simhadri) e garantir o futuro do acampamento. Para isso, eles precisam recuperar o Velocino de Ouro, que tem poderes de cura, do temível ciclope adulto Polifemo (Aleks Paunovic).</p><p>Polifemo não é o único grande vilão a ser temido na segunda temporada de <em>Percy Jackson e os Olimpianos</em>. Percy e seus companheiros semideuses enfrentarão todo tipo de mitos e monstros perigosos em suas aventuras, incluindo as sedutoras e aguardadas sereias e outros gigantes imponentes. Novos pôsteres exclusivos apresentam os adversários monstruosos de Percy e sua turma, antecipando os desafios que virão.</p><h2>Novas Perspectivas e Personagens</h2><p>Como os pôsteres indicam, a segunda temporada de <em>Percy Jackson e os Olimpianos</em> promete ser maior e mais repleta de ação. Enquanto os livros são narrados sob o ponto de vista limitado e potencialmente não confiável de Percy, esta temporada expande as narrativas, incluindo diversas perspectivas adicionais.</p><p>A temporada mostrará ao público como e por que Grover acabou nas garras de Polifemo durante sua busca pelo deus grego Pã. Além disso, será exibida a expedição autorizada de Clarisse (Dior Goodjohn) para obter o Velocino de Ouro, com ela navegando em um navio de guerra tripulado por soldados fantasmagóricos, presente de seu pai Ares. A série também explorará as experiências de Luke (Charlie Bushnell) como traidor do Acampamento Meio-Sangue.</p><h2>Episódios e Elenco Expandido</h2><p><em>Percy Jackson e os Olimpianos</em> temporada 2 contará com oito episódios, cada um com títulos inspirados nos famosos e divertidos capítulos dos livros de Riordan. Entre eles estão "Eu Jogo Queimada com Canibais" (episódio 1), "Clarisse Explode Tudo" (episódio 4) e "Nós Fazemos Check-in no Spa & Resort de C.C." (episódio 5).</p><p>A nova temporada também introduzirá vários personagens novos, além de Tyson:</p><ul><li>Thalia Grace, filha de Zeus (Tamara Smart)</li><li>A mãe de Annabeth, a deusa Atena (Andra Day)</li><li>As icônicas e caóticas Irmãs Cinzentas (Sandra Bernhard, Kristen Schaal e Margaret Cho)</li></ul><p>Adicionalmente, Courtney B. Vance retorna como o Rei do Olimpo, Zeus, assumindo o papel do falecido Lance Reddick.</p><h2>Estreia e Onde Assistir</h2><p>Será que Percy, Annabeth e Tyson conseguirão enganar os ciclopes, gigantes e sereias que encontrarem? Clarisse sobreviverá ao Triângulo das Bermudas? Os planos ardilosos de Luke darão certo? Descubra quando <strong><em>Percy Jackson e os Olimpianos</em></strong> temporada 2 retornar em dezembro.</p><p><strong>Os dois primeiros episódios de <em>Percy Jackson e os Olimpianos</em> temporada 2 estreiam exclusivamente no Disney+ e Hulu em 10 de dezembro, com novos episódios lançados semanalmente às quartas-feiras.</strong></p>",
+      "meta_description": "Percy Jackson e os Olimpianos 2 ganha pôsteres inéditos que revelam Polifemo como vilão e a lista de episódios com títulos originais. Estreia em dezembro.",
+      "focus_keyphrase": "Percy Jackson temporada 2",
+      "related_keyphrases": [
+        "Percy Jackson O Mar de Monstros",
+        "Tyson Percy Jackson",
+        "Polifemo Percy Jackson"
+      ],
+      "slug": "percy-jackson-temporada-2-vilao-episodios-posteres",
+      "categorias": [
+        {
+          "nome": "Percy Jackson e os Olimpianos",
+          "grupo": "obras",
+          "evidence": "<em>Percy Jackson and the Olympians</em> season 2"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "exclusively on Disney+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Percy Jackson",
+        "Percy Jackson e os Olimpianos",
+        "Disney+",
+        "Rick Riordan",
+        "Walker Scobell",
+        "Leah Sava Jeffries",
+        "O Mar de Monstros"
+      ],
+      "image_alt_texts": {
+        "percy-jackson-season-2-villain-monsters-posters-featured-image.jpg": "Pôster de Percy Jackson e os Olimpianos temporada 2 mostrando os personagens principais enfrentando monstros como Polifemo e sereias."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Percy Jackson 2: Vilão Polifemo e Episódios revelados em pôsteres | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Percy Jackson e os Olimpianos 2 ganha pôsteres inéditos que revelam Polifemo como vilão e a lista de episódios com títulos originais. Estreia em dezembro.",
+        "_yoast_wpseo_focuskw": "Percy Jackson temporada 2",
+        "_yoast_news_keywords": "Percy Jackson,Percy Jackson e os Olimpianos,Disney+,Rick Riordan,Walker Scobell,Leah Sava Jeffries,O Mar de Monstros,Polifemo",
+        "_yoast_wpseo_opengraph-title": "Percy Jackson 2: Vilão Polifemo e Episódios revelados em pôsteres",
+        "_yoast_wpseo_opengraph-description": "A segunda temporada de Percy Jackson e os Olimpianos se aproxima, revelando novos pôsteres com o vilão Polifemo e detalhes sobre os episódios. Estreia exclusiva no Disney+.",
+        "_yoast_wpseo_twitter-title": "Percy Jackson 2: Vilão Polifemo e Episódios revelados em pôsteres",
+        "_yoast_wpseo_twitter-description": "A segunda temporada de Percy Jackson e os Olimpianos se aproxima, revelando novos pôsteres com o vilão Polifemo e detalhes sobre os episódios. Estreia exclusiva no Disney+."
+      }
+    }
+  ]
+}

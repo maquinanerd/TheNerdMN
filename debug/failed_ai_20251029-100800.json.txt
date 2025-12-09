@@ -1,0 +1,45 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "O Poderoso Chefão 3: Cenas questionáveis prejudicam o filme",
+      "conteudo_final": "<p>Lançado em 1990, <b>O Poderoso Chefão 3</b> frequentemente é citado como um exemplo de como <i>não</i> fazer uma sequência. Embora não alcance o patamar de obra-prima incontestável como os dois primeiros filmes, o esforço de Francis Ford Coppola não é de todo ruim. Pode ser descrito como um bom filme de gângster que simplesmente não atende às expectativas elevadas de seu título.</p><p>A trama centrada no Vaticano é envolvente, com mais espaço para os subestimados Kay, Connie e Al Neri. A adição de Vincent, interpretado por Andy Garcia, é inspirada. Embora o desempenho de Sofia Coppola como Mary tenha atraído críticas, é preciso considerar que ela substituiu Winona Ryder em uma troca de última hora. O final de <i>O Poderoso Chefão 3</i> é apropriadamente comovente, os cenários sicilianos conferem vivacidade e os diálogos continuam memoráveis.</p><p>No entanto, a reputação menos brilhante de <i>O Poderoso Chefão 3</i> não se deve apenas a uma comparação desfavorável com seus antecessores. Duas cenas em particular rebaixam o terceiro filme mais do que ele realmente merece.</p><h2>A cena do helicóptero em O Poderoso Chefão 3 é ridícula</h2>\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "O Poderoso Chefão 3 é criticado por duas cenas, a do helicóptero e a do nhoque, que destoam do tom da trilogia de Francis Ford Coppola.",
+      "focus_keyphrase": "O Poderoso Chefão 3",
+      "related_keyphrases": [
+        "Francis Ford Coppola",
+        "Mafia movies",
+        "The Godfather sequels"
+      ],
+      "slug": "o-poderoso-chefao-3-cenas",
+      "categorias": [
+        {
+          "nome": "O Poderoso Chefão",
+          "grupo": "franquias",
+          "evidence": "<em>The Godfather Part III</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "o poderoso chefão 3",
+        "francis ford coppola",
+        "andy garcia",
+        "sofia coppola",
+        "filmes de máfia"
+      ],
+      "image_alt_texts": {
+        "helicopter-attack-in-the-godfather-part-3.jpg": "Cena do ataque de helicóptero em O Poderoso Chefão 3",
+        "gnocchi-scene-in-the-godfather-part-3.jpg": "Cena do nhoque em O Poderoso Chefão 3",
+        "01394268_poster_w780.jpg": "Pôster do filme O Poderoso Chefão 3"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "O Poderoso Chefão 3: Cenas Questionáveis Prejudicam o Filme | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "O Poderoso Chefão 3 é criticado por duas cenas, a do helicóptero e a do nhoque, que destoam do tom da trilogia de Francis Ford Coppola.",
+        "_yoast_wpseo_focuskw": "O Poderoso Chefão 3",
+        "_yoast_news_keywords": "O Poderoso Chefão 3, Francis Ford Coppola, Andy Garcia, Sofia Coppola, filmes de máfia, crime",
+        "_yoast_wpseo_opengraph-title": "O Poderoso Chefão 3: Cenas Questionáveis Prejudicam o Filme",
+        "_yoast_wpseo_opengraph-description": "O Poderoso Chefão 3 é criticado por duas cenas, a do helicóptero e a do nhoque, que destoam do tom da trilogia de Francis Ford Coppola.",
+        "_yoast_wpseo_twitter-title": "O Poderoso Chefão 3: Cenas Questionáveis Prejudicam o Filme",
+        "_yoast_wpseo_twitter-description": "O Poderoso Chefão 3 é criticado por duas cenas, a do helicóptero e a do nhoque, que destoam do tom da trilogia de Francis Ford Coppola."
+      }
+    }
+  ]
+}

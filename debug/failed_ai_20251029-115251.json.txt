@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Sonic 4: Mudança de Título Pode Ser Erro da Paramount, Sugere Rumor",
+      "conteudo_final": "<p>A franquia de filmes do <b>Sonic the Hedgehog</b> se consolidou como uma das adaptações de videogame de maior sucesso. Após superar a controvérsia inicial do \"Ugly Sonic\", três filmes bem recebidos foram lançados, todos com bom desempenho nas bilheterias. Agora, a Paramount está desenvolvendo <b>Sonic the Hedgehog 4</b>, com estreia prevista para 2027. Um novo rumor, no entanto, sugere que o estúdio pode cometer um erro crítico.</p>\n<h2>Rumor sobre Título de Sonic 4</h2>\n<p>Segundo um relatório de Daniel Richtman, a Paramount estaria considerando um novo título para o próximo filme do Sonic. Em vez de <b>Sonic the Hedgehog 4</b>, o estúdio poderia optar por <b>Sonic CD</b>, nome de um jogo lançado no início dos anos 90 para o Sega CD, acessório do Sega Genesis.</p>\n<h2>Por Que Mudar o Título Seria um Erro</h2>\n<p>Com base na cena pós-créditos de <b>Sonic the Hedgehog 3</b>, personagens como Amy Rose e Metal Sonic devem ter papéis importantes no próximo filme. Ambos fizeram sua estreia oficial em <b>Sonic CD</b>, o que explica o suposto interesse em renomear o quarto filme. Embora <b>Sonic CD</b> possa servir de base para a história, a Paramount pode ver isso como uma forma de homenagear o material original e explorar a nostalgia dos espectadores mais velhos. No entanto, focar estritamente nesse público seria um erro.</p>\n<figure><img src=\"https:
+      "meta_description": "Rumor sugere que Paramount pode renomear Sonic 4 para Sonic CD, mas isso seria um erro para a franquia familiar.",
+      "focus_keyphrase": "Sonic 4",
+      "related_keyphrases": [
+        "Sonic CD",
+        "Paramount",
+        "Sonic the Hedgehog"
+      ],
+      "slug": "sonic-4-mudanca-titulo-rumor",
+      "categorias": [
+        {
+          "nome": "Sonic the Hedgehog",
+          "grupo": "franquias",
+          "evidence": "Sonic the Hedgehog film series"
+        },
+        {
+          "nome": "Sonic CD",
+          "grupo": "obras",
+          "evidence": "Sonic CD, the same name as an early-’90s video game"
+        }
+      ],
+      "tags_sugeridas": [
+        "sonic",
+        "sonic the hedgehog",
+        "sonic 4",
+        "sonic cd",
+        "paramount",
+        "jim carrey",
+        "sega"
+      ],
+      "image_alt_texts": {
+        "Knuckles-Sonic-and-Tails-in-Sonic-the-Hedgehog-3.jpg": "Knuckles, Sonic e Tails em Sonic the Hedgehog 3",
+        "Ex-Machina.jpg": "Cena de Sonic the Hedgehog 3",
+        "Halo-Combat-Evolved.jpg": "Imagem promocional de Sonic the Hedgehog",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Episode-.jpg": "Imagem genérica de videogame",
+        "PlayStation-Plus-Stray.jpg": "Imagem genérica de videogame",
+        "netflix-a-house-of-dynamite.jpg": "Imagem genérica de streaming",
+        "x-b-o-x-g-a-m-e-p-a-s-s_45a3c5.png": "Imagem genérica de games"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Sonic 4: Mudança de Título Pode Ser Erro da Paramount, Sugere Rumor",
+        "_yoast_wpseo_metadesc": "Rumor sugere que Paramount pode renomear Sonic 4 para Sonic CD, mas isso seria um erro para a franquia familiar.",
+        "_yoast_wpseo_focuskw": "Sonic 4",
+        "_yoast_news_keywords": "Sonic, Sonic the Hedgehog, Sonic 4, Sonic CD, Paramount, Jim Carrey, Sega",
+        "_yoast_wpseo_opengraph-title": "Sonic 4: Mudança de Título Pode Ser Erro da Paramount, Sugere Rumor",
+        "_yoast_wpseo_opengraph-description": "Rumor sugere que Paramount pode renomear Sonic 4 para Sonic CD, mas isso seria um erro para a franquia familiar.",
+        "_yoast_wpseo_twitter-title": "Sonic 4: Mudança de Título Pode Ser Erro da Paramount, Sugere Rumor",
+        "_yoast_wpseo_twitter-description": "Rumor sugere que Paramount pode renomear Sonic 4 para Sonic CD, mas isso seria um erro para a franquia familiar."
+      }
+    }
+  ]
+}

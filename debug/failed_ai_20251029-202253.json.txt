@@ -1,0 +1,59 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "One Piece: Anime adota novo formato em 2026 e encerra tradição de 27 anos",
+      "conteudo_final": "<p>O anime de <b>One Piece</b> passará por uma grande reformulação em 2026. A Toei Animation, responsável pela produção do sucesso japonês desde 1999, anunciou que, a partir do próximo ano, o anime não apenas alcançará o arco de história atual, mas também mudará seu formato de exibição. A mudança visa permitir que a série adapte mais conteúdo do material original.</p>\n<p>Segundo um post da Toei Animation, o estúdio fará uma pausa de três meses, de janeiro a abril de 2026. Após o hiato, <b>One Piece</b> retornará com a adaptação do Arco de Elbaf, que é o arco atual do mangá. Mais importante, a partir de abril de 2026, a Toei Animation abandonará o modelo de episódios semanais para adotar um cronograma de produção sazonal.</p>\n<p>Com o novo formato, <b>One Piece</b> será limitado a um máximo de 26 episódios por ano, divididos em duas partes. Essa decisão visa permitir que o anime incorpore mais do mangá e siga o ritmo da obra original. Anteriormente, a série era transmitida semanalmente, com longas pausas que chegavam a durar até seis meses entre os arcos.</p>\n<h2>Sobre o que é 'One Piece'?</h2>\n<p><b>One Piece</b> é uma franquia japonesa de sucesso criada por <a href=\"https:
+      "meta_description": "O anime de One Piece mudará de formato em 2026, adotando produção sazonal e um hiato de três meses, visando adaptar melhor o mangá.",
+      "focus_keyphrase": "One Piece anime",
+      "related_keyphrases": [
+        "One Piece produção sazonal",
+        "Anime One Piece 2026",
+        "Toei Animation One Piece"
+      ],
+      "slug": "one-piece-anime-novo-formato-2026",
+      "categorias": [
+        {
+          "nome": "One Piece",
+          "grupo": "franquias",
+          "evidence": "Toei Animation announces a major change is coming to One Piece in 2026."
+        },
+        {
+          "nome": "Eiichiro Oda",
+          "grupo": "obras",
+          "evidence": "record-breaking Japanese franchise by Eiichiro Oda"
+        }
+      ],
+      "tags_sugeridas": [
+        "One Piece",
+        "anime",
+        "Eiichiro Oda",
+        "Toei Animation",
+        "2026",
+        "Elbaph Arc",
+        "Netflix"
+      ],
+      "image_alt_texts": {
+        "2025-01-0388694_poster_w780.jpg": "Pôster oficial do anime One Piece com Monkey D. Luffy.",
+        "2025-10-one-piece-episode-1131-revolutionary-army.jpg": "Cena do anime One Piece com a presença do Exército Revolucionário.",
+        "2025-10-one-piece-episode-1136-bonney-pirate.jpg": "Jewelry Bonney em uma cena do anime One Piece.",
+        "2025-10-one-piece-episode-1136-straw-hats-flashback.jpg": "Os Piratas do Chapéu de Palha em um flashback no anime One Piece.",
+        "2025-10-one-piece-episode-1141-caribou.jpg": "Personagem Caribou em um frame do anime One Piece.",
+        "2025-10-one-piece-episode-1142-luffy-kizaru-saturn.jpg": "Luffy, Kizaru e Saturn em um momento de tensão no anime One Piece.",
+        "2025-10-one-piece-luffy-getting-ready-to-fight.jpg": "Monkey D. Luffy se preparando para lutar no anime One Piece.",
+        "2025-10-one-piece-opening-28-vegapunk-speech.jpg": "Cena do Opening 28 de One Piece com Vegapunk discursando.",
+        "2025-10-one-piece-opening-28-zoro-lucci.jpg": "Zoro e Lucci em combate no Opening 28 de One Piece.",
+        "2025-10-one-piece-sanji-nosebleed-death.jpg": "Sanji com uma reação exagerada em uma cena do anime One Piece."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "One Piece: Anime muda para produção sazonal em 2026 - MaquinaNerd",
+        "_yoast_wpseo_metadesc": "O anime de One Piece terá uma grande reformulação em 2026, mudando para um modelo de produção sazonal e adotando um hiato de três meses.",
+        "_yoast_wpseo_focuskw": "One Piece anime",
+        "_yoast_news_keywords": "One Piece, anime, Eiichiro Oda, Toei Animation, 2026, Elbaph Arc, Netflix, Crunchyroll",
+        "_yoast_wpseo_opengraph-title": "One Piece: Anime muda para produção sazonal em 2026",
+        "_yoast_wpseo_opengraph-description": "O anime de One Piece terá uma grande reformulação em 2026, mudando para um modelo de produção sazonal e adotando um hiato de três meses.",
+        "_yoast_wpseo_twitter-title": "One Piece: Anime muda para produção sazonal em 2026",
+        "_yoast_wpseo_twitter-description": "O anime de One Piece terá uma grande reformulação em 2026, mudando para um modelo de produção sazonal e adotando um hiato de três meses."
+      }
+    }
+  ]
+}

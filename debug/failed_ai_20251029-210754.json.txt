@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Predator: Badlands exige conhecimento prévio da franquia? Saiba o que assistir",
+      "conteudo_final": "<p>Com a chegada de <em><strong>Predator: Badlands</strong></em>, o mais novo filme da saga, surge a dúvida sobre a necessidade de assistir aos filmes anteriores para compreender a nova produção. Dirigido por Dan Trachtenberg, o longa se passa em um futuro distante da franquia e acompanha um jovem Yautja em sua caçada para provar seu valor, contando com a ajuda de um androide da Weyland-Yutani.</p>\n<h2>'Predator: Badlands' é um filme independente, mas o conhecimento da franquia pode ajudar</h2>\n<p>Apesar de ser ambientado em um futuro distante e apresentar uma história, em grande parte, autônoma, ter algum conhecimento prévio da saga <em>Predator</em> pode enriquecer a experiência do espectador. O filme segue um novo personagem em um novo planeta e época, o que significa que não é estritamente necessário ter visto os filmes anteriores para entender a trama principal.</p>\n<figure class=\"video-container\"><img src=\"https:
+      "meta_description": "Novo filme Predator: Badlands estreia em novembro. Descubra quais títulos da franquia assistir antes para entender a história e as conexões.",
+      "focus_keyphrase": "Predator: Badlands",
+      "related_keyphrases": [
+        "filmes do Predador",
+        "franquia Predador",
+        "maratona Predator"
+      ],
+      "slug": "predator-badlands-filmes-assistir",
+      "categorias": [
+        {
+          "nome": "Predator",
+          "grupo": "franquias",
+          "evidence": "<em>Predator</em> franchise"
+        },
+        {
+          "nome": "Alien vs. Predator",
+          "grupo": "franquias",
+          "evidence": "<em>Alien vs. Predator</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "predator",
+        "predator badlands",
+        "alien",
+        "franchise",
+        "hulu",
+        "disney+"
+      ],
+      "image_alt_texts": {
+        "the-predator-is-seeing-something-in-predator-badlands.jpg": "O predador observa algo em Predator: Badlands, sugerindo uma ameaça.",
+        "thia-and-dek-in-predator-badlands.jpg": "Thia e Dek, os protagonistas de Predator: Badlands, em uma cena de ação.",
+        "yautja-from-predator-1987.jpg": "Um caçador Yautja do filme original Predador de 1987.",
+        "predator-badlands-official-poster.jpeg": "Pôster oficial de Predator: Badlands com os protagonistas e o icônico predador."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Predator: Badlands: Saiba quais filmes assistir antes da estreia",
+        "_yoast_wpseo_metadesc": "Novo filme Predator: Badlands estreia em novembro. Descubra quais títulos da franquia assistir antes para entender a história e as conexões.",
+        "_yoast_wpseo_focuskw": "Predator: Badlands",
+        "_yoast_news_keywords": "Predator,Predator Badlands,Alien,Alien vs Predator,Hulu,Disney+,Dan Trachtenberg,Yautja",
+        "_yoast_wpseo_opengraph-title": "Predator: Badlands: Saiba quais filmes assistir antes da estreia",
+        "_yoast_wpseo_opengraph-description": "Novo filme Predator: Badlands estreia em novembro. Descubra quais títulos da franquia assistir antes para entender a história e as conexões.",
+        "_yoast_wpseo_twitter-title": "Predator: Badlands: Saiba quais filmes assistir antes da estreia",
+        "_yoast_wpseo_twitter-description": "Novo filme Predator: Badlands estreia em novembro. Descubra quais títulos da franquia assistir antes para entender a história e as conexões."
+      }
+    }
+  ]
+}

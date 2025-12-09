@@ -1,0 +1,52 @@
+
+{
+  "titulo_final": "Penny Dreadful: Série de terror completa 9 anos após cancelamento e domina o streaming",
+  "conteudo_final": "<p>Nove anos após seu cancelamento, a série de terror da Showtime, <b>Penny Dreadful</b>, está vivendo um renascimento surpreendente, alcançando o topo das paradas de streaming nos Estados Unidos. A produção, estrelada por <b>Josh Hartnett</b> e <b>Eva Green</b>, que originalmente foi ao ar por três temporadas entre 2014 e 2016, agora é um fenômeno de binge-watching.</p><h2>Penny Dreadful: Trama e Elenco Estelar</h2><p>A trama de <b>Penny Dreadful</b> acompanha um explorador, um pistoleiro e um cientista em suas batalhas contra ameaças sobrenaturais na Londres vitoriana. Além de <b>Hartnett</b> e <b>Green</b>, o elenco conta com nomes como Reeve Carney, Timothy Dalton, Rory Kinnear e Billie Piper. A série foi criada e escrita por <b>John Logan</b>, roteirista renomado por seu trabalho em sucessos como <b>Gladiator</b>, <b>Skyfall</b> e <b>Spectre</b>.</p><figure><img src=\"https:
+  "meta_description": "Cancelada há 9 anos, a série de terror Penny Dreadful com Josh Hartnett e Eva Green se torna um sucesso viral no streaming nos EUA.",
+  "focus_keyphrase": "Penny Dreadful série",
+  "related_keyphrases": [
+    "Penny Dreadful streaming",
+    "Série de terror",
+    "Josh Hartnett Eva Green"
+  ],
+  "slug": "penny-dreadful-sucesso-streaming",
+  "categorias": [
+    {
+      "nome": "Penny Dreadful",
+      "grupo": "obras",
+      "evidence": "Penny Dreadful, which ran for three seasons"
+    },
+    {
+      "nome": "Showtime",
+      "grupo": "editorias",
+      "evidence": "Showtime"
+    },
+    {
+      "nome": "Prime Video",
+      "grupo": "editorias",
+      "evidence": "Prime Video"
+    }
+  ],
+  "tags_sugeridas": [
+    "Penny Dreadful",
+    "Josh Hartnett",
+    "Eva Green",
+    "John Logan",
+    "Terror",
+    "Showtime",
+    "Prime Video"
+  ],
+  "image_alt_texts": {
+    "penny-dreadful-tv-poster.jpg": "Pôster da série Penny Dreadful com os personagens principais."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Penny Dreadful: Série de terror completa 9 anos após cancelamento e domina o streaming",
+    "_yoast_wpseo_metadesc": "Cancelada há 9 anos, a série de terror Penny Dreadful com Josh Hartnett e Eva Green se torna um sucesso viral no streaming nos EUA.",
+    "_yoast_wpseo_focuskw": "Penny Dreadful série",
+    "_yoast_news_keywords": "Penny Dreadful, série de terror, Josh Hartnett, Eva Green, Showtime, Prime Video, John Logan",
+    "_yoast_wpseo_opengraph-title": "Penny Dreadful: Série de terror completa 9 anos após cancelamento e domina o streaming",
+    "_yoast_wpseo_opengraph-description": "Cancelada há 9 anos, a série de terror Penny Dreadful com Josh Hartnett e Eva Green se torna um sucesso viral no streaming nos EUA.",
+    "_yoast_wpseo_twitter-title": "Penny Dreadful: Série de terror completa 9 anos após cancelamento e domina o streaming",
+    "_yoast_wpseo_twitter-description": "Cancelada há 9 anos, a série de terror Penny Dreadful com Josh Hartnett e Eva Green se torna um sucesso viral no streaming nos EUA."
+  }
+}

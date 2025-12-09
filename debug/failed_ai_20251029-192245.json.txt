@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Guerra de Bilheteria 2026: Vingadores: Dinastia Kang vs. Duna 3",
+  "conteudo_final": "<p>O ano de 2026 promete uma batalha épica nas bilheterias, especialmente durante o verão, com dois gigantes do cinema programados para estrear no mesmo fim de semana: <strong>Vingadores: Dinastia Kang</strong> e <strong>Duna: Parte 3</strong>, ambos com lançamento previsto para 18 de dezembro.</p><h2>A Possível Batalha de Bilheteria</h2><p>Embora a data de lançamento de <em>Vingadores: Dinastia Kang</em> tenha sido alterada para coincidir com a de <em>Duna: Parte 3</em>, a expectativa inicial era que um dos filmes mudasse de data novamente. A concorrência direta entre dois blockbusters com públicos sobrepostos pode prejudicar ambos, algo que os estúdios geralmente evitam.</p><p>No entanto, o período antes do Natal é uma janela de lançamento extremamente cobiçada. A questão que se impõe é: qual dos filmes cederá o espaço?</p><h2>O Fator IMAX em Duna: Parte 3</h2><p>Inicialmente, a aposta seria que <em>Duna: Parte 3</em> recuaria. Apesar do sucesso da franquia de ficção científica de Denis Villeneuve, com <em>Duna: Parte 2</em> arrecadando US$ 715 milhões globalmente, o universo cinematográfico da Marvel, mesmo com seus recentes tropeços, ainda é uma força a ser reconhecida, especialmente com o potencial retorno de Robert Downey Jr.</p><p>Contudo, atualizações recentes sugerem que a situação pode não ser tão clara. A disponibilidade de telas IMAX tem sido um fator crucial nas decisões de lançamento de grandes produções nos últimos anos, impulsionada pelo fenômeno \"Barbenheimer\".</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "Vingadores: Dinastia Kang e Duna: Parte 3 podem estrear no mesmo dia em 2026. A disputa pela atenção do público e pelas salas IMAX promete agitar as bilheterias.",
+  "focus_keyphrase": "Vingadores Dinastia Kang vs Duna 3",
+  "related_keyphrases": [
+    "Marvel Studios",
+    "Legendary Pictures",
+    "Batalha de Bilheteria 2026"
+  ],
+  "slug": "vingadores-dinastia-kang-vs-duna-3-bilheteria-2026",
+  "categorias": [
+    {
+      "nome": "Vingadores: Dinastia Kang",
+      "grupo": "obras",
+      "evidence": "<em><a href=\"https:
+    },
+    {
+      "nome": "Duna: Parte 3",
+      "grupo": "obras",
+      "evidence": "<a href=\"https:
+    },
+    {
+      "nome": "Marvel Studios",
+      "grupo": "franquias",
+      "evidence": "Marvel"
+    }
+  ],
+  "tags_sugeridas": [
+    "Vingadores Dinastia Kang",
+    "Duna 3",
+    "Marvel Studios",
+    "Legendary Pictures",
+    "Denis Villeneuve",
+    "Bilheteria 2026",
+    "IMAX"
+  ],
+  "image_alt_texts": {
+    "timothee-chalamet-in-dune-part-2.jpg": "Timothée Chalamet em cena de Duna: Parte 2, com o braço erguido.",
+    "avengeres-doomsday-logo-placeholder-poster.jpg": "Logo placeholder de Vingadores: Dinastia Kang.",
+    "01740590_poster_w780.jpg": "Poster oficial de Duna: Parte 3."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Vingadores: Dinastia Kang vs. Duna 3: A Batalha de Bilheteria de 2026",
+    "_yoast_wpseo_metadesc": "Vingadores: Dinastia Kang e Duna: Parte 3 podem estrear no mesmo dia em 2026. A disputa pela atenção do público e pelas salas IMAX promete agitar as bilheterias.",
+    "_yoast_wpseo_focuskw": "Vingadores Dinastia Kang vs Duna 3",
+    "_yoast_news_keywords": "Vingadores Dinastia Kang, Duna 3, Marvel Studios, Legendary Pictures, Denis Villeneuve, Bilheteria 2026, IMAX, DC Studios",
+    "_yoast_wpseo_opengraph-title": "Vingadores: Dinastia Kang vs. Duna 3: A Batalha de Bilheteria de 2026",
+    "_yoast_wpseo_opengraph-description": "Vingadores: Dinastia Kang e Duna: Parte 3 podem estrear no mesmo dia em 2026. A disputa pela atenção do público e pelas salas IMAX promete agitar as bilheterias.",
+    "_yoast_wpseo_twitter-title": "Vingadores: Dinastia Kang vs. Duna 3: A Batalha de Bilheteria de 2026",
+    "_yoast_wpseo_twitter-description": "Vingadores: Dinastia Kang e Duna: Parte 3 podem estrear no mesmo dia em 2026. A disputa pela atenção do público e pelas salas IMAX promete agitar as bilheterias."
+  }
+}

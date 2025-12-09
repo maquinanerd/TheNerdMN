@@ -1,0 +1,102 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Big Bang Theory: Os episódios de Halloween classificados",
+      "conteudo_final": "<p>Apesar de Sheldon Cooper, um dos personagens mais rígidos e avessos a interrupções em <b>The Big Bang Theory</b>, parecer o menos propenso a celebrar o Halloween, a série apresentou quatro episódios temáticos ao longo de suas 12 temporadas. A seguir, uma análise e classificação desses episódios, do menos ao mais divertido.</p>\n\n<h2>4) \"The Good Guy Fluctuation\"</h2>\n<p>Este episódio da quinta temporada dividiu-se em duas tramas. Uma delas focava em Sheldon buscando vingança contra os amigos por pregarem peças nele. Embora a trama de vingança fosse razoável, não alcançou o mesmo nível de humor de \"The Imitation Perturbation\", que abordava um tema similar.</p>\n<p>Adicionalmente, o sub-enredo sobre Leonard beijando outra pessoa que não sua namorada na época torna \"The Good Guy Fluctuation\" um dos episódios mais controversos de <b>The Big Bang Theory</b>. O comportamento de Leonard pareceu destoante de seu personagem, o que prejudicou a experiência e tornou a subtrama difícil de assistir.</p>\n\n<h2>3) \"The Holographic Excitation\"</h2>\n<p>O episódio de Halloween da sexta temporada centrou-se, em grande parte, em Howard. Sendo um dos personagens mais engraçados de <b>The Big Bang Theory</b>, Howard era uma escolha forte para protagonizar uma história especial de feriado.</p>\n<p>No entanto, neste caso específico, Howard poderia ter sido substituído por Sheldon sem grandes alterações no episódio. A trama gira em torno de Howard não perceber que seus monólogos obsessivos sobre o espaço entediam a todos, uma característica típica de Sheldon. Assim, o episódio, apesar de divertido, falha um pouco por apresentar uma história já vista muitas vezes com Sheldon.</p>\n\n<h2>2) \"The Middle Earth Paradigm\"</h2>\n<p>\"The Middle Earth Paradigm\" marca a primeira incursão de <b>The Big Bang Theory</b> em um episódio de Halloween. É uma exibição imperdível para fãs de Leonard e Penny, pois o casal compartilha seu primeiro beijo na festa de Halloween de Penny. Isso ocorre após Leonard ter um desentendimento com o ex-namorado de Penny, tornando o momento ainda mais especial.</p>\n<p>Além disso, \"The Middle Earth Paradigm\" apresenta Sheldon em seu auge de humor, usando uma fantasia de Halloween que não faz sentido para ninguém. Ambas as tramas destacam o humor nerd pelo qual <b>The Big Bang Theory</b> é conhecida, tornando este episódio um dos mais engraçados da série.</p>\n\n<h2>1) \"The Imitation Perturbation\"</h2>\n<p>O último episódio de Halloween da série também é o mais divertido. Nele, Howard se veste como Sheldon para o Halloween. Sua imitação é impressionante, mas acaba magoando os sentimentos de Sheldon, que, junto com Amy, se veste como Howard e Bernadette. A imitação de Amy de Bernadette é particularmente hilária por ser tão precisa.</p>\n<p>Este episódio de <b>The Big Bang Theory</b> possui muito coração, além de ser hilário. Os sentimentos feridos de Sheldon dão o pontapé inicial, e as imitações de Halloween levam a uma cena emocionante entre Sheldon e Bernadette, onde ele aponta que se identifica com a experiência dela de se sentir pequena, pois frequentou o ensino médio muito jovem. Essa cena torna o episódio tão memorável quanto engraçado.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Relembre e classifique os quatro episódios de Halloween de The Big Bang Theory, do mais fraco ao mais hilário, com momentos marcantes de Sheldon e companhia.",
+      "focus_keyphrase": "episódios de Halloween The Big Bang Theory",
+      "related_keyphrases": [
+        "The Big Bang Theory episódios",
+        "melhores episódios TBBT",
+        "Halloween The Big Bang Theory"
+      ],
+      "slug": "the-big-bang-theory-episodios-halloween",
+      "categorias": [
+        {
+          "nome": "The Big Bang Theory",
+          "grupo": "obras",
+          "evidence": "The Big Bang Theory‘s Sheldon Cooper"
+        }
+      ],
+      "tags_sugeridas": [
+        "the-big-bang-theory",
+        "sheldon-cooper",
+        "jim-parsons",
+        "kaley-cuoco",
+        "johnny-galecki",
+        "episodios-especiais",
+        "halloween"
+      ],
+      "image_alt_texts": {
+        "Ex-Machina.jpg?w=300": "Sheldon Cooper em The Big Bang Theory",
+        "Howard-and-Bernadette-On-The-Big-Bang-Theory.jpg?w=1024": "Howard e Bernadette em um episódio de Halloween de The Big Bang Theory",
+        "Leonard-Kisses-Alice-On-The-Big-Bang-Theory-The-Good-Guy-Fluctuation.jpg?w=1024": "A cena controversa de Leonard em \"The Good Guy Fluctuation\".",
+        "Penny-and-Leonards-First-Kiss-On-The-Big-Bang-Theory.jpg?w=1024": "O primeiro beijo de Penny e Leonard em \"The Middle Earth Paradigm\".",
+        "The-Big-Bang-Theory-The-Gang-Dresses-As-each-Other-For-Halloween.jpg?w=1024": "Os personagens de The Big Bang Theory fantasiados para o Halloween."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Big Bang Theory: Os episódios de Halloween classificados",
+        "_yoast_wpseo_metadesc": "Relembre e classifique os quatro episódios de Halloween de The Big Bang Theory, do mais fraco ao mais hilário, com momentos marcantes de Sheldon e companhia.",
+        "_yoast_wpseo_focuskw": "episódios de Halloween The Big Bang Theory",
+        "_yoast_news_keywords": "The Big Bang Theory, Sheldon Cooper, episódios de Halloween, TBBT, Jim Parsons, Kaley Cuoco, Johnny Galecki",
+        "_yoast_wpseo_opengraph-title": "The Big Bang Theory: Os episódios de Halloween classificados",
+        "_yoast_wpseo_opengraph-description": "Relembre e classifique os quatro episódios de Halloween de The Big Bang Theory, do mais fraco ao mais hilário, com momentos marcantes de Sheldon e companhia.",
+        "_yoast_wpseo_twitter-title": "The Big Bang Theory: Os episódios de Halloween classificados",
+        "_yoast_wpseo_twitter-description": "Relembre e classifique os quatro episódios de Halloween de The Big Bang Theory, do mais fraco ao mais hilário, com momentos marcantes de Sheldon e companhia."
+      }
+    },
+    {
+      "titulo_final": "Genshin Impact: Códigos liberam moeda para novo modo Miliastra Wonderland",
+      "conteudo_final": "<p>Jogadores de <b>Genshin Impact</b> podem resgatar códigos para obter moeda gratuita para o novo modo de jogo Miliastra Wonderland. O popular RPG da HoYoverse continua a expandir suas formas de engajamento, introduzindo modos permanentes com estilos de gameplay variados. Além do TCG Genius Invokation e do jogo de ritmo Repertoire of Myriad Melodies, o mais recente modo de <b>Genshin Impact</b> traz uma abordagem inovadora.</p>\n<p>Miliastra Wonderland tem gerado grande entusiasmo por ser o primeiro modo de jogo focado em conteúdo gerado pelo usuário. Lançado oficialmente na atualização Version 6.1, o modo oferece uma variedade de minijogos, desde simulação a plataformas. <b>Miliastra Wonderland</b> também introduziu personagens totalmente personalizáveis pela primeira vez, com a possibilidade de usar um gacha exclusivo para obter novos trajes e acessórios. Agora, os fãs recebem moeda gratuita para o gacha deste novo modo.</p>\n<p><b>Genshin Impact</b> liberou três novos códigos de resgate para que os jogadores adquiram moeda e recursos gratuitos. O código \"MBEYNDLU3WGZ\" concede 160 Geodes of Replication, utilizados no banner padrão de Miliastra Wonderland, além de outros recursos menores para <b>Genshin Impact</b>. Já \"GS61RD26W966\" oferece 80 Geodes. Um código adicional, voltado exclusivamente para o jogo principal de <b>Genshin Impact</b>, também foi lançado, com itens como Mora, Hero's Wits e pratos de comida disponíveis. Os códigos podem ser resgatados através do site oficial do RPG da HoYoverse.</p>\n\n<h2>Códigos de Genshin Impact Concedem Moeda para Miliastra Wonderland</h2>\n<ul>\n<li>MBEYNDLU3WGZ: 160 Geodes of Replication, 2.000 Mora, 2 Hero's Wits, 2 Mystic Enhancement Jewels</li>\n<li>GS61RD26W966: 80 Geodes of Replication, 20.000 Mora, 2 Hero's Wits, 2 Mystic Enhancement Jewels</li>\n<li>EKLP57EFE4G4: 10.000 Mora, 10 Adventurer's Experiences, 5 Fine Enhancement Jewels, 5 Jueyun Chili Chicken, 5 Stir-Fried Fish Noodles</li>\n</ul>\n<p>A moeda gratuita para Miliastra Wonderland é um bônus bem-vindo para os fãs que desejam adquirir os trajes disponíveis. A aquisição de moeda para este modo tem sido desafiadora, com Arcane Keystones para o banner limitado disponíveis apenas para compra. <b>Miliastra Wonderland</b> também estreou com uma ampla gama de cosméticos, incluindo centenas de peças de vestuário, expressões e poses.</p>\n<p>O lançamento de Miliastra Wonderland na Version 6.2 de <b>Genshin Impact</b> coincide com planos da HoYoverse para o modo. A desenvolvedora já confirmou novas funcionalidades, como o compartilhamento de componentes pré-criados entre jogadores na Version 6.3. Além disso, um \"sistema de ganhos\" para criadores será implementado na Version 6.4, permitindo que criadores de <b>Miliastra Wonderland</b> sejam remunerados por suas criações. O novo modo permanente de <b>Genshin Impact</b> parece consolidar-se como uma nova vertente do sucesso monumental do RPG da HoYoverse.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Resgate códigos em Genshin Impact para obter moeda gratuita para o novo modo Miliastra Wonderland e adquirir trajes e acessórios exclusivos. Veja os códigos!",
+      "focus_keyphrase": "Genshin Impact códigos",
+      "related_keyphrases": [
+        "Genshin Impact Miliastra Wonderland",
+        "moeda gratuita Genshin Impact",
+        "códigos de resgate Genshin Impact"
+      ],
+      "slug": "genshin-impact-codigos-miliastra-wonderland",
+      "categorias": [
+        {
+          "nome": "Genshin Impact",
+          "grupo": "obras",
+          "evidence": "Genshin Impact is giving out some free currency"
+        },
+        {
+          "nome": "Miliastra Wonderland",
+          "grupo": "obras",
+          "evidence": "Miliastra Wonderland has seen plenty of excitement"
+        }
+      ],
+      "tags_sugeridas": [
+        "genshin-impact",
+        "miliastra-wonderland",
+        "hoyoverse",
+        "rpg",
+        "jogos-online",
+        "codigos-gratuitos",
+        "gameplay"
+      ],
+      "image_alt_texts": {
+        "Locations-Of-Statues-of-the-Seven-Genshin-Impact-Map-Teyvat-TLDR-Vertical-4.jpg": "Mapa de Teyvat em Genshin Impact",
+        "Locations-Of-Statues-of-the-Seven-Genshin-Impact-Map-Teyvat-TLDR-Vertical.jpg": "Explorando o mapa de Teyvat em Genshin Impact.",
+        "teyvat-2.jpg": "A beleza visual de Teyvat em Genshin Impact.",
+        "every-aspect-of-a-warrior-quest-in-genshin-impact-how-to-trigger.jpg": "Detalhes da missão \"Every Aspect of a Warrior\" em Genshin Impact.",
+        "genshin-25.jpg": "Uma cena de gameplay em Genshin Impact.",
+        "how-to-reach-the-warrior-challenge-platform-in-genshin-impact.jpg": "Acesso à plataforma de desafio em Genshin Impact.",
+        "mixcollage-24-dec-2024-11-06-am-8215.jpg": "Diversos personagens disponíveis em Genshin Impact.",
+        "genshin-impact-miliastra-wonderland-odes-currency-how-get-arcane-keystone-chronal-nexus-battle-pass.jpg": "Moeda e itens disponíveis em Miliastra Wonderland, Genshin Impact."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Genshin Impact: Códigos liberam moeda para novo modo Miliastra Wonderland",
+        "_yoast_wpseo_metadesc": "Resgate códigos em Genshin Impact para obter moeda gratuita para o novo modo Miliastra Wonderland e adquirir trajes e acessórios exclusivos. Veja os códigos!",
+        "_yoast_wpseo_focuskw": "Genshin Impact códigos",
+        "_yoast_news_keywords": "Genshin Impact, Miliastra Wonderland, HoYoverse, RPG, jogos online, códigos gratuitos",
+        "_yoast_wpseo_opengraph-title": "Genshin Impact: Códigos liberam moeda para novo modo Miliastra Wonderland",
+        "_yoast_wpseo_opengraph-description": "Resgate códigos em Genshin Impact para obter moeda gratuita para o novo modo Miliastra Wonderland e adquirir trajes e acessórios exclusivos. Veja os códigos!",
+        "_yoast_wpseo_twitter-title": "Genshin Impact: Códigos liberam moeda para novo modo Miliastra Wonderland",
+        "_yoast_wpseo_twitter-description": "Resgate códigos em Genshin Impact para obter moeda gratuita para o novo modo Miliastra Wonderland e adquirir trajes e acessórios exclusivos. Veja os códigos!"
+      }
+    }
+  ]
+}

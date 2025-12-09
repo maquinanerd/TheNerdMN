@@ -1,0 +1,98 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Wicked: For Good corta cena crucial de Glinda com participação de estrela do SNL",
+      "conteudo_final": "<p><em>Wicked: For Good</em> se consolida como um dos primeiros sucessos de bilheteria da temporada de festas de 2025. O filme conclui a história de <em>Wicked</em>, de 2024, e traz no elenco Cynthia Erivo, Ariana Grande, Jonathan Bailey, Jeff Goldblum, Michelle Yeoh, Marissa Bode, Ethan Slater, Bronwyn James e Bowen Yang.</p><p>A trama acompanha Elphaba (Erivo) após descobrir que o Mágico de Oz (Goldblum) era uma fraude e desafiá-lo no primeiro filme. Glinda (Grande), sua antiga amiga, agora faz parte do regime do Mágico. Curiosamente, o filme traz de volta Pfannee (Yang) e ShenShen (James), amigas bajuladoras de Glinda de seus tempos de escola, apesar de estarem ausentes do segundo ato do musical em que ambos os filmes se baseiam.</p><p>Segundo o diretor Jon M. Chu, a decisão de incluí-las visava refletir o público de Oz. No entanto, ele acabou cortando Yang e James de uma versão inicial do arco de redenção de Glinda. Durante a cena em que Glinda decide alertar Elphaba sobre uma multidão que se aproxima para matá-la, Pfannee e ShenShen quase ajudaram Glinda. Chu explicou que pensou em fazê-las ajudar Glinda a pegar um cavalo ou distrair os soldados para que Elphaba pudesse escapar.</p><p>No entanto, o diretor percebeu que isso tiraria o foco da jornada de Glinda. Assim, a cena precisava ser focada apenas nela. Este momento, em que Glinda escolhe alertar Elphaba, é crucial para seu arco e também apresenta uma nova canção, \"The Girl in the Bubble\".</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Pfannee (Bowen Yang) e Shenshen (Bronwyn James) em Wicked" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Pfannee (Bowen Yang) e Shenshen (Bronwyn James) em Wicked.</figcaption></figure><p>Ainda assim, <em>For Good</em> mostra um lampejo de humanidade em Pfannee e ShenShen quando elas ficam visivelmente desconfortáveis com a multidão que se dirige para matar Elphaba. Chu acrescentou que incluiu essa reação para mostrar que elas não estavam totalmente de acordo com a ação, querendo que o grupo de estudantes tivesse consciência.</p><p>Anteriormente, Chu observou que \"todo personagem tem que questionar a realidade em algum momento e fazer uma escolha\". Glinda aceita que precisa ajudar Elphaba, enquanto Boq (Slater) escolheu \"uma realidade de ódio como comunidade\".</p><p>Chu concluiu que a ideia é que \"somos bons e maus\". \"Somos todas essas coisas, e todos os dias fazemos uma escolha sobre qual seremos.\" Nesse sentido, Pfannee e ShenShen, ao observar os caçadores de bruxas e ficarem um pouco chocadas, deram uma pequena pista de que \"vão aparecer no final\", permitindo saber que \"há uma consciência\".</p><p><em>Wicked: For Good</em> está em cartaz nos cinemas.</p>",
+      "meta_description": "Diretor Jon M. Chu revela corte de cena importante de Glinda em Wicked: For Good, explicando o motivo por trás da decisão e o impacto na narrativa.",
+      "focus_keyphrase": "Wicked For Good cena cortada Glinda",
+      "related_keyphrases": [
+        "Jon M. Chu Wicked",
+        "Bowen Yang Wicked",
+        "Ariana Grande Glinda"
+      ],
+      "slug": "wicked-for-good-cena-cortada-glinda",
+      "categorias": [
+        {
+          "nome": "Wicked",
+          "grupo": "obras",
+          "evidence": "Wicked: For Good é já se consolida como um dos primeiros sucessos de bilheteria da temporada de festas de 2025."
+        },
+        {
+          "nome": "Jon M. Chu",
+          "grupo": "diretores",
+          "evidence": "Per diretor Jon M. Chu, a decisão de incluí-las visava refletir o público de Oz."
+        }
+      ],
+      "tags_sugeridas": [
+        "Wicked For Good",
+        "Jon M Chu",
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Bowen Yang"
+      ],
+      "image_alt_texts": {
+        "wicked-8.jpg": "Pfannee (Bowen Yang) e Shenshen (Bronwyn James) em Wicked, com Bowen Yang em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wicked: For Good corta cena crucial de Glinda com participação de estrela do SNL",
+        "_yoast_wpseo_metadesc": "Diretor Jon M. Chu revela corte de cena importante de Glinda em Wicked: For Good, explicando o motivo por trás da decisão e o impacto na narrativa.",
+        "_yoast_wpseo_focuskw": "Wicked For Good cena cortada Glinda",
+        "_yoast_news_keywords": "Wicked, Wicked For Good, Jon M Chu, Cynthia Erivo, Ariana Grande, Bowen Yang, SNL",
+        "_yoast_wpseo_opengraph-title": "Wicked: For Good corta cena crucial de Glinda com participação de estrela do SNL",
+        "_yoast_wpseo_opengraph-description": "Diretor Jon M. Chu revela corte de cena importante de Glinda em Wicked: For Good, explicando o motivo por trás da decisão e o impacto na narrativa.",
+        "_yoast_wpseo_twitter-title": "Wicked: For Good corta cena crucial de Glinda com participação de estrela do SNL",
+        "_yoast_wpseo_twitter-description": "Diretor Jon M. Chu revela corte de cena importante de Glinda em Wicked: For Good, explicando o motivo por trás da decisão e o impacto na narrativa."
+      }
+    },
+    {
+      "titulo_final": "Marvel: Novo filme dos Vingadores repete erro dos X-Men que o MCU precisa evitar",
+      "conteudo_final": "<p>A nova série dos Vingadores da Marvel aborda os X-Men e seus antagonistas de uma forma que se mostrou controversa para a franquia anteriormente, reforçando por que o <a href=\"https://www.maquinanerd.com.br/tag/mcu\"><strong>MCU</strong></a> precisa evitar seguir o mesmo caminho. Felizmente, o lançamento também mostra como <em>Avengers: Doomsday</em> pode fugir dessas linhas.</p><p><em>Deadpool &amp; Wolverine</em> provou que há grande interesse em ver os personagens dos X-Men da Fox de volta às telonas, o que é promissor, já que vários rostos familiares devem retornar em <em>Avengers: Doomsday</em>. No entanto, <em>Doomsday</em> e suas sequências precisam evitar cair em uma armadilha que não é incomum para as séries da Marvel repetirem quando se trata dos X-Men e dos personagens a eles ligados.</p><h2>Marvel: Nova série dos Vingadores repete reclamação dos X-Men</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:56.25%"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Gavião Arqueiro com um braço erguido em Lego Marvel Avengers: Strange Tails" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Gavião Arqueiro com um braço erguido em Lego Marvel Avengers: Strange Tails.</figcaption></figure></div></div><p>Não é surpreendente que <em>Lego Marvel Avengers: Strange Tails</em> foque nos Vingadores, com sua história girando em torno das aventuras de Gavião Arqueiro ao lado de seus colegas heróis. No entanto, esse foco significa que a produção repete um erro narrativo que os fãs já criticaram quando ocorreu em HQs anteriores.</p><p>Para mostrar os Vingadores e Gavião Arqueiro como personagens poderosos que podem se defender em uma luta – e, assim, dar a impressão de que têm chance de vencer mais tarde no filme quando as probabilidades estiverem contra eles – <em>Lego Marvel Avengers: Strange Tails</em> começa com os Vingadores lidando com uma versão condensada do grupo de vilões dos X-Men conhecido como a Irmandade dos Mutantes.</p><p>Com este elenco da equipe apresentando Fanático, Dentes de Sabre, Pyro e Magneto, é um grupo de alguns dos oponentes mais poderosos dos X-Men. No entanto, como a história se concentra em mostrar Gavião Arqueiro em seu melhor, Clint Barton consegue derrotá-los efetivamente de uma vez, fazendo-os parecer muito mais fracos do que deveriam.</p><p>Esta não é uma abordagem nova, pois os personagens dos X-Men – sejam eles a equipe em si ou seus oponentes – foram frequentemente retratados como substancialmente mais fortes ou mais fracos, dependendo se a produção em que apareceram se concentrava neles ou em outros grupos como os Vingadores. Esta é uma reclamação comum em quadrinhos, mas que é especialmente potente quando se trata dessas figuras, dada a força dos poderes de personagens como Magneto.</p><h2>Vingadores: Equilibrar os poderes dos personagens dos X-Men é mais importante do que nunca</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:56.25%"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Elenco de X-Men: Dias de um Futuro Esquecido com Wolverine em destaque" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Elenco de X-Men: Dias de um Futuro Esquecido com Wolverine em destaque.</figcaption></figure></div></div><p>A forma como <em>Lego Marvel Avengers: Strange Tails</em>, argumentavelmente, enfraquece alguns inimigos dos X-Men para realçar a figura de seu protagonista é ainda mais digna de nota com o retorno de muitos atores importantes dos filmes dos X-Men para o próximo filme dos Vingadores do MCU, especialmente porque é provável que muitos outros sejam revelados posteriormente como parte da lista de elenco de <em>Avengers: Doomsday</em>.</p><p><em>Avengers: Doomsday</em> tem tarefas árduas a cumprir em termos de restabelecer a equipe titular anos após terem sido vistos pela última vez na tela, mas é vital que isso não ocorra ao custo de não fazer justiça aos X-Men, ou torná-los menos poderosos simplesmente para proteger a imagem dos próprios Vingadores.</p><p>Isso é duplamente verdadeiro considerando que <em>Avengers: Doomsday</em> efetivamente expandirá décadas de <a href=\"https://www.maquinanerd.com.br/tag/x-men\">história dos filmes dos X-Men</a> da Fox – já que trazer de volta atores importantes dessa era para, em seguida, fazer seus personagens parecerem mais fracos seria uma forma inadequada de homenagear um dos universos cinematográficos que ajudou a tornar o MCU possível.</p><p>Esperançosamente, qualquer que seja a história de <em>Avengers: Doomsday</em> e <em>Avengers: Secret Wars</em>, os filmes conseguirão fazer justiça a todas as facções dos quadrinhos dentro deles – e especialmente aos X-Men, tanto por seu legado anterior, quanto porque parece que a próxima era do <strong>MCU</strong> pode trazer uma nova versão dos amados mutantes da Marvel para os holofotes, o que justifica totalmente vermos seu potencial completo antes.</p>",
+      "meta_description": "Novo filme dos Vingadores do MCU pode repetir erro de enfraquecer X-Men, como visto em Lego Marvel Avengers. Saiba como evitar o problema.",
+      "focus_keyphrase": "Marvel Vingadores X-Men erro MCU",
+      "related_keyphrases": [
+        "Avengers Doomsday X-Men",
+        "MCU X-Men",
+        "Poderes X-Men Vingadores"
+      ],
+      "slug": "marvel-vingadores-x-men-erro-mcu",
+      "categorias": [
+        {
+          "nome": "MCU",
+          "grupo": "franquias",
+          "evidence": "o MCU precisa evitar seguir o mesmo caminho."
+        },
+        {
+          "nome": "X-Men",
+          "grupo": "franquias",
+          "evidence": "Marvel's New Avengers Series Repeats An X-Men Complaint That Has Also Been Raised At Some Comics"
+        },
+        {
+          "nome": "Vingadores",
+          "grupo": "obras",
+          "evidence": "Marvel's newest Avengers series has approached the X-Men and their antagonists in a way that has proved controversial for the franchise beforehand"
+        }
+      ],
+      "tags_sugeridas": [
+        "Marvel",
+        "MCU",
+        "Vingadores",
+        "X-Men",
+        "Avengers Doomsday"
+      ],
+      "image_alt_texts": {
+        "hawkeye-with-one-arm-raised-in-lego-marvel-avengers-strange-tails.jpg": "Gavião Arqueiro com um braço erguido em Lego Marvel Avengers: Strange Tails, demonstrando poder.",
+        "x-men-days-of-future-past-cast-with-wolverine-front-and-center.jpg": "Elenco de X-Men: Dias de um Futuro Esquecido com Wolverine em destaque, representando o legado dos mutantes."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Marvel: Novo filme dos Vingadores repete erro dos X-Men que o MCU precisa evitar",
+        "_yoast_wpseo_metadesc": "Novo filme dos Vingadores do MCU pode repetir erro de enfraquecer X-Men, como visto em Lego Marvel Avengers. Saiba como evitar o problema.",
+        "_yoast_wpseo_focuskw": "Marvel Vingadores X-Men erro MCU",
+        "_yoast_news_keywords": "Marvel, MCU, Vingadores, X-Men, Avengers Doomsday, Lego Marvel Avengers, Deadpool Wolverine",
+        "_yoast_wpseo_opengraph-title": "Marvel: Novo filme dos Vingadores repete erro dos X-Men que o MCU precisa evitar",
+        "_yoast_wpseo_opengraph-description": "Novo filme dos Vingadores do MCU pode repetir erro de enfraquecer X-Men, como visto em Lego Marvel Avengers. Saiba como evitar o problema.",
+        "_yoast_wpseo_twitter-title": "Marvel: Novo filme dos Vingadores repete erro dos X-Men que o MCU precisa evitar",
+        "_yoast_wpseo_twitter-description": "Novo filme dos Vingadores do MCU pode repetir erro de enfraquecer X-Men, como visto em Lego Marvel Avengers. Saiba como evitar o problema."
+      }
+    }
+  ]
+}

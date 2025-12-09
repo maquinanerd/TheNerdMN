@@ -1,0 +1,59 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Tubarão: Clássico de Spielberg que Tarantino chama de 'maior filme já feito' sai da Netflix",
+      "conteudo_final": "<p>Um marco do cinema de horror, que conquistou a admiração de Quentin Tarantino, está prestes a deixar a plataforma de streaming. O filme, que o aclamado diretor declarou ser \"o maior filme já feito\", estará disponível na Netflix apenas por mais alguns dias antes de desaparecer, juntamente com suas sequelas.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/08/hbo-max-binge-dramas.jpg?w=300\" alt=\"Cena icônica do filme Tubarão\"><figcaption>O clássico de 1975, 'Tubarão', deixa a Netflix em breve.</figcaption></figure><h2>Tubarão deixa a Netflix em novembro</h2><p>Em 15 de novembro, o blockbuster de 1975 de Steven Spielberg, <b>Tubarão</b>, encerrará sua exibição na Netflix. A despedida também inclui suas três sequências: <i>Tubarão 2</i>, <i>Tubarão 3</i> e <i>Tubarão: A Vingança</i>. A saída da franquia coincide com a aproximação de 2025, ano que marca o 50º aniversário do filme original. Tarantino, em 2022, durante uma participação no podcast ReelBend, exaltou a obra de Spielberg, afirmando que era \"o maior filme já feito. Talvez não o maior filme. Mas é o maior filme já feito. [...] como filme, não há como fazer melhor do que Tubarão. Não há 'melhor' do que Tubarão. É o melhor filme já feito.\".</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/09/netflix-scifi.jpg?w=300\" alt=\"O elenco de Tubarão em cena\"><figcaption>A franquia completa deixará a Netflix.</figcaption></figure><h2>O Legado de Tubarão</h2><p>Apesar dos receios iniciais de Spielberg sobre a repercussão de <b>Tubarão</b> em sua carreira, o impacto do filme é inegável. Ele inaugurou a era dos blockbusters de verão com uma campanha de marketing agressiva e uma estratégia de lançamento ampla, inédita para a época. O longa foi o primeiro a ultrapassar a marca de US$ 100 milhões em bilheteria nos Estados Unidos, alcançando um total global superior a US$ 495 milhões. A crítica e o público aclamaram o filme, que ostenta uma pontuação \"Certified Fresh\" de 97% no Rotten Tomatoes.</p><p>Diversos filmes de criaturas e tubarões foram produzidos posteriormente, mas <b>Tubarão</b> permanece como uma obra cinematográfica seminal. Lançou a carreira de Spielberg e moldou a paisagem cinematográfica por décadas, sendo uma aula de suspense através de sua direção, ritmo e cinematografia, além de um primor no desenvolvimento de personagens. Mesmo após 50 anos, o filme mantém sua força e continua sendo um fenômeno.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Army-in-Dune-Part-Two.jpg?w=300\" alt=\"Cena tensa de Tubarão\"><figcaption>Spielberg criou um suspense inesquecível.</figcaption></figure><h2>Onde assistir Tubarão após a saída da Netflix</h2><p>A franquia <b>Tubarão</b> pode estar desaparecendo do streaming. Atualmente, os quatro filmes estão disponíveis apenas na Netflix e ainda não há previsão de lançamento em outras plataformas em novembro. Embora alguns serviços de streaming ainda não tenham divulgado suas programações para o mês, é possível que os filmes de Tubarão migrem para outro serviço. Por enquanto, fãs podem assistir aos quatro filmes na Netflix até 15 de novembro, após essa data, eles estarão disponíveis para compra ou aluguel em plataformas VOD.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg?w=300\" alt=\"Cena subaquática de Tubarão\"><figcaption>A franquia é considerada um marco do cinema.</figcaption></figure><figure><iframe src=\"https://www.youtube.com/embed/U1fu_sA7XhE\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Um olhar sobre a influência do filme Tubarão.</figcaption></figure>",
+      "meta_description": "O clássico de suspense 'Tubarão' (1975) de Steven Spielberg, elogiado por Quentin Tarantino, deixará a Netflix em 15 de novembro. Saiba mais.",
+      "focus_keyphrase": "filme Tubarão",
+      "related_keyphrases": [
+        "Tubarão Netflix",
+        "Steven Spielberg",
+        "Quentin Tarantino"
+      ],
+      "slug": "tubarao-classico-sai-netflix",
+      "categorias": [
+        {
+          "nome": "Tubarão",
+          "grupo": "obras",
+          "evidence": "Tarantino proclaimed to be “the greatest movie ever made. Maybe not the greatest film. But it’s the greatest movie ever made.”"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "streaming on Netflix"
+        },
+        {
+          "nome": "Steven Spielberg",
+          "grupo": "diretores",
+          "evidence": "Steven Spielberg’s 1975 summer blockbuster"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tubarão",
+        "Netflix",
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "blockbuster",
+        "cinema de horror",
+        "clássico"
+      ],
+      "image_alt_texts": {
+        "hbo-max-binge-dramas.jpg": "Cena icônica do filme Tubarão com o elenco",
+        "netflix-scifi.jpg": "O elenco de Tubarão em cena de suspense",
+        "Army-in-Dune-Part-Two.jpg": "Cena tensa de Tubarão mostrando o ataque do tubarão",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Cena subaquática de Tubarão com o tubarão se aproximando",
+        "U1fu_sA7XhE": "Trailer do filme Tubarão"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tubarão: Clássico de Spielberg que Tarantino chama de 'maior filme já feito' sai da Netflix",
+        "_yoast_wpseo_metadesc": "O clássico de suspense 'Tubarão' (1975) de Steven Spielberg, elogiado por Quentin Tarantino, deixará a Netflix em 15 de novembro. Saiba mais.",
+        "_yoast_wpseo_focuskw": "filme Tubarão",
+        "_yoast_news_keywords": "Tubarão, Netflix, Steven Spielberg, Quentin Tarantino, Jaws, clássico, horror, blockbuster",
+        "_yoast_wpseo_opengraph-title": "Tubarão: Clássico de Spielberg elogiado por Tarantino deixa a Netflix",
+        "_yoast_wpseo_opengraph-description": "O filme 'Tubarão', considerado por Quentin Tarantino como 'o maior filme já feito', estará indisponível na Netflix a partir de 15 de novembro. Saiba detalhes.",
+        "_yoast_wpseo_twitter-title": "Tubarão: Clássico de Spielberg que Tarantino chama de 'maior filme já feito' sai da Netflix",
+        "_yoast_wpseo_twitter-description": "O clássico de suspense 'Tubarão' (1975) de Steven Spielberg, elogiado por Quentin Tarantino, deixará a Netflix em 15 de novembro. Saiba mais."
+      }
+    }
+  ]
+}

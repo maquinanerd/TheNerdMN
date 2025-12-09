@@ -1,0 +1,109 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Superman e Thunderbolts: Heróis voltam a salvar civis em 2025",
+      "conteudo_final": "<p>Em 2025, os filmes de super-heróis <em>Superman</em> e <em>Thunderbolts*</em> trouxeram de volta um elemento clássico do gênero: a ação de proteger civis. Diversas cenas em <em>Superman</em> mostram o herói de David Corenswet ajudando cidadãos de Metrópolis, enquanto o final de <em>Thunderbolts*</em> apresenta a equipe salvando pessoas em Nova York.</p><h2>O Legado de Salvar o Cotidiano</h2><p>Desde o icônico <em>Superman</em> de 1978, com Christopher Reeve salvando um gato de uma árvore, as cenas em que os super-heróis interagem com o público e ajudam pessoas comuns se tornaram marcantes. Um exemplo notável é a cena do trem em <em>Homem-Aranha 2</em>, que demonstra a humanidade por trás das figuras sobre-humanas. Infelizmente, esse tipo de abordagem tem se tornado menos frequente no cinema de super-heróis.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/null\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>Nas últimas décadas, os filmes de super-heróis expandiram sua escala, com heróis enfrentando desafios globais e cósmicos. Isso resultou em tramas onde a salvação do mundo ou do universo se sobrepõe às interações com cidadãos comuns, representando uma perda para a profundidade do gênero. No entanto, dois lançamentos de 2025 parecem reverter essa tendência.</p><h2>Superman e Thunderbolts* Resgatam o Heroísmo Clássico</h2><p>No terceiro ato de <em>Thunderbolts*</em>, o Sentry sucumbe à sua versão sombria, The Void, e começa a aprisionar pessoas em Nova York. O restante da equipe, incluindo Red Guardian e Bucky Barnes, age para salvar os inocentes dos destroços causados pelas ações do vilão. Bucky, em particular, usa seu braço de metal para desviar uma van que ameaçava um casal de idosos.</p><figure><picture><source media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/sebastian-stan-s-bucky-barnes-looks-up-in-the-thunderbolts-character-poster.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/sebastian-stan-s-bucky-barnes-looks-up-in-the-thunderbolts-character-poster.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/sebastian-stan-s-bucky-barnes-looks-up-in-the-thunderbolts-character-poster.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt=\"Sebastian Stan's Bucky Barnes looks up in the Thunderbolts character poster\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/sebastian-stan-s-bucky-barnes-looks-up-in-the-thunderbolts-character-poster.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/></picture><figcaption>Bucky Barnes em ação em <em>Thunderbolts*</em>.</figcaption></figure><p>Em <em>Superman</em>, o herói de David Corenswet dedica tempo para salvar diversas criaturas, incluindo um esquilo. Apesar de a cena ter sido motivo de debate entre a equipe criativa, segundo o diretor James Gunn, ela ressalta a importância de Superman em proteger não apenas pessoas, mas toda forma de vida. Esse cuidado é um traço definidor de personagens heroicos.</p><h2>Como o MCU e o DCU Podem Continuar o Heroísmo Clássico</h2><p>Embora o Universo Cinematográfico Marvel (MCU) retorne a grandes narrativas com <em>Avengers: Doomsday</em> em 2026, <em>Spider-Man: Brand New Day</em> tem o potencial de apresentar seu herói salvando pessoas comuns. O Homem-Aranha, por natureza, se encaixa nesse tipo de heroísmo clássico, como visto em <em>Homem-Aranha: De Volta ao Lar</em>.</p><figure><picture><source media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/tom-holland-s-spider-man-in-homecoming.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/tom-holland-s-spider-man-in-homecoming.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/tom-holland-s-spider-man-in-homecoming.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt=\"Tom Holland's Spider-Man in Homecoming\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/tom-holland-s-spider-man-in-homecoming.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/></picture><figcaption>Homem-Aranha de Tom Holland em <em>Homem-Aranha: De Volta ao Lar</em>.</figcaption></figure><p>No Universo Estendido da DC (DCU), alguns lançamentos futuros podem apresentar cenas semelhantes às de <em>Superman</em>. <em>Lanterns</em>, com um estilo investigativo, pode incluir heróis salvando civis. <em>Supergirl</em>, embora focada no espaço, pode adaptar essa temática. E <em>Man of Tomorrow</em>, sequência de <em>Superman</em>, promete trazer de volta o herói com seu heroísmo característico.</p><p>Foi revigorante ver <em>Superman</em> e <em>Thunderbolts*</em> resgatarem esse elemento clássico do gênero. A expectativa é que essa tendência se mantenha em futuras produções.</p>",
+      "meta_description": "Superman e Thunderbolts em 2025 resgatam a tradição de heróis salvando civis, um elemento que parecia perdido no gênero. Veja como.",
+      "focus_keyphrase": "super-heróis salvando civis",
+      "related_keyphrases": [
+        "heroísmo em filmes de super-heróis",
+        "DCU",
+        "MCU",
+        "Superman 2025",
+        "Thunderbolts*"
+      ],
+      "slug": "superman-thunderbolts-herois-salvam-civis",
+      "categorias": [
+        {
+          "nome": "Superman",
+          "grupo": "obras",
+          "evidence": "Superman"
+        },
+        {
+          "nome": "Thunderbolts*",
+          "grupo": "obras",
+          "evidence": "Thunderbolts*"
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "DCU"
+        }
+      ],
+      "tags_sugeridas": [
+        "superman",
+        "thunderbolts",
+        "DCU",
+        "MCU",
+        "super-heróis"
+      ],
+      "image_alt_texts": {
+        "sebastian-stan-s-bucky-barnes-looks-up-in-the-thunderbolts-character-poster.jpg": "Bucky Barnes (Sebastian Stan) em cena de ação no filme Thunderbolts*.",
+        "tom-holland-s-spider-man-in-homecoming.jpg": "Homem-Aranha (Tom Holland) em cena do filme Homem-Aranha: De Volta ao Lar."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Superman e Thunderbolts: Heróis voltam a salvar civis em 2025",
+        "_yoast_wpseo_metadesc": "Superman e Thunderbolts em 2025 resgatam a tradição de heróis salvando civis, um elemento que parecia perdido no gênero. Veja como.",
+        "_yoast_wpseo_focuskw": "super-heróis salvando civis",
+        "_yoast_news_keywords": "Superman, Thunderbolts, DCU, MCU, super-heróis, James Gunn, David Corenswet, Sebastian Stan",
+        "_yoast_wpseo_opengraph-title": "Superman e Thunderbolts: Heróis voltam a salvar civis em 2025",
+        "_yoast_wpseo_opengraph-description": "Em 2025, os filmes de super-heróis Superman e Thunderbolts trouxeram de volta um elemento clássico do gênero: a ação de proteger civis. Diversas cenas em Superman mostram o herói ajudando cidadãos de Metrópolis, enquanto o final de Thunderbolts* apresenta a equipe salvando pessoas em Nova York.",
+        "_yoast_wpseo_twitter-title": "Superman e Thunderbolts: Heróis voltam a salvar civis em 2025",
+        "_yoast_wpseo_twitter-description": "Em 2025, os filmes de super-heróis Superman e Thunderbolts trouxeram de volta um elemento clássico do gênero: a ação de proteger civis."
+      }
+    },
+    {
+      "titulo_final": "O Iluminado: Por que Príncipe das Trevas é o filme mais subestimado de Carpenter",
+      "conteudo_final": "<p>Em vez de revisitar <em>Halloween</em> este ano, que tal explorar <em>Príncipe das Trevas</em>, filme de John Carpenter que ele mesmo considera seu mais subestimado? O cineasta, conhecido por clássicos como <em>O Enigma de Outro Mundo</em> e <em>À Beira da Loucura</em>, assina obras que aterrorizam o público há quase cinco décadas.</p><h2>Príncipe das Trevas: Uma Alternativa a Halloween</h2><p>Embora <em>Halloween</em> (1978) seja a obra mais icônica de Carpenter, revolucionando o gênero de terror com baixo orçamento e produção ágil, é valioso revisitar outros trabalhos do diretor. Para o Halloween de 2025, considere mergulhar no clássico de horror cósmico <em>Príncipe das Trevas</em>.</p><figure><picture><source media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/jameson-parker-as-brian-standing-next-to-a-cross-in-prince-of-darkness.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/jameson-parker-as-brian-standing-next-to-a-cross-in-prince-of-darkness.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/jameson-parker-as-brian-standing-next-to-a-cross-in-prince-of-darkness.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt=\"Jameson Parker as Brian standing next to a cross in Prince of Darkness\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/jameson-parker-as-brian-standing-next-to-a-cross-in-prince-of-darkness.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/></picture><figcaption>Brian (Jameson Parker) em uma cena de <em>Príncipe das Trevas</em>.</figcaption></figure><h2>O Retorno de Carpenter ao Horror</h2><p><em>Príncipe das Trevas</em> marcou o retorno de John Carpenter ao gênero de terror. Após uma experiência insatisfatória com <em>Os Aventureiros do Bairro Proibido</em>, o diretor buscou ter controle criativo total sobre seus projetos seguintes, produzindo filmes de baixo orçamento.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/null\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>O filme combina o fascínio de Carpenter pelo sci-fi britânico de Nigel Kneale, especialmente a série <em>Quatermass</em>, com seu interesse crescente pela mecânica quântica. A trama segue um padre e cientistas investigando um estranho recipiente que pode conter o próprio Diabo.</p><h2>A Atmosfera de Pavor em Príncipe das Trevas</h2><p>Mais do que <em>Halloween</em> ou <em>O Enigma de Outro Mundo</em>, <em>Príncipe das Trevas</em> consegue capturar um sentimento de pavor puro. Desde os créditos iniciais, uma atmosfera sufocante de desgraça iminente se instala, culminando em um terceiro ato explosivo.</p><figure><picture><source media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/john-carpenter-in-concert.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/john-carpenter-in-concert.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/john-carpenter-in-concert.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt=\"John Carpenter in concert\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/john-carpenter-in-concert.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/></picture><figcaption>John Carpenter durante uma apresentação musical.</figcaption><small>Image by INSTARimages.com</small></figure><p>Apesar de ter sido um sucesso modesto em 1987, arrecadando cerca de 14 milhões de dólares com um orçamento de 3 milhões, <em>Príncipe das Trevas</em> dividiu opiniões na época. Atualmente, é lembrado por sua notável sequência de sonhos futuristas, onde personagens compartilham o mesmo pesadelo envolvendo uma figura sombria emergindo de uma igreja.</p><h2>Carpenter Considera Príncipe das Trevas Seu Filme Mais Subestimado</h2><p>Após seu lançamento, <em>Príncipe das Trevas</em> caiu em um relativo esquecimento, sendo mais reconhecido por fãs devotos. Contudo, na última década, um crescente culto a ele o consolidou como uma das obras de horror mais puras de Carpenter.</p><p>A ciência apresentada pode ser complexa e o ritmo por vezes lento, mas o filme brilha em seus momentos mais intensos. O próprio diretor o descreveu como \"o mais subestimado dos meus filmes\" em uma entrevista de 1996.</p><figure><picture><source media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/06/prince-of-darkness-future-dream-message.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/06/prince-of-darkness-future-dream-message.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1"/><source media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/06/prince-of-darkness-future-dream-message.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/><img alt=\"Prince of Darkness the future dream message\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2021/06/prince-of-darkness-future-dream-message.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/></picture><figcaption>Sequência de sonho em <em>Príncipe das Trevas</em>.</figcaption></figure><p>Enquanto <em>Halloween</em>, <em>O Enigma de Outro Mundo</em> e <em>Eles Vivem</em> recebem a maior parte da atenção, <em>Príncipe das Trevas</em> frequentemente é esquecido. O diretor teve uma sequência de sucessos nas décadas de 70 e 80, tornando difícil destacar todos os seus trabalhos.</p><p>Mesmo filmes como sua adaptação de <em>Christine</em> são sólidos. É natural que alguns títulos se percam, mas <em>Príncipe das Trevas</em> merece ser redescoberto. A produção visualmente impressionante, com um orçamento limitado, conta com uma das melhores trilhas sonoras de Carpenter e sequências marcantes.</p><p>O filme também é um precursor do gênero de horror cósmico/lovecraftiano, ao lado de obras como <em>O Enigma do Horizonte</em>, <em>Aniquilação</em> e <em>The Endless</em>. Lançado hoje, poderia ter recebido mais atenção no circuito independente, mas, como muitas obras de Carpenter, chegou uma década adiantado.</p><h2>Sequências Terrificantes em Príncipe das Trevas</h2><p>A filmografia de Carpenter é repleta de cenas assustadoras. <em>Halloween</em> tem a icônica abertura POV, <em>O Enigma de Outro Mundo</em> tem o momento do desfibrilador, e <em>À Beira da Loucura</em> a sequência do corredor de monstros. <em>Príncipe das Trevas</em> oferece várias cenas que rivalizam com essas.</p><p>A sequência do sonho com o futuro é particularmente aterradora, representando visualmente um pesadelo de forma eficaz, com a qualidade de vídeo granulado que aumenta a sensação de desconforto.</p><p>Outro momento memorável é a aparição de um membro da equipe desaparecido, que reaparece coberto de insetos e mofo, anunciando o fim antes de se desintegrar. O conceito do \"universo espelhado\" no clímax, onde o Diabo invoca seu pai, o Anti-Deus, também contribui para o suspense.</p><p>O que torna <em>Príncipe das Trevas</em> tão perturbador é a abordagem surrealista de Carpenter, que mistura ciência e religião com imagens grotescas no estilo do horror italiano. Embora não seja uma obra-prima como <em>Halloween</em>, é um filme de horror noturno e subestimado dos anos 80, digno de ser redescoberto.</p>",
+      "meta_description": "Em vez de Halloween, explore Príncipe das Trevas, filme de John Carpenter considerado o mais subestimado. Descubra o horror cósmico e as cenas aterrorizantes.",
+      "focus_keyphrase": "Príncipe das Trevas",
+      "related_keyphrases": [
+        "John Carpenter",
+        "filmes de terror subestimados",
+        "horror cósmico",
+        "Halloween"
+      ],
+      "slug": "principe-das-trevas-carpenter-subestimado",
+      "categorias": [
+        {
+          "nome": "Príncipe das Trevas",
+          "grupo": "obras",
+          "evidence": "Príncipe das Trevas"
+        },
+        {
+          "nome": "John Carpenter",
+          "grupo": "obras",
+          "evidence": "John Carpenter"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "horror"
+        }
+      ],
+      "tags_sugeridas": [
+        "principe-das-trevas",
+        "john-carpenter",
+        "terror",
+        "halloween",
+        "horror-classico",
+        "filmes-subestimados"
+      ],
+      "image_alt_texts": {
+        "jameson-parker-as-brian-standing-next-to-a-cross-in-prince-of-darkness.jpg": "Jameson Parker como Brian em uma cena do filme de terror Príncipe das Trevas.",
+        "john-carpenter-in-concert.jpg": "O diretor John Carpenter em uma apresentação musical.",
+        "prince-of-darkness-future-dream-message.jpg": "Sequência de sonho perturbadora no filme Príncipe das Trevas."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Príncipe das Trevas: O Filme Subestimado de John Carpenter",
+        "_yoast_wpseo_metadesc": "Em vez de Halloween, explore Príncipe das Trevas, filme de John Carpenter considerado o mais subestimado. Descubra o horror cósmico e as cenas aterrorizantes.",
+        "_yoast_wpseo_focuskw": "Príncipe das Trevas",
+        "_yoast_news_keywords": "Príncipe das Trevas, John Carpenter, Halloween, O Enigma de Outro Mundo, terror, horror cósmico, filmes subestimados",
+        "_yoast_wpseo_opengraph-title": "Príncipe das Trevas: O Filme Subestimado de John Carpenter",
+        "_yoast_wpseo_opengraph-description": "Descubra por que Príncipe das Trevas, de John Carpenter, é considerado seu filme mais subestimado e uma joia do horror cósmico. Uma alternativa perfeita para quem busca algo além de Halloween.",
+        "_yoast_wpseo_twitter-title": "Príncipe das Trevas: O Filme Subestimado de John Carpenter",
+        "_yoast_wpseo_twitter-description": "John Carpenter chama Príncipe das Trevas de seu filme mais subestimado. Conheça o horror cósmico e as cenas assustadoras que o tornam imperdível."
+      }
+    }
+  ]
+}

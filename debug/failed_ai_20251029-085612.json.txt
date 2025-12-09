@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Dwayne Johnson: Campanha ao Oscar de Ator Melhor Recebe Baque",
+      "conteudo_final": "<p>A temporada de premiações começou oficialmente com o anúncio dos indicados ao <b>Gotham Awards</b> em 28 de outubro, um marco inicial na corrida para o <b>Oscar de 2026</b>. Embora esta premiação foque em filmes independentes, suas indicações muitas vezes direcionam a conversa para obras que poderiam ter dificuldades em alcançar o destaque.</p>\n<h2>\"If I Had Legs, I'd Kick You\" Ganha Destaque</h2>\n<p>Neste ano, o filme <em>If I Had Legs, I'd Kick You</em> surge como um dos principais beneficiados, recebendo quatro indicações: Melhor Filme, Diretor, Roteiro Original e Performance Principal de Destaque. Esta aclamação pode solidificar a posição de Rose Byrne como uma forte concorrente na categoria de Melhor Atriz e abrir portas para outras categorias, impulsionando a campanha do longa-metragem.</p>\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "A campanha de Dwayne Johnson ao Oscar de Melhor Ator sofre um golpe após o desempenho de \"The Smashing Machine\" e o destaque de \"If I Had Legs, I'd Kick You\" no Gotham Awards.",
+      "focus_keyphrase": "Dwayne Johnson Oscar",
+      "related_keyphrases": [
+        "The Smashing Machine Oscar",
+        "Gotham Awards 2026",
+        "Rose Byrne If I Had Legs I'd Kick You"
+      ],
+      "slug": "dwayne-johnson-campanha-oscar-2026",
+      "categorias": [
+        {
+          "nome": "The Smashing Machine",
+          "grupo": "obras",
+          "evidence": "para sua performance em The Smashing Machine"
+        },
+        {
+          "nome": "If I Had Legs, I'd Kick You",
+          "grupo": "obras",
+          "evidence": "If I Had Legs, I'd Kick You has already been running this race for a long time"
+        },
+        {
+          "nome": "Gotham Awards",
+          "grupo": "eventos",
+          "evidence": "the Gotham Awards announced their nominees"
+        }
+      ],
+      "tags_sugeridas": [
+        "Dwayne Johnson",
+        "Oscar 2026",
+        "Gotham Awards",
+        "The Smashing Machine",
+        "If I Had Legs I'd Kick You",
+        "Rose Byrne",
+        "A24"
+      ],
+      "image_alt_texts": {
+        "asap-rocky-s-jamie-and-rose-byrne-s-linda-looking-surprised-at-something-in-if-i-had-legs-i-d-kick-you.jpg": "Rose Byrne em uma cena de \"If I Had Legs, I'd Kick You\", indicando a força de sua atuação na temporada de premiações.",
+        "01620824_poster_w780.jpg": "Pôster do filme \"The Smashing Machine\", estrelado por Dwayne Johnson, cuja campanha ao Oscar enfrenta desafios.",
+        "01733662_poster_w780.jpg": "Pôster do filme \"If I Had Legs, I'd Kick You\", com Rose Byrne, que se destaca na corrida pelo Oscar."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Dwayne Johnson: Campanha ao Oscar de Ator Melhor Recebe Baque",
+        "_yoast_wpseo_metadesc": "A campanha de Dwayne Johnson ao Oscar de Melhor Ator sofre um golpe após o desempenho de \"The Smashing Machine\" e o destaque de \"If I Had Legs, I'd Kick You\" no Gotham Awards.",
+        "_yoast_wpseo_focuskw": "Dwayne Johnson Oscar",
+        "_yoast_news_keywords": "Dwayne Johnson, Oscar 2026, The Smashing Machine, If I Had Legs I'd Kick You, Gotham Awards, Rose Byrne, A24",
+        "_yoast_wpseo_opengraph-title": "Dwayne Johnson: Campanha ao Oscar de Ator Melhor Recebe Baque",
+        "_yoast_wpseo_opengraph-description": "A temporada de premiações de 2026 começou com o Gotham Awards, e o filme \"If I Had Legs, I'd Kick You\" surge como forte concorrente, enquanto a campanha de Dwayne Johnson por \"The Smashing Machine\" enfrenta desafios após um desempenho fraco nas bilheterias.",
+        "_yoast_wpseo_twitter-title": "Dwayne Johnson: Campanha ao Oscar de Ator Melhor Recebe Baque",
+        "_yoast_wpseo_twitter-description": "A temporada de premiações de 2026 começou com o Gotham Awards, e o filme \"If I Had Legs, I'd Kick You\" surge como forte concorrente, enquanto a campanha de Dwayne Johnson por \"The Smashing Machine\" enfrenta desafios após um desempenho fraco nas bilheterias."
+      }
+    }
+  ]
+}

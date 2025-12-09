@@ -1,0 +1,61 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Genshin Impact: Novos Códigos Liberam Moeda Grátis para Miliastra Wonderland",
+      "conteudo_final": "<p>Jogadores de <b>Genshin Impact</b> podem resgatar códigos para obter moeda gratuita para o novo modo de jogo Miliastra Wonderland. O popular RPG da HoYoverse busca constantemente novas formas de engajar os fãs, introduzindo modos de jogo permanentes com estilos de jogabilidade variados. O Genius Invokation TCG é um dos maiores modos, funcionando como um jogo de cartas completo, enquanto o Repertoire of Myriad Melodies é um jogo de ritmo. Contudo, o modo mais recente trouxe uma abordagem completamente nova.</p>\n<p>O Miliastra Wonderland gerou grande expectativa entre os fãs por ser o primeiro modo de <b>Genshin Impact</b> focado em conteúdo gerado pelo usuário. Lançado oficialmente durante a atualização da Versão 6.1, o modo oferece uma variedade de minijogos, desde simulação a plataforma. O Miliastra Wonderland também introduziu personagens totalmente personalizáveis pela primeira vez, com os jogadores podendo também adquirir novas roupas e acessórios através de um gacha exclusivo. Agora, os fãs estão recebendo moeda gratuita para o gacha deste novo modo.</p>\n<p>Três novos códigos de resgate foram disponibilizados, permitindo aos jogadores coletar moeda e recursos gratuitos. O código <b>MBEYNDLU3WGZ</b> concede 160 Geodes of Replication, a moeda padrão do Miliastra Wonderland, além de outros recursos menores para <b>Genshin Impact</b>. O código <b>GS61RD26W966</b> oferece 80 Geodes. Um outro código foi lançado, voltado exclusivamente para o jogo principal de <b>Genshin Impact</b>, com itens como Mora, Hero's Wits e pratos de comida. Os códigos podem ser resgatados através do site oficial do RPG da HoYoverse.</p>\n<h2>Códigos de Genshin Impact Garantem Moeda para Miliastra Wonderland</h2>\n<ul>\n<li><b>MBEYNDLU3WGZ</b>: 160 Geodes of Replication, 2.000 Mora, 2 Hero's Wits, 2 Mystic Enhancement Jewels</li>\n<li><b>GS61RD26W966</b>: 80 Geodes of Replication, 20.000 Mora, 2 Hero's Wits, 2 Mystic Enhancement Jewels</li>\n<li><b>EKLP57EFE4G4</b>: 10.000 Mora, 10 Adventurer's Experiences, 5 Fine Enhancement Jewels, 5 Jueyun Chili Chicken, 5 Stir-Fried Fish Noodles</li>\n</ul>\n<p>A moeda gratuita para o Miliastra Wonderland deve ser um auxílio bem-vindo para os fãs que buscam adquirir as deslumbrantes roupas disponíveis. A aquisição de moeda para o modo tem sido notoriamente difícil, com Arcane Keystones para o gacha de tempo limitado disponíveis apenas para compra. O Miliastra Wonderland estreou com uma ampla variedade de cosméticos para os jogadores, incluindo centenas de peças de vestuário, expressões e poses.</p>\n<p>A estreia de destaque do Miliastra Wonderland durante a atualização 6.2 de <b>Genshin Impact</b> ocorre enquanto a HoYoverse, segundo relatos, tem planos ambiciosos para o modo. O jogo já confirmou que trará novas mudanças, como permitir que os jogadores compartilhem componentes pré-criados com outros na Versão 6.3. A HoYoverse também sugeriu que um \"sistema de remuneração\" para criadores será implementado na Versão 6.4, permitindo que os criadores do Miliastra Wonderland sejam pagos por suas criações no jogo. O mais novo modo de jogo permanente de <b>Genshin Impact</b> parece se estabelecer como um ramo próprio do já monumental sucesso do RPG da HoYoverse.</p>\n<figure>\n<img src=\"https:
+      "meta_description": "Resgate novos códigos em Genshin Impact para obter Geodes of Replication e outros itens gratuitos para o modo criativo Miliastra Wonderland.",
+      "focus_keyphrase": "Genshin Impact códigos Miliastra Wonderland",
+      "related_keyphrases": [
+        "moeda grátis Genshin Impact",
+        "resgate códigos Genshin Impact",
+        "Miliastra Wonderland"
+      ],
+      "slug": "genshin-impact-codigos-moeda-miliastra",
+      "categorias": [
+        {
+          "nome": "Genshin Impact",
+          "grupo": "franquias",
+          "evidence": "Genshin Impact is giving out some free currency"
+        },
+        {
+          "nome": "Miliastra Wonderland",
+          "grupo": "obras",
+          "evidence": "new Genshin Impact Codes Give Free Miliastra Wonderland Currency"
+        },
+        {
+          "nome": "HoYoverse",
+          "grupo": "editorias",
+          "evidence": "The massively popular RPG from HoYoverse"
+        }
+      ],
+      "tags_sugeridas": [
+        "Genshin Impact",
+        "Miliastra Wonderland",
+        "HoYoverse",
+        "códigos",
+        "gratuito",
+        "RPG"
+      ],
+      "image_alt_texts": {
+        "Locations-Of-Statues-of-the-Seven-Genshin-Impact-Map-Teyvat-TLDR-Vertical-4.jpg": "Mapa de Teyvat em Genshin Impact, mostrando locais de interesse.",
+        "Locations-Of-Statues-of-the-Seven-Genshin-Impact-Map-Teyvat-TLDR-Vertical.jpg": "Vista geral do mapa do mundo de Genshin Impact, Teyvat.",
+        "teyvat-2.jpg": "Ilustração vibrante do continente de Teyvat em Genshin Impact.",
+        "every-aspect-of-a-warrior-quest-in-genshin-impact-how-to-trigger.jpg": "Tela de um jogador realizando uma missão em Genshin Impact.",
+        "genshin-25.jpg": "Cena de jogabilidade de Genshin Impact, destacando gráficos e personagens.",
+        "how-to-reach-the-warrior-challenge-platform-in-genshin-impact.jpg": "Jogador navegando por um desafio em Genshin Impact.",
+        "mixcollage-24-dec-2024-11-06-am-8215.jpg": "Montagem de personagens e cenas de Genshin Impact.",
+        "genshin-impact-miliastra-wonderland-odes-currency-how-get-arcane-keystone-chronal-nexus-battle-pass.jpg": "Interface do modo Miliastra Wonderland em Genshin Impact, mostrando moedas e itens."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Genshin Impact: Novos Códigos Liberam Moeda Grátis para Miliastra Wonderland",
+        "_yoast_wpseo_metadesc": "Resgate novos códigos em Genshin Impact para obter Geodes of Replication e outros itens gratuitos para o modo criativo Miliastra Wonderland.",
+        "_yoast_wpseo_focuskw": "Genshin Impact códigos Miliastra Wonderland",
+        "_yoast_news_keywords": "Genshin Impact, Miliastra Wonderland, HoYoverse, códigos, moeda grátis, RPG",
+        "_yoast_wpseo_opengraph-title": "Genshin Impact: Novos Códigos Liberam Moeda Grátis para Miliastra Wonderland",
+        "_yoast_wpseo_opengraph-description": "Jogadores de Genshin Impact podem resgatar códigos para obter moeda gratuita para o novo modo de jogo Miliastra Wonderland.",
+        "_yoast_wpseo_twitter-title": "Genshin Impact: Novos Códigos Liberam Moeda Grátis para Miliastra Wonderland",
+        "_yoast_wpseo_twitter-description": "Resgate novos códigos em Genshin Impact para obter Geodes of Replication e outros itens gratuitos para o modo criativo Miliastra Wonderland."
+      }
+    }
+  ]
+}

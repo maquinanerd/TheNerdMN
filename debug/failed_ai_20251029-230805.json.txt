@@ -1,0 +1,147 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Wars: Jedi Radicais em Visions Vol. 3 são mais assustadores que Sith",
+      "conteudo_final": "<p>A série antológica <b>Star Wars: Visions</b> sempre explorou visões fascinantes e alternativas ao cânone oficial de <i>Star Wars</i>. Isso se mantém em <b>Star Wars: Visions Vol. 3</b>, especialmente em seu episódio de estreia, que redefine de forma sombria o que significa ser um Jedi.</p><figure class=\"video-container\"><img src=\"https:
+      "meta_description": "Star Wars: Visions Vol. 3 apresenta os Jedi Cruzados, uma facção radical que se mostra mais assustadora que os Sith, explorando a moralidade na galáxia.",
+      "focus_keyphrase": "Star Wars Visions Vol. 3 Jedi Cruzados",
+      "related_keyphrases": [
+        "Jedi Radicais Star Wars",
+        "Grande Mestre Star Wars Visions",
+        "Ronin Sith Star Wars"
+      ],
+      "slug": "star-wars-visions-jedi-cruzados",
+      "categorias": [
+        {
+          "nome": "Star Wars: Visions",
+          "grupo": "obras",
+          "evidence": "Star Wars: Visions Vol. 3"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars canon"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars Visions",
+        "Jedi Cruzados",
+        "Ronin Sith",
+        "Grande Mestre",
+        "Disney Plus",
+        "Animação"
+      ],
+      "image_alt_texts": {
+        "sith-vs-jedi-in-star-wars-visions-vol-3-the-duel-payback.jpg": "Sith vs Jedi em Star Wars Visions Vol. 3 The Duel Payback, mostrando uma batalha intensa.",
+        "jedi-grandmaster-taunting-ronin-in-star-wars-visions-vol-3-the-duel-payback.jpg": "Grande Mestre Jedi cibernético provocando o Ronin em Star Wars Visions Vol. 3 The Duel Payback.",
+        "sith-ronin-defending-himself-against-jedi-grandmaster-attack-in-star-wars-visions-vol-3-the-duel-payback.jpg": "Ronin Sith se defendendo do ataque do Grande Mestre Jedi em Star Wars Visions Vol. 3 The Duel Payback.",
+        "darth-revan-in-star-wars-kotor-remake.jpg": "Darth Revan empunhando seu sabre de luz em Star Wars: KOTOR Remake, representando os Jedi Cruzados de Legends.",
+        "star_wars_visions_2_tv_poster.jpg": "Pôster de Star Wars: Visions Vol. 2, destacando a arte e os personagens da série antológica."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Jedi Radicais em Visions Vol. 3 são mais assustadores que Sith",
+        "_yoast_wpseo_metadesc": "Star Wars: Visions Vol. 3 apresenta os Jedi Cruzados, uma facção radical que se mostra mais assustadora que os Sith, explorando a moralidade na galáxia.",
+        "_yoast_wpseo_focuskw": "Star Wars Visions Vol. 3 Jedi Cruzados",
+        "_yoast_news_keywords": "Star Wars, Star Wars Visions, Jedi Cruzados, Grande Mestre, Ronin Sith, Disney Plus, Animação",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Jedi Radicais em Visions Vol. 3 são mais assustadores que Sith",
+        "_yoast_wpseo_opengraph-description": "Star Wars: Visions Vol. 3 apresenta os Jedi Cruzados, uma facção radical que se mostra mais assustadora que os Sith, explorando a moralidade na galáxia.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Jedi Radicais em Visions Vol. 3 são mais assustadores que Sith",
+        "_yoast_wpseo_twitter-description": "Star Wars: Visions Vol. 3 apresenta os Jedi Cruzados, uma facção radical que se mostra mais assustadora que os Sith, explorando a moralidade na galáxia."
+      }
+    },
+    {
+      "titulo_final": "10 Séries de TV que Não Merecem o Ódio Que Recebem",
+      "conteudo_final": "<p>Algumas séries de TV parecem destinadas a carregar uma má reputação, independentemente do que façam. Seja por reações negativas dos fãs, controvérsias envolvendo membros do elenco ou um mal-entendido geral sobre o que a série tentava alcançar, essas produções são injustamente descartadas.</p><p>No entanto, por trás do ruído negativo, muitas dessas chamadas \"más\" séries entregam roteiros inteligentes, atuações estelares e narrativas profundamente recompensadoras para aqueles que lhes dão uma chance justa. Existem muitas séries que valem a pena para espectadores que conseguem olhar além de sua reputação e lhes dar uma oportunidade.</p><p>Algumas séries são odiadas porque reinventam uma propriedade intelectual amada de maneiras que o público nunca esperou, enquanto outras são sobrecarregadas por finais divisivos ou suposições desatualizadas sobre sua qualidade. Certamente existem séries de TV que merecem toda a crítica que recebem, mas estas definitivamente não. Cada uma delas foi julgada injustamente, e é hora de lhes dar o crédito que merecem.</p><h2>Demon Slayer (2019-Presente)</h2><h3>Uma Obra-Prima Visual Que Prova Que Coração e Substância Importam Tanto Quanto Estilo</h3><figure class=\"video-container\"><img src=\"https:
+      "meta_description": "Descubra 10 séries de TV que foram injustamente criticadas, mas que oferecem narrativas inteligentes, personagens cativantes e muito mais.",
+      "focus_keyphrase": "Séries de TV que não merecem ódio",
+      "related_keyphrases": [
+        "Séries subestimadas",
+        "Melhores séries de TV",
+        "Críticas de séries"
+      ],
+      "slug": "series-nao-merecem-odio",
+      "categorias": [
+        {
+          "nome": "Demon Slayer",
+          "grupo": "obras",
+          "evidence": "Demon Slayer (2019-Presente)"
+        },
+        {
+          "nome": "Teen Titans GO!",
+          "grupo": "obras",
+          "evidence": "Teen Titans GO! (2013-Presente)"
+        },
+        {
+          "nome": "Frasier",
+          "grupo": "obras",
+          "evidence": "The Frasier Reboot (2023-2024)"
+        },
+        {
+          "nome": "Riverdale",
+          "grupo": "obras",
+          "evidence": "Riverdale (2017-2023)"
+        },
+        {
+          "nome": "Two And A Half Men",
+          "grupo": "obras",
+          "evidence": "Two And A Half Men (2003-2015)"
+        },
+        {
+          "nome": "She-Ra & The Princesses Of Power",
+          "grupo": "obras",
+          "evidence": "She-Ra & The Princesses Of Power (2018-2020)"
+        },
+        {
+          "nome": "Friends",
+          "grupo": "obras",
+          "evidence": "Friends (1994-2004)"
+        },
+        {
+          "nome": "The Acolyte",
+          "grupo": "obras",
+          "evidence": "The Acolyte (2024)"
+        },
+        {
+          "nome": "Lost",
+          "grupo": "obras",
+          "evidence": "Lost (2004-2010)"
+        },
+        {
+          "nome": "The Big Bang Theory",
+          "grupo": "obras",
+          "evidence": "The Big Bang Theory (2007-2019)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Séries de TV",
+        "Críticas de TV",
+        "Análise de Séries",
+        "Reboots",
+        "Comédia",
+        "Drama"
+      ],
+      "image_alt_texts": {
+        "demon-slayer-anime-featured-image-tanjiro-looking-scared.png": "Tanjiro com medo em Demon Slayer, mostrando a profundidade emocional da série.",
+        "The-old-and-new-Teen-Titans-together-in-Teen-Titans-Go!-Vs-Teen-Titans-(2019).jpg": "Os Teen Titans antigos e novos juntos em Teen Titans Go! Vs Teen Titans (2019), representando a releitura cômica.",
+        "kelsey-grammer-as-frasier-in-the-frasier-reboot.jpg": "Kelsey Grammer como Frasier no reboot de Frasier, exibindo o charme renovado do personagem.",
+        "archie-betty-and-veronica-share-a-milkshake-in-riverdale.jpg": "Archie, Betty e Veronica dividindo um milkshake em Riverdale, simbolizando o tom exagerado da série.",
+        "a-two-and-a-half-men-reboot-should-only-happen-on-one-condition.jpg": "Charlie e Alan fazendo caretas em Two and a Half Men, destacando o humor da sitcom.",
+        "spop-4.jpg": "Catra implorando a uma Adora sem vida em She-Ra & The Princesses Of Power, mostrando a carga emocional da série.",
+        "friends.jpg": "Joey, Ross, Chandler e Monica olhando um livro em Friends, representando o impacto cultural da sitcom.",
+        "sol-and-qimir-in-the-acolyte.jpg": "Mestre Sol e Qimir/o Estranho em The Acolyte com seus sabres de luz, indicando a ação e os riscos da série.",
+        "lost-pilot.jpg": "Jack (Matthew Fox) sentado no avião no episódio piloto de Lost, simbolizando o início de uma jornada complexa.",
+        "sheldon-in-the-big-bang-theory.jpg": "Sheldon em The Big Bang Theory, representando a evolução dos personagens e o humor da série."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "10 Séries de TV Que Não Merecem o Ódio Que Recebem",
+        "_yoast_wpseo_metadesc": "Descubra 10 séries de TV que foram injustamente criticadas, mas que oferecem narrativas inteligentes, personagens cativantes e muito mais.",
+        "_yoast_wpseo_focuskw": "Séries de TV que não merecem ódio",
+        "_yoast_news_keywords": "Séries de TV, Críticas de TV, Análise de Séries, Reboots, Comédia, Drama, Demon Slayer, Teen Titans GO!, Frasier, Riverdale",
+        "_yoast_wpseo_opengraph-title": "10 Séries de TV Que Não Merecem o Ódio Que Recebem",
+        "_yoast_wpseo_opengraph-description": "Descubra 10 séries de TV que foram injustamente criticadas, mas que oferecem narrativas inteligentes, personagens cativantes e muito mais.",
+        "_yoast_wpseo_twitter-title": "10 Séries de TV Que Não Merecem o Ódio Que Recebem",
+        "_yoast_wpseo_twitter-description": "Descubra 10 séries de TV que foram injustamente criticadas, mas que oferecem narrativas inteligentes, personagens cativantes e muito mais."
+      }
+    }
+  ]
+}

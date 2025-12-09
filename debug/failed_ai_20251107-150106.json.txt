@@ -1,0 +1,103 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jennifer Lawrence revela conta secreta no TikTok para 'rage-baiting'",
+      "conteudo_final": "<p>A atriz Jennifer Lawrence, vencedora do Oscar, conhecida por seus papéis em filmes como <em>O Lado Bom da Vida</em> e <em>Trapaça</em>, revelou uma faceta surpreendente de sua vida digital: ela possui uma conta secreta no TikTok dedicada ao 'rage-baiting'. A confissão ocorreu durante uma entrevista ao lado de Robert Pattinson, seu colega de elenco no novo filme <em>Die My Love</em>.</p><h2>Jennifer Lawrence admite brigas em comentários do TikTok</h2><p>Ao ser questionada sobre segredos de fã, Lawrence confessou a Pattinson: \"Eu tenho uma vida secreta no TikTok\". Quando o ator perguntou se ela tinha fãs, a atriz respondeu com bom humor: \"Eu não diria fãs. Eu me meto em brigas no TikTok\". Ela explicou que as discussões começaram com temas de cultura pop, como reality shows e as Kardashians, mas se intensificaram ao debater sobre a família real britânica.</p><p>Lawrence relatou que muitos usuários desconheciam fatos básicos sobre a realeza, como o parentesco entre a Rainha Elizabeth II e o Príncipe Philip. A atriz mencionou que, após ser acusada de \"criticar\" a família real, percebeu que estava praticando 'rage-baiting' na plataforma.</p><div class="body-img landscape mobile-optimized"><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Jennifer Lawrence e Robert Pattinson dançando em Die My Love\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"826\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Jennifer Lawrence e Robert Pattinson em cena do filme Die My Love.</figcaption></figure></div><h2>Die My Love: o novo filme de Jennifer Lawrence</h2><p>Dirigido por Lynne Ramsay, <em>Die My Love</em> acompanha uma jovem mãe que luta contra a depressão pós-parto. Ao lado de seu parceiro, interpretado por Robert Pattinson, ela mergulha em um espiral de psicose. O elenco de apoio inclui LaKeith Stanfield, Nick Nolte e Sissy Spacek.</p><p>O filme estreou no Festival de Cannes de 2025, onde foi indicado à Palma de Ouro. <em>Die My Love</em> recebeu críticas geralmente positivas, com destaque para a atuação de Jennifer Lawrence, descrita como uma das mais marcantes de sua carreira. O longa-metragem está em exibição nos cinemas.</p><div class="w-rich w-youtube" id="eX89GX57e3M"></div>",
+      "meta_description": "Jennifer Lawrence revela que mantém uma conta secreta no TikTok onde se envolve em debates acalorados, especialmente sobre a família real britânica.",
+      "focus_keyphrase": "Jennifer Lawrence conta secreta TikTok",
+      "related_keyphrases": [
+        "Jennifer Lawrence rage-baiting",
+        "Die My Love elenco",
+        "Robert Pattinson entrevista"
+      ],
+      "slug": "jennifer-lawrence-conta-tiktok-secreta",
+      "categorias": [
+        {
+          "nome": "Die My Love",
+          "grupo": "obras",
+          "evidence": "<em>Die My Love</em> acompanha uma jovem mãe"
+        },
+        {
+          "nome": "Jennifer Lawrence",
+          "grupo": "pessoas",
+          "evidence": "Jennifer Lawrence, vencedora do Oscar"
+        },
+        {
+          "nome": "Robert Pattinson",
+          "grupo": "pessoas",
+          "evidence": "Ao lado de Robert Pattinson, seu colega de elenco"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jennifer Lawrence",
+        "Robert Pattinson",
+        "Die My Love",
+        "TikTok",
+        "Lynne Ramsay"
+      ],
+      "image_alt_texts": {
+        "jennifer-lawrence-and-robert-pattinson-dancing-in-die-my-love-1-1.jpg": "Jennifer Lawrence e Robert Pattinson em cena do filme Die My Love."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jennifer Lawrence revela conta secreta no TikTok para 'rage-baiting'",
+        "_yoast_wpseo_metadesc": "Jennifer Lawrence revela que mantém uma conta secreta no TikTok onde se envolve em debates acalorados, especialmente sobre a família real britânica.",
+        "_yoast_wpseo_focuskw": "Jennifer Lawrence conta secreta TikTok",
+        "_yoast_news_keywords": "Jennifer Lawrence, TikTok, rage-baiting, Die My Love, Robert Pattinson, Lynne Ramsay",
+        "_yoast_wpseo_opengraph-title": "Jennifer Lawrence revela conta secreta no TikTok para 'rage-baiting'",
+        "_yoast_wpseo_opengraph-description": "Jennifer Lawrence revela que mantém uma conta secreta no TikTok onde se envolve em debates acalorados, especialmente sobre a família real britânica.",
+        "_yoast_wpseo_twitter-title": "Jennifer Lawrence revela conta secreta no TikTok para 'rage-baiting'",
+        "_yoast_wpseo_twitter-description": "Jennifer Lawrence revela que mantém uma conta secreta no TikTok onde se envolve em debates acalorados, especialmente sobre a família real britânica."
+      }
+    },
+    {
+      "titulo_final": "MCU: Domínio de bilheteria chega ao fim após 13 anos em 2025",
+      "conteudo_final": "<p>O Universo Cinematográfico Marvel (MCU) desfrutou de um sucesso sem precedentes em bilheteria por mais de uma década, especialmente após o lançamento de <em>Vingadores</em> em 2012. No entanto, 2025 marca o fim de uma era, com a expectativa de quebrar a sequência de 13 anos em que pelo menos um filme do MCU figurou entre os dez maiores sucessos de bilheteria do ano.</p><h2>Histórico de Sucesso do MCU nas Bilheterias</h2><p>Desde 2012, o MCU consistentemente emplacou filmes entre os mais lucrativos do ano. Títulos como <em>Vingadores: Ultimato</em>, <em>Pantera Negra</em>, <em>Homem-Aranha: Sem Volta Para Casa</em> e <em>Deadpool & Wolverine</em> alcançaram o topo das bilheterias globais em diversos anos. Essa dominância se estendeu por várias fases do estúdio, consolidando o MCU como uma força inigualável em Hollywood.</p><p>A sequência de ter um filme entre os dez maiores sucessos anuais foi interrompida apenas em 2020, devido à pandemia de COVID-19, que impactou o lançamento de filmes. Mesmo com o retorno em 2021, o MCU continuou a apresentar fortes desempenhos, como visto com <em>Homem-Aranha: Sem Volta Para Casa</em>, que liderou as bilheterias.</p><div class=\"table-container\"><table><thead><tr><th colspan=\"3\" scope=\"col\">Filmes do MCU com Top 10 em Bilheteria</th></tr></thead><tbody><tr><td><strong>Filme (Ano)</strong></td><td><strong>Bilheteria Mundial</strong></td><td><strong>Posição Mundial</strong></td></tr><tr><td><em>Homem de Ferro</em> (2008)</td><td>US$ 585 milhões</td><td>8º</td></tr><tr><td><em>Homem de Ferro 2</em> (2010)</td><td>US$ 623 milhões</td><td>7º</td></tr><tr><td><em>Os Vingadores</em> (2012)</td><td>US$ 1,5 bilhão</td><td>1º</td></tr><tr><td><em>Homem de Ferro 3</em> (2013)</td><td>US$ 1,2 bilhão</td><td>2º</td></tr><tr><td><em>Thor: O Mundo Sombrio</em> (2013)</td><td>US$ 644 milhões</td><td>10º</td></tr><tr><td><em>Guardiões da Galáxia</em> (2014)</td><td>US$ 772 milhões</td><td>3º</td></tr><tr><td><em>Capitão América: O Soldado Invernal</em> (2014)</td><td>US$ 714 milhões</td><td>7º</td></tr><tr><td><em>Vingadores: Era de Ultron</em> (2015)</td><td>US$ 1,4 bilhão</td><td>4º</td></tr><tr><td><em>Capitão América: Guerra Civil</em> (2016)</td><td>US$ 1,1 bilhão</td><td>1º</td></tr><tr><td><em>Homem-Aranha: De Volta ao Lar</em> (2017)</td><td>US$ 880 milhões</td><td>6º</td></tr><tr><td><em>Guardiões da Galáxia Vol. 2</em> (2017)</td><td>US$ 863 milhões</td><td>8º</td></tr><tr><td><em>Thor: Ragnarok</em> (2017)</td><td>US$ 853 milhões</td><td>9º</td></tr><tr><td><em>Vingadores: Guerra Infinita</em> (2018)</td><td>US$ 2 bilhões</td><td>1º</td></tr><tr><td><em>Pantera Negra</em> (2018)</td><td>US$ 1,3 bilhão</td><td>2º</td></tr><tr><td><em>Vingadores: Ultimato</em> (2019)</td><td>US$ 2,7 bilhões</td><td>1º</td></tr><tr><td><em>Homem-Aranha: Longe de Casa</em> (2019)</td><td>US$ 1,13 bilhão</td><td>4º</td></tr><tr><td><em>Capitã Marvel</em> (2019)</td><td>US$ 1,12 bilhão</td><td>5º</td></tr><tr><td><em>Homem-Aranha: Sem Volta Para Casa</em> (2021)</td><td>US$ 1,9 bilhão</td><td>1º</td></tr><tr><td><em>Shang-Chi e a Lenda dos Dez Anéis</em> (2021)</td><td>US$ 408 milhões</td><td>9º</td></tr><tr><td><em>Doutor Estranho no Multiverso da Loucura</em> (2022)</td><td>US$ 955 milhões</td><td>4º</td></tr><tr><td><em>Pantera Negra: Wakanda Para Sempre</em> (2022)</td><td>US$ 859 milhões</td><td>6º</td></tr><tr><td><em>Thor: Amor e Trovão</em> (2022)</td><td>US$ 760 milhões</td><td>8º</td></tr><tr><td><em>Guardiões da Galáxia Vol. 3</em> (2023)</td><td>US$ 845 milhões</td><td>4º</td></tr><tr><td><em>Deadpool & Wolverine</em> (2024)</td><td>US$ 1,3 bilhão</td><td>2º</td></tr></tbody></table></div><h2>2025: O Fim da Sequência de Sucessos do MCU</h2><p>Em 2025, o cenário muda drasticamente. O filme de maior bilheteria do MCU até agora é <em>O Quarteto Fantástico: Os Primeiros Passos</em>, com US$ 521 milhões mundialmente. Embora seja um feito notável para a franquia <em>Quarteto Fantástico</em>, o desempenho geral dos filmes do MCU neste ano, incluindo <em>Capitão América: Admirável Mundo Novo</em> e <em>Thunderbolts*</em>, está abaixo do padrão estabelecido pelo estúdio.</p><p>Atualmente, <em>O Quarteto Fantástico: Os Primeiros Passos</em> ocupa a décima posição entre os filmes de maior bilheteria de 2025. Contudo, com a chegada de outros lançamentos aguardados, como <em>Wicked: For Good</em>, <em>Zootopia 2</em> e <em>Avatar: Fire and Ash</em>, é provável que ele perca essa posição.</p><div class="body-img landscape mobile-optimized"><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Os Vingadores reunidos em pôster do filme Vingadores: Ultimato\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"928\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Pôster de Vingadores: Ultimato, um dos maiores sucessos do MCU.</figcaption></figure></div><p>Isso significa que 2025 será o primeiro ano desde 2011 em que o MCU não terá um filme entre os dez mais lucrativos. Naquele ano, <em>Thor</em> ficou em 15º e <em>Capitão América: O Primeiro Vingador</em> em 18º. Considerando que <em>Homem de Ferro</em> e <em>Homem de Ferro 2</em> alcançaram o top 10 em 2008 e 2010, respectivamente, 2025 se torna apenas a segunda vez que o MCU falha em garantir essa honra em um ano de lançamento.</p><h2>O Futuro do MCU e a Queda de Bilheteria</h2><p>A queda na performance de bilheteria do MCU pode ser atribuída a diversos fatores. O gênero de super-heróis já não detém o mesmo domínio absoluto, com 2025 evidenciando a força de estrelas de cinema, novas propriedades intelectuais e animações. Embora a Marvel Studios ainda seja capaz de produzir grandes sucessos, a estratégia da Disney de lançar conteúdo frequentemente no Disney+ pode ter alterado o comportamento do público.</p><p>A saturação de conteúdo, a expectativa de que os filmes cheguem rapidamente ao streaming e o fim de arcos importantes, como os de Homem de Ferro e Viúva Negra, podem ter diminuído o interesse do público em acompanhar cada passo do universo. Além disso, a incerteza sobre os planos futuros do MCU também contribui para essa desmobilização.</p><div class="body-img landscape mobile-optimized"><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Reed Richards (Pedro Pascal) em O Quarteto Fantástico: Os Primeiros Passos\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"928\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Reed Richards (Pedro Pascal) em O Quarteto Fantástico: Os Primeiros Passos.</figcaption></figure></div><p>Apesar dos desafios, os próximos anos prometem grandes eventos com <em>Vingadores: Doomsday</em> e <em>Vingadores: Guerras Secretas</em>. Esses filmes têm o potencial de atrair novamente o público em massa, impulsionados pela expectativa de crossovers e o retorno de personagens icônicos. Se esses eventos não atingirem as expectativas de bilheteria, isso pode gerar preocupações sobre o futuro a longo prazo do MCU.</p><p>A quebra da sequência de 2025 pode ser um sinal de alerta, mas os próximos filmes dos Vingadores oferecem uma nova oportunidade para o MCU reconquistar seu domínio nas bilheterias e energizar o público para as histórias que virão após <em>Guerras Secretas</em>.</p>",
+      "meta_description": "O MCU encerra em 2025 uma sequência de 13 anos com filmes entre os 10 maiores sucessos de bilheteria. Entenda os motivos e o futuro do estúdio.",
+      "focus_keyphrase": "Fim domínio bilheteria MCU",
+      "related_keyphrases": [
+        "MCU bilheteria 2025",
+        "Marvel Studios desempenho",
+        "Vingadores Doomsday bilheteria"
+      ],
+      "slug": "fim-dominio-bilheteria-mcu",
+      "categorias": [
+        {
+          "nome": "MCU",
+          "grupo": "franquias",
+          "evidence": "O Marvel Cinematic Universe (MCU) desfrutou de um sucesso sem precedentes"
+        },
+        {
+          "nome": "Vingadores",
+          "grupo": "obras",
+          "evidence": "<em>Vingadores</em> em 2012"
+        },
+        {
+          "nome": "O Quarteto Fantástico",
+          "grupo": "obras",
+          "evidence": "<em>O Quarteto Fantástico: Os Primeiros Passos</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "MCU",
+        "Marvel Studios",
+        "Bilheteria",
+        "Vingadores",
+        "O Quarteto Fantástico"
+      ],
+      "image_alt_texts": {
+        "the-avengers-assemble-in-front-of-a-bright-background-in-mcu-endgame-poster.jpg": "Os Vingadores reunidos em pôster do filme Vingadores: Ultimato.",
+        "pedro-pascal-s-reed-richards-smiling-while-holding-franklin-richards-in-the-fantastic-four-first-steps.jpg": "Reed Richards (Pedro Pascal) em O Quarteto Fantástico: Os Primeiros Passos."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "MCU: Domínio de bilheteria chega ao fim após 13 anos em 2025",
+        "_yoast_wpseo_metadesc": "O MCU encerra em 2025 uma sequência de 13 anos com filmes entre os 10 maiores sucessos de bilheteria. Entenda os motivos e o futuro do estúdio.",
+        "_yoast_wpseo_focuskw": "Fim domínio bilheteria MCU",
+        "_yoast_news_keywords": "MCU, Marvel Studios, Bilheteria, Vingadores, O Quarteto Fantástico, Capitão América, Deadpool",
+        "_yoast_wpseo_opengraph-title": "MCU: Domínio de bilheteria chega ao fim após 13 anos em 2025",
+        "_yoast_wpseo_opengraph-description": "O MCU encerra em 2025 uma sequência de 13 anos com filmes entre os 10 maiores sucessos de bilheteria. Entenda os motivos e o futuro do estúdio.",
+        "_yoast_wpseo_twitter-title": "MCU: Domínio de bilheteria chega ao fim após 13 anos em 2025",
+        "_yoast_wpseo_twitter-description": "O MCU encerra em 2025 uma sequência de 13 anos com filmes entre os 10 maiores sucessos de bilheteria. Entenda os motivos e o futuro do estúdio."
+      }
+    }
+  ]
+}

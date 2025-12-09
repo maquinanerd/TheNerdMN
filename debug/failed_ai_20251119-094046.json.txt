@@ -1,0 +1,54 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Planet Centauri sofre sabotagem dupla na Steam e desenvolvedor se sente 'amaldiçoado'",
+      "conteudo_final": "<p>No mundo atual, onde algoritmos e concursos de popularidade baseados em dados dominam, é preciso uma ajuda extra para que um produto se destaque em um mercado extremamente saturado.</p><p><strong>Planet Centauri</strong>, um jogo sandbox 2D do estúdio independente Permadeath, contava com 150.000 listas de desejos na Steam antes de seu lançamento oficial em setembro. No entanto, uma rara falha no sistema da Steam impediu que os usuários que adicionaram o jogo à lista de desejos fossem notificados sobre o lançamento.</p><p>Sem o esperado aumento nas vendas proveniente dos desejos, um jogo tem pouca ou nenhuma chance de aparecer na página principal da Steam, que é uma fonte significativa de tráfego.</p><p>Embora a taxa de conversão entre listas de desejos e vendas nunca possa ser prevista com exatidão, é razoável supor que Planet Centauri teria vendido mais cópias no dia do lançamento se os desejantes tivessem sido notificados. O jogo atingiu um pico de apenas cerca de 150 jogadores simultâneos em seu dia de estreia, um número muito abaixo do esperado pela Permadeath.</p><p>Felizmente, a Valve compreendeu a situação e ofereceu à Permadeath uma compensação pelo bug do sistema: uma venda diária que colocaria Planet Centauri em destaque nas diversas seções da página principal. A Valve ofereceu várias datas potenciais para a promoção, e os desenvolvedores independentes escolheram 12 de novembro.</p><h2>Duplamente Amaldiçoado</h2><p>Avançando para o dia fatídico, a Valve anunciou o Steam Frame, o Steam Controller e o Steam Machine. Como se pode imaginar, a página principal foi dominada por esses anúncios, ofuscando as promoções que normalmente teriam grande visibilidade.</p><p>Laurent Lechat, da Permadeath, reconheceu o "azar" que Planet Centauri enfrentou. Ele não culpa a Valve por não ter informado o estúdio sobre os anúncios iminentes. No entanto, ele sugere que a empresa poderia ter bloqueado o dia 12 para promoções sem especificar um motivo, a fim de evitar situações como essa.</p><p>O estúdio tem a "sensação de que Planet Centauri está amaldiçoado", então eles mudaram o foco para outro projeto: um roguelike 2D que não será lançado em acesso antecipado.</p><p>Felizmente, a promoção gerou cerca de 5.000 vendas para a Permadeath, o que dá à equipe mais tempo para desenvolver seu próximo jogo. Esperamos que este tenha mais sorte do que Planet Centauri.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/09/planet-centauri.jpg\" alt=\"Cena do jogo Planet Centauri em ação.\"><figcaption>Planet Centauri, um sandbox 2D que enfrentou problemas técnicos na Steam.</figcaption></figure><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/11/mixcollage-19-nov-2024-11-17-pm-1483.jpg\" alt=\"Montagem de imagens promocionais do jogo Planet Centauri.\"><figcaption>O estúdio Permadeath busca um novo começo com um projeto diferente.</figcaption></figure>",
+      "meta_description": "Planet Centauri sofreu duas falhas na Steam que prejudicaram seu lançamento. Desenvolvedor sente que o jogo está 'amaldiçoado'.",
+      "focus_keyphrase": "Planet Centauri sabotagem Steam",
+      "related_keyphrases": [
+        "Permadeath Planet Centauri",
+        "problemas Steam",
+        "jogos sandbox"
+      ],
+      "slug": "planet-centauri-sabotagem-steam",
+      "categorias": [
+        {
+          "nome": "Planet Centauri",
+          "grupo": "obras",
+          "evidence": "Planet Centauri—a 2D sandbox from indie developer Permadeath"
+        },
+        {
+          "nome": "Steam",
+          "grupo": "plataformas",
+          "evidence": "Steam bug prevented wishlisters"
+        },
+        {
+          "nome": "Permadeath",
+          "grupo": "estúdios",
+          "evidence": "indie developer Permadeath"
+        }
+      ],
+      "tags_sugeridas": [
+        "Planet Centauri",
+        "Permadeath",
+        "Steam",
+        "jogos indie",
+        "sandbox"
+      ],
+      "image_alt_texts": {
+        "planet-centauri.jpg": "Cena do jogo Planet Centauri em ação.",
+        "mixcollage-19-nov-2024-11-17-pm-1483.jpg": "Montagem de imagens promocionais do jogo Planet Centauri."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Planet Centauri sofre sabotagem dupla na Steam e desenvolvedor se sente 'amaldiçoado'",
+        "_yoast_wpseo_metadesc": "Planet Centauri sofreu duas falhas na Steam que prejudicaram seu lançamento. Desenvolvedor sente que o jogo está 'amaldiçoado'.",
+        "_yoast_wpseo_focuskw": "Planet Centauri sabotagem Steam",
+        "_yoast_news_keywords": "Planet Centauri, Permadeath, Steam, jogos indie, sandbox, bug Steam",
+        "_yoast_wpseo_opengraph-title": "Planet Centauri sofre sabotagem dupla na Steam e desenvolvedor se sente 'amaldiçoado'",
+        "_yoast_wpseo_opengraph-description": "Planet Centauri sofreu duas falhas na Steam que prejudicaram seu lançamento. Desenvolvedor sente que o jogo está 'amaldiçoado'.",
+        "_yoast_wpseo_twitter-title": "Planet Centauri sofre sabotagem dupla na Steam e desenvolvedor se sente 'amaldiçoado'",
+        "_yoast_wpseo_twitter-description": "Planet Centauri sofreu duas falhas na Steam que prejudicaram seu lançamento. Desenvolvedor sente que o jogo está 'amaldiçoado'."
+      }
+    }
+  ]
+}

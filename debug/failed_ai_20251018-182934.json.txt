@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ryan Murphy revela proposta recusada de reality show com Kim Kardashian",
+      "conteudo_final": "<p>Ryan Murphy participou da estreia de sua nova série, <b>All's Fair</b>, e revelou detalhes sobre um projeto que não avançou com Kim Kardashian. A estrela de reality shows já havia feito sua estreia como atriz na 12ª temporada de <i>American Horror Story</i>, no papel de Allura Grant, uma colaboração que aparentemente foi um sucesso. Contudo, Murphy compartilhou em entrevista que a relação profissional com a família Kardashian nem sempre foi tão fluida.</p><h2>O Pitch de Reality Show Recusado</h2><p>Em conversa com <em>The Hollywood Reporter</em>, o renomado criador contou que apresentou uma ideia para um programa de reality show a Kim Kardashian e sua mãe, Kris Jenner. Murphy dirigiu-se à casa de Jenner com grande otimismo, mas a dupla não demonstrou o mesmo entusiasmo. Segundo o diretor, a falta de interesse de Kardashian foi evidente quando ela pegou o celular durante a apresentação.</p><p>“Qualquer um no futuro que apresentar algo para Kim, saiba que você a perdeu quando ela começa a mandar mensagens no celular”, comentou Murphy sobre a experiência.</p><blockquote><p>Eu fui à casa de Kris e fiz algo que nunca fiz na minha carreira, que foi apresentar um pitch de reality show, e não foi bom. Comecei meu pitch, e eu estava meio animado. Qualquer um no futuro que apresentar para Kim, você a perdeu quando ela começa a mandar mensagens no celular.</p></blockquote><h2>A Oportunidade em American Horror Story</h2><p>Kris Jenner, por outro lado, reagiu de forma mais diplomática à proposta rejeitada. Ela aproveitou a ocasião para sugerir que Murphy criasse um papel para sua filha em uma de suas produções. De acordo com Murphy, Jenner teria dito: “Isso foi muito bom, querida, mas você deveria escrever um papel para Kim.” A sugestão foi bem-sucedida, levando à escalação de Kardashian em <i>American Horror Story</i>.</p><p>Embora a personagem Siobhan Corbyn em <i>American Horror Story</i> não tenha sido inicialmente escrita para ela, Murphy desempenhou um papel fundamental em sua escalação.</p><h2>Reconhecimento e Colaboração Futura</h2><p>Apesar da rejeição inicial do reality show, Murphy não levou a recusa para o lado pessoal. Um de seus representantes afirmou que Murphy sempre admirou a família Kardashian, tanto pessoal quanto profissionalmente, elogiando sua ética de trabalho e generosidade.</p><blockquote><p>Ryan é fã de Kim há muito tempo. Ele ama o programa dela no Hulu, <i>The Kardashians</i>, como todos nós amamos, e o fato de Kim ser esperta. Ela tem uma ética de trabalho incrível. E assim como sua notável mãe, Kris Jenner, ela é notavelmente gentil e generosa.</p></blockquote><p>Após o primeiro trabalho juntos, Murphy ficou tão satisfeito com a colaboração que a convidou para participar de <b>All's Fair</b>. Ele expressou surpresa com a aceitação de Kardashian, dada a diferença de seus backgrounds na indústria do entretenimento. Murphy ficou positivamente surpreso quando ela concordou.</p><p>“Eu estava tão curiosa sobre ela porque ela tem uma vida enorme. Ela tem uma família enorme e maravilhosa. Fiquei tão chocada que ela concordaria em fazer isso. Quando perguntada o porquê, ela disse: ‘porque é icônico, e eu gosto de coisas icônicas’, o que é muito a cara dela”, explicou Murphy.</p><h2>Detalhes de All's Fair</h2><p><b>All's Fair</b> é o próximo drama legal do Hulu, criado por Murphy, Jon Robin Baitz e Joe Baken. A série contará com um elenco de peso, incluindo Glenn Close (Dina Standish), Naomi Watts (Liberty Ronson), Sarah Paulson (Carrington Lane), Niecy Nash-Betts (Emerald Greene) e Teyana Taylor (Milan), que atuarão ao lado de Kardashian.</p><p>A série <b>All's Fair</b> tem estreia prevista para 4 de novembro de 2025 no Hulu.</p><figure class="video-container"><iframe src="https://www.youtube.com/embed/VIDEO_ID" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>Trailer oficial de All's Fair</figcaption></figure>",
+      "meta_description": "Ryan Murphy revela que apresentou um pitch de reality show para Kim Kardashian e Kris Jenner, mas a ideia foi recusada. Saiba mais sobre a colaboração em 'All's Fair'.",
+      "focus_keyphrase": "Ryan Murphy Kim Kardashian reality show",
+      "related_keyphrases": [
+        "Ryan Murphy All's Fair",
+        "Kim Kardashian série Hulu",
+        "reality show pitch recusado"
+      ],
+      "slug": "ryan-murphy-kim-kardashian-reality-show",
+      "categorias": [
+        {
+          "nome": "All's Fair",
+          "grupo": "obras",
+          "evidence": "<em>All's Fair</em> é o próximo drama legal do Hulu"
+        },
+        {
+          "nome": "American Horror Story",
+          "grupo": "obras",
+          "evidence": "sua primeira colaboração com Kim Kardashian, que interpretará Allura Grant na série, cujo primeiro papel roteirizado foi em <em>American Horror Story</em> temporada 12"
+        },
+        {
+          "nome": "The Kardashians",
+          "grupo": "obras",
+          "evidence": "Ele ama o programa dela no Hulu, <i>The Kardashians</i>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Ryan Murphy",
+        "Kim Kardashian",
+        "Kris Jenner",
+        "All's Fair",
+        "American Horror Story",
+        "Hulu",
+        "reality show"
+      ],
+      "image_alt_texts": {
+        "unnamed.png": "Pôster oficial da série 'All's Fair', com Kim Kardashian em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ryan Murphy revela proposta recusada de reality show com Kim Kardashian | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Ryan Murphy revela que apresentou um pitch de reality show para Kim Kardashian e Kris Jenner, mas a ideia foi recusada. Saiba mais sobre a colaboração em 'All's Fair'.",
+        "_yoast_wpseo_focuskw": "Ryan Murphy Kim Kardashian reality show",
+        "_yoast_news_keywords": "Ryan Murphy, Kim Kardashian, Kris Jenner, All's Fair, American Horror Story, Hulu, reality show",
+        "_yoast_wpseo_opengraph-title": "Ryan Murphy revela proposta recusada de reality show com Kim Kardashian",
+        "_yoast_wpseo_opengraph-description": "Ryan Murphy participou da estreia de sua nova série, All's Fair, e revelou detalhes sobre um projeto que não avançou com Kim Kardashian.",
+        "_yoast_wpseo_twitter-title": "Ryan Murphy revela proposta recusada de reality show com Kim Kardashian",
+        "_yoast_wpseo_twitter-description": "Ryan Murphy participou da estreia de sua nova série, All's Fair, e revelou detalhes sobre um projeto que não avançou com Kim Kardashian."
+      }
+    }
+  ]
+}

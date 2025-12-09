@@ -1,0 +1,54 @@
+{
+  "titulo_final": "The Greatest American Hero: Série cult dos anos 80 e seu icônico tema musical",
+  "conteudo_final": "<p>A era moderna dos super-heróis no cinema e na TV, impulsionada pelo sucesso do <a href=\"https://www.maquinanerd.com.br/tag/marvel-cinematic-universe\">Marvel Cinematic Universe</a> e do Arrowverse da DC, pode fazer parecer que as histórias de heróis são uma novidade. No entanto, produções como <b>The Boys</b> e <b>Invincible</b> no Prime Video provam que o fascínio por super-heróis é antigo e que esta não é a primeira vez que eles dominam as telas. Uma série cult dos anos 70, que apenas as crianças da época se lembram, destaca-se por sua inesquecível canção tema.</p>\n<h2>O Legado de 'The Greatest American Hero'</h2>\n<p>Estreando em 1981 com um filme piloto de duas horas e com duração de três temporadas na ABC, <b>The Greatest American Hero</b> conquistou o status de clássico cult na televisão de super-heróis. A série acompanhava Ralph Hinkley (interpretado por William Katt), um professor que adquire habilidades sobre-humanas após receber um traje de alienígenas. O dilema de Ralph surge quando ele perde o manual de instruções do traje, forçando-o a aprender a usar seus poderes por tentativa e erro, resultando em situações hilárias.</p>\n<p>A série é um exemplo divertido do arquétipo do herói relutante, com Ralph nunca planejando se tornar um salvador, mas acabando por sê-lo. Ele aceita missões diversas, mesmo lutando para dominar os poderes do traje e sem nunca adquirir um nome de super-herói oficial. A obra mesclava com maestria elementos de histórias em quadrinhos com ficção científica, oferecendo uma experiência única e divertida. Contudo, embora a série tivesse seu público fiel, foi a sua canção tema que realmente marcou época e se tornou muito mais popular que a própria série.</p>\n<h2>“Believe It or Not”: O Sucesso Inesperado da Canção Tema</h2>\n<p>A icônica canção tema, oficialmente intitulada “Theme from The Greatest American Hero (Believe It or Not)”, mas conhecida popularmente como “Believe it or Not”, foi escrita por Mike Post com letras de Stephen Geyer e interpretada por Joe Scarbury. A música alcançou rapidamente as paradas, estreando no Top 40 da Billboard Hot 100 e chegando à segunda posição. Seu sucesso transcendeu a série, tornando-se um fenômeno cultural duradouro, superando em relevância a obra que representava.</p>\n<p>Ao longo dos anos, “Believe it or Not” foi referenciada e parodiada em diversas produções televisivas. A série <b>Seinfeld</b>, em um episódio de sua oitava temporada, apresentou uma mensagem em um atendedor de chamadas que parodiava a canção, referência que por sua vez foi utilizada em um comercial do Super Bowl para a marca Tide em 2021. Em <b>Supernatural</b>, Castiel canta a música para um bebê sob seus cuidados, e em <b>Gilmore Girls</b>, a banda fictícia Hep Alien executa uma versão grunge da canção.</p>\n<p>A referência mais notável à música, e à série, pertence a <b>Family Guy</b>. No episódio “The Man with Two Brians”, Peter Griffin veste o traje de <b>The Greatest American Hero</b> para realizar uma acrobacia enquanto canta o tema. Além disso, letras da música foram parodiadas em títulos de episódios, como a frase “believe it or not, I’m walking on air” que se tornou “Believe It Or Not, Joe’s Walking on Air” no sexto episódio da sexta temporada.</p>\n<h2>O Retorno de 'The Greatest American Hero'</h2>\n<p>Embora “Believe it or Not” seja, para muitos, a lembrança mais forte de <b>The Greatest American Hero</b> – o que é uma pena, dado o mérito da série –, isso pode mudar em breve. Recentemente, a AMP Comics adquiriu os direitos de publicação de quadrinhos de <b>The Greatest American Hero</b>, e uma nova série de HQs está em desenvolvimento. Prevista para 2026, a série contará com Katt como produtor executivo, e Tawnia McKiernan, filha do criador da série Stephen J. Cannell, também está envolvida no projeto. Espera-se que a nova HQ inclua referências à icônica canção tema.</p>\n<p>Todas as três temporadas de <b>The Greatest American Hero</b> estão disponíveis para streaming no Peacock.</p>",
+  "meta_description": "Descubra The Greatest American Hero, a cultuada série de super-heróis dos anos 70/80, e seu tema musical inesquecível que marcou a cultura pop.",
+  "focus_keyphrase": "The Greatest American Hero",
+  "related_keyphrases": [
+    "The Greatest American Hero tema",
+    "série cult anos 70",
+    "Believe It or Not Joe Scarbury"
+  ],
+  "slug": "the-greatest-american-hero-serie-cult-tema",
+  "categorias": [
+    {
+      "nome": "The Greatest American Hero",
+      "grupo": "obras",
+      "evidence": "The Greatest American Hero has become a cult classic of superhero television."
+    },
+    {
+      "nome": "ABC",
+      "grupo": "editorias",
+      "evidence": "running for three seasons on ABC"
+    }
+  ],
+  "tags_sugeridas": [
+    "the greatest american hero",
+    "william katt",
+    "stephen j. cannell",
+    "mike post",
+    "séries cult",
+    "anos 70",
+    "anos 80"
+  ],
+  "image_alt_texts": {
+    "jim-carrey-dr-robotnik-sonic.jpg": "Jim Carrey como Dr. Robotnik, personagem de Sonic.",
+    "companion-movie-3.jpg": "Capa do filme Companion Movie 3.",
+    "pax-dei.png": "Logo do jogo Pax Dei.",
+    "Battlestar-Galactica-33.jpg": "Imagem promocional da série Battlestar Galactica 33.",
+    "MixCollage-15-Oct-2025-01-29-PM-1471.jpg": "Montagem de imagens de entretenimento.",
+    "greatest-american-hero-2.jpg": "William Katt como Ralph Hinkley em The Greatest American Hero.",
+    "greatest-american-hero.jpg": "William Katt usando o traje de The Greatest American Hero.",
+    "p-s-2.png": "Arte conceitual de jogo.",
+    "p-s-5_aed69f.png": "Arte conceitual de jogo."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "The Greatest American Hero: Série cult dos anos 80 e seu icônico tema musical",
+    "_yoast_wpseo_metadesc": "Descubra The Greatest American Hero, a cultuada série de super-heróis dos anos 70/80, e seu tema musical inesquecível que marcou a cultura pop.",
+    "_yoast_wpseo_focuskw": "The Greatest American Hero",
+    "_yoast_news_keywords": "The Greatest American Hero, William Katt, ABC, anos 70, anos 80, super-heróis, Believe It or Not",
+    "_yoast_wpseo_opengraph-title": "The Greatest American Hero: Série cult dos anos 80 e seu icônico tema musical",
+    "_yoast_wpseo_opengraph-description": "Descubra The Greatest American Hero, a cultuada série de super-heróis dos anos 70/80, e seu tema musical inesquecível que marcou a cultura pop.",
+    "_yoast_wpseo_twitter-title": "The Greatest American Hero: Série cult dos anos 80 e seu icônico tema musical",
+    "_yoast_wpseo_twitter-description": "Descubra The Greatest American Hero, a cultuada série de super-heróis dos anos 70/80, e seu tema musical inesquecível que marcou a cultura pop."
+  }
+}

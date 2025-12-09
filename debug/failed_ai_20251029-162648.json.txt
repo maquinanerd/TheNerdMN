@@ -1,0 +1,62 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Nobody Wants This: Nova série da Netflix supera 'How I Met Your Mother' em popularidade",
+      "conteudo_final": "<p>A segunda temporada de <b>Nobody Wants This</b> já está disponível na Netflix e rapidamente alcançou o topo das paradas de streaming globais. Lançada no final do ano passado, a primeira temporada foi um sucesso imediato, garantindo a renovação para uma nova leva de episódios que estreou recentemente. Atualmente, a série figura como o conteúdo mais popular da Netflix, presente no Top 10 em mais de 50 países.</p><p>Desde sua estreia, <b>Nobody Wants This</b> tem sido comparada a <b>How I Met Your Mother</b>, com paralelos notáveis. A série original da Netflix foi criada por Erin Foster, que antes atuou como roteirista em poucos episódios de 'The New Normal'. Apesar de sua experiência anterior limitada, Foster entregou um grande sucesso para o gigante do streaming. Ela também é conhecida por seu trabalho como atriz em séries como <b>NCIS: Los Angeles</b> e 'Law &amp; Order: LA'.</p><figure><img src=\"https:
+      "meta_description": "A série Nobody Wants This, comparada a How I Met Your Mother, é um sucesso global na Netflix, com Kristen Bell e Adam Brody no elenco. Veja mais detalhes.",
+      "focus_keyphrase": "Nobody Wants This",
+      "related_keyphrases": [
+        "série da Netflix",
+        "Kristen Bell",
+        "Adam Brody",
+        "How I Met Your Mother"
+      ],
+      "slug": "nobody-wants-this-sucesso-netflix",
+      "categorias": [
+        {
+          "nome": "Nobody Wants This",
+          "grupo": "obras",
+          "evidence": "The second season of Nobody Wants This is now streaming on Netflix"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix dropped the first season of Nobody Wants This"
+        },
+        {
+          "nome": "How I Met Your Mother",
+          "grupo": "obras",
+          "evidence": "Nobody Wants This has drawn comparisons to How I Met Your Mother"
+        }
+      ],
+      "tags_sugeridas": [
+        "nobody wants this",
+        "netflix",
+        "kristen bell",
+        "adam brody",
+        "how i met your mother",
+        "erin foster",
+        "streaming"
+      ],
+      "image_alt_texts": {
+        "20250903222889_poster_w780.jpg": "Cartaz oficial da série Nobody Wants This.",
+        "adam-brody-and-kristen-bell-as-noah-and-joanne-in-nobody-wants-this-season-2.jpg": "Adam Brody e Kristen Bell como Noah e Joanne em Nobody Wants This, 2ª temporada.",
+        "adam-brody-as-noah-in-nobody-wants-this-season-2.jpg": "Adam Brody como Noah na 2ª temporada de Nobody Wants This.",
+        "kristen-bell-s-joanne-smiling-while-playing-a-card-game-in-nobody-wants-this-season-2.jpg": "Kristen Bell como Joanne jogando cartas na 2ª temporada de Nobody Wants This.",
+        "nobody-wants-this-adam-brody-as-noah.jpg": "Adam Brody como Noah em Nobody Wants This.",
+        "nobody-wants-this.jpg": "Imagem promocional da série Nobody Wants This.",
+        "nobody-wants-this_mr8g56.jpg": "Cena da série Nobody Wants This com seus protagonistas."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Nobody Wants This: Nova série da Netflix supera 'How I Met Your Mother' em popularidade",
+        "_yoast_wpseo_metadesc": "A série Nobody Wants This, comparada a How I Met Your Mother, é um sucesso global na Netflix, com Kristen Bell e Adam Brody no elenco. Veja mais detalhes.",
+        "_yoast_wpseo_focuskw": "Nobody Wants This",
+        "_yoast_news_keywords": "Nobody Wants This, Netflix, Kristen Bell, Adam Brody, How I Met Your Mother, Erin Foster, streaming",
+        "_yoast_wpseo_opengraph-title": "Nobody Wants This: Nova série da Netflix supera 'How I Met Your Mother' em popularidade",
+        "_yoast_wpseo_opengraph-description": "A série Nobody Wants This, comparada a How I Met Your Mother, é um sucesso global na Netflix, com Kristen Bell e Adam Brody no elenco. Veja mais detalhes.",
+        "_yoast_wpseo_twitter-title": "Nobody Wants This: Nova série da Netflix supera 'How I Met Your Mother' em popularidade",
+        "_yoast_wpseo_twitter-description": "A série Nobody Wants This, comparada a How I Met Your Mother, é um sucesso global na Netflix, com Kristen Bell e Adam Brody no elenco. Veja mais detalhes."
+      }
+    }
+  ]
+}

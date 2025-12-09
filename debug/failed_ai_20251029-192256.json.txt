@@ -1,0 +1,65 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Guerras de Bilheteria em 2026: Avengers 5 vs. Duna 3 no Natal",
+      "conteudo_final": "<p>A disputa pela bilheteria em 2026 promete ser acirrada, especialmente durante o verão norte-americano. No entanto, um confronto que se destaca é o embate entre <strong><em>Avengers: Doomsday</em></strong> e <strong><em>Dune: Part 3</em></strong>, ambos com estreia marcada para 18 de dezembro de 2026.</p><h2>A Possível Mudança na Data de Lançamento</h2><p>Inicialmente, a expectativa era que um dos filmes mudasse sua data de lançamento. Quando <em>Avengers: Doomsday</em> foi remarcado para o dia já ocupado por <em>Dune</em>, a avaliação geral foi que essa data não se sustentaria. Embora a concorrência entre dois grandes blockbusters possa ser benéfica quando os filmes se complementam, os estúdios raramente optam por colocar seus maiores lançamentos para competir diretamente, especialmente quando há uma sobreposição significativa de público. O risco de canibalização mútua pode prejudicar ambos, e o investimento em cada projeto é alto demais para permitir tal cenário.</p><p>O período antes do Natal é uma janela de lançamento extremamente cobiçada, como demonstrou a estreia de <em>Avatar: Fire & Ash</em> neste ano. A questão principal é: qual dos filmes cederá o lugar?</p><h2>O Fator IMAX em Favor de Duna 3</h2><p>A série de ficção científica de Denis Villeneuve, <em>Duna</em>, é um sucesso notável. <em>Dune: Part 2</em> foi um dos filmes definidores de seu ano, arrecadando US$ 715 milhões globalmente. Em contrapartida, a Marvel, apesar de enfrentar desafios recentes, conta com o primeiro filme dos Vingadores desde <em>Endgame</em>. A aposta contra o sucesso de <em>Avengers: Doomsday</em>, especialmente com o possível retorno de Robert Downey Jr., seria ousada.</p><div class=\"body-img landscape mobile-optimized\"><div class=\"responsive-img image-expandable img-article-item\" data-img-caption='Timothée Chalamet em Duna: Parte 2' data-img-url=\"https:
+      "meta_description": "Avengers: Doomsday e Dune: Part 3 têm lançamento marcado para dezembro de 2026, gerando uma intensa disputa na bilheteria. Entenda a dinâmica.",
+      "focus_keyphrase": "Avengers Doomsday Dune 3 bilheteria",
+      "related_keyphrases": [
+        "Avengers 5 data de lançamento",
+        "Duna 3 IMAX",
+        "Disputa de bilheteria 2026"
+      ],
+      "slug": "avengers-doomsday-vs-duna-3-bilheteria-2026",
+      "categorias": [
+        {
+          "nome": "Avengers: Doomsday",
+          "grupo": "obras",
+          "evidence": "<em>Avengers: Doomsday</em>"
+        },
+        {
+          "nome": "Dune: Part 3",
+          "grupo": "obras",
+          "evidence": "<em>Dune: Part 3</em>"
+        },
+        {
+          "nome": "Marvel",
+          "grupo": "franquias",
+          "evidence": "Marvel"
+        }
+      ],
+      "tags_sugeridas": [
+        "Avengers Doomsday",
+        "Duna 3",
+        "Marvel",
+        "Denis Villeneuve",
+        "Bilheteria",
+        "IMAX",
+        "Data de Lançamento"
+      ],
+      "image_alt_texts": {
+        "timothee-chalamet-in-dune-part-2.jpg": "Timothée Chalamet com o braço erguido em uma cena de Duna: Parte 2.",
+        "avengeres-doomsday-logo-placeholder-poster.jpg": "Logo placeholder de Avengers: Doomsday, indicando o possível futuro filme do MCU.",
+        "instar53754444.jpg?q=49&fit=crop&w=50&h=65&dpr=2": "Chris Hemsworth como Thor.",
+        "instar53209605.jpg?q=49&fit=crop&w=50&h=65&dpr=2": "Vanessa Kirby como Sue Storm.",
+        "instar53694481.jpg?q=49&fit=crop&w=50&h=65&dpr=2": "Joseph Quinn como Tocha Humana.",
+        "instar51706718.jpg?q=49&fit=crop&w=50&h=65&dpr=2": "Ebon Moss-Bachrach como Ben Grimm.",
+        "01740590_poster_w780.jpg": "Poster de Duna: Parte 3.",
+        "instar53465655.jpg?q=49&fit=crop&w=50&h=65&dpr=2": "Timothée Chalamet como Paul Atreides.",
+        "instar53506765.jpg?q=49&fit=crop&w=50&h=65&dpr=2": "Florence Pugh como Princesa Irulan.",
+        "instar51396423.jpg?q=49&fit=crop&w=50&h=65&dpr=2": "Anya Taylor-Joy como Alia Atreides.",
+        "instar53652738.jpg?q=49&fit=crop&w=50&h=65&dpr=2": "Zendaya como Chani."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Avengers 5 vs. Duna 3: Guerra de Bilheteria em 2026 | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Avengers: Doomsday e Dune: Part 3 com lançamento marcado para dezembro de 2026. Entenda a possível disputa de bilheteria e o fator IMAX.",
+        "_yoast_wpseo_focuskw": "Avengers Doomsday Dune 3 bilheteria",
+        "_yoast_news_keywords": "Avengers: Doomsday, Dune: Part 3, Marvel, Denis Villeneuve, Bilheteria, IMAX, Data de Lançamento",
+        "_yoast_wpseo_opengraph-title": "Avengers 5 vs. Duna 3: Guerra de Bilheteria em 2026",
+        "_yoast_wpseo_opengraph-description": "A disputa pela bilheteria em 2026 promete ser acirrada, especialmente durante o verão norte-americano. No entanto, um confronto que se destaca é o embate entre Avengers: Doomsday e Dune: Part 3, ambos com estreia marcada para 18 de dezembro de 2026.",
+        "_yoast_wpseo_twitter-title": "Avengers 5 vs. Duna 3: Guerra de Bilheteria em 2026",
+        "_yoast_wpseo_twitter-description": "A disputa pela bilheteria em 2026 promete ser acirrada, especialmente durante o verão norte-americano. No entanto, um confronto que se destaca é o embate entre Avengers: Doomsday e Dune: Part 3, ambos com estreia marcada para 18 de dezembro de 2026."
+      }
+    }
+  ]
+}

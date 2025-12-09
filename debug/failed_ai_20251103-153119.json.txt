@@ -1,0 +1,91 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ryan Reynolds estrela nova adaptação de 'Eloise' para a Netflix",
+      "conteudo_final": "<p>Ryan Reynolds, conhecido por seu papel como Deadpool, e Amy Sherman-Palladino, criadora de <b>Gilmore Girls</b>, unirão forças em uma nova adaptação live-action do livro infantil <b>Eloise</b> para a Netflix. Reynolds não só atuará no filme, mas também será um dos produtores.</p><p>A novidade promete uma aventura completamente original, inspirada nos personagens criados por Kay Thompson e ilustrados por Hilary Knight. Reynolds interpretará um "personagem vilanesco original", de acordo com informações do The Hollywood Reporter. A produção já está em andamento, com as filmagens principais previstas para começar ainda este mês.</p><h2>Nova Versão de 'Eloise' Promete Ser \"Ousada\" e \"Emocionante\"</h2><p>Amy Sherman-Palladino assinará o roteiro ao lado de Hannah Marks e Linda Woolverton. George Dewey, Ashley Fox e Johnny Pariseau também produzirão o projeto pela Maximum Effort, com Molly Milstein como produtora executiva.</p><figure class=\"video-container\"><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/11/eloise-at-the-plaza.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Eloise em uma cena do filme Eloise at the Plaza\"><figcaption>Imagem: HandMade Films</figcaption></figure><p>A última adaptação de <b>Eloise</b> foi lançada em 2003, com Sofia Vassilieva no papel principal e Julie Andrews como a Babá. O filme acompanhava as travessuras da jovem Eloise no Plaza Hotel. A produção de 2003 contou ainda com Jeffrey Tambor, Christine Baranski e Kenneth Welsh no elenco.</p><p>Hannah Minghella, executiva da Netflix, expressou entusiasmo com o projeto: \"<b>Eloise</b> tem sido amada por gerações. É uma honra apresentar novamente essa personagem querida ao mundo com duas pessoas que compartilham sua marca registrada de travessura e charme — Amy Sherman-Palladino e Ryan Reynolds — neste novo filme familiar ousado, hilário e emocionante.\"</p><p>Reynolds e a novata Mae Schenk, que dará vida à protagonista, são os únicos nomes confirmados no elenco até o momento. As filmagens iniciarão em breve.</p>",
+      "meta_description": "Ryan Reynolds e Amy Sherman-Palladino se unem na Netflix para nova adaptação live-action de Eloise. Saiba mais sobre o projeto.",
+      "focus_keyphrase": "Ryan Reynolds adapta Eloise para Netflix",
+      "related_keyphrases": [
+        "Amy Sherman-Palladino",
+        "Netflix filmes",
+        "Adaptação Eloise"
+      ],
+      "slug": "ryan-reynolds-adapta-eloise-netflix",
+      "categorias": [
+        {
+          "nome": "Eloise",
+          "grupo": "obras",
+          "evidence": "a brand-new Eloise live-action adaptation for Netflix"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "for Netflix"
+        },
+        {
+          "nome": "Ryan Reynolds",
+          "grupo": "atores",
+          "evidence": "Ryan Reynolds, Deadpool himself"
+        }
+      ],
+      "tags_sugeridas": [
+        "Ryan Reynolds",
+        "Amy Sherman-Palladino",
+        "Netflix",
+        "Eloise",
+        "Adaptação de livro",
+        "Filmes 2025"
+      ],
+      "image_alt_texts": {
+        "eloise-at-the-plaza.jpg": "Ryan Reynolds e Amy Sherman-Palladino se unem para nova adaptação de Eloise na Netflix."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ryan Reynolds estrela nova adaptação de 'Eloise' para a Netflix",
+        "_yoast_wpseo_metadesc": "Ryan Reynolds e Amy Sherman-Palladino se unem na Netflix para nova adaptação live-action de Eloise. Saiba mais sobre o projeto.",
+        "_yoast_wpseo_focuskw": "Ryan Reynolds adapta Eloise para Netflix",
+        "_yoast_news_keywords": "Ryan Reynolds, Amy Sherman-Palladino, Netflix, Eloise, Adaptação de livro, Filmes 2025",
+        "_yoast_wpseo_opengraph-title": "Ryan Reynolds estrela nova adaptação de 'Eloise' para a Netflix",
+        "_yoast_wpseo_opengraph-description": "Ryan Reynolds e Amy Sherman-Palladino se unem na Netflix para nova adaptação live-action de Eloise. Saiba mais sobre o projeto.",
+        "_yoast_wpseo_twitter-title": "Ryan Reynolds estrela nova adaptação de 'Eloise' para a Netflix",
+        "_yoast_wpseo_twitter-description": "Ryan Reynolds e Amy Sherman-Palladino se unem na Netflix para nova adaptação live-action de Eloise. Saiba mais sobre o projeto."
+      }
+    },
+    {
+      "titulo_final": "Nova série de ficção científica do criador de 10/10 é a mais aguardada de 2025",
+      "conteudo_final": "<p>Uma nova série de ficção científica, criada pelo mesmo showrunner responsável por duas aclamadas produções com nota 10/10, promete ser uma das mais excitantes estreias de 2025. A produção, ainda sem título oficial divulgado, já desperta grande expectativa entre os fãs do gênero.</p><h2>O Criador por Trás de Sucessos Inesquecíveis</h2><p>O nome do criador, que já entregou obras-primas com avaliações perfeitas, é um dos principais motivos para o otimismo. Embora os detalhes sobre a nova série sejam escassos, a reputação do showrunner sugere uma narrativa envolvente e de alta qualidade, característica de seus trabalhos anteriores.</p><p>As produções anteriores do criador, que alcançaram a nota máxima, estabeleceram um alto padrão para seus futuros projetos. A expectativa é que a nova série de ficção científica mantenha esse legado, explorando temas complexos e apresentando um universo cativante.</p><h2>Expectativa para 2025</h2><p>A série está programada para estrear em 2025 e já é considerada uma das mais promissoras do ano. A combinação de um criador renomado e o gênero de ficção científica cria um cenário ideal para um sucesso estrondoso.</p><p>Mais informações sobre o elenco, enredo e data exata de lançamento devem ser divulgadas em breve. Os fãs aguardam ansiosamente por novidades que confirmem o potencial desta que pode ser a próxima grande sensação da TV.</p>",
+      "meta_description": "Nova série de ficção científica do criador de duas obras 10/10 é a mais aguardada para 2025. Saiba mais sobre a expectativa.",
+      "focus_keyphrase": "Série de ficção científica aguardada para 2025",
+      "related_keyphrases": [
+        "Novas séries 2025",
+        "Ficção científica",
+        "Criador de obras 10/10"
+      ],
+      "slug": "serie-sci-fi-aguardada-2025",
+      "categorias": [
+        {
+          "nome": "TV Shows",
+          "grupo": "editorias",
+          "evidence": "TV Shows"
+        }
+      ],
+      "tags_sugeridas": [
+        "Ficção Científica",
+        "Séries 2025",
+        "Novidades TV",
+        "Produção aguardada",
+        "Showrunner renomado"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Nova série de ficção científica do criador de 10/10 é a mais aguardada de 2025",
+        "_yoast_wpseo_metadesc": "Nova série de ficção científica do criador de duas obras 10/10 é a mais aguardada para 2025. Saiba mais sobre a expectativa.",
+        "_yoast_wpseo_focuskw": "Série de ficção científica aguardada para 2025",
+        "_yoast_news_keywords": "Ficção Científica, Séries 2025, Novidades TV, Produção aguardada, Showrunner renomado",
+        "_yoast_wpseo_opengraph-title": "Nova série de ficção científica do criador de 10/10 é a mais aguardada de 2025",
+        "_yoast_wpseo_opengraph-description": "Nova série de ficção científica do criador de duas obras 10/10 é a mais aguardada para 2025. Saiba mais sobre a expectativa.",
+        "_yoast_wpseo_twitter-title": "Nova série de ficção científica do criador de 10/10 é a mais aguardada de 2025",
+        "_yoast_wpseo_twitter-description": "Nova série de ficção científica do criador de duas obras 10/10 é a mais aguardada para 2025. Saiba mais sobre a expectativa."
+      }
+    }
+  ]
+}

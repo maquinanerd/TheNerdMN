@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Landman: Billy Bob Thornton elogia participação de bilionário na série",
+  "conteudo_final": "<p>O dono do Dallas Cowboys, Jerry Jones, causou burburinho este ano por um motivo além do futebol: sua atuação. O magnata do esporte surpreendeu os telespectadores com uma participação emocionante na aclamada série da Paramount, <b>Landman</b>, e agora a estrela <b>Billy Bob Thornton</b> elogia a performance do bilionário. Em uma aparição recente no programa Manningcast, da ESPN, Thornton comentou sobre o papel breve, porém memorável, de Jones, que interpretou a si mesmo no nono episódio da primeira temporada.</p><figure><img src=\"https:
+  "meta_description": "Billy Bob Thornton elogia Jerry Jones por atuação emocionante como ele mesmo em Landman. Série de Taylor Sheridan terá 2ª temporada.",
+  "focus_keyphrase": "Jerry Jones Landman",
+  "related_keyphrases": [
+    "Billy Bob Thornton Landman",
+    "Taylor Sheridan Landman",
+    "Série Landman"
+  ],
+  "slug": "jerry-jones-landman-ator",
+  "categorias": [
+    {
+      "nome": "Landman",
+      "grupo": "obras",
+      "evidence": "Paramount series Landman"
+    },
+    {
+      "nome": "Dallas Cowboys",
+      "grupo": "obras",
+      "evidence": "Dallas Cowboys owner Jerry Jones"
+    },
+    {
+      "nome": "Taylor Sheridan",
+      "grupo": "obras",
+      "evidence": "Landman, created by Taylor Sheridan"
+    }
+  ],
+  "tags_sugeridas": [
+    "Landman",
+    "Jerry Jones",
+    "Billy Bob Thornton",
+    "Taylor Sheridan",
+    "Paramount+",
+    "Séries de TV",
+    "NFL"
+  ],
+  "image_alt_texts": {
+    "landman-paramount-tv-show-updated-poster.jpg": "Poster da série Landman com Billy Bob Thornton e Jerry Jones, destacando a participação especial do bilionário."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Landman: Billy Bob Thornton elogia participação de bilionário na série",
+    "_yoast_wpseo_metadesc": "Billy Bob Thornton elogia Jerry Jones por atuação emocionante como ele mesmo em Landman. Série de Taylor Sheridan terá 2ª temporada.",
+    "_yoast_wpseo_focuskw": "Jerry Jones Landman",
+    "_yoast_news_keywords": "Jerry Jones, Billy Bob Thornton, Landman, Taylor Sheridan, Paramount+, NFL, Dallas Cowboys",
+    "_yoast_wpseo_opengraph-title": "Landman: Billy Bob Thornton elogia participação de bilionário na série",
+    "_yoast_wpseo_opengraph-description": "Billy Bob Thornton elogia Jerry Jones por atuação emocionante como ele mesmo em Landman. Série de Taylor Sheridan terá 2ª temporada.",
+    "_yoast_wpseo_twitter-title": "Landman: Billy Bob Thornton elogia participação de bilionário na série",
+    "_yoast_wpseo_twitter-description": "Billy Bob Thornton elogia Jerry Jones por atuação emocionante como ele mesmo em Landman. Série de Taylor Sheridan terá 2ª temporada."
+  }
+}

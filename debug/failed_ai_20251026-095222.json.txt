@@ -1,0 +1,58 @@
+{
+  "titulo_final": "Jeremy Renner: 'Mayor of Kingstown' Ganha Nova Temporada na Paramount+",
+  "conteudo_final": "<p>O mês de novembro se aproxima com novidades para os fãs do Universo Cinematográfico Marvel (MCU), mas antes de vários lançamentos chegarem ao Disney+ no próximo mês, um serviço de streaming concorrente encerra outubro com o retorno de um grande sucesso estrelado por um nome do MCU. A Paramount+ tem adicionado novos títulos ao longo do mês, oferecendo muitas opções de streaming para seus assinantes. Pouco mais de um ano após o fim de uma temporada de uma das melhores séries da Paramount+, ela acaba de retornar à plataforma com novos episódios.</p><h2>Jeremy Renner Retorna em 'Mayor of Kingstown'</h2><p>Clint Barton/Gavião Arqueiro, interpretado por <b>Jeremy Renner</b>, estrela o thriller de crime <b>Mayor of Kingstown</b>, que retornou com um especial de dois episódios para sua quarta temporada em 26 de outubro na Paramount+. Criada por Taylor Sheridan, de 'Yellowstone', a série se passa na cidade fictícia de Kingstown, Michigan, e foca na família McLusky, que atua como intermediária entre os presos e a comunidade em uma cidade onde o negócio do encarceramento é a única indústria próspera. Renner estrela a série como Michael “Mike” McLusky, ao lado de um elenco que inclui Hugh Dillon, Taylor Handley, Tobi Bamtefa, Hamish Allan-Headley e Necar Zadegan. Edie Falco se junta ao elenco na quarta temporada.</p><p>Assim como as três temporadas anteriores, a quarta temporada de Mayor of Kingstown terá 10 episódios. Novos episódios são lançados semanalmente aos domingos na Paramount+ até a estreia do episódio final em 21 de dezembro.</p><h2>'Mayor of Kingstown' Temporada 4: Um Retorno Forte para a Série com Jeremy Renner</h2><p>Desde sua estreia na Paramount+ em 2021, <b>Mayor of Kingstown</b> tem melhorado constantemente, subindo de uma classificação de 33% pela crítica no Rotten Tomatoes na 1ª temporada para 78% na 3ª temporada, com avaliações consistentes do público que giram em torno de 80%. Ainda é muito cedo para a quarta temporada de Mayor of Kingstown obter uma classificação crítica ou do público no Rotten Tomatoes, mas as primeiras críticas sugerem que a série retorna com força total em seus novos episódios.</p><p>Em uma crítica para a Collider, o crítico Jeff Ewing disse que a 4ª temporada “ainda consegue aumentar drasticamente as apostas” e “é o capítulo mais tenso e emocional até agora, construindo ameaças palpáveis para personagens queridos, e a série de Renner nunca esteve melhor”. Elogios semelhantes foram ecoados por Grant Hermanns, do Screen Rant, que disse que a 4ª temporada “está de volta com algumas das histórias mais sombrias e intensas até agora, colocando a série em seu ponto mais alto”. A crítica Brittany Frederick chegou a chamar a 4ª temporada de “a melhor temporada até agora”, explicando que os novos episódios servem como um “recomeço suave para o show da Paramount+”.</p><p>O alto reconhecimento vem após o sucesso repetido de Mayor of Kingstown, uma série conhecida por seu realismo intenso e cru, narrativa de alto risco e atuações fortes.</p><h2>Haverá uma 5ª Temporada de 'Mayor of Kingstown'?</h2><p>Mayor of Kingstown ainda não foi renovada para a 5ª temporada, mas uma renovação parece provável. Falando sobre o futuro da série em agosto, Renner provocou, segundo o Popverse: “Acho que estou assinando para terminar em mais duas [temporadas]. Encontramos um final legal, não vou te contar, mas encontramos um final realmente legal, acho, para a série.”</p><p>Os dois primeiros episódios da quarta temporada de Mayor of Kingstown já estão disponíveis para streaming na Paramount+. Novos episódios são lançados semanalmente aos domingos.</p>",
+  "meta_description": "Jeremy Renner retorna como Mike McLusky em 'Mayor of Kingstown' 4ª temporada na Paramount+. Confira novidades e o futuro da série.",
+  "focus_keyphrase": "Mayor of Kingstown",
+  "related_keyphrases": [
+    "Jeremy Renner série",
+    "Taylor Sheridan",
+    "Paramount+"
+  ],
+  "slug": "mayor-of-kingstown-nova-temporada-paramount",
+  "categorias": [
+    {
+      "nome": "Mayor of Kingstown",
+      "grupo": "obras",
+      "evidence": "Mayor of Kingstown voltou com uma estreia especial de dois episódios da Quarta Temporada na Paramount+"
+    },
+    {
+      "nome": "Paramount+",
+      "grupo": "plataformas de streaming",
+      "evidence": "Paramount+ tem adicionado novos títulos ao longo do mês"
+    },
+    {
+      "nome": "MCU",
+      "grupo": "franquias",
+      "evidence": "Clint Barton/Gavião Arqueiro, interpretado por Jeremy Renner"
+    }
+  ],
+  "tags_sugeridas": [
+    "Mayor of Kingstown",
+    "Jeremy Renner",
+    "Paramount+",
+    "Taylor Sheridan",
+    "Série de Crime",
+    "Gavião Arqueiro"
+  ],
+  "image_alt_texts": {
+    "netflix-scifi.jpg": "Jeremy Renner em cena de Mayor of Kingstown.",
+    "Firefly-Out-of-Gas-episode.jpg": "Cena de Jeremy Renner em Mayor of Kingstown.",
+    "Maggie-Cheung-in-martial-arts-movie-Hero.jpg": "Ator Jeremy Renner na série Mayor of Kingstown.",
+    "bone-tomahawk-skull.jpg": "Jeremy Renner como Mike McLusky em Mayor of Kingstown.",
+    "i-know-what-you-did-last-summer-2025_1ff292.jpg": "Jeremy Renner em Mayor of Kingstown.",
+    "killjoys-cast.jpg": "Jeremy Renner estrela thriller criminal Mayor of Kingstown.",
+    "weapons-2025.jpg": "Mayor of Kingstown com Jeremy Renner tem nova temporada.",
+    "hqdefault.jpg": "Jeremy Renner em Mayor of Kingstown.",
+    "maxresdefault.jpg": "Jeremy Renner como Gavião Arqueiro e em Mayor of Kingstown."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Jeremy Renner: 'Mayor of Kingstown' Ganha Nova Temporada na Paramount+",
+    "_yoast_wpseo_metadesc": "Jeremy Renner retorna como Mike McLusky em 'Mayor of Kingstown' 4ª temporada na Paramount+. Confira novidades e o futuro da série.",
+    "_yoast_wpseo_focuskw": "Mayor of Kingstown",
+    "_yoast_news_keywords": "Mayor of Kingstown, Jeremy Renner, Paramount+, MCU, Gavião Arqueiro, Taylor Sheridan",
+    "_yoast_wpseo_opengraph-title": "Jeremy Renner: 'Mayor of Kingstown' Ganha Nova Temporada na Paramount+",
+    "_yoast_wpseo_opengraph-description": "Jeremy Renner retorna como Mike McLusky em 'Mayor of Kingstown' 4ª temporada na Paramount+. Confira novidades e o futuro da série.",
+    "_yoast_wpseo_twitter-title": "Jeremy Renner: 'Mayor of Kingstown' Ganha Nova Temporada na Paramount+",
+    "_yoast_wpseo_twitter-description": "Jeremy Renner retorna como Mike McLusky em 'Mayor of Kingstown' 4ª temporada na Paramount+. Confira novidades e o futuro da série."
+  }
+}

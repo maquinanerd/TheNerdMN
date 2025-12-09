@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Mayor of Kingstown: Jeremy Renner revela inspiração para morte de personagem",
+      "conteudo_final": "<p>Jeremy Renner, estrela de <b><a href=\"https://www.maquinanerd.com.br/tag/mayor-of-kingstown\">Mayor of Kingstown</a></b>, explicou como a chocante cena de morte da quarta temporada foi inspirada em seu filme de guerra de 2008, <i>O Som do Trovão</i> (The Hurt Locker). A quarta temporada da série tem apresentado diversas reviravoltas inesperadas desde o seu início.</p><h2>A Morte de Carney e a Influência de Taylor Sheridan</h2><p>A maior delas foi a morte de Carney, assassinado por Cortez, um criminoso colombiano que Mike libertou da prisão. Em uma entrevista pré-lançamento, Renner e a atriz Edie Falco discutiram as reviravoltas da quarta temporada. Renner revelou que o criador da série, Taylor Sheridan, buscou inspiração em <i>O Som do Trovão</i>, especialmente na vulnerabilidade de todos os personagens à morte.</p><blockquote><p><b>ScreenRant:</b> No final do episódio 402, as reviravoltas acontecem rapidamente. Temos a morte de Carney, um personagem regular desde a segunda temporada. O que uma morte como essa significa para outras reviravoltas que podemos esperar mais adiante na temporada?</p><p><b>Edie Falco:</b> Acho que há um meio para um fim, e se algo precisa acontecer, acho que há muitos danos colaterais quando o único foco é conseguir o que você precisa. E então, acho que ela tem uma boa maneira de simplesmente colocar os "olhos vendados" e seguir em frente. É tudo o que posso dizer sobre isso.</p><p><b>Jeremy Renner:</b> Sim, veja bem, o show desde o episódio um, temporada um, qualquer um pode estar na mira a qualquer momento, e isso foi algo que estabelecemos. Taylor queria roubar algo de <i>O Som do Trovão</i>. Ele diz: \"Quero fazer algo assim, que seja um tipo de 'bait and switch'. Você pensa que porque meu irmão interpretou o prefeito e eu vim para assumir o seu lugar. E ao fazer isso, realmente coloca muita tensão no público porque qualquer um pode realmente ir a qualquer momento. E aqui está mais um que, suponho, foi colocado na mira, e acho que há bastante disso nesta temporada.</p></blockquote><h2>Implicações da Morte de Carney</h2><p>A morte de Carney já gerou grandes repercussões na série. Mike não sabe quem ordenou o assassinato, apesar de ter conseguido proteger policiais em serviço ao longo da série. Ele recruta Ian e Stevie para descobrir a verdade, embora até o momento o verdadeiro culpado não tenha sido revelado.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/06/mayor-of-kingstown-season-3-episode-4-12.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Jeremy Renner como Mike McLusky em uma cena tensa de Mayor of Kingstown.\"><figcaption>Jeremy Renner como Mike McLusky em uma cena tensa de Mayor of Kingstown.</figcaption></figure><p>Carney era um personagem regular no elenco de <b><a href=\"https://www.maquinanerd.com.br/tag/mayor-of-kingstown\">Mayor of Kingstown</a></b> desde a segunda temporada, introduzido como um guarda de prisão que assumiu o lugar de Ed Simmons após sua morte na primeira temporada. Desde então, ele tem sido um contato frequente para Mike, mas sempre demonstrou hostilidade e desprezo pela ideia de fazer qualquer tipo de paz com organizações criminosas.</p><p>A quarta temporada o mostra com um novo trabalho, treinando a nova personagem Cindy para ficar de olho no irmão de Mike, Kyle, enquanto ele está na prisão. Com sua morte, Kyle pode estar em mais perigo agora que alguém está disposto a matar fora da prisão para fazer uma declaração. A influência de <i>O Som do Trovão</i> vem da disposição da série em abordar mortes e temas mais sombrios.</p><h2>Novos Desafios para Mike McLusky</h2><p>Quanto à influência de longo prazo na história pela morte de Carney, está claro que Mike tem mais coisas para lidar do que imagina. Isso inclui Nina Hobbs, a nova diretora da prisão que se recusa a trabalhar amigavelmente com ele, e Frank Moses, um gângster de Detroit que se une a Bunny para obter controle total sobre a cidade.</p><p>Com a morte de Carney sendo um elemento central no início da quarta temporada de <b><a href=\"https://www.maquinanerd.com.br/tag/mayor-of-kingstown\">Mayor of Kingstown</a></b>, parece que a investigação sobre quem o matou será um elemento-chave nos episódios restantes. Como é incerto como o enredo se desenrolará, a série provavelmente manterá o mistério até decidir que é hora de Mike obter justiça para seu amigo.</p>",
+      "meta_description": "Jeremy Renner, estrela de Mayor of Kingstown, explica como a morte de Carney na 4ª temporada foi inspirada em \"O Som do Trovão\".",
+      "focus_keyphrase": "Jeremy Renner Mayor of Kingstown",
+      "related_keyphrases": [
+        "Mayor of Kingstown temporada 4",
+        "Taylor Sheridan",
+        "morte Carney Mayor of Kingstown"
+      ],
+      "slug": "jeremy-renner-mayor-of-kingstown-morte",
+      "categorias": [
+        {
+          "nome": "Mayor of Kingstown",
+          "grupo": "obras",
+          "evidence": "<strong><em>Mayor of Kingstown</em></strong> star Jeremy Renner has explained"
+        },
+        {
+          "nome": "Jeremy Renner",
+          "grupo": "atores",
+          "evidence": "Jeremy Renner, estrela de Mayor of Kingstown"
+        },
+        {
+          "nome": "O Som do Trovão",
+          "grupo": "obras",
+          "evidence": "inspired by his 2008 war film <em>The Hurt Locker</em>."
+        }
+      ],
+      "tags_sugeridas": [
+        "Mayor of Kingstown",
+        "Jeremy Renner",
+        "Taylor Sheridan",
+        "O Som do Trovão",
+        "Paramount+",
+        "série criminal",
+        "drama"
+      ],
+      "image_alt_texts": {
+        "mayor-of-kingstown-season-3-episode-4-12.jpg?q=70&fit=crop&w=825&dpr=1": "Jeremy Renner como Mike McLusky em uma cena tensa de Mayor of Kingstown, investigando a morte de Carney."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Mayor of Kingstown: Jeremy Renner revela inspiração para morte de personagem",
+        "_yoast_wpseo_metadesc": "Jeremy Renner, estrela de Mayor of Kingstown, explica como a morte de Carney na 4ª temporada foi inspirada em \"O Som do Trovão\".",
+        "_yoast_wpseo_focuskw": "Jeremy Renner Mayor of Kingstown",
+        "_yoast_news_keywords": "Jeremy Renner, Mayor of Kingstown, Taylor Sheridan, O Som do Trovão, Paramount+, série criminal",
+        "_yoast_wpseo_opengraph-title": "Mayor of Kingstown: Jeremy Renner revela inspiração para morte de personagem",
+        "_yoast_wpseo_opengraph-description": "Jeremy Renner, estrela de Mayor of Kingstown, explica como a morte de Carney na 4ª temporada foi inspirada em \"O Som do Trovão\".",
+        "_yoast_wpseo_twitter-title": "Mayor of Kingstown: Jeremy Renner revela inspiração para morte de personagem",
+        "_yoast_wpseo_twitter-description": "Jeremy Renner, estrela de Mayor of Kingstown, explica como a morte de Carney na 4ª temporada foi inspirada em \"O Som do Trovão\"."
+      }
+    }
+  ]
+}

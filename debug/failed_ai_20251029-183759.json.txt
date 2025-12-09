@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Doctor Sleep: Como Mike Flanagan Agradou Stephen King e Kubrick",
+  "conteudo_final": "<p><b>Stephen King</b> é um nome que transcende a literatura, consolidando-se como uma força no cinema e na TV. Com inúmeras adaptações de suas obras e até mesmo séries inspiradas em suas histórias, tudo o que é conectado a King geralmente causa impacto. No entanto, ocasionalmente, algo passa despercebido, especialmente quando se trata de um dos poucos diretores que realmente sabem adaptar suas histórias. Enfrentar o desafio de agradar dois públicos distintos, ao mesmo tempo em que se cria uma sequência que faz sentido por si só, é uma tarefa árdua. <b>Mike Flanagan</b>, contudo, decidiu encará-la de frente, resultando em um dos filmes de terror mais subestimados da última década.</p>\n<h2>Doctor Sleep: Uma Adaptação Desafiadora</h2>\n<p>Lançado em 2019, <b>Doctor Sleep</b> enfrentou a tarefa quase impossível de fundir o universo do livro <i>The Shining</i> de King com a visão cinematográfica de Stanley Kubrick. Enquanto o livro explora o horror cru e emocional de um homem consumido pelo alcoolismo, o filme de Kubrick apresenta uma obra-prima fria e metódica de loucura e isolamento. As duas visões nunca se alinharam completamente, inclusive fora das telas, com King expressando abertamente seu desagrado pela adaptação de Kubrick. Assim, o anúncio de <i>Doctor Sleep</i> gerou ceticismo inevitável. Mas Flanagan fez o inesperado: em vez de escolher um lado, ele abraçou ambos. Ele criou um filme que honra os visuais icônicos do clássico de 1980, ao mesmo tempo em que se mantém fiel ao coração e aos temas originalmente propostos por King. O resultado é um ponto de equilíbrio perfeito, um raro alinhamento entre o respeito pela obra original e a inovação cinematográfica.</p>\n<figure><img src=\"https:
+  "meta_description": "Descubra como Doctor Sleep, de Mike Flanagan, harmonizou a obra de Stephen King e a visão de Kubrick, criando um terror aclamado.",
+  "focus_keyphrase": "Doctor Sleep",
+  "related_keyphrases": [
+    "Mike Flanagan",
+    "Stephen King",
+    "The Shining"
+  ],
+  "slug": "doctor-sleep-mike-flanagan-stephen-king",
+  "categorias": [
+    {
+      "nome": "Doctor Sleep",
+      "grupo": "obras",
+      "evidence": "Doctor Sleep"
+    },
+    {
+      "nome": "The Shining",
+      "grupo": "obras",
+      "evidence": "King’s The Shining"
+    },
+    {
+      "nome": "Stephen King",
+      "grupo": "franquias",
+      "evidence": "Stephen King"
+    }
+  ],
+  "tags_sugeridas": [
+    "Doctor Sleep",
+    "Mike Flanagan",
+    "Stephen King",
+    "Stanley Kubrick",
+    "The Shining",
+    "Terror",
+    "Filmes de Terror"
+  ],
+  "image_alt_texts": {
+    "doctor-sleep-movie-still-dan-jack-torrance.jpg?w=1024": "Dan e Jack Torrance em Doctor Sleep.",
+    "doctor-sleep-rose-the-hat-rebecca-ferguson-.jpg?w=1024": "Rose the Hat, a vilã de Doctor Sleep.",
+    "doctor-sleep-still-dan-torrance-ewan-mcgregor.jpg?w=1024": "Dan Torrance em Doctor Sleep."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Doctor Sleep: Como Mike Flanagan Agradou Stephen King e Kubrick",
+    "_yoast_wpseo_metadesc": "Descubra como Doctor Sleep, de Mike Flanagan, harmonizou a obra de Stephen King e a visão de Kubrick, criando um terror aclamado.",
+    "_yoast_wpseo_focuskw": "Doctor Sleep",
+    "_yoast_news_keywords": "Doctor Sleep, Mike Flanagan, Stephen King, Stanley Kubrick, The Shining, Ewan McGregor, Rebecca Ferguson, Terror, Filmes de Terror",
+    "_yoast_wpseo_opengraph-title": "Doctor Sleep: Como Mike Flanagan Agradou Stephen King e Kubrick",
+    "_yoast_wpseo_opengraph-description": "Saiba como o filme de terror de Mike Flanagan conseguiu unir o universo de Stephen King com a visão de Stanley Kubrick, apesar das diferenças.",
+    "_yoast_wpseo_twitter-title": "Doctor Sleep: Como Mike Flanagan Agradou Stephen King e Kubrick",
+    "_yoast_wpseo_twitter-description": "Saiba como o filme de terror de Mike Flanagan conseguiu unir o universo de Stephen King com a visão de Stanley Kubrick, apesar das diferenças."
+  }
+}

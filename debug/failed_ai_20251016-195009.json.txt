@@ -1,0 +1,50 @@
+{
+  "titulo_final": "Dallas Jenkins Perde Projeto de Animação Sobre Rei Davi para Angel Studios",
+  "conteudo_final": "<p>O criador de <b>The Chosen</b>, Dallas Jenkins, compartilhou uma atualização decepcionante sobre um de seus projetos mais aguardados. Em uma mensagem emotiva no Instagram, Jenkins revelou que a animação baseada na vida do Rei Davi, intitulada <b>David</b>, não será mais produzida por seu estúdio, 5&amp;2 Studios. Os direitos de distribuição do filme foram transferidos para a Angel Studios, que planeja lançá-lo ainda este ano.</p><h2>A Transferência de Direitos do Filme David</h2><p>Jenkins explicou que a decisão ocorreu devido a cláusulas contratuais. A empresa detentora dos direitos do filme permitia a venda para terceiros dentro de um prazo específico, e essa venda se concretizou. O projeto agora seguirá com a Angel Studios, que já divulgou anúncios e trailers do filme. O cineasta fez questão de desmentir rumores de conflitos entre os estúdios, afirmando que não há disputas legais e que ele aceita a decisão com serenidade, acreditando que o projeto está onde deveria estar.</p><blockquote><p>“Bem, o Senhor dá, e o Senhor tira. Como vocês devem ter ouvido, o filme David, a animação David, voltou para a Angel Studios, não para nós. A Angel Studios vai lançar a animação David ainda este ano.”</p><p>“E vocês podem estar se perguntando: ‘Espere um segundo, vocês anunciaram que tinham o filme David que iriam lançá-lo.’ E, sim, isso era verdade. [Risos] E é uma longa história e não vou dar todos os detalhes e tudo mais, mas em resumo, a empresa que tem os direitos do filme David, parte do nosso acordo incluía que eles estavam tentando vender para alguém, e se eles conseguissem fazer isso dentro deste período de tempo, então eles poderiam, se quisessem, sair do acordo que tinham conosco. E descobrimos ontem que foi o que aconteceu. E, aparentemente, estava em andamento há algum tempo porque no momento em que aconteceu, foi como se anúncios fossem feitos e trailers fossem lançados. Então, as pessoas que compraram o projeto o queriam com a Angel e, portanto, está com a Angel.”</p></blockquote><p>Jenkins reafirmou que não há animosidade com a Angel Studios. “Não há nada nefasto entre a Angel e nós. Na verdade, chegamos a alguns acordos sobre parte do nosso histórico e, portanto, a menos que algo mude de alguma forma no futuro, não há batalhas legais em andamento. Honestamente, eu realmente tenho 100% de paz sobre isso. Acredito que Deus dita os passos nessas situações e, claramente, este filme está com a Angel Studios agora e estava com a Angel Studios originalmente, e não deveríamos lançá-lo, então, ok. Não é um projeto de The Chosen, não é um projeto de 5&amp;2 Studios, e eu estou bem com isso. Genuinamente. Verdadeiramente.”</p><h2>Dallas Jenkins Continua com Outros Projetos</h2><p>Apesar da perda do projeto <b>David</b>, Dallas Jenkins tem uma agenda repleta de conteúdo de fé. A sexta temporada de <b>The Chosen</b> está prevista para o próximo ano. Além disso, a equipe de Jenkins lançará sua primeira animação, <b>The Chosen: Adventures</b>, em breve. No campo live-action, Jenkins está colaborando novamente com a Prime Video em uma história do Antigo Testamento, <b>Joseph of Egypt</b>, que já está em filmagem no Novo México, com Craig Wright como showrunner.</p><p>Confira a mensagem completa de Jenkins para os fãs no vídeo acima.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/04/03160194_poster_w780.jpg\" alt=\"Dallas Jenkins, criador de The Chosen, em uma imagem promocional.\"><figcaption>Dallas Jenkins, criador de The Chosen.</figcaption></figure>",
+  "meta_description": "Dallas Jenkins, criador de The Chosen, perde projeto de animação sobre Rei Davi para Angel Studios, mas mantém outros trabalhos em andamento.",
+  "focus_keyphrase": "Dallas Jenkins David movie",
+  "related_keyphrases": [
+    "The Chosen Dallas Jenkins",
+    "Angel Studios David",
+    "animação Rei Davi"
+  ],
+  "slug": "dallas-jenkins-projeto-rei-davi",
+  "categorias": [
+    {
+      "nome": "The Chosen",
+      "grupo": "franquias",
+      "evidence": "The Chosen creator"
+    },
+    {
+      "nome": "David",
+      "grupo": "obras",
+      "evidence": "the David movie"
+    },
+    {
+      "nome": "Angel Studios",
+      "grupo": "franquias",
+      "evidence": "Angel Studios"
+    }
+  ],
+  "tags_sugeridas": [
+    "Dallas Jenkins",
+    "The Chosen",
+    "Angel Studios",
+    "Rei Davi",
+    "animação",
+    "cinema cristão"
+  ],
+  "image_alt_texts": {
+    "2025_04_03160194_poster_w780.jpg": "Dallas Jenkins, criador de The Chosen, em uma imagem promocional."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Dallas Jenkins Perde Projeto de Animação Sobre Rei Davi para Angel Studios",
+    "_yoast_wpseo_metadesc": "Dallas Jenkins, criador de The Chosen, perde projeto de animação sobre Rei Davi para Angel Studios, mas mantém outros trabalhos em andamento.",
+    "_yoast_wpseo_focuskw": "Dallas Jenkins David movie",
+    "_yoast_news_keywords": "Dallas Jenkins, The Chosen, Angel Studios, Rei Davi, animação, cinema cristão",
+    "_yoast_wpseo_opengraph-title": "Dallas Jenkins Perde Projeto de Animação Sobre Rei Davi para Angel Studios",
+    "_yoast_wpseo_opengraph-description": "O criador de The Chosen, Dallas Jenkins, confirmou que o projeto de animação sobre o Rei Davi não seguirá com seu estúdio, sendo transferido para a Angel Studios.",
+    "_yoast_wpseo_twitter-title": "Dallas Jenkins Perde Projeto de Animação Sobre Rei Davi para Angel Studios",
+    "_yoast_wpseo_twitter-description": "O criador de The Chosen, Dallas Jenkins, confirmou que o projeto de animação sobre o Rei Davi não seguirá com seu estúdio, sendo transferido para a Angel Studios."
+  }
+}

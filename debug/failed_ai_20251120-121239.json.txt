@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Primal: Nova temporada traz Spear zumbi em 2026 na Adult Swim",
+      "conteudo_final": "<p>Após a aparente morte trágica de Spear na segunda temporada de <b>Primal</b>, o personagem está de volta. A Adult Swim confirmou que a série animada de Genndy Tartakovsky retorna em 11 de janeiro de 2026, com novas imagens que antecipam a jornada sombria do homem das cavernas após a morte. Depois de acompanhar sua trajetória de duas temporadas ao lado de sua companheira, a dinossaura Fang, onde se tornaram a única esperança um do outro em um mundo implacável, Spear ressurge como um zumbi, sem sua humanidade e as memórias que o definiam como guerreiro.</p><h2>O Retorno Sombrio de Spear</h2><p>A segunda temporada terminou com Spear se sacrificando heroicamente para derrotar o Chefe das Chamas, passando o bastão para a filha dele e de Mira nos momentos finais da série. Sua ressurreição, contudo, direciona a narrativa para um caminho mais violento e horripilante, forçando-o a vagar pelo mundo como uma sombra de seu antigo eu. As novas imagens destacam essa direção mais sombria, mostrando o Spear zumbi enfrentando novas ameaças em sua forma monstruosa. Entre fugas de minhocas gigantes e ataques ferozes a leões, ele ainda encontra momentos de contemplação ao atravessar a paisagem e observar sua beleza assustadora. A terceira temporada de <em>Primal</em> promete não ser apenas um retorno cheio de ação para a série e seu protagonista, mas uma jornada emocional, à medida que sussurros do passado de Spear começam a ressoar, guiando-o para um reencontro antes considerado impossível, caso ele consiga sobreviver.</p><h2>A Mudança de Direção Criativa</h2><p>Inicialmente, o plano de Tartakovsky não era trazer Spear de volta. A ideia original era que a série, vencedora de cinco Emmys, seguisse como uma antologia, contando novas histórias com outros personagens dentro do mesmo universo. Tartakovsky explicou a mudança drástica em um comunicado oficial, revelando como se apaixonou pela ideia de Spear ressurgir dos mortos, o que se encaixava no mundo violento, mas com propósito, da aclamada série. “Depois de duas temporadas, eu estava pronto para seguir em frente até que uma ideia surgiu, que era mais pulp, badass e inegável\", declarou. \"Todos concordaram, e a 3ª temporada nasceu”. Michael Ouweleen, presidente da Adult Swim, comentou sobre o quão "maluca" a ideia é, mas assegurou que representará uma virada emocional poderosa para o personagem, que se aprofunda em sua morte.</p><p>\"Não é todo mundo que consegue matar seu personagem principal e depois pensar 'espera aí...' e conseguir fazer funcionar! Mas Genndy geralmente não facilita as coisas para si mesmo, e o resultado é uma terceira temporada mais maluca do que a decisão de matar Spear na primeira! Você achou que havia emoção na morte do personagem principal na segunda temporada, espere para ver o que está reservado para a terceira temporada.\"</p><h2>Equipe e Temas da Nova Temporada</h2><p>O estúdio Titmouse mais uma vez forneceu a animação impressionante para a 3ª temporada de <em>Primal</em>. Tartakovsky reuniu muitos colaboradores anteriores para dar vida a este novo e selvagem capítulo. Scott Wills, veterano de <b>Samurai Jack</b>, retornou para a direção de arte, juntando-se a colegas do clássico da Cartoon Network, Tyler Bates e Joanne Higginbottom, que compuseram a trilha sonora, e Joel Valentine, responsável pelo design de som. Juntos, eles ajudaram a tornar cada quadro, som e momento silencioso de Spear significativo, mesmo neste novo capítulo brutal e completamente insano. Em entrevista, Tartakovsky explicou como tudo em <em>Primal</em> se une na 3ª temporada para criar algo mais complexo e emocional do que parece à primeira vista, com o amor como tema abrangente que ancora a história.</p><p>“Estamos fazendo coisas que são mais fundamentadas emocionalmente. Na superfície, pode parecer uma coisa, mas quando você realmente começa a assistir aos episódios, percebe que tudo se trata de emoção. Há muita violência e todo o resto, e ação, mas a narrativa está enraizada na jornada de um personagem.”</p><p><em>Primal</em> retorna à Adult Swim para uma 3ª temporada sangrenta e brutal em 11 de janeiro de 2026. Confira as novas imagens na galeria acima.</p>",
+      "meta_description": "A terceira temporada de Primal chega em 11 de janeiro de 2026. Spear retorna como zumbi em novas imagens chocantes da série da Adult Swim.",
+      "focus_keyphrase": "Primal Spear zumbi nova temporada",
+      "related_keyphrases": [
+        "Primal Genndy Tartakovsky",
+        "Primal Spear ressurge",
+        "Primal 3ª temporada data"
+      ],
+      "slug": "primal-spear-zumbi-nova-temporada-2026",
+      "categorias": [
+        {
+          "nome": "Primal",
+          "grupo": "franquias",
+          "evidence": "a série animada de Genndy Tartakovsky retorna"
+        },
+        {
+          "nome": "Adult Swim",
+          "grupo": "plataformas",
+          "evidence": "A Adult Swim confirmou"
+        },
+        {
+          "nome": "Genndy Tartakovsky",
+          "grupo": "criadores",
+          "evidence": "série animada de Genndy Tartakovsky"
+        }
+      ],
+      "tags_sugeridas": [
+        "Primal",
+        "Genndy Tartakovsky",
+        "Adult Swim",
+        "animação adulta",
+        "Spear",
+        "Fang",
+        "Samurai Jack"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Primal: Nova temporada com Spear zumbi estreia em 2026 na Adult Swim",
+        "_yoast_wpseo_metadesc": "A terceira temporada de Primal chega em 11 de janeiro de 2026. Spear retorna como zumbi em novas imagens chocantes da série da Adult Swim.",
+        "_yoast_wpseo_focuskw": "Primal Spear zumbi nova temporada",
+        "_yoast_news_keywords": "Primal, Genndy Tartakovsky, Adult Swim, animação adulta, Spear, Fang, Samurai Jack, Primal temporada 3",
+        "_yoast_wpseo_opengraph-title": "Primal: Nova temporada com Spear zumbi estreia em 2026 na Adult Swim",
+        "_yoast_wpseo_opengraph-description": "A terceira temporada de Primal chega em 11 de janeiro de 2026. Spear retorna como zumbi em novas imagens chocantes da série da Adult Swim.",
+        "_yoast_wpseo_twitter-title": "Primal: Nova temporada com Spear zumbi estreia em 2026 na Adult Swim",
+        "_yoast_wpseo_twitter-description": "A terceira temporada de Primal chega em 11 de janeiro de 2026. Spear retorna como zumbi em novas imagens chocantes da série da Adult Swim."
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Marvel's Wolverine: Jogo no PS5 já pode ser adicionado à lista de desejos",
+  "conteudo_final": "<p>Apesar de seu lançamento ainda distante, <b>Marvel's Wolverine</b>, o aguardado título da Insomniac Games para PlayStation 5, já está disponível para ser adicionado à sua lista de desejos na PlayStation Store. A novidade foi anunciada recentemente, indicando que o jogo está cada vez mais próximo de se tornar uma realidade para os fãs.</p><p>Com uma janela de lançamento prevista para o outono de 2026, a possibilidade de adicionar o jogo à lista de desejos significa que os jogadores serão notificados assim que os pré-vendas forem abertos. Este é um sinal animador para os fãs, que esperam ansiosamente por mais novidades sobre o game.</p><p>A preocupação com o desenvolvimento do jogo, que chegou a gerar especulações sobre um possível desenvolvimento conturbado, foi dissipada durante o último evento PlayStation State of Play. A confirmação de que o jogo está progredindo foi um alívio para a comunidade.</p><p>A inclusão de <b>Marvel's Wolverine</b> na lista de desejos segue o exemplo de outros títulos de grande expectativa, como Grand Theft Auto 6, que também se encontra na mesma situação, sendo interpretado por muitos como um sinal positivo sobre o andamento dos projetos.</p><h2>Wolverine: Sangue, Violência e Referências X-Men</h2><p>O trailer mais recente apresentado durante o evento State of Play em setembro trouxe tudo o que os fãs esperavam desde a revelação original do jogo. As imagens revelaram a presença de personagens icônicos do universo X-Men, como a Mística, que gerou especulações sobre seu papel na trama, e o Fanático (Omega Red), que parece ser um dos vilões principais.</p><p>A comparação do trailer com vazamentos anteriores não tardou, e o resultado foi unânime: o jogo aparenta ser ainda mais impressionante do que o divulgado anteriormente. A violência explícita e o nível de gore presente no jogo também chamaram a atenção, a ponto de alguns desenvolvedores expressarem preocupação se o conteúdo estava "indo longe demais".</p><p>Agora, com a opção de adicionar <b>Marvel's Wolverine</b> à lista de desejos, a expectativa é que o tempo até o início das pré-vendas seja significativamente menor do que os quatro anos que se passaram desde a revelação inicial. Brincadeiras à parte, a comunidade celebra cada passo em direção ao lançamento.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-09-dec-2024-03-19-am-8679.jpg\" alt=\"Wolverine em pose de combate com detalhes sangrentos em Marvel's Wolverine.\"><figcaption>O visual de Wolverine em Marvel's Wolverine promete ser fiel aos quadrinhos, com alto nível de detalhe e violência.</figcaption></figure>",
+  "meta_description": "Marvel's Wolverine para PS5 já pode ser adicionado à lista de desejos. Jogo da Insomniac Games tem lançamento previsto para outono de 2026.",
+  "focus_keyphrase": "Marvel's Wolverine",
+  "related_keyphrases": [
+    "Wolverine jogo PS5",
+    "Insomniac Games Wolverine",
+    "Lista de desejos PlayStation"
+  ],
+  "slug": "marvels-wolverine-wishlist-ps5",
+  "categorias": [
+    {
+      "nome": "Marvel's Wolverine",
+      "grupo": "obras",
+      "evidence": "Marvel's Wolverine"
+    },
+    {
+      "nome": "PlayStation",
+      "grupo": "franquias",
+      "evidence": "PlayStation"
+    },
+    {
+      "nome": "X-Men",
+      "grupo": "franquias",
+      "evidence": "X-Men"
+    }
+  ],
+  "tags_sugeridas": [
+    "Marvel's Wolverine",
+    "Insomniac Games",
+    "PlayStation 5",
+    "PS5",
+    "Wolverine",
+    "X-Men",
+    "Lista de desejos"
+  ],
+  "image_alt_texts": {
+    "mixcollage-09-dec-2024-03-19-am-8679.jpg": "Wolverine em pose de combate com detalhes sangrentos em Marvel's Wolverine."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Marvel's Wolverine: Jogo no PS5 já pode ser adicionado à lista de desejos",
+    "_yoast_wpseo_metadesc": "Marvel's Wolverine para PS5 já pode ser adicionado à lista de desejos. Jogo da Insomniac Games tem lançamento previsto para outono de 2026.",
+    "_yoast_wpseo_focuskw": "Marvel's Wolverine",
+    "_yoast_news_keywords": "Marvel's Wolverine, Insomniac Games, PlayStation, PS5, Wolverine, X-Men, Lista de desejos",
+    "_yoast_wpseo_opengraph-title": "Marvel's Wolverine: Jogo no PS5 já pode ser adicionado à lista de desejos",
+    "_yoast_wpseo_opengraph-description": "Apesar de seu lançamento ainda distante, Marvel's Wolverine, o aguardado título da Insomniac Games para PlayStation 5, já está disponível para ser adicionado à sua lista de desejos na PlayStation Store.",
+    "_yoast_wpseo_twitter-title": "Marvel's Wolverine: Jogo no PS5 já pode ser adicionado à lista de desejos",
+    "_yoast_wpseo_twitter-description": "Apesar de seu lançamento ainda distante, Marvel's Wolverine, o aguardado título da Insomniac Games para PlayStation 5, já está disponível para ser adicionado à sua lista de desejos na PlayStation Store."
+  }
+}

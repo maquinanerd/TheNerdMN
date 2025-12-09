@@ -1,0 +1,41 @@
+{
+  "titulo_final": "Magic: The Gathering: The Dark criticou hipocrisia cristã conservadora",
+  "conteudo_final": "<p>A expansão <b>The Dark</b>, quarta de <b>Magic: The Gathering</b>, foi concebida como um comentário direto sobre as falhas de indivíduos de direita, segundo seu diretor de arte original, Jesper Myrfors.</p><h2>Um Espelho para a Hipocrisia</h2><p>Myrfors revelou que o conjunto de cartas visava expor a “maldade e hipocrisia dos cristãos de direita intolerantes”. A inspiração surgiu após a “pânico satânico” dos anos 80 e as reações infundadas que associavam <b>Magic: The Gathering</b> à adoração demoníaca.</p><p>O diretor de arte buscou criticar o dogma e a falta de empatia, elementos que ele associava à cor branca nas cartas da expansão. Conforme Myrfors explica, o branco em <b>The Dark</b> representa perigo, dogmatismo e indiferença, glorificando a ignorância e a violência contra o diferente. Ele enfatiza que a virtude auto-proclamada pode se tornar tão perigosa quanto rituais sombrios quando desprovida de compaixão.</p><p>Myrfors comparou a temática com eventos contemporâneos, mencionando o movimento MAGA como um exemplo atual de similaridades. Ele acredita que a arte, assim como os jogos, tem o papel fundamental de iluminar tais questões sociais.</p><h2>A Referência às Idades das Trevas</h2><p>O nome <b>The Dark</b> faz alusão às Idades das Trevas, um período onde a igreja detinha controle total sobre a população. Myrfors lembrou que, naquela época, curandeiros eram queimados como bruxas e o conhecimento era restrito à elite, com qualquer dissidência sendo brutalmente suprimida. Ele via o conjunto de cartas como uma forma de alertar sobre a tentativa de resgatar esses tempos sombrios.</p><p>Jesper Myrfors, que trabalhou na Wizards of the Coast até o ano 2000, também é conhecido por criar a representação original do personagem Atog.</p>",
+  "meta_description": "O diretor de arte de Magic: The Gathering revela que a expansão The Dark criticou a hipocrisia cristã conservadora e dogmas de direita.",
+  "focus_keyphrase": "Magic The Gathering The Dark expansão",
+  "related_keyphrases": [
+    "Jesper Myrfors Magic The Gathering",
+    "Crítica The Dark Magic",
+    "Arte Magic The Gathering"
+  ],
+  "slug": "magic-gathering-the-dark-critica-crista",
+  "categorias": [
+    {
+      "nome": "Magic: The Gathering",
+      "grupo": "franquias",
+      "evidence": "Magic: The Gathering"
+    }
+  ],
+  "tags_sugeridas": [
+    "Magic The Gathering",
+    "The Dark",
+    "Jesper Myrfors",
+    "Wizards of the Coast",
+    "Cartas Colecionáveis",
+    "Crítica Social"
+  ],
+  "image_alt_texts": {
+    "magic-the-gathering-cover.jpg": "Capa do jogo de cartas Magic: The Gathering.",
+    "mtg-elves-of-deep-shadow.jpg": "Ilustração de Elves of Deep Shadow da expansão The Dark de Magic: The Gathering."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Magic: The Gathering: The Dark criticou hipocrisia cristã conservadora",
+    "_yoast_wpseo_metadesc": "O diretor de arte de Magic: The Gathering revela que a expansão The Dark criticou a hipocrisia cristã conservadora e dogmas de direita.",
+    "_yoast_wpseo_focuskw": "Magic The Gathering The Dark expansão",
+    "_yoast_news_keywords": "Magic The Gathering, The Dark, Jesper Myrfors, Wizards of the Coast, Crítica Social, Jogos de Cartas",
+    "_yoast_wpseo_opengraph-title": "Magic: The Gathering: The Dark criticou hipocrisia cristã conservadora",
+    "_yoast_wpseo_opengraph-description": "O diretor de arte de Magic: The Gathering revela que a expansão The Dark criticou a hipocrisia cristã conservadora e dogmas de direita.",
+    "_yoast_wpseo_twitter-title": "Magic: The Gathering: The Dark criticou hipocrisia cristã conservadora",
+    "_yoast_wpseo_twitter-description": "O diretor de arte de Magic: The Gathering revela que a expansão The Dark criticou a hipocrisia cristã conservadora e dogmas de direita."
+  }
+}

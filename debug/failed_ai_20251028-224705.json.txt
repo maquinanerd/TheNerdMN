@@ -1,0 +1,1 @@
+{"resultados": [{"titulo_final": "Title", "conteudo_final": "<p>Contenthere</p>", "meta_description": "desc", "focus_keyphrase": "key", "tags_sugeridas": ["tagone"], "yoast_meta": {"key": "value"}}]}

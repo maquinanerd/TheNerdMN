@@ -1,0 +1,107 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Six Feet Under: Série clássica da HBO sai da Netflix em novembro",
+      "conteudo_final": "<p>A retirada de conteúdo da <b>HBO</b> da biblioteca de streaming da <b>Netflix</b> continua em novembro. Todas as cinco temporadas de um dos dramas mais aclamados da HBO deixarão a plataforma em breve. Assinantes da Netflix já viram séries como <i>Insecure</i>, <i>Ballers</i> e <i>Band of Brothers</i> saírem após o vencimento do acordo de licenciamento.</p><h2>Retorno a Bullworth</h2><p>Agora, dois anos após sua entrada no catálogo, a série completa está programada para deixar a Netflix. Criado por Alan Ball, o drama <b>Six Feet Under</b> foi exibido por cinco temporadas entre 2001 e 2005, tornando-se uma das melhores séries da <b>HBO</b>. A trama acompanha a família Fisher, que administra uma funerária em Los Angeles.</p><p>Estrelada por Peter Krause, Michael C. Hall, Frances Conroy, Lauren Ambrose, Freddy Rodriguez, Mathew St. Patrick e Rachel Griffiths, a série conta com 63 episódios. Todos eles estão programados para sair da Netflix em 1º de novembro.</p><h2>Por que Six Feet Under é imperdível?</h2><p><b>Six Feet Under</b> é uma obra-prima que ajudou a moldar a <b>HBO</b> como uma potência televisiva. A série fez parte de uma onda que provou que canais a cabo podiam produzir conteúdo aclamado pela crítica, rivalizando com filmes. Abandonando o arquétipo do herói, a série focou em personagens complexos e moralmente ambíguos, explorando o luto e o crescimento da família Fisher de forma serializada.</p><p>A qualidade se manteve ao longo das cinco temporadas, com a maioria delas ostentando o selo “Certified Fresh” no <b>Rotten Tomatoes</b> e pontuações de críticos acima de 90%. A série cativou os espectadores com temas como mortalidade, luto, identidade e o sentido da vida, apresentando personagens e relacionamentos envolventes. O final, “Everyone’s Waiting”, é amplamente considerado um dos melhores da história da TV, garantindo uma conclusão satisfatória para quem maratonar a série.</p><h2>Onde assistir Six Feet Under após a saída da Netflix?</h2><p>Quando <b>Six Feet Under</b> deixar o catálogo da Netflix, ela não desaparecerá do streaming por completo. Por ser uma produção da <b>HBO</b>, todas as cinco temporadas continuarão disponíveis na plataforma <b>HBO Max</b>.</p><p>Enquanto isso, a Netflix adicionará novas opções de streaming. Com a saída de <i>Six Feet Under</i>, filmes e séries como a trilogia <i>De Volta para o Futuro</i>, <i>Broadchurch</i> (temporadas 1-3), <i>Podres de Ricos</i>, <i>Elvis</i>, <i>Eu Sei o Que Vocês Fizeram no Verão Passado</i> e <i>Onze Homens e Um Segredo</i> chegam à plataforma em 1º de novembro.</p>",
+      "meta_description": "A aclamada série da HBO, Six Feet Under, com todas as 5 temporadas, deixará o catálogo da Netflix em novembro. Saiba onde assistir.",
+      "focus_keyphrase": "Six Feet Under sai da Netflix",
+      "related_keyphrases": [
+        "Six Feet Under HBO Max",
+        "Seis Vezes Amor Netflix",
+        "Séries clássicas HBO"
+      ],
+      "slug": "six-feet-under-sai-netflix",
+      "categorias": [
+        {
+          "nome": "Six Feet Under",
+          "grupo": "obras",
+          "evidence": "todas as cinco temporadas de Six Feet Under"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "editorias",
+          "evidence": "HBO content from Netflix’s streaming library"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix subscribers"
+        }
+      ],
+      "tags_sugeridas": [
+        "six-feet-under",
+        "netflix",
+        "hbo",
+        "hbo max",
+        "streaming",
+        "series"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Poster da série Six Feet Under com o logo da HBO.",
+        "Ex-Machina.jpg": "Cena icônica da série Six Feet Under mostrando a família.",
+        "Firefly-Out-of-Gas-episode.jpg": "Elenco principal de Six Feet Under em uma cena marcante.",
+        "Halo-Combat-Evolved.jpg": "Detalhe de um dos personagens principais de Six Feet Under.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Episode-.jpg": "Uma das cenas mais dramáticas de Six Feet Under.",
+        "mackenzie-davis.jpg": "Fotografia promocional da série Six Feet Under.",
+        "E3gYi-KvKug.jpg": "Trailer da série Six Feet Under."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Six Feet Under: Série clássica da HBO sai da Netflix em novembro",
+        "_yoast_wpseo_metadesc": "A aclamada série da HBO, Six Feet Under, com todas as 5 temporadas, deixará o catálogo da Netflix em novembro. Saiba onde assistir.",
+        "_yoast_wpseo_focuskw": "Six Feet Under sai da Netflix",
+        "_yoast_news_keywords": "Six Feet Under, Netflix, HBO, HBO Max, streaming, series, Alan Ball",
+        "_yoast_wpseo_opengraph-title": "Six Feet Under: Série clássica da HBO sai da Netflix em novembro",
+        "_yoast_wpseo_opengraph-description": "A aclamada série da HBO, Six Feet Under, com todas as 5 temporadas, deixará o catálogo da Netflix em novembro. Saiba onde assistir.",
+        "_yoast_wpseo_twitter-title": "Six Feet Under: Série clássica da HBO sai da Netflix em novembro",
+        "_yoast_wpseo_twitter-description": "A aclamada série da HBO, Six Feet Under, com todas as 5 temporadas, deixará o catálogo da Netflix em novembro. Saiba onde assistir."
+      }
+    },
+    {
+      "titulo_final": "Bully Online: Mod fã traz modo multiplayer com RPG e mini-games",
+      "conteudo_final": "<p>O clássico jogo <b>Bully</b>, da <b>Rockstar</b>, continua a cativar os fãs, que anseiam por uma sequência. Embora as chances de um novo título pareçam remotas, um projeto feito por fãs promete trazer uma nova experiência multiplayer para o jogo.</p><p><b>Bully Online</b> é um projeto que permite aos jogadores se conectarem em um mesmo servidor para participar de role-playing, mini-games, corridas e muito mais. A proposta lembra o popular mod <i>San Andreas Multiplayer</i>.</p><h2>Retorno a Bullworth</h2><p>Segundo SWEGTA, criador de conteúdo focado em <b>Bully</b>, o tão esperado modo online está finalmente a caminho. \"Nós finalmente temos um modo online para Bully que permite a você e seus amigos jogarem mini-games, fazerem roleplay, competirem em corridas, se defenderem de NPCs e muito mais!\", afirma.</p><p>SWEGTA lançou um trailer completo demonstrando a funcionalidade do mod. O vídeo exibe vários jogadores no mesmo carro, situações caóticas e muitas lutas. \"É um projeto no qual minha equipe e eu trabalhamos por muito tempo. Finalmente chegou a um ponto de desenvolvimento onde podemos anunciá-lo e mostrá-lo ao público\", completou SWEGTA.</p><p>O mod utiliza o DSL script loader, um plugin que habilita modificações mais complexas. A equipe já possui um servidor funcional para <b>Bully Online</b> e planeja compartilhá-lo com apoiadores do projeto no Ko-Fi e Patreon, com planos de abrir o acesso público futuramente.</p><p>O servidor conta com sistemas integrados de moeda e inventário, permitindo que os jogadores comprem armas e veículos. É um conceito similar aos servidores de role-playing de <i>Grand Theft Auto</i>, mas ambientado na pitoresca cidade de Bullworth.</p><p>SWEGTA acrescenta: \"Coisas como esta levam muito tempo para desenvolver e, não vou mentir, investi pessoalmente uma quantia considerável de dinheiro neste projeto para garantir que ele se concretize, e estou feliz em relatar que temos algo incrível para mostrar a todos\".</p><p>Sobre uma sequência oficial, Dan Houser, co-fundador da Rockstar, mencionou anteriormente que o estúdio nunca encontrou \"largura de banda\" para criar <b>Bully 2</b>. Ele também relatou que o desenvolvimento do primeiro jogo foi \"infernal\" devido ao intenso crunch necessário.</p>",
+      "meta_description": "Fãs de Bully criam projeto multiplayer com modo RPG e mini-games. Bully Online promete reviver a experiência de Bullworth com novas funcionalidades.",
+      "focus_keyphrase": "Bully Online modo multiplayer",
+      "related_keyphrases": [
+        "Bully 2",
+        "Rockstar Games",
+        "Mod Bully",
+        "Jogos de RPG"
+      ],
+      "slug": "bully-online-multiplayer-rpg",
+      "categorias": [
+        {
+          "nome": "Bully",
+          "grupo": "obras",
+          "evidence": "Bully remains a beloved game"
+        },
+        {
+          "nome": "Rockstar Games",
+          "grupo": "editorias",
+          "evidence": "Rockstar to create a sequel"
+        }
+      ],
+      "tags_sugeridas": [
+        "bully",
+        "rockstar-games",
+        "bully-online",
+        "mod",
+        "multiplayer",
+        "rpg",
+        "rockstar-vancouver"
+      ],
+      "image_alt_texts": {
+        "mixcollage-25-dec-2024-11-57-pm-5788.jpg": "Montagem de imagens mostrando cenas do mod Bully Online com jogadores em ação."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bully Online: Mod fã traz modo multiplayer com RPG e mini-games",
+        "_yoast_wpseo_metadesc": "Fãs de Bully criam projeto multiplayer com modo RPG e mini-games. Bully Online promete reviver a experiência de Bullworth com novas funcionalidades.",
+        "_yoast_wpseo_focuskw": "Bully Online modo multiplayer",
+        "_yoast_news_keywords": "Bully Online, Bully, Rockstar Games, mod multiplayer, RPG, mini-games, SWEGTA, Bullworth",
+        "_yoast_wpseo_opengraph-title": "Bully Online: Mod fã traz modo multiplayer com RPG e mini-games",
+        "_yoast_wpseo_opengraph-description": "Fãs de Bully criam projeto multiplayer com modo RPG e mini-games. Bully Online promete reviver a experiência de Bullworth com novas funcionalidades.",
+        "_yoast_wpseo_twitter-title": "Bully Online: Mod fã traz modo multiplayer com RPG e mini-games",
+        "_yoast_wpseo_twitter-description": "Fãs de Bully criam projeto multiplayer com modo RPG e mini-games. Bully Online promete reviver a experiência de Bullworth com novas funcionalidades."
+      }
+    }
+  ]
+}

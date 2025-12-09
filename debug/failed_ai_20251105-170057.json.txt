@@ -1,0 +1,48 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Squid Game: Deseliminado reage a corte de jogador na 2ª temporada",
+      "conteudo_final": "<p>Os primeiros quatro episódios de <strong><em>Squid Game: The Challenge </em></strong>temporada 2 estão disponíveis, e muitos jogadores já foram eliminados. Inspirado no sucesso do drama coreano, o reality show reuniu 456 novos participantes, competindo pelo prêmio de US$ 4,56 milhões em jogos novos e familiares.</p><p>O elenco de <em>Squid Game: The Challenge </em>temporada 2 conta com pessoas de diversas profissões, incluindo um administrador de escritório, uma cheerleader da NFL, um técnico aposentado de bombas e o dublê de Robert Pattinson em <em>Crepúsculo</em>. Entre eles estão Viper (Jogador 152), DJ e coach de SoulCycle, e Mark (Jogador 100), representante de atendimento ao cliente. Ambos foram eliminados durante o jogo de 'Catch', Viper quando outro jogador se recusou a participar, e Mark por falhar devido à pressão psicológica exercida por Ryan (Jogador 272).</p><p>Mark e Viper conversaram sobre suas experiências em <em>Squid Game: The Challenge </em>temporada 2. Viper comentou sua eliminação, que inadvertidamente causou a saída do colega Jonti (Jogador 118) — já que Viper foi escolhido por Jonti para jogar 'Catch' em seu lugar. Ele revelou que “<em>não fazia ideia alguma</em>” sobre o elemento de eliminação dupla no jogo.</p><blockquote><p>Viper: Quando estávamos no hotel, depois que tudo acabou, eu não tinha a menor ideia de que isso era um elemento do jogo. E fiquei surpreso que Jonti me escolheu, pois não tínhamos uma relação muito próxima.</p></blockquote><p>Viper explicou que "<em>simplesmente não confiava</em>" em seu oponente em <em>Squid Game</em>, lembrando de um momento em que Jonti estava chorando e sua resposta interna foi: "<em>Amiga, por favor, guarde isso. Vamos lá agora</em>". Ainda assim, embora tenha ficado "<em>surpreso</em>" por ter sido escolhido por Jonti, Viper sentiu que foi a escolha certa para jogar por ele.</p><h2>Mark e Viper veem suas eliminações como resultado da imprevisibilidade</h2><p><em>Screen Rant: Vocês dois perderam no mesmo desafio de Squid Game. O que vocês conversaram sobre como as coisas aconteceram?</em></p><blockquote><p>Viper: A maioria dos desafios nesta série são tão imprevisíveis que você realmente tem que fazer uma escolha e segui-la. Olhando para trás, especificamente para 'Catch', tivemos que entrar na fila. Havia quatro equipes, então tivemos que fazer uma escolha e segui-la. Quando descobrimos qual era o jogo, foi aí que as coisas começaram a se desenvolver, em termos de estratégia e como queríamos realmente seguir em frente. Mas isso é muito característico de Squid Game: The Challenge. Você nunca sabe o que vai acontecer. Você tem que dar um passo de cada vez e esperar que funcione da melhor maneira.</p></blockquote><blockquote><p>Mark: Sim, exatamente isso. Lembro-me de escolher minha fila e, em seguida, ver meu parceiro, August (Jogador 111), fora da fila. Eu pensei: 'Ótimo, ele está eliminado'. Lembro-me de sair da sala branca, basicamente chorando. 'Será que é a última vez que verei August?' Então eu entro em 'Catch' e penso: 'Ok, tudo bem, acho que posso fazer isso'. Tive aquela conversa estratégica com Ryan, e, aliás, estamos bem agora. Sou muito contra o bullying, mas Ryan se desculpou rapidamente depois. Foi difícil, claro, mas também é como, 'Como você sai dessa situação?' Como você se coloca em uma boa posição enquanto tantas coisas estranhas estão acontecendo? 'Catch' foi muito mais difícil do que eu jamais pensei que seria, considerando que eu posso pegar uma bola! Só não naquele dia.</p></blockquote><p><em>Screen Rant: Mark, por favor, diga que você foi à Star Wars Celebration no Japão!</em></p><blockquote><p>Mark: Ah, meu Deus! Não, não fomos. Mas fomos à Noite de Star Wars na Disneyland. Na verdade, fomos à Disney esta semana e andamos nas atrações. Mas eu quero muito ir à Star Wars Celebration!</p></blockquote><p><em>Screen Rant: Olhando para a experiência, se você voltasse para o jogo na próxima temporada, faria algo diferente?</em></p><blockquote><p>Viper: Há coisas muito pequenas e específicas, mas, no final das contas, eu jogaria da mesma maneira que joguei. Agindo quando precisei, recuando quando senti que deveria. Você não pode planejar muito para uma experiência como esta. Você tem que absorvê-la e seguir em frente no momento. Contanto que eu esteja sendo autêntico comigo mesmo e genuíno com quem sou dentro e fora do jogo, estou satisfeito.</p></blockquote><p><em>Screen Rant: Como você se sente sobre o cara que se virou e se recusou a pegar a bola?</em></p><blockquote><p>Viper: Uma escolha meio fraca, na minha opinião. Pelo menos tente! Minha questão é que você tem que se preparar para o sucesso. Se você já disse a si mesmo que não pode fazer algo, é provável que não consiga. E foi o caso dele. Infelizmente, ele estava preso a mim naquele momento, então obviamente não avancei além daquele jogo. Mas não foi agradável de assistir, e não acho que seja algo de que ele se orgulharia. Não há inimizade ou nada; não há sentimentos ruins entre ele e eu, mas poderíamos ter feito melhor.</p></blockquote>",
+      "meta_description": "Mark e Viper, jogadores eliminados de Squid Game: The Challenge 2, comentam suas saídas e a imprevisibilidade do jogo.",
+      "focus_keyphrase": "Squid Game: The Challenge 2",
+      "related_keyphrases": [
+        "Jogadores de Squid Game: The Challenge",
+        "Eliminações Squid Game 2",
+        "Entrevista Squid Game The Challenge"
+      ],
+      "slug": "squid-game-the-challenge-2-eliminados",
+      "categorias": [
+        {
+          "nome": "Squid Game",
+          "grupo": "franquias",
+          "evidence": "Squid Game"
+        },
+        {
+          "nome": "Squid Game: The Challenge",
+          "grupo": "obras",
+          "evidence": "Squid Game: The Challenge"
+        }
+      ],
+      "tags_sugeridas": [
+        "Squid Game",
+        "Squid Game: The Challenge",
+        "Netflix",
+        "Reality Show",
+        "Eliminação"
+      ],
+      "image_alt_texts": {
+        "viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg": "Viper em momento de estresse em Squid Game: The Challenge temporada 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Squid Game: Deseliminado reage a corte de jogador na 2ª temporada",
+        "_yoast_wpseo_metadesc": "Mark e Viper, jogadores eliminados de Squid Game: The Challenge 2, comentam suas saídas e a imprevisibilidade do jogo.",
+        "_yoast_wpseo_focuskw": "Squid Game: The Challenge 2",
+        "_yoast_news_keywords": "Squid Game, Squid Game The Challenge, Netflix, reality show, eliminação, Mark, Viper",
+        "_yoast_wpseo_opengraph-title": "Squid Game: Deseliminado reage a corte de jogador na 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Mark e Viper, jogadores eliminados de Squid Game: The Challenge 2, comentam suas saídas e a imprevisibilidade do jogo.",
+        "_yoast_wpseo_twitter-title": "Squid Game: Deseliminado reage a corte de jogador na 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Mark e Viper, jogadores eliminados de Squid Game: The Challenge 2, comentam suas saídas e a imprevisibilidade do jogo."
+      }
+    }
+  ]
+}

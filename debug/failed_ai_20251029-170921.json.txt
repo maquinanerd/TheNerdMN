@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Chad Powers: O erro de Glen Powell é comum na NFL?",
+      "conteudo_final": "<p>A primeira temporada da série <b>Chad Powers</b>, estrelada por Glen Powell, terminou recentemente, e muitos fãs de futebol americano podem ter notado que a jogada que deu início à trama já ocorreu diversas vezes na National Football League (NFL).</p><h2>O erro que mudou a carreira de Russ Holliday</h2><p>No primeiro episódio, o quarterback superstar universitário Russ Holliday está em uma jogada decisiva durante um jogo nacional. Prestes a garantir a vitória, ele joga a bola para o alto antes de cruzar a linha de gol. O ato é interpretado como um <b>fumble</b>, resultando na derrota de sua equipe.</p><p>Em partidas de futebol americano, para que um touchdown seja validado, o jogador precisa cruzar a linha branca que delimita a endzone com a posse da bola. O erro, causado por uma celebração prematura, é surpreendentemente mais comum na vida real do que se imagina.</p><h2>Jogadores da NFL já cometeram o mesmo erro</h2><p>Celebrações antecipadas são uma parte intrínseca dos esportes. Existem comunidades online dedicadas a atletas que comemoram antes do fim, apenas para verem a vitória escapar no último momento. Um dos exemplos mais frustrantes é justamente o retratado em <b>Chad Powers</b>.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "O erro de celebracão antes da linha de gol em Chad Powers já aconteceu diversas vezes na NFL. Entenda a frequência e as consequências.",
+      "focus_keyphrase": "Chad Powers",
+      "related_keyphrases": [
+        "Glen Powell Chad Powers",
+        "NFL erros de jogadores",
+        "Chad Powers temporada 2"
+      ],
+      "slug": "chad-powers-erro-nfl",
+      "categorias": [
+        {
+          "nome": "Chad Powers",
+          "grupo": "obras",
+          "evidence": "Chad Powers just wrapped its first season"
+        },
+        {
+          "nome": "NFL",
+          "grupo": "franquias",
+          "evidence": "National Football League"
+        },
+        {
+          "nome": "Futebol Americano",
+          "grupo": "franquias",
+          "evidence": "football fans"
+        }
+      ],
+      "tags_sugeridas": [
+        "Chad Powers",
+        "Glen Powell",
+        "NFL",
+        "Futebol Americano",
+        "Séries de Comédia",
+        "Erros Esportivos",
+        "Hulu"
+      ],
+      "image_alt_texts": {
+        "glen-powell-as-russ-holliday-after-losing-at-oregon-in-chad-powers.jpg": "Glen Powell como Russ Holliday comemorando após perder em Oregon na série Chad Powers.",
+        "glen-powell-as-russ-holliday-during-his-oregon-game-in-chad-powers.jpg": "Glen Powell como Russ Holliday em cena de jogo pela série Chad Powers.",
+        "03219018_poster_w780-1.jpg": "Pôster da série Chad Powers com Glen Powell."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Chad Powers: O erro de Glen Powell é comum na NFL?",
+        "_yoast_wpseo_metadesc": "O erro de celebracão antes da linha de gol em Chad Powers já aconteceu diversas vezes na NFL. Entenda a frequência e as consequências.",
+        "_yoast_wpseo_focuskw": "Chad Powers",
+        "_yoast_news_keywords": "Chad Powers, Glen Powell, NFL, Futebol Americano, Séries de Comédia, Erros Esportivos, Hulu",
+        "_yoast_wpseo_opengraph-title": "Chad Powers: O erro de Glen Powell é comum na NFL?",
+        "_yoast_wpseo_opengraph-description": "A primeira temporada da série Chad Powers, estrelada por Glen Powell, terminou recentemente, e muitos fãs de futebol americano podem ter notado que a jogada que deu início à trama já ocorreu diversas vezes na National Football League (NFL).",
+        "_yoast_wpseo_twitter-title": "Chad Powers: O erro de Glen Powell é comum na NFL?",
+        "_yoast_wpseo_twitter-description": "A primeira temporada da série Chad Powers, estrelada por Glen Powell, terminou recentemente, e muitos fãs de futebol americano podem ter notado que a jogada que deu início à trama já ocorreu diversas vezes na National Football League (NFL)."
+      }
+    }
+  ]
+}

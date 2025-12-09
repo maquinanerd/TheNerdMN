@@ -1,0 +1,81 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Filmes como A Casa da Dinamite: 8 Thrillers para assistir na Netflix",
+      "conteudo_final": "<p>Lançado em 2025, o suspense político <b>A Casa da Dinamite</b>, dirigido por Kathryn Bigelow e estrelado por Idris Elba e Rebecca Ferguson, rapidamente se tornou um fenômeno na Netflix. O filme retrata com maestria e tensão a resposta de um governo a uma ameaça nuclear iminente contra os Estados Unidos, destacando-se pela suspense, escala e realismo.</p>\n\n<p>O sucesso da obra deixou muitos espectadores em busca de histórias que combinam intriga política com adrenalina. Para quem gostou de acompanhar a escalada de tensão minuto a minuto em <i>A Casa da Dinamite</i>, o universo das séries oferece produções que entregam uma energia similar, focando na sobrevivência em face de crises.</p>\n\n<h2>The Americans (2013-2018)</h2>\n\n<h3>Uma obra-prima de espionagem que transforma paranoia da Guerra Fria em guerra emocional</h3>\n\n<p>A série da FX, <b>The Americans</b>, é uma das mais detalhadas histórias de espionagem já retratadas na televisão. Ambientada em Washington D.C. nos anos 80, acompanha Elizabeth (Keri Russell) e Philip Jennings (Matthew Rhys), espiões soviéticos vivendo sob disfarce de um casal americano suburbano. Sob essa fachada doméstica, eles equilibram missões de engano, lealdade e amor, muitas vezes com consequências emocionais devastadoras.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Se você gostou de A Casa da Dinamite, confira 8 séries de suspense e intriga política que vão te prender do início ao fim. Veja as recomendações!",
+      "focus_keyphrase": "filmes como A Casa da Dinamite",
+      "related_keyphrases": [
+        "séries de suspense político",
+        "thrillers para assistir na Netflix",
+        "A Casa da Dinamite recomendações"
+      ],
+      "slug": "filmes-como-a-casa-da-dinamite-thrillers-series-netflix",
+      "categorias": [
+        {
+          "nome": "A Casa da Dinamite",
+          "grupo": "obras",
+          "evidence": "A House of Dynamite exploded onto Netflix in 2025, it became an instant sensation."
+        },
+        {
+          "nome": "The Americans",
+          "grupo": "obras",
+          "evidence": "FX’s The Americans delivers one of television’s most meticulously crafted spy stories."
+        },
+        {
+          "nome": "Chernobyl",
+          "grupo": "obras",
+          "evidence": "HBO’s Chernobyl might not feature spies or shootouts, but it’s every bit as nerve-shredding as A House of Dynamite."
+        }
+      ],
+      "tags_sugeridas": [
+        "A Casa da Dinamite",
+        "The Americans",
+        "Chernobyl",
+        "Designated Survivor",
+        "Bodyguard",
+        "The Night Agent",
+        "Jack Ryan",
+        "Homeland",
+        "The Diplomat",
+        "Kathryn Bigelow",
+        "Idris Elba",
+        "Rebecca Ferguson",
+        "Keri Russell",
+        "Kiefer Sutherland",
+        "Netflix"
+      ],
+      "image_alt_texts": {
+        "philip-and-elizabeth-looking-forlorn-at-the-end-of-the-americans.jpg": "Philip e Elizabeth, espiões soviéticos disfarçados em The Americans.",
+        "valery-jared-harris-leaning-against-a-wall-in-shock-in-chernobyl.jpg": "Jared Harris como Valery Legasov em Chernobyl, lidando com as consequências do desastre nuclear.",
+        "promotional-image-of-the-designated-survivor-cast.jpg": "O elenco principal de Designated Survivor, sobre um líder inesperado em tempos de crise.",
+        "richard-madden-and-keeley-hawes-in-bodyguard.jpg": "Richard Madden e Keeley Hawes em Bodyguard, série de suspense político da BBC.",
+        "peter-and-rose-looking-through-binoculars-in-the-night-agent.jpg": "Peter e Rose em The Night Agent, investigando uma conspiração na Netflix.",
+        "jack-ryan-in-the-season-1-episode-french-connection.jpg": "John Krasinski como Jack Ryan em uma missão de espionagem global.",
+        "homeland-claire-danes.jpg": "Claire Danes como a agente da CIA Carrie Mathison em Homeland.",
+        "the-diplomat-kate-wyler.jpg": "Keri Russell como Kate Wyler, embaixadora dos EUA em The Diplomat.",
+        "01822732_poster_w780-1.jpg": "Pôster do filme A Casa da Dinamite, um thriller político de 2025.",
+        "rebecca-ferguson-on-the-phone-in-house-of-dynamite.jpg": "Rebecca Ferguson em uma cena tensa de A Casa da Dinamite.",
+        "anthony-ramos-leaning-over-a-desk-looking-stressed-in-a-house-of-dynamite.jpg": "Anthony Ramos em A Casa da Dinamite, lidando com a pressão.",
+        "anthony-ramos-in-a-house-of-dynamite.jpg": "Anthony Ramos em uma cena de ação de A Casa da Dinamite.",
+        "idris-elba-as-the-us-president-looking-shocked-while-on-a-satellite-phone-in-a-house-of-dynamite.jpg": "Idris Elba como Presidente dos EUA em A Casa da Dinamite, recebendo notícias chocantes.",
+        "tracy-letts-staring-sternly-ahead-in-a-house-of-dynamite.jpg": "Tracy Letts em um papel sério em A Casa da Dinamite.",
+        "idris-elba-as-potus-looking-down-in-distressed-contemplation-in-a-house-of-dynamite.jpg": "Idris Elba como Presidente em A Casa da Dinamite, em profunda contemplação.",
+        "tracy-letts-in-a-house-of-dynamite.jpg": "Tracy Letts em A Casa da Dinamite.",
+        "kyle-allen-in-a-jet-in-a-house-of-dynamite.jpg": "Kyle Allen em uma cena aérea de A Casa da Dinamite.",
+        "instar52488694-1.jpg": "Idris Elba como POTUS no filme A Casa da Dinamite.",
+        "instar53468019.jpg": "Rebecca Ferguson como Capitã Olivia Walker no filme A Casa da Dinamite."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Filmes como A Casa da Dinamite: 8 Thrillers Políticos para Assisitir",
+        "_yoast_wpseo_metadesc": "Descubra 8 séries de suspense e intriga política que vão te prender, assim como o sucesso A Casa da Dinamite da Netflix. Veja as recomendações!",
+        "_yoast_wpseo_focuskw": "filmes como A Casa da Dinamite",
+        "_yoast_news_keywords": "A Casa da Dinamite, The Americans, Chernobyl, Designated Survivor, Bodyguard, The Night Agent, Jack Ryan, Homeland, The Diplomat, Kathryn Bigelow, Idris Elba, Rebecca Ferguson, Keri Russell, Kiefer Sutherland, Netflix, suspense político, thriller",
+        "_yoast_wpseo_opengraph-title": "Filmes como A Casa da Dinamite: 8 Thrillers Políticos para Assisitir",
+        "_yoast_wpseo_opengraph-description": "Se você gostou de A Casa da Dinamite, confira 8 séries de suspense e intriga política que vão te prender do início ao fim. Veja as recomendações!",
+        "_yoast_wpseo_twitter-title": "Filmes como A Casa da Dinamite: 8 Thrillers Políticos para Assisitir",
+        "_yoast_wpseo_twitter-description": "Descubra 8 séries de suspense e intriga política que vão te prender, assim como o sucesso A Casa da Dinamite da Netflix. Veja as recomendações!"
+      }
+    }
+  ]
+}

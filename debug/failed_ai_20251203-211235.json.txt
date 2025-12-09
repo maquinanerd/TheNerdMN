@@ -1,0 +1,115 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Michael Bay: O filme de ficção científica esquecido que virou hit na Netflix",
+      "conteudo_final": "<p>O filme <em><strong>The Island</strong></em>, de Michael Bay, tornou-se um sucesso na Netflix. Embora Michael Bay seja mais conhecido por seus filmes de ação de grande orçamento como <em>Bad Boys</em> (1995), <em>The Rock</em> (1996), <em>Armageddon</em> (1998), <em>Pearl Harbor</em> (2001) e a franquia <em>Transformers</em> (2007-2017), seu filme de ficção científica de 2005, estrelado por Ewan McGregor e Scarlett Johansson, foi em grande parte esquecido.</p><h2>The Island alcança o Top 10 da Netflix</h2><p>Agora, 20 anos após seu lançamento, <strong><em>The Island</em> ocupa a nona posição</strong> na lista dos 10 filmes mais vistos da Netflix nos Estados Unidos na semana de 24 a 30 de novembro. O filme de ficção científica não é o único filme de Michael Bay na lista esta semana, pois seu thriller de ação <em>Ambulance</em> (2022) também aparece em sexto lugar.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/benedict-cumberbatch-s-dad-looking-shocked-while-sitting-at-his-desk-and-crow-looming-behind-him-in-the-thing-with-feathers.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Ewan McGregor e Scarlett Johansson em cena de The Island\"><figcaption>Ewan McGregor e Scarlett Johansson em cena de The Island.</figcaption></figure><p>Dirigido por Michael Bay, com roteiro de Alex Kurtzman e Roberto Orci (da franquia <em>Transformers</em>), <strong><em>The Island</em> acompanha dois clones</strong> (interpretados por Ewan McGregor e Scarlett Johansson) que escapam de uma instalação de pesquisa após descobrirem seu verdadeiro destino. Eles são perseguidos por um mercenário (interpretado por Djimon Hounsou) enquanto tentam expor o movimento de clonagem ilegal.</p><h2>Elenco de peso em The Island</h2><p>Além de Ewan McGregor (<em>Halston</em>), vencedor do Emmy, e Scarlett Johansson (<em>Marriage Story</em>, <em>Jojo Rabbit</em>), duas vezes indicada ao Oscar, <strong>o elenco estelar de <em>The Island</em></strong> também inclui Djimon Hounsou (<em>Blood Diamond</em>, <em>In America</em>), duas vezes indicado ao Oscar; Sean Bean (<em>Game of Thrones</em>, <em>Lord of the Rings</em>); o indicado ao Oscar Michael Clarke Duncan (<em>The Green Mile</em>); e Steve Buscemi.</p><p>Como muitos filmes de Michael Bay, <strong><em>The Island</em> recebeu críticas mistas</strong> por ser um clone de filmes de ficção científica de "fuga da distopia" das décadas de 1960 e 1970 – como <em>THX 1183</em>, <em>Coma</em> e <em>Logan's Run</em>. O filme acabou sendo mais um espetáculo típico de Michael Bay, onde perseguições e explosões chamativas têm precedência sobre personagens, diálogos ou história significativos.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/the-roses-11-1.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Cena de The Island com Ewan McGregor e Scarlett Johansson\"><figcaption>Cena de The Island com Ewan McGregor e Scarlett Johansson.</figcaption></figure><h2>Desempenho de bilheteria e recepção</h2><p>No entanto, ao contrário de muitos filmes de Michael Bay que foram blockbusters, <strong><em>The Island</em> foi um fracasso nas bilheterias</strong>, arrecadando apenas US$ 162,9 milhões contra seu orçamento de US$ 126 milhões, e tem sido amplamente esquecido desde então.</p><p>Contudo, no início deste ano, <em>ScreenRant</em> considerou <em><strong>The Island</strong></em> o \"<em>filme mais subestimado de Michael Bay</em>\". Embora tenha sido \"<em>seu primeiro grande fracasso, o filme é muito melhor do que sua reputação</em>\".</p>",
+      "meta_description": "O filme de ficção científica 'The Island', de Michael Bay, estrelado por Ewan McGregor e Scarlett Johansson, surpreende ao se tornar um hit na Netflix 20 anos após seu lançamento.",
+      "focus_keyphrase": "The Island Netflix",
+      "related_keyphrases": [
+        "filme Michael Bay Netflix",
+        "Ewan McGregor Scarlett Johansson",
+        "The Island sucesso streaming"
+      ],
+      "slug": "michael-bay-the-island-netflix-hit",
+      "categorias": [
+        {
+          "nome": "The Island",
+          "grupo": "obras",
+          "evidence": "<em><strong>The Island</strong></em> has become a hit on Netflix."
+        },
+        {
+          "nome": "Michael Bay",
+          "grupo": "diretores",
+          "evidence": "Though Michael Bay is best known for his big-budget action movies"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix's Top 10 movies in the United States"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Island",
+        "Michael Bay",
+        "Netflix",
+        "Ewan McGregor",
+        "Scarlett Johansson",
+        "ficção científica"
+      ],
+      "image_alt_texts": {
+        "benedict-cumberbatch-s-dad-looking-shocked-while-sitting-at-his-desk-and-crow-looming-behind-him-in-the-thing-with-feathers.jpg": "Ewan McGregor e Scarlett Johansson em cena de The Island.",
+        "the-roses-11-1.jpg": "Cena de The Island com Ewan McGregor e Scarlett Johansson."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Michael Bay: O filme de ficção científica esquecido que virou hit na Netflix",
+        "_yoast_wpseo_metadesc": "O filme de ficção científica 'The Island', de Michael Bay, estrelado por Ewan McGregor e Scarlett Johansson, surpreende ao se tornar um hit na Netflix 20 anos após seu lançamento.",
+        "_yoast_wpseo_focuskw": "The Island Netflix",
+        "_yoast_news_keywords": "The Island, Michael Bay, Netflix, Ewan McGregor, Scarlett Johansson, ficção científica, streaming",
+        "_yoast_wpseo_opengraph-title": "Michael Bay: O filme de ficção científica esquecido que virou hit na Netflix",
+        "_yoast_wpseo_opengraph-description": "O filme de ficção científica 'The Island', de Michael Bay, estrelado por Ewan McGregor e Scarlett Johansson, surpreende ao se tornar um hit na Netflix 20 anos após seu lançamento.",
+        "_yoast_wpseo_twitter-title": "Michael Bay: O filme de ficção científica esquecido que virou hit na Netflix",
+        "_yoast_wpseo_twitter-description": "O filme de ficção científica 'The Island', de Michael Bay, estrelado por Ewan McGregor e Scarlett Johansson, surpreende ao se tornar um hit na Netflix 20 anos após seu lançamento."
+      }
+    },
+    {
+      "titulo_final": "Benedict Cumberbatch: 3 filmes em 2025 com recepção mista e pouca atenção",
+      "conteudo_final": "<p>Um dos atores mais prolíficos de Hollywood atualmente é Benedict Cumberbatch. Conhecido por interpretar Sherlock Holmes na série da BBC <em>Sherlock</em> e Doutor Estranho no MCU, ele é um dos rostos mais familiares e uma das celebridades mais queridas da indústria hoje. Fãs ainda comentam sobre o <a href=\"https://www.maquinanerd.com.br/tag/sherlock\">potencial retorno de Benedict Cumberbatch a <em>Sherlock</em></a>, quase 9 anos depois.</p><h2>Benedict Cumberbatch: Carreira e Projetos de 2025</h2><p>Os <a href=\"https://www.maquinanerd.com.br/tag/benedict-cumberbatch\">melhores filmes e séries de Benedict Cumberbatch</a> abrangem quase três décadas, e o ator não dá sinais de desaceleração. Ele apareceu em <strong>uma variedade de dramas de prestígio, séries limitadas, filmes independentes, blockbusters e curtas-metragens</strong> nos últimos anos, conquistando aclamação da crítica e apreciação universal de todos, mesmo daqueles que não acompanham de perto sua carreira.</p><p>Todos os <a href=\"https://www.maquinanerd.com.br/tag/filmes-benedict-cumberbatch\">próximos filmes de Benedict Cumberbatch</a> deixam o mundo inteiro animado, pois ele sempre entrega o seu melhor em cada projeto, como o verdadeiro ator que é. E é isso que torna 2025 um ano particularmente intrigante. Este tem sido um de seus anos mais movimentados recentemente e, apesar de seu poder de estrela, nenhum de seus projetos de 2025 recebeu a devida atenção.</p><h2>Três filmes de Benedict Cumberbatch em 2025</h2><p>2025 tem sido um ano emocionante para os fãs de Benedict Cumberbatch, pois o ator, conhecido por ser seletivo com seus papéis e não estrelar muitos projetos ao mesmo tempo, adicionou três filmes à sua filmografia em expansão este ano. Os projetos mostram suas habilidades de tomada de decisão deliberada e sua sinceridade característica, mas <strong>eles receberam respostas decepcionantes de espectadores e críticos</strong>.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/benedict-cumberbatch-s-dad-looking-shocked-while-sitting-at-his-desk-and-crow-looming-behind-him-in-the-thing-with-feathers.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Benedict Cumberbatch em cena de The Thing with Feathers\"><figcaption>Benedict Cumberbatch em cena de The Thing with Feathers.</figcaption></figure><p>No início deste ano, Cumberbatch interpretou um personagem secundário no último filme de Wes Anderson, <em>The Phoenician Scheme</em>. Ele se juntou a um elenco estelar, como é comum nos filmes de Wes Anderson, e entregou uma performance memorável, embora não entre as suas melhores.</p><p>Isso foi seguido pelo que deveria ter sido o maior filme de Benedict Cumberbatch do ano, <em>The Roses</em>. Embora esses dois filmes ainda tenham gerado discussões sobre cinema este ano, seu filme mais recente passou quase despercebido. <strong><em>The Thing with Feathers</em>, de Benedict Cumberbatch</strong>, dividiu os poucos espectadores que o viram, mas como um tratado sobre o luto que lembra <em>The Babadook</em>, definitivamente merece mais atenção. Ele também apresenta sua melhor performance do ano.</p><h2>The Roses: Fracasso de bilheteria</h2><p><em>The Roses</em> é um dos filmes mais subestimados de 2025 e deveria ter recebido ainda mais atenção, considerando que é liderado por Benedict Cumberbatch e Olivia Colman, e conta com Andy Samberg, Kate McKinnon, Allison Janney e Ncuti Gatwa, entre outros atores cômicos emergentes e proeminentes da indústria. Apesar de tal promessa, o filme não teve um bom desempenho nas bilheterias.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/the-roses-11-1.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Benedict Cumberbatch em cena de The Roses\"><figcaption>Benedict Cumberbatch em cena de The Roses.</figcaption></figure><p>O filme acompanha as crescentes tensões no casamento dos personagens de Cumberbatch e Colman, à medida que seu relacionamento se torna mais volátil e violento com o tempo. Como um remake de <em>The War of the Roses</em>, de 1989, <strong>esperava-se que arrecadasse pelo menos o mesmo valor</strong>, senão mais, que o filme original, mas em vez disso ficou aquém consideravelmente.</p><h2>Recepção crítica e chances de premiação</h2><p>Filmes de terror são notoriamente ignorados não apenas pelo Oscar, mas pela maioria das premiações, o que torna improvável que a performance de Cumberbatch em <em>The Thing with Feathers</em> lhe traga algum sucesso em premiações. É igualmente provável que <em>The Phoenician Scheme</em>, que se espera ser <strong>um concorrente pela cinematografia</strong>, o coloque na disputa por prêmios nesta temporada.</p><p>Infelizmente, até mesmo <em>The Roses</em> parece ter um desempenho fraco entre os críticos, com apenas 64% de aprovação no Rotten Tomatoes. Não está entre os <a href=\"https://www.maquinanerd.com.br/tag/melhores-filmes\">melhores filmes sobre casais em conflito</a>, e as chances de Cumberbatch ser indicado a um prêmio são baixas, considerando que <em>Marty Supreme</em>, <em>One Battle After Another</em>, <em>Bugonia</em>, <em>Sinners</em> e <em>The Smashing Machine</em> são fortes concorrentes.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/benedict-cumberbatch-posing-on-a-red-carpet.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Benedict Cumberbatch em um tapete vermelho\"><figcaption>Benedict Cumberbatch em um tapete vermelho.</figcaption></figure><h2>O futuro de Benedict Cumberbatch</h2><p><em>The Phoenician Scheme</em> foi amplamente criticado por ter um enredo superficial, mas <strong>o estilo de Wes Anderson coloca o significado real de seus filmes</strong> nos componentes visuais e estéticos. Da mesma forma, <em>The Thing with Feathers</em> está sendo ignorado e merece mais reconhecimento. Sua exploração do luto usando elementos de terror não é única, mas é tornada especialmente impactante pela performance angustiante de Cumberbatch.</p><p>Quanto a <em>The Roses</em>, é um dos filmes mais engraçados do ano. Não deve ser descartado por priorizar o espetáculo em detrimento da emoção. Apesar de criar cenas exageradas e perturbadoras, <strong>o fio emocional do filme é surpreendentemente consistente</strong>, carregado pelo melhor de Olivia Colman e Benedict Cumberbatch. Se as críticas o dissuadiram, peço que reconsidere e assista.</p><p>Mesmo que seu movimentado ano de 2025 tenha passado consideravelmente despercebido, Benedict Cumberbatch deve ganhar manchetes em breve, pois está pronto para reprisar seu papel mais famoso. Embora <strong><a href=\"https://www.maquinanerd.com.br/tag/doutor-estranho\">Doutor Estranho não apareça em <em>Avengers: Doomsday</em></a></strong> do MCU, ele deve desempenhar um papel importante na sequência, <em>Avengers: Secret Wars</em>, e Benedict Cumberbatch deve começar a filmar em breve.</p><p>O filme <em>Rogue Male</em> de Benedict Cumberbatch, baseado <strong>no romance que inspirou James Bond</strong>, também recebeu uma atualização positiva e, embora as datas ainda não tenham sido anunciadas, este é mais um projeto de Cumberbatch para os fãs aguardarem. Portanto, embora 2025 possa permanecer seu ano mais prolífico por enquanto, ele tem uma série de filmes e séries programados.</p>",
+      "meta_description": "Benedict Cumberbatch teve um 2025 agitado com três filmes, mas a recepção mista e a falta de atenção geral levantam questões sobre seu impacto.",
+      "focus_keyphrase": "Benedict Cumberbatch 2025 filmes",
+      "related_keyphrases": [
+        "filmes Benedict Cumberbatch",
+        "Benedict Cumberbatch The Roses",
+        "Benedict Cumberbatch The Thing with Feathers"
+      ],
+      "slug": "benedict-cumberbatch-filmes-2025-recepcao",
+      "categorias": [
+        {
+          "nome": "Benedict Cumberbatch",
+          "grupo": "atores",
+          "evidence": "One of the most prolific actors in Hollywood currently is Benedict Cumberbatch."
+        },
+        {
+          "nome": "The Phoenician Scheme",
+          "grupo": "obras",
+          "evidence": "Wes Anderson's latest movie, <em>The Phoenician Scheme</em>."
+        },
+        {
+          "nome": "The Roses",
+          "grupo": "obras",
+          "evidence": "This was followed by what should have been the biggest Benedict Cumberbatch film of the year, <em>The Roses</em>."
+        },
+        {
+          "nome": "The Thing with Feathers",
+          "grupo": "obras",
+          "evidence": "Benedict Cumberbatch's <em>The Thing with Feathers</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Benedict Cumberbatch",
+        "The Phoenician Scheme",
+        "The Roses",
+        "The Thing with Feathers",
+        "Wes Anderson",
+        "Doutor Estranho",
+        "MCU"
+      ],
+      "image_alt_texts": {
+        "benedict-cumberbatch-s-dad-looking-shocked-while-sitting-at-his-desk-and-crow-looming-behind-him-in-the-thing-with-feathers.jpg": "Benedict Cumberbatch em cena de The Thing with Feathers.",
+        "the-roses-11-1.jpg": "Benedict Cumberbatch em cena de The Roses.",
+        "benedict-cumberbatch-posing-on-a-red-carpet.jpg": "Benedict Cumberbatch em um tapete vermelho.",
+        "benedict-cumberbatch-s-dad-looking-upward-and-shocked-in-a-grocery-store-in-the-thing-with-feathers.jpg": "Benedict Cumberbatch em uma cena de supermercado em The Thing with Feathers.",
+        "benedict-cumberbatch-looking-off-to-the-side-in-doctor-strange-in-the-multiverse-of-madness.jpg": "Benedict Cumberbatch como Doutor Estranho."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Benedict Cumberbatch: 3 filmes em 2025 com recepção mista e pouca atenção",
+        "_yoast_wpseo_metadesc": "Benedict Cumberbatch teve um 2025 agitado com três filmes, mas a recepção mista e a falta de atenção geral levantam questões sobre seu impacto.",
+        "_yoast_wpseo_focuskw": "Benedict Cumberbatch 2025 filmes",
+        "_yoast_news_keywords": "Benedict Cumberbatch, The Phoenician Scheme, The Roses, The Thing with Feathers, Wes Anderson, Doutor Estranho, MCU, filmes 2025",
+        "_yoast_wpseo_opengraph-title": "Benedict Cumberbatch: 3 filmes em 2025 com recepção mista e pouca atenção",
+        "_yoast_wpseo_opengraph-description": "Benedict Cumberbatch teve um 2025 agitado com três filmes, mas a recepção mista e a falta de atenção geral levantam questões sobre seu impacto.",
+        "_yoast_wpseo_twitter-title": "Benedict Cumberbatch: 3 filmes em 2025 com recepção mista e pouca atenção",
+        "_yoast_wpseo_twitter-description": "Benedict Cumberbatch teve um 2025 agitado com três filmes, mas a recepção mista e a falta de atenção geral levantam questões sobre seu impacto."
+      }
+    }
+  ]
+}

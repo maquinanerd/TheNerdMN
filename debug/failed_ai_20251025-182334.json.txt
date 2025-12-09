@@ -1,0 +1,153 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Locke: Suspense psicológico com Tom Hardy chega ao streaming gratuito",
+      "conteudo_final": "<p>O filme de suspense psicológico de 2013, <b>Locke</b>, estrelado por Tom Hardy, estará disponível para streaming gratuito no Tubi a partir de 1º de novembro. Dirigido por Steven Knight, conhecido por <b>Peaky Blinders</b>, o longa acompanha Ivan Locke (Hardy) em uma intensa jornada noturna.</p><h2>A Trama de Locke</h2><p>Na véspera do dia mais importante de sua carreira, Ivan Locke descobre que Bethan (Olivia Colman), com quem teve um caso, está a caminho do hospital para dar à luz. Ao dirigir em direção a ela, Locke recebe inúmeras ligações de pessoas próximas, incluindo sua esposa (Ruth Wilson) e colegas de trabalho (Andrew Scott, Ben Daniels). Durante a viagem de duas horas, sua vida muda drasticamente, mas ele se esforça para não repetir os erros do passado.</p><p>O filme é impulsionado pela atuação de Hardy e pelo roteiro envolvente de Knight. <b>Locke</b> recebeu aclamação da crítica, com 91% de aprovação no Rotten Tomatoes, e teve um desempenho modesto nas bilheterias, arrecadando mais de US$ 5 milhões mundialmente com um orçamento de US$ 2 milhões.</p><h2>Parceria Knight e Hardy</h2><p>A colaboração entre Steven Knight e Tom Hardy rendeu frutos em outros projetos. Após <b>Locke</b>, eles trabalharam juntos em <b>Peaky Blinders</b>, onde Hardy interpretou Alfie Solomons. Mais tarde, a parceria se estendeu à série <b>Taboo</b>, criada por ambos, e à adaptação de <b>Great Expectations</b>, com Olivia Colman.</p><p>Para assistir ao início desta parceria cinematográfica, <b>Locke</b> estará disponível no Tubi a partir de 1º de novembro.</p>",
+      "meta_description": "Descubra Locke, o suspense psicológico de Tom Hardy e Steven Knight, que chega ao streaming gratuito no Tubi em novembro. Saiba mais sobre a trama e a parceria.",
+      "focus_keyphrase": "Locke filme Tom Hardy",
+      "related_keyphrases": [
+        "suspense psicológico",
+        "Tom Hardy Steven Knight",
+        "Locke streaming gratuito"
+      ],
+      "slug": "locke-suspense-tom-hardy-streaming",
+      "categorias": [
+        {
+          "nome": "Locke",
+          "grupo": "obras",
+          "evidence": "Locke"
+        },
+        {
+          "nome": "Tom Hardy",
+          "grupo": "atores",
+          "evidence": "Tom Hardy"
+        },
+        {
+          "nome": "Steven Knight",
+          "grupo": "diretores",
+          "evidence": "Steven Knight"
+        }
+      ],
+      "tags_sugeridas": [
+        "locke",
+        "tom hardy",
+        "steven knight",
+        "suspense psicológico",
+        "tubi",
+        "peaky blinders"
+      ],
+      "image_alt_texts": {
+        "01232587_poster_w780.jpg": "Poster do filme Locke com Tom Hardy dirigindo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Locke: Suspense Psicológico com Tom Hardy no Streaming Gratuito",
+        "_yoast_wpseo_metadesc": "Descubra Locke, o suspense psicológico de Tom Hardy e Steven Knight, que chega ao streaming gratuito no Tubi em novembro. Saiba mais sobre a trama e a parceria.",
+        "_yoast_wpseo_focuskw": "Locke filme Tom Hardy",
+        "_yoast_news_keywords": "Locke, Tom Hardy, Steven Knight, suspense psicológico, Tubi, Peaky Blinders, Olivia Colman, filme",
+        "_yoast_wpseo_opengraph-title": "Locke: Suspense Psicológico com Tom Hardy no Streaming Gratuito",
+        "_yoast_wpseo_opengraph-description": "Descubra Locke, o suspense psicológico de Tom Hardy e Steven Knight, que chega ao streaming gratuito no Tubi em novembro. Saiba mais sobre a trama e a parceria.",
+        "_yoast_wpseo_twitter-title": "Locke: Suspense Psicológico com Tom Hardy no Streaming Gratuito",
+        "_yoast_wpseo_twitter-description": "Descubra Locke, o suspense psicológico de Tom Hardy e Steven Knight, que chega ao streaming gratuito no Tubi em novembro. Saiba mais sobre a trama e a parceria."
+      }
+    },
+    {
+      "titulo_final": "Rocky IV: Versão do Diretor de Sylvester Stallone retorna aos cinemas",
+      "conteudo_final": "<p>A versão do diretor de <b>Rocky IV</b>, de Sylvester Stallone, que revisita o clássico de 1985, retornará aos cinemas em novembro de 2025. Anteriormente exibida por uma única noite em 2021, a edição aprimorada terá novas exibições nos dias 5 e 9 de novembro.</p><h2>As Mudanças em Rocky IV: Director's Cut</h2><p>O corte do diretor de <b>Rocky IV</b> apresenta modificações significativas em relação à versão original. Stallone, que também dirigiu o filme, removeu a presença de robôs e diminuiu as cenas de Brigitte Nielsen, além de alterar a música de encerramento, substituindo "Heart's on Fire" por "Eye of the Tiger". Essas mudanças buscam aprofundar a narrativa e o desenvolvimento dos personagens, especialmente Ivan Drago (Dolph Lundgren), e refinar a mensagem sobre o fim da Guerra Fria.</p><p>Originalmente lançado em 1985, <b>Rocky IV</b> colocou o boxeador italiano contra o brutal soviético Ivan Drago. A versão de 2021, lançada em cinemas e posteriormente digitalmente, focou em aprimorar a experiência cinematográfica, removendo elementos considerados destoantes, como o robô de Paulie (Burt Young), que foi uma adição pessoal de Stallone inspirada no trabalho com seu filho.</p><h2>Impacto e Recepção</h2><p>A reedição de <b>Rocky IV</b> busca oferecer uma nova perspectiva sobre o combate icônico da Guerra Fria. As alterações, como a redução do foco na esposa de Drago e a modificação do final para refletir uma atmosfera mais realista em relação ao regime soviético, visam tornar o filme mais coeso e impactante.</p><p>Os fãs terão uma nova oportunidade de ver a versão aprimorada de <b>Rocky IV</b> nos cinemas nos dias 5 e 9 de novembro, graças à Fathom Entertainment.</p>",
+      "meta_description": "Reviva Rocky IV com a versão do diretor de Sylvester Stallone, que retorna aos cinemas em novembro. Conheça as mudanças na edição aprimorada do clássico.",
+      "focus_keyphrase": "Rocky IV versão diretor",
+      "related_keyphrases": [
+        "Sylvester Stallone",
+        "Rocky IV Director's Cut",
+        "Ivan Drago"
+      ],
+      "slug": "rocky-iv-versao-diretor-cinema",
+      "categorias": [
+        {
+          "nome": "Rocky IV",
+          "grupo": "obras",
+          "evidence": "Rocky IV"
+        },
+        {
+          "nome": "Sylvester Stallone",
+          "grupo": "atores",
+          "evidence": "Sylvester Stallone"
+        },
+        {
+          "nome": "Dolph Lundgren",
+          "grupo": "atores",
+          "evidence": "Dolph Lundgren"
+        }
+      ],
+      "tags_sugeridas": [
+        "rocky iv",
+        "sylvester stallone",
+        "versao do diretor",
+        "dolph lundgren",
+        "ivan drago",
+        "cinema",
+        "fathom entertainment"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Rocky IV: Versão do Diretor de Sylvester Stallone Retorna aos Cinemas",
+        "_yoast_wpseo_metadesc": "Reviva Rocky IV com a versão do diretor de Sylvester Stallone, que retorna aos cinemas em novembro. Conheça as mudanças na edição aprimorada do clássico.",
+        "_yoast_wpseo_focuskw": "Rocky IV versão diretor",
+        "_yoast_news_keywords": "Rocky IV, Sylvester Stallone, Versão do Diretor, Dolph Lundgren, Ivan Drago, Cinema, Fathom Entertainment",
+        "_yoast_wpseo_opengraph-title": "Rocky IV: Versão do Diretor de Sylvester Stallone Retorna aos Cinemas",
+        "_yoast_wpseo_opengraph-description": "Reviva Rocky IV com a versão do diretor de Sylvester Stallone, que retorna aos cinemas em novembro. Conheça as mudanças na edição aprimorada do clássico.",
+        "_yoast_wpseo_twitter-title": "Rocky IV: Versão do Diretor de Sylvester Stallone Retorna aos Cinemas",
+        "_yoast_wpseo_twitter-description": "Reviva Rocky IV com a versão do diretor de Sylvester Stallone, que retorna aos cinemas em novembro. Conheça as mudanças na edição aprimorada do clássico."
+      }
+    },
+    {
+      "titulo_final": "Mason Thames: Ator em ascensão com 'Regretting You' em 2025",
+      "conteudo_final": "<p>O ano de 2025 tem sido notável para <b>Mason Thames</b>, com o jovem ator estrelando em quatro filmes, incluindo o recém-lançado <b>Regretting You</b>. Sua crescente filmografia indica um potencial sólido para se tornar uma nova estrela de Hollywood.</p><h2>Diversidade de Papéis em 2025</h2><p>Após seu aclamado papel em <b>The Black Phone</b> (2021), Mason Thames consolidou sua carreira com uma série de projetos diversos. Em 2025, ele demonstra sua versatilidade em <b>Black Phone 2</b>, reprisando seu papel como Finny, e no live-action de <b>How to Train Your Dragon</b>, onde interpreta uma versão emocionante de Soluço. O filme <b>New Years Rev</b> destaca seu timing cômico, e <b>Regretting You</b> explora seu potencial como um protagonista romântico.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/mason-thames-regretting-you-1.jpg?q=49&amp;fit=contain&amp;w=750&amp;h=422&amp;dpr=2\" alt=\"Mason Thames em cena do filme Regretting You.\"><figcaption>Mason Thames em cena de 'Regretting You', mostrando seu potencial romântico.</figcaption></figure><h2>O Futuro de Mason Thames</h2><p>A química entre Thames e McKenna Grace em <b>Regretting You</b> é um dos pontos altos, sublinhando a capacidade do ator de transitar entre gêneros. Seus próximos projetos incluem a continuação de <b>How to Train Your Dragon 2</b>, que promete expandir a escala épica da franquia, e <b>The Shitheads</b>, uma comédia com Peter Dinklage e Kiernan Shipka, que deve ser seu maior show de comédia até o momento.</p><p>Com performances convincentes em dramas, comédias e fantasia, Mason Thames está traçando um caminho promissor em Hollywood. Sua habilidade em criar personagens com profundidade emocional e adaptabilidade a diferentes gêneros o posiciona como uma das novas grandes promessas da indústria cinematográfica.</p>",
+      "meta_description": "Mason Thames brilha em 2025 com 'Regretting You' e outros filmes. Descubra o talento versátil do jovem ator que pode ser a próxima estrela de Hollywood.",
+      "focus_keyphrase": "Mason Thames Regretting You",
+      "related_keyphrases": [
+        "Mason Thames ator",
+        "próxima estrela de Hollywood",
+        "Regretting You filme"
+      ],
+      "slug": "mason-thames-regretting-you-estrela",
+      "categorias": [
+        {
+          "nome": "Regretting You",
+          "grupo": "obras",
+          "evidence": "Regretting You"
+        },
+        {
+          "nome": "Mason Thames",
+          "grupo": "atores",
+          "evidence": "Mason Thames"
+        },
+        {
+          "nome": "The Black Phone",
+          "grupo": "obras",
+          "evidence": "The Black Phone"
+        }
+      ],
+      "tags_sugeridas": [
+        "mason thames",
+        "regretting you",
+        "the black phone",
+        "how to train your dragon",
+        "cinema 2025",
+        "atores jovens"
+      ],
+      "image_alt_texts": {
+        "mason-thames-regretting-you-1.jpg": "Mason Thames em cena do filme Regretting You, mostrando seu potencial romântico."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Mason Thames: Ator em Ascensão com 'Regretting You' e Filme de Dragão",
+        "_yoast_wpseo_metadesc": "Mason Thames brilha em 2025 com 'Regretting You' e outros filmes. Descubra o talento versátil do jovem ator que pode ser a próxima estrela de Hollywood.",
+        "_yoast_wpseo_focuskw": "Mason Thames Regretting You",
+        "_yoast_news_keywords": "Mason Thames, Regretting You, The Black Phone, How to Train Your Dragon, Cinema 2025, Atores Jovens",
+        "_yoast_wpseo_opengraph-title": "Mason Thames: Ator em Ascensão com 'Regretting You' e Filme de Dragão",
+        "_yoast_wpseo_opengraph-description": "Mason Thames brilha em 2025 com 'Regretting You' e outros filmes. Descubra o talento versátil do jovem ator que pode ser a próxima estrela de Hollywood.",
+        "_yoast_wpseo_twitter-title": "Mason Thames: Ator em Ascensão com 'Regretting You' e Filme de Dragão",
+        "_yoast_wpseo_twitter-description": "Mason Thames brilha em 2025 com 'Regretting You' e outros filmes. Descubra o talento versátil do jovem ator que pode ser a próxima estrela de Hollywood."
+      }
+    }
+  ]
+}

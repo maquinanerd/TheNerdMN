@@ -1,0 +1,105 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "O Monstro de Florença: Novo suspense que lembra Zodiac chega à Netflix",
+      "conteudo_final": "<p>Quase duas décadas após seu lançamento, <b>Zodiac</b>, de David Fincher, continua sendo um dos melhores suspenses sombrios já feitos. Baseado nos livros de Robert Graysmith, o filme estrelado por Jake Gyllenhaal documenta a investigação real sobre o Assassino do Zodíaco, cativando audiências até hoje. Séries como Mindhunter e Memórias de um Assassino provaram ser ótimas opções para quem busca emoções semelhantes, e um novo título está prestes a se juntar à lista. Em 22 de outubro, um drama de caso arquivado em quatro partes será lançado na <a href=\"https://www.maquinanerd.com.br/tag/netflix\">Netflix</a>, e pode ser a substituição perfeita para fãs de Zodiac.</p>\n<h2>Netflix: O Monstro de Florença é perfeito para fãs de Zodiac</h2>\n<p>O título em questão é <b>O Monstro de Florença</b>, um novo drama de true crime que chega à <a href=\"https://www.maquinanerd.com.br/tag/netflix\">Netflix</a> nesta semana. Criada pelo escritor e diretor Stefano Sollima e pelo escritor Leonardo Fasoli, a série foca na investigação de décadas do \"Monstro de Florença\", o primeiro serial killer da Itália. Ao longo de 17 anos de terror, entre 1968 e 1985, o assassino desconhecido matou oito casais com uma pistola Beretta calibre .22 nas colinas da Toscana, resultando em uma das investigações italianas mais intrigantes e confusas. Marco Bullitta, Valentino Mannias, Francesca Olia, Liliana Bottone, Giacomo Fadda, Antonio Tintis e Giordano Mannu estrelam.</p>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Battlestar-Galactica-33.jpg?w=300\" alt=\"Novo drama criminal italiano O Monstro de Florença\"><figcaption>O Monstro de Florença investiga o primeiro serial killer da Itália.</figcaption></figure>\n<h2>Conexões entre O Monstro de Florença e Zodiac</h2>\n<p>Fãs que buscam algo para assistir após reverem Zodiac pela enésima vez devem adicionar O Monstro de Florença às suas listas na Netflix. Embora os dois títulos se passem em oceanos de distância, eles compartilham semelhanças notáveis. Ambas as histórias são baseadas em casos não resolvidos por décadas, e o caso do Monstro de Florença é frequentemente comparado ao do Assassino do Zodíaco americano. Tanto Zodiac quanto O Monstro de Florença centram-se na busca frustrante e consumidora por um serial killer elusivo, com a série de quatro partes da Netflix explorando os diferentes suspeitos e teorias em torno do crime. As duas histórias também buscam, e segundo críticas, conseguem reconstruir a atmosfera de paranoia e suspeita que permeou a Itália e a América enquanto os crimes permaneciam sem solução.</p>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Star-Cops.jpg?w=300\" alt=\"Detalhes sobre a investigação do Monstro de Florença\"><figcaption>A série explora as teorias e suspeitos do caso.</figcaption></figure>\n<h2>Críticas e Recepção da Nova Série</h2>\n<p>A série O Monstro de Florença, da Netflix, ainda não possui uma pontuação no Rotten Tomatoes, mas Tobias Jones, em seu artigo para The Guardian, escreveu: “É isso que a história do Monstro pode fazer com as pessoas. Promotores públicos, jornalistas, cineastas e bêbados se tornam obcecados. Mas à medida que empilhamos nomes, fatos e conexões distantes, a história escorrega do gênero true crime para uma fábula sobre a evasividade da verdade.”</p>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/comicbook.com-images3.png?w=300\" alt=\"Comparativo entre Zodiac e O Monstro de Florença\"><figcaption>Ambos os casos criminais inspiraram produções focadas na busca pela verdade.</figcaption></figure>\n<h2>Mais Lançamentos em Outubro na Netflix</h2>\n<p>Muitas novidades interessantes chegaram à biblioteca de streaming da Netflix ao longo de outubro. Assinantes que procuram mais histórias envolventes de true crime devem assistir a <b>The Perfect Neighbor</b>, um poderoso documentário sobre o tiroteio fatal de Ajike Owens e a lei Stand Your Ground da Flórida. A terceira parte da série Monster da Netflix, focada em Ed Gein, também já está disponível. Outras adições imperdíveis de outubro incluem The Diplomat 3ª temporada, The Martian e a próxima segunda temporada de Nobody Wants This, que retorna em 23 de outubro.</p>\n<p>O Monstro de Florença começa a ser transmitido na Netflix em 22 de outubro. Zodiac está disponível para streaming no Paramount+ e MGM+, além de VOD.</p>",
+      "meta_description": "O Monstro de Florença, novo drama true crime da Netflix, é comparado a Zodiac e investiga o icônico serial killer italiano. Saiba mais!",
+      "focus_keyphrase": "O Monstro de Florença",
+      "related_keyphrases": [
+        "Zodiac Netflix",
+        "série true crime",
+        "serial killer italiano"
+      ],
+      "slug": "o-monstro-de-florenca-netflix-zodiac",
+      "categorias": [
+        {
+          "nome": "O Monstro de Florença",
+          "grupo": "obras",
+          "evidence": "O título em questão é The Monster of Florence"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "streaming on Netflix this week"
+        },
+        {
+          "nome": "Zodiac",
+          "grupo": "obras",
+          "evidence": "David Fincher’s Zodiac remains one of the best dark thrillers ever"
+        }
+      ],
+      "tags_sugeridas": [
+        "O Monstro de Florença",
+        "Netflix",
+        "Zodiac",
+        "True Crime",
+        "Suspense"
+      ],
+      "image_alt_texts": {
+        "Battlestar-Galactica-33.jpg?w=300": "Novo drama criminal italiano O Monstro de Florença",
+        "Star-Cops.jpg?w=300": "Detalhes sobre a investigação do Monstro de Florença",
+        "comicbook.com-images3.png?w=300": "Comparativo entre Zodiac e O Monstro de Florença"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "O Monstro de Florença: Novo suspense que lembra Zodiac chega à Netflix",
+        "_yoast_wpseo_metadesc": "O Monstro de Florença, novo drama true crime da Netflix, é comparado a Zodiac e investiga o icônico serial killer italiano. Saiba mais!",
+        "_yoast_wpseo_focuskw": "O Monstro de Florença",
+        "_yoast_news_keywords": "O Monstro de Florença, Netflix, Zodiac, True Crime, Suspense",
+        "_yoast_wpseo_opengraph-title": "O Monstro de Florença: Novo suspense que lembra Zodiac chega à Netflix",
+        "_yoast_wpseo_opengraph-description": "O Monstro de Florença, novo drama true crime da Netflix, é comparado a Zodiac e investiga o icônico serial killer italiano. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "O Monstro de Florença: Novo suspense que lembra Zodiac chega à Netflix",
+        "_yoast_wpseo_twitter-description": "O Monstro de Florença, novo drama true crime da Netflix, é comparado a Zodiac e investiga o icônico serial killer italiano. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Ryan Coogler revitaliza The X-Files com reboot promissor para fãs",
+      "conteudo_final": "<p>O cineasta <b>Ryan Coogler</b> provou mais uma vez que não só pode entregar histórias originais icônicas em Hollywood, mas também tem a perspectiva certa para trazer adaptações queridas para o mundo. Mesmo antes de dar ao mundo o icônico filme <b>Pantera Negra</b> e conquistar um espaço no Universo Cinematográfico Marvel, Coogler revitalizou com sucesso a série <b>Rocky</b> com seu spin-off <b>Creed</b>. Ambas as franquias receberam um grande impulso criativo e agora Coogler está pronto para fazer o mesmo com uma amada série de ficção científica que precisa desesperadamente disso.</p>\n<h2>Reboot de The X-Files por Ryan Coogler é feito pensando nos fãs</h2>\n<p>Há sete anos, <b>The X-Files</b> encerrou sua décima primeira temporada, entregando um episódio que serviu como a história final da série por algum tempo. Este episódio reescreveu grandes partes da mitologia do programa, matou personagens favoritos dos fãs e promoveu uma mudança bastante desrespeitosa na personagem de Scully. Foi a nota final para a série por um tempo, e deixou um gosto amargo na boca de muitos fãs. A boa notícia é que Coogler, um dos melhores \"sussurradores de franquias\" de Hollywood, está assumindo o comando da série, e sua conexão pessoal com o programa pode garantir que ele esteja à altura de seus outros reboots.</p>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/x-files-season-11.jpg?w=1024\" alt=\"Reboot de The X-Files com Ryan Coogler\"><figcaption>The X-Files busca um novo fôlego com a direção de Ryan Coogler.</figcaption></figure>\n<h2>Coogler fala sobre o processo criativo do reboot de The X-Files</h2>\n<p>Em entrevista à Variety sobre o projeto, que teve mais de um rumor surgindo desde que Coogler se associou a ele há mais de um ano, o diretor de Sinners revelou o que o fez assinar o projeto, e isso deve empolgar os fãs. \"Assim como meu relacionamento com 'Rocky' com meu pai, 'The X-Files' é uma daquelas coisas com minha mãe\", revelou Coogler. \"Minha mãe significa o mundo para mim – ela está aqui esta noite – então isso é algo grande para mim. Quero fazer justiça a ela e aos fãs. Minha mãe leu algumas coisas que escrevi para isso. Ela está animada.\"</p>\n<p>O que podemos extrair disso é que Coogler tem uma clara reverência por The X-Files. Dada a clara adoração que ele tinha por Rocky, visível em Creed, parece ser a maneira de Coogler garantir aos fãs de X-Files que tudo ficará bem com a série no final. Será difícil para alguns voltarem a assistir The X-Files depois que a 11ª temporada terminou com um de seus episódios mais divisivos, mas Coogler parece preparado para ter descoberto uma maneira de retornar que satisfará os fãs de longa data. Assumindo que a resposta da Mama Coogler ao novo material se alinhe com a dos outros fãs, The X-Files pode estar em seu melhor momento desde meados dos anos 90.</p>\n<h2>O futuro de The X-Files: Elenco e envolvimento de Chris Carter</h2>\n<p>Dito tudo isso, há grandes questões sobre a nova série de The X-Files que ainda não foram reveladas de forma alguma, nomeadamente, David Duchovny e Gillian Anderson reprisarão seus papéis de Mulder e Scully? A última indicou que conversou com Coogler sobre a série, então a esperança permanece, mas o próprio elenco é um ponto de interrogação. Coogler deu mais uma provocação para a série, reagindo aos rumores de que Danielle Deadwyler será a protagonista, observando que ele poderia \"nem confirmar nem negar\" tal desenvolvimento. Mais uma coisa que os fãs devem ter em mente, especialmente se ainda se sentirem magoados com o renascimento do programa, é que o criador da série, Chris Carter, deu sua bênção para o reboot da série (e confirmou que ele não está envolvido em nenhuma capacidade).</p>",
+      "meta_description": "Ryan Coogler, criador de Pantera Negra e Creed, prepara reboot de The X-Files. O diretor promete honrar a série original e agradar os fãs.",
+      "focus_keyphrase": "Reboot de The X-Files",
+      "related_keyphrases": [
+        "Ryan Coogler The X-Files",
+        "futuro de The X-Files",
+        "The X-Files nova temporada"
+      ],
+      "slug": "ryan-coogler-reboot-x-files",
+      "categorias": [
+        {
+          "nome": "The X-Files",
+          "grupo": "franquias",
+          "evidence": "The X-Files wrapped up its eleventh season"
+        },
+        {
+          "nome": "Ryan Coogler",
+          "grupo": "pessoas",
+          "evidence": "Filmmaker Ryan Coogler has proven multiple times now"
+        },
+        {
+          "nome": "Pantera Negra",
+          "grupo": "obras",
+          "evidence": "iconic Black Panther feature film"
+        }
+      ],
+      "tags_sugeridas": [
+        "The X-Files",
+        "Ryan Coogler",
+        "Reboot",
+        "Sci-Fi",
+        "Ficção Científica",
+        "Mulder e Scully"
+      ],
+      "image_alt_texts": {
+        "x-files-season-11.jpg?w=1024": "Reboot de The X-Files com Ryan Coogler"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ryan Coogler revitaliza The X-Files com reboot promissor para fãs",
+        "_yoast_wpseo_metadesc": "Ryan Coogler, criador de Pantera Negra e Creed, prepara reboot de The X-Files. O diretor promete honrar a série original e agradar os fãs.",
+        "_yoast_wpseo_focuskw": "Reboot de The X-Files",
+        "_yoast_news_keywords": "The X-Files, Ryan Coogler, Reboot, Sci-Fi, Ficção Científica, Mulder e Scully, Pantera Negra, Creed",
+        "_yoast_wpseo_opengraph-title": "Ryan Coogler revitaliza The X-Files com reboot promissor para fãs",
+        "_yoast_wpseo_opengraph-description": "Ryan Coogler, criador de Pantera Negra e Creed, prepara reboot de The X-Files. O diretor promete honrar a série original e agradar os fãs.",
+        "_yoast_wpseo_twitter-title": "Ryan Coogler revitaliza The X-Files com reboot promissor para fãs",
+        "_yoast_wpseo_twitter-description": "Ryan Coogler, criador de Pantera Negra e Creed, prepara reboot de The X-Files. O diretor promete honrar a série original e agradar os fãs."
+      }
+    }
+  ]
+}

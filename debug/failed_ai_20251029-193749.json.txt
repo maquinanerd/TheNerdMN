@@ -1,0 +1,59 @@
+{
+  "titulo_final": "10 Filmes Vencedores do Oscar Disponíveis Gratuitamente para Streaming",
+  "conteudo_final": "<p>Com o aumento dos custos de streaming, muitos filmes vencedores do Oscar podem ser assistidos sem custo. O Oscar é um selo de qualidade cinematográfica, e muitos clássicos, mesmo que às vezes esquecidos, ganham nova vida com os serviços de streaming. Felizmente, existem plataformas gratuitas que oferecem filmes de alta qualidade com a exibição de anúncios.</p><h2>O Poderoso Chefão (1972) - Pluto TV</h2><p>Considerado um dos melhores filmes de todos os tempos, <strong><em>O Poderoso Chefão</em> é uma obra obrigatória</strong> para qualquer fã de cinema. A obra-prima de Francis Ford Coppola narra as intrigas da família criminosa Corleone, com foco em Michael, que é gradualmente envolvido nos negócios. Um marco em desenvolvimento de personagem, atuação e estrutura narrativa, o filme é quase impecável.</p><p>O filme está disponível gratuitamente na Pluto TV. <em>O Poderoso Chefão</em> <strong>venceu o Oscar de Melhor Filme</strong> e foi indicado em outras sete categorias em 1973, levando para casa três estatuetas. Sua sequência teve ainda mais sucesso, mas o terceiro filme da trilogia é frequentemente esquecido.</p><h2>No Calor das Noites (1967) - Tubi</h2><p>Lançado em um período de grande efervescência social nos Estados Unidos, <strong><em>No Calor das Noites</em> é um importante clássico de Hollywood</strong>. A trama acompanha um policial negro da Filadélfia que, relutantemente, auxilia um xerife local em uma pequena cidade do Mississippi. Além de sua crítica social sobre raça, o filme é um suspense bem construído.</p><p>Sidney Poitier brilhou na tela como Tibbs, mas não foi indicado ao Oscar. No entanto, <strong>o filme conquistou cinco de suas sete indicações</strong>, incluindo Melhor Filme. Atualmente, o longa está disponível gratuitamente no Tubi e é uma excelente forma de revisitar este sucesso de bilheteria. Várias sequências foram produzidas, mas nenhuma alcançou o impacto cultural do original.</p><h2>Filadélfia (1993) - The Roku Channel</h2><p>Após anos estrelando comédias, <em>Filadélfia</em> foi o filme que <strong>estabeleceu Tom Hanks como um ator dramático de peso</strong>. Ele interpreta um homem gay demitido por ser portador do HIV, que contrata um advogado renomado para processar seu antigo empregador. <strong>O filme aborda a crise da AIDS de frente</strong>, mas também apresenta um drama de personagem envolvente.</p><p>Hanks ganhou o Oscar de Melhor Ator, e o filme foi indicado em outras quatro categorias. Está disponível no The Roku Channel e é <strong>uma obra imperdível para fãs de dramas impactantes e de Tom Hanks</strong>. Apesar de ter sido um dos primeiros filmes a tratar do tema, <em>Filadélfia</em> mantém sua relevância após 30 anos, uma atemporalidade rara.</p><h2>O Labirinto do Fauno (2006) - Tubi</h2><p>O visualmente deslumbrante filme de Guillermo del Toro, <em>O Labirinto do Fauno</em>, continua sendo sua maior conquista cinematográfica e uma introdução perfeita à sua filmografia. Na Espanha da Segunda Guerra Mundial, uma jovem garota escapa para um mundo de fantasia tão sombrio quanto a realidade que a cerca. <strong>Uma fábula moderna, cada quadro de <em>O Labirinto do Fauno</em> é imaginativo e estranho</strong>.</p><p>Os monstros de <em>O Labirinto do Fauno</em> roubam a cena, e a narrativa visual do filme é seu ponto forte. Ganhou três Oscars, incluindo Melhor Fotografia, e é <strong>geralmente considerado um dos melhores filmes de fantasia do século XXI</strong>. O inesquecível filme está disponível gratuitamente no Tubi, e nenhuma interrupção publicitária pode ofuscar seu brilho.</p><h2>Ex Machina: Instinto Artificial (2014) - Tubi</h2><p>Com a chegada de seu décimo aniversário, <strong><em>Ex Machina: Instinto Artificial</em> tornou-se ainda mais premonitório a cada ano</strong>. Um programador é convidado à casa de um recluso guru da tecnologia, que lhe apresenta um robô com vontade própria. O desafiador filme de ficção científica de Alex Garland examina a noção de humanidade e tecnologia sem excesso de efeitos visuais.</p><p><em>Ex Machina</em> levou para casa o Oscar de Melhores Efeitos Visuais. Teve um início modesto, mas hoje é considerado uma das verdadeiras <strong>joias da década de 2010</strong>. O Tubi exibe o filme gratuitamente, e <strong>vale a pena conferir para quem se interessa por ficção científica mais profunda</strong>. À medida que o filme envelhece, suas ideias podem se provar ainda mais proféticas.</p><h2>Feitiço da Lua (1987) - The Roku Channel</h2><p>Cher é uma das artistas mais bem-sucedidas na transição de cantora para atriz, e <strong><em>Feitiço da Lua</em> a apresenta em seu auge</strong>. Uma viúva está prestes a aceitar uma proposta de casamento de seu namorado, mas se vê apaixonada pelo irmão dele. Cher e Nicolas Cage formam um dueto romântico atemporal, e <em>Feitiço da Lua</em> é uma comédia romântica mágica.</p><p>O filme dirigido por Norman Jewison recebeu seis indicações ao Oscar, vencendo três. Cher ganhou o Oscar de Melhor Atriz, consolidando seu status como atriz de verdade. O maravilhoso filme está disponível no The Roku Channel, sendo uma aula de cinema e <strong>um clássico atemporal que pode ser revisto inúmeras vezes</strong>.</p><h2>Platoon: Invasão Implacável (1986) - The Roku Channel</h2><p>O primeiro filme da <a href=\"https:
+  "meta_description": "Descubra 10 filmes aclamados pelo Oscar que você pode assistir gratuitamente em plataformas de streaming como Pluto TV e Tubi. Clássicos imperdíveis!",
+  "focus_keyphrase": "Filmes Vencedores do Oscar Gratuitos",
+  "related_keyphrases": [
+    "Oscar filmes streaming grátis",
+    "Melhores filmes Oscar online",
+    "Onde assistir filmes premiados de graça"
+  ],
+  "slug": "filmes-oscar-streaming-gratis",
+  "categorias": [
+    {
+      "nome": "O Poderoso Chefão",
+      "grupo": "obras",
+      "evidence": "The Godfather (1972)"
+    },
+    {
+      "nome": "No Calor das Noites",
+      "grupo": "obras",
+      "evidence": "In The Heat Of The Night (1967)"
+    },
+    {
+      "nome": "Filadélfia",
+      "grupo": "obras",
+      "evidence": "Philadelphia (1993)"
+    }
+  ],
+  "tags_sugeridas": [
+    "Oscar",
+    "Pluto TV",
+    "Tubi",
+    "The Roku Channel",
+    "Filmes Clássicos",
+    "Streaming Gratuito"
+  ],
+  "image_alt_texts": {
+    "the-godfather-1972.jpg": "Cena de O Poderoso Chefão com Don Corleone e um conselheiro.",
+    "in-the-heat-of-the-night-1967.jpg": "Sidney Poitier e Rod Stieger sentados em um banco em No Calor das Noites.",
+    "philadelphia-1993-1.jpg": "Joe Miller (Denzel Washington) e Andrew Beckett (Tom Hanks) em tribunal em Filadélfia.",
+    "pans-labyrinth-pale-man.jpg": "O Homem Pálido segura suas mãos com olhos nas palmas em O Labirinto do Fauno.",
+    "ex-machina-faces.jpg": "Alicia Vikander olha por cima do ombro em Ex Machina: Instinto Artificial.",
+    "moonstruck.jpg": "Cher e Nicolas Cage em trajes de gala em Feitiço da Lua.",
+    "platoon-sheen.jpg": "Charlie Sheen em pé com uma arma, coberto de sangue e terra em Platoon: Invasão Implacável.",
+    "good-will-hunting-office.jpg": "Matt Damon e Robin Williams conversam em um escritório bagunçado em Gênio Indomável.",
+    "whiplash-drums.jpg": "Miles Teller atrás de uma bateria, conversando com J.K. Simmons em Whiplash: Em Busca da Perfeição.",
+    "apocalypse-now-kurtz.jpg": "Kurtz olha através das grades de uma jaula de bambu em Apocalypse Now."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "10 Filmes Vencedores do Oscar Disponíveis Gratuitamente para Streaming",
+    "_yoast_wpseo_metadesc": "Descubra 10 filmes aclamados pelo Oscar que você pode assistir gratuitamente em plataformas de streaming como Pluto TV e Tubi. Clássicos imperdíveis!",
+    "_yoast_wpseo_focuskw": "Filmes Vencedores do Oscar Gratuitos",
+    "_yoast_news_keywords": "Oscar, Pluto TV, Tubi, The Roku Channel, Filmes Clássicos, Streaming Gratuito, O Poderoso Chefão, No Calor das Noites, Filadélfia, O Labirinto do Fauno, Ex Machina, Feitiço da Lua, Platoon, Gênio Indomável, Whiplash, Apocalypse Now",
+    "_yoast_wpseo_opengraph-title": "10 Filmes Vencedores do Oscar Disponíveis Gratuitamente para Streaming",
+    "_yoast_wpseo_opengraph-description": "Descubra 10 filmes aclamados pelo Oscar que você pode assistir gratuitamente em plataformas de streaming como Pluto TV e Tubi. Clássicos imperdíveis!",
+    "_yoast_wpseo_twitter-title": "10 Filmes Vencedores do Oscar Disponíveis Gratuitamente para Streaming",
+    "_yoast_wpseo_twitter-description": "Descubra 10 filmes aclamados pelo Oscar que você pode assistir gratuitamente em plataformas de streaming como Pluto TV e Tubi. Clássicos imperdíveis!"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Irmãos Duffer confirmam: Stranger Things 5 é o fim definitivo da história",
+      "conteudo_final": "<p>Os criadores Matt e Ross Duffer confirmam que a 5ª temporada de <b>Stranger Things</b> será o encerramento definitivo para a história dos personagens principais e de Hawkins. A série, que estreou na Netflix em 2016, prepara-se para sua última aventura.</p><h2>O Fim da Jornada em Hawkins</h2><p>Em entrevista à <i>SFX Magazine</i>, os irmãos Duffer declararam que a temporada final proporcionará um desfecho para os personagens e tramas, sem planos para continuar a história principal. Ross Duffer explicou: \"Esta é realmente o fim da história de Eleven, Mike, Lucas, Dustin, Steve e todos esses personagens, e de Hawkins especificamente. Não queremos fazer algo daqui a 20 anos onde um monte de personagens digam: 'Ah, melhor trazermos Mike de volta, ele sabia como lidar com isso!' Isso não nos interessa.\"</p><p>Ele acrescentou: \"Queremos muito que este seja o fim desta história, desta jornada para esses personagens. Estamos sendo muito cuidadosos para garantir que nada do que estamos fazendo vá prejudicar isso.\"</p><h2>Novos Projetos e Possibilidades</h2><p>Matt Duffer brincou sobre a possibilidade de revisitar personagens no futuro caso suas carreiras "flanem", mas logo esclareceu que a 5ª temporada encerrará o arco principal. \"O livro está fechado, e o final não seria muito impactante se o deixássemos entreaberto para alguma sequência\", afirmou.</p><p>Embora a saga principal termine, o universo de <b>Stranger Things</b> continuará. Uma série animada, intitulada <i>Tales from '85</i>, está prevista para o próximo ano e se passará entre a 2ª e a 3ª temporada, mas sem a participação do elenco original nas vozes. Outro spin-off em live-action também está em desenvolvimento, com uma abordagem mais antológica, segundo os criadores.</p><h2>Expectativas para a Temporada Final</h2><p>O final da 4ª temporada de <b>Stranger Things</b> preparou o palco para um confronto climático entre os personagens centrais e Vecna. Os trailers da temporada final prometem uma experiência emocional e repleta de ação, com a possibilidade de despedidas de personagens queridos.</p><p>O encerramento definitivo com a 5ª temporada também se alinha com as ambições dos criadores, que assinaram um acordo exclusivo com a Paramount para desenvolver filmes e séries. A decisão de finalizar a história em Hawkins demonstra um desejo de concluir a narrativa de forma impactante e coesa.</p>",
+      "meta_description": "Os criadores de Stranger Things, os irmãos Duffer, confirmam que a 5ª temporada será o fim definitivo da história dos personagens e de Hawkins, mas novos spin-offs estão a caminho.",
+      "focus_keyphrase": "Stranger Things 5 fim definitivo",
+      "related_keyphrases": [
+        "Stranger Things temporada final",
+        "Irmãos Duffer Stranger Things",
+        "Fim da história Stranger Things"
+      ],
+      "slug": "stranger-things-5-fim-definitivo",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "franquias",
+          "evidence": "Stranger Things"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "Stranger Things",
+        "Irmãos Duffer",
+        "Netflix",
+        "Vecna",
+        "Hawkins"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Stranger Things 5: Criadores confirmam fim definitivo da história",
+        "_yoast_wpseo_metadesc": "Os criadores de Stranger Things, os irmãos Duffer, confirmam que a 5ª temporada será o fim definitivo da história dos personagens e de Hawkins, mas novos spin-offs estão a caminho.",
+        "_yoast_wpseo_focuskw": "Stranger Things 5 fim definitivo",
+        "_yoast_news_keywords": "Stranger Things, Irmãos Duffer, Netflix, Vecna, Hawkins, Temporada 5",
+        "_yoast_wpseo_opengraph-title": "Stranger Things 5: Criadores confirmam fim definitivo da história",
+        "_yoast_wpseo_opengraph-description": "Os criadores de Stranger Things, os irmãos Duffer, confirmam que a 5ª temporada será o fim definitivo da história dos personagens e de Hawkins, mas novos spin-offs estão a caminho.",
+        "_yoast_wpseo_twitter-title": "Stranger Things 5: Criadores confirmam fim definitivo da história",
+        "_yoast_wpseo_twitter-description": "Os criadores de Stranger Things, os irmãos Duffer, confirmam que a 5ª temporada será o fim definitivo da história dos personagens e de Hawkins, mas novos spin-offs estão a caminho."
+      }
+    },
+    {
+      "titulo_final": "The Magicians: Série de fantasia com 91% no Rotten Tomatoes é ideal para fãs de Harry Potter",
+      "conteudo_final": "<p>Fãs de <b>Harry Potter</b> que buscam um mundo de magia encontram em <em>The Magicians</em> uma opção ideal. A série de fantasia sombria ostenta uma impressionante nota de 91% no Rotten Tomatoes e oferece uma alternativa madura para quem se afastou da franquia original.</p><h2>The Magicians: Uma Alternativa Adulta a Harry Potter</h2><p>A série da SyFy, <em>The Magicians</em>, apresenta elementos que agradam aos antigos fãs de <b>Harry Potter</b>. A trama acompanha um grupo de jovens com habilidades mágicas convidados a estudar na Brakebills, uma universidade de magia. Assim como Harry Potter, o protagonista Quentin Coldwater descobre a existência do mundo mágico apenas ao receber o convite.</p><p>Brakebills funciona como um equivalente a Hogwarts para adultos, onde os estudantes vivem isolados do mundo exterior, imersos em mistérios e segredos que impulsionam a narrativa. A série é descrita como uma fusão sombria de <em>Harry Potter</em> e <em>As Crônicas de Nárnia</em>, explorando um mundo mágico ameaçado por um tirano.</p><p>As semelhanças se estendem aos personagens. Assim como Voldemort, o vilão da série, conhecido como The Beast, busca dominar o mundo mágico. Quentin, o líder na luta contra o vilão, depende do apoio de seus colegas de Brakebills – Eliot, Margo, Alice, Penny, Kady e Julia – de forma similar a como Harry Potter contava com Ron, Hermione e outros amigos.</p><p>No entanto, <em>The Magicians</em> diverge de <em>Harry Potter</em> em pontos cruciais. A série não é voltada para o público infantil, abordando temas adultos como sexo, drogas, abuso e violência sexual. Além disso, a produção se destaca pela forte representatividade LGBTQ+.</p><h2>Inclusão LGBTQ+ em The Magicians</h2><p><em>The Magicians</em> é uma das séries de fantasia mais abertamente queer. Metade dos personagens principais são LGBTQ+, e muitos personagens secundários também fazem parte da comunidade. A série também escalou atrizes trans para papéis importantes, cujas histórias não se limitam a transição ou transfobia, oferecendo uma abordagem refrescante.</p><p>A atriz trans Candis Cayne interpreta a poderosa e carismática Fada Rainha. A série também reforça a importância da família encontrada, um tema central em <em>Harry Potter</em>. Os personagens de <em>The Magicians</em>, muitos com famílias de origem disfuncionais, encontram apoio e amor em sua \"família\" de Brakebills e entre os bruxos.</p>",
+      "meta_description": "Descubra The Magicians, série de fantasia com 91% no Rotten Tomatoes, que oferece uma alternativa adulta e inclusiva para fãs de Harry Potter.",
+      "focus_keyphrase": "The Magicians fãs Harry Potter",
+      "related_keyphrases": [
+        "Série de fantasia LGBTQ+",
+        "The Magicians Brakebills",
+        "Alternativa a Harry Potter"
+      ],
+      "slug": "the-magicians-alternativa-harry-potter",
+      "categorias": [
+        {
+          "nome": "The Magicians",
+          "grupo": "obras",
+          "evidence": "The Magicians"
+        },
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "Harry Potter"
+        },
+        {
+          "nome": "Fantasia",
+          "grupo": "editorias",
+          "evidence": "fantasia"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Magicians",
+        "Harry Potter",
+        "Série de Fantasia",
+        "LGBTQ+",
+        "Rotten Tomatoes"
+      ],
+      "image_alt_texts": {
+        "julia-margo-eliot-quentin-alice-and-penny-in-the-magicians-season-1-from-left-to-right.jpg": "Elenco principal de The Magicians em cena da primeira temporada.",
+        "the-fairy-queen-the-magicians.jpg": "A Fada Rainha, personagem interpretada por Candis Cayne em The Magicians."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Magicians: Série de fantasia ideal para fãs de Harry Potter",
+        "_yoast_wpseo_metadesc": "Descubra The Magicians, série de fantasia com 91% no Rotten Tomatoes, que oferece uma alternativa adulta e inclusiva para fãs de Harry Potter.",
+        "_yoast_wpseo_focuskw": "The Magicians fãs Harry Potter",
+        "_yoast_news_keywords": "The Magicians, Harry Potter, Série de Fantasia, LGBTQ+, Rotten Tomatoes, Brakebills",
+        "_yoast_wpseo_opengraph-title": "The Magicians: Série de fantasia ideal para fãs de Harry Potter",
+        "_yoast_wpseo_opengraph-description": "Descubra The Magicians, série de fantasia com 91% no Rotten Tomatoes, que oferece uma alternativa adulta e inclusiva para fãs de Harry Potter.",
+        "_yoast_wpseo_twitter-title": "The Magicians: Série de fantasia ideal para fãs de Harry Potter",
+        "_yoast_wpseo_twitter-description": "Descubra The Magicians, série de fantasia com 91% no Rotten Tomatoes, que oferece uma alternativa adulta e inclusiva para fãs de Harry Potter."
+      }
+    }
+  ]
+}

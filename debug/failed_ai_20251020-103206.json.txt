@@ -1,0 +1,101 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Tracker: Showrunner explica reviravolta chocante com Jensen Ackles na 3ª temporada",
+      "conteudo_final": "<p>O showrunner de <b>Tracker</b>, Elwood Reid, detalhou a surpreendente reviravolta do episódio de estreia da terceira temporada, estrelado por Jensen Ackles, e o que isso significa para o futuro de Russell e Colter. A nova fase da série acompanha o reencontro de Russell (Ackles) com seu irmão Colter (Justin Hartley), que finalmente revela a verdade por trás da morte do pai, um segredo guardado pela mãe, Mary Dove (Wendy Crewson).</p><p>A segunda temporada de <b>Tracker</b> terminou com a revelação de que Otto Waldron (lanter) assassinou Ashton (Lee Tergesen) acidentalmente durante uma discussão, após Mary ter pedido ajuda para entender o comportamento paranoico do marido. Já o terceiro ano começa com Colter abrindo o jogo para Russell, o que leva à reconciliação dos irmãos após anos de ressentimento.</p><h2>A Trama Familiar e o Segredo da Mãe</h2><p>Em entrevista a um portal especializado, Reid aprofundou a questão do retorno de Ackles e a reação de Russell ao descobrir a verdade sobre seu pai. O showrunner indicou que o foco da terceira temporada será em "resolver esse veneno" que assola a família Shaw desde a morte de Ashton. Ele explicou como isso impacta a dinâmica entre Colter e Russell:</p><blockquote>Eu acho que a resposta curta é não [Russell e Mary não se falavam o tempo todo], não realmente. Talvez um \"Ei, estou no Canadá\", mas nada mais profundo. Russell tem uma compreensão diferente do que aconteceu naquela família antes da morte de Ashton, e isso vem à tona na conversa deles. Ele era o irmão mais velho, o protetor, e viu coisas que Colter não viu. Mas sua mãe também mentiu para ele. Esta temporada é sobre resolver esse veneno — as mentiras que infectaram toda a família, especialmente o relacionamento deles com Mary. Eventualmente teremos uma cena com a Mãe que dará mais contexto, mas no momento, ambos os irmãos ainda estão tentando descobrir o quanto da história dela eles podem realmente acreditar.</blockquote><p>Reid também comentou sobre a culpa de Russell e seu instinto protetor:</p><blockquote>Sim, absolutamente. Ele pensou que estava protegendo seu irmão e seguiu a mentira fácil que Mary ofereceu, mas agora ele viu o estrago que isso causou em Colter. Russell provavelmente passou anos desejando que Colter seguisse em frente, mas ele sabe que isso não vai acontecer. Colter está preso, e o instinto de Russell — mais uma vez — é intervir e ajudar.</blockquote><p>O showrunner finalizou descrevendo a relação complexa entre os irmãos:</p><blockquote>Eles são ambos machos alfa que falam em volta dos seus sentimentos, mas há culpa real ali para Russell. Ele é o tipo de cara que coloca o passado no passado e segue em frente. Colter não pode fazer isso, e essa dinâmica é o que torna as cenas deles tão interessantes.</blockquote>",
+      "meta_description": "O showrunner de Tracker, Elwood Reid, detalha a reviravolta chocante do episódio de estreia da 3ª temporada envolvendo Jensen Ackles e o futuro dos irmãos Shaw.",
+      "focus_keyphrase": "Tracker 3ª temporada Jensen Ackles",
+      "related_keyphrases": [
+        "Tracker Russell Shaw",
+        "Jensen Ackles Tracker",
+        "Reviravolta Tracker"
+      ],
+      "slug": "tracker-temporada-3-jensen-ackles-reviravolta",
+      "categorias": [
+        {
+          "nome": "Tracker",
+          "grupo": "obras",
+          "evidence": "Tracker showrunner Elwood Reid has explained season 3's shocking Jensen Ackles premiere twist"
+        },
+        {
+          "nome": "Jensen Ackles",
+          "grupo": "elenco",
+          "evidence": "Jensen Ackles premiere twist"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tracker",
+        "Jensen Ackles",
+        "Elwood Reid",
+        "Justin Hartley",
+        "TV Series"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tracker: Showrunner explica reviravolta com Jensen Ackles na 3ª temporada",
+        "_yoast_wpseo_metadesc": "O showrunner de Tracker, Elwood Reid, detalha a reviravolta chocante do episódio de estreia da 3ª temporada envolvendo Jensen Ackles e o futuro dos irmãos Shaw.",
+        "_yoast_wpseo_focuskw": "Tracker 3ª temporada Jensen Ackles",
+        "_yoast_news_keywords": "Tracker, Jensen Ackles, Elwood Reid, Justin Hartley, Reviravolta, TV Series",
+        "_yoast_wpseo_opengraph-title": "Tracker: Showrunner explica reviravolta com Jensen Ackles na 3ª temporada",
+        "_yoast_wpseo_opengraph-description": "O showrunner de Tracker, Elwood Reid, detalha a reviravolta chocante do episódio de estreia da 3ª temporada envolvendo Jensen Ackles e o futuro dos irmãos Shaw.",
+        "_yoast_wpseo_twitter-title": "Tracker: Showrunner explica reviravolta com Jensen Ackles na 3ª temporada",
+        "_yoast_wpseo_twitter-description": "O showrunner de Tracker, Elwood Reid, detalha a reviravolta chocante do episódio de estreia da 3ª temporada envolvendo Jensen Ackles e o futuro dos irmãos Shaw."
+      }
+    },
+    {
+      "titulo_final": "Duna 3: Timothée Chalamet dá primeira prévia da continuação de Duna: Parte Dois",
+      "conteudo_final": "<p>A década de 2020 tem se mostrado um período promissor para o gênero de ficção científica no cinema, com lançamentos que variam entre conceitos originais e grandes franquias, como <em>Tenet</em>, <em>Tudo em Todo o Lugar ao Mesmo Tempo</em> e <em>Avatar: O Caminho da Água</em>. O gênero de ficção científica continua a provar seu valor, e a franquia <b>Duna</b> se destaca como um dos maiores exemplos recentes, com dois filmes aclamados e um terceiro a caminho.</p><p><b>Duna: Parte Dois</b> foi aclamado como uma obra-prima, com Denis Villeneuve entregando uma sequência que superou o primeiro filme em qualidade e bilheteria, arrecadando US$ 715 milhões mundialmente, contra os US$ 411 milhões do original. Um terceiro filme, intitulado <b>Duna: A Mensagem</b>, está previsto para 2026. Recentemente, a estrela Timothée Chalamet deu uma prévia do que esperar com uma imagem dos bastidores compartilhada em seus Stories do Instagram.</p><h2>Primeiras Imagens de Duna 3</h2><p>A imagem mostra Chalamet, que interpreta Paul Atreides, contemplando o pôr do sol em um cenário desértico, com a legenda \"DUN3 LOADING\". Acredita-se que esta seja uma prévia do set de filmagens do novo filme em Abu Dhabi, com as gravações ocorrendo em locações na Liwa Oasis, que servirá como o planeta Arrakis. A produção do filme começou em Budapeste em julho, antes de se mudar para os Emirados Árabes Unidos. A postagem do ator sugere que mais imagens oficiais podem ser divulgadas em breve, agora que uma parte significativa das filmagens deve ter sido concluída.</p><h2>2026: Um Ano Promissor para a Ficção Científica</h2><p><b>Duna 3</b> é um dos filmes de ficção científica mais aguardados, mas também enfrenta desafios. Alcançar o nível magistral de <em>Parte Dois</em> será uma tarefa difícil, e a adaptação do livro <b>Duna: A Mensagem</b> de Frank Herbert é uma perspectiva intimidadora, pois a história é mais complexa e diferente da apresentada nos dois primeiros filmes. No entanto, com Villeneuve de volta à direção e a maioria do elenco retornando, além de novas adições como Robert Pattinson, há poucas razões para duvidar que esta será mais uma entrada excepcional para o gênero. E não será a única novidade em 2026.</p><p>O ano de 2026 promete ser um marco para os fãs de ficção científica com diversos lançamentos notáveis. Em 20 de março, chega <em>Project Hail Mary</em>, estrelado por Ryan Gosling e baseado em um livro de Andy Weir. O trailer impressionou, e considerando que a adaptação anterior de Weir nos deu um dos melhores filmes de ficção científica da década de 2010 com <em>Perdido em Marte</em>, há motivos para otimismo.</p><p>Uma semana depois, o lendário diretor Ridley Scott (<em>Alien</em>, <em>Blade Runner</em>), responsável por <em>Perdido em Marte</em>, retorna ao gênero com <em>The Dog Stars</em>, um filme pós-apocalíptico ambientado após um vírus dizimar a humanidade, estrelado por Jacob Elordi.</p><p>Outro ícone da ficção científica retorna ao gênero em 2026: Steven Spielberg. O diretor de <em>Contatos Imediatos do Terceiro Grau</em> e <em>E.T. - O Extraterrestre</em> volta às suas origens com um projeto de OVNI ainda sem título, previsto para ser empolgante e capturar a magia clássica de Spielberg. O filme tem uma data de lançamento privilegiada para o verão, agendado para 12 de junho.</p><p>Grandes franquias também terão lançamentos próximos ao gênero, incluindo <em>The Mandalorian and Grogu</em> (22 de maio), <em>Supergirl</em> (26 de julho) e <em>Avengers: Doomsday</em> (18 de dezembro – o mesmo dia de <b>Duna: Parte Três</b>). Mesmo com todas essas opções, <b>Duna 3</b> desponta como um forte candidato a destaque do ano, com muito pelo que esperar. Espera-se que novidades sobre o retorno a Arrakis e os demais projetos sejam divulgadas em breve.</p><p><b>Duna: Parte Três</b> tem estreia prevista para 18 de dezembro de 2026. Os dois primeiros filmes de Duna estão disponíveis em streaming na HBO Max.</p>",
+      "meta_description": "Timothée Chalamet compartilhou uma imagem dos bastidores de Duna 3, confirmando o início da produção e antecipando o retorno à Arrakis em 2026.",
+      "focus_keyphrase": "Duna 3",
+      "related_keyphrases": [
+        "Duna: Parte Dois",
+        "Timothée Chalamet",
+        "Denis Villeneuve"
+      ],
+      "slug": "duna-3-timothee-chalamet-previa",
+      "categorias": [
+        {
+          "nome": "Duna",
+          "grupo": "franquias",
+          "evidence": "the Dune franchise, which is responsible for two of the very greatest Sci-Fi movies in recent years, with a third film on the way."
+        },
+        {
+          "nome": "Duna: Parte Dois",
+          "grupo": "obras",
+          "evidence": "Dune: Part Two was a true masterpiece"
+        },
+        {
+          "nome": "Duna: A Mensagem",
+          "grupo": "obras",
+          "evidence": "adapting Frank Herbert’s book, Dune: Messiah"
+        }
+      ],
+      "tags_sugeridas": [
+        "Duna 3",
+        "Duna: Parte Dois",
+        "Timothée Chalamet",
+        "Denis Villeneuve",
+        "Ficção Científica",
+        "Arrakis"
+      ],
+      "image_alt_texts": {
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Um console Nintendo Switch em destaque.",
+        "Dune-Part-Two.jpg": "Timothée Chalamet como Paul Atreides em uma cena de Duna: Parte Dois.",
+        "Escape-from-New-York.jpg": "Um pôster do filme Fuga de Nova York.",
+        "Black-rain-to-live-and-die-in-LA.jpg": "Pôster do filme Black Rain.",
+        "p-s-5-p-r-o.png": "Imagem do console PlayStation 5 Pro.",
+        "p-s-5_aed69f.png": "Imagem do console PlayStation 5."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Duna 3: Timothée Chalamet dá prévia da continuação de Duna: Parte Dois",
+        "_yoast_wpseo_metadesc": "Timothée Chalamet compartilhou uma imagem dos bastidores de Duna 3, confirmando o início da produção e antecipando o retorno à Arrakis em 2026.",
+        "_yoast_wpseo_focuskw": "Duna 3",
+        "_yoast_news_keywords": "Duna, Duna 3, Duna: Parte Dois, Timothée Chalamet, Denis Villeneuve, Ficção Científica, Arrakis",
+        "_yoast_wpseo_opengraph-title": "Duna 3: Timothée Chalamet dá prévia da continuação de Duna: Parte Dois",
+        "_yoast_wpseo_opengraph-description": "Timothée Chalamet compartilhou uma imagem dos bastidores de Duna 3, confirmando o início da produção e antecipando o retorno à Arrakis em 2026.",
+        "_yoast_wpseo_twitter-title": "Duna 3: Timothée Chalamet dá prévia da continuação de Duna: Parte Dois",
+        "_yoast_wpseo_twitter-description": "Timothée Chalamet compartilhou uma imagem dos bastidores de Duna 3, confirmando o início da produção e antecipando o retorno à Arrakis em 2026."
+      }
+    }
+  ]
+}

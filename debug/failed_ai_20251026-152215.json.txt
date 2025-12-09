@@ -1,0 +1,45 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Mortal Kombat II tem estreia antecipada para maio de 2026",
+      "conteudo_final": "<p>Os fãs de <b>Mortal Kombat</b> foram pegos de surpresa com uma boa notícia sobre a sequência, que está em desenvolvimento há mais de quatro anos. Em vez de chegar às telonas em 15 de maio, <b>Mortal Kombat II</b> antecipou sua estreia para 8 de maio de 2026. A nova data coloca o filme para estrear no fim de semana do Dia das Mães, uma escolha que pode atrair famílias para o cinema.</p><p>Originalmente, a data de lançamento de <b>Mortal Kombat II</b> estava marcada para 24 de outubro de 2025. Contudo, a data foi adiada por vários meses, com o lançamento agora previsto para 2026. Com essa nova janela, o público não precisará escolher entre assistir aos artistas marciais lutando contra o poder de Shao Kahn e outros lançamentos.</p><h2>O que esperar de ‘Mortal Kombat II’</h2><p>Além da introdução do popular personagem Johnny Cage, interpretado por <b>Karl Urban</b>, o filme trará de volta favoritos dos videogames. No elenco estão <b>Adeline Rudolph</b> como Kitana, Josh Lawson como Kano, <b>Ludi Lin</b> como Liu Kang, Jessica McNamee como Sonya Blade, Hiroyuki Sanada como Scorpion, Joe Taslim como Noob Saibot, Lewis Tan como Cole Young, <b>Tati Gabrielle</b> como Jade, e Mechad Brooks como Jax.</p><p>O produtor Todd Garner explicou anteriormente a premissa para a aguardada sequência:</p><blockquote><p>“Nas décadas de história de Mortal Kombat, a relação entre Scorpion e Bi-Han, o Sub-Zero original, se desenrolou como uma história de violência, traição e vingança. Scorpion, do clã Shirai Ryu, é assombrado pelos trágicos assassinatos de sua família pelas mãos de Bi-Han. Após sua própria morte, o espírito de Scorpion se transforma em um espectro implacável, consumido por uma sede insaciável de vingança. Enquanto Scorpion persegue implacavelmente Bi-Han, seus destinos entrelaçados tornam sua rivalidade uma das histórias mais cativantes de toda a franquia Mortal Kombat.”</p></blockquote><p>Fique ligado para mais novidades sobre <b>Mortal Kombat II</b>.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/08/mortal-kombat-2-poster.jpeg\" alt=\"Poster do filme Mortal Kombat II com os personagens principais.\"><figcaption>Poster promocional do filme.</figcaption></figure>",
+      "meta_description": "Mortal Kombat II tem sua data de estreia antecipada para maio de 2026, oferecendo uma nova janela para o aguardado filme da franquia.",
+      "focus_keyphrase": "Mortal Kombat II",
+      "related_keyphrases": [
+        "Mortal Kombat 2 data de lançamento",
+        "Sub-sequência de Mortal Kombat",
+        "Filme de artes marciais 2026"
+      ],
+      "slug": "mortal-kombat-ii-estreia-maio-2026",
+      "categorias": [
+        {
+          "nome": "Mortal Kombat",
+          "grupo": "franquias",
+          "evidence": "Mortal Kombat fans"
+        }
+      ],
+      "tags_sugeridas": [
+        "Mortal Kombat",
+        "Mortal Kombat II",
+        "Karl Urban",
+        "Simon McQuoid",
+        "Todd Garner",
+        "Arts Marciais",
+        "Cinema"
+      ],
+      "image_alt_texts": {
+        "mortal-kombat-2-poster.jpeg": "Poster do filme Mortal Kombat II com os personagens principais."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Mortal Kombat II: Estreia Antecipada para Maio de 2026 | Terra Omelete",
+        "_yoast_wpseo_metadesc": "Mortal Kombat II tem sua data de estreia antecipada para maio de 2026, oferecendo uma nova janela para o aguardado filme da franquia.",
+        "_yoast_wpseo_focuskw": "Mortal Kombat II",
+        "_yoast_news_keywords": "Mortal Kombat II, Mortal Kombat, Karl Urban, Simon McQuoid, Todd Garner, cinema, artes marciais",
+        "_yoast_wpseo_opengraph-title": "Mortal Kombat II: Estreia Antecipada para Maio de 2026",
+        "_yoast_wpseo_opengraph-description": "Mortal Kombat II tem sua data de estreia antecipada para maio de 2026.",
+        "_yoast_wpseo_twitter-title": "Mortal Kombat II: Estreia Antecipada para Maio de 2026",
+        "_yoast_wpseo_twitter-description": "Mortal Kombat II tem sua data de estreia antecipada para maio de 2026."
+      }
+    }
+  ]
+}

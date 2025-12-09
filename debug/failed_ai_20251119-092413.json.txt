@@ -1,0 +1,41 @@
+{
+  "titulo_final": "Battlefield 6: Desfibriladores Quebram Após Nova Atualização",
+  "conteudo_final": "<p>A mais recente atualização de <b>Battlefield 6</b>, chamada California Resistance, introduziu problemas inesperados, com os desfibriladores apresentando mau funcionamento. Relatos indicam que médicos tentam reanimar jogadores por várias cargas de desfibrilador antes de recorrer à reanimação manual, sugerindo que o problema é generalizado.</p><h2>Problemas na Atualização California Resistance</h2><p>O designer principal de jogos de <b>Battlefield 6</b>, Florian (Drunkkz23), confirmou em sua conta no X.com que a equipe está ciente dos problemas e trabalhando em correções. Além dos desfibriladores, outros bugs menores foram identificados após a implementação da atualização.</p><p>A principal dificuldade relatada é a incapacidade de reanimar aliados de forma eficaz com os desfibriladores. Parece que a atualização afetou as hitboxes dos desfibriladores, tornando-os inconsistentes. Para obter uma reanimação consistente, é necessário estar posicionado diretamente sobre o aliado caído ou agachado sobre ele.</p><p>Outros problemas incluem o reset de todas as configurações do jogo e atalhos de teclado, exigindo que os jogadores reconfigurem seus controles. Essa falha já havia ocorrido em atualizações anteriores de <b>Battlefield 2042</b>.</p><p>O modo Campo de Tiro também está com problemas, onde os bonecos de alvo não reaparecem após serem atingidos. A visualização e o retorno ao campo de visão fazem com que eles reapareçam.</p><p>Alguns jogadores notaram um aumento no <i>texture pop-in</i>, especialmente no novo mapa Eastwood, embora isso possa variar dependendo do hardware e das configurações gráficas.</p><p>Adicionalmente, há relatos de "fantasmas" de RPGs. A classe de Engenheiro agora recebe RPGs extras para combater veículos inimigos, mas a atualização parece ter quebrado o registro de acertos do RPG, fazendo com que os projéteis desapareçam ao atingir tanques. Há evidências em vídeo deste problema em discussões online.</p><p>Por fim, o novo modo Sabotagem também apresenta falhas, com a maioria das partidas terminando na metade do jogo, impedindo a conclusão da segunda rodada. Isso torna desafiador completar os desafios do Passe de Batalha para este modo.</p>",
+  "meta_description": "Battlefield 6 enfrenta problemas após a atualização California Resistance, com desfibriladores quebrados e outros bugs afetando a jogabilidade. Saiba mais.",
+  "focus_keyphrase": "Battlefield 6 desfibriladores quebrados",
+  "related_keyphrases": [
+    "Battlefield 6 atualização",
+    "bugs Battlefield 6",
+    "problemas Battlefield 6"
+  ],
+  "slug": "battlefield-6-desfibriladores-quebrados-atualizacao",
+  "categorias": [
+    {
+      "nome": "Battlefield 6",
+      "grupo": "franquias",
+      "evidence": "Battlefield 6's new update"
+    }
+  ],
+  "tags_sugeridas": [
+    "Battlefield 6",
+    "EA",
+    "FPS",
+    "jogos de tiro",
+    "bugs",
+    "atualização de jogo"
+  ],
+  "image_alt_texts": {
+    "ss_a42a2caf3cb993befd5ef4eb9424934034538582.jpg": "Tela do jogo Battlefield 6 mostrando ação em mapa.",
+    "battlefield-6-tag-page-cover-art.jpg": "Arte conceitual do jogo Battlefield 6 com foco em veículos e combate."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Battlefield 6: Desfibriladores Quebram Após Nova Atualização",
+    "_yoast_wpseo_metadesc": "Battlefield 6 enfrenta problemas após a atualização California Resistance, com desfibriladores quebrados e outros bugs afetando a jogabilidade. Saiba mais.",
+    "_yoast_wpseo_focuskw": "Battlefield 6 desfibriladores quebrados",
+    "_yoast_news_keywords": "Battlefield 6, EA, FPS, bugs, atualização de jogo, California Resistance",
+    "_yoast_wpseo_opengraph-title": "Battlefield 6: Desfibriladores Quebram Após Nova Atualização",
+    "_yoast_wpseo_opengraph-description": "A atualização California Resistance para Battlefield 6 introduziu vários bugs, incluindo desfibriladores quebrados e problemas no modo Sabotagem.",
+    "_yoast_wpseo_twitter-title": "Battlefield 6: Desfibriladores Quebram Após Nova Atualização",
+    "_yoast_wpseo_twitter-description": "A atualização California Resistance para Battlefield 6 introduziu vários bugs, incluindo desfibriladores quebrados e problemas no modo Sabotagem."
+  }
+}

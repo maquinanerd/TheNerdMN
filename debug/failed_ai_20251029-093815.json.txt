@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Wars: Visions é cânone? Entenda a relação da série com a saga",
+      "conteudo_final": "<p>A terceira temporada de <b>Star Wars: Visions</b> possui uma relação peculiar com o cânone da franquia, e isso, de certa forma, a torna ainda mais especial. A série antológica animada é, sem dúvida, uma das melhores produções de <b>Star Wars</b> lançadas até hoje, permitindo que diferentes estúdios de animação do mundo todo explorem a galáxia criada por George Lucas.</p><p><b>Star Wars: Visions</b> tem uma relação única com o universo <b>Star Wars</b>. Embora episódios individuais possam fazer referência a elementos conhecidos, como a menção a Jedi Crusaders que remete ao universo expandido de <b>Knights of the Old Republic</b>, a série como um todo não é considerada canônica.</p><h2>Star Wars: Visions é oficialmente não-canônica</h2><p>O produtor executivo James Waugh confirmou recentemente que todas as temporadas de <b>Star Wars: Visions</b> não fazem parte do cânone oficial. Ele afirmou que a série não tem como objetivo principal apresentar histórias com personagens já estabelecidos, mas sim explorar novas perspectivas.</p><blockquote><p>\"Não é que isso seja impossível. Obviamente, tivemos Jabba the Hutt e Boba Fett em curtas de Visions, mas não é sobre eles. Geralmente, procuramos perspectivas originais e novas para que Visions não se torne um tipo de 'E Se...' de Star Wars, mas uma expressão e celebração única dos elementos de Star Wars que as pessoas amam.\"</p></blockquote><p>A continuidade e a mitologia sempre foram partes essenciais de <b>Star Wars</b>, mas também podem ser restritivas. <b>Star Wars: Visions</b> oferece aos contadores de histórias a oportunidade de explorar os temas e ideias centrais da franquia sem a pressão de ter que se alinhar a detalhes previamente estabelecidos. A série é irrestrita.</p><h2>Star Wars: Visions subverte deliberadamente o cânone</h2><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Descubra se Star Wars: Visions é canônica. O produtor James Waugh confirma a natureza não-canônica da série, mas destaca sua importância criativa.",
+      "focus_keyphrase": "Star Wars: Visions é canônica",
+      "related_keyphrases": [
+        "Star Wars Visions cânone",
+        "Lucasfilm Visions",
+        "Série Star Wars não canônica"
+      ],
+      "slug": "star-wars-visions-canonico",
+      "categorias": [
+        {
+          "nome": "Star Wars: Visions",
+          "grupo": "franquias",
+          "evidence": "Star Wars: Visions"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Star Wars: Visions",
+        "Lucasfilm",
+        "Disney+",
+        "Animação",
+        "Jedi",
+        "Sith"
+      ],
+      "image_alt_texts": {
+        "a-sith-lord-in-star-wars-visions-season-3.jpg": "Um Lorde Sith em um episódio de Star Wars: Visions temporada 3.",
+        "star_wars_visions_2_tv_poster.jpg": "Pôster oficial da segunda temporada de Star Wars: Visions."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Visions é Cânone? Entenda a Relação da Série com a Saga",
+        "_yoast_wpseo_metadesc": "Descubra se Star Wars: Visions é canônica. O produtor James Waugh confirma a natureza não-canônica da série, mas destaca sua importância criativa.",
+        "_yoast_wpseo_focuskw": "Star Wars: Visions é canônica",
+        "_yoast_news_keywords": "Star Wars: Visions, Star Wars, Lucasfilm, Disney+, Cânone Star Wars, Animação",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Visions é Cânone? Entenda a Relação da Série com a Saga",
+        "_yoast_wpseo_opengraph-description": "Descubra se Star Wars: Visions é canônica. O produtor James Waugh confirma a natureza não-canônica da série, mas destaca sua importância criativa.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Visions é Cânone? Entenda a Relação da Série com a Saga",
+        "_yoast_wpseo_twitter-description": "Descubra se Star Wars: Visions é canônica. O produtor James Waugh confirma a natureza não-canônica da série, mas destaca sua importância criativa."
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hollow Knight: Silksong recebe nova atualização em outubro de 2025",
+      "conteudo_final": "<p>A Team Cherry lançou uma nova atualização para <b>Hollow Knight: Silksong</b>. O patch mais recente aborda bugs e introduz suporte aprimorado para controles, melhorando ainda mais a experiência geral para os fãs.</p><p>Lançado em 4 de setembro, Silksong estava entre os títulos mais aguardados de 2025. O novo jogo da Team Cherry conquistou aclamação quase universal da crítica, e <b>Hollow Knight: Silksong se tornou um grande sucesso</b> imediatamente após seu lançamento. Segundo os desenvolvedores, o título alcançou mais de 5 milhões de jogadores, com mais de 3 milhões de unidades vendidas no Steam, e ainda mais jogadores vindos de outras plataformas, incluindo serviços de assinatura como o Xbox Game Pass.</p><p>Com a atualização para a Versão 1.0.28891 de Hollow Knight: Silksong, o título Metroidvania recebeu suporte para Dualsense Edge no PlayStation e para “vários controles” em computadores Mac. O patch mais novo tem aproximadamente o mesmo tamanho da atualização anterior de Hollow Knight: Silksong. Ele não introduz nenhum conteúdo novo importante, mas corrige várias falhas e introduz algumas mudanças de balanceamento. Alguns exemplos de alterações incluem o escalonamento de dano em Rune Rage para corresponder a outras Silk Skills, correção de situações em que os jogadores poderiam acessar áreas fora dos limites, um leve aumento no dano de Sharp Dart e Cross Stitch, e muito mais. Uma correção útil foi corrigir um soft-lock que poderia ocorrer durante a sequência de abertura do Grand Gate caso a Cidadela tivesse sido visitada anteriormente, mas alguns Bellshrines permanecessem inativos.</p><p>Além disso, Silksong agora pausará quando um controle for desconectado, o que pode ser útil para evitar mortes quando esse problema ocorrer. Como de costume, as notas do patch terminam afirmando que a atualização também faz “várias outras pequenas melhorias e correções”. É possível que a Team Cherry mais uma vez faça mudanças significativas em Silksong não descritas no patch, mas os jogadores não devem esperar por ajustes secretos.</p><p>Espera-se que a Team Cherry eventualmente lance mais conteúdo novo para Silksong, mas considerando o tamanho da equipe e o tempo que levou para o jogo ser finalmente lançado, isso pode demorar um pouco. Enquanto isso, jogadores de PC podem usar mods para obter experiências diferentes ao jogar Silksong. No início desta semana, um novo mod de Hollow Knight: Silksong chamado Crest Master foi lançado, permitindo que os jogadores joguem o título em uma dificuldade ainda maior. Ao introduzir uma crista que remove a capa e a agulha de Hornet, o mod parece ser uma boa opção para veteranos que já dominaram o plataforma e desejam experimentar novos desafios.</p><h2>Notas da Atualização de Hollow Knight: Silksong Versão 1.0.28891 (13 de Outubro de 2025)</h2><p>A atualização 1.0.28891 traz uma série de melhorias e correções:</p><ul><li>Adicionado suporte para controles Dualsense Edge.</li><li>Melhorado o suporte para vários controles em Mac.</li><li>O jogo agora pausa quando o controle é desconectado.</li><li>Correções para vários problemas menores de controle (mais correções virão em atualizações futuras).</li><li>Corrigida a última ocorrência de alguns jogadores ficarem amaldiçoados na parte final do jogo.</li><li>Corrigida a reação do Curveclaw ao down-stab do Hunter.</li><li>Corrigidas ocorrências raras de ser possível usar air dash e double jump quando não era pretendido.</li><li>Corrigidas várias situações fora dos limites (out-of-bounds).</li><li>Corrigido o Pharlid Divers que às vezes deslizava nos telhados após emboscadas em certas cenas.</li><li>Corrigidas as atualizações do Eva Hunter Crest que limpavam não intencionalmente os equipamentos de ferramentas.</li><li>Corrigidas ocorrências raras de Harpoon que às vezes concediam 2 Silk em vez de 1.</li><li>Corrigido Cogflies que apareciam de locais incomuns após a transição de cena e, em casos raros, tinham sua quantidade ativa reduzida em 1.</li><li>Corrigidos os Crafting Kits que não aumentavam o dano de ferramentas azuis ofensivas (ex: Sawtooth Circlet).</li><li>Leve aumento no dano de Sharp Dart e Cross Stitch.</li><li>Escalonamento de dano atualizado em Rune Rage para corresponder a outras Silk Skills.</li><li>Leve diminuição no dano de Thread Storm nos níveis mais altos de agulha.</li><li>Corrigido os inimigos Surgeon que às vezes puxavam o herói para fora dos limites.</li><li>Corrigidas instâncias de alguns Spool Fragments que poderiam se tornar permanentemente perdidos se um jogador saísse imediatamente após coletar o item.</li><li>Corrigido o Crust King Khann que às vezes caía fora dos limites durante a entrada, quando enfrentado em sistemas de baixo desempenho.</li><li>Corrigida a ocorrência rara do Second Sentinel ficar rotacionado ao ser derrotado.</li><li>Corrigido caso adicional de Seth que às vezes saía dos limites e não retornava.</li><li>Corrigido Seth que às vezes permanecia invencível por um momento no início de um novo combate.</li><li>Corrigidos os blocos de deslize dos Vaults que respondiam incorretamente a fontes de dano diferentes da agulha.</li><li>Mudado os drops de Fine Pins de 50% de chance para 100%, mas aumentada a quantidade exigida.</li><li>Corrigidos problemas ao consumir um Silkeater enquanto na água.</li><li>Corrigido o Scuttlebrace que às vezes permitia um wall jump quando não era pretendido.</li><li>Corrigido um soft-lock durante a sequência de abertura do Grand Gate, se a Cidadela tivesse sido visitada e alguns bellshrines permanecessem inativos.</li><li>Várias correções e ajustes menores.</li></ul><p>O título Metroidvania desenvolvido pela Team Cherry, <b>Hollow Knight: Silksong</b>, continua a receber atenção após seu lançamento em setembro de 2025. As atualizações constantes visam aprimorar a experiência do jogador, corrigindo bugs e melhorando o suporte a controles, conforme demonstrado pela última versão 1.0.28891. O jogo alcançou um marco impressionante de mais de 5 milhões de jogadores, evidenciando sua popularidade.</p>",
+      "meta_description": "Hollow Knight: Silksong recebe atualização 1.0.28891 com melhorias em controles e correções de bugs. Saiba os detalhes do patch de outubro de 2025.",
+      "focus_keyphrase": "Hollow Knight: Silksong",
+      "related_keyphrases": [
+        "atualização Hollow Knight: Silksong",
+        "Team Cherry",
+        "patch Hollow Knight: Silksong"
+      ],
+      "slug": "hollow-knight-silksong-atualizacao-outubro-2025",
+      "categorias": [
+        {
+          "nome": "Hollow Knight: Silksong",
+          "grupo": "obras",
+          "evidence": "new update for Hollow Knight: Silksong"
+        },
+        {
+          "nome": "Team Cherry",
+          "grupo": "editorias",
+          "evidence": "Team Cherry has released"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hollow Knight",
+        "Silksong",
+        "Team Cherry",
+        "Metroidvania",
+        "atualização de jogo",
+        "PC",
+        "PlayStation"
+      ],
+      "image_alt_texts": {
+        "mixcollage-06-dec-2024-09-43-pm-7557.jpg": "Cena de gameplay de Hollow Knight: Silksong com a personagem Hornet em ação.",
+        "hollow-knight-silksong-press-image-1-1.jpg": "Arte promocional de Hollow Knight: Silksong mostrando Hornet em um ambiente detalhado.",
+        "hollow-knight-silksong-press-image-10-1.jpg": "Imagem de personagem de Hollow Knight: Silksong, destacando o design único.",
+        "hollow-knight-silksong-press-image-2-1.jpg": "Ilustração de Hollow Knight: Silksong com foco em um inimigo ou cenário.",
+        "hollow-knight-silksong-press-image-3-1.jpg": "Screenshot de Hollow Knight: Silksong com a personagem principal explorando o mundo.",
+        "hollow-knight-silksong-press-image-4-1.jpg": "Arte de Hollow Knight: Silksong exibindo a protagonista em pose de combate.",
+        "hollow-knight-silksong-press-image-5-1.jpg": "Cena de Hollow Knight: Silksong com ambientação sombria e detalhada.",
+        "hollow-knight-silksong-press-image-6-1.jpg": "Imagem promocional de Hollow Knight: Silksong com foco em elementos visuais.",
+        "hollow-knight-silksong-press-image-7-1.jpg": "Screenshot de Hollow Knight: Silksong mostrando um ambiente de jogo intrigante.",
+        "hollow-knight-silksong-press-image-8-1.jpg": "Arte conceitual de Hollow Knight: Silksong, revelando detalhes do mundo.",
+        "hollow-knight-silksong-press-image-9-1.jpg": "Imagem de Hollow Knight: Silksong com foco em elementos de gameplay e exploração.",
+        "hornet-close-up-hollow-knight-silksong.jpg": "Close-up da personagem Hornet em Hollow Knight: Silksong, destacando seus detalhes.",
+        "silksong-act-2-walkthrough-progression-route-part-four-lace.jpg": "Imagem de Hollow Knight: Silksong mostrando a personagem Lace em ação.",
+        "silksong-bellhart.jpg": "Ilustração de um inimigo ou personagem de Hollow Knight: Silksong, possivelmente Bellhart."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hollow Knight: Silksong Atualizado com Novidades em Outubro de 2025",
+        "_yoast_wpseo_metadesc": "Hollow Knight: Silksong recebe atualização 1.0.28891 com melhorias em controles e correções de bugs. Saiba os detalhes do patch.",
+        "_yoast_wpseo_focuskw": "Hollow Knight: Silksong",
+        "_yoast_news_keywords": "Hollow Knight, Silksong, Team Cherry, Metroidvania, atualização de jogo, PC, PlayStation, Xbox Game Pass",
+        "_yoast_wpseo_opengraph-title": "Hollow Knight: Silksong Atualizado com Novidades em Outubro de 2025",
+        "_yoast_wpseo_opengraph-description": "Hollow Knight: Silksong recebe atualização 1.0.28891 com melhorias em controles e correções de bugs. Saiba os detalhes do patch.",
+        "_yoast_wpseo_twitter-title": "Hollow Knight: Silksong Atualizado com Novidades em Outubro de 2025",
+        "_yoast_wpseo_twitter-description": "Hollow Knight: Silksong recebe atualização 1.0.28891 com melhorias em controles e correções de bugs. Saiba os detalhes do patch."
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Guillermo del Toro celebra a morte como alívio e sucesso de Frankenstein",
+      "conteudo_final": "<p>Guillermo del Toro, diretor do aclamado <b>Frankenstein</b>, revelou em uma entrevista recente que é um \"grande fã da morte\" e que aguarda o momento com expectativa. O cineasta, conhecido por obras como <i>O Labirinto do Fauno</i> e <i>A Forma da Água</i>, expressou que a morte representa o fim dos problemas e preocupações da vida.</p><h2>Um olhar filosófico sobre a mortalidade</h2><p>Em sua participação no Festival de Cinema de Marrakech, del Toro compartilhou sua visão peculiar sobre a finitude da vida. Ele acredita que a sociedade se esforça excessivamente para prolongar a existência, quando, na verdade, a morte oferece um alívio bem-vindo. \"Por que você quereria viver mais tempo? Eu sou um grande fã da morte... Acho que a morte é muito boa. Certamente estou ansioso por ela, porque é o dia em que você diz: 'Bem, amanhã não terei problemas'\", declarou o diretor.</p><blockquote><p>“Isso era religião. Essa era a minha igreja. Imediatamente senti que o que minha avó costumava sentir por Jesus, eu agora sentia por Boris. E eu me via nele.”</p></blockquote><p>Del Toro nutria o desejo de dirigir um filme de <i>Frankenstein</i> por décadas, desde que leu o romance de Mary Shelley na infância e assistiu à versão cinematográfica de 1931. A conexão com a história foi imediata e profunda.</p><h2>O sucesso de Frankenstein e a depressão pós-parto criativa</h2><p>Agora que seu sonho se concretizou com a adaptação para a Netflix, estrelada por Oscar Isaac e Jacob Elordi, o diretor admitiu estar passando por uma \"depressão pós-parto\". Ele se considera uma pessoa de emoções intensas e defende a importância de expressá-las abertamente, em contraste com o cinismo que, segundo ele, muitas vezes simula inteligência na sociedade atual.</p><blockquote><p>“Eu sou mexicano, então a emoção é grande para mim. Acho que a emoção é muito escassa agora. Chegamos a um ponto na civilização em que a emoção parece ser algo que você esconde… Estamos em um momento horrível em que o cinismo simula inteligência. Se você diz: 'Eu acredito no amor', você é um tolo. Se você diz: 'Eu não acredito no amor', você é um homem sábio. Eu não concordo com nada disso.”</p></blockquote><p>Ao abordar a criação de um projeto tão ambicioso quanto <i>Frankenstein</i>, del Toro ressaltou a necessidade de estar \"aberto ao fracasso\", pois ele é um componente essencial para o sucesso.</p><blockquote><p>“Os Românticos deram um passo enorme em direção à possibilidade de ridículo... Você tem que estar completamente aberto ao fracasso se quiser experimentar o sucesso… você tem que estar pronto para ser ridículo o tempo todo.”</p></blockquote><h2>Recepção crítica e legado do diretor</h2><p>Felizmente, <i>Frankenstein</i> foi um grande sucesso, alcançando 86% de aprovação no Rotten Tomatoes e sendo aclamado como um filme emocionante e envolvente sobre a humanidade, o que ressoa com as reflexões de del Toro sobre vida, amor e emoção. O público também demonstrou grande apreço, com uma nota de 94%.</p><p>O filme já conquistou prêmios em festivais e foi reconhecido pelo American Film Institute como um dos dez melhores filmes de 2025. Com uma carreira consolidada desde sua estreia com <i>Cronos</i> em 1992, Guillermo del Toro, aos 61 anos, demonstra gratidão por suas realizações e serenidade diante do inevitável ciclo da vida e da morte, temas centrais em sua obra mais recente.</p>",
+      "meta_description": "Guillermo del Toro, diretor de Frankenstein, expressa visão sobre a morte e celebra o sucesso do filme na Netflix, aclamado pela crítica.",
+      "focus_keyphrase": "Guillermo del Toro Frankenstein",
+      "related_keyphrases": [
+        "Guillermo del Toro sobre a morte",
+        "Frankenstein Netflix recepção",
+        "diretor Guillermo del Toro"
+      ],
+      "slug": "guillermo-del-toro-celebra-morte-sucesso-frankenstein",
+      "categorias": [
+        {
+          "nome": "Frankenstein",
+          "grupo": "obras",
+          "evidence": "<em>Frankenstein</em> director Guillermo del Toro"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "<em>Frankenstein</em> for Netflix"
+        },
+        {
+          "nome": "Guillermo del Toro",
+          "grupo": "diretores",
+          "evidence": "Guillermo del Toro just admitted"
+        }
+      ],
+      "tags_sugeridas": [
+        "Guillermo del Toro",
+        "Frankenstein",
+        "Netflix",
+        "Oscar Isaac",
+        "Jacob Elordi",
+        "Cinema",
+        "Cultura Pop"
+      ],
+      "image_alt_texts": {
+        "timothee-chalamet-as-paul-atreides-looking-to-one-side-in-dune-part-two.jpg": "Guillermo del Toro, diretor de Frankenstein, em entrevista sobre a vida e a morte.",
+        "david-corenswet-looking-concerned-as-superman-in-james-gunn-s-movie.jpg": "Cena do filme Frankenstein, dirigido por Guillermo del Toro.",
+        "kong-looking-in-pain-with-his-fist-frozen-in-godzilla-x-kong-the-new-empire.jpg": "Oscar Isaac como o personagem titular em Frankenstein.",
+        "michael-b-jordan-and-miles-caton-in-sinners-1.jpg": "Jacob Elordi como a Criatura em Frankenstein.",
+        "elijah-wood-as-frodo-in-the-lord-of-the-rings.jpg": "Guillermo del Toro em evento de cinema."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Guillermo del Toro celebra a morte e o sucesso de Frankenstein na Netflix",
+        "_yoast_wpseo_metadesc": "Guillermo del Toro, diretor de Frankenstein, expressa visão sobre a morte e celebra o sucesso do filme na Netflix, aclamado pela crítica.",
+        "_yoast_wpseo_focuskw": "Guillermo del Toro Frankenstein",
+        "_yoast_news_keywords": "Guillermo del Toro, Frankenstein, Netflix, Oscar Isaac, Jacob Elordi, Cinema, Cultura Pop, Diretor",
+        "_yoast_wpseo_opengraph-title": "Guillermo del Toro celebra a morte e o sucesso de Frankenstein na Netflix",
+        "_yoast_wpseo_opengraph-description": "Guillermo del Toro, diretor de Frankenstein, expressa visão sobre a morte e celebra o sucesso do filme na Netflix, aclamado pela crítica.",
+        "_yoast_wpseo_twitter-title": "Guillermo del Toro celebra a morte e o sucesso de Frankenstein na Netflix",
+        "_yoast_wpseo_twitter-description": "Guillermo del Toro, diretor de Frankenstein, expressa visão sobre a morte e celebra o sucesso do filme na Netflix, aclamado pela crítica."
+      }
+    },
+    {
+      "titulo_final": "Netflix compra Warner Bros.: impacto em filmes e lançamentos",
+      "conteudo_final": "<p>A <strong>Netflix</strong> oficializou a aquisição da <strong>Warner Bros.</strong> por aproximadamente US$ 82,7 bilhões, em um acordo que mistura dinheiro e ações. A transação, confirmada em 5 de dezembro, deve ser finalizada entre o final de 2026 e o início de 2027, prometendo impactar significativamente o futuro dos filmes produzidos pelo estúdio.</p><h2>Lista de lançamentos da Warner Bros.</h2><p>A Warner Bros., com mais de 100 anos de história, é responsável por grandes produções cinematográficas e séries de TV. Com a aquisição pela Netflix, surge a dúvida sobre o destino de seus futuros lançamentos. A lista de filmes com datas confirmadas para 2026 inclui:</p><ul><li><i>Wuthering Heights</i> — 13 de fevereiro</li><li><i>The Bride!</i> — 6 de março</li><li><i>They Will Kill You</i> — 27 de março</li><li><i>The Mummy</i> — 17 de abril</li><li><i>Mortal Kombat II</i> — 8 de maio</li><li><i>Animal Friends</i> — 5 de junho</li><li><i>Supergirl</i> — 26 de junho</li><li><i>Cut Off</i> — 17 de julho</li><li><i>Evil Dead Burn</i> — 24 de julho</li><li><i>Flowervale Street</i> — 14 de agosto</li><li><i>Coyote vs. Acme</i> — 28 de agosto</li><li><i>Clayface</i> — 11 de setembro</li><li><i>Practical Magic 2</i> — 18 de setembro</li><li>Filme de Alejandro G. Iñárritu/Tom Cruise — 2 de outubro</li><li><i>Remain</i> — 23 de outubro</li><li><i>The Cat in the Hat</i> — 6 de novembro</li><li><i>Dune: Part Three</i> — 18 de dezembro</li></ul><p>Para 2027 e 2028, os lançamentos confirmados são:</p><ul><li>Filme da DC Studios — 5 de março de 2027</li><li><i>Godzilla x Kong: Supernova</i> — 26 de março de 2027</li><li><i>F.A.S.T.</i> — 23 de abril de 2027</li><li><i>Bad Fairies</i> — 21 de maio de 2027</li><li>Filme da DC Studios — 18 de junho de 2027</li><li><i>Man of Tomorrow</i> — 9 de julho de 2027</li><li><i>A Minecraft Movie 2</i> — 23 de julho de 2027</li><li><i>The Batman - Part II</i> — 1º de outubro de 2027</li><li><i>Margie Claus</i> — 5 de novembro de 2027</li><li><i>Gremlins 3</i> — 19 de novembro de 2027</li><li><i>The Lord of the Rings: The Hunt for Gollum</i> — 17 de dezembro</li><li><i>Oh, the Places You'll Go!</i> — 17 de março de 2028</li><li><i>Dynamic Duo</i> — 30 de junho de 2028</li><li><i>The Hello Kitty Movie</i> — 21 de julho de 2028</li><li><i>The Lunar Chronicles</i> — 3 de novembro de 2028</li></ul><figure class="video-container"><iframe src="https://www.youtube.com/embed/timothee-chalamet-as-paul-atreides-looking-to-one-side-in-dune-part-two" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>Timothée Chalamet em Duna: Parte Dois.</figcaption></figure><h2>Netflix manterá lançamentos em cinemas</h2><p>Uma das principais preocupações com a aquisição era a possibilidade de a Netflix descontinuar os lançamentos cinematográficos da Warner Bros. No entanto, o CEO da Netflix, Ted Sarandos, afirmou que os filmes com datas de lançamento confirmadas para os cinemas continuarão a ser exibidos nas telonas. \"Neste momento, vocês podem contar que tudo o que estava planejado para ir aos cinemas através da Warner Bros. continuará indo aos cinemas através da Warner Bros.\", declarou Sarandos.</p><p>Apesar da garantia, a declaração deixa margem para mudanças futuras. Sarandos já expressou anteriormente que considera a experiência cinematográfica \"ultrapassada\", o que sugere uma possível reavaliação das janelas de exibição. A Netflix pretende reduzir o período de exclusividade dos filmes nos cinemas, tornando-os disponíveis na plataforma de streaming mais rapidamente.</p><h2>Redução das janelas de exibição</h2><p>Atualmente, os filmes da Warner Bros. têm uma janela de exibição nos cinemas de aproximadamente 77 dias antes de chegarem ao streaming. A Netflix, que considera janelas mais longas \"anti-consumidor\", provavelmente buscará encurtar esse período, possivelmente para cerca de 45 dias ou menos, alinhando-se com a visão de Sarandos de que \"as janelas evoluirão para serem muito mais amigáveis ao consumidor\".</p><figure class="video-container"><iframe src="https://www.youtube.com/embed/david-corenswet-looking-concerned-as-superman-in-james-gunn-s-movie" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>David Corenswet como Superman no novo universo DC.</figcaption></figure><h2>Quais filmes da Warner Bros. podem se tornar originais da Netflix?</h2><p>Embora grandes franquias como <i>Duna</i>, o universo DC, <i>Minecraft</i> e <i>O Senhor dos Anéis</i> devam manter seus lançamentos nos cinemas, outros títulos podem ter seu destino alterado. Filmes como <i>F.A.S.T.</i>, <i>Margie Claus</i> e até mesmo <i>Gremlins 3</i> podem se tornar exclusivos da Netflix. Dramas, comédias românticas e filmes de terror sem grande apelo de franquia são candidatos prováveis a estrearem diretamente na plataforma de streaming.</p><p>A Netflix, que historicamente vê os cinemas como concorrentes, pode, a longo prazo, optar por não lançar mais filmes da Warner Bros. nas telonas, impactando o mercado exibidor e reforçando o hábito do público de consumir conteúdo em casa.</p><figure class="video-container"><iframe src="https://www.youtube.com/embed/kong-looking-in-pain-with-his-fist-frozen-in-godzilla-x-kong-the-new-empire" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>Kong em Godzilla x Kong: O Novo Império.</figcaption></figure>",
+      "meta_description": "Netflix adquire Warner Bros. por US$ 82,7 bilhões. Saiba o impacto nos lançamentos de filmes, janelas de exibição e quais produções podem se tornar exclusivas.",
+      "focus_keyphrase": "Netflix compra Warner Bros",
+      "related_keyphrases": [
+        "Netflix aquisição Warner Bros",
+        "futuro filmes Warner Bros",
+        "lançamentos Netflix Warner"
+      ],
+      "slug": "netflix-compra-warner-bros-impacto-filmes",
+      "categorias": [
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix is officially buying Warner Bros."
+        },
+        {
+          "nome": "Warner Bros.",
+          "grupo": "estúdios",
+          "evidence": "buying Warner Bros."
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "franquias",
+          "evidence": "Untitled DC Studios film"
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "Warner Bros.",
+        "DC Studios",
+        "Duna",
+        "O Senhor dos Anéis",
+        "Cinema",
+        "Streaming"
+      ],
+      "image_alt_texts": {
+        "timothee-chalamet-as-paul-atreides-looking-to-one-side-in-dune-part-two.jpg": "Timothée Chalamet como Paul Atreides em Duna: Parte Dois, um dos filmes da Warner Bros.",
+        "david-corenswet-looking-concerned-as-superman-in-james-gunn-s-movie.jpg": "David Corenswet como Superman, indicando futuros filmes da DC Studios sob a Netflix.",
+        "kong-looking-in-pain-with-his-fist-frozen-in-godzilla-x-kong-the-new-empire.jpg": "Kong em Godzilla x Kong: O Novo Império, franquia da Warner Bros. que pode ter novos filmes.",
+        "michael-b-jordan-and-miles-caton-in-sinners-1.jpg": "Michael B. Jordan e Miles Caton em Sinners, um dos filmes que podem se tornar originais Netflix.",
+        "elijah-wood-as-frodo-in-the-lord-of-the-rings.jpg": "Elijah Wood como Frodo em O Senhor dos Anéis, franquia da Warner Bros. com futuro incerto."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix compra Warner Bros.: impacto em filmes e lançamentos",
+        "_yoast_wpseo_metadesc": "Netflix adquire Warner Bros. por US$ 82,7 bilhões. Saiba o impacto nos lançamentos de filmes, janelas de exibição e quais produções podem se tornar exclusivas.",
+        "_yoast_wpseo_focuskw": "Netflix compra Warner Bros",
+        "_yoast_news_keywords": "Netflix, Warner Bros., DC Studios, Duna, O Senhor dos Anéis, Cinema, Streaming, Aquisição",
+        "_yoast_wpseo_opengraph-title": "Netflix compra Warner Bros.: impacto em filmes e lançamentos",
+        "_yoast_wpseo_opengraph-description": "Netflix adquire Warner Bros. por US$ 82,7 bilhões. Saiba o impacto nos lançamentos de filmes, janelas de exibição e quais produções podem se tornar exclusivas.",
+        "_yoast_wpseo_twitter-title": "Netflix compra Warner Bros.: impacto em filmes e lançamentos",
+        "_yoast_wpseo_twitter-description": "Netflix adquire Warner Bros. por US$ 82,7 bilhões. Saiba o impacto nos lançamentos de filmes, janelas de exibição e quais produções podem se tornar exclusivas."
+      }
+    }
+  ]
+}

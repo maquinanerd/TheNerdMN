@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "New World: Amazon Games encerra desenvolvimento do MMORPG após demissões",
+      "conteudo_final": "<p>A <b>Amazon Games</b> anunciou o fim do desenvolvimento de <b>New World</b>, seu MMORPG para PC e consoles. A decisão ocorre após uma onda de demissões na empresa, que afetou a equipe do jogo. A última atualização de conteúdo planejada, a Temporada 10 e o patch Nighthaven, serão os lançamentos finais.</p>\n<h2>Fim do Suporte a New World</h2>\n<p>Em um comunicado oficial, a Amazon Games detalhou que o encerramento do suporte é devido à insustentabilidade de continuar oferecendo novas atualizações de conteúdo. A empresa agradeceu o apoio dos jogadores ao longo dos anos e confirmou que a atualização Nighthaven e a expansão Rise of the Angry Earth para PC estarão disponíveis gratuitamente para todos os jogadores.</p>\n<p>Embora não haja uma data definida para o encerramento dos servidores, a Amazon Games garantiu que eles permanecerão ativos durante todo o ano de 2026. Um aviso prévio de no mínimo seis meses será comunicado antes do desligamento completo do jogo. A edição <b>New World: Aeternum</b> continuará disponível para assinantes do PlayStation Plus.</p>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/12/new-world-tag-page-cover-art.jpg\" alt=\"Capa do jogo New World: Aeternum, anunciando o fim do desenvolvimento.\"><figcaption>New World: Aeternum será a última versão do MMORPG.</figcaption></figure>\n<h2>Impacto das Demissões na Amazon Games</h2>\n<p>A notícia segue relatos de que a Amazon iniciou demissões em massa, com cerca de 30.000 funcionários dispensados, e o braço de jogos da empresa, o Amazon Game Studios, foi um dos mais afetados. Nomes conhecidos na comunidade oficial de New World desapareceram dos canais oficiais, e relatos indicaram o fechamento das instalações do estúdio em Irvine, Califórnia, responsável pelo desenvolvimento de New World.</p>\n<p>O MMORPG, que foi lançado oficialmente em setembro de 2021, prometia muito e teve um começo promissor. No entanto, a decisão de encerrar o desenvolvimento, mesmo com servidores ativos até 2026, marca um ponto final para um dos projetos mais ambiciosos da Amazon no mercado de games. A esperança agora é que os profissionais impactados encontrem novas oportunidades e que os fãs possam desfrutar do tempo restante com o jogo.</p>",
+      "meta_description": "Amazon Games encerra desenvolvimento de New World após demissões. Servidores ficarão online até 2026. Última atualização será gratuita.",
+      "focus_keyphrase": "New World",
+      "related_keyphrases": [
+        "Amazon Games",
+        "desenvolvimento de jogos",
+        "MMORPG"
+      ],
+      "slug": "new-world-fim-desenvolvimento-amazon",
+      "categorias": [
+        {
+          "nome": "New World",
+          "grupo": "obras",
+          "evidence": "New World"
+        },
+        {
+          "nome": "Amazon Games",
+          "grupo": "franquias",
+          "evidence": "Amazon Games"
+        }
+      ],
+      "tags_sugeridas": [
+        "New World",
+        "MMORPG",
+        "Amazon Games",
+        "layoffs",
+        "desenvolvimento de jogos",
+        "PC",
+        "consoles"
+      ],
+      "image_alt_texts": {
+        "new-world-tag-page-cover-art.jpg": "Capa do jogo New World: Aeternum, anunciando o fim do desenvolvimento."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "New World: Amazon Games encerra desenvolvimento do MMORPG após demissões",
+        "_yoast_wpseo_metadesc": "Amazon Games encerra desenvolvimento de New World após demissões. Servidores ficarão online até 2026. Última atualização será gratuita.",
+        "_yoast_wpseo_focuskw": "New World",
+        "_yoast_news_keywords": "New World, Amazon Games, MMORPG, layoffs, desenvolvimento de jogos, PC, consoles",
+        "_yoast_wpseo_opengraph-title": "New World: Amazon Games encerra desenvolvimento do MMORPG após demissões",
+        "_yoast_wpseo_opengraph-description": "Amazon Games encerra desenvolvimento de New World após demissões. Servidores ficarão online até 2026. Última atualização será gratuita.",
+        "_yoast_wpseo_twitter-title": "New World: Amazon Games encerra desenvolvimento do MMORPG após demissões",
+        "_yoast_wpseo_twitter-description": "Amazon Games encerra desenvolvimento de New World após demissões. Servidores ficarão online até 2026. Última atualização será gratuita."
+      }
+    }
+  ]
+}

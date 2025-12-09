@@ -1,0 +1,52 @@
+{
+  "titulo_final": "BRZRKR: Diretor de Velozes e Furiosos dá novidades sobre filme de Keanu Reeves",
+  "conteudo_final": "<p>O projeto apaixonado de <b>Keanu Reeves</b>, o filme <b>BRZRKR</b>, tem recebido atualizações promissoras. Desenvolvido a partir da franquia de quadrinhos criada pelo próprio ator e lançada em março de 2021, o projeto ganhou força com a parceria da Netflix, que iniciou o desenvolvimento de um filme live-action e uma série de anime. Em março de 2025, foi anunciado que <b>Justin Lin</b>, conhecido por seu trabalho em <b>Velozes e Furiosos</b>, assumiria a direção de <b>BRZRKR</b>.</p>\n<p>O roteiro de <b>BRZRKR</b> está a cargo de <b>Mattson Tomlin</b>, que se une a Lin como parte da equipe criativa para as adaptações. Tomlin também está envolvido como showrunner para a série de anime proposta. Em declarações recentes, Lin compartilhou uma atualização encorajadora sobre o desenvolvimento do filme. O diretor indicou que tem sido um esforço de equipe para refinar a visão do filme, com ele, Reeves e Tomlin trabalhando juntos.</p>\n<figure><img src=\"https:
+  "meta_description": "Justin Lin, diretor de Velozes e Furiosos, compartilha novidades sobre o desenvolvimento do filme BRZRKR, projeto de Keanu Reeves baseado em quadrinhos.",
+  "focus_keyphrase": "filme BRZRKR Keanu Reeves",
+  "related_keyphrases": [
+    "BRZRKR Justin Lin",
+    "quadrinhos Keanu Reeves",
+    "BRZRKR Netflix"
+  ],
+  "slug": "filme-brzrkr-keanu-reeves-atualizacao",
+  "categorias": [
+    {
+      "nome": "BRZRKR",
+      "grupo": "franquias",
+      "evidence": "BRZRKR movie"
+    },
+    {
+      "nome": "Keanu Reeves",
+      "grupo": "obras",
+      "evidence": "Keanu Reeves’ John Wick Replacement"
+    },
+    {
+      "nome": "Velozes e Furiosos",
+      "grupo": "franquias",
+      "evidence": "Fast & Furious' Director"
+    }
+  ],
+  "tags_sugeridas": [
+    "BRZRKR",
+    "Keanu Reeves",
+    "Justin Lin",
+    "Mattson Tomlin",
+    "Rafael Grampá",
+    "Netflix",
+    "quadrinhos"
+  ],
+  "image_alt_texts": {
+    "brzrkr-social-featured.jpg": "Keanu Reeves em BRZRKR",
+    "brzrkr.jpg": "Arte conceitual do filme BRZRKR"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "BRZRKR: Diretor de Velozes e Furiosos dá novidades sobre filme de Keanu Reeves",
+    "_yoast_wpseo_metadesc": "Justin Lin, diretor de Velozes e Furiosos, compartilha novidades sobre o desenvolvimento do filme BRZRKR, projeto de Keanu Reeves baseado em quadrinhos.",
+    "_yoast_wpseo_focuskw": "filme BRZRKR Keanu Reeves",
+    "_yoast_news_keywords": "BRZRKR, Keanu Reeves, Justin Lin, Netflix, quadrinhos, ação, Velozes e Furiosos",
+    "_yoast_wpseo_opengraph-title": "BRZRKR: Diretor de Velozes e Furiosos dá novidades sobre filme de Keanu Reeves",
+    "_yoast_wpseo_opengraph-description": "Justin Lin, diretor de Velozes e Furiosos, compartilha novidades sobre o desenvolvimento do filme BRZRKR, projeto de Keanu Reeves baseado em quadrinhos.",
+    "_yoast_wpseo_twitter-title": "BRZRKR: Diretor de Velozes e Furiosos dá novidades sobre filme de Keanu Reeves",
+    "_yoast_wpseo_twitter-description": "Justin Lin, diretor de Velozes e Furiosos, compartilha novidades sobre o desenvolvimento do filme BRZRKR, projeto de Keanu Reeves baseado em quadrinhos."
+  }
+}

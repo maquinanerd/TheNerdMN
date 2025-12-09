@@ -1,0 +1,138 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Task: Série de crime da HBO é renovada para 2ª temporada após sucesso",
+      "conteudo_final": "<p>A série de crime da HBO, <em>Task</em>, foi oficialmente confirmada para uma segunda temporada. A produção, que acompanha o jogo de gato e rato entre o agente do FBI Tom Brandis (Mark Ruffalo) e o ladrão profissional Robbie Prendergrast (Tom Pelphrey), conquistou aclamação da crítica e do público em sua primeira temporada, alcançando 96% de aprovação no Rotten Tomatoes.</p><h2>Renovação Confirmada pela HBO</h2><p>A confirmação da renovação veio do CEO da HBO, Casey Bloys. A próxima temporada contará novamente com o criador da série, Brad Ingelsby, como showrunner. Embora detalhes sobre o enredo e o elenco retornante ainda não tenham sido revelados, Francesca Orsi, EVP de Programação da HBO, expressou satisfação com o sucesso da série:</p><blockquote><p>Sabíamos bem antes do lançamento que tínhamos um drama poderoso em mãos, mas tem sido muito gratificante testemunhar o fervor e a aceitação do público por este show à medida que ele crescia semana após semana. Raramente um roteirista equilibra narrativa humanística com enredo intrincado e explosivo, mas Brad Ingelsby é um dos grandes de nossa indústria e não temos dúvidas de que ele criará algo tão profundo e viciante novamente na segunda temporada.</p></blockquote><p>Ingelsby também confirmou seu retorno, agradecendo à HBO pelo apoio à série, que se tornou uma das três primeiras temporadas de estreia com crescimento mais rápido na história da emissora. O criador demonstrou entusiasmo para a continuação da história.</p><blockquote><p>Tivemos a sorte de contar com o apoio inabalável da HBO para TASK desde o primeiro roteiro, durante a produção e durante o extraordinário lançamento de nossa primeira temporada para o público. Eles são um lar criativo incomparável. Em nome de toda a equipe de TASK, em frente e atrás das câmeras, sinto-me honrado e animado para voltar ao trabalho em uma segunda temporada de nosso show.</p></blockquote><h2>O Sucesso de Brad Ingelsby na HBO</h2><p><em>Task</em> é o segundo projeto de sucesso de Ingelsby na HBO. Sua minissérie anterior, <em>Mare of Easttown</em> (2021), estrelada por Kate Winslet, recebeu 16 indicações ao Emmy, incluindo quatro vitórias, e mantém 95% de aprovação no Rotten Tomatoes. Esta é a primeira vez que uma minissérie de Ingelsby é renovada.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/mark-ruffalo-looking-over-his-glasses-in-task.jpg?q=49&fit=crop&w=825&dpr=2" alt="Mark Ruffalo em cena da série Task da HBO."/><figcaption>Mark Ruffalo como Tom Brandis na série Task da HBO.</figcaption></figure><p>A renovação da minissérie levanta questões sobre o futuro de sua narrativa. A primeira temporada de <em>Task</em> terminou com uma conclusão definitiva para o conflito entre Tom e Robbie. Embora a HBO não tenha confirmado o retorno de nenhum membro do elenco, o personagem de Ruffalo pode ser o único com uma história que poderia continuar em uma sequência direta.</p><p>A renovação também estende o acordo de Ingelsby com a HBO, assinado em 2021. O desenvolvimento da segunda temporada provavelmente exigirá tempo, considerando que a primeira temporada entrou em produção em junho de 2023 para um lançamento em setembro de 2025. Isso indica que a espera não será curta.</p><p>Apesar disso, a recepção crítica e o desempenho de <em><strong>Task</strong></em> para a HBO tornam sua renovação um passo natural. A série também se posiciona como uma forte candidata para a temporada de premiações. A segunda temporada promete manter o impacto da emissora, com mais informações a serem divulgadas durante o desenvolvimento.</p>",
+      "meta_description": "HBO confirma renovação de Task para a 2ª temporada após sucesso estrondoso. Série de crime com Mark Ruffalo retorna com Brad Ingelsby.",
+      "focus_keyphrase": "Task série HBO renovada 2ª temporada",
+      "related_keyphrases": [
+        "Task HBO renovação",
+        "Mark Ruffalo série crime",
+        "Brad Ingelsby Task"
+      ],
+      "slug": "task-hbo-renovada-2-temporada",
+      "categorias": [
+        {
+          "nome": "Task",
+          "grupo": "obras",
+          "evidence": "<em>Task</em> season 2 has officially been confirmed by HBO"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "plataformas",
+          "evidence": "HBO Programming"
+        }
+      ],
+      "tags_sugeridas": [
+        "Task",
+        "HBO",
+        "Mark Ruffalo",
+        "Brad Ingelsby",
+        "Série de crime"
+      ],
+      "image_alt_texts": {
+        "mark-ruffalo-looking-over-his-glasses-in-task.jpg": "Mark Ruffalo como Tom Brandis na série Task da HBO."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Task: Série de crime da HBO é renovada para 2ª temporada após sucesso",
+        "_yoast_wpseo_metadesc": "HBO confirma renovação de Task para a 2ª temporada após sucesso estrondoso. Série de crime com Mark Ruffalo retorna com Brad Ingelsby.",
+        "_yoast_wpseo_focuskw": "Task série HBO renovada 2ª temporada",
+        "_yoast_news_keywords": "Task, HBO, Mark Ruffalo, Brad Ingelsby, Série de crime, Renovação",
+        "_yoast_wpseo_opengraph-title": "Task: Série de crime da HBO é renovada para 2ª temporada após sucesso",
+        "_yoast_wpseo_opengraph-description": "HBO confirma renovação de Task para a 2ª temporada após sucesso estrondoso. Série de crime com Mark Ruffalo retorna com Brad Ingelsby.",
+        "_yoast_wpseo_twitter-title": "Task: Série de crime da HBO é renovada para 2ª temporada após sucesso",
+        "_yoast_wpseo_twitter-description": "HBO confirma renovação de Task para a 2ª temporada após sucesso estrondoso. Série de crime com Mark Ruffalo retorna com Brad Ingelsby."
+      }
+    },
+    {
+      "titulo_final": "Malcolm in the Middle: Reboot não terá Otto e outros atores falecidos",
+      "conteudo_final": "<p>A expectativa para o retorno do elenco de <em>Malcolm in the Middle</em> cresce com a confirmação de um reboot em 2026 na plataforma Disney+. No entanto, a ausência de alguns personagens e atores queridos levanta discussões sobre como a nova produção manterá o espírito original.</p><h2>Otto, um dos Personagens Mais Amados, Ficará de Fora</h2><p>Um dos personagens mais engraçados e carismáticos de <em>Malcolm in the Middle</em>, Otto, interpretado por Kenneth Mars, não fará parte do reboot. O ator faleceu anos atrás, impedindo seu retorno. Otto, o dono do rancho que acolheu Francis em suas tramas nas temporadas 4 e 5, era conhecido por sua natureza incrivelmente alegre e contribuiu significativamente para o humor da série.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/kenneth-mars-as-otto-in-malcolm-in-the-middle.jpg?q=49&fit=crop&w=825&dpr=2" alt="Kenneth Mars como Otto na série Malcolm in the Middle."/><figcaption>Kenneth Mars como Otto, um personagem marcante de Malcolm in the Middle.</figcaption></figure><p>Kenneth Mars teve uma carreira extensa, com papéis em clássicos de Mel Brooks como <em>O Sétimo Selo</em> e <em>O Jovem Frankenstein</em>, além de uma prolífica carreira como dublador. Sua voz distinta e timing cômico o tornaram um artista memorável. O ator faleceu em 2011, aos 75 anos, após uma batalha contra o câncer de pâncreas. Sua ausência em <em>Malcolm in the Middle</em> deixa um vazio, especialmente pela forma como seu personagem complementava as histórias de Francis.</p><h2>Outras Ausências Marcantes no Reboot</h2><p>Além de Otto, outros atores queridos que marcaram <em>Malcolm in the Middle</em> não poderão retornar. Daniel von Bargen, que interpretou o rigoroso Comandante Spangler, faleceu em 2015. Seu personagem, com uma mistura peculiar de severidade militar e vulnerabilidade, era um contraponto cômico ideal para Francis.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/cloris-leachman-as-ida-in-malcolm-in-the-middle.jpg?q=49&fit=crop&w=825&dpr=2" alt="Cloris Leachman como Ida na série Malcolm in the Middle."/><figcaption>Cloris Leachman como Ida, mãe de Lois, em Malcolm in the Middle.</figcaption></figure><p>Cloris Leachman, a icônica Ida, mãe de Lois, também não estará presente. Leachman, com uma carreira lendária, deu vida a uma das personagens mais inesquecíveis da série. Ela faleceu em 2021, aos 94 anos. Ida trazia novas dinâmicas para Lois e proporcionava momentos de grande comicidade e conflito.</p><p>Johnny Lewis, que interpretou Cadet Martin em um episódio da segunda temporada, também faleceu tragicamente em 2012, aos 28 anos. Sua participação, embora breve, demonstrou como personagens secundários podiam ser marcantes.</p><h2>O Legado dos Personagens Secundários</h2><p>Essas perdas destacam a importância dos personagens secundários na construção do humor e da identidade de <em>Malcolm in the Middle</em>. Otto, Spangler e Ida, cada um com sua energia única, contribuíram para a profundidade e o sucesso da série, expandindo seu universo e impulsionando narrativas icônicas.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/otto-and-gretchen-in-malcolm-in-the-middle.jpg?q=49&fit=crop&w=825&dpr=2" alt="Otto e Gretchen em cena de Malcolm in the Middle."/><figcaption>Otto e Gretchen em uma cena memorável de Malcolm in the Middle.</figcaption></figure><p>A força de <em>Malcolm in the Middle</em> residia não apenas na família principal, mas também em seu ecossistema de personalidades excêntricas e vívidas. A ausência desses atores e personagens no reboot pode fazer com que a nova produção pareça mais contida ou menos impactante.</p><p>O legado desses performers é um dos motivos pelos quais <em><strong>Malcolm in the Middle</strong></em> permanece atemporal. O reboot, embora emocionante, não poderá replicar completamente a magia original sem essas figuras essenciais.</p>",
+      "meta_description": "Reboot de Malcolm in the Middle em 2026 não contará com Otto (Kenneth Mars) e outros atores falecidos, impactando o espírito da série.",
+      "focus_keyphrase": "Malcolm in the Middle reboot Otto",
+      "related_keyphrases": [
+        "Malcolm in the Middle elenco",
+        "Kenneth Mars Otto",
+        "Reboot séries 2026"
+      ],
+      "slug": "malcolm-middle-reboot-otto-ausencia",
+      "categorias": [
+        {
+          "nome": "Malcolm in the Middle",
+          "grupo": "obras",
+          "evidence": "<em>Malcolm in the Middle</em> cast"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "2026 Disney+ revival"
+        }
+      ],
+      "tags_sugeridas": [
+        "Malcolm in the Middle",
+        "Reboot",
+        "Disney+",
+        "Kenneth Mars",
+        "Otto"
+      ],
+      "image_alt_texts": {
+        "kenneth-mars-as-otto-in-malcolm-in-the-middle.jpg": "Kenneth Mars como Otto na série Malcolm in the Middle.",
+        "cloris-leachman-as-ida-in-malcolm-in-the-middle.jpg": "Cloris Leachman como Ida, mãe de Lois, em Malcolm in the Middle.",
+        "otto-and-gretchen-in-malcolm-in-the-middle.jpg": "Otto e Gretchen em uma cena memorável de Malcolm in the Middle."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Malcolm in the Middle: Reboot não terá Otto e outros atores falecidos",
+        "_yoast_wpseo_metadesc": "Reboot de Malcolm in the Middle em 2026 não contará com Otto (Kenneth Mars) e outros atores falecidos, impactando o espírito da série.",
+        "_yoast_wpseo_focuskw": "Malcolm in the Middle reboot Otto",
+        "_yoast_news_keywords": "Malcolm in the Middle, Reboot, Disney+, Kenneth Mars, Otto, Cloris Leachman, Daniel von Bargen",
+        "_yoast_wpseo_opengraph-title": "Malcolm in the Middle: Reboot não terá Otto e outros atores falecidos",
+        "_yoast_wpseo_opengraph-description": "Reboot de Malcolm in the Middle em 2026 não contará com Otto (Kenneth Mars) e outros atores falecidos, impactando o espírito da série.",
+        "_yoast_wpseo_twitter-title": "Malcolm in the Middle: Reboot não terá Otto e outros atores falecidos",
+        "_yoast_wpseo_twitter-description": "Reboot de Malcolm in the Middle em 2026 não contará com Otto (Kenneth Mars) e outros atores falecidos, impactando o espírito da série."
+      }
+    },
+    {
+      "titulo_final": "All Creatures Great and Small é renovada para 7ª e 8ª temporadas na PBS",
+      "conteudo_final": "<p>A série britânica <em>All Creatures Great and Small</em>, exibida no Brasil pela PBS Masterpiece, foi oficialmente renovada para as temporadas 7 e 8. A notícia chega antes da estreia da sexta temporada, prevista para 11 de janeiro de 2026, garantindo mais dois anos de histórias ambientadas nos pitorescos Yorkshire Dales.</p><h2>Mais Duas Temporadas Confirmadas</h2><p>A renovação dupla foi anunciada, confirmando o futuro promissor da série. Callum Woodhouse, intérprete de Tristan, já havia sugerido a possibilidade de a série se expandir para filmes. A confirmação das novas temporadas foi celebrada por Susanne Simpson, Head of Scripted Content e Produtora Executiva da Masterpiece:</p><blockquote><p>“<em>All Creatures Great and Small</em> conquistou o coração do público americano e é uma de nossas séries mais assistidas na Masterpiece. Estou emocionada em trazer mais temporadas do calor, esperança e humor que tornam esta série tão especial para a Masterpiece PBS.”</p></blockquote><figure><img src="https://collider.com/wp-content/uploads/2024/12/All-Creatures-Great-and-Small-Season-6-Trailer-Image.jpg?q=49&fit=crop&w=825&dpr=2" alt="Cena da série All Creatures Great and Small."/><figcaption>A série All Creatures Great and Small continua a encantar o público com suas histórias.</figcaption></figure><h2>Enredo da Sexta Temporada</h2><p>Antes da chegada das novas temporadas, os fãs aguardam a sexta temporada, que promete continuar a narrativa com mais contos emocionantes de humanos e animais. Ambientada em 1945, a nova fase mostrará o grupo reunido após o fim da guerra na Europa. James e Helen vivem na fazenda Heston Grange, Tristan está servindo no exterior, Mrs. Hall está ausente e Siegfried lida com a solidão em Skeldale.</p><p>A sinopse oficial destaca o retorno da \"calorosa e reconfortante atmosfera, humor e senso de comunidade\", acompanhados por uma variedade de animais. A série tem sido um refúgio para os espectadores, oferecendo uma visão nostálgica e otimista de uma época passada.</p><h2>Futuro da Série</h2><p>Com a renovação para as temporadas 7 e 8, <em>All Creatures Great and Small</em> consolida seu sucesso e sua conexão com o público. A série continua a ser um dos pilares da programação da PBS Masterpiece, atraindo audiências fiéis com sua qualidade e sensibilidade.</p><figure class="video-container"><iframe src="https://www.youtube.com/embed/DspUGhK7Eqg" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></figure><p>A sexta temporada estreia em 11 de janeiro de 2026, às 21h (horário de Brasília) na PBS Masterpiece. A expectativa é que as novas temporadas mantenham o padrão de qualidade que consagrou a série.</p>",
+      "meta_description": "All Creatures Great and Small é renovada para 7ª e 8ª temporadas na PBS Masterpiece, com estreia da 6ª em janeiro de 2026.",
+      "focus_keyphrase": "All Creatures Great and Small renovada",
+      "related_keyphrases": [
+        "All Creatures Great and Small PBS",
+        "Série britânica Yorkshire",
+        "Temporada 6 All Creatures"
+      ],
+      "slug": "all-creatures-great-and-small-renovada-temporadas",
+      "categorias": [
+        {
+          "nome": "All Creatures Great and Small",
+          "grupo": "obras",
+          "evidence": "<em>All Creatures Great and Small</em>"
+        },
+        {
+          "nome": "PBS Masterpiece",
+          "grupo": "plataformas",
+          "evidence": "PBS Masterpiece"
+        }
+      ],
+      "tags_sugeridas": [
+        "All Creatures Great and Small",
+        "PBS Masterpiece",
+        "Série britânica",
+        "Renovação",
+        "Yorkshire"
+      ],
+      "image_alt_texts": {
+        "all-creatures-great-and-small-season-6-trailer-image.jpg": "Cena da série All Creatures Great and Small ambientada nos Yorkshire Dales."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "All Creatures Great and Small é renovada para 7ª e 8ª temporadas na PBS",
+        "_yoast_wpseo_metadesc": "All Creatures Great and Small é renovada para 7ª e 8ª temporadas na PBS Masterpiece, com estreia da 6ª em janeiro de 2026.",
+        "_yoast_wpseo_focuskw": "All Creatures Great and Small renovada",
+        "_yoast_news_keywords": "All Creatures Great and Small, PBS Masterpiece, Série britânica, Renovação, Yorkshire, Temporada 6",
+        "_yoast_wpseo_opengraph-title": "All Creatures Great and Small é renovada para 7ª e 8ª temporadas na PBS",
+        "_yoast_wpseo_opengraph-description": "All Creatures Great and Small é renovada para 7ª e 8ª temporadas na PBS Masterpiece, com estreia da 6ª em janeiro de 2026.",
+        "_yoast_wpseo_twitter-title": "All Creatures Great and Small é renovada para 7ª e 8ª temporadas na PBS",
+        "_yoast_wpseo_twitter-description": "All Creatures Great and Small é renovada para 7ª e 8ª temporadas na PBS Masterpiece, com estreia da 6ª em janeiro de 2026."
+      }
+    }
+  ]
+}

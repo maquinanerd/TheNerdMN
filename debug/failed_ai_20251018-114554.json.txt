@@ -1,0 +1,64 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Guillermo del Toro's Frankenstein: Uma Obra-Prima do Terror Gótico",
+      "conteudo_final": "<p>Guillermo del Toro finalmente deu vida à sua aguardada versão de <b>Frankenstein</b>, um projeto que o cineasta nutre há anos. Del Toro, conhecido por seu fascínio por histórias clássicas de terror e sua própria estética gótica, imergiu corações e almas nesta produção. Ele sempre expressou profundo carinho pela obra de Mary Shelley e pela icônica adaptação de 1931, estrelada por Boris Karloff.</p>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Jacob-Elordi-as-The-Creature-and-Oscar-Isaac-as-Dr.-Victor-Frankenstein-in-Frankenstein.jpg?w=1024\" alt=\"Jacob Elordi como a Criatura e Oscar Isaac como Dr. Victor Frankenstein em Frankenstein\"><figcaption>Jacob Elordi e Oscar Isaac em Guillermo del Toro's Frankenstein.</figcaption></figure>\n<h2>Reimaginação de Frankenstein e Sua Criatura</h2>\n<p>A adaptação de Del Toro se distancia da visão dos Universal Monsters, focando mais fielmente no romance gótico de Mary Shelley. Em vez de retratar a Criatura como uma força destrutiva que aterroriza aldeões, o filme explora as motivações de Victor Frankenstein e as dinâmicas familiares complexas que cercam o nascimento da Criatura. A narrativa se desdobra em duas partes distintas: a primeira detalha a vida de Victor e os eventos que o levaram a desafiar a natureza, enquanto a segunda é narrada pela própria Criatura.</p>\n<p>Essa inversão de perspectiva permite que Del Toro desconstrua a imagem tradicional do "Monstro de Frankenstein". Jacob Elordi entrega uma performance intensa e comovente como a Criatura, que, ao contrário de outras representações, é retratada como uma figura trágica e incompreendida, levantando a questão sobre quem são os verdadeiros monstros na história.</p>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Jacob-Elordi-as-The-Creature-in-Frankenstein.jpg?w=1024\" alt=\"Jacob Elordi como a Criatura em Frankenstein\"><figcaption>Jacob Elordi brilha como a Criatura.</figcaption></figure>\n<h2>O Drama Familiar e o Simbolismo Religioso</h2>\n<p>No cerne da obra de Del Toro está o tema da família e da paternidade. O filme examina a relação entre Victor e sua criação, explorando o sentimento de abandono e a busca por aceitação. O diretor emprega simbolismo religioso, comparando Victor a um Deus criador e a Criatura a uma figura crucificada. Essa abordagem ressalta a obsessão de Victor com seu papel divino e as consequências de sua arrogância.</p>\n<p>Oscar Isaac interpreta Victor Frankenstein com maestria, mas é a atuação de Elordi que rouba a cena, conferindo profundidade à Criatura. A produção se destaca pelo visual deslumbrante, com um castelo ricamente detalhado e a cinematografia de Dan Laustsen, que pede para ser vista na tela grande. A trilha sonora de Alexandre Desplat complementa perfeitamente a atmosfera sombria e emocionante do filme.</p>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Mia-Goth-as-Elizabeth-and-Oscar-Issac-as-Victor-Frankenstein-in-Frankenstein.jpg?w=1024\" alt=\"Mia Goth como Elizabeth e Oscar Issac como Victor Frankenstein em Frankenstein\"><figcaption>Mia Goth e Oscar Isaac em cenas de Frankenstein.</figcaption></figure>\n<h2>Um Clássico Revisitado com Maestria</h2>\n<p>Com uma duração de duas horas e meia, <b>Guillermo del Toro's Frankenstein</b> utiliza seu tempo para desenvolver uma narrativa rica e envolvente. Embora a primeira metade, que detalha a infância de Victor e os motivos de sua obsessão, possa parecer um pouco arrastada para alguns, ela é essencial para a construção do personagem e sua jornada para se tornar o cientista louco. O filme também introduz Henrich (Christoph Waltz) e Elizabeth (Mia Goth), cujos papéis, embora bem interpretados, servem mais como dispositivos de trama para impulsionar a história.</p>\n<p>Del Toro transforma o conto gótico em uma história de amor e redenção, com a Criatura emergindo como o verdadeiro herói. Esta obra é um testamento ao talento de Del Toro em criar mundos fantásticos e dar voz a personagens marginalizados, ecoando o impacto de seus trabalhos anteriores como <b>O Labirinto do Fauno</b>. O filme promete ser um marco no gênero de terror.</p>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Oscar-Isaac-as-Victor-Frankenstein-in-Frankenstein.jpg?w=1024\" alt=\"Oscar Isaac como Victor Frankenstein em Frankenstein\"><figcaption>Oscar Isaac como o atormentado Dr. Victor Frankenstein.</figcaption></figure>\n<p><b>Frankenstein</b> tem lançamento nos cinemas em 24 de outubro e chega à Netflix em 7 de novembro.</p>",
+      "meta_description": "Guillermo del Toro reimagina Frankenstein com Oscar Isaac e Jacob Elordi. Descubra a nova obra-prima do terror gótico que explora família e redenção.",
+      "focus_keyphrase": "Guillermo del Toro's Frankenstein",
+      "related_keyphrases": [
+        "filme Frankenstein",
+        "terror gótico",
+        "Oscar Isaac Frankenstein"
+      ],
+      "slug": "guillermo-del-toros-frankenstein-critica",
+      "categorias": [
+        {
+          "nome": "Frankenstein",
+          "grupo": "obras",
+          "evidence": "Guillermo del Toro finally got a chance to make his long-awaited Frankenstein movie"
+        },
+        {
+          "nome": "Guillermo del Toro",
+          "grupo": "diretores",
+          "evidence": "Guillermo del Toro's Frankenstein"
+        },
+        {
+          "nome": "Terror Gótico",
+          "grupo": "editorias",
+          "evidence": "masterpiece. Frankenstein is a movie for Del Toro fans who grew to love him thanks to Pan’s Labyrinth. Like that earlier masterpiece, he creates a fairy-tale world come to life by turning Frankenstein’s Monster into a Creature deserving of sympathy and love."
+        }
+      ],
+      "tags_sugeridas": [
+        "guillermo del toro",
+        "frankenstein",
+        "oscar isaac",
+        "jacob elordi",
+        "terror",
+        "cinema",
+        "filme"
+      ],
+      "image_alt_texts": {
+        "jim-carrey-dr-robotnik-sonic.jpg": "Jacob Elordi como a Criatura e Oscar Isaac como Dr. Victor Frankenstein em Frankenstein.",
+        "h-o-g-w-a-r-t-s-l-e-g-a-c-y.png": "Jacob Elordi como a Criatura em Frankenstein.",
+        "s-t-e-a-m.png": "Mia Goth como Elizabeth e Oscar Issac como Victor Frankenstein em Frankenstein.",
+        "companion-movie-3.jpg": "Oscar Isaac como o atormentado Dr. Victor Frankenstein.",
+        "Jacob-Elordi-as-The-Creature-and-Oscar-Isaac-as-Dr.-Victor-Frankenstein-in-Frankenstein.jpg": "Jacob Elordi como a Criatura e Oscar Isaac como Dr. Victor Frankenstein em Frankenstein.",
+        "Jacob-Elordi-as-The-Creature-in-Frankenstein.jpg": "Jacob Elordi como a Criatura em Frankenstein.",
+        "Mia-Goth-as-Elizabeth-and-Oscar-Issac-as-Victor-Frankenstein-in-Frankenstein.jpg": "Mia Goth como Elizabeth e Oscar Issac como Victor Frankenstein em Frankenstein.",
+        "Oscar-Isaac-as-Victor-Frankenstein-in-Frankenstein.jpg": "Oscar Isaac como o atormentado Dr. Victor Frankenstein.",
+        "blazing-saddles-movie-streaming-prime-video.jpg": "Cena de Victor Frankenstein com a Criatura em Frankenstein.",
+        "dont-breathe-2016.jpg": "Um momento dramático entre Victor Frankenstein e a Criatura."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Guillermo del Toro's Frankenstein: Crítica do Filme de Terror Gótico",
+        "_yoast_wpseo_metadesc": "Guillermo del Toro reimagina Frankenstein com Oscar Isaac e Jacob Elordi. Descubra a nova obra-prima do terror gótico que explora família e redenção.",
+        "_yoast_wpseo_focuskw": "Guillermo del Toro's Frankenstein",
+        "_yoast_news_keywords": "Guillermo del Toro, Frankenstein, Oscar Isaac, Jacob Elordi, terror, gótico, cinema, obra-prima",
+        "_yoast_wpseo_opengraph-title": "Crítica: Guillermo del Toro's Frankenstein é uma Obra-Prima do Terror Gótico",
+        "_yoast_wpseo_opengraph-description": "Guillermo del Toro entrega uma visão inovadora e emocional de Frankenstein, estrelada por Oscar Isaac e Jacob Elordi. Saiba mais sobre o filme.",
+        "_yoast_wpseo_twitter-title": "Crítica: Guillermo del Toro's Frankenstein é uma Obra-Prima do Terror Gótico",
+        "_yoast_wpseo_twitter-description": "Guillermo del Toro entrega uma visão inovadora e emocional de Frankenstein, estrelada por Oscar Isaac e Jacob Elordi. Saiba mais sobre o filme."
+      }
+    }
+  ]
+}

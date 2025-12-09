@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Us: O filme de terror mais assustador de Jordan Peele",
+  "conteudo_final": "<p>Jordan Peele se consolidou como um dos diretores em ascensão em Hollywood. Embora todos os seus filmes se enquadrem no gênero de terror, o meu projeto menos favorito dele é, paradoxalmente, seu trabalho mais assustador. No entanto, é importante ressaltar que considerar um filme de Peele como \"menos favorito\" ainda representa um alto nível de qualidade, dado que ele iniciou sua carreira com três obras aclamadas.</p><h2><i>Us</i> é o Filme de Terror Mais Assustador de Jordan Peele</h2><p>Inicialmente conhecido por seu trabalho em comédia, Peele estreou com <em>Get Out</em> em 2017, um grande sucesso que lhe rendeu o Oscar de Melhor Roteiro Original. Ele estabeleceu um padrão elevado para si mesmo. Embora <em>Get Out</em> permaneça como o melhor filme de sua jovem carreira, acredito que seu melhor filme de terror puro veio logo em seguida.</p><figure class=\"video-container\"><img src=\"https:
+  "meta_description": "Descubra por que 'Us', de Jordan Peele, é considerado seu filme de terror mais assustador, apesar de 'Get Out' ser aclamado como sua obra-prima.",
+  "focus_keyphrase": "Jordan Peele Us",
+  "related_keyphrases": [
+    "Jordan Peele filmes",
+    "Get Out",
+    "Nope"
+  ],
+  "slug": "jordan-peele-us-terror",
+  "categorias": [
+    {
+      "nome": "Us",
+      "grupo": "obras",
+      "evidence": "<em>Us</em> é mais de um pure horror movie."
+    },
+    {
+      "nome": "Jordan Peele",
+      "grupo": "franquias",
+      "evidence": "Jordan Peele is one of the fastest rising directors"
+    },
+    {
+      "nome": "Get Out",
+      "grupo": "obras",
+      "evidence": "<em>Get Out</em> was great"
+    }
+  ],
+  "tags_sugeridas": [
+    "jordan peele",
+    "us",
+    "get out",
+    "nope",
+    "terror",
+    "lupita nyongo",
+    "cinema"
+  ],
+  "image_alt_texts": {
+    "us-lupita-nyong-o-as-red.jpg": "Lupita Nyong'o como Red, a assustadora antagonista do filme Us de Jordan Peele.",
+    "chris-looking-at-another-man-suspisciously-in-get-out.jpg": "Chris Washington (Daniel Kaluuya) em uma cena tensa de Get Out, dirigido por Jordan Peele.",
+    "keke-palmer-in-the-desert-in-nope.jpg": "Keke Palmer em uma cena de Nope, o filme de ficção científica e terror de Jordan Peele.",
+    "01452255_poster_w780.jpg": "Pôster oficial do filme Us, dirigido por Jordan Peele, destacando a atmosfera de terror."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Us: O Filme de Terror Mais Assustador de Jordan Peele | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Descubra por que 'Us', de Jordan Peele, é considerado seu filme de terror mais assustador, apesar de 'Get Out' ser aclamado como sua obra-prima.",
+    "_yoast_wpseo_focuskw": "Jordan Peele Us",
+    "_yoast_news_keywords": "Jordan Peele, Us, Get Out, Nope, terror, cinema, Lupita Nyong'o, Daniel Kaluuya",
+    "_yoast_wpseo_opengraph-title": "Us: O Filme de Terror Mais Assustador de Jordan Peele",
+    "_yoast_wpseo_opengraph-description": "Descubra por que 'Us', de Jordan Peele, é considerado seu filme de terror mais assustador, apesar de 'Get Out' ser aclamado como sua obra-prima.",
+    "_yoast_wpseo_twitter-title": "Us: O Filme de Terror Mais Assustador de Jordan Peele",
+    "_yoast_wpseo_twitter-description": "Descubra por que 'Us', de Jordan Peele, é considerado seu filme de terror mais assustador, apesar de 'Get Out' ser aclamado como sua obra-prima."
+  }
+}

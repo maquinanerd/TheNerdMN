@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Michael Jackson: Trailer do biopic é o mais visto da história",
+  "conteudo_final": "<p>O Rei do Pop já está quebrando recordes. Após apenas 24 horas online, o teaser trailer de <b>Michael</b>, a próxima cinebiografia de Michael Jackson, da Lionsgate, alcançou a impressionante marca de <strong>116,2 milhões de visualizações mundialmente</strong>, tornando-se o trailer mais visto de qualquer cinebiografia musical ou filme de concerto da história.</p><p>Os dados, confirmados pela firma de análise WaveMetrix, também marcam o <strong>maior lançamento de trailer da história da Lionsgate</strong>, superando <em>John Wick 4</em> em mais de 50% em suas primeiras seis horas. \"As pessoas esperaram muito tempo por isso\", disse o presidente do Lionsgate Motion Picture Group, <strong>Adam Fogelson</strong>. \"Acho que as pessoas estão chocadas com a performance de Jaafar [Jackson].\"</p><p>Fogelson confirmou que a cinebiografia dirigida por <strong>Antoine Fuqua</strong> foi <strong>dividida em dois filmes</strong>. O corte original teria mais de três horas e meia, incluindo material envolvendo um dos acusadores de Jackson — conteúdo contratualmente proibido de ser dramatizado devido a acordos legais anteriores.</p><blockquote><p>“Desde a última vez que trabalhamos juntos em uma chamada de resultados, tivemos o grande prazer de ver o corte do diretor do primeiro filme, e ele é excepcional. Embora ainda não estejamos prontos para confirmar planos para um segundo filme, posso dizer que a equipe criativa está trabalhando arduamente para garantir que estejamos em posição de entregar mais <em>Michael</em> logo após lançarmos o primeiro filme.”</p></blockquote><p>Com suas 116,2 milhões de visualizações, <em>Michael</em> superou os números de lançamento de vários grandes sucessos musicais. Para comparação: <em>Taylor Swift: The Eras Tour</em> registrou <strong>96,1 milhões de visualizações</strong>, <em>Bob Marley: One Love</em> teve <strong>60,1 milhões</strong>, <em>Bohemian Rhapsody</em> alcançou <strong>57,6 milhões</strong>, e <em>A Complete Unknown</em>, a cinebiografia de Bob Dylan, atingiu <strong>47,2 milhões</strong>.</p><p>A estreia do teaser também deu à Lionsgate um impulso promocional perfeitamente cronometrado, sendo lançado poucas horas antes de sua apresentação trimestral de resultados. Em seis horas após o lançamento, o trailer de <em>Michael</em> já acumulava <strong>mais de 30 milhões de visualizações</strong>, um número que superou o engajamento inicial de <em>John Wick 4</em> em metade.</p><p>Os fãs também poderão ver o trailer nos cinemas no próximo fim de semana, onde será exibido exclusivamente antes do próximo filme da Lionsgate, <em>Now You See: Now You Don’t</em>.</p><h2>Quem está envolvido no filme de Michael Jackson?</h2><figure class="video-container"><iframe src="https://www.youtube.com/embed/723RZxnDWKE" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></figure><p>O sobrinho de Jackson, <strong>Jaafar Jackson</strong>, estrela como seu lendário tio, ao lado de <strong>Colman Domingo</strong> como o patriarca Joe Jackson, <strong>Nia Long</strong> como a matriarca Katherine Jackson, e <strong>Miles Teller</strong> como o advogado de Jackson, John Branca. O jovem Michael é interpretado por <strong>Juliano Krue Valdi</strong>, enquanto <strong>Kat Graham</strong>, <strong>Larenz Tate</strong> e <strong>Jessica Sula</strong> completam o elenco como figuras do círculo do cantor.</p><p>O roteiro é de <strong>John Logan</strong>, três vezes indicado ao Oscar por <em>Gladiador</em> e <em>007 - Operação Skyfall</em>. A Lionsgate distribuirá <em>Michael</em> nos mercados domésticos, com a <strong>Universal Pictures</strong> cuidando dos mercados internacionais (exceto Japão, onde será lançado pela <strong>Kino Films</strong>), enquanto o filme é <strong>dirigido por Antoine Fuqua</strong> (<em>Dia de Treinamento, O Protetor</em>) e produzido por <strong>Graham King</strong> (de <em>Bohemian Rhapsody</em>).</p><p>Fuqua descreveu <em>Michael</em> como um projeto profundamente pessoal. \"Não há artista com o poder, o carisma e o puro gênio musical de Michael Jackson\", disse ele em uma declaração anterior. \"Sua música e essas imagens fazem parte da minha visão de mundo, e a chance de contar sua história na tela ao lado de sua música foi irresistível.\"</p><p><em>Michael</em> chega aos cinemas em 24 de abril de 2026.</p>",
+  "meta_description": "O trailer da cinebiografia de Michael Jackson, 'Michael', alcança 116,2 milhões de visualizações em 24h, tornando-se o mais visto da história.",
+  "focus_keyphrase": "Michael Jackson cinebiografia trailer recorde",
+  "related_keyphrases": [
+    "filme Michael Jackson",
+    "trailer de cinebiografia musical",
+    "Jaafar Jackson no filme"
+  ],
+  "slug": "michael-jackson-trailer-recorde-cinebiografia",
+  "categorias": [
+    {
+      "nome": "Michael Jackson",
+      "grupo": "artistas",
+      "evidence": "Michael Jackson"
+    },
+    {
+      "nome": "Michael",
+      "grupo": "obras",
+      "evidence": "Michael, the upcoming Michael Jackson biopic"
+    },
+    {
+      "nome": "Lionsgate",
+      "grupo": "estúdios",
+      "evidence": "Lionsgate"
+    }
+  ],
+  "tags_sugeridas": [
+    "Michael Jackson",
+    "Jaafar Jackson",
+    "Antoine Fuqua",
+    "Lionsgate",
+    "cinebiografia",
+    "trailer",
+    "recorde"
+  ],
+  "image_alt_texts": {
+    "723RZxnDWKE": "Michael Jackson em cena do trailer do filme 'Michael', interpretado por Jaafar Jackson."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Michael Jackson: Trailer do biopic é o mais visto da história | Maquina Nerd",
+    "_yoast_wpseo_metadesc": "O trailer da cinebiografia de Michael Jackson, 'Michael', alcança 116,2 milhões de visualizações em 24h, tornando-se o mais visto da história.",
+    "_yoast_wpseo_focuskw": "Michael Jackson cinebiografia trailer recorde",
+    "_yoast_news_keywords": "Michael Jackson, Jaafar Jackson, Antoine Fuqua, Lionsgate, cinebiografia, trailer, recorde, música",
+    "_yoast_wpseo_opengraph-title": "Michael Jackson: Trailer do biopic é o mais visto da história",
+    "_yoast_wpseo_opengraph-description": "O trailer da cinebiografia de Michael Jackson, 'Michael', alcança 116,2 milhões de visualizações em 24h, tornando-se o mais visto da história.",
+    "_yoast_wpseo_twitter-title": "Michael Jackson: Trailer do biopic é o mais visto da história",
+    "_yoast_wpseo_twitter-description": "O trailer da cinebiografia de Michael Jackson, 'Michael', alcança 116,2 milhões de visualizações em 24h, tornando-se o mais visto da história."
+  }
+}

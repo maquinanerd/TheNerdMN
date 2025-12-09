@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Jeff Bridges reflete sobre o desempenho de bilheteria de Tron: Ares",
+  "conteudo_final": "<p><b>Jeff Bridges</b>, estrela de <i>Tron: Ares</i>, comentou o desempenho decepcionante do filme nas bilheterias. Lançado no início deste mês, o terceiro filme da franquia <i>Tron</i>, dirigido por Joachim Rønning, arrecadou apenas US$ 33 milhões em seu fim de semana de estreia doméstica, ficando aquém das projeções.</p><p>Bridges, que reprisa seu papel como Kevin Flynn, sugere que o valor de um filme vai além de seu desempenho inicial. Em entrevista à <i>EW</i>, o ator ressaltou que a recepção de um longa-metragem pode mudar com o tempo. Ele citou <i>O Céu Que Cai Sobre Nós</i> (1980) como exemplo, um filme inicialmente considerado um fracasso, mas que hoje é visto como uma obra-prima.</p><p>“É interessante como os filmes são recebidos no fim de semana de estreia. Lembro que <i>O Céu Que Cai Sobre Nós</i> foi considerado, sabe, muito decepcionante ou um flop, mas hoje em dia é considerado uma espécie de obra-prima”, declarou Bridges.</p><p>O ator também mencionou que suas próprias opiniões sobre filmes podem evoluir. Ele acredita que <i>Tron: Ares</i> pode ganhar mais apreço no futuro. “Mesmo como indivíduo, muitas vezes, eu não gostei de um filme. E então, algumas semanas ou meses depois, eu o assisto novamente. Eu digo: ‘Do que eu estava pensando?’ [Risos] Como o Dude diria, ‘Isso é só a sua opinião, cara’”, completou.</p><p><i>Tron: Ares</i> foi produzido com um orçamento estimado entre US$ 180 milhões e US$ 220 milhões. Seguindo a regra geral de Hollywood, o filme precisaria arrecadar cerca de US$ 550 milhões para atingir o ponto de equilíbrio. Até o momento, a bilheteria mundial do longa somou apenas US$ 124 milhões, sendo US$ 63 milhões domésticos e US$ 60 milhões internacionais.</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "Jeff Bridges reflete sobre a bilheteria de Tron: Ares, comparando o desempenho inicial com a recepção a longo prazo de outros filmes.",
+  "focus_keyphrase": "Jeff Bridges Tron: Ares bilheteria",
+  "related_keyphrases": [
+    "desempenho bilheteria Tron: Ares",
+    "Jeff Bridges sobre legado Tron",
+    "críticas Tron: Ares"
+  ],
+  "slug": "jeff-bridges-tron-ares-bilheteria",
+  "categorias": [
+    {
+      "nome": "Tron",
+      "grupo": "franquias",
+      "evidence": "a terceira installment in the <em>Tron</em> franchise"
+    },
+    {
+      "nome": "Tron: Ares",
+      "grupo": "obras",
+      "evidence": "<em>Tron: Ares</em> released to a disappointing showing at the box office"
+    }
+  ],
+  "tags_sugeridas": [
+    "jeff bridges",
+    "tron ares",
+    "disney",
+    "jared leto",
+    "bilheteria",
+    "franquia tron"
+  ],
+  "image_alt_texts": {
+    "mcdtrar_wd038-cropped.jpg": "Jared Leto em seu traje vermelho da grade em Tron: Ares.",
+    "01568212_poster_w780.jpg": "Pôster oficial de Tron: Ares.",
+    "tron-ares-jared-leto-costume-and-hair.jpg": "Jared Leto com traje e cabelo característicos em Tron: Ares.",
+    "tron-ares-gillian-anderson-evan-peters-julian-dillinger.jpg": "Gillian Anderson e Evan Peters em uma cena de Tron: Ares.",
+    "jeff-bridges-as-kevin-flynn-in-tron-ares.jpg": "Jeff Bridges como Kevin Flynn em Tron: Ares.",
+    "tron-ares-arturo-castro-eve-kim.jpg": "Arturo Castro e Eve Kim em uma cena de Tron: Ares.",
+    "tron-ares-athena-and-dillinger-soldiers.jpg": "Soldados de Athena e Dillinger em Tron: Ares.",
+    "tron-ares-jodie-turner-smith-as-athena.jpg": "Jodie Turner-Smith como Athena em Tron: Ares.",
+    "jared-leto-in-tron_-ares.jpg": "Jared Leto em uma pose intensa como Ares em Tron: Ares."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Jeff Bridges reflete sobre bilheteria decepcionante de Tron: Ares",
+    "_yoast_wpseo_metadesc": "Jeff Bridges compartilha sua visão sobre o desempenho de bilheteria de Tron: Ares, sugerindo que filmes podem ser reavaliados com o tempo.",
+    "_yoast_wpseo_focuskw": "Jeff Bridges Tron: Ares bilheteria",
+    "_yoast_news_keywords": "Jeff Bridges, Tron: Ares, Disney, Jared Leto, bilheteria, Joachim Rønning, franquia Tron",
+    "_yoast_wpseo_opengraph-title": "Jeff Bridges reflete sobre a bilheteria de Tron: Ares",
+    "_yoast_wpseo_opengraph-description": "Jeff Bridges comenta o desempenho de Tron: Ares nas bilheterias, comparando com obras passadas e o potencial de reavaliação.",
+    "_yoast_wpseo_twitter-title": "Jeff Bridges sobre bilheteria de Tron: Ares",
+    "_yoast_wpseo_twitter-description": "O ator Jeff Bridges aborda a performance financeira de Tron: Ares e a importância da recepção a longo prazo."
+  }
+}

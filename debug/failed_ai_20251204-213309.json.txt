@@ -1,0 +1,143 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Punisher de Jon Bernthal Conecta Especial do Disney+ e Homem-Aranha 4",
+      "conteudo_final": "<p>Jon Bernthal retorna como o Justiceiro em 2026 com um especial no Disney+ e em <strong><em>Spider-Man: Brand New Day</em></strong>. O ator compartilhou detalhes sobre como os dois projetos se conectarão.</p><h2>Conexão entre os Projetos</h2><p>Após o fim do acordo da Netflix com a Marvel, Bernthal aguardou seu retorno ao Universo Cinematográfico Marvel (MCU). Ele reapareceu em <em>Daredevil: Born Again</em>, onde o Justiceiro estava escondido, mas foi descoberto por policiais que usavam sua iconografia para fins corruptos. Após combaterem juntos a Força-Tarefa Anti-Vigilantes de Wilson Fisk, o Justiceiro é preso, mas escapa, preparando o terreno para seu especial solo no Disney+.</p><p>Pouco antes das filmagens do especial, foi anunciado que o Justiceiro de Bernthal também estaria em <em>Spider-Man: Brand New Day</em>. As gravações dos projetos ocorreram em sequência, de julho a agosto, garantindo ao vigilante duas grandes histórias no MCU em 2026. O filme do Homem-Aranha tem estreia prevista para julho, enquanto o especial do Disney+ deve chegar próximo à segunda temporada de <em>Daredevil: Born Again</em>.</p><h2>Abordagem de Personagem</h2><p>Bernthal explicou que a abordagem para seu papel em <em>Spider-Man: Brand New Day</em> permitiu uma transição fluida entre os sets. Ele, Tom Holland e o diretor Destin Daniel Cretton trabalharam para que o Justiceiro pudesse transitar entre os projetos sem problemas.</p><blockquote><p>Jon Bernthal: Na mesma época, haverá este especial do Punisher, que acredito que será o Punisher mais 'high-octane' que vocês já viram. Acho que o que foi realmente importante para mim, para Destin e para Tom é que acreditávamos que o Punisher poderia sair do set de Homem-Aranha e entrar no set do especial, e eu acredito que alcançamos isso.</p></blockquote><p>O Justiceiro de Bernthal não é o primeiro personagem a ter seu tom adaptado para o MCU, nem o primeiro em filmes do Homem-Aranha de Holland. Matt Murdock, interpretado por Charlie Cox, apareceu em <em>No Way Home</em> antes de retornar em <em>Daredevil: Born Again</em>, com uma versão um pouco mais leve do personagem. Cox também explorou o lado mais leve de Matt em <em>She-Hulk: Attorney at Law</em>.</p><h2>O Papel em Spider-Man: Brand New Day</h2><p>Considerando isso, a participação de Bernthal em <em>Spider-Man: Brand New Day</em> pode ser uma transição natural para o público. O filme também contará com o retorno de Mark Ruffalo como Bruce Banner e Michael Mando como Escorpião, além da introdução de Sadie Sink, Tramell Tillman e Marvin Jones III como oTombstone em live-action. O papel do Justiceiro pode ser menor, facilitando a adaptação entre os diferentes tons.</p><p>Outro fator importante é que a aparição do Justiceiro em <em>Spider-Man: Brand New Day</em> provavelmente ocorrerá após o especial do Disney+. Bernthal já indicou que o título do MCU, que também marca sua estreia como roteirista, apresentará uma versão "sem restrições" do personagem. Isso pode permitir que ele libere parte de sua raiva, tornando-o mais adequado para transitar entre propriedades com classificações etárias mais maduras e outras PG-13.</p>",
+      "meta_description": "Jon Bernthal revela como o Justiceiro se conectará ao especial do Disney+ e a Homem-Aranha: Brand New Day, garantindo transição tonal fluida.",
+      "focus_keyphrase": "Justiceiro em Homem-Aranha Brand New Day",
+      "related_keyphrases": [
+        "Punisher Disney+ especial",
+        "Jon Bernthal MCU",
+        "Homem-Aranha 4 conexão"
+      ],
+      "slug": "punisher-homem-aranha-disney-plus",
+      "categorias": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "grupo": "franquias",
+          "evidence": "<em>Spider-Man: Brand New Day</em>"
+        },
+        {
+          "nome": "O Justiceiro",
+          "grupo": "personagens",
+          "evidence": "Jon Bernthal's Punisher"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "Disney+ special"
+        }
+      ],
+      "tags_sugeridas": [
+        "Justiceiro",
+        "Homem-Aranha",
+        "Disney+",
+        "MCU",
+        "Jon Bernthal"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Justiceiro em Homem-Aranha Brand New Day: Conexão com Especial Disney+ Revelada",
+        "_yoast_wpseo_metadesc": "Jon Bernthal revela como o Justiceiro se conectará ao especial do Disney+ e a Homem-Aranha: Brand New Day, garantindo transição tonal fluida.",
+        "_yoast_wpseo_focuskw": "Justiceiro em Homem-Aranha Brand New Day",
+        "_yoast_news_keywords": "Justiceiro, Homem-Aranha, Disney+, MCU, Jon Bernthal, Spider-Man: Brand New Day, Daredevil: Born Again",
+        "_yoast_wpseo_opengraph-title": "Justiceiro em Homem-Aranha Brand New Day: Conexão com Especial Disney+ Revelada",
+        "_yoast_wpseo_opengraph-description": "Jon Bernthal revela como o Justiceiro se conectará ao especial do Disney+ e a Homem-Aranha: Brand New Day, garantindo transição tonal fluida.",
+        "_yoast_wpseo_twitter-title": "Justiceiro em Homem-Aranha Brand New Day: Conexão com Especial Disney+ Revelada",
+        "_yoast_wpseo_twitter-description": "Jon Bernthal revela como o Justiceiro se conectará ao especial do Disney+ e a Homem-Aranha: Brand New Day, garantindo transição tonal fluida."
+      }
+    },
+    {
+      "titulo_final": "Speedy Gonzales: O Ícone Looney Tunes Pode Ganhar Filme Solo Após 'Coyote vs. Acme'",
+      "conteudo_final": "<p>Após o cancelamento e posterior resgate de <em>Coyote vs. Acme</em>, a possibilidade de um filme solo para um ícone divisivo dos Looney Tunes, como Speedy Gonzales, volta a ser discutida. Jorge R. Gutierrez, diretor de <em>The Book of Life</em>, expressou interesse em trazer o personagem para as telonas.</p><h2>O Legado de Speedy Gonzales</h2><p>Speedy Gonzales, conhecido por sua velocidade e sotaque exagerado, é um personagem complexo na história da animação. Sua representação gerou debates sobre estereótipos culturais, o que levou a uma recepção mista ao longo dos anos. Apesar disso, o personagem possui uma base de fãs dedicada.</p><h2>Interesse em um Novo Filme</h2><p>Jorge R. Gutierrez, que dirigiu <em>The Book of Life</em>, um filme aclamado por sua representação vibrante da cultura mexicana, manifestou publicamente seu desejo de dirigir um filme de Speedy Gonzales. Ele vê potencial no personagem para uma nova abordagem, que respeite suas origens e, ao mesmo tempo, o atualize para o público contemporâneo.</p><p>A salvação de <em>Coyote vs. Acme</em>, que estava prestes a ser arquivado pela Warner Bros. Discovery, reacendeu discussões sobre o futuro de personagens clássicos da Looney Tunes. A possibilidade de um filme solo para Speedy Gonzales, com a visão de um diretor como Gutierrez, pode ser uma oportunidade para explorar o personagem de uma nova maneira, abordando suas controvérsias e celebrando seu legado.</p>",
+      "meta_description": "Após 'Coyote vs. Acme' ser salvo, diretor Jorge R. Gutierrez expressa interesse em um filme solo para o icônico e controverso Speedy Gonzales.",
+      "focus_keyphrase": "Speedy Gonzales filme solo",
+      "related_keyphrases": [
+        "Looney Tunes filme",
+        "Jorge R. Gutierrez",
+        "Coyote vs. Acme"
+      ],
+      "slug": "speedy-gonzales-filme-looney-tunes",
+      "categorias": [
+        {
+          "nome": "Looney Tunes",
+          "grupo": "franquias",
+          "evidence": "Looney Tunes"
+        },
+        {
+          "nome": "Coyote vs. Acme",
+          "grupo": "obras",
+          "evidence": "Coyote vs. Acme"
+        }
+      ],
+      "tags_sugeridas": [
+        "Speedy Gonzales",
+        "Looney Tunes",
+        "Jorge R. Gutierrez",
+        "Coyote vs. Acme",
+        "Animação"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Speedy Gonzales: Ícone Looney Tunes Pode Ganhar Filme Solo Após 'Coyote vs. Acme'",
+        "_yoast_wpseo_metadesc": "Após 'Coyote vs. Acme' ser salvo, diretor Jorge R. Gutierrez expressa interesse em um filme solo para o icônico e controverso Speedy Gonzales.",
+        "_yoast_wpseo_focuskw": "Speedy Gonzales filme solo",
+        "_yoast_news_keywords": "Speedy Gonzales, Looney Tunes, Jorge R. Gutierrez, Coyote vs. Acme, Animação, Filme",
+        "_yoast_wpseo_opengraph-title": "Speedy Gonzales: Ícone Looney Tunes Pode Ganhar Filme Solo Após 'Coyote vs. Acme'",
+        "_yoast_wpseo_opengraph-description": "Após 'Coyote vs. Acme' ser salvo, diretor Jorge R. Gutierrez expressa interesse em um filme solo para o icônico e controverso Speedy Gonzales.",
+        "_yoast_wpseo_twitter-title": "Speedy Gonzales: Ícone Looney Tunes Pode Ganhar Filme Solo Após 'Coyote vs. Acme'",
+        "_yoast_wpseo_twitter-description": "Após 'Coyote vs. Acme' ser salvo, diretor Jorge R. Gutierrez expressa interesse em um filme solo para o icônico e controverso Speedy Gonzales."
+      }
+    },
+    {
+      "titulo_final": "Netflix Anuncia Spin-Off de Extraction com Estrelas de K-Pop e Squid Game",
+      "conteudo_final": "<p>A Netflix expande seu universo de ação com um spin-off de <em>Extraction</em>, prometendo uma mistura de K-pop e estrelas de <em>Squid Game</em>. O novo filme, ainda sem título oficial, contará com nomes como Lee Jin-uk, Don Lee e Lisa Manobal (Lisa do BLACKPINK).</p><h2>Expansão do Universo Extraction</h2><p>Após o sucesso de <em>Extraction</em> e <em>Extraction 2</em>, a Netflix investe em expandir a franquia. O novo projeto promete trazer uma nova perspectiva, incorporando elementos da cultura sul-coreana, como K-pop e o fenômeno global <em>Squid Game</em>.</p><h2>Elenco Estelar</h2><p>O elenco reunirá talentos renomados. Lee Jin-uk, conhecido por seus papéis em dramas sul-coreanos, e Don Lee, que ganhou destaque internacional com <em>Train to Busan</em> e <em>The Outlaws</em>, se juntam a Lisa Manobal, membro do popular grupo de K-pop BLACKPINK. A participação de Lisa marca sua incursão no cinema de ação.</p><p>A combinação de ação intensa, característica da franquia <em>Extraction</em>, com o carisma das estrelas sul-coreanas e o apelo global do K-pop, sugere um potencial sucesso para o novo projeto da Netflix. Detalhes sobre a trama ainda são escassos, mas a expectativa é alta para ver como esses elementos se unirão.</p>",
+      "meta_description": "Netflix anuncia spin-off de Extraction com estrelas de K-pop e Squid Game, incluindo Lee Jin-uk, Don Lee e Lisa Manobal.",
+      "focus_keyphrase": "Spin-off Extraction Netflix",
+      "related_keyphrases": [
+        "Filme de ação coreano",
+        "Lee Jin-uk",
+        "Don Lee",
+        "Lisa BLACKPINK"
+      ],
+      "slug": "netflix-extraction-spin-off-korea",
+      "categorias": [
+        {
+          "nome": "Extraction",
+          "grupo": "franquias",
+          "evidence": "Extraction"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "Squid Game",
+          "grupo": "obras",
+          "evidence": "Squid Game"
+        }
+      ],
+      "tags_sugeridas": [
+        "Extraction",
+        "Netflix",
+        "Lee Jin-uk",
+        "Don Lee",
+        "Lisa BLACKPINK",
+        "Squid Game",
+        "Ação"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix Anuncia Spin-Off de Extraction com Estrelas de K-Pop e Squid Game",
+        "_yoast_wpseo_metadesc": "Netflix anuncia spin-off de Extraction com estrelas de K-pop e Squid Game, incluindo Lee Jin-uk, Don Lee e Lisa Manobal.",
+        "_yoast_wpseo_focuskw": "Spin-off Extraction Netflix",
+        "_yoast_news_keywords": "Extraction, Netflix, Lee Jin-uk, Don Lee, Lisa BLACKPINK, Squid Game, Ação, K-pop",
+        "_yoast_wpseo_opengraph-title": "Netflix Anuncia Spin-Off de Extraction com Estrelas de K-Pop e Squid Game",
+        "_yoast_wpseo_opengraph-description": "Netflix anuncia spin-off de Extraction com estrelas de K-pop e Squid Game, incluindo Lee Jin-uk, Don Lee e Lisa Manobal.",
+        "_yoast_wpseo_twitter-title": "Netflix Anuncia Spin-Off de Extraction com Estrelas de K-Pop e Squid Game",
+        "_yoast_wpseo_twitter-description": "Netflix anuncia spin-off de Extraction com estrelas de K-pop e Squid Game, incluindo Lee Jin-uk, Don Lee e Lisa Manobal."
+      }
+    }
+  ]
+}

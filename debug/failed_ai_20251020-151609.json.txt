@@ -1,0 +1,60 @@
+{
+  "titulo_final": "Terror dos Anos 90: Sequência Clássica Ganha Nova Vida na Netflix",
+  "conteudo_final": "<p>Os anos 90 foram um período vibrante para o cinema de terror, nos presenteando com clássicos como <b>Pânico</b> e <b>O Mistério de Candyman</b>. Essa década também foi marcada por sequências de terror mais leves e divertidas, que muitas vezes provocavam mais risadas do que sustos. Uma das mais excêntricas e memoráveis dessas continuações acaba de chegar à Netflix, ganhando relevância novamente com um reboot recente.</p>\n\n<h2>O Legado de \"Eu Ainda Sei o Que Vocês Fizeram no Verão Passado\"</h2>\n<p><b>Eu Ainda Sei o Que Vocês Fizeram no Verão Passado</b> estreou nos cinemas em 1998, apenas um ano após o sucesso do original <b>Eu Sei o Que Vocês Fizeram no Verão Passado</b>. Como é comum, a sequência arrecadou menos que o antecessor e recebeu críticas mais negativas, apesar de um orçamento maior. Devido ao roteiro, atuações às vezes cômicas e reviravoltas no terceiro ato que ainda causam risadas, o filme foi considerado uma sequência fraca. Curiosamente, o longa conta com uma participação precoce de <b>Jack Black</b> como um aspirante a traficante em uma ilha, uma cena hilária em retrospecto.</p>\n\n<p>A adição da sequência à Netflix este mês pode impulsionar seu reconhecimento, especialmente com a proximidade do Halloween. Contudo, é o lançamento de um novo filme que tem reavivado o interesse em <b>Eu Ainda Sei o Que Vocês Fizeram no Verão Passado</b>: o reboot/sequência-legado <b>Eu Sei o Que Vocês Fizeram no Verão Passado</b>, que chegou à plataforma há poucos dias.</p>\n\n<p>Embora o novo <b>Eu Sei o Que Vocês Fizeram no Verão Passado</b> esteja diretamente conectado ao filme original, uma cena pós-créditos tem feito os fãs de slasher comentarem sobre <b>Eu Ainda Sei</b> como há muito tempo não se via. Atenção: a partir daqui, spoilers do remake!</p>\n\n<h2>O Retorno de Personagens Chave</h2>\n<p>Após Julie James (Jennifer Love Hewitt) sobreviver a mais uma onda de assassinatos em Southport, Carolina do Norte, ela retorna na cena pós-créditos de <b>Eu Sei o Que Vocês Fizeram no Verão Passado</b> (2025) para se reencontrar com uma velha amiga. A cena apresenta Brandy Norwood (retornando ao seu papel da sequência de 1998) assistindo às notícias dos acontecimentos do filme quando Julie bate à sua porta. Ela entrega outro bilhete ameaçador, indicando um novo assassino à solta e que está atrás dela. Julie pede ajuda a Karla (Norwood) para desvendar o mistério, e sua antiga colega de quarto responde: “Quem vamos arruinar desta vez?”</p>\n\n<p>Para quem assistiu apenas ao original <b>Eu Sei o Que Vocês Fizeram no Verão Passado</b> antes do remake, pode não ter reconhecido Karla. Ela era a colega de quarto de Julie na sequência, e ambas foram vítimas de um assassino nas Bahamas enquanto estavam de férias.</p>\n\n<p>O novo <b>Eu Sei o Que Vocês Fizeram no Verão Passado</b> não foi um sucesso estrondoso de bilheteria, arrecadando pouco menos de US$ 65 milhões, mas também não foi um fracasso total. O plano é claramente continuar a história utilizando elementos de <b>Eu Ainda Sei o Que Vocês Fizeram no Verão Passado</b>, e um forte desempenho no streaming pela Netflix pode ajudar a concretizar isso.</p>\n\n<p>Se a nova era da franquia ganhar uma sequência, é provável que Karla e Julie estejam fortemente envolvidas. E não se descarta um retorno às Bahamas.</p>\n\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/Bm3-443K2V4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>",
+  "meta_description": "Sequência cult de terror dos anos 90, 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado', está disponível na Netflix e ganha relevância com novo reboot da franquia.",
+  "focus_keyphrase": "Eu Ainda Sei o Que Vocês Fizeram no Verão Passado",
+  "related_keyphrases": [
+    "Eu Sei o Que Vocês Fizeram no Verão Passado",
+    "Terror Anos 90",
+    "Sequências de Terror"
+  ],
+  "slug": "sequencia-terror-anos-90-netflix",
+  "categorias": [
+    {
+      "nome": "Eu Ainda Sei o Que Vocês Fizeram no Verão Passado",
+      "grupo": "obras",
+      "evidence": "Eu Ainda Sei o Que Vocês Fizeram no Verão Passado chegou em..."
+    },
+    {
+      "nome": "Eu Sei o Que Vocês Fizeram no Verão Passado",
+      "grupo": "obras",
+      "evidence": "apenas um ano após o original Eu Sei o Que Vocês Fizeram no Verão Passado"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "servicos",
+      "evidence": "acaba de chegar à Netflix"
+    }
+  ],
+  "tags_sugeridas": [
+    "Eu Ainda Sei o Que Vocês Fizeram no Verão Passado",
+    "Eu Sei o Que Vocês Fizeram no Verão Passado",
+    "Terror",
+    "Anos 90",
+    "Netflix",
+    "Jennifer Love Hewitt",
+    "Brandy Norwood"
+  ],
+  "image_alt_texts": {
+    "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "Escape-from-New-York.jpg": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "Battlestar-Galactica-33.jpg": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "Star-Cops.jpg": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "comicbook.com-images3.png": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "p-s-5-p-r-o.png": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "p-s-5_aed69f.png": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "sunshine.jpg": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "hqdefault.jpg": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'.",
+    "maxresdefault.jpg": "Sequência de terror cult dos anos 90 ganha nova vida, com foco em 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado'."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Terror dos Anos 90: Sequência Clássica Ganha Nova Vida na Netflix",
+    "_yoast_wpseo_metadesc": "Sequência cult de terror dos anos 90, 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado', está disponível na Netflix e ganha relevância com novo reboot da franquia.",
+    "_yoast_wpseo_focuskw": "Eu Ainda Sei o Que Vocês Fizeram no Verão Passado",
+    "_yoast_news_keywords": "Eu Ainda Sei o Que Vocês Fizeram no Verão Passado, Eu Sei o Que Vocês Fizeram no Verão Passado, Terror, Anos 90, Netflix, Jennifer Love Hewitt, Brandy Norwood",
+    "_yoast_wpseo_opengraph-title": "Terror dos Anos 90: Sequência Clássica Ganha Nova Vida na Netflix",
+    "_yoast_wpseo_opengraph-description": "Sequência cult de terror dos anos 90, 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado', está disponível na Netflix e ganha relevância com novo reboot da franquia.",
+    "_yoast_wpseo_twitter-title": "Terror dos Anos 90: Sequência Clássica Ganha Nova Vida na Netflix",
+    "_yoast_wpseo_twitter-description": "Sequência cult de terror dos anos 90, 'Eu Ainda Sei o Que Vocês Fizeram no Verão Passado', está disponível na Netflix e ganha relevância com novo reboot da franquia."
+  }
+}

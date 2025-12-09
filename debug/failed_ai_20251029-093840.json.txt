@@ -1,0 +1,65 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hulk no MCU: Cenas Inesquecíveis do Gigante Esmeralda Fora dos Holofotes",
+      "conteudo_final": "<p>O <b>Hulk</b> já esmagou, rugiu e salvou o mundo inúmeras vezes no Universo Cinematográfico Marvel (MCU). No entanto, nem todos os grandes momentos do Gigante Esmeralda envolvem explosões gigantescas ou socos que viram memes. Por trás do caos, a jornada de Bruce Banner é marcada por emoção sutil, autocontrole e crescimento, frequentemente exemplificada por momentos entre as batalhas, que acabam sendo esquecidos.</p><p>Muitos se lembram das maiores fúrias do Hulk no MCU, mas são as nuances que revelam a humanidade e o coração do personagem. Ao longo dos filmes, vemos o Hulk não apenas como uma força da natureza, mas como um herói conflitado que busca paz interior. Gestos delicados e silêncios introspectivos mostram facetas do personagem frequentemente negligenciadas.</p><h2>Smart Hulk Oferece um Taco a Scott Lang em Vingadores: Ultimato</h2><figure><img src=\"https:
+      "meta_description": "Descubra cenas do Hulk no MCU que muitos esquecem, explorando seus momentos de emoção, crescimento e humanidade fora das grandes batalhas.",
+      "focus_keyphrase": "Hulk no MCU",
+      "related_keyphrases": [
+        "Cenas do Hulk",
+        "Momentos esquecidos Hulk",
+        "Bruce Banner MCU"
+      ],
+      "slug": "hulk-cenas-mcu-esquecidas",
+      "categorias": [
+        {
+          "nome": "Marvel",
+          "grupo": "franquias",
+          "evidence": "MCU"
+        },
+        {
+          "nome": "Hulk",
+          "grupo": "personagens",
+          "evidence": "Hulk"
+        },
+        {
+          "nome": "Vingadores",
+          "grupo": "franquias",
+          "evidence": "Avengers: Endgame"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hulk",
+        "MCU",
+        "Marvel",
+        "Bruce Banner",
+        "Vingadores",
+        "Era de Ultron",
+        "Thor Ragnarok"
+      ],
+      "image_alt_texts": {
+        "smart-hulk-in-avengers-endgame.jpg": "Smart Hulk oferecendo um taco a Scott Lang em uma cena tranquila de Vingadores: Ultimato.",
+        "mark-ruffalo-s-smart-hulk-holds-up-the-avengers-compound-in-avengers-endgame.jpg": "Smart Hulk de Mark Ruffalo sustenta escombros para salvar Máquina de Combate e Rocket em Vingadores: Ultimato.",
+        "betty-ross-and-hulk-in-the-incredible-hulk.jpg": "Betty Ross e Hulk se abrigam em uma caverna em uma cena terna de O Incrível Hulk.",
+        "bruce-talking-to-a-security-guard-in-the-avengers-2012.jpg": "Bruce Banner acorda nu e confuso após sua transformação em Hulk em Os Vingadores (2012).",
+        "hulk-confused-by-loki-in-avengers-endgame.jpg": "Hulk demonstrando confusão com a metamorfose de Loki em Vingadores: Ultimato.",
+        "mark-ruffalo-s-bruce-baner-turns-into-the-hulk-in-front-of-scarlett-johansson-s-black-widow-in-avengers-age-of-ultron-2015.jpg": "A Viúva Negra de Scarlett Johansson provoca a transformação de Bruce Banner em Hulk em Era de Ultron.",
+        "gladiator-hulk-celebrating-in-thor-ragnarok.jpg": "Hulk celebrando os aplausos da multidão como gladiador em Thor: Ragnarok.",
+        "bruce-banner-iron-man-3-cameo.jpg": "Bruce Banner ouve atentamente Tony Stark em sua participação especial em Homem de Ferro 3.",
+        "bruce-banner-age-of-ultron.jpg": "Bruce Banner expressa raiva contida em uma cena tensa em Era de Ultron.",
+        "rampaging-hulk-in-avengers-age-of-ultron.jpg": "O Hulk contempla a destruição que causou em uma cena silenciosa de Era de Ultron.",
+        "the-incredible-hulk-official-postert.jpg": "O pôster oficial do filme O Incrível Hulk, apresentando o icônico personagem verde."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hulk no MCU: Cenas Inesquecíveis do Gigante Esmeralda Fora dos Holofotes",
+        "_yoast_wpseo_metadesc": "Descubra cenas do Hulk no MCU que muitos esquecem, explorando seus momentos de emoção, crescimento e humanidade fora das grandes batalhas.",
+        "_yoast_wpseo_focuskw": "Hulk no MCU",
+        "_yoast_news_keywords": "Hulk, MCU, Marvel, Bruce Banner, Vingadores, Era de Ultron, Thor Ragnarok, O Incrível Hulk, Mark Ruffalo",
+        "_yoast_wpseo_opengraph-title": "Hulk no MCU: Cenas Inesquecíveis do Gigante Esmeralda Fora dos Holofotes",
+        "_yoast_wpseo_opengraph-description": "Descubra cenas do Hulk no MCU que muitos esquecem, explorando seus momentos de emoção, crescimento e humanidade fora das grandes batalhas.",
+        "_yoast_wpseo_twitter-title": "Hulk no MCU: Cenas Inesquecíveis do Gigante Esmeralda Fora dos Holofotes",
+        "_yoast_wpseo_twitter-description": "Descubra cenas do Hulk no MCU que muitos esquecem, explorando seus momentos de emoção, crescimento e humanidade fora das grandes batalhas."
+      }
+    }
+  ]
+}

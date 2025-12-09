@@ -1,0 +1,189 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Black Phone 2: Projeções de Bilheteria Superam o Original",
+      "conteudo_final": "<p>As projeções de bilheteria para a noite de estreia de <strong><em>Black Phone 2</em></strong> foram divulgadas. A sequência de terror da Blumhouse, estrelada por Mason Thames e Madeleine McGraw, com Ethan Hawke reprisando seu papel como The Grabber, tem tudo para ser um sucesso.</p><h2>Estreia e Projeções</h2><p>A arrecadação de <strong><em>Black Phone 2</em></strong> durante as prévias de quinta-feira nos cinemas domésticos foi de US$ 2,6 milhões. A expectativa é que o filme alcance um total de US$ 20 a US$ 30 milhões em seu fim de semana de estreia.</p><p>Embora as prévias tenham sido ligeiramente inferiores às do filme original, que faturou US$ 3 milhões em sua quinta de estreia, se a sequência atingir o teto de suas projeções, poderá superar significativamente seu predecessor. O primeiro <em>Black Phone</em> teve uma estreia doméstica de apenas US$ 23,6 milhões antes de ultrapassar os US$ 150 milhões mundialmente.</p><h2>Orçamento e Potencial de Sucesso</h2><p>O orçamento de <strong><em>Black Phone 2</em></strong>, estimado em US$ 30 milhões, é quase o dobro do filme original, o que eleva o ponto de equilíbrio. Para cobrir os custos, filmes geralmente precisam faturar cerca de duas vezes e meia o seu orçamento, colocando o ponto de equilíbrio da sequência em até US$ 75 milhões.</p><p>No entanto, com base nas projeções de estreia, <strong><em>Black Phone 2</em></strong> pode caminhar para uma arrecadação total de até US$ 205 milhões. A recepção crítica também é um bom indicativo, com o filme mantendo uma pontuação sólida de 74% no Rotten Tomatoes, mesmo que não alcance a marca de 81% do original.</p>",
+      "meta_description": "Black Phone 2 tem projeções de bilheteria animadoras para a estreia, com potencial para superar o original e se consolidar como uma franquia de sucesso.",
+      "focus_keyphrase": "Black Phone 2 bilheteria",
+      "related_keyphrases": [
+        "projeções de bilheteria terror",
+        "sequência de terror Blumhouse",
+        "Black Phone 2 orçamento"
+      ],
+      "slug": "black-phone-2-bilheteria-projecao",
+      "categorias": [
+        {
+          "nome": "Black Phone 2",
+          "grupo": "obras",
+          "evidence": "Black Phone 2"
+        },
+        {
+          "nome": "Blumhouse",
+          "grupo": "franquias",
+          "evidence": "Blumhouse horror movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Black Phone 2",
+        "Ethan Hawke",
+        "Mason Thames",
+        "Madeleine McGraw",
+        "Terror",
+        "Blumhouse"
+      ],
+      "image_alt_texts": {
+        "01757952_poster_w780.jpg": "Pôster oficial de Black Phone 2, com os atores principais em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Black Phone 2: Projeções de Bilheteria Superam o Original",
+        "_yoast_wpseo_metadesc": "Black Phone 2 tem projeções de bilheteria animadoras para a estreia, com potencial para superar o original e se consolidar como uma franquia de sucesso.",
+        "_yoast_wpseo_focuskw": "Black Phone 2 bilheteria",
+        "_yoast_news_keywords": "Black Phone 2, Ethan Hawke, Mason Thames, Madeleine McGraw, Terror, Blumhouse, Projeções de Bilheteria",
+        "_yoast_wpseo_opengraph-title": "Black Phone 2: Projeções de Bilheteria Superam o Original",
+        "_yoast_wpseo_opengraph-description": "Black Phone 2 tem projeções de bilheteria animadoras para a estreia, com potencial para superar o original e se consolidar como uma franquia de sucesso.",
+        "_yoast_wpseo_twitter-title": "Black Phone 2: Projeções de Bilheteria Superam o Original",
+        "_yoast_wpseo_twitter-description": "Black Phone 2 tem projeções de bilheteria animadoras para a estreia, com potencial para superar o original e se consolidar como uma franquia de sucesso."
+      }
+    },
+    {
+      "titulo_final": "Dune 3: Timothée Chalamet compartilha primeira imagem dos bastidores",
+      "conteudo_final": "<p><strong>Timothée Chalamet</strong>, estrela da aclamada saga <em>Dune</em>, agitou os fãs ao compartilhar uma imagem em seu Instagram que parece ser o primeiro vislumbre dos bastidores de <strong><em>Dune 3</em></strong>. A postagem sugere o início da produção do terceiro capítulo da franquia de ficção científica.</p><h2>Bastidores de Dune 3</h2><p>Em uma publicação em seu Instagram, Chalamet compartilhou uma cena que, presumidamente, mostra o ator contemplando um pôr do sol em um cenário desértico, com o texto \"<em>DUN3 LOADING...</em>\". A imagem gerou burburinho entre os mais de 19,5 milhões de seguidores do ator, alimentando a expectativa para a sequência.</p><p>A produção de <strong><em>Dune: Part Three</em></strong> iniciou em julho de 2025, com o diretor Denis Villeneuve compartilhando uma imagem das dunas como um dos primeiros sinais. Anya Taylor-Joy, que interpreta Alia Atreides, confirmou que as filmagens devem se estender até o final do ano. O lançamento de <em>Dune: Part Three</em> está previsto para <strong>18 de dezembro de 2026</strong>.</p><h2>Adaptação de Duna: Mensagem</h2><p><strong><em>Dune: Part Three</em></strong> dará continuidade à jornada de Paul Atreides, interpretado por Chalamet, em sua luta contra inimigos em uma épica saga espacial. A sequência adaptará o livro <em>Dune: Messiah</em> de Frank Herbert, com algumas alterações esperadas. Personagens como Lady Jessica (Rebecca Ferguson) e Gurney Halleck (Josh Brolin) estarão presentes, apesar de suas ausências no livro, em papéis coadjuvantes.</p><p>O elenco de <strong><em>Dune</em></strong> que retorna para a terceira parte inclui também Zendaya, Florence Pugh, Jason Momoa, Robert Pattinson e Lea Seydoux. A franquia <em>Dune</em> solidificou seu status em Hollywood, acumulando US$ 1,12 bilhão mundialmente com seus dois primeiros filmes, aclamação crítica e múltiplas vitórias no Oscar.</p>",
+      "meta_description": "Timothée Chalamet compartilhou uma imagem enigmática que pode ser o primeiro vislumbre dos bastidores de Dune 3, gerando grande expectativa para a sequência.",
+      "focus_keyphrase": "Dune 3 bastidores",
+      "related_keyphrases": [
+        "Timothée Chalamet Dune 3",
+        "Dune: Part Three produção",
+        "Denis Villeneuve Duna"
+      ],
+      "slug": "dune-3-timothee-chalamet-bastidores",
+      "categorias": [
+        {
+          "nome": "Dune",
+          "grupo": "franquias",
+          "evidence": "Dune franchise"
+        },
+        {
+          "nome": "Dune: Part Three",
+          "grupo": "obras",
+          "evidence": "Dune: Part Three"
+        }
+      ],
+      "tags_sugeridas": [
+        "Dune 3",
+        "Timothée Chalamet",
+        "Denis Villeneuve",
+        "Anya Taylor-Joy",
+        "Ficção Científica",
+        "Arrakis"
+      ],
+      "image_alt_texts": {
+        "01740590_poster_w780.jpg": "Pôster oficial de Dune: Part Three, com Timothée Chalamet em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Dune 3: Timothée Chalamet compartilha primeira imagem dos bastidores",
+        "_yoast_wpseo_metadesc": "Timothée Chalamet compartilhou uma imagem enigmática que pode ser o primeiro vislumbre dos bastidores de Dune 3, gerando grande expectativa para a sequência.",
+        "_yoast_wpseo_focuskw": "Dune 3 bastidores",
+        "_yoast_news_keywords": "Dune 3, Timothée Chalamet, Denis Villeneuve, Anya Taylor-Joy, Ficção Científica, Arrakis, Dune: Part Three",
+        "_yoast_wpseo_opengraph-title": "Dune 3: Timothée Chalamet compartilha primeira imagem dos bastidores",
+        "_yoast_wpseo_opengraph-description": "Timothée Chalamet compartilhou uma imagem enigmática que pode ser o primeiro vislumbre dos bastidores de Dune 3, gerando grande expectativa para a sequência.",
+        "_yoast_wpseo_twitter-title": "Dune 3: Timothée Chalamet compartilha primeira imagem dos bastidores",
+        "_yoast_wpseo_twitter-description": "Timothée Chalamet compartilhou uma imagem enigmática que pode ser o primeiro vislumbre dos bastidores de Dune 3, gerando grande expectativa para a sequência."
+      }
+    },
+    {
+      "titulo_final": "Os Melhores Filmes Originais da Década: Uma Seleção Essencial",
+      "conteudo_final": "<p>Em uma era dominada por sequências e remakes, a busca por grandes ideias originais no cinema continua. Apesar da tendência de estúdios focarem em propriedades intelectuais já estabelecidas, a última década nos presenteou com filmes originais notáveis que se destacaram, seja como blockbusters inesperados ou obras aclamadas pela crítica.</p><h2>Obras-Primas Originais Recentes</h2><p>Esses filmes, baseados em conceitos inéditos, desafiaram as expectativas e conquistaram público e crítica. Aqui estão alguns dos destaques que provam que a criatividade cinematográfica ainda floresce.</p><h2><em>Once Upon A Time In Hollywood</em> (2019)</h2><figure class="image-container"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/screenrant-sandbox-2025-08-17t214138-001.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Brad Pitt e Leonardo DiCaprio em Once Upon a Time in Hollywood\" /><figcaption>Brad Pitt e Leonardo DiCaprio em Once Upon a Time in Hollywood</figcaption></figure><p>Quentin Tarantino reafirmou seu status como mestre cineasta com <strong><em>Once Upon A Time In Hollywood</em></strong>. O filme, estrelado por Leonardo DiCaprio, Brad Pitt e Margot Robbie, mergulha na Hollywood de 1969 com uma trama original que reimagina eventos históricos. Foi um sucesso de crítica e público, recebendo 10 indicações ao Oscar e vencendo em categorias como Melhor Design de Produção e Melhor Ator Coadjuvante para Pitt.</p><h2><em>Weapons</em> (2025)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mcdweap_wb011-cropped.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Julia Garner em Weapons\" /><figcaption>Julia Garner em Weapons</figcaption></figure><p>O gênero de terror continua a ser um celeiro de ideias originais, e <strong><em>Weapons</em></strong> provou isso ao se tornar um fenômeno global. Dirigido por Zach Cregger, o filme explora o desaparecimento misterioso de 17 crianças em uma pequena cidade. Com atuações marcantes de Julia Garner e Josh Brolin, <em>Weapons</em> cativou audiências e crítica, alcançando 94% no Rotten Tomatoes e gerando discussões sobre potenciais continuações.</p><h2><em>Portrait Of A Lady On Fire</em> (2019)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/marianne-and-h-lo-se-embrace-in-portrait-of-a-lady-on-fire.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Marianne e Héloïse se abraçam em Portrait of a Lady on Fire\" /><figcaption>Marianne e Héloïse se abraçam em Portrait of a Lady on Fire</figcaption></figure><p>Considerado um dos melhores filmes do século, <strong><em>Portrait Of A Lady On Fire</em></strong>, de Céline Sciamma, narra uma comovente história de amor LGBTQ+ na França do século XVIII. As atuações de Noémie Merlant e Adèle Haenel foram elogiadas, e o filme conquistou o Prêmio do Júri e a Queer Palm no Festival de Cannes.</p><h2><em>Aftersun</em> (2022)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/06/calum-and-sophie-dance-together-in-aftersun.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Calum e Sophie dançam juntos em Aftersun\" /><figcaption>Calum e Sophie dançam juntos em Aftersun</figcaption></figure><p><strong><em>Aftersun</em></strong>, apesar de menos conhecido, é uma obra cinematográfica profundamente emocionante. O filme acompanha um pai e sua filha em férias, explorando temas de depressão e laços familiares. Paul Mescal foi indicado ao Oscar por sua atuação, e o filme brilha com sua cinematografia e trilha sonora, ostentando 96% no Rotten Tomatoes.</p><h2><em>Knives Out</em> (2019)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/a-1037.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"LaKeith Stanfield em Knives Out\" /><figcaption>LaKeith Stanfield em Knives Out</figcaption></figure><p>Rian Johnson revitalizou o gênero de mistério com <strong><em>Knives Out</em></strong>, um filme com um elenco estelar e um detetive carismático interpretado por Daniel Craig. O filme recebeu uma indicação ao Oscar de Melhor Roteiro Original e deu origem a uma franquia de sucesso.</p><h2><em>Get Out</em> (2017)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/chris-looking-at-another-man-suspisciously-in-get-out.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Chris olhando para outro homem com desconfiança em Get Out\" /><figcaption>Chris olhando para outro homem com desconfiança em Get Out</figcaption></figure><p>O marco de Jordan Peele no cinema, <strong><em>Get Out</em></strong>, transcendeu o gênero de terror para se tornar um comentário social poderoso. Vencedor do Oscar de Melhor Roteiro Original, o filme foi aclamado por sua direção, atuações e atmosfera tensa, consolidando Peele como um nome importante em Hollywood.</p><h2><em>La La Land</em> (2016)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/05/emma_stone_and_ryan_gosling_in_a_movie_theater_in_la_la_land.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Emma Stone como Mia e Ryan Gosling como Sebastian em um cinema em La La Land\" /><figcaption>Emma Stone como Mia e Ryan Gosling como Sebastian em um cinema em La La Land</figcaption></figure><p>Apesar da polêmica no Oscar, <strong><em>La La Land</em></strong> é um musical deslumbrante. Dirigido por Damien Chazelle, o filme encanta com suas performances, trilha sonora e um final memorável, sendo vencedor de seis Oscars, incluindo Melhor Diretor e Melhor Atriz para Emma Stone.</p><h2><em>Parasite</em> (2019)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/the-brother-and-sister-looking-at-their-phones-in-parasite.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"O irmão e a irmã olhando para seus celulares em Parasite\" /><figcaption>O irmão e a irmã olhando para seus celulares em Parasite</figcaption></figure><p>O sul-coreano <strong><em>Parasite</em></strong> fez história ao se tornar o primeiro filme em língua estrangeira a ganhar o Oscar de Melhor Filme. A obra de Bong Joon-ho é uma obra-prima de suspense e crítica social, reconhecida por sua narrativa envolvente e reviravoltas surpreendentes.</p><h2><em>Sinners</em> (2025)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/you-never-want-to-close-the-door-sinners-sequel-chances-clarified-by-ryan-coogler-after-364-million-blockbuster.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"'You-Never-Want-To-Close-The-Door...'--Sinners-Sequel-Chances-Clarified-By-Ryan-Coogler-After-$364-Million-Blockbuster\" /><figcaption>'You-Never-Want-To-Close-The-Door...'--Sinners-Sequel-Chances-Clarified-By-Ryan-Coogler-After-$364-Million-Blockbuster</figcaption></figure><p>Ryan Coogler demonstrou seu talento com <strong><em>Sinners</em></strong>, um filme original que se destaca em sua filmografia. Ambientado no Mississippi de 1932, o filme mistura horror e drama, com uma trilha sonora envolvente e celebração da cultura negra, tornando-se um sucesso comercial com mais de US$ 360 milhões arrecadados.</p><h2><em>Everything Everywhere All At Once</em> (2022)</h2><figure class=\"image-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/03/movie_star_evelyn_at_a_premiere_in_everything_everywhere_all_at_once.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Evelyn Wang (Michelle Yeoh) em seu universo como estrela de cinema em Everything Everywhere All At Once\" /><figcaption>Evelyn Wang (Michelle Yeoh) em seu universo como estrela de cinema em Everything Everywhere All At Once</figcaption></figure><p>Uma experiência cinematográfica única, <strong><em>Everything Everywhere All At Once</em></strong>, dos Daniels, revolucionou a forma de contar histórias multiversais. O filme conquistou sete Oscars, incluindo Melhor Filme, Melhor Diretor e Melhor Atriz para Michelle Yeoh, e é amplamente considerado uma obra-prima moderna.</p>",
+      "meta_description": "Conheça os 10 melhores filmes originais da última década, de 'Parasita' a 'Everything Everywhere All At Once', que provam a força da criatividade no cinema.",
+      "focus_keyphrase": "melhores filmes originais da década",
+      "related_keyphrases": [
+        "filmes originais de sucesso",
+        "cinema contemporâneo",
+        "obras-primas da década"
+      ],
+      "slug": "melhores-filmes-originais-decada",
+      "categorias": [
+        {
+          "nome": "Once Upon A Time In Hollywood",
+          "grupo": "obras",
+          "evidence": "Once Upon A Time In Hollywood (2019)"
+        },
+        {
+          "nome": "Weapons",
+          "grupo": "obras",
+          "evidence": "Weapons (2025)"
+        },
+        {
+          "nome": "Portrait Of A Lady On Fire",
+          "grupo": "obras",
+          "evidence": "Portrait Of A Lady On Fire (2019)"
+        },
+        {
+          "nome": "Aftersun",
+          "grupo": "obras",
+          "evidence": "Aftersun (2022)"
+        },
+        {
+          "nome": "Knives Out",
+          "grupo": "obras",
+          "evidence": "Knives Out (2019)"
+        },
+        {
+          "nome": "Get Out",
+          "grupo": "obras",
+          "evidence": "Get Out (2017)"
+        },
+        {
+          "nome": "La La Land",
+          "grupo": "obras",
+          "evidence": "La La Land (2016)"
+        },
+        {
+          "nome": "Parasite",
+          "grupo": "obras",
+          "evidence": "Parasite (2019)"
+        },
+        {
+          "nome": "Sinners",
+          "grupo": "obras",
+          "evidence": "Sinners (2025)"
+        },
+        {
+          "nome": "Everything Everywhere All At Once",
+          "grupo": "obras",
+          "evidence": "Everything Everywhere All At Once (2022)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Filmes Originais",
+        "Quentin Tarantino",
+        "Jordan Peele",
+        "Bong Joon-ho",
+        "Ryan Coogler",
+        "A24",
+        "Oscar"
+      ],
+      "image_alt_texts": {
+        "screenrant-sandbox-2025-08-17t214138-001.jpg": "Brad Pitt e Leonardo DiCaprio em cena de Once Upon a Time in Hollywood.",
+        "mcdweap_wb011-cropped.jpg": "Julia Garner em uma cena do filme de terror original Weapons.",
+        "marianne-and-h-lo-se-embrace-in-portrait-of-a-lady-on-fire.jpg": "Marianne e Héloïse em um momento íntimo em Portrait of a Lady on Fire.",
+        "calum-and-sophie-dance-together-in-aftersun.jpg": "Calum e Sophie dançando em uma cena emocionante do filme Aftersun.",
+        "a-1037.jpg": "LaKeith Stanfield como detetive em Knives Out.",
+        "chris-looking-at-another-man-suspisciously-in-get-out.jpg": "Chris (Daniel Kaluuya) em uma cena de tensão em Get Out.",
+        "emma_stone_and_ryan_gosling_in_a_movie_theater_in_la_la_land.jpg": "Emma Stone e Ryan Gosling em uma cena de La La Land.",
+        "the-brother-and-sister-looking-at-their-phones-in-parasite.jpg": "Os irmãos Kim em uma cena de Parasite.",
+        "you-never-want-to-close-the-door-sinners-sequel-chances-clarified-by-ryan-coogler-after-364-million-blockbuster.jpg": "Imagem promocional do filme original de terror Sinners.",
+        "movie_star_evelyn_at_a_premiere_in_everything_everywhere_all_at_once.jpg": "Michelle Yeoh como Evelyn em Everything Everywhere All At Once."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Os Melhores Filmes Originais da Década: Uma Seleção Essencial",
+        "_yoast_wpseo_metadesc": "Conheça os 10 melhores filmes originais da última década, de 'Parasita' a 'Everything Everywhere All At Once', que provam a força da criatividade no cinema.",
+        "_yoast_wpseo_focuskw": "melhores filmes originais da década",
+        "_yoast_news_keywords": "Filmes Originais, Quentin Tarantino, Jordan Peele, Bong Joon-ho, Ryan Coogler, A24, Oscar, Once Upon A Time In Hollywood, Weapons, Portrait Of A Lady On Fire, Aftersun, Knives Out, Get Out, La La Land, Parasite, Sinners, Everything Everywhere All At Once",
+        "_yoast_wpseo_opengraph-title": "Os Melhores Filmes Originais da Década: Uma Seleção Essencial",
+        "_yoast_wpseo_opengraph-description": "Conheça os 10 melhores filmes originais da última década, de 'Parasita' a 'Everything Everywhere All At Once', que provam a força da criatividade no cinema.",
+        "_yoast_wpseo_twitter-title": "Os Melhores Filmes Originais da Década: Uma Seleção Essencial",
+        "_yoast_wpseo_twitter-description": "Conheça os 10 melhores filmes originais da última década, de 'Parasita' a 'Everything Everywhere All At Once', que provam a força da criatividade no cinema."
+      }
+    }
+  ]
+}

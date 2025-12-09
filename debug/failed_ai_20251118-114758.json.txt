@@ -1,0 +1,133 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Nina Dobrev retorna à TV em novo thriller erótico 'Night Float'",
+      "conteudo_final": "<p>Fãs de <em>The Vampire Diaries</em> verão a estrela Nina Dobrev em seu retorno à TV com o anúncio de uma nova série. Dobrev estrelou as temporadas 1 a 6 de <em>The Vampire Diaries</em>, principalmente como Elena Gilbert, mas também como sua doppelgänger maligna Katherine Pierce. Ambas, em momentos diferentes, estiveram no centro de um triângulo amoroso entre os irmãos Salvatore.</p><p>Dobrev deixou <em>The Vampire Diaries</em> após a sexta temporada, forçando a série a se reinventar nas duas temporadas finais, focando a história mais no relacionamento de Damon e Stefan (Ian Somerhalder e Paul Wesley). Desde então, Dobrev tem estrelado principalmente filmes e videoclipes, incluindo <em>Cura</em>, <em>Amor com Data Marcada</em> e <em>Amor em Verona</em>.</p><p>Agora, <em>Deadline</em> relata que Dobrev estrelará a futura série de suspense erótico <em>Night Float</em>, da dramaturga e roteirista Lila Raicek e das produtoras Made Up Stories e Fifth Season. A série em desenvolvimento acompanhará uma jovem que se muda para a moradia hospitalar com o namorado, mas se envolve com um médico mais velho e seu esquema ilícito de insider trading.</p><figure><img alt='Nina Dobrev como Katherine usando um vestido verde e sorrindo em The Vampire Diaries' src='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/nina-dobrev-in-the-vampire-diaries.jpg?q=49&fit=crop&w=825&dpr=2' loading='lazy'/><figcaption>Nina Dobrev retorna à TV com o suspense erótico 'Night Float'.</figcaption></figure><p>Raicek e Dobrev são produtoras executivas da nova série, ao lado de Bruna Papandrea, Steve Hutensky e Casey Haver, da Made Up Stories. Além disso, <em>Night Float</em> é uma adaptação da peça de Raicek, <em>Vertebrae</em>. Como a carreira cinematográfica de Dobrev tem sido infelizmente modesta desde o fim de <em>The Vampire Diaries</em>, este é um novo projeto promissor para ela.</p><p>Ainda não há indicação de onde <em>Night Float</em> será transmitida ou exibida, mas Raicek tem experiência com grandes plataformas de streaming neste universo. A dramaturga é creditada como roteirista em <em>Younger</em> e na versão de 2021 de <em>Gossip Girl</em>. Raicek também causou impacto neste verão com a estreia de sua peça <em>My Master Builder</em> no West End de Londres, estrelada por Ewan McGregor e Elizabeth Debicki.</p><p>Dada a performance envolvente e dupla (às vezes tripla) de Dobrev ao longo de <em>The Vampire Diaries</em>, será ótimo vê-la desafiada com material novo de uma escritora talentosa e em ascensão. A TV pode simplesmente ser o meio onde Nina Dobrev tem mais sorte, permitindo-lhe contar histórias de personagens mais extensas; espera-se que <em>Night Float</em> seja um retorno bem-vindo à forma para a estrela.</p>",
+      "meta_description": "Nina Dobrev, estrela de The Vampire Diaries, retorna à TV com o novo thriller erótico 'Night Float'. Saiba mais sobre o projeto.",
+      "focus_keyphrase": "Nina Dobrev retorna à TV",
+      "related_keyphrases": [
+        "Nina Dobrev Night Float",
+        "The Vampire Diaries",
+        "Thriller erótico"
+      ],
+      "slug": "nina-dobrev-retorna-tv-thriller-erotico",
+      "categorias": [
+        {
+          "nome": "The Vampire Diaries",
+          "grupo": "franquias",
+          "evidence": "Fans of <em>The Vampire Diaries</em> will be seeing star making her TV return soon"
+        },
+        {
+          "nome": "Night Float",
+          "grupo": "obras",
+          "evidence": "Dobrev will star in the forthcoming erotic thriller TV series <em>Night Float</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Nina Dobrev",
+        "The Vampire Diaries",
+        "Night Float",
+        "Lila Raicek",
+        "Suspense Erótico"
+      ],
+      "image_alt_texts": {
+        "nina-dobrev-in-the-vampire-diaries.jpg": "Nina Dobrev como Katherine Pierce em The Vampire Diaries, marcando seu retorno à TV."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Nina Dobrev retorna à TV em novo thriller erótico 'Night Float'",
+        "_yoast_wpseo_metadesc": "Nina Dobrev, estrela de The Vampire Diaries, retorna à TV com o novo thriller erótico 'Night Float'. Saiba mais sobre o projeto.",
+        "_yoast_wpseo_focuskw": "Nina Dobrev retorna à TV",
+        "_yoast_news_keywords": "Nina Dobrev, The Vampire Diaries, Night Float, Lila Raicek, Suspense Erótico, Elena Gilbert, Katherine Pierce",
+        "_yoast_wpseo_opengraph-title": "Nina Dobrev retorna à TV em novo thriller erótico 'Night Float'",
+        "_yoast_wpseo_opengraph-description": "Nina Dobrev, estrela de The Vampire Diaries, retorna à TV com o novo thriller erótico 'Night Float'. Saiba mais sobre o projeto.",
+        "_yoast_wpseo_twitter-title": "Nina Dobrev retorna à TV em novo thriller erótico 'Night Float'",
+        "_yoast_wpseo_twitter-description": "Nina Dobrev, estrela de The Vampire Diaries, retorna à TV com o novo thriller erótico 'Night Float'. Saiba mais sobre o projeto."
+      }
+    },
+    {
+      "titulo_final": "FBI: Trailer da 8ª temporada mostra Scola em perigo em prisão",
+      "conteudo_final": "<p>Um novo trailer da oitava temporada de <em>FBI</em> mostra a vida de Scola em perigo. A franquia <em>FBI</em> passou por várias mudanças importantes nos últimos anos. A CBS cancelou <em>FBI: Most Wanted</em> e <em>FBI: International</em>, apesar de serem alguns dos programas mais assistidos, reduzindo o universo outrora em expansão para apenas um show para o ciclo de TV da rede 2025-2026.</p><p>Em menor capacidade, o próprio <em>FBI</em> passou por grandes reformulações, tudo começando quando Tiffany deixou a força. Desde então, Scola ficou sem um parceiro permanente, enquanto a CBS introduzia e, eventualmente, escrevia personagens que pudessem preencher o vazio deixado por Katherine Kane. Eva Ramos, interpretada por Juliana Aidén Martinez, é atualmente a parceira de Scola. Mas, à medida que esse aspecto de sua história se estabiliza, outro se torna caótico.</p><p>Em um novo trailer de <em>FBI</em> temporada 8, episódio 7 (via TV Promos/YouTube), o escritório de campo de Nova York é visto lidando com um caso que se passa na prisão. Dito isso, o plano deles não sai como planejado, deixando Scola preso dentro da instalação com criminosos. Em um momento do clipe promocional, ele é visto sendo agredido. Assista ao vídeo completo abaixo:</p><figure class='video-container'><iframe src='https://www.youtube.com/embed/F0x0Lu8uRDs' loading='lazy' referrerpolicy='no-referrer-when-downgrade' allowfullscreen></iframe></figure><p>O episódio, intitulado \"Fadeout\", começa quando um complexo de apartamentos no Brooklyn é abalado por uma explosão. Curiosamente, o crime foi iniciado por um condenado que está preso. É isso que leva Scola e o resto da equipe à penitenciária. O que é curioso é se o caos durante a visita deles faz parte do grande plano do culpado ou se é pura coincidência.</p><p>Pelo que vale, isso confirma que o perigo que Scola enfrenta não vem de ninguém que tenha uma vingança pessoal contra ele. É um risco típico que as pessoas na aplicação da lei enfrentam todos os dias em seus trabalhos. Dependendo de como a situação será resolvida, no entanto, esta seria a oportunidade perfeita para apresentar Nina em <em>FBI</em> temporada 8. Com <em>FBI: Most Wanted</em> cancelado, o programa principal é o único que poderia trazê-la de volta neste momento.</p><p>Além do que está acontecendo com o caso e Scola, <em>FBI</em> temporada 8, episódio 7 também forçará Isobel a tomar uma decisão importante. Após sua experiência de quase morte no final da sétima temporada, ela foi recompensada com uma promoção confortável e muito merecida. Dito isso, isso a leva a escolher seu sucessor. Idealmente, seria Jubal — algo com que ela concorda. No entanto, a política do escritório levanta dúvidas sobre isso.</p>",
+      "meta_description": "Um novo trailer de FBI temporada 8 revela que Scola corre perigo em uma prisão. Descubra os detalhes do episódio 'Fadeout'.",
+      "focus_keyphrase": "FBI temporada 8 Scola em perigo",
+      "related_keyphrases": [
+        "FBI trailer episódio 7",
+        "Scola preso",
+        "FBI CBS"
+      ],
+      "slug": "fbi-temporada-8-trailer-scola-prisao",
+      "categorias": [
+        {
+          "nome": "FBI",
+          "grupo": "franquias",
+          "evidence": "A brand new <em>FBI</em> season 8 trailer shows Scola's life in danger."
+        },
+        {
+          "nome": "CBS",
+          "grupo": "plataformas",
+          "evidence": "CBS cancelation of <em>FBI: Most Wanted</em> and <em>FBI: International</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "FBI",
+        "CBS",
+        "Scola",
+        "Temporada 8",
+        "Thriller Policial"
+      ],
+      "image_alt_texts": {
+        "fbi.jpg": "Trailer da 8ª temporada de FBI mostra Scola em perigo dentro de uma prisão."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "FBI: Trailer da 8ª temporada mostra Scola em perigo em prisão",
+        "_yoast_wpseo_metadesc": "Um novo trailer de FBI temporada 8 revela que Scola corre perigo em uma prisão. Descubra os detalhes do episódio 'Fadeout'.",
+        "_yoast_wpseo_focuskw": "FBI temporada 8 Scola em perigo",
+        "_yoast_news_keywords": "FBI, CBS, Scola, Temporada 8, Thriller Policial, Eva Ramos, Jubal",
+        "_yoast_wpseo_opengraph-title": "FBI: Trailer da 8ª temporada mostra Scola em perigo em prisão",
+        "_yoast_wpseo_opengraph-description": "Um novo trailer de FBI temporada 8 revela que Scola corre perigo em uma prisão. Descubra os detalhes do episódio 'Fadeout'.",
+        "_yoast_wpseo_twitter-title": "FBI: Trailer da 8ª temporada mostra Scola em perigo em prisão",
+        "_yoast_wpseo_twitter-description": "Um novo trailer de FBI temporada 8 revela que Scola corre perigo em uma prisão. Descubra os detalhes do episódio 'Fadeout'."
+      }
+    },
+    {
+      "titulo_final": "Peaky Blinders: Final da 2ª temporada mudou Thomas Shelby para sempre",
+      "conteudo_final": "<p><em>Peaky Blinders</em> é, sem dúvida, uma das melhores séries da última década, graças à sua escrita de ponta e atuações hipnotizantes. No entanto, entre todas as suas ótimas cenas, uma ainda se destaca acima das outras e mudou Thomas Shelby para sempre. Apesar do drama criminal ter terminado há mais de três anos, a franquia está longe de acabar.</p><p>Ao lado de Cillian Murphy reprisando seu papel como Tommy em um futuro filme, a Netflix confirmou que um prelúdio de <em>Peaky Blinders</em> está em desenvolvimento, juntamente com outros dois spin-offs. Isso significa que ainda haverá muita ação intensa e conflitos cheios de suspense, mas os próximos projetos terão dificuldade em superar a maior cena do show original.</p><p>A segunda temporada continha várias ótimas exibições, mas <em>Peaky Blinders</em> teve um episódio magistral que realmente se destacou — \"Episódio 6\". O final da segunda temporada foi o drama britânico em seu melhor, e sua chocante morte falsa não apenas atordoou o público, mas também abalou o próprio Tommy, que mudou permanentemente após este encontro de roer as unhas.</p><h2>Peaky Blinders: Final da 2ª Temporada Fez Tommy Sentir-se Sem Limites</h2><figure><img alt='Cillian Murphy como Tommy Shelby com uma expressão calma em Peaky Blinders' src='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/peaky-blinders.jpg?q=49&fit=crop&w=825&dpr=2' loading='lazy'/><figcaption>O final da 2ª temporada de Peaky Blinders marcou uma virada para Thomas Shelby.</figcaption></figure><p>Desde que <em>Peaky Blinders</em> estreou, ficou claro que Tommy era um homem extremamente ambicioso, mas tendo sobrevivido ao final da segunda temporada, o protagonista se sentiu verdadeiramente sem limites. Após matar Michael no final da sexta temporada, Tommy proferiu a frase \"<em>Eu não tenho limitações</em>\", uma citação que ele usou em um confronto anterior com seu inimigo e que desde então se tornou icônica.</p><p>Isso oferece uma visão real da mentalidade de Tommy, pois ele acredita plenamente que não há nada que ele não possa fazer. Essa forma de pensar, sem dúvida, decorreu de muitos momentos ao longo de sua vida, mas o final da segunda temporada parece ser onde uma chave foi virada.</p><p>Tommy chegou perto da morte em <em>Peaky Blinders</em> em várias ocasiões, mas a segunda temporada foi de longe a mais significativa. Após seu plano de matar o Inspetor Campbell se desvendar lentamente, o líder da gangue se viu em uma situação sem saída, pois foi levado a um local remoto por três assassinos que lhe permitiram algumas últimas palavras e um cigarro.</p><p>Caindo de joelhos diante de uma cova, Tommy aceitou a morte antes que um dos assassinos matasse os outros dois homens, alegando que Winston Churchill tinha um trabalho para o protagonista. Ele ficou claramente abalado e emocional durante o rescaldo, mas enganar a morte fez Tommy se sentir sem limites, daí por que ele começou a tomar decisões cada vez maiores e mais ousadas depois.</p><p>A partir da terceira temporada, Tommy estava constantemente tentando expandir seu império e ganhar mais influência, agindo até contra os desejos de sua família para fazê-lo. Portanto, sobreviver ao Inspetor Campbell parece ser o momento em que o personagem principal começou a se sentir imortal, tornando o título de seu próximo filme especialmente apropriado.</p><div class="emaki-custom note" id="custom_block_10"><p><em>The Immortal Man</em> será lançado na Netflix em 2026, uma sequência do filme original <em>Peaky Blinders</em>. Cillian Murphy reprisará seu papel como Thomas Shelby.</p></div><h2>Atitude Destemida de Tommy Foi Sua Maior Força e Maior Fraqueza</h2><figure><img alt='Grace e Tommy Shelby dançando em Peaky Blinders.' src='https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/peaky-blinders-grace-and-tommy-shelby.jpg?q=70&fit=crop&w=825&dpr=1' loading='lazy'/><figcaption>A atitude destemida de Tommy Shelby em Peaky Blinders teve consequências.</figcaption></figure><p>A maioria dos fãs de <em>Peaky Blinders</em> tende a amar Thomas Shelby apesar de suas falhas, e sua atitude destemida foi uma de suas características mais cativantes. Claro, ele ainda estava frequentemente estressado e preocupado com certos resultados, mas apesar de conhecer as consequências e os riscos de suas ações, ele continuamente tomou decisões incrivelmente ousadas ao longo da série.</p><p>Sua natureza ousada provou ser uma de suas maiores forças, pois permitiu que ele alcançasse alturas que muitos não teriam pensado serem possíveis. Enfrentar inimigos como Luca Changretta e Oswald Mosley seria o fim da maioria dos gângsteres, mas o alcance político e as táticas astutas de Tommy permitiram que ele os superasse, apesar de Mosley ter sobrevivido.</p><p>Ele estabeleceu metas massivamente ambiciosas e, de alguma forma, conseguiu alcançá-las através de pura garra e determinação, juntamente com sua grande estratégia. No entanto, sua recusa em recuar também se provou uma de suas maiores fraquezas, pois o principal interesse amoroso de Tommy em <em>Peaky Blinders</em> foi pego no fogo cruzado de uma disputa acirrada, sugerindo que suas ações o negaram a felicidade verdadeira.</p><p>Da mesma forma, John e Polly foram dois de seus familiares mais próximos que também morreram enquanto serviam aos Peaky Blinders, e sua incapacidade de ouvir a razão fez com que pessoas como Michael e Finn se voltassem contra ele. Portanto, embora sua suposta falta de limitações o tenha tornado um sucesso político e financeiro, também lhe custou amor e família.</p><h2>Por Que a Falsa Morte de Tommy Permanece a Maior Cena de Peaky Blinders</h2><figure><img alt='Tommy Shelby (Cillian Murphy) de joelhos com os olhos fechados enquanto um homem com uma arma está atrás dele em Peaky Blinders, temporada 2, episódio 6' src='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tommy-shelby-preparing-to-be-executed-in-peaky-blinders.jpg?q=49&fit=crop&w=825&dpr=2' loading='lazy'/><figcaption>A falsa morte de Tommy Shelby na 2ª temporada de Peaky Blinders é considerada a maior cena da série.</figcaption></figure><p>Com o Inspetor Campbell sendo o principal vilão de <em>Peaky Blinders</em> nas duas primeiras temporadas, a tensão rumo ao final da segunda temporada não poderia ter sido maior. Tommy elaborou um plano mestre que se desenrolou perfeitamente em grande parte do episódio, mas apesar de Polly ter matado o vilão central, a morte de Tommy parecia inevitável, pois ele estava em desvantagem numérica e sob a mira de uma arma.</p><p>Considerando que a franquia não era tão grande quanto é hoje, nem os fãs sabiam se o show retornaria para a terceira temporada, parecia altamente possível que Tommy pudesse ter um fim chocante. Em vez disso, um de seus captores se voltou contra os outros e revelou que trabalhava para Winston Churchill, o que explodiu as mentes dos espectadores e preparou um futuro emocionante.</p><p>Além disso, a atuação foi impecável, pois Cillian Murphy passou por todos os tipos de emoções, como raiva, aceitação, choque e estresse. A música e o cenário também foram ótimos, com a própria reviravolta sendo extremamente bem executada, daí por que todo o episódio permanece um dos melhores de todos os tempos de <em>Peaky Blinders</em>.</p><p>Uma conclusão tão forte ajudou a cimentar a segunda parcela como uma das melhores temporadas de <em>Peaky Blinders</em> também, colocando a franquia em uma forte trajetória que a tornou um clássico moderno. Como resultado, a falsa morte de Tommy se tornou um dos momentos mais influentes do show, especialmente porque transformou completamente o personagem e <em>Peaky Blinders</em> no processo.</p>",
+      "meta_description": "O final da 2ª temporada de Peaky Blinders, com a falsa morte de Thomas Shelby, é considerado a maior cena da série e mudou o personagem para sempre.",
+      "focus_keyphrase": "Peaky Blinders final 2ª temporada",
+      "related_keyphrases": [
+        "Thomas Shelby sem limites",
+        "Peaky Blinders série",
+        "Cillian Murphy Tommy Shelby"
+      ],
+      "slug": "peaky-blinders-final-2-temporada-mudanca-tommy",
+      "categorias": [
+        {
+          "nome": "Peaky Blinders",
+          "grupo": "franquias",
+          "evidence": "<strong><em>Peaky Blinders</em></strong> is arguably one of the best shows of the last decade"
+        }
+      ],
+      "tags_sugeridas": [
+        "Peaky Blinders",
+        "Thomas Shelby",
+        "Cillian Murphy",
+        "Temporada 2",
+        "Netflix"
+      ],
+      "image_alt_texts": {
+        "peaky-blinders.jpg": "Thomas Shelby, interpretado por Cillian Murphy, em uma cena de Peaky Blinders.",
+        "peaky-blinders-grace-and-tommy-shelby.jpg": "Tommy Shelby e Grace em uma cena de dança em Peaky Blinders.",
+        "tommy-shelby-preparing-to-be-executed-in-peaky-blinders.jpg": "Tommy Shelby de joelhos em Peaky Blinders, temporada 2, episódio 6."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Peaky Blinders: Final da 2ª temporada mudou Thomas Shelby para sempre",
+        "_yoast_wpseo_metadesc": "O final da 2ª temporada de Peaky Blinders, com a falsa morte de Thomas Shelby, é considerado a maior cena da série e mudou o personagem para sempre.",
+        "_yoast_wpseo_focuskw": "Peaky Blinders final 2ª temporada",
+        "_yoast_news_keywords": "Peaky Blinders, Thomas Shelby, Cillian Murphy, Temporada 2, Netflix, Inspetor Campbell, Winston Churchill",
+        "_yoast_wpseo_opengraph-title": "Peaky Blinders: Final da 2ª temporada mudou Thomas Shelby para sempre",
+        "_yoast_wpseo_opengraph-description": "O final da 2ª temporada de Peaky Blinders, com a falsa morte de Thomas Shelby, é considerado a maior cena da série e mudou o personagem para sempre.",
+        "_yoast_wpseo_twitter-title": "Peaky Blinders: Final da 2ª temporada mudou Thomas Shelby para sempre",
+        "_yoast_wpseo_twitter-description": "O final da 2ª temporada de Peaky Blinders, com a falsa morte de Thomas Shelby, é considerado a maior cena da série e mudou o personagem para sempre."
+      }
+    }
+  ]
+}

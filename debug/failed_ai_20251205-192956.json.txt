@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Avatar: Fogo e Cinzas ganha especial inédito nos bastidores pela ABC",
+      "conteudo_final": "<p>Em menos de três semanas, a franquia de sucesso de <b>James Cameron</b>, <b><i>Avatar</i></b>, retorna aos cinemas com sua terceira parte, <b><i>Fogo e Cinzas</i></b>. Em preparação para a sequência, que acompanhará a família de Jake Sully (<b>Sam Worthington</b>) e Neytiri (<b>Zoe Saldaña</b>) em sua luta por Pandora, a ABC News Studios apresenta um programa especial. O <b>Collider</b> revela com exclusividade o trailer oficial de <b><i>Avatar: Uma Nova Era - Uma Edição Especial do 20/20</i></b>, que promete acesso interno raro a Cameron e ao elenco, explorando o vasto mundo do diretor. O especial será exibido na ABC em 12 de dezembro.</p><h2>Bastidores e Visão de James Cameron</h2><p>O trailer de <i>Uma Nova Era</i> abre com uma avaliação do que <i>Avatar</i> representa: "belo", um "fenômeno", uma janela para outro mundo e, para Cameron, "o emprego mais legal do planeta". Com cenas do esforço colossal por trás das câmeras que tornaram <i>Fogo e Cinzas</i> uma realidade, o especial propõe uma imersão na mente de Cameron e sua equipe, detalhando o que eles buscaram alcançar com a série. Desde que o primeiro filme quebrou recordes de bilheteria em 2009, o objetivo tem sido criar algo incomparável na tela grande, com o diretor sempre empurrando os limites a cada nova entrada. O especial enfatiza tanto o porquê de <i>Avatar</i> quanto o como, abordando o amor de Cameron pelo mundo natural, a celebração dos povos indígenas como protetores do planeta e o impacto cultural, artístico e tecnológico dos filmes.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/2020-avatar-dec-12-3.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"James Cameron dirigindo cenas de Avatar\" loading=\"lazy\"/><figcaption>James Cameron supervisiona a produção de Avatar: Fogo e Cinzas.</figcaption></figure><h2>Acesso aos Criadores e Novos Talentos</h2><p>No centro do especial de uma hora, há uma visita à Lightstorm Entertainment, o centro criativo de Cameron e sua equipe. O programa conta com entrevistas com membros do elenco, incluindo o casal protagonista, além de <b>Sigourney Weaver</b>, <b>Kate Winslet</b> e a nova integrante da franquia, <b>Oona Chaplin</b>. O especial também apresenta <b>Miley Cyrus</b>, que criou a nova canção \"Dream as One\" para <i>Fogo e Cinzas</i>. Embora Cameron tenha tido sucesso com parcerias musicais em seus filmes, como \"My Heart Will Go On\" em <b><i>Titanic</i></b>, a colaboração para o terceiro filme não foi imediata. Cyrus discute a natureza pessoal da faixa, inspirada pela perda de sua casa em um incêndio em 2018, seu caráter reconfortante e como ela se alinha aos temas do filme. Juntamente com o especial \"All Access\" com Linsey Davis, que cobrirá a estreia europeia e trará entrevistas com <b>Stephen Lang</b>, <b>Jack Champion</b>, <b>Bailey Bass</b> e <b>Trinity Bliss</b>, o especial proporcionará aos espectadores da ABC News uma exploração completa para prepará-los para as maravilhas do mais recente capítulo.</p><h2>O que esperar de Avatar: Fogo e Cinzas?</h2><p>Após explorar novas regiões de Pandora e continuar a guerra dos Na'vi contra os humanos em <b><i>O Caminho da Água</i></b>, o mais recente filme de Cameron trará Jake e Neytiri enfrentando seus maiores desafios. Ainda abalado pela morte de Neteyam, a família se depara com uma nova e violenta tribo conhecida como Povo das Cinzas, liderada por seu líder implacável, Varang. Eles estão determinados a ver o resto do planeta queimar e se uniram ao antagonista de Jake, Miles Quaritch, para alcançar esse objetivo. Isso desencadeia uma batalha para salvar Pandora que exigirá que os outros Na'vi se unam em uma nova luta moral para deter as chamas antes que consumam tudo.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/cast-of-avatar-_fire-and-ash_monday-8pm.jpeg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Elenco de Avatar: Fogo e Cinzas\" loading=\"lazy\"/><figcaption>Elenco de Avatar: Fogo e Cinzas se reúne para o especial.</figcaption></figure><p><i>Avatar: Uma Nova Era</i> será exibido na ABC em 12 de dezembro e estará disponível no Hulu no dia seguinte. <i>ABC News Live Prime with Linsey Davis</i> estará disponível na ABC News Live, Disney+ e Hulu em 15 de dezembro. Ambos os especiais antecedem o lançamento de <i>Avatar: Fogo e Cinzas</i> em 19 de dezembro.</p>",
+      "meta_description": "Descubra os bastidores de Avatar: Fogo e Cinzas no especial inédito da ABC, com acesso a James Cameron e ao elenco principal. Saiba mais sobre a produção.",
+      "focus_keyphrase": "Avatar: Fogo e Cinzas",
+      "related_keyphrases": [
+        "James Cameron",
+        "Avatar 3",
+        "ABC News"
+      ],
+      "slug": "avatar-fogo-e-cinzas-especial-bastidores-abc",
+      "categorias": [
+        {
+          "nome": "Avatar",
+          "grupo": "franquias",
+          "evidence": "a franquia de sucesso de James Cameron, Avatar"
+        },
+        {
+          "nome": "Fogo e Cinzas",
+          "grupo": "obras",
+          "evidence": "sua terceira parte, Avatar: Fogo e Cinzas"
+        },
+        {
+          "nome": "James Cameron",
+          "grupo": "cineastas",
+          "evidence": "James Cameron"
+        }
+      ],
+      "tags_sugeridas": [
+        "Avatar",
+        "Avatar 3",
+        "Fogo e Cinzas",
+        "James Cameron",
+        "ABC News",
+        "Sam Worthington",
+        "Zoe Saldaña"
+      ],
+      "image_alt_texts": {
+        "2020-avatar-dec-12-3.jpg": "James Cameron dirigindo cenas de Avatar",
+        "cast-of-avatar-_fire-and-ash_monday-8pm.jpeg": "Elenco de Avatar: Fogo e Cinzas reunido"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Avatar: Fogo e Cinzas ganha especial inédito nos bastidores pela ABC",
+        "_yoast_wpseo_metadesc": "Descubra os bastidores de Avatar: Fogo e Cinzas no especial inédito da ABC, com acesso a James Cameron e ao elenco principal. Saiba mais sobre a produção.",
+        "_yoast_wpseo_focuskw": "Avatar: Fogo e Cinzas",
+        "_yoast_news_keywords": "Avatar, Fogo e Cinzas, James Cameron, Avatar 3, ABC News, Sam Worthington, Zoe Saldaña, Sigourney Weaver, Kate Winslet, Oona Chaplin",
+        "_yoast_wpseo_opengraph-title": "Avatar: Fogo e Cinzas ganha especial inédito nos bastidores pela ABC",
+        "_yoast_wpseo_opengraph-description": "O especial \"Avatar: Uma Nova Era\" da ABC News Studios promete acesso raro aos bastidores do aguardado filme de James Cameron.",
+        "_yoast_wpseo_twitter-title": "Avatar: Fogo e Cinzas ganha especial inédito nos bastidores pela ABC",
+        "_yoast_wpseo_twitter-description": "O especial \"Avatar: Uma Nova Era\" da ABC News Studios promete acesso raro aos bastidores do aguardado filme de James Cameron."
+      }
+    }
+  ]
+}

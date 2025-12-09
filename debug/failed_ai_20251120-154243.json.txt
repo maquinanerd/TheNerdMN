@@ -1,0 +1,95 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Tides of Annihilation: Jogo estilo Bayonetta revela combate com troca de dimensões",
+      "conteudo_final": "<p>Um novo trailer de <strong><em>Tides of Annihilation</em></strong> foi divulgado durante o evento Xbox Partner Preview de novembro de 2024. O vídeo oferece mais detalhes sobre o cenário de fantasia, a mecânica de viagem entre dimensões similar a <em>Inception</em> e um sistema de combate único que permite aos jogadores alternarem entre diferentes cavaleiros jogáveis.</p><p>Desenvolvido pelo estúdio chinês Eclipse Glow Games, <em>Tides of Annihilation</em> é um jogo de ação e aventura anunciado durante a State of Play de fevereiro de 2025. O título apresenta combate rápido e estiloso, lembrando jogos como <em>Bayonetta</em>, <em>Devil May Cry</em> e <em>Astral Chain</em>. A história se passa em duas localizações: Londres moderna, devastada pela invasão "Outworld", e a mítica ilha de Avalon, da lenda arturiana.</p><h2>Tides of Annihilation mostra combate com troca de dimensões</h2><p>A Eclipse Glow Games participou do mais recente Xbox Partner Preview, onde apresentou um novo trailer para seu futuro título. O vídeo de quatro minutos revela novas cenas de gameplay de <em>Tides of Annihilation</em>, incluindo uma batalha épica contra um chefe onde a protagonista, Gwendolyn, transita entre diferentes dimensões. A sequência, inspirada em <em>Inception</em>, a mostra lutando ao lado do Cavaleiro Lamorak, alternando entre realidades espelhadas para pressionar um chefe metamorfo chamado Tyronoe, O Barqueiro.</p><p>A mecânica de controle de múltiplos personagens faz parte do sistema chamado Dual Frontline Battle, que permite aos jogadores comandar dois guerreiros e encadear ataques enquanto mudam de dimensão. A luta é apresentada de forma cinematográfica, com um ritmo e esquivas rápidas que remetem a <em>Bayonetta</em>. Tyronoe parece ter movimentos bem sinalizados, que até jogadores menos experientes no gênero de ação podem aprender com relativa facilidade. Ainda não está claro se o restante de <em>Tides of Annihilation</em> será igualmente acessível. O desenvolvedor não especificou em que ponto do jogo ocorre o encontro com Tyronoe.</p><h2>Tides of Annihilation confirmado como título Xbox Play Anywhere</h2><p>Além de exibir novo gameplay de <em>Tides of Annihilation</em>, a Eclipse Glow utilizou o evento Xbox Partner Preview de novembro para confirmar que seu futuro título fará parte do programa Xbox Play Anywhere. Isso permitirá que o jogo seja jogado tanto no Xbox Series X/S quanto no PC com uma única compra. O jogo de ação e aventura também foi previamente anunciado como um lançamento day-one para PlayStation 5.</p><p>Pouco tempo após seu anúncio em fevereiro de 2025, <em>Tides of Annihilation</em> foi acidentalmente listado em promoção na Xbox Store por um preço incomum de US$ 22,49. A listagem incorreta foi rapidamente removida, e a Microsoft começou a reembolsar todos os compradores no início de março. O preço oficial do jogo ainda não foi confirmado, mas, considerando seus altos valores de produção, espera-se que seja significativamente maior do que o valor anunciado erroneamente. A página de <em>Tides of Annihilation</em> no Steam lista o título como \"em breve\" desde fevereiro, com a Eclipse Glow ainda sem fornecer um prazo de lançamento mais específico.</p>",
+      "meta_description": "Tides of Annihilation, jogo estilo Bayonetta, revela combate com troca de dimensões e é confirmado para Xbox Play Anywhere. Veja detalhes.",
+      "focus_keyphrase": "Tides of Annihilation combate dimensões",
+      "related_keyphrases": [
+        "Tides of Annihilation gameplay",
+        "Eclipse Glow Games",
+        "Xbox Partner Preview"
+      ],
+      "slug": "tides-of-annihilation-combate-dimensoes",
+      "categorias": [
+        {
+          "nome": "Tides of Annihilation",
+          "grupo": "obras",
+          "evidence": "Um novo trailer de Tides of Annihilation é aqui"
+        },
+        {
+          "nome": "Xbox",
+          "grupo": "plataformas",
+          "evidence": "Xbox Partner Preview showcase"
+        },
+        {
+          "nome": "Bayonetta",
+          "grupo": "franquias",
+          "evidence": "combate rápido e estiloso, lembrando jogos como Bayonetta"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tides of Annihilation",
+        "Eclipse Glow Games",
+        "Xbox",
+        "Ação",
+        "Aventura"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tides of Annihilation: Jogo estilo Bayonetta revela combate com troca de dimensões",
+        "_yoast_wpseo_metadesc": "Tides of Annihilation, jogo estilo Bayonetta, revela combate com troca de dimensões e é confirmado para Xbox Play Anywhere. Veja detalhes.",
+        "_yoast_wpseo_focuskw": "Tides of Annihilation combate dimensões",
+        "_yoast_news_keywords": "Tides of Annihilation, Eclipse Glow Games, Xbox, Bayonetta, Ação, Aventura",
+        "_yoast_wpseo_opengraph-title": "Tides of Annihilation: Jogo estilo Bayonetta revela combate com troca de dimensões",
+        "_yoast_wpseo_opengraph-description": "Tides of Annihilation, jogo estilo Bayonetta, revela combate com troca de dimensões e é confirmado para Xbox Play Anywhere. Veja detalhes.",
+        "_yoast_wpseo_twitter-title": "Tides of Annihilation: Jogo estilo Bayonetta revela combate com troca de dimensões",
+        "_yoast_wpseo_twitter-description": "Tides of Annihilation, jogo estilo Bayonetta, revela combate com troca de dimensões e é confirmado para Xbox Play Anywhere. Veja detalhes."
+      }
+    },
+    {
+      "titulo_final": "Vampire Survivors ganha spin-off com foco em masmorras e construção de baralhos em 2026",
+      "conteudo_final": "<p><em>Vampire Survivors</em> continua a receber atualizações constantes desde seu lançamento em 2021. No entanto, o desenvolvedor Poncle estava trabalhando em um projeto paralelo que reimagina a fórmula original. O novo título, <em>Vampire Crawlers</em>, é um spin-off oficial que abandona a perspectiva de cima para baixo em favor de um mundo mais tangível, repleto de masmorras familiares.</p><p>Assim como no jogo original, os jogadores poderão criar combinações poderosas de habilidades, mas desta vez através de um formato de construção de baralhos. O jogo promete uma experiência renovada, mantendo a essência que cativou os fãs.</p><h2>Vampire Crawlers: A nova aventura de Vampire Survivors</h2><p><em>Vampire Crawlers</em> foi anunciado como um spin-off oficial de <em>Vampire Survivors</em>. A principal novidade é a mudança de perspectiva, saindo do 2D de cima para baixo para um ambiente 3D com exploração de masmorras. A mecânica de construção de baralhos introduz uma nova camada estratégica para as partidas.</p><p>O jogo está previsto para ser lançado em 2026. Mais detalhes sobre a história e as mecânicas específicas serão divulgados futuramente pelo estúdio Poncle.</p><h2>Construção de baralhos e masmorras em Vampire Crawlers</h2><p>A mecânica de construção de baralhos em <em>Vampire Crawlers</em> permitirá aos jogadores montar estratégias únicas para cada partida. A combinação de elementos de roguelike com a construção de decks promete alta rejogabilidade e a criação de builds poderosas e inesperadas.</p><p>A ambientação em masmorras familiares sugere que o jogo manterá a atmosfera sombria e desafiadora que marcou <em>Vampire Survivors</em>, adaptada para a nova perspectiva e mecânicas.</p><h2>Lançamento e plataformas de Vampire Crawlers</h2><p>Embora o lançamento esteja previsto para 2026, ainda não foram divulgadas informações sobre as plataformas específicas em que <em>Vampire Crawlers</em> estará disponível. A expectativa é que o jogo siga os passos de seu antecessor e seja lançado para PC e consoles.</p><p>O jogo original, <em>Vampire Survivors</em>, foi lançado em dezembro de 2021 e recebeu aclamação da crítica, com uma média de 88/100 no OpenCritic. A classificação indicativa é T (Teen) por violência e sangue.</p>",
+      "meta_description": "Vampire Survivors ganha spin-off oficial, Vampire Crawlers, com foco em masmorras e construção de baralhos. Lançamento previsto para 2026.",
+      "focus_keyphrase": "Vampire Survivors spin-off Vampire Crawlers",
+      "related_keyphrases": [
+        "Vampire Crawlers construção de baralhos",
+        "Vampire Survivors masmorras",
+        "Poncle novo jogo"
+      ],
+      "slug": "vampire-survivors-spin-off-vampire-crawlers",
+      "categorias": [
+        {
+          "nome": "Vampire Survivors",
+          "grupo": "franquias",
+          "evidence": "Vampire Survivors has been trucking along pretty steadily"
+        },
+        {
+          "nome": "Roguelike",
+          "grupo": "gêneros",
+          "evidence": "Genre(s) Roguelike"
+        }
+      ],
+      "tags_sugeridas": [
+        "Vampire Survivors",
+        "Vampire Crawlers",
+        "Poncle",
+        "Roguelike",
+        "Indie"
+      ],
+      "image_alt_texts": {
+        "mixcollage-05-dec-2024-07-46-pm-1862.jpg": "Arte promocional de Vampire Crawlers, spin-off de Vampire Survivors, mostrando personagens em um cenário de masmorra."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Vampire Survivors ganha spin-off com foco em masmorras e construção de baralhos em 2026",
+        "_yoast_wpseo_metadesc": "Vampire Survivors ganha spin-off oficial, Vampire Crawlers, com foco em masmorras e construção de baralhos. Lançamento previsto para 2026.",
+        "_yoast_wpseo_focuskw": "Vampire Survivors spin-off Vampire Crawlers",
+        "_yoast_news_keywords": "Vampire Survivors, Vampire Crawlers, Poncle, Roguelike, Indie, Construção de baralhos",
+        "_yoast_wpseo_opengraph-title": "Vampire Survivors ganha spin-off com foco em masmorras e construção de baralhos em 2026",
+        "_yoast_wpseo_opengraph-description": "Vampire Survivors ganha spin-off oficial, Vampire Crawlers, com foco em masmorras e construção de baralhos. Lançamento previsto para 2026.",
+        "_yoast_wpseo_twitter-title": "Vampire Survivors ganha spin-off com foco em masmorras e construção de baralhos em 2026",
+        "_yoast_wpseo_twitter-description": "Vampire Survivors ganha spin-off oficial, Vampire Crawlers, com foco em masmorras e construção de baralhos. Lançamento previsto para 2026."
+      }
+    }
+  ]
+}

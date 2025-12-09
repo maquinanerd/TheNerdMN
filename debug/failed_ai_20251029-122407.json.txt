@@ -1,0 +1,53 @@
+{
+  "titulo_final": "YouTube Restringe Conteúdo de Jogos com Violência Gráfica e Apostas",
+  "conteudo_final": "<p>O <b>YouTube</b> anunciou novas políticas que visam restringir o upload de conteúdo relacionado a jogos de azar ou que apresente violência gráfica realista em games. As atualizações, que entrarão em vigor em 17 de novembro de 2025, podem gerar controvérsia entre os jogadores e afetar vídeos de títulos populares como <b>Counter-Strike 2</b>, <b>Overwatch 2</b> e até mesmo <b>Grand Theft Auto 6</b>.</p><p>Fundado em 2005 e adquirido pelo Google no ano seguinte, o YouTube é uma das plataformas mais populares para o consumo de conteúdo de videogames. A plataforma alcançou ganhos de mais de US$ 9,79 bilhões no segundo trimestre de 2025, e deve manter sua influência no cenário gamer nos próximos anos.</p><h2>Restrições a Apostas e Skins de Jogos</h2><p>As novas diretrizes do YouTube expandem a definição de \"conteúdo de jogos de azar online\". Anteriormente, era proibido vincular, comercializar ou vender diretamente. Agora, a política abrangerá \"jogos de azar online com itens adicionais que possuem valor monetário\", incluindo skins e cosméticos de jogos. Essa mudança impactaria jogos populares de serviço contínuo, como <b>Counter-Strike 2</b>, que possui um mercado ativo de skins. Ainda não está claro o alcance exato da proibição, mas pode impedir links para o jogo ou seus itens, embora a possibilidade de vídeos de gameplay violarem as regras permaneça incerta.</p><figure><img src=\"https:
+  "meta_description": "YouTube anuncia novas políticas que restringirão conteúdo de jogos com apostas, skins e violência gráfica realista a partir de novembro de 2025.",
+  "focus_keyphrase": "YouTube restringe conteúdo de jogos",
+  "related_keyphrases": [
+    "políticas do YouTube para games",
+    "restrições de conteúdo de jogos",
+    "YouTube e violência gráfica"
+  ],
+  "slug": "youtube-restringe-conteudo-jogos",
+  "categorias": [
+    {
+      "nome": "YouTube",
+      "grupo": "plataformas",
+      "evidence": "YouTube has recently unveiled upcoming policies"
+    },
+    {
+      "nome": "Counter-Strike 2",
+      "grupo": "obras",
+      "evidence": "popular titles such as Counter-Strike 2"
+    },
+    {
+      "nome": "Grand Theft Auto 6",
+      "grupo": "obras",
+      "evidence": "upcoming Grand Theft Auto 6"
+    }
+  ],
+  "tags_sugeridas": [
+    "YouTube",
+    "games",
+    "Counter-Strike 2",
+    "Grand Theft Auto 6",
+    "Overwatch 2",
+    "políticas de conteúdo",
+    "violência gráfica"
+  ],
+  "image_alt_texts": {
+    "overwatch-2-loot-boxes-over-100-in-season-15.jpg": "Caixas de loot em Overwatch 2, um exemplo de conteúdo que pode ser afetado pelas novas políticas do YouTube.",
+    "counter-strike-2-promotional-art.jpg": "Arte promocional de Counter-Strike 2, jogo com mercado de skins que pode ser impactado pelas restrições do YouTube.",
+    "gta-6-lucia-fighting.jpg": "Lucia em ação em Grand Theft Auto 6, jogo conhecido por sua violência que pode ter conteúdo restrito no YouTube."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "YouTube Restringe Conteúdo de Jogos com Violência Gráfica e Apostas",
+    "_yoast_wpseo_metadesc": "YouTube anuncia novas políticas que restringirão conteúdo de jogos com apostas, skins e violência gráfica realista a partir de novembro de 2025.",
+    "_yoast_wpseo_focuskw": "YouTube restringe conteúdo de jogos",
+    "_yoast_news_keywords": "YouTube, games, Counter-Strike 2, Grand Theft Auto 6, Overwatch 2, políticas de conteúdo, violência gráfica, apostas online",
+    "_yoast_wpseo_opengraph-title": "YouTube Restringe Conteúdo de Jogos com Violência Gráfica e Apostas",
+    "_yoast_wpseo_opengraph-description": "YouTube anuncia novas políticas que restringirão conteúdo de jogos com apostas, skins e violência gráfica realista a partir de novembro de 2025.",
+    "_yoast_wpseo_twitter-title": "YouTube Restringe Conteúdo de Jogos com Violência Gráfica e Apostas",
+    "_yoast_wpseo_twitter-description": "YouTube anuncia novas políticas que restringirão conteúdo de jogos com apostas, skins e violência gráfica realista a partir de novembro de 2025."
+  }
+}

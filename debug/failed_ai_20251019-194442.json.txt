@@ -1,0 +1,62 @@
+{
+  "titulo_final": "Tulsa King: Neal McDonough promete momento chocante na 3ª temporada",
+  "conteudo_final": "<p>A terceira temporada de <b>Tulsa King</b> promete um final explosivo, de acordo com o ator Neal McDonough, que interpreta Cal Thresher. Em entrevista, o ator revelou que a cena final de seu personagem na temporada causará um choque inesperado no público.</p><h2>Um momento de pura emoção</h2><p>McDonough descreveu o momento como extremamente emocional e declarou que precisou convencer o diretor da série a manter a cena no episódio. Segundo o ator, a intenção é mostrar que Cal Thresher é um personagem imprevisível e que vai além de uma persona unidimensional.</p><blockquote>"O diretor disse: 'Eu não acho que você possa fazer isso, você é o Cal Thresher'. Eu respondi: 'Bem, não é exatamente por isso que eu deveria?' Ele é completamente incompreendido. Eu não quero que ninguém pense que Cal Thresher é de um jeito quando ele pode ser completamente diferente."</blockquote><p>O ator demonstrou satisfação com o resultado obtido para seu personagem, indicando que a cena adiciona uma camada complexa e surpreendente à narrativa.</p><h2>A rivalidade em Tulsa King</h2><p>Neal McDonough se juntou ao elenco de <b>Tulsa King</b> na segunda temporada, interpretando um rival de Dwight Manfredi (Sylvester Stallone) no ramo da maconha. Após Dwight se mudar de Nova York para Oklahoma, Cal Thresher se tornou uma pedra no sapato. Apesar de Dwight ter poupado Cal e assumido seus negócios no final da segunda temporada, a relação entre os dois continua carregada de tensão.</p><p><b>Tulsa King</b> acompanha a história de Dwight, um capanga da máfia de Nova York que é exilado em Tulsa. Lá, ele constrói um novo império enquanto enfrenta os perigos do submundo do crime.</p><h2>Elenco e plataforma de streaming</h2><p>A série conta com um elenco estrelado, incluindo Sylvester Stallone, Andrea Savage, Martin Starr, Jay Will, Max Casella, Domenick Lombardozzi, Vincent Piazza, A. C. Peterson, Garrett Hedlund, Dana Delany, Tatiana Zappardino, Annabella Sciorra, Frank Grillo, Chris Caldovino, McKenna Quigley Harrington, Mike Walden, Beau Knapp, Robert Patrick, Bella Heathcote e Kevin Pollak.</p><p><b>Tulsa King</b> está disponível para streaming no Paramount+, com novos episódios lançados semanalmente.</p>",
+  "meta_description": "Neal McDonough, de Tulsa King, antecipa cena chocante na 3ª temporada. Ator defende momento emocional de Cal Thresher e promete reviravolta.",
+  "focus_keyphrase": "Tulsa King Neal McDonough",
+  "related_keyphrases": [
+    "Terceira temporada de Tulsa King",
+    "Cal Thresher",
+    "Sylvester Stallone Tulsa King"
+  ],
+  "slug": "tulsa-king-momento-chocante-3-temporada",
+  "categorias": [
+    {
+      "nome": "Tulsa King",
+      "grupo": "obras",
+      "evidence": "<strong><em>Tulsa King</em></strong> actor Neal McDonough reveals his"
+    },
+    {
+      "nome": "Crime",
+      "grupo": "editorias",
+      "evidence": "Crime"
+    },
+    {
+      "nome": "Drama",
+      "grupo": "editorias",
+      "evidence": "Drama"
+    }
+  ],
+  "tags_sugeridas": [
+    "tulsa king",
+    "sylvester stallone",
+    "neal mcdonough",
+    "paramount+",
+    "séries de crime",
+    "temporada 3"
+  ],
+  "image_alt_texts": {
+    "03182315_poster_w780.jpg": "Pôster da série Tulsa King com Sylvester Stallone em destaque.",
+    "sylvester-stallone-as-dwight-manfredi-flanked-by-jay-will-as-tyson-mitchell-and-mike-walden-as-bigfoot-in-tulsa-king-season-3.jpg": "Sylvester Stallone como Dwight Manfredi em Tulsa King, cercado por Tyson Mitchell e Bigfoot.",
+    "greene.jpg": "Dwight Manfredi (Sylvester Stallone) e Old Smoke (Graham Greene) conversando em Tulsa King.",
+    "tulsa-king-season-2-ep-10-28.jpg": "Cena da segunda temporada de Tulsa King com foco em Dwight Manfredi.",
+    "tulsa-king-season-2-ep-10-27.jpg": "Cena da segunda temporada de Tulsa King com Dwight Manfredi e outros personagens.",
+    "tulsa-king-season-2-ep-10-20.jpg": "Personagens em cena na segunda temporada de Tulsa King.",
+    "tulsa-king-season-2-ep-10-17.jpg": "Sequência da segunda temporada de Tulsa King.",
+    "tulsa-king-season-2-ep-10-9.jpg": "Ação na segunda temporada de Tulsa King.",
+    "tulsa-king-season-2-ep-10-3.jpg": "Cena de ação em Tulsa King.",
+    "tulsa-king-season-2-ep-10-4.jpg": "Momentos de tensão na segunda temporada de Tulsa King.",
+    "tulsa-king-season-2-ep-10-1.jpg": "Sequência da segunda temporada de Tulsa King.",
+    "instar53049199.jpg": "Sylvester Stallone, ator principal de Tulsa King.",
+    "instar52786801.jpg": "Martin Starr, membro do elenco de Tulsa King."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Tulsa King: Neal McDonough promete momento chocante na 3ª temporada",
+    "_yoast_wpseo_metadesc": "Neal McDonough, de Tulsa King, antecipa cena chocante na 3ª temporada. Ator defende momento emocional de Cal Thresher e promete reviravolta.",
+    "_yoast_wpseo_focuskw": "Tulsa King Neal McDonough",
+    "_yoast_news_keywords": "Tulsa King, Sylvester Stallone, Neal McDonough, Paramount+, série de crime, temporada 3, Cal Thresher",
+    "_yoast_wpseo_opengraph-title": "Tulsa King: Neal McDonough promete momento chocante na 3ª temporada",
+    "_yoast_wpseo_opengraph-description": "Neal McDonough, de Tulsa King, antecipa cena chocante na 3ª temporada. Ator defende momento emocional de Cal Thresher e promete reviravolta.",
+    "_yoast_wpseo_twitter-title": "Tulsa King: Neal McDonough promete momento chocante na 3ª temporada",
+    "_yoast_wpseo_twitter-description": "Neal McDonough, de Tulsa King, antecipa cena chocante na 3ª temporada. Ator defende momento emocional de Cal Thresher e promete reviravolta."
+  }
+}

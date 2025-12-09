@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Buck Rogers: Herói Sci-Fi Clássico Ganha Reboot em Filme da Legendary",
+  "conteudo_final": "<p>Um dos mais lendários heróis de ficção científica do século XX está de volta às telonas. <b>Buck Rogers</b> terá um reboot cinematográfico pela Legendary Pictures. Zeb Wells, roteirista do recente sucesso de terror animado da Marvel, <i>Marvel Zombies</i>, foi escalado para escrever o roteiro.</p><p>A Legendary pretende relançar o personagem como uma franquia multimídia, com uma série live-action e uma série de anime derivadas do filme. Wells é um nome consolidado nos gêneros de ficção científica e super-heróis. Ele escreveu e dirigiu a série animada <i>Robot Chicken</i> e co-criou a série <i>SuperMansion</i>. Ele também contribuiu extensivamente para a Marvel Comics, incluindo uma fase recente em <i>Amazing Spider-Man</i> e a história principal em <i>Deadpool/Batman</i>, o primeiro crossover entre Marvel e DC em décadas. Wells também trabalhou em roteiros para produções do MCU, como <i>Thor: Love and Thunder</i>, <i>The Marvels</i> e <i>Deadpool & Wolverine</i>.</p><h2>Quem É Buck Rogers?</h2><p>Criado por Philip Francis Nowlan e Dick Calkin em sua própria tira de jornal em 1929, Buck Rogers é um veterano da Primeira Guerra Mundial que foi vítima de um desabamento em uma mina. Preso em animação suspensa, ele foi revivido 500 anos depois, no século 25. Como um homem fora de seu tempo, ele logo se vê envolvido em uma guerra futurista ao lado da lutadora pela liberdade Wilma Deering. A tira, fortemente inspirada nos romances de John Carter de Edgar Rice Burroughs, foi enormemente popular e influente, inspirando imitadores como <b>Flash Gordon</b>.</p><p>O personagem fez sua primeira aparição nas telonas em 1939, em um seriado de 12 partes estrelado pelo famoso atleta olímpico Buster Crabbe. O seriado <i>Buck Rogers</i> influenciou <b>George Lucas</b>, cuja criação mais famosa levou ao renascimento de Buck Rogers. Na febre de ficção científica que se seguiu a <i>Star Wars</i>, a NBC lançou <i>Buck Rogers in the 25th Century</i>, uma série live-action. Estrelada por Gil Gerard como Rogers, Erin Gray como Deering e Mel Blanc como a voz do robô Twiki, a série durou apenas duas temporadas, mas se tornou um cult.</p><p>Houve várias tentativas de reviver Buck Rogers. Frank Miller trabalhou em uma adaptação antes do fracasso de <i>The Spirit</i>. Mais recentemente, Brian K. Vaughan (<a href=\"https:
+  "meta_description": "Herói clássico de ficção científica Buck Rogers ganha reboot em filme pela Legendary Pictures com roteiro de Zeb Wells (Marvel Zombies). Saiba mais!",
+  "focus_keyphrase": "Buck Rogers",
+  "related_keyphrases": [
+    "Buck Rogers reboot",
+    "Legendary Pictures",
+    "Zeb Wells"
+  ],
+  "slug": "buck-rogers-reboot-filme",
+  "categorias": [
+    {
+      "nome": "Buck Rogers",
+      "grupo": "obras",
+      "evidence": "Buck Rogers is getting a big-screen reboot"
+    },
+    {
+      "nome": "Marvel Zombies",
+      "grupo": "obras",
+      "evidence": "Marvel Zombies, is on board to pen the script."
+    },
+    {
+      "nome": "Legendary Pictures",
+      "grupo": "franquias",
+      "evidence": "Legendary Pictures."
+    }
+  ],
+  "tags_sugeridas": [
+    "Buck Rogers",
+    "Zeb Wells",
+    "Legendary Pictures",
+    "Ficção Científica",
+    "Sci-Fi",
+    "Marvel Zombies"
+  ],
+  "image_alt_texts": {
+    "buck-rogers-nbc.png": "Buck Rogers em seu traje clássico em uma imagem promocional da série de TV.",
+    "0317596_poster_w780.jpg": "Pôster do filme Buck Rogers com o personagem em destaque em um fundo espacial."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Buck Rogers: Herói Sci-Fi Clássico Ganha Reboot em Filme da Legendary",
+    "_yoast_wpseo_metadesc": "Herói clássico de ficção científica Buck Rogers ganha reboot em filme pela Legendary Pictures com roteiro de Zeb Wells (Marvel Zombies). Saiba mais!",
+    "_yoast_wpseo_focuskw": "Buck Rogers",
+    "_yoast_news_keywords": "Buck Rogers, Legendary Pictures, Zeb Wells, Marvel Zombies, Ficção Científica, Sci-Fi, Reboot",
+    "_yoast_wpseo_opengraph-title": "Buck Rogers: Herói Sci-Fi Clássico Ganha Reboot em Filme da Legendary",
+    "_yoast_wpseo_opengraph-description": "Um dos mais lendários heróis de ficção científica do século XX está de volta às telonas. Buck Rogers terá um reboot cinematográfico pela Legendary Pictures.",
+    "_yoast_wpseo_twitter-title": "Buck Rogers: Herói Sci-Fi Clássico Ganha Reboot em Filme da Legendary",
+    "_yoast_wpseo_twitter-description": "Um dos mais lendários heróis de ficção científica do século XX está de volta às telonas. Buck Rogers terá um reboot cinematográfico pela Legendary Pictures."
+  }
+}

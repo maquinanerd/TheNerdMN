@@ -1,0 +1,53 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Guillermo del Toro se diz pronto para a morte e reflete sobre a vida",
+      "conteudo_final": "<p>O diretor Guillermo del Toro, conhecido por filmes como <em>Hellboy</em>, <em>O Labirinto do Fauno</em>, <em>Círculo de Fogo</em>, <em>A Forma da Água</em> e <em>Pinóquio</em>, admitiu que está "ansioso" pela morte.</p><p>No outono americano, del Toro estreou seu projeto mais recente: uma releitura do clássico romance de Mary Shelley, <em>Frankenstein</em>, para a Netflix. A produção conta com Oscar Isaac no papel principal e Jacob Elordi como a Criatura.</p><h2>Reflexões sobre a mortalidade</h2><p>Durante sua participação no Festival de Cinema de Marrakech, del Toro fez uma declaração surpreendente. O cineasta revelou ser um "grande fã da morte" e questionou a necessidade humana de estender a vida indefinidamente.</p><blockquote><p>“Por que você deveria querer viver mais? Eu sou um grande fã da morte… Acho a morte muito boa. Certamente estou ansioso por ela, porque é o dia em que você diz: ‘Bem, amanhã não terei problemas.’”</p></blockquote><p>Del Toro expressou que, no dia da morte, as preocupações acabam. "Amanhã, não terei problemas", afirmou ele, refletindo sobre a natureza efêmera da existência.</p><h2>O sonho de dirigir Frankenstein</h2><p>A ideia de dirigir <em>Frankenstein</em> acompanha Guillermo del Toro há décadas, desde que leu o romance de Shelley na infância e assistiu ao filme de 1931. Ele sentiu uma conexão profunda com a história, que o marcou de maneira especial.</p><blockquote><p>"Aquilo era religião. Aquela era a minha igreja. Imediatamente senti que o que minha avó costumava sentir por Jesus, eu agora sentia por Boris. E eu me via nele."</p></blockquote><p>Após a concretização desse sonho, o diretor confessou estar experimentando um quadro de "depressão pós-parto". Ele se considera uma pessoa de emoções intensas e acredita na importância de expressá-las abertamente.</p><blockquote><p>"Eu sou mexicano, então a emoção é grande para mim. Acho que a emoção é muito escassa atualmente. Chegamos a um ponto na civilização em que a emoção parece ser algo que você esconde… Estamos em um momento horrível em que o cinismo simula inteligência. Se você diz: 'Eu acredito no amor', você é um tolo. Se você diz: 'Eu não acredito no amor', você é um homem sábio. Não concordo com nada disso."</p></blockquote><h2>Superação e sucesso de Frankenstein</h2><p>Ao abordar projetos ambiciosos como <em>Frankenstein</em>, del Toro destacou a necessidade de estar "aberto ao fracasso", pois este é um componente essencial para o sucesso.</p><blockquote><p>"Os românticos deram um passo enorme em direção à possibilidade de ridículo… Você tem que estar completamente aberto ao fracasso se quiser experimentar o sucesso… você tem que estar pronto para ser ridículo. Então estou pronto para ser ridículo o tempo todo."</p></blockquote><p>Felizmente, <em>Frankenstein</em> tem sido um grande sucesso, alcançando 86% de aprovação no Rotten Tomatoes. Críticos descreveram o filme como uma obra emocionante e cativante sobre a humanidade, ecoando os comentários de del Toro sobre vida, amor e emoção. A pontuação do público é ainda maior, atingindo 94%.</p><p>O filme já conquistou diversos prêmios em festivais e foi reconhecido pelo American Film Institute como um dos dez melhores filmes de 2025, ao lado de produções como <em>Avatar: Fire and Ash</em>, <em>Bugonia</em>, <em>Hamnet</em> e <em>Wicked: For Good</em>.</p><p>Guillermo del Toro, aos 61 anos, acumulou realizações notáveis. Ao longo de 32 anos, desde sua estreia cinematográfica com <em>Cronos</em> em 1992, ele tem criado histórias impactantes em filmes e séries. Grato por suas conquistas, del Toro reflete sobre sua trajetória e se sente preparado para o inevitável fim.</p><p><em>Frankenstein</em> aborda temas centrais como vida e morte. A morte é inevitável, e as consequências de tentar contornar essa verdade podem ser severas, como demonstra o personagem titular. As reflexões pessoais do diretor sobre o mundo real dialogam diretamente com esses temas importantes.</p>",
+      "meta_description": "Guillermo del Toro expressa sua visão sobre a morte e reflete sobre a vida e emoções, após o sucesso de seu filme Frankenstein na Netflix.",
+      "focus_keyphrase": "Guillermo del Toro pronto para a morte",
+      "related_keyphrases": [
+        "Guillermo del Toro Frankenstein",
+        "visão sobre a morte",
+        "cineasta mexicano"
+      ],
+      "slug": "guillermo-del-toro-pronto-para-morte-frankenstein",
+      "categorias": [
+        {
+          "nome": "Frankenstein",
+          "grupo": "obras",
+          "evidence": "reimagining of the classic Mary Shelley novel Frankenstein for Netflix"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Frankenstein for Netflix"
+        },
+        {
+          "nome": "Guillermo del Toro",
+          "grupo": "cineastas",
+          "evidence": "Guillermo del Toro just admitted"
+        }
+      ],
+      "tags_sugeridas": [
+        "Guillermo del Toro",
+        "Frankenstein",
+        "Netflix",
+        "Oscar Isaac",
+        "Jacob Elordi",
+        "Marrakech Film Festival",
+        "Mary Shelley"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Guillermo del Toro se diz pronto para a morte e reflete sobre a vida",
+        "_yoast_wpseo_metadesc": "Guillermo del Toro expressa sua visão sobre a morte e reflete sobre a vida e emoções, após o sucesso de seu filme Frankenstein na Netflix.",
+        "_yoast_wpseo_focuskw": "Guillermo del Toro pronto para a morte",
+        "_yoast_news_keywords": "Guillermo del Toro, Frankenstein, Netflix, Oscar Isaac, Jacob Elordi, Mary Shelley, morte, vida, cineasta",
+        "_yoast_wpseo_opengraph-title": "Guillermo del Toro se diz pronto para a morte e reflete sobre a vida",
+        "_yoast_wpseo_opengraph-description": "Guillermo del Toro expressa sua visão sobre a morte e reflete sobre a vida e emoções, após o sucesso de seu filme Frankenstein na Netflix.",
+        "_yoast_wpseo_twitter-title": "Guillermo del Toro se diz pronto para a morte e reflete sobre a vida",
+        "_yoast_wpseo_twitter-description": "Guillermo del Toro expressa sua visão sobre a morte e reflete sobre a vida e emoções, após o sucesso de seu filme Frankenstein na Netflix."
+      }
+    }
+  ]
+}

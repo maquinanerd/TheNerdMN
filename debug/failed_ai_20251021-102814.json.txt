@@ -1,0 +1,46 @@
+{
+  "titulo_final": "Fallout Day: Bethesda promete novidades, mas descarta Fallout 5 e remaster",
+  "conteudo_final": "<p>A <b>Bethesda</b>, conhecida por seus longos ciclos de desenvolvimento, está prestes a celebrar o <b>Fallout Day</b> nesta semana, em 23 de outubro. Embora a empresa prometa novidades sobre a franquia, ela já adiantou que não haverá anúncios sobre <b>Fallout 5</b>, um possível remaster de <b>Fallout 3</b> ou quaisquer outros spin-offs. O foco será exclusivamente nos “títulos atuais”.</p><h2>Expectativas para o Fallout Day</h2><p>A celebração do Fallout Day gerou entusiasmo entre os fãs, especialmente pela presença de um grande \"3\" na imagem promocional, o que alimentou teorias sobre um possível anúncio de <b>Fallout 3 Remastered</b>. No entanto, a descrição oficial, que menciona “as últimas notícias sobre nossos títulos atuais”, sugere que não haverá grandes revelações de jogos novos. Fontes confiáveis também indicam que o remaster é improvável de ser anunciado durante o evento.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/fallout-tv-show-poster-showing-lucy-cx404-ghoul-and-maximus-in-front-of-an-explosion-with-flying-bottle-caps.jpg\" alt=\"Poster da série Fallout com os personagens Lucy, The Ghoul e Maximus.\"><figcaption>Poster da série Fallout, com os personagens Lucy, The Ghoul e Maximus em destaque.</figcaption></figure><h2>Conteúdo esperado para Fallout 76 e Fallout 4</h2><p>A expectativa é que as novidades se concentrem em atualizações de conteúdo para <b>Fallout 76</b> e <b>Fallout Shelter</b>. Uma nova atualização para <b>Fallout 4</b> também é possível, especialmente após o upgrade para a nova geração lançado no ano passado. Manter esses títulos em bom estado faz sentido, dado que a segunda temporada da série <b>Fallout</b> estreia em dezembro, e a primeira temporada atraiu milhares de jogadores de volta aos jogos.</p><h2>Possíveis temas de Fallout: New Vegas</h2><p>Há também a possibilidade de conteúdo temático de <b>Fallout: New Vegas</b>, visto que a segunda temporada da série se inspira fortemente neste jogo. Contudo, é mais provável que isso se materialize na forma de itens de New Vegas adicionados a Fallout 4 e Fallout 76, em vez de um remaster completo do jogo.</p><p>O Fallout Day ocorrerá nesta quinta-feira, às 13h (horário de Brasília) / 18h (horário de Londres).</p>",
+  "meta_description": "Bethesda confirma novidades para o Fallout Day em 23 de outubro, mas descarta anúncios de Fallout 5 e Fallout 3 Remastered. Veja o que esperar.",
+  "focus_keyphrase": "Fallout Day",
+  "related_keyphrases": [
+    "Bethesda Fallout",
+    "Fallout 5",
+    "Fallout 3 Remastered"
+  ],
+  "slug": "fallout-day-bethesda-novidades",
+  "categorias": [
+    {
+      "nome": "Fallout",
+      "grupo": "franquias",
+      "evidence": "Fallout Day livestream from Bethesda this week"
+    },
+    {
+      "nome": "Bethesda",
+      "grupo": "editorias",
+      "evidence": "Bethesda was pioneering long development cycles"
+    }
+  ],
+  "tags_sugeridas": [
+    "Bethesda",
+    "Fallout",
+    "Fallout 76",
+    "Fallout 4",
+    "Fallout 5",
+    "Fallout 3 Remastered",
+    "Fallout Day"
+  ],
+  "image_alt_texts": {
+    "fallout-tv-show-poster-showing-lucy-cx404-ghoul-and-maximus-in-front-of-an-explosion-with-flying-bottle-caps.jpg": "Poster da série Fallout com os personagens Lucy, The Ghoul e Maximus em primeiro plano, com uma explosão ao fundo e tampinhas de garrafa voando."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Fallout Day: Novidades confirmadas, mas sem Fallout 5 ou remaster",
+    "_yoast_wpseo_metadesc": "Bethesda confirma novidades para o Fallout Day em 23 de outubro, mas descarta anúncios de Fallout 5 e Fallout 3 Remastered. Veja o que esperar.",
+    "_yoast_wpseo_focuskw": "Fallout Day",
+    "_yoast_news_keywords": "Fallout Day, Bethesda, Fallout 5, Fallout 3 Remastered, Fallout 76, Fallout 4, Fallout Shelter",
+    "_yoast_wpseo_opengraph-title": "Fallout Day: Bethesda promete novidades, mas descarta Fallout 5 e remaster",
+    "_yoast_wpseo_opengraph-description": "A Bethesda confirmou que trará novidades sobre a franquia Fallout em 23 de outubro, mas adiantou que jogos como Fallout 5 e um remaster de Fallout 3 não estarão entre os anúncios.",
+    "_yoast_wpseo_twitter-title": "Fallout Day: Novidades confirmadas, mas sem Fallout 5 ou remaster",
+    "_yoast_wpseo_twitter-description": "A Bethesda confirmou que trará novidades sobre a franquia Fallout em 23 de outubro, mas adiantou que jogos como Fallout 5 e um remaster de Fallout 3 não estarão entre os anúncios."
+  }
+}

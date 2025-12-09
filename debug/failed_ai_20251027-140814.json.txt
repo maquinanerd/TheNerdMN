@@ -1,0 +1,55 @@
+{
+  "titulo_final": "Alan Ritchson Surpreende em Nova Comédia de Ação 'Playdate'",
+  "conteudo_final": "<p>Alan Ritchson está de volta ao gênero da comédia com o filme <b><i>Playdate</i></b>, e o diretor Luke Greenfield está ansioso para as surpresas que o longa reserva. Ritchson interpreta Jeff, um pai dedicado que, após conhecer Brian, um pai solteiro em dificuldades no parque, marca um encontro entre seus filhos e eles mesmos em uma fliperama local. No entanto, Brian desconhece que Jeff esconde um grande segredo que leva a uma luta pela sobrevivência contra uma implacável equipe de mercenários.</p><h2>Inspirações e Colaboração</h2><p>Ao lado de Ritchson, que se reúne com a equipe de <i>Reacher</i> do Prime Video para o filme, o elenco de <i>Playdate</i> inclui Kevin James como Brian, Sarah Chalke, Stephen Root, Isla Fisher e Alan Tudyk. Dirigido por Greenfield, conhecido por <i>A Vingadora</i> e <i>Dupla de Ação</i>, e roteirizado por Neil Goldman, de <i>Scrubs</i>, o filme estreia em 12 de novembro.</p><p>Greenfield revelou em entrevista que Ritchson foi o primeiro a ser escalado. Eles já haviam tentado trabalhar juntos em uma comédia romântica que não se concretizou. “Quando recebi este roteiro, enviei imediatamente para ele, pois estávamos loucos para trabalhar juntos. Eu disse: ‘Isso pode te trazer de volta para a comédia, cara. Isso pode te trazer de volta para a era <i>Blue Mountain State</i>.’ Um personagem um pouco mais pé no chão, e ele topou na hora. Assim, partimos para a ação.”</p><p>Ao longo dos anos, Ritchson, Greenfield, Goldman e o produtor Jason Benoit colaboraram para aprimorar o roteiro e desenvolver o personagem principal. O diretor citou <b><i>Os Excêntricos Tenenbaums</i></b> de Wes Anderson como uma inspiração chave para Jeff, expressando admiração por personagens “adultos que são como crianças de 14 anos, impulsivos” e que “não vivem realmente em nossa realidade”.</p><h2>O Talento Surpreendente de Ritchson</h2><p>Greenfield elogiou Ritchson por ter “acertado em cheio” sua visão de Jeff em <i>Playdate</i>, afirmando que o ator “vai se tornar o maior astro de ação e comédia”. Descrevendo o ator como “incrivelmente engraçado”, o diretor reconheceu que, embora Ritchson seja habilidoso em ação e “um belo homem”, ele também vai surpreender o público com os “elementos dramáticos” que aborda no filme. “Há muito material emocionante, fala sobre pais e filhos, e sobre relacionamentos paternos às vezes muito difíceis. Ele realmente vai te surpreender. Muita gente chora neste filme. É bem louco.”</p><h2>Comédia com Improvisação e Coração</h2><p>Antes de <i>Playdate</i>, Greenfield já tinha experiência em comédias, auxiliando na concepção da ideia base de <i>Superbad - É Hoje</i> e escrevendo, produzindo e dirigindo <i>Dupla de Ação</i>. Portanto, ele estava em território familiar com a comédia de ação do Prime Video. Ele estava ansioso para trazer a energia de permitir que Ritchson e James improvisassem. “Tem que ser autêntico e ter aquele ritmo cômico real”, disse.</p><p>“Esta não é uma comédia grande e exagerada onde tudo é irrealista. Há algumas reviravoltas enormes no filme, mas quando se trata de personagens, adoro mantê-los muito fundamentados e reais, para que você possa realmente sentir o que eles estão passando e se identificar. Todos vão se identificar com este filme. Todo pai, toda pessoa que teve um pai. Então, sim, desculpe, resposta longa, mas eu realmente encorajo ir além do roteiro. Eu realmente encorajo isso quando eles sentem algo, é, ‘Vamos tentar isso. Vamos tentar isso. Ah, essa é uma ideia muito boa. Vamos mudar e fazer isso.’ Eu acho que esse é o melhor cinema.”</p><p>Essa liberdade criativa levou Greenfield a “arruinar tantas tomadas” em <i>Playdate</i>, admitindo que ele “ri muito” e prefere estar perto dos atores durante as filmagens. Isso até levou a produção a ter que “fazer algumas dublagens para remover minhas risadas do fundo”, que Greenfield diz que aparecerão no rolo de erros do filme nos créditos finais.</p><h2>Reviravoltas e Orçamento Independente</h2><p>O diretor descreveu o filme como “uma comédia de ação como as que eu cresci assistindo”, citando <b><i>Um Tira da Pesada</i></b> e <i>Máquina Mortífera</i> como inspirações. Ele relembrou ter recebido o roteiro de Goldman, a estreia do roteirista no cinema, e ter ficado impressionado com as “reviravoltas importantes” de seu enredo, chamando o filme de “uma montanha-russa”.</p><p>Greenfield revelou que o filme teve um orçamento bem mais modesto do que o trailer pode sugerir, descrevendo <i>Playdate</i> como “meu primeiro filme independente” e que “não foi um orçamento enorme”. Chamando a si mesmo de “garoto de estúdio” desde seu primeiro filme com <i>O Papai das Noivas</i>, ele achou a montagem de algumas das maiores cenas de ação de seu novo filme “desafiadora”. “Eu nunca tinha feito um filme independente antes. Eu amo isso, mas em termos de orçamento e todos os tipos de desafios que um filme independente traz, ah, eu os experimentei.”</p><p>Uma nova cena exclusiva para <i>Playdate</i> mostra Brian e Jeff em uma fliperama, onde o personagem de Ritchson utiliza o ambiente para lutar contra mercenários, envolvendo acidentalmente funcionários fantasiados.</p><p><b><i>Playdate</i></b> tem sua estreia marcada para 12 de novembro no Prime Video.</p>",
+  "meta_description": "Alan Ritchson e Kevin James estrelam 'Playdate', nova comédia de ação dirigida por Luke Greenfield. O filme estreia em 12 de novembro no Prime Video.",
+  "focus_keyphrase": "Alan Ritchson Playdate",
+  "related_keyphrases": [
+    "Filme Playdate",
+    "Comédia de ação",
+    "Kevin James"
+  ],
+  "slug": "alan-ritchson-playdate-estreia",
+  "categorias": [
+    {
+      "nome": "Playdate",
+      "grupo": "obras",
+      "evidence": "<i>Playdate</i>"
+    },
+    {
+      "nome": "Prime Video",
+      "grupo": "franquias",
+      "evidence": "Prime Video"
+    },
+    {
+      "nome": "Comédia",
+      "grupo": "editorias",
+      "evidence": "comédia"
+    }
+  ],
+  "tags_sugeridas": [
+    "Alan Ritchson",
+    "Playdate",
+    "Kevin James",
+    "Luke Greenfield",
+    "Prime Video",
+    "Comédia de Ação",
+    "Filmes 2025"
+  ],
+  "image_alt_texts": {
+    "imgi_1_f4yrrj4649wt5arfw1mxubea9pr.jpg": "Pôster oficial do filme Playdate com Alan Ritchson em destaque.",
+    "instar53481425.jpg": "Alan Ritchson, estrela de Playdate, em evento.",
+    "instar49182520.jpg": "Kevin James, co-estrela de Playdate.",
+    "screen-hub-cast-placeholder-1.png": "Imagem de placeholder do elenco de Playdate.",
+    "headshot-of-benjamin-pajak.jpg": "Benjamin Pajak, ator de Playdate."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Alan Ritchson Surpreende em Nova Comédia de Ação 'Playdate'",
+    "_yoast_wpseo_metadesc": "Alan Ritchson e Kevin James estrelam 'Playdate', nova comédia de ação dirigida por Luke Greenfield. O filme estreia em 12 de novembro no Prime Video.",
+    "_yoast_wpseo_focuskw": "Alan Ritchson Playdate",
+    "_yoast_news_keywords": "Alan Ritchson, Playdate, Kevin James, Luke Greenfield, Prime Video, Comédia de Ação, Filmes 2025",
+    "_yoast_wpseo_opengraph-title": "Alan Ritchson Surpreende em Nova Comédia de Ação 'Playdate'",
+    "_yoast_wpseo_opengraph-description": "Alan Ritchson e Kevin James estrelam 'Playdate', nova comédia de ação dirigida por Luke Greenfield. O filme estreia em 12 de novembro no Prime Video.",
+    "_yoast_wpseo_twitter-title": "Alan Ritchson Surpreende em Nova Comédia de Ação 'Playdate'",
+    "_yoast_wpseo_twitter-description": "Alan Ritchson e Kevin James estrelam 'Playdate', nova comédia de ação dirigida por Luke Greenfield. O filme estreia em 12 de novembro no Prime Video."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The White Lotus: Nova Temporada Filma em Dois Hotéis na França",
+      "conteudo_final": "<p>A quarta temporada de <b>The White Lotus</b> promete inovar ao se passar em dois locais distintos, utilizando dois hotéis diferentes. Esta é a primeira vez na aclamada série antológica da HBO que a produção se divide entre múltiplas acomodações.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "The White Lotus: 4ª temporada será filmada em Paris e na Riviera Francesa, em dois hotéis de luxo, Le Lutetia e o Ritz.",
+      "focus_keyphrase": "The White Lotus 4ª temporada",
+      "related_keyphrases": [
+        "The White Lotus hotéis",
+        "The White Lotus França",
+        "Mike White série HBO"
+      ],
+      "slug": "the-white-lotus-temporada-4-locacoes-franca",
+      "categorias": [
+        {
+          "nome": "The White Lotus",
+          "grupo": "obras",
+          "evidence": "<em>The White Lotus</em> season 4"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "editorias",
+          "evidence": "acclaimed anthology series. Variety has confirmed that <em>The White Lotus</em> season 4 will shoot in France, specifically in Paris and the French Riviera at two hotels, Le Lutetia and the Ritz. Although the last three seasons have taken place at Four Seasons hotels, the fourth season won't since HBO hasn't renewed its marketing partnership with the hotel chain."
+        }
+      ],
+      "tags_sugeridas": [
+        "the-white-lotus",
+        "mike-white",
+        "hbo",
+        "frança",
+        "paris",
+        "riviera-francesa",
+        "suspense"
+      ],
+      "image_alt_texts": {
+        "the-white-lotus-tv-show-poster.jpg": "Pôster oficial da série The White Lotus, exibindo o título e a estética luxuosa."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The White Lotus: Nova Temporada Filma em Dois Hotéis na França",
+        "_yoast_wpseo_metadesc": "The White Lotus: 4ª temporada será filmada em Paris e na Riviera Francesa, em dois hotéis de luxo, Le Lutetia e o Ritz.",
+        "_yoast_wpseo_focuskw": "The White Lotus 4ª temporada",
+        "_yoast_news_keywords": "The White Lotus, Mike White, HBO, França, Paris, Riviera Francesa, série",
+        "_yoast_wpseo_opengraph-title": "The White Lotus: Nova Temporada Filma em Dois Hotéis na França",
+        "_yoast_wpseo_opengraph-description": "A nova temporada de The White Lotus explorará dois cenários luxuosos na França, marcando uma novidade na produção da série da HBO.",
+        "_yoast_wpseo_twitter-title": "The White Lotus: Nova Temporada Filma em Dois Hotéis na França",
+        "_yoast_wpseo_twitter-description": "A nova temporada de The White Lotus explorará dois cenários luxuosos na França, marcando uma novidade na produção da série da HBO."
+      }
+    }
+  ]
+}

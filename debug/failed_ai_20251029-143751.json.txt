@@ -1,0 +1,96 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Adam Driver retorna à TV após 8 anos em nova série da Netflix",
+      "conteudo_final": "<p>Adam Driver fará seu retorno à televisão após oito anos em uma nova série da Netflix. O ator estrelará <em>Rabbit, Rabbit</em>, um drama sobre reféns.</p><h2>Detalhes da Nova Série</h2><p>A Netflix anunciou oficialmente que Adam Driver será o protagonista da nova série <em>Rabbit, Rabbit</em>. A produção é criada por Peter Craig, conhecido por seus trabalhos em <em>The Batman</em>, <em>Top Gun: Maverick</em> e <em>The Town</em>. A direção ficará a cargo de Philip Barantini, de <em>Adolescence</em>.</p><figure class=\"video-container\"><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Adam Driver will star in the new series RABBIT, RABBIT. Created by Peter Craig (The Batman, Top: Gun Maverick, The Town) and directed by Adolescence’s Philip Barantini.<br>An escaped convict takes hostages in an effort to bargain for his freedom &amp;mdash; finding himself in an&amp;brvbar; <a href=\"https:
+      "meta_description": "Adam Driver retorna à TV após 8 anos na série 'Rabbit, Rabbit' da Netflix. Saiba mais sobre o novo drama de reféns com o ator.",
+      "focus_keyphrase": "Adam Driver nova série Netflix",
+      "related_keyphrases": [
+        "Rabbit Rabbit Netflix",
+        "Adam Driver TV",
+        "Série de reféns Netflix"
+      ],
+      "slug": "adam-driver-nova-serie-netflix",
+      "categorias": [
+        {
+          "nome": "Rabbit, Rabbit",
+          "grupo": "obras",
+          "evidence": "Adam Driver will star in the new series Rabbit, Rabbit."
+        },
+        {
+          "nome": "Adam Driver",
+          "grupo": "franquias",
+          "evidence": "Adam Driver will star in the new series RABBIT, RABBIT."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix announced that Adam Driver will star in the new series Rabbit, Rabbit."
+        }
+      ],
+      "tags_sugeridas": [
+        "Adam Driver",
+        "Netflix",
+        "Rabbit Rabbit",
+        "Peter Craig",
+        "Philip Barantini",
+        "Séries de TV"
+      ],
+      "image_alt_texts": {
+        "instar54108920.jpg": "Adam Driver, ator principal da nova série da Netflix Rabbit, Rabbit."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Adam Driver retorna à TV após 8 anos em nova série da Netflix",
+        "_yoast_wpseo_metadesc": "Adam Driver retorna à TV após 8 anos na série 'Rabbit, Rabbit' da Netflix. Saiba mais sobre o novo drama de reféns com o ator.",
+        "_yoast_wpseo_focuskw": "Adam Driver nova série Netflix",
+        "_yoast_news_keywords": "Adam Driver, Netflix, Rabbit Rabbit, Peter Craig, Philip Barantini, Séries de TV",
+        "_yoast_wpseo_opengraph-title": "Adam Driver retorna à TV após 8 anos em nova série da Netflix",
+        "_yoast_wpseo_opengraph-description": "Adam Driver retorna à TV após 8 anos na série 'Rabbit, Rabbit' da Netflix. Saiba mais sobre o novo drama de reféns com o ator.",
+        "_yoast_wpseo_twitter-title": "Adam Driver retorna à TV após 8 anos em nova série da Netflix",
+        "_yoast_wpseo_twitter-description": "Adam Driver retorna à TV após 8 anos na série 'Rabbit, Rabbit' da Netflix. Saiba mais sobre o novo drama de reféns com o ator."
+      }
+    },
+    {
+      "titulo_final": "Doctor Who: Retorno de Billie Piper em 2026 é boa notícia",
+      "conteudo_final": "<p>O retorno de <strong><em>Doctor Who</em></strong> em 2026, com um especial de Natal, traz boas notícias para os fãs, especialmente no que diz respeito à participação de Billie Piper. A confirmação de um especial em 2026, com planos para uma nova temporada posteriormente, sugere que a atriz terá um papel transitório, e não permanente, como a nova Doutora.</p><h2>O Retorno de Billie Piper como Doutora</h2><p>A regeneração de Ncuti Gatwa em Billie Piper, que agora parece ser a Décima Sexta Doutora, gerou debates. Embora o retorno de ex-companheiros seja comum, a transformação de uma companheira em Doutora pode ser vista como um artifício, especialmente após a surpresa da regeneração de Jodie Whittaker em David Tennant no especial de 2022.</p><figure><picture><source srcset=\"https:
+      "meta_description": "Doctor Who: O retorno de Billie Piper em 2026 como Doutora é visto como boa notícia, indicando um papel transitório e abrindo caminho para um novo Doctor.",
+      "focus_keyphrase": "Doctor Who Billie Piper retorno",
+      "related_keyphrases": [
+        "Doctor Who 2026",
+        "Billie Piper Doutora",
+        "Russell T Davies"
+      ],
+      "slug": "doctor-who-billie-piper-retorno",
+      "categorias": [
+        {
+          "nome": "Doctor Who",
+          "grupo": "franquias",
+          "evidence": "Doctor Who is back"
+        }
+      ],
+      "tags_sugeridas": [
+        "Doctor Who",
+        "Billie Piper",
+        "Ncuti Gatwa",
+        "Russell T Davies",
+        "BBC",
+        "Especial de Natal"
+      ],
+      "image_alt_texts": {
+        "doctor-who_tai9pf-cropped.jpg": "A regeneração do Doutor como Billie Piper em Doctor Who.",
+        "untitled-2025-06-04t110635-329.jpg": "Ncuti Gatwa como o Décimo Quinto Doutor em Doctor Who.",
+        "03221152_poster_w780.jpg": "Pôster da série Doctor Who."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Doctor Who: Retorno de Billie Piper em 2026 é boa notícia",
+        "_yoast_wpseo_metadesc": "Doctor Who: O retorno de Billie Piper em 2026 como Doutora é visto como boa notícia, indicando um papel transitório e abrindo caminho para um novo Doctor.",
+        "_yoast_wpseo_focuskw": "Doctor Who Billie Piper retorno",
+        "_yoast_news_keywords": "Doctor Who, Billie Piper, Ncuti Gatwa, Russell T Davies, BBC, Especial de Natal, Séries de TV",
+        "_yoast_wpseo_opengraph-title": "Doctor Who: Retorno de Billie Piper em 2026 é boa notícia",
+        "_yoast_wpseo_opengraph-description": "Doctor Who: O retorno de Billie Piper em 2026 como Doutora é visto como boa notícia, indicando um papel transitório e abrindo caminho para um novo Doctor.",
+        "_yoast_wpseo_twitter-title": "Doctor Who: Retorno de Billie Piper em 2026 é boa notícia",
+        "_yoast_wpseo_twitter-description": "Doctor Who: O retorno de Billie Piper em 2026 como Doutora é visto como boa notícia, indicando um papel transitório e abrindo caminho para um novo Doctor."
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Wars: Fãs exigem filme de Ben Solo após cancelamento em protesto aéreo",
+      "conteudo_final": "<p>A frustração de uma galáxia inteira ganhou os céus. Em um novo desdobramento após a revelação de Adam Driver sobre seu cancelado projeto de sequência de <b>Star Wars</b>, fãs decidiram agir literalmente: um avião sobrevoou os Estúdios Disney com uma faixa exigindo “Salve The Hunt for Ben Solo”.</p>\n\n<p>A audaciosa manifestação, que atraiu a atenção de muitos curiosos em Burbank, foi organizada por um grupo apaixonado de fãs furiosos com o cancelamento do filme. A mensagem era direcionada a Bob Iger e Alan Bergman, executivos da Disney que, segundo Driver, rejeitaram o projeto apesar do entusiasmo da Lucasfilm.</p>\n\n<h2>'The Hunt for Ben Solo' Poderia Explorar a Redenção de Ben Solo</h2>\n\n<p>Adam Driver revelou anteriormente que ele e Steven Soderbergh dedicaram dois anos ao desenvolvimento de uma sequência de <b>Star Wars</b> intitulada 'The Hunt for Ben Solo'. O filme, co-escrito por Rebecca Blunt e Scott Z. Burns, exploraria a redenção de Ben Solo após os eventos de 'A Ascensão Skywalker', apresentando uma narrativa mais focada no personagem, semelhante a 'O Império Contra-Ataca'.</p>\n\n<blockquote>\n<p>“Eu sempre tive interesse em fazer outro <b>Star Wars</b>. Kathleen [Kennedy] entrou em contato. Eu sempre disse: com um grande diretor e uma ótima história, eu estaria lá em um segundo. Amei aquele personagem e amei interpretá-lo.”</p>\n</blockquote>\n\n<h2>Quem Rejeitou o Projeto?</h2>\n\n<p>Driver contou que ele e Soderbergh apresentaram o projeto diretamente a Kathleen Kennedy, Cary Beck e Dave Filoni, que “adoraram a ideia”. No entanto, quando o conceito chegou à alta cúpula da Disney, encontrou resistência.</p>\n\n<blockquote>\n<p>“Apresentamos o roteiro para a Lucasfilm. Eles adoraram a ideia. Eles entenderam totalmente nosso ponto de vista e por que estávamos fazendo isso. Levamos para Bob Iger e Alan Bergman e eles disseram não. Eles não viram como Ben Solo estaria vivo. E foi isso.”</p>\n</blockquote>\n\n<p>Driver não economizou palavras sobre o que os fãs perderam:</p>\n\n<blockquote>\n<p>“Foi um dos roteiros mais legais que já participei.”</p>\n</blockquote>\n\n<p>Para Soderbergh, a resposta foi característica:</p>\n\n<blockquote>\n<p>“Eu realmente gostei de fazer o filme em minha cabeça. Só lamento que os fãs não possam vê-lo.”</p>\n</blockquote>\n\n<p>A Disney e a Lucasfilm optaram por não comentar. Para muitos fãs de <b>Star Wars</b>, a notícia do projeto cancelado soa como déjà vu – outra ideia ambiciosa perdida devido à hesitação corporativa. Segundo Driver, 'The Hunt for Ben Solo' não seria um blockbuster cheio de duelos de sabre de luz, mas uma exploração mais pessoal de redenção e identidade.</p>\n\n<p>“Queríamos ser criteriosos sobre como gastar dinheiro e fazer isso por menos, mas no mesmo espírito do que aqueles filmes são, que é artesanal e focado no personagem”, disse Driver. “Na minha opinião, 'O Império Contra-Ataca' é o padrão do que aqueles filmes foram. E [Soderbergh] vive seu código, vive sua ética, não se compromete.”</p>\n\n<p>Fique ligado para mais informações sobre 'The Hunt for Ben Solo'.</p>",
+      "meta_description": "Fãs de Star Wars protestam aéreo sobre os estúdios Disney exigindo o filme 'The Hunt for Ben Solo', cancelado por executivos.",
+      "focus_keyphrase": "filme de Ben Solo",
+      "related_keyphrases": [
+        "The Hunt for Ben Solo",
+        "Adam Driver Star Wars",
+        "Star Wars cancelado"
+      ],
+      "slug": "star-wars-fãs-exigem-filme-ben-solo",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars Fans Demand ‘The Hunt for Ben Solo'"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Ben Solo",
+        "Kylo Ren",
+        "Adam Driver",
+        "Lucasfilm",
+        "Disney"
+      ],
+      "image_alt_texts": {
+        "20250301359294_poster_w780.jpg": "Poster do filme 'The Hunt for Ben Solo' com Adam Driver como Ben Solo/Kylo Ren."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Fãs Exigem Filme de Ben Solo em Protesto Aéreo | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Fãs de Star Wars protestam aéreo sobre os estúdios Disney exigindo o filme 'The Hunt for Ben Solo', cancelado por executivos.",
+        "_yoast_wpseo_focuskw": "filme de Ben Solo",
+        "_yoast_news_keywords": "Star Wars, Ben Solo, Kylo Ren, Adam Driver, Lucasfilm, Disney, The Hunt for Ben Solo",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Fãs Exigem Filme de Ben Solo em Protesto Aéreo",
+        "_yoast_wpseo_opengraph-description": "Fãs de Star Wars protestam aéreo sobre os estúdios Disney exigindo o filme 'The Hunt for Ben Solo', cancelado por executivos.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Fãs Exigem Filme de Ben Solo em Protesto Aéreo",
+        "_yoast_wpseo_twitter-description": "Fãs de Star Wars protestam aéreo sobre os estúdios Disney exigindo o filme 'The Hunt for Ben Solo', cancelado por executivos."
+      }
+    },
+    {
+      "titulo_final": "As 7 Séries de Ficção Científica Mais Subestimadas do Século XXI",
+      "conteudo_final": "<p>A ficção científica é, sem dúvida, um dos gêneros mais arriscados na televisão. A natureza do gênero exige que os criadores construam mundos inteiros do zero, com regras únicas, tecnologias avançadas e estruturas sociais complexas. Isso requer um investimento significativo de confiança e paciência do público, pois tramas intrincadas e conceitos ambiciosos muitas vezes levam tempo para se desenvolver e recompensar. Quando uma série acerta, os resultados são espetaculares, gerando fenômenos culturais como <b>Stranger Things</b> e <b>The Expanse</b>. Essas séries capturaram o zeitgeist ao misturar ideias complexas com personagens relacionáveis e mistérios envolventes, conquistando aclamação crítica e seguidores globais.</p>\n\n<p>No entanto, para cada sucesso estrondoso, existem dezenas de brilhantes séries de ficção científica que não conseguem o público que merecem. Às vezes, uma série está muito à frente de seu tempo, apresentando ideias desafiadoras ou não convencionais. Em outros casos, a narrativa lenta de uma série pode não gerar burburinho suficiente para sobreviver em um cenário televisivo competitivo. Estas são as séries que constroem cultos devotados muito depois de seus cancelamentos prematuros, deixando os fãs a se perguntar o que poderia ter sido.</p>\n\n<h2>7) Ascension</h2>\n<p>A minissérie <b>Ascension</b>, de 2014, apresentou uma premissa fascinante que foi rapidamente surpreendida por uma das reviravoltas mais ousadas da ficção científica moderna. A série se passa a bordo de uma enorme nave espacial lançada secretamente pelo governo dos EUA em uma missão de um século para garantir a sobrevivência da humanidade. Cinquenta e um anos após o início de sua jornada, a sociedade fechada da nave se tornou uma cápsula do tempo perfeita do início da Guerra Fria, completa com moda, hierarquias sociais e paranoia.</p>\n<p>O frágil mundo de <b>Ascension</b> é jogado no caos quando uma jovem é assassinada, o primeiro homicídio na história da nave, forçando um investigador relutante a navegar por uma teia de segredos e mentiras. A investigação serve como motor da trama, expondo ressentimentos profundos e conspirações políticas que ameaçam desmantelar a comunidade meticulosamente estruturada por dentro.</p>\n\n<h2>6) ReGenesis</h2>\n<p>Exibida muito antes dos thrillers biotecnológicos se tornarem um marco na televisão, <b>ReGenesis</b> foi uma série canadense notavelmente presciente que baseou sua ficção científica em um realismo surpreendente. A série se concentrou nos cientistas da Comissão Consultiva de Biotecnologia da América do Norte (NorBAC), uma organização fictícia que investiga bioterrorismo, pandemias misteriosas e outras crises enraizadas em avanços científicos. Liderada pelo brilhante, mas imprudente, cientista-chefe David Sandström, a equipe NorBAC navegou por complexos quebra-cabeças biológicos e pelos espinhosos dilemas éticos e políticos que os acompanhavam.</p>\n<p><b>ReGenesis</b> se distinguiu por sua recusa em simplificar conceitos científicos complexos, confiando em seu público para acompanhar discussões detalhadas de biologia molecular e epidemiologia. Essa dedicação ao realismo tornou as ameaças da série urgentes e críveis, criando uma narrativa tensa e instigante.</p>\n\n<h2>5) Osmosis</h2>\n<p>A série francesa da Netflix, <b>Osmosis</b>, pegou um conceito familiar de ficção científica e o infundiu com uma sensibilidade única. Ambientada em um futuro próximo em Paris, a série acompanha um irmão e uma irmã que desenvolveram um aplicativo de namoro revolucionário que promete encontrar a alma gêmea perfeita do usuário implantando um dispositivo em seu cérebro. Uma IA avançada, então, extrai seus pensamentos mais profundos para identificar seu único amor verdadeiro com 100% de precisão.</p>\n<p>O que torna <b>Osmosis</b> tão cativante é seu foco nas consequências caóticas de eliminar a incerteza do romance. A série também explora como a promessa de uma vida perfeita pela tecnologia pode colidir com a natureza imprevisível da emoção humana. Em vez de uma história direta sobre os perigos da IA, a série se torna uma meditação assustadora sobre memória, identidade e as formas como as pessoas se definem através de seus relacionamentos.</p>\n\n<h2>4) Real Humans</h2>\n<p>Anos antes de séries como <b>Westworld</b> trazerem questões filosóficas sobre inteligência artificial para o mainstream, a série sueca <b>Real Humans</b> explorou o mesmo território com um brilhantismo melancólico. A série se passa em uma versão alternativa da Suécia atual, onde androides semelhantes a humanos, conhecidos como “hubots”, se tornaram produtos de consumo comuns, servindo como tudo, desde empregados domésticos a companheiros.</p>\n<p>A história de <b>Real Humans</b> se desenrola através dos olhos de duas famílias e um grupo de hubots sencientes que alcançaram o livre arbítrio e lutam por sua liberdade. A série se destaca ao examinar o impacto social dessa tecnologia de uma perspectiva profundamente pessoal, contornando a ação explosiva em favor do drama centrado nos personagens. Além disso, investiga temas de preconceito, família e a própria definição de consciência, tudo fundamentado em uma realidade mundana que torna seus elementos de ficção científica incrivelmente plausíveis.</p>\n\n<h2>3) Travelers</h2>\n<p>Com uma reviravolta única no gênero de viagem no tempo, <b>Travelers</b> entregou uma história envolvente que priorizou o personagem em vez do espetáculo. A série é ambientada em um futuro pós-apocalíptico onde agentes especiais têm suas consciências enviadas de volta ao século 21, onde habitam corpos de pessoas por curtos períodos antes de suas mortes registradas. Liderada por um homem que assume a vida do agente do FBI Grant MacLaren, uma equipe desses “viajantes” deve cumprir missões atribuídas por uma IA poderosa conhecida como o Diretor.</p>\n<p><b>Travelers</b> foca no custo humano de sua premissa de ficção científica. Os viajantes são forçados a lidar com os empregos, famílias e lutas pessoais de seus hospedeiros, criando uma rica mistura de thriller de espionagem e drama de personagem. Cada membro da equipe lida com o peso moral e emocional de suas ações, com a série usando sua premissa de alto conceito para contar histórias humanas relacionáveis.</p>\n\n<h2>2) Continuum</h2>\n<p>A série canadense <b>Continuum</b> misturou uma trama de viagem no tempo de alto risco com uma exploração matizada de moralidade e ideologia, criando uma série consistentemente mais inteligente do que sua superfície cheia de ação sugeria. A história começa em uma Vancouver distópica em 2077, onde uma policial chamada Kiera Cameron é acidentalmente transportada para 2012 com um grupo de terroristas de um movimento de resistência chamado Liber8. Presa no passado, Kiera se une a um detetive local para caçar o Liber8 e preservar seu futuro.</p>\n<p><b>Continuum</b> prosperou em sua ambiguidade moral. Embora o Liber8 seja inicialmente apresentado como assassinos implacáveis, a série gradualmente revela o futuro opressivo que eles estão lutando para impedir, forçando Kiera e o público a questionar quem são os verdadeiros vilões. Além disso, a série usou inteligentemente seus mecanismos de viagem no tempo para criar paradoxos complexos e reviravoltas chocantes.</p>\n\n<h2>1) Counterpart</h2>\n<p>Misturando thriller de espionagem e ficção científica cerebral, <b>Counterpart</b> é um clássico moderno que continua sendo uma das séries mais subestimadas do século 21. A série estrela J.K. Simmons em um deslumbrante papel duplo como Howard Silk, um burocrata de baixo escalão em uma agência da ONU em Berlim, cuja vida é virada de cabeça para baixo quando ele descobre que sua organização supervisiona uma passagem para um universo paralelo criado durante a Guerra Fria. Ele logo se confronta com seu “análogo” do outro lado, um espião endurecido que é tudo o que nosso Howard não é.</p>\n<p>Os dois mundos de <b>Counterpart</b> divergiram há mais de 30 anos, e uma guerra está se formando entre eles. Ainda assim, embora a trama principal seja emocionante, a série também usa sua premissa de universo paralelo para explorar questões de identidade, destino e as escolhas que definem a vida de uma pessoa. <b>Counterpart</b> é um thriller de desenvolvimento lento da mais alta ordem, com uma trama diabolicamente complexa e uma performance de tour-de-force de Simmons.</p>",
+      "meta_description": "Descubra 7 séries de ficção científica aclamadas, mas subestimadas, do século XXI, com tramas envolventes e conceitos inovadores. Veja a lista!",
+      "focus_keyphrase": "séries de ficção científica subestimadas",
+      "related_keyphrases": [
+        "melhores séries sci-fi",
+        "ficção científica TV",
+        "séries cult"
+      ],
+      "slug": "series-ficcao-cientifica-subestimadas-seculo-21",
+      "categorias": [
+        {
+          "nome": "Ascension",
+          "grupo": "obras",
+          "evidence": "The 2014 miniseries Ascension"
+        },
+        {
+          "nome": "ReGenesis",
+          "grupo": "obras",
+          "evidence": "Airing long before biotech thrillers became a television staple, ReGenesis"
+        },
+        {
+          "nome": "Osmosis",
+          "grupo": "obras",
+          "evidence": "The French Netflix series Osmosis"
+        },
+        {
+          "nome": "Real Humans",
+          "grupo": "obras",
+          "evidence": "the Swedish series Real Humans"
+        },
+        {
+          "nome": "Travelers",
+          "grupo": "obras",
+          "evidence": "Travelers delivered a compelling story"
+        },
+        {
+          "nome": "Continuum",
+          "grupo": "obras",
+          "evidence": "The Canadian series Continuum"
+        },
+        {
+          "nome": "Counterpart",
+          "grupo": "obras",
+          "evidence": "Counterpart is a modern classic"
+        }
+      ],
+      "tags_sugeridas": [
+        "ficção científica",
+        "séries",
+        "TV",
+        "streaming",
+        "listas",
+        "subestimadas"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Imagem promocional genérica da PlayStation Store.",
+        "JK-Simmons-in-Counterpart.jpg": "J.K. Simmons em cena da série Counterpart, interpretando dois personagens.",
+        "The-cast-of-Netflix-Travelers.jpg": "Elenco principal da série Travelers da Netflix em uma foto promocional.",
+        "Army-in-Dune-Part-Two.jpg": "Imagem promocional de Duna: Parte Dois com Timothée Chalamet.",
+        "Battlestar-Galactica-33.jpg": "Imagem promocional da série Battlestar Galactica.",
+        "Gargoyles.jpg": "Arte promocional da série animada Gargoyles.",
+        "Hubots-in-Swedish-sci-fi-Real-Humans.jpg": "Hubots na série sueca de ficção científica Real Humans.",
+        "Key-art-for-Netflixs-Osmosis.jpg": "Arte principal da série Osmosis da Netflix.",
+        "Peter-Outerbridge-in-ReGenesis.jpg": "Peter Outerbridge na série ReGenesis.",
+        "Poster-for-sci-fi-minisseries-Ascension.jpg": "Poster da minissérie de ficção científica Ascension.",
+        "The-cast-of-sci-fi-series-Continuum.jpg": "Elenco da série de ficção científica Continuum.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Calendário do advento com sabre de luz de Star Wars.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem promocional do Xbox Game Pass."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "As 7 Séries de Ficção Científica Mais Subestimadas do Século XXI | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra 7 séries de ficção científica aclamadas, mas subestimadas, do século XXI, com tramas envolventes e conceitos inovadores. Veja a lista!",
+        "_yoast_wpseo_focuskw": "séries de ficção científica subestimadas",
+        "_yoast_news_keywords": "ficção científica, séries, TV, streaming, listas, Ascension, ReGenesis, Osmosis, Real Humans, Travelers, Continuum, Counterpart",
+        "_yoast_wpseo_opengraph-title": "As 7 Séries de Ficção Científica Mais Subestimadas do Século XXI",
+        "_yoast_wpseo_opengraph-description": "Descubra 7 séries de ficção científica aclamadas, mas subestimadas, do século XXI, com tramas envolventes e conceitos inovadores. Veja a lista!",
+        "_yoast_wpseo_twitter-title": "As 7 Séries de Ficção Científica Mais Subestimadas do Século XXI",
+        "_yoast_wpseo_twitter-description": "Descubra 7 séries de ficção científica aclamadas, mas subestimadas, do século XXI, com tramas envolventes e conceitos inovadores. Veja a lista!"
+      }
+    },
+    {
+      "titulo_final": "Netflix: Segunda Temporada de 'Nobody Wants This' já está disponível",
+      "conteudo_final": "<p>Assinantes da Netflix estão acostumados a longas esperas entre temporadas, mas para fãs de uma das melhores séries do serviço, a espera já acabou. Enquanto se preparam para a quinta e última temporada de <b>Stranger Things</b> após mais de três anos, e com novas temporadas de séries como <b>Wandinha</b> e <b>One Piece</b> ainda sem datas de estreia, fãs de outra série de sucesso já podem maratonar uma nova temporada completa, lançada apenas um ano após a estreia da primeira.</p>\n\n<p>Em 23 de outubro, a Segunda Temporada de <b>Nobody Wants This</b> estreou na Netflix. Todos os 10 episódios, cada um com aproximadamente 30 minutos de duração, já estão disponíveis para streaming. Criada por Erin Foster e inspirada em sua história de amor real com o marido Simon Tikhman, <b>Nobody Wants This</b> estrela Kristen Bell e Adam Brody como Joanne, uma podcaster de sexo agnóstica, e Noah, um rabino não convencional, que se apaixonam inesperadamente e precisam descobrir se seu relacionamento pode sobreviver às suas vidas radicalmente diferentes e famílias intrometidas. A série de comédia romântica também conta com Justine Lupe, Timothy Simons e Jackie Tohn. Leighton Meester e Seth Rogen se juntam ao elenco na Segunda Temporada.</p>\n\n<h2>'Nobody Wants This' é Uma das Melhores Séries Atuais da Netflix</h2>\n\n<p>Existem muitas séries imperdíveis atualmente em streaming na Netflix, mas <b>Nobody Wants This</b> pode muito bem ser uma das melhores. Com 95% de aprovação da crítica e uma impressionante nota 85% do público no Rotten Tomatoes, a série capturou o zeitgeist com uma nova abordagem ao gênero rom-com, conquistando os espectadores desde o início, tornando-a uma série fácil de maratonar. Bell e Brody compartilham uma química irresistível como protagonistas, trazendo um romance central que parece autêntico e envolvente. O relacionamento deles não explora apenas suas jornadas emocionais de autodesenvolvimento, mas também temas e desafios relacionáveis enquanto navegam pelas diferentes fases de seu relacionamento.</p>\n\n<p>A Segunda Temporada de <b>Nobody Wants This</b> ainda não tem pontuação no Rotten Tomatoes, mas, segundo o The Guardian, cimenta novamente a série como algo que \"todo mundo quer mais\". Na temporada, o romance de Joanne e Noah enfrenta turbulências enquanto lidam com drama familiar, lutas de carreira e uma grande questão iminente. Descrita pelo The Guardian como \"tão prazerosa\" quanto a Primeira Temporada, a Segunda Temporada deixará os espectadores \"desejando que fosse 2008 e tivéssemos 24 episódios por ano\", os episódios mais uma vez trazendo de volta a química \"envolvente\" de Bell e Brody e dando mais tempo de tela ao ótimo elenco de apoio.</p>\n\n<h2>Haverá uma Terceira Temporada de 'Nobody Wants This'?</h2>\n\n<p>Fãs que esperam mais do improvável romance de Joanne e Noah podem ficar desapontados. A Netflix ainda não renovou <b>Nobody Wants This</b> para uma Terceira Temporada. No entanto, é possível que uma terceira temporada aconteça, dado o histórico de sucesso da série. A primeira temporada da série não é apenas um sucesso \"Certified Fresh\" no Rotten Tomatoes, mas também foi um enorme sucesso de streaming, marcando uma das estreias de comédia original mais fortes da Netflix. O programa não só subiu ao topo das paradas de streaming da Netflix, como também acumulou mais de 26 milhões de visualizações em seus primeiros 11 dias de lançamento. Se a Segunda Temporada tiver um desempenho semelhante, uma renovação para a Terceira Temporada seria provável, mas os fãs terão que esperar para ver.</p>\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/B66w_P39wi0\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>",
+      "meta_description": "A aclamada série de comédia romântica da Netflix, 'Nobody Wants This', retorna com sua segunda temporada completa. Descubra os novos episódios e o futuro da série.",
+      "focus_keyphrase": "Nobody Wants This segunda temporada",
+      "related_keyphrases": [
+        "séries Netflix",
+        "comédia romântica",
+        "Kristen Bell Adam Brody"
+      ],
+      "slug": "netflix-nobody-wants-this-segunda-temporada",
+      "categorias": [
+        {
+          "nome": "Nobody Wants This",
+          "grupo": "obras",
+          "evidence": "Nobody Wants This Season 2 premiered on Netflix."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix subscribers are used to long waits between seasons"
+        }
+      ],
+      "tags_sugeridas": [
+        "Nobody Wants This",
+        "Netflix",
+        "Kristen Bell",
+        "Adam Brody",
+        "comédia romântica",
+        "séries"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Imagem promocional genérica da PlayStation Store.",
+        "Army-in-Dune-Part-Two.jpg": "Imagem promocional de Duna: Parte Dois com Timothée Chalamet.",
+        "Battlestar-Galactica-33.jpg": "Imagem promocional da série Battlestar Galactica.",
+        "Gargoyles.jpg": "Arte promocional da série animada Gargoyles.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Calendário do advento com sabre de luz de Star Wars.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem promocional do Xbox Game Pass.",
+        "hqdefault.jpg": "Thumbnail de vídeo do YouTube para 'Nobody Wants This'.",
+        "maxresdefault.jpg": "Thumbnail de alta resolução de vídeo do YouTube para 'Nobody Wants This'."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: 'Nobody Wants This' Ganha Segunda Temporada | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "A aclamada série de comédia romântica da Netflix, 'Nobody Wants This', retorna com sua segunda temporada completa. Descubra os novos episódios e o futuro da série.",
+        "_yoast_wpseo_focuskw": "Nobody Wants This segunda temporada",
+        "_yoast_news_keywords": "Nobody Wants This, Netflix, Kristen Bell, Adam Brody, comédia romântica, séries, Stranger Things",
+        "_yoast_wpseo_opengraph-title": "Netflix: 'Nobody Wants This' Ganha Segunda Temporada",
+        "_yoast_wpseo_opengraph-description": "A aclamada série de comédia romântica da Netflix, 'Nobody Wants This', retorna com sua segunda temporada completa. Descubra os novos episódios e o futuro da série.",
+        "_yoast_wpseo_twitter-title": "Netflix: 'Nobody Wants This' Ganha Segunda Temporada",
+        "_yoast_wpseo_twitter-description": "A aclamada série de comédia romântica da Netflix, 'Nobody Wants This', retorna com sua segunda temporada completa. Descubra os novos episódios e o futuro da série."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hamnet: Direção confirma paralelo com mitologia grega em drama",
+      "conteudo_final": "<p>O drama <em>Hamnet</em>, dirigido por Chloé Zhao, apresenta um paralelo intencional com a mitologia grega, especialmente em sua cena de casamento. O filme, baseado no livro de Maggie O'Farrell, explora a vida de William Shakespeare, o impacto da morte de seu filho Hamnet e a possível inspiração para a peça <em>Hamlet</em>.</p><h2>Paralelo com a Mitologia Grega</h2><p>Chloé Zhao confirmou que o paralelo com a mitologia grega, incluindo a referência à lenda de Orfeu e Eurídice, foi uma escolha deliberada. A cena do casamento, em particular, foi concebida para evocar um senso de presságio, como se algo estivesse prestes a acontecer. Zhao explicou que a intenção era que o momento não fosse apenas de felicidade, mas também carregasse um tom de pressentimento.</p><blockquote><p>Chloé Zhao: Queríamos que o casamento não fosse apenas felicidade. Há algo de presságio nele. 'Olhe para mim', e então ele se vira para olhar para ela.</p></blockquote><h2>A Relação de Agnes e Will</h2><p>Jessie Buckley, que interpreta Agnes (nome alterado na adaptação), comentou sobre o início do relacionamento com William, interpretado por Paul Mescal. Buckley mencionou que um aperto de mão com a mão esquerda foi uma escolha visual, possivelmente para direcionar a câmera, e não uma decisão romântica ou simbólica profunda, embora tenha brincado sobre a suposta ligação entre canhotos e a arte.</p><p>Paul Mescal concordou que esses momentos, mesmo que não intencionalmente românticos, permitem que o público projete suas próprias interpretações na obra, alinhando-se com o conceito de "morte do autor".</p><h2>Direção Visual e Bloqueio de Cenas</h2><p>Chloé Zhao descreveu sua abordagem para o bloqueio e a encenação das cenas como instintiva. Ela citou <em>The Zone of Interest</em> como uma inspiração para o uso de planos estáticos, comparando-os a "tiros de CCTV" para manter uma perspectiva objetiva e distante. A colaboração com o diretor de fotografia Łukasz Żal e o posicionamento dos atores no espaço foram cruciais para definir a energia e a fisicalidade das cenas, buscando uma conexão com a reação física do público.</p><p>O filme <em>Hamnet</em> estreou no Festival de Telluride em 2025 e tem sido elogiado, especialmente pela atuação de Jessie Buckley, tornando-se um forte candidato ao Oscar em diversas categorias, incluindo Melhor Filme e Melhor Atriz.</p>"
+      ,
+      "meta_description": "Chloé Zhao revela que Hamnet possui um paralelo intencional com a mitologia grega, conferindo um tom de presságio à cena do casamento. Saiba mais.",
+      "focus_keyphrase": "Hamnet mitologia grega",
+      "related_keyphrases": [
+        "Chloé Zhao Hamnet",
+        "Hamnet paralelo Orfeu Euridice",
+        "Jessie Buckley Hamnet"
+      ],
+      "slug": "hamnet-direcao-paralelo-mitologia-grega",
+      "categorias": [
+        {
+          "nome": "Hamnet",
+          "grupo": "obras",
+          "evidence": "o livro que oferece uma visão ficcionalizada da vida de William Shakespeare"
+        },
+        {
+          "nome": "Chloé Zhao",
+          "grupo": "diretores",
+          "evidence": "Chloé Zhao pode ter encontrado seu próximo projeto vencedor do Oscar"
+        },
+        {
+          "nome": "Mitologia Grega",
+          "grupo": "temas",
+          "evidence": "um ponto chave da mitologia grega"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hamnet",
+        "Chloé Zhao",
+        "Jessie Buckley",
+        "Paul Mescal",
+        "Shakespeare",
+        "Mitologia Grega",
+        "Oscar"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hamnet: Direção confirma paralelo com mitologia grega em drama",
+        "_yoast_wpseo_metadesc": "Chloé Zhao revela que Hamnet possui um paralelo intencional com a mitologia grega, conferindo um tom de presságio à cena do casamento. Saiba mais.",
+        "_yoast_wpseo_focuskw": "Hamnet mitologia grega",
+        "_yoast_news_keywords": "Hamnet, Chloé Zhao, Jessie Buckley, Paul Mescal, Shakespeare, Mitologia Grega, Oscar",
+        "_yoast_wpseo_opengraph-title": "Hamnet: Direção confirma paralelo com mitologia grega em drama",
+        "_yoast_wpseo_opengraph-description": "Chloé Zhao revela que Hamnet possui um paralelo intencional com a mitologia grega, conferindo um tom de presságio à cena do casamento. Saiba mais.",
+        "_yoast_wpseo_twitter-title": "Hamnet: Direção confirma paralelo com mitologia grega em drama",
+        "_yoast_wpseo_twitter-description": "Chloé Zhao revela que Hamnet possui um paralelo intencional com a mitologia grega, conferindo um tom de presságio à cena do casamento. Saiba mais."
+      }
+    }
+  ]
+}

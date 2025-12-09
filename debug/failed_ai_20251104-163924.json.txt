@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Baahubali: Guerra Eterna | Nova animação ganha trailer e estreia em 2027",
+      "conteudo_final": "<p>A popular franquia de fantasia <strong>Baahubali</strong> continua sua saga com o novo derivado animado, <em>Baahubali – The Eternal War Part 1</em>, que acaba de lançar seu primeiro trailer. A produção, prevista para chegar aos cinemas em 2027, traz de volta o herói titular, que após o final de <em>The Epic</em>, é lançado em uma guerra que abrange 14 reinos.</p><h2>Trailer de 'Baahubali: Guerra Eterna' revela animação</h2><p>O primeiro teaser de <em>The Eternal War</em>, que estreia nos cinemas em 2027, mostra a animação do futuro filme, elevando sua ação central. Os atores que estrelaram a iteração live-action, Prabhas e Ramya Krishna, retornam para dar voz aos seus personagens, Príncipe Amarendra Baahubali e Sivagami, respectivamente. Assista ao trailer de <em>Baahubali – The Eternal War Part 1</em> abaixo:</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/E58_A8mduzU\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><h2>Contexto da Franquia Baahubali e RRR</h2><p>Rajamouli lançou originalmente <em>Baahubali: The Beginning</em> e <em>Baahubali 2: The Conclusion</em> em 2015 e 2017, respectivamente. Recentemente, ele as reeditou em um único filme sob o subtítulo <em>The Epic</em>, que está em cartaz nos cinemas dos Estados Unidos e tem recebido críticas majoritariamente positivas. O crítico Gregory Nussen elogiou o filme como \"um filme maximalista que, de alguma forma, mantém seu chocante nível de adrenalina apesar de sua duração de quase quatro horas\".</p><p>Desde a duologia original de <em>Baahubali</em>, Rajamouli também se tornou conhecido mundialmente por seu premiado filme de ação <em>RRR</em>, que retrata uma ficcionalização da vida de dois lutadores pela liberdade na Índia sob o domínio colonial britânico. <em>RRR</em> demonstra algumas das mesmas qualidades de <em>Baahubali</em>, como ação bombástica e um equilíbrio cuidadoso de gêneros.</p><h2>Nova Direção e Roteiro para 'The Eternal War'</h2><p>No entanto, Ishan Shukla ("The Bandits of Golak", <em>Star Wars: Visions</em>) assume a direção de <em>The Eternal War</em>. Rajamouli elogiou a visão do novo cineasta em uma declaração sobre como este spin-off surgiu, dizendo:</p><blockquote><p>Quando Ishan nos trouxe a ideia de expandir o universo Baahubali para uma épica animação estilizada, isso clicou instantaneamente. Parece uma extensão contínua e orgânica do mundo que construímos, que vai empolgar os fãs de longa data e atrair novos públicos. Estou animado para trazer estes dois filmes para as telonas.</p></blockquote><p>Também está confirmado que <em>Baahubali – The Eternal War Part 1</em> é escrito por Scott Mosier (<em>The Grinch, Free Birds</em>), ator de voz, produtor e roteirista. Embora isso possa surpreender alguns, a equipe de produção provavelmente acredita em Mosier da mesma forma que Rajamouli endossa Shukla, e o filme precisará de um roteiro forte para competir visualmente com as melhores animações do século XXI.</p>",
+      "meta_description": "A franquia Baahubali expande seu universo com a animação 'The Eternal War Part 1'. Estreia prevista para 2027, trailer revela novas aventuras.",
+      "focus_keyphrase": "Baahubali Guerra Eterna animação",
+      "related_keyphrases": [
+        "Baahubali The Eternal War Part 1 trailer",
+        "Animação Baahubali",
+        "Franquia Baahubali"
+      ],
+      "slug": "baahubali-guerra-eterna-trailer-animacao",
+      "categorias": [
+        {
+          "nome": "Baahubali",
+          "grupo": "franquias",
+          "evidence": "a popular franquia de fantasia Baahubali"
+        },
+        {
+          "nome": "Animação",
+          "grupo": "gêneros",
+          "evidence": "o novo derivado animado"
+        }
+      ],
+      "tags_sugeridas": [
+        "Baahubali",
+        "The Eternal War",
+        "S.S. Rajamouli",
+        "Ishan Shukla",
+        "Prabhas",
+        "Ramya Krishna",
+        "Scott Mosier"
+      ],
+      "image_alt_texts": {
+        "baahubali-the-eternal-war-part-1-trailer.jpg": "Cena do trailer de Baahubali: The Eternal War Part 1 mostrando heróis em ação."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Baahubali: Guerra Eterna | Nova animação ganha trailer e estreia em 2027",
+        "_yoast_wpseo_metadesc": "A franquia Baahubali expande seu universo com a animação 'The Eternal War Part 1'. Estreia prevista para 2027, trailer revela novas aventuras.",
+        "_yoast_wpseo_focuskw": "Baahubali Guerra Eterna animação",
+        "_yoast_news_keywords": "Baahubali, Guerra Eterna, animação, Baahubali The Eternal War Part 1, trailer, S.S. Rajamouli, Ishan Shukla, Prabhas, Ramya Krishna",
+        "_yoast_wpseo_opengraph-title": "Baahubali: Guerra Eterna | Nova animação ganha trailer e estreia em 2027",
+        "_yoast_wpseo_opengraph-description": "A franquia Baahubali expande seu universo com a animação 'The Eternal War Part 1'. Estreia prevista para 2027, trailer revela novas aventuras.",
+        "_yoast_wpseo_twitter-title": "Baahubali: Guerra Eterna | Nova animação ganha trailer e estreia em 2027",
+        "_yoast_wpseo_twitter-description": "A franquia Baahubali expande seu universo com a animação 'The Eternal War Part 1'. Estreia prevista para 2027, trailer revela novas aventuras."
+      }
+    }
+  ]
+}

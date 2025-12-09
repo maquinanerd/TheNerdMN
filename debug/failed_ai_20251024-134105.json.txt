@@ -1,0 +1,104 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Tubi: Lista completa de filmes e séries grátis em Novembro de 2025",
+      "conteudo_final": "<p>A plataforma de streaming gratuita Tubi anunciou sua lista de novidades para novembro de 2025. Apenas após o Halloween, cerca de 200 novos títulos estarão disponíveis, expandindo o já vasto catálogo do serviço.</p>\n<h2>Estreias do Dia 1º de Novembro na Tubi</h2>\n<p>O primeiro dia de novembro será o mais movimentado em termos de adições, com a chegada de diversos sucessos de bilheteria. Entre os destaques estão filmes aclamados como <b>Carrie</b>, <b>Onde os Fracos Não Têm Vez</b>, <b>A Outra Face</b>, <b>Homem-Aranha: De Volta ao Lar</b>, <b>Titanic</b> e o clássico <b>Space Jam: O Jogo do Século</b>.</p>\n<p>A lista completa de estreias para novembro na Tubi inclui:</p>\n<p><b>13 Horas: Os Soldados Secretos de Benghazi</b>, <b>20th Century Women</b>, <b>2012</b>, <b>4400</b>, <b>61st Street</b>, <b>Above Suspicion</b>, <b>After Yang</b>, <b>Aftersun</b>, <b>All About the Benjamins</b>, <b>American Honey</b>, <b>Feito na América</b>, <b>Are We Done Yet?</b>, <b>Are We There Yet?</b>, <b>Barely Lethal</b>, <b>Belly</b>, <b>Belly 2: Millionaire Boyz Club</b>, <b>Bike Heist</b>, <b>O Diabo Mora Logo Ali</b> (Black Christmas), <b>Cercados</b> (Black Hawk Down), <b>Black Nativity</b>, <b>Blockers</b>, <b>Body Cam</b>, <b>Borderline</b>, <b>Brightburn: O Ponto do Mal</b>, <b>O Preço do Poder</b> (Broken City), <b>Carrie (1976)</b>, <b>Carrie (2013)</b>, <b>Cassino</b>, <b>Children’s Hospital</b>, <b>Brinquedo Assassino</b> (Child’s Play - 1988), <b>Cleaner</b>, <b>Coach Carter</b>, <b>O Curioso Caso de Benjamin Button</b>, <b>Pai em Dose Dupla</b>, <b>O Dia em que a Terra Parou</b>, <b>Dead &amp; Buried</b>, <b>Dead Like Me</b>, <b>Desejo de Matar</b> (Death Wish - 2018), <b>A Morte é Minha</b> (Deep Blue Sea), <b>Dennis, o Pimentinha</b>, <b>Um Duende em Nova York</b> (Dinner for Schmucks), <b>Dream Scenario</b>, <b>Dreamgirls</b>, <b>O Desafio</b> (The Edge), <b>Equals</b>, <b>Exposure</b>, <b>A Outra Face</b> (Face/Off), <b>Fallen</b>, <b>Fat Albert</b>, <b>First Cow</b>, <b>First Reformed</b>, <b>Free Fire</b>, <b>Sexta-Feira em Apuros</b> (Friday), <b>Sexta-Feira Segue a Noite</b> (Friday After Next), <b>G-Force: Agentes Especiais</b>, <b>Infiltrado</b> (The Gentlemen), <b>O Navio Fantasma</b> (Ghost Ship), <b>G.I. Joe: Retaliação</b>, <b>G.I. Joe: A Origem do Cobra</b>, <b>Gladiador</b>, <b>O Poderoso Chefão</b>, <b>O Poderoso Chefão II</b>, <b>Godzilla II: Rei dos Monstros</b>, <b>A Veia de um Herói</b> (A Good Person), <b>Os Oito Odiados</b>, <b>A Força de um Herói</b> (Heartbreak Ridge), <b>Heist</b>, <b>Hellboy</b> (2019), <b>High Life</b>, <b>The Honeymooners</b>, <b>Hot Summer Nights</b>, <b>A Ressaca</b> (Hot Tub Time Machine), <b>A Ressaca 2</b> (Hot Tub Time Machine 2), <b>A Creche do Papai</b> (Hotel for Dogs), <b>Casa de Cera</b> (House of Wax - 2005), <b>O Grinch</b> (How the Grinch Stole Christmas), <b>How to Talk to Girls at Parties</b>, <b>The Hughleys</b>, <b>Hustle &amp; Flow</b>, <b>In Fabric</b>, <b>In Too Deep</b>, <b>João e Maria: Caçadores de Bruxas</b> (Jack the Giant Slayer), <b>Jason X</b>, <b>Um Duende em Nova York</b> (Jingle All the Way), <b>Landscape With Invisible Hand</b>, <b>Legion</b>, <b>Como as Mulheres Sabem</b> (Like a Boss), <b>Locke</b>, <b>Desaparecidas</b> (The Long Kiss Goodnight), <b>Os Garotos Perdidos</b>, <b>Os Garotos Perdidos: A Tribo</b>, <b>A Filha do Presidente</b> (Maid in Manhattan), <b>Mid90s</b>, <b>Minari</b>, <b>Louca por Você</b> (Misery), <b>Dinheiro Falado</b> (Money Talks - 1997 e 2010), <b>Morris From America</b>, <b>Um Ano e Tanto</b> (A Most Violent Year), <b>Nanny McPhee - Uma Babá Muito Especial</b>, <b>Nanny McPhee e as Lições Mágicas</b>, <b>Never Goin’ Back</b>, <b>New Jack City</b>, <b>A Última Sexta-Feira</b> (Next Friday), <b>A Noite do Jogo</b> (Night School), <b>Onde os Fracos Não Têm Vez</b> (No Country for Old Men), <b>Norbit</b>, <b>Obvious Child</b>, <b>On a Wing and a Prayer</b>, <b>One Night in Miami</b>, <b>O Cavaleiro Solitário</b> (Pale Rider), <b>O Zelador Animal</b> (Paul Blart: Mall Cop), <b>The Perfect Holiday</b>, <b>The Price We Pay</b>, <b>O Preço da Glória</b> (Pride &amp; Glory), <b>Priscilla</b>, <b>A Protegida</b> (The Protege), <b>O Justiceiro</b> (The Punisher - 2004), <b>O Justiceiro: Em Zona de Guerra</b>, <b>Rango</b>, <b>Red Rocket</b>, <b>Riddick</b>, <b>Robin Hood: O Príncipe dos Ladrões</b> (Robin Hood - 1991), <b>Roll Bounce</b>, <b>Raízes</b> (Roots - 1977 e 2016), <b>The Rover</b>, <b>O Amante da Rainha</b> (A Royal Affair), <b>RV: Um Fujaço de Férias</b> (RV - 2006), <b>Samaritan</b>, <b>O Bom Velhinho Secreto</b> (Santa Claus: The Movie - 1985), <b>O Mar Invisível</b> (The Sea of Trees), <b>Seraphim Falls</b>, <b>Shazam!</b> (2019), <b>Shazam! Fúria dos Deuses</b>, <b>O Iluminado</b> (The Shining - 1996), <b>Atirador</b> (Shooter), <b>Showing Up</b>, <b>Shrek Para Sempre</b>, <b>Silverado</b>, <b>Sisu</b>, <b>Skit</b>, <b>Os Smurfs</b> (The Smurfs - 2011), <b>Os Smurfs 2</b>, <b>Smurfs e a Vila Perdida</b>, <b>Snitch: Em Busca de uma Redenção</b>, <b>Cães de Aluguel</b> (Snow Dogs), <b>The Souvenir: Part II</b>, <b>Space Jam</b>, <b>The Spectacular Now</b>, <b>Homem-Aranha: De Volta ao Lar</b>, <b>Stars at Noon</b>, <b>Stealth: Ameaça Invisível</b>, <b>Stomp the Yard</b>, <b>Sugar</b>, <b>Super 8</b>, <b>Um Cadáver para Sobreviver</b> (Swiss Army Man), <b>As Tartarugas Ninja</b> (Teenage Mutant Ninja Turtles - 2014), <b>Terrifier 3</b>, <b>O Massacre da Serra Elétrica</b> (The Texas Chainsaw Massacre - 2003), <b>O Enigma do Horizonte</b> (The Thing - 2011), <b>Pense Como Eles</b> (Think Like a Man), <b>13 Fantasmas</b> (Thirteen Ghosts), <b>This Christmas</b>, <b>Titanic</b>, <b>Trap (2024)</b>, <b>Trapped (2002)</b>, <b>O Segredo do Cemitério</b> (Trick ‘R Treat), <b>True Grit</b> (2010), <b>Natal em Família com Madea</b> (Tyler Perry’s A Madea Christmas), <b>Debaixo do Lago</b> (Under the Silver Lake), <b>Varsity Blues</b>, <b>O Voo do Falcão</b> (The Walk), <b>As Crônicas de Nárnia: As Crônicas de Nárnia</b> (The Water Horse), <b>Waves</b>, <b>Whatever Works</b>, <b>When You Finish Saving the World</b>, <b>While We’re Young</b>, <b>White Boy Rick</b>, <b>Wolf</b>, <b>Wyatt Earp</b>, <b>Triplo X</b> (xXx), <b>Triplo X 2: A Nova Ordem</b> (xXx: State of the Union), <b>Você Se Lembra?</b> (You Got Served), <b>Zola</b>.</p>\n<h2>Adições de 3 a 27 de Novembro</h2>\n<p>Nos dias seguintes, o catálogo continuará a crescer:</p>\n<ul>\n<li><b>3 de Novembro</b>: <b>Growing Pains</b>, <b>The Loft</b>, <b>O Sinal</b> (Shadow in the Cloud), <b>The Skulls</b>, <b>V (2009)</b>.</li>\n<li><b>5 de Novembro</b>: <b>Marrowbone</b>.</li>\n<li><b>6 de Novembro</b>: <b>99 – A Série</b> (Bad Boys) e <b>99 – A Série II</b> (Bad Boys II).</li>\n<li><b>7 de Novembro</b>: <b>Fan of Mine</b> – Tubi Original. A trama acompanha a conexão perigosa entre uma cantora famosa e seu fã.</li>\n<li><b>10 de Novembro</b>: <b>Sullivan &amp; Son</b>.</li>\n<li><b>17 de Novembro</b>: <b>Maggie Moore(s)</b> e <b>The Repair Shop</b> (Temporadas 1-8).</li>\n<li><b>21 de Novembro</b>: <b>Married to a Balla 2</b>. A história foca na tentativa de recomeço de uma mãe com seus filhos, mas seu ex-abusivo retorna para se vingar.</li>\n<li><b>23 de Novembro</b>: <b>O Nevoeiro</b> (The Mist).</li>\n<li><b>24 de Novembro</b>: <b>Rua Cloverfield, 10</b> (10 Cloverfield Lane) e <b>Beachfront Bargain Hunt</b> (Temporadas 1-13, 15-16, 18).</li>\n<li><b>27 de Novembro</b>: <b>Sidelined 2: Intercepted</b> – Tubi Original. Baseado em uma história popular, o filme segue um quarterback e uma dançarina enquanto enfrentam as pressões da vida e do relacionamento.</li>\n</ul>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/08/hbo-max-binge-dramas.jpg?w=300\" alt=\"Pessoas assistindo TV\"><figcaption>Ampla variedade de títulos gratuitos chega à Tubi em novembro.</figcaption></figure>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/09/netflix-scifi.jpg?w=300\" alt=\"Cena de ficção científica\"><figcaption>Novidades incluem desde dramas a ficção científica.</figcaption></figure>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Army-in-Dune-Part-Two.jpg?w=300\" alt=\"Cena de Duna: Parte Dois\"><figcaption>Clássicos do cinema entram para o catálogo.</figcaption></figure>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/IT-Welcome-to-derry-rotten-tomatoes-score.jpg?w=300\" alt=\"Logo de It: A Coisa\"><figcaption>Séries de terror e suspense também estão entre os lançamentos.</figcaption></figure>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/The-Division.jpg?w=300\" alt=\"Arte conceitual de The Division\"><figcaption>O catálogo abrange diversos gêneros.</figcaption></figure>\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg?w=300\" alt=\"Pôster de filmes de vampiro\"><figcaption>Clássicos e novidades garantem o entretenimento gratuito.</figcaption></figure>",
+      "meta_description": "Tubi anuncia adição de centenas de filmes e séries gratuitas em novembro de 2025, incluindo sucessos como Titanic e Homem-Aranha.",
+      "focus_keyphrase": "Tubi filmes e séries grátis novembro 2025",
+      "related_keyphrases": [
+        "streaming gratuito novembro",
+        "novidades Tubi 2025",
+        "lista completa Tubi"
+      ],
+      "slug": "tubi-novidades-streaming-gratis",
+      "categorias": [
+        {
+          "nome": "Tubi",
+          "grupo": "plataformas",
+          "evidence": "Tubi is preparing for another month full of free movies and TV shows."
+        },
+        {
+          "nome": "Novembro",
+          "grupo": "meses",
+          "evidence": "With November just around the corner"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tubi",
+        "streaming gratuito",
+        "filmes",
+        "séries",
+        "lançamentos novembro 2025",
+        "novidades streaming"
+      ],
+      "image_alt_texts": {
+        "hbo-max-binge-dramas.jpg": "Pessoas assistindo TV com controle remoto.",
+        "netflix-scifi.jpg": "Cena futurista de filme de ficção científica.",
+        "Army-in-Dune-Part-Two.jpg": "Paul Atreides em cena de Duna: Parte Dois.",
+        "IT-Welcome-to-derry-rotten-tomatoes-score.jpg": "Logo da série 'It: Welcome to Derry'.",
+        "The-Division.jpg": "Arte conceitual do videogame 'The Division'.",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Montagem de pôsteres de filmes de vampiro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tubi: Filmes e Séries Grátis em Novembro de 2025 | Lista Completa",
+        "_yoast_wpseo_metadesc": "Tubi anuncia adição de centenas de filmes e séries gratuitas em novembro de 2025, incluindo sucessos como Titanic e Homem-Aranha.",
+        "_yoast_wpseo_focuskw": "Tubi filmes e séries grátis novembro 2025",
+        "_yoast_news_keywords": "Tubi, streaming gratuito, filmes, séries, lançamentos novembro 2025, novidades streaming, Tubi 2025",
+        "_yoast_wpseo_opengraph-title": "Tubi: Filmes e Séries Grátis em Novembro de 2025 | Lista Completa",
+        "_yoast_wpseo_opengraph-description": "Descubra todos os filmes e séries que chegam gratuitamente à Tubi em novembro de 2025.",
+        "_yoast_wpseo_twitter-title": "Tubi: Filmes e Séries Grátis em Novembro de 2025 | Lista Completa",
+        "_yoast_wpseo_twitter-description": "Descubra todos os filmes e séries que chegam gratuitamente à Tubi em novembro de 2025."
+      }
+    },
+    {
+      "titulo_final": "Steam nega bloqueio a jogos adultos em acesso antecipado",
+      "conteudo_final": "<p>Grupos anti-p*rnografia têm pressionado plataformas digitais, levando a uma maior distância de conteúdos adultos. Ações recentes resultaram na pressão sobre processadores de pagamento, que, por sua vez, impactaram lojas como <b>Steam</b> e <b>Itch.io</b>, levando à remoção de conteúdo considerado objetável. Desenvolvedores viram-se impossibilitados de monetizar seus trabalhos, com alguns sendo removidos das plataformas.</p>\n<p>Embora a <b>Steam</b> tenha confirmado anteriormente que removeria jogos mediante objeções de processadores de pagamento, a empresa agora nega que esteja bloqueando o lançamento de jogos adultos em acesso antecipado. Essa afirmação surge em resposta a relatos de desenvolvedores que enfrentam dificuldades.</p>\n<h2>Steam Afirma que Jogos Adultos Podem Ser Lançados em Acesso Antecipado</h2>\n<p>Em resposta a um desenvolvedor de jogos adultos, um representante da <b>Steam</b> declarou que a avaliação de conteúdo é feita \"caso a caso\" durante as revisões de compilação e da página da loja. \"Não há uma política geral que impeça certos jogos de utilizarem o modelo de desenvolvimento em Acesso Antecipado\", afirmou o representante.</p>\n<p>Essa declaração foi compartilhada pela jornalista Ana Valens, que questionou a <b>Steam</b> sobre uma possível nova política de bloqueio de jogos adultos no acesso antecipado. A resposta direta da empresa indica que cada título é avaliado individualmente.</p>\n<blockquote>Representante da Steam: \"Avaliamos cada jogo caso a caso durante suas revisões individuais de compilação e página da loja. Não há uma política geral que impeça certos jogos de utilizarem o modelo de desenvolvimento em Acesso Antecipado.\""</blockquote>\n<p>No entanto, essa posição parece contrastar com declarações anteriores de outros representantes da <b>Steam</b>. Há cerca de um mês, um outro porta-voz teria afirmado: \"De fato, não estamos distribuindo jogos Adult-Only que estão em Acesso Antecipado. Desculpe. Você está livre para atualizar seu jogo após o lançamento; no entanto, se você estiver adicionando conteúdo maduro adicional, pedimos que você lance esse conteúdo como DLC (potencialmente gratuito)\".</p>\n<p>Além disso, a Crimson Delight, desenvolvedora de <b>Tales of Legendary Lust</b>, relatou anteriormente ter sido impedida de lançar atualizações NSFW. A ausência de um anúncio formal sobre mudanças nas regras contribuiu para a confusão geral entre os desenvolvedores.</p>\n<p>Toda essa situação deriva dos esforços do grupo anti-p*rnografia <b>Collective Shout</b>, que já se manifestou contra títulos como <b>Detroit: Become Human</b> e <b>Grand Theft Auto 5</b>. Relatórios anteriores indicam que a iniciativa de combater conteúdo adulto remonta ao <b>Projeto 2025</b>, uma iniciativa política conservadora que defende, entre outras propostas, uma proibição nacional de p*rnografia.</p>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/steamcompanytagpageheader.png\" alt=\"Logo da Steam\"><figcaption>A Steam nega políticas de bloqueio generalizado.</figcaption></figure>",
+      "meta_description": "Steam afirma que não bloqueia jogos adultos em acesso antecipado, apesar de relatos de desenvolvedores. Entenda a polêmica.",
+      "focus_keyphrase": "Steam bloqueio jogos adultos",
+      "related_keyphrases": [
+        "Steam acesso antecipado",
+        "jogos adultos Steam",
+        "censura jogos"
+      ],
+      "slug": "steam-jogos-adultos-acesso-antecipado",
+      "categorias": [
+        {
+          "nome": "Steam",
+          "grupo": "plataformas",
+          "evidence": "Steam and Itch.io"
+        },
+        {
+          "nome": "Jogos Adultos",
+          "grupo": "gêneros",
+          "evidence": "adult content"
+        },
+        {
+          "nome": "Acesso Antecipado",
+          "grupo": "modelos de desenvolvimento",
+          "evidence": "launching in Early Access"
+        }
+      ],
+      "tags_sugeridas": [
+        "Steam",
+        "jogos adultos",
+        "acesso antecipado",
+        "censura",
+        "desenvolvimento de jogos",
+        "indústria de games"
+      ],
+      "image_alt_texts": {
+        "steamcompanytagpageheader.png": "Logo oficial da plataforma de jogos Steam."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Steam Nega Bloqueio a Jogos Adultos em Acesso Antecipado | Notícias",
+        "_yoast_wpseo_metadesc": "Steam afirma que não bloqueia jogos adultos em acesso antecipado, apesar de relatos de desenvolvedores. Entenda a polêmica.",
+        "_yoast_wpseo_focuskw": "Steam bloqueio jogos adultos",
+        "_yoast_news_keywords": "Steam, jogos adultos, acesso antecipado, censura, desenvolvimento de jogos, indústria de games, Valve, polêmica games",
+        "_yoast_wpseo_opengraph-title": "Steam Nega Bloqueio a Jogos Adultos em Acesso Antecipado",
+        "_yoast_wpseo_opengraph-description": "A Valve, dona da Steam, responde a alegações sobre a proibição de jogos adultos em acesso antecipado, mas controvérsias persistem.",
+        "_yoast_wpseo_twitter-title": "Steam Nega Bloqueio a Jogos Adultos em Acesso Antecipado",
+        "_yoast_wpseo_twitter-description": "A Valve, dona da Steam, responde a alegações sobre a proibição de jogos adultos em acesso antecipado, mas controvérsias persistem."
+      }
+    }
+  ]
+}

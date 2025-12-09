@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Tulsa King: Fim de Armand e Tina na 3ª temporada é criticado",
+      "conteudo_final": "<p>A 3ª temporada de <strong><em>Tulsa King</em></strong> está lidando com a saída de atores importantes, e a forma como o destino de Armand e Tina foi abordado tem gerado críticas. Enquanto a maioria do elenco principal se manteve presente desde o início, a série precisou encontrar maneiras de explicar ausências mais recentes.</p><p>Após o sexto episódio da 3ª temporada, ficou claro que nem Armand Truisi nem Tina Manfredi continuarão na série. O personagem Armand, interpretado por Max Casella, teve um desfecho trágico, falecendo por suicídio, conforme relatado por um colega de Dwight. A ausência de Armand na temporada já era notada, após ele ter supostamente viajado para visitar a família.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "A 3ª temporada de Tulsa King encerrou os arcos de Armand e Tina de forma abrupta, gerando críticas sobre a condução dos personagens e seus desfechos.",
+      "focus_keyphrase": "Tulsa King Armand e Tina",
+      "related_keyphrases": [
+        "Saída de atores Tulsa King",
+        "Destino de Armand Tulsa King",
+        "Tina Manfredi Tulsa King"
+      ],
+      "slug": "tulsa-king-fim-armand-tina",
+      "categorias": [
+        {
+          "nome": "Tulsa King",
+          "grupo": "obras",
+          "evidence": "<em>Tulsa King</em> season 3"
+        },
+        {
+          "nome": "Sylvester Stallone",
+          "grupo": "elenco",
+          "evidence": "Dwight 'The General' Manfredi"
+        }
+      ],
+      "tags_sugeridas": [
+        "tulsa-king",
+        "sylvester-stallone",
+        "paramount+",
+        "max-casella",
+        "tatiana-zappardino",
+        "series-de-crime",
+        "drama"
+      ],
+      "image_alt_texts": {
+        "armand1.jpg": "Armand Truisi (Max Casella) em cena de Tulsa King.",
+        "tina3.jpg": "Tina Manfredi (Tatiana Zappardino) em cena de Tulsa King.",
+        "03182315_poster_w780.jpg": "Pôster oficial da série Tulsa King."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tulsa King: Fim de Armand e Tina na 3ª temporada é criticado | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "A 3ª temporada de Tulsa King encerrou os arcos de Armand e Tina de forma abrupta, gerando críticas sobre a condução dos personagens e seus desfechos.",
+        "_yoast_wpseo_focuskw": "Tulsa King Armand e Tina",
+        "_yoast_news_keywords": "Tulsa King, Sylvester Stallone, Armand Truisi, Tina Manfredi, Paramount+, Max Casella, Tatiana Zappardino, séries de crime, drama",
+        "_yoast_wpseo_opengraph-title": "Tulsa King: Fim de Armand e Tina na 3ª temporada é criticado",
+        "_yoast_wpseo_opengraph-description": "A 3ª temporada de Tulsa King encerrou os arcos de Armand e Tina de forma abrupta, gerando críticas sobre a condução dos personagens e seus desfechos.",
+        "_yoast_wpseo_twitter-title": "Tulsa King: Fim de Armand e Tina na 3ª temporada é criticado",
+        "_yoast_wpseo_twitter-description": "A 3ª temporada de Tulsa King encerrou os arcos de Armand e Tina de forma abrupta, gerando críticas sobre a condução dos personagens e seus desfechos."
+      }
+    }
+  ]
+}

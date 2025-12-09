@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Prime Video: 3 séries perfeitas com episódios 10/10",
+      "conteudo_final": "<p>Três séries originais do <b>Prime Video</b> se destacam por terem todos os seus episódios impecáveis, do piloto ao final da temporada. A plataforma de streaming tem investido em produções de alta qualidade em diversos gêneros.</p><p>Com o poder financeiro de uma gigante como a Amazon, as produções do Prime Video geralmente apresentam um visual impressionante. No entanto, nem sempre o investimento se traduz em qualidade, e algumas séries acabam não correspondendo às expectativas.</p><p>Apesar disso, a plataforma tem aprimorado seu catálogo, e séries como <em>Solos</em> parecem ser exceções. Manter a qualidade ao longo de toda uma temporada é um desafio, o que torna estas três séries ainda mais especiais.</p><h2>The Expanse (2015-2022)</h2><figure><img src=\"https:
+      "meta_description": "Descubra 3 séries perfeitas do Prime Video que entregam episódios 10/10. Explore ficção científica, drama e animação com qualidade impecável.",
+      "focus_keyphrase": "séries Prime Video perfeitas",
+      "related_keyphrases": [
+        "melhores séries Amazon Prime Video",
+        "séries com episódios 10/10",
+        "produções originais Prime Video"
+      ],
+      "slug": "series-prime-video-perfeitas-episodios-10-10",
+      "categorias": [
+        {
+          "nome": "The Expanse",
+          "grupo": "obras",
+          "evidence": "The Expanse (2015-2022)"
+        },
+        {
+          "nome": "A League Of Their Own",
+          "grupo": "obras",
+          "evidence": "A League Of Their Own (2022)"
+        },
+        {
+          "nome": "Undone",
+          "grupo": "obras",
+          "evidence": "Undone (2019-2022)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Prime Video",
+        "The Expanse",
+        "A League of Their Own",
+        "Undone",
+        "ficção científica",
+        "animação"
+      ],
+      "image_alt_texts": {
+        "thomas-jane-as-joe-miller-in-the-expanse-pointing-a-gun-at-someone-off-screen.jpg": "Thomas Jane como Joe Miller em The Expanse, apontando uma arma para alguém fora de quadro.",
+        "carson-and-max-sit-and-talk-in-a-league-of-their-own.jpg": "Carson e Max sentadas conversando em A League of Their Own.",
+        "undone-poster.jpeg": "Pôster da série Undone."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Prime Video: 3 séries perfeitas com episódios 10/10 | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra 3 séries perfeitas do Prime Video que entregam episódios 10/10. Explore ficção científica, drama e animação com qualidade impecável.",
+        "_yoast_wpseo_focuskw": "séries Prime Video perfeitas",
+        "_yoast_news_keywords": "Prime Video, The Expanse, A League of Their Own, Undone, séries de TV, ficção científica, animação, drama",
+        "_yoast_wpseo_opengraph-title": "Prime Video: 3 séries perfeitas com episódios 10/10",
+        "_yoast_wpseo_opengraph-description": "Descubra 3 séries perfeitas do Prime Video que entregam episódios 10/10. Explore ficção científica, drama e animação com qualidade impecável.",
+        "_yoast_wpseo_twitter-title": "Prime Video: 3 séries perfeitas com episódios 10/10",
+        "_yoast_wpseo_twitter-description": "Descubra 3 séries perfeitas do Prime Video que entregam episódios 10/10. Explore ficção científica, drama e animação com qualidade impecável."
+      }
+    }
+  ]
+}

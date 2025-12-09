@@ -1,0 +1,158 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Aquaman 2 chega à Netflix e se torna sucesso de streaming após bilheteria fraca",
+      "conteudo_final": "<p>Embora <em>Aquaman e o Reino Perdido</em> não tenha agradado críticos e público nos cinemas, o filme agora vive uma nova fase de popularidade no streaming. Dirigido por James Wan, a produção de 2023 marca o encerramento oficial do Universo Estendido da DC (DCEU), 10 anos após o lançamento de <em>O Homem de Aço</em>.</p><p>Dois anos após sua estreia, a sequência de <em>Aquaman</em> está em alta na <strong>Netflix</strong>, figurando como o segundo filme mais popular na plataforma nos Estados Unidos. Apesar de não reverter o destino do DCEU, o longa finalmente conquistou o público.</p><p>Jason Momoa retorna ao papel principal após o sucesso estrondoso de <em>Aquaman</em> (2018), que arrecadou US$ 1,152 bilhão mundialmente. No entanto, <strong><em>O Reino Perdido</em> não alcançou o mesmo desempenho nas bilheterias</strong>, faturando apenas US$ 440 milhões globalmente.</p><p>Com um orçamento estimado em US$ 205 milhões, a sequência provavelmente não atingiu o ponto de equilíbrio financeiro. Seguindo a regra de Hollywood para grandes produções, <strong>o filme precisaria de cerca de US$ 512 milhões para cobrir seus custos</strong>, meta que ficou distante.</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/patrick-wilson-s-orm-and-jason-momoa-s-aquaman-in-rubble-in-aquaman-and-the-lost-kingdom.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/patrick-wilson-s-orm-and-jason-momoa-s-aquaman-in-rubble-in-aquaman-and-the-lost-kingdom.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/><img alt="Patrick Wilson como Orm e Jason Momoa como Aquaman em escombros em Aquaman e o Reino Perdido" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/patrick-wilson-s-orm-and-jason-momoa-s-aquaman-in-rubble-in-aquaman-and-the-lost-kingdom.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/patrick-wilson-s-orm-and-jason-momoa-s-aquaman-in-rubble-in-aquaman-and-the-lost-kingdom.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/></picture><figcaption>Patrick Wilson como Orm e Jason Momoa como Aquaman em cena de Aquaman e o Reino Perdido.</figcaption></figure><p>A recepção negativa da crítica acompanhou o desempenho comercial. As avaliações de <em>Aquaman e o Reino Perdido</em> foram majoritariamente desfavoráveis, resultando em uma pontuação de 33% no Rotten Tomatoes. A pontuação do público, no entanto, é mais alta, com 79%, mas isso não se traduziu em grande público nos cinemas.</p><p>A recepção do filme significou que <strong>o DCEU terminou com mais um suspiro do que um estrondo</strong>. No final de 2022, James Gunn e Peter Safran assumiram a liderança da nova divisão DC Studios. Sob o comando deles, o novo DCU começou oficialmente com o lançamento de <em>Superman</em> no início deste ano.</p><p>Embora o tempo de Momoa como Aquaman possa ter chegado ao fim, <strong>ele está confirmado no DCU nos próximos anos</strong>. Em dezembro de 2024, foi anunciado que Momoa interpretará o anti-herói Lobo. Ainda não está claro se Lobo terá seu próprio filme, mas o personagem aparecerá no elenco de <em>Supergirl: Woman of Tomorrow</em> no próximo ano.</p><p><strong><em>Aquaman e o Reino Perdido</em></strong> pode não ter sido bem recebido, mas seu sucesso recém-descoberto na Netflix demonstra o amor duradouro pelo DCEU e por essa era anterior de filmes de super-heróis. As contribuições de Zack Snyder para o DCEU, por exemplo, continuam a ser celebradas e defendidas pelo público. O DCEU pode ter acabado, mas ainda há espaço para assistir e apreciar os filmes dessa era passada.</p>",
+      "meta_description": "Aquaman e o Reino Perdido, filme que encerra o DCEU, alcança sucesso inesperado na Netflix após desempenho fraco nos cinemas.",
+      "focus_keyphrase": "Aquaman e o Reino Perdido sucesso streaming",
+      "related_keyphrases": [
+        "Aquaman 2 Netflix",
+        "DCEU encerramento",
+        "Jason Momoa novo papel DC"
+      ],
+      "slug": "aquaman-reino-perdido-sucesso-streaming-netflix",
+      "categorias": [
+        {
+          "nome": "Aquaman",
+          "grupo": "franquias",
+          "evidence": "Aquaman e o Reino Perdido"
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "Universo Estendido da DC (DCEU)"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "aquaman",
+        "aquaman e o reino perdido",
+        "jason momoa",
+        "netflix",
+        "dceu",
+        "dc studios",
+        "james wan"
+      ],
+      "image_alt_texts": {
+        "patrick-wilson-s-orm-and-jason-momoa-s-aquaman-in-rubble-in-aquaman-and-the-lost-kingdom.jpg": "Patrick Wilson como Orm e Jason Momoa como Aquaman em cena de Aquaman e o Reino Perdido."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Aquaman 2: Sucesso de Streaming na Netflix após Bilheteria Fraca no Cinema",
+        "_yoast_wpseo_metadesc": "Aquaman e o Reino Perdido, filme que encerra o DCEU, alcança sucesso inesperado na Netflix após desempenho fraco nos cinemas.",
+        "_yoast_wpseo_focuskw": "Aquaman e o Reino Perdido sucesso streaming",
+        "_yoast_news_keywords": "Aquaman, Aquaman 2, O Reino Perdido, Netflix, DCEU, Jason Momoa, James Wan, DC Studios",
+        "_yoast_wpseo_opengraph-title": "Aquaman 2: Sucesso de Streaming na Netflix após Bilheteria Fraca no Cinema",
+        "_yoast_wpseo_opengraph-description": "Aquaman e o Reino Perdido, filme que encerra o DCEU, alcança sucesso inesperado na Netflix após desempenho fraco nos cinemas.",
+        "_yoast_wpseo_twitter-title": "Aquaman 2: Sucesso de Streaming na Netflix após Bilheteria Fraca no Cinema",
+        "_yoast_wpseo_twitter-description": "Aquaman e o Reino Perdido, filme que encerra o DCEU, alcança sucesso inesperado na Netflix após desempenho fraco nos cinemas."
+      }
+    },
+    {
+      "titulo_final": "Inglourious Basterds de Tarantino deixa a Netflix em novembro",
+      "conteudo_final": "<p><strong><em>Bastardos Inglórios</em></strong>, filme de Quentin Tarantino lançado em 2009, está prestes a deixar sua casa no streaming. A comédia sombria ambientada na Segunda Guerra Mundial acompanha um grupo de soldados judeus americanos que planejam assassinar líderes nazistas. O longa é estrelado por <strong>Brad Pitt</strong>, com um elenco de apoio que inclui Eli Roth, Christoph Waltz e Diane Kruger.</p><p><em>Bastardos Inglórios</em> foi bem recebido na época de seu lançamento, recebendo diversas indicações ao Oscar e vencendo na categoria de Melhor Ator Coadjuvante para Christoph Waltz. O filme possui uma pontuação de 89% no Tomatometer e 88% no Popcornmeter.</p><p>De acordo com a <strong>Netflix</strong>, <em>Bastardos Inglórios</em> deixará a plataforma em <strong>30 de novembro</strong>. Os assinantes terão poucos dias para assistir ao filme antes que ele saia do catálogo.</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/the-best-quentin-tarantino-movie-of-the-last-25-years-revealed-and-it-includes-his-own-favorite-scene-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/the-best-quentin-tarantino-movie-of-the-last-25-years-revealed-and-it-includes-his-own-favorite-scene-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Brad Pitt segurando uma faca e Eli Roth olhando para a câmera em Bastardos Inglórios" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/the-best-quentin-tarantino-movie-of-the-last-25-years-revealed-and-it-includes-his-own-favorite-scene-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/the-best-quentin-tarantino-movie-of-the-last-25-years-revealed-and-it-includes-his-own-favorite-scene-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Brad Pitt e Eli Roth em cena de Bastardos Inglórios.</figcaption></figure><p>O filme também está disponível para aluguel em outras plataformas. Após 30 de novembro, ele pode não ter mais uma casa de streaming, a menos que outro serviço o adquira.</p><p><em>Bastardos Inglórios</em> é amplamente considerado um dos melhores filmes de Tarantino. <strong>O longa é frequentemente citado como a melhor obra do diretor no século XXI</strong>, competindo de perto com <em>Era uma Vez em Hollywood</em>.</p><p>O filme foi crucial na carreira de Christoph Waltz, levando à sua primeira indicação e vitória no Oscar. Ele voltaria a ganhar o prêmio ao trabalhar novamente com Tarantino em <em>Django Livre</em> (2012).</p><p>A participação de Brad Pitt no filme também solidificou sua posição como um ator de ponta capaz de colaborar com diretores de renome como Tarantino. Pitt também trabalhou novamente com o diretor em <em>Era uma Vez em Hollywood</em> (2019), que lhe rendeu um Oscar de Melhor Ator Coadjuvante.</p><p>Com isso, o público pode sentir falta de <em>Bastardos Inglórios</em> após sua saída da Netflix. É provável que o filme veja um aumento de popularidade nos próximos dias, à medida que entra na categoria de \"saídas em breve\" na plataforma.</p><p>Enquanto isso, o potencial aumento de popularidade de <strong><em>Bastardos Inglórios</em></strong> ajudará o público a se preparar para o próximo projeto de Tarantino. Isso inclui a escrita do roteiro para <em>The Adventures of Cliff Booth</em>, dirigido por David Fincher, que explora a história de fundo do personagem de Pitt em <em>Era uma Vez em Hollywood</em>.</p>",
+      "meta_description": "Bastardos Inglórios, aclamado filme de Quentin Tarantino, deixará a Netflix em 30 de novembro. Confira os detalhes.",
+      "focus_keyphrase": "Bastardos Inglórios deixa Netflix",
+      "related_keyphrases": [
+        "Tarantino Netflix",
+        "Filmes saindo da Netflix",
+        "Brad Pitt Quentin Tarantino"
+      ],
+      "slug": "bastardos-inglorios-tarantino-netflix-saida",
+      "categorias": [
+        {
+          "nome": "Bastardos Inglórios",
+          "grupo": "obras",
+          "evidence": "Bastardos Inglórios"
+        },
+        {
+          "nome": "Quentin Tarantino",
+          "grupo": "diretores",
+          "evidence": "Quentin Tarantino"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "bastardos inglórios",
+        "quentin tarantino",
+        "netflix",
+        "brad pitt",
+        "christoph waltz",
+        "cinema",
+        "streaming"
+      ],
+      "image_alt_texts": {
+        "the-best-quentin-tarantino-movie-of-the-last-25-years-revealed-and-it-includes-his-own-favorite-scene-1.jpg": "Brad Pitt e Eli Roth em cena de Bastardos Inglórios."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bastardos Inglórios: Filme de Tarantino deixa a Netflix em novembro",
+        "_yoast_wpseo_metadesc": "Bastardos Inglórios, aclamado filme de Quentin Tarantino, deixará a Netflix em 30 de novembro. Confira os detalhes.",
+        "_yoast_wpseo_focuskw": "Bastardos Inglórios deixa Netflix",
+        "_yoast_news_keywords": "Bastardos Inglórios, Quentin Tarantino, Netflix, Brad Pitt, Christoph Waltz, Cinema, Streaming",
+        "_yoast_wpseo_opengraph-title": "Bastardos Inglórios: Filme de Tarantino deixa a Netflix em novembro",
+        "_yoast_wpseo_opengraph-description": "Bastardos Inglórios, aclamado filme de Quentin Tarantino, deixará a Netflix em 30 de novembro. Confira os detalhes.",
+        "_yoast_wpseo_twitter-title": "Bastardos Inglórios: Filme de Tarantino deixa a Netflix em novembro",
+        "_yoast_wpseo_twitter-description": "Bastardos Inglórios, aclamado filme de Quentin Tarantino, deixará a Netflix em 30 de novembro. Confira os detalhes."
+      }
+    },
+    {
+      "titulo_final": "Netflix adiciona Forrest Gump e Pulp Fiction em dezembro",
+      "conteudo_final": "<p>A <strong>Netflix</strong> revelou sua lista de títulos para dezembro, que inclui desde favoritos de franquias familiares até alguns dos maiores filmes do Oscar de todos os tempos. As produções da própria Netflix para a temporada de premiações deste ano também estarão disponíveis até o fim do ano.</p><p><em>Train Dreams, A House of Dynamite</em> e <em>Frankenstein</em> já estão na plataforma, com <em>Jay Kelly</em> e <em>Wake Up Dead Man: A Knives Out Mystery</em> chegando em breve. No entanto, <strong>dezembro trará um mergulho no passado na Netflix,</strong> com obras cinematográficas importantes que estarão disponíveis na plataforma, embora a duração de sua permanência seja incerta.</p><p>Segundo o site <em>What's on Netflix</em>, <strong><em>Pulp Fiction: Tempo de Violência</em> estará na Netflix a partir de 1º de dezembro, enquanto <em>Forrest Gump: O Contador de Histórias</em> chega em 4 de dezembro.</strong> Ambos os filmes icônicos foram lançados em 1994 e competiram na temporada de premiações daquele ano. <em>Forrest Gump</em> venceu o Oscar de Melhor Filme, superando <em>Pulp Fiction</em> e <em>Um Sonho de Liberdade</em>.</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/hanks_wright_forrest-gump.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/hanks_wright_forrest-gump.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/><img alt="Tom Hanks e Robin Wright em Forrest Gump" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/hanks_wright_forrest-gump.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/hanks_wright_forrest-gump.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/></picture><figcaption>Tom Hanks e Robin Wright em cena de Forrest Gump.</figcaption></figure><p><strong>O outono de 1994 é uma época que cativa os cinéfilos,</strong> especialmente aqueles que não viveram o período. <em>Forrest Gump</em> ainda estava em cartaz desde sua estreia no verão quando <em>Pulp Fiction</em> e <em>Um Sonho de Liberdade</em> foram lançados em outubro, enquanto <em>O Rei Leão</em> e até mesmo <em>Jurassic Park</em> (1993) continuavam em exibição.</p><p><strong>A presença simultânea desses filmes nos cinemas resultou em uma disputa pelo Oscar de Melhor Filme que ainda gera debates</strong>. Os três filmes possuíam narrativas complexas e proezas técnicas para se tornarem vencedores, mas a natureza mais inspiradora de <em>Forrest Gump</em>, juntamente com a atuação marcante de Tom Hanks, pode ter impulsionado sua vitória.</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/john-travolta-and-samuel-l-jackson-pointing-guns-in-pulp-fiction.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/john-travolta-and-samuel-l-jackson-pointing-guns-in-pulp-fiction.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/><img alt="John Travolta e Samuel L Jackson apontando armas em Pulp Fiction" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/john-travolta-and-samuel-l-jackson-pointing-guns-in-pulp-fiction.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/john-travolta-and-samuel-l-jackson-pointing-guns-in-pulp-fiction.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/></picture><figcaption>John Travolta e Samuel L Jackson em cena de Pulp Fiction.</figcaption></figure><p>Após seu sucesso estrondoso em 1992 com <em>Cães de Aluguel</em>, Quentin Tarantino entregou <em>Pulp Fiction</em>, um épico de gângster não linear que explora temas de redenção sutil. Samuel L. Jackson, John Travolta, Uma Thurman e outros entregam atuações icônicas em cenas memoráveis, repletas do diálogo afiado característico de Tarantino.</p><p><em>Forrest Gump</em>, por outro lado, utiliza um protagonista fundamentalmente bom como ponto de vista para explorar eventos importantes da história americana. <em>Um Sonho de Liberdade</em> não estará disponível na <strong>Netflix</strong> em dezembro de 2025, mas se os espectadores puderem assistir em outras plataformas, poderão rever os três filmes e se perguntar: <strong>qual deles eles teriam votado naquele ano histórico?</strong></p>",
+      "meta_description": "Netflix adiciona clássicos Forrest Gump e Pulp Fiction em dezembro, relembrando a disputada corrida pelo Oscar de Melhor Filme de 1994.",
+      "focus_keyphrase": "Forrest Gump Pulp Fiction Netflix dezembro",
+      "related_keyphrases": [
+        "Filmes Oscar 1994 Netflix",
+        "Clássicos do cinema na Netflix",
+        "Forrest Gump streaming"
+      ],
+      "slug": "forrest-gump-pulp-fiction-netflix-dezembro",
+      "categorias": [
+        {
+          "nome": "Forrest Gump",
+          "grupo": "obras",
+          "evidence": "Forrest Gump"
+        },
+        {
+          "nome": "Pulp Fiction",
+          "grupo": "obras",
+          "evidence": "Pulp Fiction"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "forrest gump",
+        "pulp fiction",
+        "netflix",
+        "oscar",
+        "cinema",
+        "anos 90",
+        "streaming"
+      ],
+      "image_alt_texts": {
+        "hanks_wright_forrest-gump.jpeg": "Tom Hanks e Robin Wright em cena de Forrest Gump.",
+        "john-travolta-and-samuel-l-jackson-pointing-guns-in-pulp-fiction.jpg": "John Travolta e Samuel L Jackson em cena de Pulp Fiction."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: Forrest Gump e Pulp Fiction chegam em dezembro",
+        "_yoast_wpseo_metadesc": "Netflix adiciona clássicos Forrest Gump e Pulp Fiction em dezembro, relembrando a disputada corrida pelo Oscar de Melhor Filme de 1994.",
+        "_yoast_wpseo_focuskw": "Forrest Gump Pulp Fiction Netflix dezembro",
+        "_yoast_news_keywords": "Forrest Gump, Pulp Fiction, Netflix, Oscar, Cinema, Anos 90, Streaming",
+        "_yoast_wpseo_opengraph-title": "Netflix: Forrest Gump e Pulp Fiction chegam em dezembro",
+        "_yoast_wpseo_opengraph-description": "Netflix adiciona clássicos Forrest Gump e Pulp Fiction em dezembro, relembrando a disputada corrida pelo Oscar de Melhor Filme de 1994.",
+        "_yoast_wpseo_twitter-title": "Netflix: Forrest Gump e Pulp Fiction chegam em dezembro",
+        "_yoast_wpseo_twitter-description": "Netflix adiciona clássicos Forrest Gump e Pulp Fiction em dezembro, relembrando a disputada corrida pelo Oscar de Melhor Filme de 1994."
+      }
+    }
+  ]
+}

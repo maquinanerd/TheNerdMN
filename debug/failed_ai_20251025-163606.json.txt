@@ -1,0 +1,152 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Blumhouse adquire direitos de adaptação de HQ de terror \"Something Is Killing the Children\"",
+      "conteudo_final": "<p>A <b>Blumhouse</b>, conhecida por seus filmes de terror, adquiriu os direitos de adaptação da aclamada série de quadrinhos de terror <b>Something Is Killing the Children</b>. A produtora planeja desenvolver tanto um filme quanto uma série animada para o público adulto.</p><h2>A HQ de Sucesso</h2><p>Lançada em 2019 e escrita por James Tynion IV com arte de Werther Dell'Edera, <em>Something Is Killing the Children</em> rapidamente se tornou um sucesso, vendendo mais de 5 milhões de cópias globalmente e conquistando múltiplos prêmios Eisner. A série acompanha a heroína <b>Erica Slaughter</b> em sua caçada a monstros que matam crianças.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/02/something-is-killing-the-children.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Arte da HQ: Erica Slaughter na capa de Something Is Killing the Children.\"><figcaption>Arte da HQ: Erica Slaughter na capa de Something Is Killing the Children.</figcaption></figure><h2>Histórico de Adaptação</h2><p>Anteriormente, a <b>Netflix</b> havia adquirido os direitos de adaptação, com planos para uma série live-action. No entanto, o projeto não avançou, e a gigante do streaming decidiu não seguir adiante. Produtores como Trevor Macy e Mike Flanagan estiveram envolvidos inicialmente, mas deixaram o projeto.</p><p>Mais tarde, os criadores da série <em>Dark</em>, Baran bo Odar e Jantje Friese, foram anunciados para comandar a adaptação, mas a Netflix acabou por não prosseguir com a série em meados de 2024.</p><h2>A Escolha da Blumhouse</h2><p>Jason Blum, fundador da Blumhouse, expressou entusiasmo com a aquisição, elogiando o potencial da obra e a capacidade da história de explorar medos primais. Ele destacou a personagem Erica Slaughter como uma heroína admirável na luta contra as criaturas sombrias.</p><p>James Tynion IV compartilhou sua empolgação com a parceria, afirmando que a Blumhouse é o parceiro ideal para dar vida ao universo que ele e Werther Dell'Edera criaram. Ele mencionou a experiência da Blumhouse em filmes de terror como um fator crucial para a escolha.</p><blockquote>“<em>Something is Killing the Children</em> é a HQ que mudou minha vida e carreira para sempre. Encontrar um parceiro que entendeu o potencial de Erica Slaughter e do mundo que Werther Dell’Edera e eu construímos foi crucial, e encontramos esse parceiro na Blumhouse. Ninguém entende de terror melhor que a Blumhouse, e mal posso esperar para o mundo ver o que planejamos juntos.”</blockquote><p>Atualmente, não há detalhes sobre a data de lançamento dos projetos. Stephen Christy, Tynion e Dell'Edera atuarão como produtores do filme, enquanto Blum produzirá. Ryan Turek e Shaun Sutton serão produtores executivos do longa. Para a série animada, Tynion e Dell'Edera também serão produtores executivos.</p>",
+      "meta_description": "Blumhouse adquire direitos de adaptação da HQ de terror \"Something Is Killing the Children\" para filme e série animada.",
+      "focus_keyphrase": "Something Is Killing the Children",
+      "related_keyphrases": [
+        "Blumhouse adaptação HQ",
+        "Erica Slaughter",
+        "James Tynion IV"
+      ],
+      "slug": "blumhouse-adquire-direitos-hq-terror",
+      "categorias": [
+        {
+          "nome": "Something Is Killing the Children",
+          "grupo": "franquias",
+          "evidence": "adaptação aclamada série de quadrinhos de terror Something Is Killing the Children"
+        },
+        {
+          "nome": "Blumhouse",
+          "grupo": "editorias",
+          "evidence": "Blumhouse, conhecida por seus filmes de terror"
+        }
+      ],
+      "tags_sugeridas": [
+        "Something Is Killing the Children",
+        "Blumhouse",
+        "James Tynion IV",
+        "Werther Dell'Edera",
+        "HQ de terror",
+        "Erica Slaughter"
+      ],
+      "image_alt_texts": {
+        "something-is-killing-the-children.jpg": "Arte da capa da HQ Something Is Killing the Children, com a personagem Erica Slaughter em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Blumhouse adquire direitos de adaptação de HQ de terror \"Something Is Killing the Children\"",
+        "_yoast_wpseo_metadesc": "Blumhouse adquire direitos de adaptação da HQ de terror \"Something Is Killing the Children\" para filme e série animada.",
+        "_yoast_wpseo_focuskw": "Something Is Killing the Children",
+        "_yoast_news_keywords": "Something Is Killing the Children, Blumhouse, James Tynion IV, Werther Dell'Edera, HQ de terror, Erica Slaughter",
+        "_yoast_wpseo_opengraph-title": "Blumhouse adquire direitos de adaptação de HQ de terror \"Something Is Killing the Children\"",
+        "_yoast_wpseo_opengraph-description": "Blumhouse adquire direitos de adaptação da HQ de terror \"Something Is Killing the Children\" para filme e série animada.",
+        "_yoast_wpseo_twitter-title": "Blumhouse adquire direitos de adaptação de HQ de terror \"Something Is Killing the Children\"",
+        "_yoast_wpseo_twitter-description": "Blumhouse adquire direitos de adaptação da HQ de terror \"Something Is Killing the Children\" para filme e série animada."
+      }
+    },
+    {
+      "titulo_final": "Filme de Invasão Alienígena \"Skyline\" chega ao Hulu em novembro",
+      "conteudo_final": "<p>O filme de ficção científica <b>Skyline</b>, lançado em 2010, ganhará uma nova casa no streaming. A produção, que gerou três sequências, estará disponível no serviço <b>Hulu</b> a partir de novembro.</p><h2>O Início da Franquia Skyline</h2><p>Dirigido pelos irmãos Greg Strause e Colin Strause, <em>Skyline</em> retrata uma invasão alienígena em Los Angeles. Apesar de ter sido mal recebido pela crítica, o filme alcançou sucesso moderado de bilheteria, arrecadando quase 70 milhões de dólares mundialmente com um orçamento de 10 milhões. A produção foi marcada pelo uso extensivo de efeitos visuais criados pela empresa dos próprios diretores, a Hydraulx.</p><p>O filme quase resultou em um processo contra os diretores por parte da Sony. A empresa de cinema estava desenvolvendo <em>Battle: Los Angeles</em>, um filme similar sobre invasão alienígena, e acreditava que os irmãos Strause poderiam ter utilizado assets criados para o projeto. No entanto, as partes chegaram a um acordo após a confirmação de que nenhum material de <em>Battle: Los Angeles</em> foi usado em <em>Skyline</em>.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/08/skyline.jpg\" alt=\"Pôster do filme Skyline.\"><figcaption>Pôster do filme Skyline.</figcaption></figure><h2>O Legado de Skyline</h2><p>O sucesso financeiro de <em>Skyline</em> abriu caminho para suas sequências: <em>Beyond Skyline</em> (com Frank Grillo), <em>Skylines</em> e, mais recentemente, <em>Skyline: Warpath</em>, descrito como uma aventura de artes marciais sci-fi. Contudo, a recepção crítica permaneceu majoritariamente negativa, com o filme original ostentando uma pontuação de apenas 15% no Rotten Tomatoes.</p><p>Apesar das críticas, <em>Skyline</em> é frequentemente comparado a filmes como <em>Ambulance</em>, de Michael Bay, devido a semelhanças temáticas e estilísticas. A chegada do filme ao Hulu permitirá que uma nova audiência descubra ou redescubra a franquia.</p>",
+      "meta_description": "O filme de invasão alienígena \"Skyline\" e suas sequências estarão disponíveis no Hulu a partir de novembro. Saiba mais sobre a franquia.",
+      "focus_keyphrase": "Skyline",
+      "related_keyphrases": [
+        "filme invasão alienígena",
+        "franquia Skyline",
+        "Hulu streaming"
+      ],
+      "slug": "skyline-filme-hulu-streaming",
+      "categorias": [
+        {
+          "nome": "Skyline",
+          "grupo": "franquias",
+          "evidence": "a quarta installment of the Skyline series"
+        },
+        {
+          "nome": "Hulu",
+          "grupo": "editorias",
+          "evidence": "Skyline is headed to the Hulu streaming service"
+        },
+        {
+          "nome": "Filmes de Invasão Alienígena",
+          "grupo": "obras",
+          "evidence": "alien invasion movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Skyline",
+        "Hulu",
+        "ficção científica",
+        "invasão alienígena",
+        "Greg Strause",
+        "Colin Strause"
+      ],
+      "image_alt_texts": {
+        "skyline.jpg": "Pôster do filme Skyline, mostrando naves alienígenas sobre a cidade.",
+        "skyline-movie-poster.jpg": "Pôster oficial do filme Skyline."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Filme de Invasão Alienígena \"Skyline\" chega ao Hulu em novembro",
+        "_yoast_wpseo_metadesc": "O filme de invasão alienígena \"Skyline\" e suas sequências estarão disponíveis no Hulu a partir de novembro. Saiba mais sobre a franquia.",
+        "_yoast_wpseo_focuskw": "Skyline",
+        "_yoast_news_keywords": "Skyline, Hulu, ficção científica, invasão alienígena, Greg Strause, Colin Strause, Michael Bay",
+        "_yoast_wpseo_opengraph-title": "Filme de Invasão Alienígena \"Skyline\" chega ao Hulu em novembro",
+        "_yoast_wpseo_opengraph-description": "O filme de invasão alienígena \"Skyline\" e suas sequências estarão disponíveis no Hulu a partir de novembro. Saiba mais sobre a franquia.",
+        "_yoast_wpseo_twitter-title": "Filme de Invasão Alienígena \"Skyline\" chega ao Hulu em novembro",
+        "_yoast_wpseo_twitter-description": "O filme de invasão alienígena \"Skyline\" e suas sequências estarão disponíveis no Hulu a partir de novembro. Saiba mais sobre a franquia."
+      }
+    },
+    {
+      "titulo_final": "Antonio Banderas em \"Genius\" na Disney+: Um Papel Fora do Comum",
+      "conteudo_final": "<p><b>Antonio Banderas</b> interpreta Pablo Picasso na segunda temporada de <b>Genius</b>, série antológica da Disney+ e National Geographic. O papel representa uma faceta surpreendente para o ator, conhecido por seus personagens carismáticos e heroicos.</p><h2>Genius: Uma Série Antológica</h2><p><em>Genius</em> explora a vida de figuras históricas e culturais de grande impacto. Após focar em Albert Einstein na primeira temporada, a segunda temporada mergulha na vida do icônico pintor <b>Pablo Picasso</b>, interpretado por Banderas. A série também abordou Aretha Franklin na terceira temporada e Martin Luther King Jr. e Malcolm X na quarta.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2020/03/Antonio-Banderas-in-Genius.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Antonio Banderas como Picasso e Samantha Colley como Dora na série Genius.\"><figcaption>Antonio Banderas como Picasso e Samantha Colley como Dora na série Genius.</figcaption></figure><h2>Um Novo Lado de Banderas</h2><p>Conhecido por papéis como Zorro e El Mariachi, Banderas frequentemente encarna heróis charmosos ou vilões sedutores. Em <em>Genius</em>, ele se distancia desses arquétipos para retratar Picasso com suas inseguranças e imaturidades. A atuação de Banderas é elogiada por sua sutileza e profundidade ao explorar as complexidades do artista, incluindo seu conflito com Henri Matisse e seus relacionamentos turbulentos.</p><p>A temporada foca nos momentos mais significativos da vida de Picasso, mostrando não apenas seu talento inquestionável, mas também suas vulnerabilidades e dilemas, como a crescente ameaça do fascismo na Europa.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/tcdgeni_ec015-1.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Dora e Picasso em cena da série Genius.\"><figcaption>Dora e Picasso em cena da série Genius.</figcaption></figure><h2>A Recepção de \"Genius\"</h2><p>A série <em>Genius</em> é reconhecida por suas representações historicamente precisas. A temporada de Picasso, embora às vezes percebida como superficial, oferece uma visão acessível da vida e obra do artista. A atuação de Banderas em particular tem sido destacada como um dos pontos altos, demonstrando sua versatilidade.</p><p>O elenco da temporada inclui também Alex Rich (Picasso jovem), Clémence Poésy (Françoise Gilot) e Samantha Colley (Dora Maar). A série, disponível no Disney+, oferece uma oportunidade única de ver Antonio Banderas em um papel que desafia suas personações mais conhecidas.</p>",
+      "meta_description": "Antonio Banderas surpreende como Pablo Picasso em \"Genius\" (Disney+), explorando um personagem complexo e distante de seus papéis habituais.",
+      "focus_keyphrase": "Antonio Banderas em Genius",
+      "related_keyphrases": [
+        "Antonio Banderas Pablo Picasso",
+        "série Genius Disney+",
+        "interpretação fora do comum"
+      ],
+      "slug": "antonio-banderas-genius-disney-plus",
+      "categorias": [
+        {
+          "nome": "Genius",
+          "grupo": "obras",
+          "evidence": "Antonio Banderas stars in Genius season 2"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "editorias",
+          "evidence": "biographical anthology series on Disney+"
+        },
+        {
+          "nome": "Antonio Banderas",
+          "grupo": "elenco",
+          "evidence": "Antonio Banderas stars in Genius season 2"
+        }
+      ],
+      "tags_sugeridas": [
+        "Antonio Banderas",
+        "Genius",
+        "Disney+",
+        "Pablo Picasso",
+        "série biográfica",
+        "National Geographic"
+      ],
+      "image_alt_texts": {
+        "Antonio-Banderas-in-Genius.jpg": "Antonio Banderas interpreta Pablo Picasso na série \"Genius\".",
+        "tcdgeni_ec015-1.jpg": "Cena de Antonio Banderas e Samantha Colley na série \"Genius\".",
+        "0346214_poster_w780.jpg": "Pôster da série \"Genius\" com Antonio Banderas como Pablo Picasso."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Antonio Banderas em \"Genius\" na Disney+: Um Papel Fora do Comum",
+        "_yoast_wpseo_metadesc": "Antonio Banderas surpreende como Pablo Picasso em \"Genius\" (Disney+), explorando um personagem complexo e distante de seus papéis habituais.",
+        "_yoast_wpseo_focuskw": "Antonio Banderas em Genius",
+        "_yoast_news_keywords": "Antonio Banderas, Genius, Disney+, Pablo Picasso, série biográfica, National Geographic, Geoffrey Rush",
+        "_yoast_wpseo_opengraph-title": "Antonio Banderas em \"Genius\" na Disney+: Um Papel Fora do Comum",
+        "_yoast_wpseo_opengraph-description": "Antonio Banderas surpreende como Pablo Picasso em \"Genius\" (Disney+), explorando um personagem complexo e distante de seus papéis habituais.",
+        "_yoast_wpseo_twitter-title": "Antonio Banderas em \"Genius\" na Disney+: Um Papel Fora do Comum",
+        "_yoast_wpseo_twitter-description": "Antonio Banderas surpreende como Pablo Picasso em \"Genius\" (Disney+), explorando um personagem complexo e distante de seus papéis habituais."
+      }
+    }
+  ]
+}

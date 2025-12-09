@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "James Garfield: Criadores Explicam Como Morte Por Raio Acertou Presidente",
+      "conteudo_final": "<p>Os criadores da série <em>Death by Lightning</em>, a autora Candice Millard e o showrunner Mike Makowsky, abordam a verdadeira causa da morte do Presidente James Garfield. A série retrata o assassinato de Garfield por Charles Guiteau, e como os médicos Bliss e Purvis falharam em salvar sua vida.</p><h2>A Falta de Segurança Presidencial</h2><p>Em entrevista à Netflix, Millard e Makowsky explicaram que, ironicamente, a esposa de Garfield desejava que ele contratasse segurança privada. O próprio presidente minimizava os riscos, comparando a ameaça de assassinato à de um raio, e afirmava que era melhor não se preocupar com ambos. A série <em>Death by Lightning</em> reflete essa mentalidade.</p><blockquote><p><strong>Mike Makowsky:</strong> A grande ironia foi que sua esposa queria que ele pagasse por segurança privada, e ele dispensava essa preocupação. Está na série: ‘O assassinato não pode ser mais evitado do que a morte por raio. E é melhor não se preocupar muito com nenhum dos dois.’</p><p><strong>Candice Millard:</strong> Levou até depois do assassinato de McKinley para que finalmente percebêssemos que precisamos proteger nossos presidentes.</p></blockquote><h2>Infecção Fatal Após o Tiro</h2><p>Embora o tiro disparado por Guiteau tenha sido o gatilho, a ferida em si não seria fatal pelos padrões médicos modernos. Contudo, a falta de crença em tratamentos antissépticos e a constante manipulação do ferimento resultaram em uma infecção fatal. O médico Charles Purvis alertou o Dr. Bliss sobre a necessidade de esterilizar a ferida, mas seu conselho foi ignorado.</p><blockquote><p><strong>Candice Millard:</strong> A bala entrou nas costas; não atingiu nenhum órgão vital, nem a medula espinhal. Isso foi logo após a Guerra Civil – há muitos homens andando por aí com balas neles. Na verdade, o homem que capturou Guiteau após ele atirar em Garfield tinha uma bala no cérebro e viveu assim por anos.</p><p><strong>Mike Makowsky:</strong> Naquela estação de trem, havia outro médico, Charles Purvis, que havia lido sobre a ciência médica mais recente vinda da Europa e advertiu Bliss contra não esterilizar sua sonda. E Bliss o dispensou. Bliss disse que não acreditava em monstros invisíveis, esses germes, e dispensou o médico mais jovem. No fim das contas, Guiteau pode ter disparado a bala, mas ele não é o assassino final de Garfield.</p></blockquote><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/president-james-a-garfield-gives-a-speech-in-death-by-lightning.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/president-james-a-garfield-gives-a-speech-in-death-by-lightning.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/> <source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/president-james-a-garfield-gives-a-speech-in-death-by-lightning.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/president-james-a-garfield-gives-a-speech-in-death-by-lightning.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/> <source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/president-james-a-garfield-gives-a-speech-in-death-by-lightning.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/president-james-a-garfield-gives-a-speech-in-death-by-lightning.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/> <img alt="Presidente James A. Garfield em discurso na série Death by Lightning" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/president-james-a-garfield-gives-a-speech-in-death-by-lightning.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/president-james-a-garfield-gives-a-speech-in-death-by-lightning.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/> </picture><figcaption>Presidente James A. Garfield em discurso na série Death by Lightning.</figcaption></figure><h2>Alexander Graham Bell e a Bala Perdida</h2><p>Outra figura presente em <em>Death by Lightning</em> que tentou ajudar Garfield foi Alexander Graham Bell. Bell acreditava que a bala ainda estava presa no corpo do presidente. No entanto, o médico-chefe descartou a ideia, o que, segundo os criadores, teria salvado a vida de Garfield se tivesse sido levado a sério.</p><h2>Legado da Tragédia</h2><p>O assassinato de James Garfield o tornou o presidente com o menor tempo de mandato na história dos Estados Unidos. Sua morte lenta e dolorosa é agravada pela negligência médica envolvida no caso. Após a morte de Garfield, Charles Guiteau foi a julgamento público, onde se representou e causou polêmica com seu comportamento, levantando debates sobre sua sanidade mental.</p><p>As explicações de Millard e Makowsky reforçam a precisão com que <em>Death by Lightning</em> retratou a morte de Garfield e suas consequências. A trágica realidade de seu fim foi um dos eventos que levaram à criação do Serviço Secreto e a melhores proteções para os presidentes, um pequeno raio de luz na escuridão de seu fim prematuro.</p>",
+      "meta_description": "A série Death by Lightning explora a morte do Presidente James Garfield. Criadores revelam como a negligência médica, e não apenas o tiro, causou sua fatalidade.",
+      "focus_keyphrase": "Morte de James Garfield",
+      "related_keyphrases": [
+        "Causa da morte de James Garfield",
+        "Presidente James Garfield assassinato",
+        "Série Death by Lightning"
+      ],
+      "slug": "death-by-lightning-james-garfield-morte",
+      "categorias": [
+        {
+          "nome": "Death by Lightning",
+          "grupo": "obras",
+          "evidence": "<em>Death by Lightning</em> book author Candice Millard and series creator Mike Makowsky address what really caused President James Garfield's death."
+        },
+        {
+          "nome": "James Garfield",
+          "grupo": "figuras_historicas",
+          "evidence": "President James Garfield's death."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Speaking with <em>Netflix</em> about Garfield's death"
+        }
+      ],
+      "tags_sugeridas": [
+        "James Garfield",
+        "Death by Lightning",
+        "Candice Millard",
+        "Mike Makowsky",
+        "Netflix",
+        "Assassinato Presidencial",
+        "História dos EUA"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "James Garfield: Criadores Explicam Como Morte Por Raio Acertou Presidente",
+        "_yoast_wpseo_metadesc": "A série Death by Lightning explora a morte do Presidente James Garfield. Criadores revelam como a negligência médica, e não apenas o tiro, causou sua fatalidade.",
+        "_yoast_wpseo_focuskw": "Morte de James Garfield",
+        "_yoast_news_keywords": "James Garfield, Death by Lightning, Candice Millard, Mike Makowsky, Netflix, Assassinato Presidencial, História dos EUA",
+        "_yoast_wpseo_opengraph-title": "James Garfield: Criadores Explicam Como Morte Por Raio Acertou Presidente",
+        "_yoast_wpseo_opengraph-description": "A série Death by Lightning explora a morte do Presidente James Garfield. Criadores revelam como a negligência médica, e não apenas o tiro, causou sua fatalidade.",
+        "_yoast_wpseo_twitter-title": "James Garfield: Criadores Explicam Como Morte Por Raio Acertou Presidente",
+        "_yoast_wpseo_twitter-description": "A série Death by Lightning explora a morte do Presidente James Garfield. Criadores revelam como a negligência médica, e não apenas o tiro, causou sua fatalidade."
+      }
+    }
+  ]
+}

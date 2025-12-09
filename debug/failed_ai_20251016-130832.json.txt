@@ -1,0 +1,119 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Marvel: Arte de fã imagina heróis que faltam em Vingadores: Guerra<!-- --> do Infinito",
+      "conteudo_final": "<p>Uma nova arte de fã está imaginando quais <b>heróis da Marvel</b> poderiam se juntar a <b>Vingadores: Guerra<!-- --> do Infinito</b>, com 10 nomes que todos adorariam ver de volta.</p><h2>Personagens icônicos em nova arte de fã</h2><p>Ao final de março de 2025, a Marvel Studios anunciou os primeiros 27 atores confirmados para <b>Vingadores: Guerra<!-- --> do Infinito</b>, o próximo grande evento crossover no Universo Cinematográfico Marvel (MCU) em sua Fase 6. Embora o elenco anunciado seja repleto de estrelas, há vários outros astros do MCU – e de outras franquias de filmes da Marvel – que gostaríamos de ver de volta em ação em Guerra<!-- --> do Infinito.</p><p>Antes de qualquer anúncio oficial, uma nova arte compartilhada por <b>@itoonofficial no Instagram</b> imaginou dez candidatos fantásticos. A arte sugere que Punisher (Jon Bernthal), Feiticeira Escarlate (Elizabeth Olsen), Tempestade (Halle Berry), o Homem-Aranha de Tobey Maguire, o Cavaleiro da Lua (Oscar Isaac), o Homem-Aranha de Tom Holland, Deadpool (Ryan Reynolds), Hulk (Mark Ruffalo), Jean Grey (Famke Janssen) e o Capitão<!-- --> HYDRA<!-- --> de Chris Evans poderiam aparecer em <b>Vingadores: Guerra<!-- --> do Infinito</b>. Esta é apenas uma seleção de estrelas do MCU que queremos ver retornar, mas seria um começo muito forte.</p><h2>Elenco de Vingadores: Guerra<!-- --> do Infinito</h2><p>Os atores atualmente confirmados para o elenco de <b>Vingadores: Guerra<!-- --> do Infinito</b> incluem membros da nova equipe Vingadores de Sam Wilson, os Novos Vingadores – anteriormente os Thunderbolts –, o Quarteto Fantástico da Terra 828, os X-Men da Terra 10005 e heróis que protegem Wakanda. Esses 26 heróis se unirão para lutar contra o Doutor<!-- --> Doom (Robert Downey Jr.), que causará estragos em todo o multiverso em Guerra<!-- --> do Infinito, talvez em um esforço para impedir incursões e salvar a realidade à sua maneira. Para deter uma ameaça tão massiva, Guerra<!-- --> do Infinito precisará do máximo de heróis possível.</p><p>Até o momento, nenhum membro dos Jovens Vingadores foi anunciado para Guerra<!-- --> do Infinito. Este seria o lugar perfeito para reunir Iman Vellani como Ms. Marvel, Hailee Steinfeld como Gaviã<!-- --> Arqueira<!-- -->, Kathryn Newton como Cassie Lang, Joe Locke como Wiccano, Ruaridh Mollica como Rapaz<!-- --> Velocidade<!-- -->, Riri Williams como Coração<!-- --> de Ferro, e mais pela primeira vez, então esperamos que essas jovens estrelas sejam escaladas. Vingadores adultos, incluindo Brie Larson como Capitã<!-- --> Marvel, Don Cheadle como Máquina<!-- --> de Combate, Paul Bettany como Visão, Jeremy Renner como Gaviã<!-- --> Arqueira<!-- -->, e mais, também poderiam ser incluídos, mas os personagens multiversais retornando são talvez os mais empolgantes.</p><p>Sete membros da equipe X-Men podem ter sido anunciados, mas nomes como Tempestade (Berry), Jean Grey (Janssen), Vampira (Anna Paquin), Homem<!-- --> de<!-- --> Gelo (Shawn Ashmore), Wolverine (Hugh Jackman), Deadpool (Reynolds) e inúmeros outros não foram mencionados. Se a Terra 10005 for revisitada em <b>Vingadores: Guerra<!-- --> do Infinito</b>, seria fantástico ver a equipe completa dos X-Men da antiga franquia da 20th Century Fox<!-- --> de volta à ação. Embora os dez personagens imaginados nesta arte de fã fossem um começo forte, queremos que a Marvel Studios realize outra cerimônia completa de cadeiras em breve.</p>",
+      "meta_description": "Arte de fã imagina 10 heróis icônicos que poderiam retornar em Vingadores: Guerra<!-- --> do Infinito, aumentando a expectativa para o futuro do MCU.",
+      "focus_keyphrase": "Vingadores: Guerra<!-- --> do Infinito",
+      "related_keyphrases": [
+        "Marvel Studios",
+        "Universo Cinematográfico Marvel",
+        "Heróis da Marvel"
+      ],
+      "slug": "vingadores-guerra-do-infinito-arte-fas",
+      "categorias": [
+        {
+          "nome": "Vingadores: Guerra<!-- --> do Infinito",
+          "grupo": "obras",
+          "evidence": "Avengers: Doomsday"
+        },
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        }
+      ],
+      "tags_sugeridas": [
+        "Marvel",
+        "MCU",
+        "Vingadores",
+        "Guerra<!-- --> do Infinito",
+        "Arte de fã"
+      ],
+      "image_alt_texts": {
+        "2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png": "Arte de fã com heróis da Marvel sentados em cadeiras de Vingadores: Guerra<!-- --> do Infinito.",
+        "3d3d1b54-cc83-49af-89c4-954180ea616a.png": "Montagem de personagens icônicos do MCU que podem aparecer em Vingadores: Guerra<!-- --> do Infinito.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Imagem genérica de fantasia.",
+        "p-l-a-y-s-t-a-t-i-o-n-p-l-u-s_a8f4ce.png": "Imagem genérica relacionada a jogos.",
+        "Attack-on-Titan.jpg": "Imagem genérica do anime Attack on Titan.",
+        "King-of-the-Hill-Hank-Angry.jpg": "Imagem genérica do personagem Hank Hill.",
+        "Robert-Downey-Jr.-with-the-Avengers-Doomsday-chairs.jpg": "Robert Downey Jr. em uma cadeira de Vingadores: Guerra<!-- --> do Infinito.",
+        "blazing-saddles-movie-streaming-prime-video.jpg": "Imagem genérica do filme Blazing Saddles.",
+        "this-is-us-streaming-free-tubi.jpg": "Imagem genérica da série This Is Us."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Marvel: Arte de fã imagina heróis que faltam em Vingadores: Guerra<!-- --> do Infinito",
+        "_yoast_wpseo_metadesc": "Arte de fã imagina 10 heróis icônicos que poderiam retornar em Vingadores: Guerra<!-- --> do Infinito, aumentando a expectativa para o futuro do MCU.",
+        "_yoast_wpseo_focuskw": "Vingadores: Guerra<!-- --> do Infinito",
+        "_yoast_news_keywords": "Marvel, MCU, Vingadores, Guerra<!-- --> do Infinito, Arte de fã, Jon Bernthal, Elizabeth Olsen, Halle Berry, Tobey Maguire, Oscar Isaac, Tom Holland, Ryan Reynolds, Mark Ruffalo, Famke Janssen, Chris Evans, Robert Downey Jr., Doutor<!-- --> Doom",
+        "_yoast_wpseo_opengraph-title": "Marvel: Arte de fã imagina heróis que faltam em Vingadores: Guerra<!-- --> do Infinito",
+        "_yoast_wpseo_opengraph-description": "Arte de fã imagina 10 heróis icônicos que poderiam retornar em Vingadores: Guerra<!-- --> do Infinito, aumentando a expectativa para o futuro do MCU.",
+        "_yoast_wpseo_twitter-title": "Marvel: Arte de fã imagina heróis que faltam em Vingadores: Guerra<!-- --> do Infinito",
+        "_yoast_wpseo_twitter-description": "Arte de fã imagina 10 heróis icônicos que poderiam retornar em Vingadores: Guerra<!-- --> do Infinito, aumentando a expectativa para o futuro do MCU."
+      }
+    },
+    {
+      "titulo_final": "Star Trek: 5 naves icônicas melhores que a Enterprise",
+      "conteudo_final": "<p>Para os fãs de <b>Star Trek</b>, a <b>Enterprise</b> é um símbolo sagrado da missão da Federação. Ao longo da franquia, várias versões da Enterprise cruzaram as constelações, desde a classe Constituição original NCC-1701 até vasos mais esotéricos como a misteriosa Enterprise-J. A Enterprise-E, classe Sovereign, foi até chamada de a nave mais avançada de seu tempo. Mas existem naves estelares no universo melhores que a Big E?</p><h2>Outras naves estelares icônicas de Star Trek</h2><p>“Melhor” é um termo relativo, é claro. Se superam a Enterprise em poder de fogo, resistência, velocidade ou computação, e se foram construídas pela Federação, nasceram alienígenas ou estão além de nossa compreensão de tecnologia Trek, as naves abaixo expandiram os limites do que uma nave estelar pode ser. Vasos icônicos que, de uma forma ou de outra, superam ou superam até mesmo a lendária Enterprise.</p><h2>5) USS Excelsior: A que mais durou</h2><p>A Excelsior foi inicialmente rotulada como o “grande experimento” da Starfleet, e Kirk a descartou como um banco de testes voador. No entanto, ao final de sua vida útil, ela sobreviveu a todas as Enterprises de sua época. Estreando em <b>Star Trek III: A Busca por Spock</b>, a classe Excelsior foi projetada como um protótipo para testar o motor transwarp. Quando o Capitão Hikaru Sulu assumiu o comando em <b>Star Trek VI: A Terra<!-- --> Desconhecida</b>, a Excelsior evoluiu de protótipo para potência, mantendo-se ao lado das naves mais avançadas da frota.</p><p>A classe Excelsior eventualmente se tornou a mais confiável da Starfleet, preenchendo a lacuna entre os séculos 23 e 24 e servindo como modelo para a próxima geração de naves. Ela sobreviveu através de eras, aparecendo em <b>Star Trek: A Nova Geração</b>, <b>Star Trek: Deep Space Nine</b> e além, servindo como a constante da Starfleet enquanto a linhagem Enterprise enfrentava uma catástrofe após a outra. Não é extravagante, mas sua longevidade, versatilidade e confiabilidade básica não podem ser subestimadas.</p><h2>4) USS Voyager: A Sobrevivente Solitária</h2><p>Onde a Enterprise explorava a galáxia com o apoio da Federação, a USS Voyager o fazia completamente sozinha. Perdida no Quadrante<!-- --> Delta<!-- -->, a 70.000 anos-luz de casa por sete anos, a Voyager enfrentou suas ameaças sem esperança de reforços. Ainda assim, sob o comando da Capitã Janeway em <b>Star Trek: Voyager</b>, ela se adaptou e sobreviveu. Seus bio-neural<!-- --> gel<!-- --> packs, sistemas modulares e motor<!-- --> warp<!-- --> aprimorado lhe deram uma vantagem tecnológica que até a classe Galaxy poderia invejar, enquanto sua tripulação resiliente a levou ao limite.</p><p>É fácil romantizar a missão de cinco anos da Enterprise, mas isso não se compara ao que a Voyager suportou. Ela lutou contra os Borgs, atravessou condutos transwarp, fez primeiro contato após primeiro contato, e ainda assim conseguiu retornar para casa intacta. A pura durabilidade e engenhosidade da nave a tornam, sem dúvida, a nave estelar mais resiliente na história de Trek. Se a Enterprise é o orgulho da Starfleet, a Voyager é sua perseverança.</p><h2>3) Borg Cube: Resistência é<!-- --> Inútil</h2><p>Para os Borgs, a Enterprise é um alvo inimigo. O Cubo<!-- --> Borg<!-- --> ainda é uma das naves mais formidáveis da franquia, estreando em <b>TNG</b> mas retornando para causar caos em <b>DS9</b>, <b>Voyager</b>, <b>Picard</b> e mais. Uma fortaleza massiva e autossustentável, o Cubo é capaz de regenerar e assimilar civilizações inteiras. Ao contrário da Enterprise, que dependia de uma tripulação, um Cubo funcionava como sua própria tripulação, com milhões de mentes trabalhando em sincronia.</p><p>O escudo adaptativo e a estrutura regenerativa do Cubo o tornam essencialmente indestrutível pelos meios usuais. Mesmo quando a Starfleet obteve uma vitória temporária, como visto em <b>The Best of Both Worlds</b> e <b>Star Trek: Primeiro<!-- --> Contato</b>, foi através de resolução criativa de problemas e sorte, em vez de poder de fogo. Em termos de poder bruto, escalabilidade e fator medo, o Cubo<!-- --> Borg<!-- --> ofusca qualquer coisa que leve o nome Enterprise. A ética pode ser questionável, mas suas especificações são difíceis de superar.</p><h2>2) USS Prometheus: Superioridade Tática</h2><p>Os fãs dizem que se a Enterprise é o coração da Starfleet, a Prometheus é seu punho. Introduzida em <b>Star Trek: Voyager</b>, projetada para operações táticas de espaço profundo, a Prometheus era uma nave de guerra de próxima geração com um recurso brilhante: Modo de Assalto<!-- --> Multi-Vetor<!-- -->. Isso permitia que ela se dividisse em três naves autônomas, cada uma capaz de ataques coordenados, com seu próprio núcleo<!-- --> warp<!-- -->, armas e sistemas de escudo, essencialmente triplicando sua eficiência de combate. Isso a tornou mais mortal em combate do que qualquer Enterprise jamais foi.</p><p>A Prometheus era tão avançada que até o programa EMH do Doutor<!-- --> ficou maravilhado com suas capacidades. Era mais rápida, mais forte e mais versátil que a Enterprise-E classe Sovereign, capaz de enfrentar frotas inteiras. Era mais rápida, mais forte e mais ágil do que qualquer coisa que a Starfleet já teve, com emissores<!-- --> holo<!-- --> avançados que poderiam permitir que um Holograma Médico de Emergência<!-- --> comandasse a ponte. Onde a Enterprise buscava a paz, a Prometheus foi construída para quando a paz falhava.</p><h2>1) V'Ger: A Nave Divina</h2><p>Antes dos Borgs, antes dos Q, existia V'Ger. Visto pela primeira vez em <b>Star Trek: O<!-- --> Filme<!-- --></b>, V'Ger era a forma evoluída da sonda Voyager 6 da NASA do século 20, descoberta e aprimorada por uma raça de máquinas vivas. O que emergiu foi uma entidade de 70 quilômetros de comprimento cercada por uma nuvem de energia tão vasta que podia engolir planetas. Virtualmente indestrutível e capaz de apagar naves, cidades e até mesmo dados, V'Ger se tornou uma inteligência divina, buscando seu criador, e no processo, quase destruindo a humanidade.</p><p>O poder de V'Ger supera a Enterprise em todos os sentidos. Ele podia escanear e apagar ameaças da existência, manipular matéria e energia, e eventualmente se fundir com uma consciência humana para transcender a forma física. Seu equivalente no Universo<!-- --> Espelhado<!-- -->, o Conqueror, dizia reescrever a própria realidade. É uma sorte que o Capitão Kirk e sua tripulação encontraram uma maneira de se comunicar em vez de lutar, porque contra V'Ger, até o orgulho e a alegria da Starfleet não teriam durado um segundo. Como o próprio Kirk disse uma vez: “Do que<!-- --> Deus<!-- --> precisa de uma nave<!-- --> estelar<!-- -->?”</p>",
+      "meta_description": "Descubra 5 naves icônicas de Star Trek que, em termos de poder, durabilidade ou inovação, superaram a lendária Enterprise.",
+      "focus_keyphrase": "Naves de Star Trek",
+      "related_keyphrases": [
+        "USS Enterprise",
+        "Star Trek",
+        "Starfleet"
+      ],
+      "slug": "naves-star-trek-melhores-enterprise",
+      "categorias": [
+        {
+          "nome": "Star Trek",
+          "grupo": "franquias",
+          "evidence": "Star Trek"
+        },
+        {
+          "nome": "USS Excelsior",
+          "grupo": "obras",
+          "evidence": "USS Excelsior"
+        },
+        {
+          "nome": "USS Voyager",
+          "grupo": "obras",
+          "evidence": "USS Voyager"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Trek",
+        "Enterprise",
+        "USS Excelsior",
+        "USS Voyager",
+        "Borg Cube",
+        "USS Prometheus",
+        "V'Ger"
+      ],
+      "image_alt_texts": {
+        "2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png": "Imagem genérica de arte de fã.",
+        "3d3d1b54-cc83-49af-89c4-954180ea616a.png": "Montagem de personagens icônicos.",
+        "2772c652-12db-4ecd-a05e-4a4f2c56fe5c.jpg": "Nave estelar USS Excelsior de Star Trek.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Imagem genérica de fantasia.",
+        "p-l-a-y-s-t-a-t-i-o-n-p-l-u-s_a8f4ce.png": "Imagem genérica relacionada a jogos.",
+        "Attack-on-Titan.jpg": "Imagem genérica do anime Attack on Titan.",
+        "King-of-the-Hill-Hank-Angry.jpg": "Imagem genérica do personagem Hank Hill.",
+        "Star-Trek-USS-Excelsior.jpg": "Nave estelar USS Excelsior em Star Trek.",
+        "Star-Trek-USS-Prometheus.jpg": "Nave estelar USS Prometheus em Star Trek.",
+        "Star-Trek-USS-Voyager.jpg": "Nave estelar USS Voyager em Star Trek.",
+        "Star-Trek-VGer-1.jpg": "Entidade V'Ger de Star Trek.",
+        "blazing-saddles-movie-streaming-prime-video.jpg": "Imagem genérica do filme Blazing Saddles.",
+        "this-is-us-streaming-free-tubi.jpg": "Imagem genérica da série This Is Us."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Trek: 5 naves icônicas melhores que a Enterprise",
+        "_yoast_wpseo_metadesc": "Descubra 5 naves icônicas de Star Trek que, em termos de poder, durabilidade ou inovação, superaram a lendária Enterprise.",
+        "_yoast_wpseo_focuskw": "Naves de Star Trek",
+        "_yoast_news_keywords": "Star Trek, Enterprise, USS Excelsior, USS Voyager, Borg Cube, USS Prometheus, V'Ger, Starfleet",
+        "_yoast_wpseo_opengraph-title": "Star Trek: 5 naves icônicas melhores que a Enterprise",
+        "_yoast_wpseo_opengraph-description": "Descubra 5 naves icônicas de Star Trek que, em termos de poder, durabilidade ou inovação, superaram a lendária Enterprise.",
+        "_yoast_wpseo_twitter-title": "Star Trek: 5 naves icônicas melhores que a Enterprise",
+        "_yoast_wpseo_twitter-description": "Descubra 5 naves icônicas de Star Trek que, em termos de poder, durabilidade ou inovação, superaram a lendária Enterprise."
+      }
+    }
+  ]
+}

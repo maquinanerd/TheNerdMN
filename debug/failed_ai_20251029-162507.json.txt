@@ -1,0 +1,45 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "High Potential: Showrunner dá pistas sobre homem misterioso no final da 2ª temporada",
+      "conteudo_final": "<p>O showrunner de <strong><em>High Potential</em></strong>, Todd Harthan, deu novas informações sobre a identidade do misterioso homem que apareceu no final da segunda temporada, episódio 7, e como isso afetará a trama futura. No episódio, Oz e Daphne investigavam pistas na mochila de Roman, que indicavam que ele ainda observava Morgan e seus filhos após anos desaparecido.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Showrunner de High Potential, Todd Harthan, dá pistas sobre o homem misterioso no cliffhanger da 2ª temporada e seu impacto na trama.",
+      "focus_keyphrase": "High Potential homem misterioso",
+      "related_keyphrases": [
+        "High Potential temporada 2",
+        "Todd Harthan entrevista",
+        "misterioso homem High Potential"
+      ],
+      "slug": "high-potential-homem-misterioso-temporada-2",
+      "categorias": [
+        {
+          "nome": "High Potential",
+          "grupo": "obras",
+          "evidence": "<strong><em>High Potential</em></strong> showrunner Todd Harthan has teased who that man in season 2, episode 7's cliffhanger ending is"
+        }
+      ],
+      "tags_sugeridas": [
+        "High Potential",
+        "Todd Harthan",
+        "Kaitlin Olson",
+        "Misterio",
+        "Suspense",
+        "Series de TV"
+      ],
+      "image_alt_texts": {
+        "kaitlin-olson-as-morgan-gillory-in-high-potential.jpg": "Kaitlin Olson como Morgan Gillory, em uma cena da série High Potential.",
+        "high-potential-2024.jpg": "Pôster oficial da série High Potential."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "High Potential: Showrunner dá pistas sobre homem misterioso na 2ª temporada",
+        "_yoast_wpseo_metadesc": "O showrunner de High Potential, Todd Harthan, revela detalhes sobre o homem misterioso no cliffhanger da 2ª temporada e seu papel na trama.",
+        "_yoast_wpseo_focuskw": "High Potential homem misterioso",
+        "_yoast_news_keywords": "High Potential, Todd Harthan, Kaitlin Olson, Morgan Gillory, Misterio, Series de TV",
+        "_yoast_wpseo_opengraph-title": "High Potential: Showrunner dá pistas sobre homem misterioso na 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Todd Harthan, showrunner de High Potential, adiantou detalhes sobre o cliffhanger da 2ª temporada, envolvendo um homem misterioso e seu impacto na trama.",
+        "_yoast_wpseo_twitter-title": "High Potential: Showrunner dá pistas sobre homem misterioso na 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Todd Harthan, showrunner de High Potential, adiantou detalhes sobre o cliffhanger da 2ª temporada, envolvendo um homem misterioso e seu impacto na trama."
+      }
+    }
+  ]
+}

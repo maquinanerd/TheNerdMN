@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Bura: O Jogo Indie no Steam Inspirado em Studio Ghibli e Zelda",
+  "conteudo_final": "<p>O novo jogo de aventura aconchegante, <b>Bura: The Way the Wind Blows</b>, encontra inspiração artística e narrativa no clássico catálogo de filmes do <b>Studio Ghibli</b>, misturando cuidadosamente as mecânicas de exploração imersiva de <b>Breath of the Wild</b>. Atualmente promovido como parte da celebração de Jogos da Croácia no Steam, o jogo oferece uma demonstração gratuita jogável e um preço com desconto para celebrar seu lançamento oficial.</p>\n<p>Tem havido uma infinidade de <b>jogos inspirados em Studio Ghibli</b>, com o renomado estúdio de animação japonês conquistando aclamação por seus deslumbrantes filmes desenhados à mão, apresentando histórias emocionantes de amizade e crescimento, juntamente com trilhas sonoras memoráveis. Embora a franquia <b>The Legend of Zelda</b> tenha sido frequentemente comparada aos filmes do Studio Ghibli, Bura: The Way the Wind Blows combina diretamente o melhor de ambas as franquias em uma nova e adorável jornada.</p>\n<h2>Bura: The Way the Wind Blows Une os Melhores de Ghibli e Zelda</h2>\n<p> <b>Bura: The Way the Wind Blows</b> é divulgado como um jogo de aventura aconchegante onde os jogadores podem explorar a costa do Adriático e aprender sobre o folclore croata e mediterrâneo através de interações charmosas e descobertas cativantes. Os jogadores serão guiados por um companheiro espiritual que ajudará a desbloquear habilidades únicas enquanto descobrem monumentos e tradições culturais perdidas. Seguindo a história de uma jovem em uma pequena vila, os jogadores poderão atravessar terra, mar e céu, pulando, nadando e planando, criando uma experiência semelhante a jogos como <b>Breath of the Wild</b> e outros títulos focados em exploração. Bura: The Way the Wind Blows foi lançado para PC via Steam em 27 de outubro e oferece uma demonstração gratuita jogável e um desconto de 10% até 10 de novembro.</p>\n<p>Ao contrário da franquia <b>The Legend of Zelda</b>, <b>Bura: The Way the Wind Blows</b> não apresenta combate ou situações estressantes, incentivando os jogadores a progredir em seu próprio ritmo, apreciar os arredores deslumbrantes e aproveitar ao máximo sua aventura mágica. Os jogadores poderão vivenciar lendas reais ganharem vida ao encontrar criaturas mitológicas, desfrutar de minijogos aconchegantes e superar os desafios da vida em um mundo de fantasia em <b>Bura: The Way the Wind Blows</b>.</p>\n<p>O público continua a expressar apreço por <b>jogos aconchegantes no Steam</b> e em outras plataformas, com sucessos como Stardew Valley e lançamentos mais recentes como Bura: The Way the Wind Blows introduzindo contos pitorescos e personagens saudáveis com um toque de magia. Jogadores interessados podem acompanhar atualizações sobre outros jogos com estética e mecânicas do Studio Ghibli, como Breath of the Wild, além de mais do gênero aconchegante.</p>\n<figure class=\"video-container\"><img src=\"https:
+  "meta_description": "Bura: The Way the Wind Blows, novo jogo indie no Steam, combina o estilo visual do Studio Ghibli com a exploração de Breath of the Wild.",
+  "focus_keyphrase": "Bura The Way the Wind Blows",
+  "related_keyphrases": [
+    "jogos Studio Ghibli Steam",
+    "jogos como Breath of the Wild",
+    "aventura aconchegante indie"
+  ],
+  "slug": "bura-jogo-studio-ghibli-zelda-steam",
+  "categorias": [
+    {
+      "nome": "Bura: The Way the Wind Blows",
+      "grupo": "obras",
+      "evidence": "Bura: The Way the Wind Blows"
+    },
+    {
+      "nome": "Studio Ghibli",
+      "grupo": "franquias",
+      "evidence": "Studio Ghibli"
+    },
+    {
+      "nome": "The Legend of Zelda",
+      "grupo": "franquias",
+      "evidence": "The Legend of Zelda"
+    }
+  ],
+  "tags_sugeridas": [
+    "Bura The Way the Wind Blows",
+    "Studio Ghibli",
+    "The Legend of Zelda",
+    "Breath of the Wild",
+    "Steam",
+    "jogos indie",
+    "aventura aconchegante"
+  ],
+  "image_alt_texts": {
+    "zelda-breath-of-the-wild-cove.jpg": "Capa do jogo The Legend of Zelda: Breath of the Wild.",
+    "bura-the-way-the-wind-blows-gameplay-gliding.jpg": "Personagem planando no jogo Bura: The Way the Wind Blows."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Bura: O Jogo Indie no Steam Inspirado em Studio Ghibli e Zelda | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Bura: The Way the Wind Blows, novo jogo indie no Steam, combina o estilo visual do Studio Ghibli com a exploração de Breath of the Wild.",
+    "_yoast_wpseo_focuskw": "Bura The Way the Wind Blows",
+    "_yoast_news_keywords": "Bura The Way the Wind Blows, Studio Ghibli, The Legend of Zelda, Breath of the Wild, Steam, jogos indie, aventura aconchegante",
+    "_yoast_wpseo_opengraph-title": "Bura: O Jogo Indie no Steam Inspirado em Studio Ghibli e Zelda",
+    "_yoast_wpseo_opengraph-description": "Bura: The Way the Wind Blows, novo jogo indie no Steam, combina o estilo visual do Studio Ghibli com a exploração de Breath of the Wild.",
+    "_yoast_wpseo_twitter-title": "Bura: O Jogo Indie no Steam Inspirado em Studio Ghibli e Zelda",
+    "_yoast_wpseo_twitter-description": "Bura: The Way the Wind Blows, novo jogo indie no Steam, combina o estilo visual do Studio Ghibli com a exploração de Breath of the Wild."
+  }
+}

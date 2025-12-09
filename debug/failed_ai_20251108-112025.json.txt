@@ -1,0 +1,130 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "HBO adota nova estratégia de produção após sucesso de 'The Pitt'",
+      "conteudo_final": "<p>A <b>HBO</b> está mudando sua abordagem na produção de conteúdo original após o grande sucesso de <em><strong>The Pitt</strong></em>. O drama médico de 15 episódios alcançou enorme popularidade desde seu lançamento no início do ano, e a emissora busca replicar essa fórmula em futuros projetos.</p><p>A nova estrutura de produção da HBO se assemelha à de <em>The Pitt</em>, com temporadas de 15 episódios, lançamento anual e um orçamento considerado modesto. Essa estratégia já está em andamento com a aprovação de duas novas séries: o drama policial <em><strong>American Blue</strong></em>, do showrunner de <em>Supernatural</em>, Jeremy Carver, e o drama familiar <em><strong>How To Survive Without Me</strong></em> (título provisório).</p><p>Sarah Aubrey, Head de Originais da HBO Max, explicou que o novo modelo visa preencher uma lacuna no mercado de streaming, onde faltam séries com mais de 15 episódios que retornam anualmente. Ela destacou que o público se conectou com <em>The Pitt</em> pela qualidade da história e pela oportunidade de comentar a série ao longo de seus episódios, atraindo mais espectadores.</p><blockquote><p>\"Interessantemente, o que <em>The Pitt</em> fez, de forma incomum e empolgante, foi engajar nosso público principal de prestígio, mas também atrair espectadores que normalmente buscavam filmes ou nosso acervo. Eles se prenderam à série. Devido aos 15 episódios e ao tempo para que o boca a boca sobre a qualidade da série se espalhasse, conquistamos todos no final. Essa amplitude de público com esses tipos de séries é importante para nós e para nosso modelo de negócios.\"</p></blockquote><h2>O que tornou 'The Pitt' um sucesso?</h2><p><em>The Pitt</em> é um drama médico que acompanha um plantão exaustivo de 15 horas na sala de emergência do Pittsburgh Trauma Medical Center. A série se diferencia por apresentar toda a primeira temporada em um único turno de 15 horas, mostrando as complexidades e desafios enfrentados em um hospital movimentado.</p><p>Desde seu lançamento, <em>The Pitt</em> foi aclamado por fãs e críticos, com pontuações de 95% entre críticos e 87% entre o público no Rotten Tomatoes. A série também foi elogiada pela comunidade médica americana por sua representação precisa do sistema de saúde do país, contando com a consultoria de médicos em todos os níveis de produção.</p><p><em>The Pitt</em> está disponível para streaming na HBO Max. A segunda temporada tem estreia prevista para 8 de janeiro de 2026.</p>",
+      "meta_description": "HBO muda estratégia de produção após sucesso de 'The Pitt', focando em dramas com temporadas de 15 episódios e lançamento anual.",
+      "focus_keyphrase": "HBO nova estratégia de produção The Pitt",
+      "related_keyphrases": [
+        "HBO The Pitt sucesso",
+        "produção de séries HBO",
+        "drama médico The Pitt"
+      ],
+      "slug": "hbo-nova-estrategia-producao-the-pitt",
+      "categorias": [
+        {
+          "nome": "The Pitt",
+          "grupo": "obras",
+          "evidence": "The Pitt's Emmy sweep"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "plataformas",
+          "evidence": "HBO is changing how it produces its original content"
+        }
+      ],
+      "tags_sugeridas": [
+        "HBO",
+        "The Pitt",
+        "drama médico",
+        "produção de séries",
+        "HBO Max"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "HBO adota nova estratégia de produção após sucesso de 'The Pitt'",
+        "_yoast_wpseo_metadesc": "HBO muda estratégia de produção após sucesso de 'The Pitt', focando em dramas com temporadas de 15 episódios e lançamento anual.",
+        "_yoast_wpseo_focuskw": "HBO nova estratégia de produção The Pitt",
+        "_yoast_news_keywords": "HBO, The Pitt, drama médico, produção de séries, HBO Max, estratégia de produção",
+        "_yoast_wpseo_opengraph-title": "HBO adota nova estratégia de produção após sucesso de 'The Pitt'",
+        "_yoast_wpseo_opengraph-description": "HBO muda estratégia de produção após sucesso de 'The Pitt', focando em dramas com temporadas de 15 episódios e lançamento anual.",
+        "_yoast_wpseo_twitter-title": "HBO adota nova estratégia de produção após sucesso de 'The Pitt'",
+        "_yoast_wpseo_twitter-description": "HBO muda estratégia de produção após sucesso de 'The Pitt', focando em dramas com temporadas de 15 episódios e lançamento anual."
+      }
+    },
+    {
+      "titulo_final": "Gachiakuta: anime de fantasia sombria volta ao topo do streaming",
+      "conteudo_final": "<p>O anime de fantasia sombria mais comentado do ano, <em><strong>Gachiakuta</strong></em>, recuperou a liderança nos rankings de streaming. Quatro meses após sua estreia no Japão e na <b>Crunchyroll</b>, a série conquistou os fãs e se manteve entre os animes mais populares da plataforma.</p><p>Há cerca de dois dias, <em>Gachiakuta</em> voltou a ocupar o primeiro lugar nas paradas de streaming dos EUA, tornando-se o anime #1 na Crunchyroll. Atualmente, a série distópica está em segundo lugar, atrás de <em>My Status as an Assassin Obviously Exceeds the Hero's</em>. No entanto, <em>Gachiakuta</em> superou títulos como <em>Jujutsu Kaisen</em>, <em>My Hero Academia</em>, <em>Solo Leveling</em> e <em>One Piece</em>.</p><p>Globalmente, <em>Gachiakuta</em> ocupa a quarta posição no ranking da Crunchyroll, acima de <em>Solo Leveling</em>, e também tem ganhado atenção no Reino Unido e Alemanha, além de estar disponível no Prime Video no Japão e na Netflix nas Filipinas.</p><h2>'Gachiakuta' confirma atraso no lançamento do dub em inglês</h2><p>Produzido pela Bones Film e dirigido por Fumihiko Suganuma, <em>Gachiakuta</em> estreou em 6 de julho de 2025, com 17 episódios exibidos até o momento. A série retornou para seu segundo cour em 12 de outubro de 2025, com o episódio 14 intitulado \"The Storm Before the Storm\". Na época, foi anunciado que o lançamento do dub em inglês atrasaria duas semanas após cada episódio.</p><p>Com o segundo cour em andamento, as vozes incluem Maria Naganawa como Guita, Mutsumi Tamura como Noerde, Hiro Shimono como Fu e Akio Otsuka como Bundus. O tema de abertura foi alterado para \"LET'S JUST CRASH\" por Mori Calliope, e o novo encerramento é \"BAN\" por karanoah. Hiroshi Seko é o roteirista, Satoshi Ishino o designer de personagens e diretor de animação chefe, e Taku Iwasaki compõe a trilha sonora.</p><p><em>Gachiakuta</em> está em streaming na Crunchyroll.</p>",
+      "meta_description": "Anime de fantasia sombria Gachiakuta volta ao topo do streaming nos EUA, superando Jujutsu Kaisen e My Hero Academia na Crunchyroll.",
+      "focus_keyphrase": "Gachiakuta anime streaming",
+      "related_keyphrases": [
+        "Gachiakuta Crunchyroll",
+        "anime fantasia sombria",
+        "ranking animes streaming"
+      ],
+      "slug": "gachiakuta-anime-streaming-top",
+      "categorias": [
+        {
+          "nome": "Gachiakuta",
+          "grupo": "obras",
+          "evidence": "Titled Gachiakuta, it's been four months since the hit series debuted"
+        },
+        {
+          "nome": "Crunchyroll",
+          "grupo": "plataformas",
+          "evidence": "and on Crunchyroll domestically"
+        }
+      ],
+      "tags_sugeridas": [
+        "Gachiakuta",
+        "Crunchyroll",
+        "anime",
+        "fantasia sombria",
+        "streaming"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Gachiakuta: anime de fantasia sombria volta ao topo do streaming",
+        "_yoast_wpseo_metadesc": "Anime de fantasia sombria Gachiakuta volta ao topo do streaming nos EUA, superando Jujutsu Kaisen e My Hero Academia na Crunchyroll.",
+        "_yoast_wpseo_focuskw": "Gachiakuta anime streaming",
+        "_yoast_news_keywords": "Gachiakuta, Crunchyroll, anime, fantasia sombria, streaming, Jujutsu Kaisen, My Hero Academia",
+        "_yoast_wpseo_opengraph-title": "Gachiakuta: anime de fantasia sombria volta ao topo do streaming",
+        "_yoast_wpseo_opengraph-description": "Anime de fantasia sombria Gachiakuta volta ao topo do streaming nos EUA, superando Jujutsu Kaisen e My Hero Academia na Crunchyroll.",
+        "_yoast_wpseo_twitter-title": "Gachiakuta: anime de fantasia sombria volta ao topo do streaming",
+        "_yoast_wpseo_twitter-description": "Anime de fantasia sombria Gachiakuta volta ao topo do streaming nos EUA, superando Jujutsu Kaisen e My Hero Academia na Crunchyroll."
+      }
+    },
+    {
+      "titulo_final": "Disney Twisted-Wonderland: série animada é sucesso global no Disney+",
+      "conteudo_final": "<p>Cinco anos após o lançamento do jogo, a versão animada de <em><strong>Disney Twisted-Wonderland: The Animation</strong></em> chegou ao <b>Disney+</b> e já se tornou um sucesso de streaming. A primeira temporada conta com oito episódios, e os dois primeiros foram lançados na plataforma em 29 de outubro de 2025.</p><p><em>Disney Twisted-Wonderland: The Animation</em> alcançou a 10ª posição entre os programas de TV mais populares do Disney+ em 4 de novembro de 2025, logo abaixo de <em>Bluey</em>. Os episódios iniciais apresentam Yuken Enma, que é transportado para a Night Raven College, uma academia de elite onde os alunos aprendem a aprimorar suas habilidades mágicas. A série se inspira nos vilões icônicos da Disney, com a primeira temporada baseada na Rainha de Copas de <em>Alice no País das Maravilhas</em>.</p><p>A série está prevista para três temporadas, com a primeira intitulada \"Episode of Heartslabyul\", seguida por \"Episode of Savanaclaw\" e \"Episode of Octavinelle\". O universo de <em>Twisted Wonderland</em> começou como um jogo mobile lançado no Japão em 2020 e na América do Norte em 2022, com sete capítulos e um prólogo que exploram as casas e seus diretores na Night Raven College. Uma adaptação em mangá foi lançada em 2021.</p><h2>Outras séries inspiradas em personagens da Disney</h2><p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/R6K9xUt-EvQ\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure></p><p><em>Disney Twisted-Wonderland: The Animation</em> não é a única produção do Disney+ com personagens inspirados em vilões da Disney. Os filmes <em><strong>The Descendants</strong></em> exploram os filhos de vilões famosos da Disney, enquanto a série <em><strong>Once Upon a Time</strong></em>, exibida de 2011 a 2018, reimaginou contos de fadas com personagens clássicos transportados para um mundo sem magia.</p><p>Assim como <em>Twisted Wonderland</em>, alguns vilões em <em>Once Upon a Time</em> demonstram complexidade moral, aprendendo gradualmente sobre o bem. Os primeiros dois episódios de <em>Disney Twisted-Wonderland: The Animation</em> estão disponíveis para streaming no Disney+.</p>",
+      "meta_description": "Série animada Disney Twisted-Wonderland estreia no Disney+ e se torna sucesso global, inspirada em vilões clássicos da Disney.",
+      "focus_keyphrase": "Disney Twisted-Wonderland série animada",
+      "related_keyphrases": [
+        "Disney Twisted-Wonderland Disney+",
+        "anime inspirado em vilões Disney",
+        "sucesso streaming Disney+"
+      ],
+      "slug": "disney-twisted-wonderland-serie-sucesso",
+      "categorias": [
+        {
+          "nome": "Disney Twisted-Wonderland",
+          "grupo": "obras",
+          "evidence": "Disney Twisted-Wonderland: The Animation"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "has arrived on Disney+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Disney Twisted-Wonderland",
+        "Disney+",
+        "anime",
+        "vilões Disney",
+        "streaming"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Disney Twisted-Wonderland: série animada é sucesso global no Disney+",
+        "_yoast_wpseo_metadesc": "Série animada Disney Twisted-Wonderland estreia no Disney+ e se torna sucesso global, inspirada em vilões clássicos da Disney.",
+        "_yoast_wpseo_focuskw": "Disney Twisted-Wonderland série animada",
+        "_yoast_news_keywords": "Disney Twisted-Wonderland, Disney+, anime, vilões Disney, streaming, The Descendants, Once Upon a Time",
+        "_yoast_wpseo_opengraph-title": "Disney Twisted-Wonderland: série animada é sucesso global no Disney+",
+        "_yoast_wpseo_opengraph-description": "Série animada Disney Twisted-Wonderland estreia no Disney+ e se torna sucesso global, inspirada em vilões clássicos da Disney.",
+        "_yoast_wpseo_twitter-title": "Disney Twisted-Wonderland: série animada é sucesso global no Disney+",
+        "_yoast_wpseo_twitter-description": "Série animada Disney Twisted-Wonderland estreia no Disney+ e se torna sucesso global, inspirada em vilões clássicos da Disney."
+      }
+    }
+  ]
+}

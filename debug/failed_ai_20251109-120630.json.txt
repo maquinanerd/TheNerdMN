@@ -1,0 +1,108 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Murderbot 2: Sequência da série de ficção científica da Apple TV+ empolga fãs",
+      "conteudo_final": "<p>A ficção científica para a TV tem um futuro promissor, com diversas adaptações de livros aclamados a caminho. Entre elas, está a segunda temporada de <strong>Murderbot</strong>, série da Apple TV+ baseada em <em>The Murderbot Diaries</em>, de Martha Wells. A expectativa é alta, pois a continuação promete explorar novas histórias e aprofundar o desenvolvimento do protagonista.</p><h2>Murderbot: A maior empolgação para a ficção científica</h2><div class=\"body-img landscape\"><figure><picture><source media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/murderbot-season-1-ep-8-18.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/murderbot-season-1-ep-8-18.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/murderbot-season-1-ep-8-18.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/><img alt=\"A equipe olhando pela janela em Murderbot Temporada 1 Episódio 8\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/murderbot-season-1-ep-8-18.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" decoding=\"async\" height=\"413\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/murderbot-season-1-ep-8-18.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" width=\"825\"/></picture><figcaption>O protagonista Murderbot em cena da primeira temporada.</figcaption></figure></div><p>A primeira temporada de <em>Murderbot</em>, lançada em 2025, foi aclamada por sua fidelidade ao material original, humor e a atuação de Alexander Skarsgård como SecUnit. A expectativa para a segunda temporada é ainda maior, pois as obras literárias que servirão de base trazem mais desenvolvimento para o personagem, aumentam as apostas e aprofundam a narrativa central.</p><h2>Pontos a serem aprimorados em Murderbot Temporada 2</h2><div class=\"body-img landscape\"><figure><picture><source media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/murderbot-season-1-ep-9-23.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/murderbot-season-1-ep-9-23.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/murderbot-season-1-ep-9-23.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/><img alt=\"Murderbot (Alexander Skarsgård) ferido em Murderbot Temporada 1 Episódio 9\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/murderbot-season-1-ep-9-23.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" decoding=\"async\" height=\"413\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/murderbot-season-1-ep-9-23.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" width=\"825\"/></picture><figcaption>SecUnit em momento de fragilidade na série.</figcaption></figure></div><p>Apesar do entusiasmo, a produção de <em>Murderbot</em> temporada 2 enfrenta desafios. A adaptação precisará remanejar os livros para manter o elenco principal, já que os personagens humanos secundários não aparecem nas obras subsequentes. Além disso, a série precisa desenvolver um estilo visual mais marcante, distanciando-se dos tons neutros da primeira temporada, e aprofundar a dramaticidade para refletir as nuances das histórias originais.</p><h2>O potencial de Murderbot para se tornar uma série de destaque</h2><p>Superar esses obstáculos é crucial para que <em>Murderbot</em> alcance todo o seu potencial. Se a série conseguir refinar seu tom e visual, tem a chance de se consolidar como uma das adaptações mais fiéis e cativantes do gênero. A segunda temporada representa uma oportunidade valiosa para a série evoluir e se tornar não apenas boa, mas excelente, digna do legado de Martha Wells.</p><p>A série adapta a saga literária composta por:</p>
+<div class="table-container">
+<table summary="" align="" border="1" cellpadding="1" cellspacing="1" style="">
+<thead>
+<tr>
+<th scope="col">Ordem de Leitura</th>
+<th scope="col">Título</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Obsolescence</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Compulsory</td>
+</tr>
+<tr>
+<td>3</td>
+<td>All Systems Red</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Artificial Condition</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Rogue Protocol</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Exit Strategy</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Home: Habitat, Range, Niche, Territory</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Fugitive Telemetry</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Network Effect</td>
+</tr>
+<tr>
+<td>10</td>
+<td>System Collapse</td>
+</tr>
+</tbody>
+</table>
+</div>",
+      "meta_description": "Saiba tudo sobre a aguardada segunda temporada de Murderbot na Apple TV+. Descubra as expectativas, desafios e o potencial da série baseada nos livros de Martha Wells.",
+      "focus_keyphrase": "Murderbot temporada 2",
+      "related_keyphrases": [
+        "série Murderbot Apple TV+",
+        "adaptação Martha Wells",
+        "ficção científica TV"
+      ],
+      "slug": "murderbot-temporada-2-expectativas",
+      "categorias": [
+        {
+          "nome": "Murderbot",
+          "grupo": "franquias",
+          "evidence": "<em><strong>Murderbot</strong></em> season 2"
+        },
+        {
+          "nome": "Apple TV+",
+          "grupo": "plataformas",
+          "evidence": "Apple TV+'s take on <em>Neuromancer</em>"
+        },
+        {
+          "nome": "The Murderbot Diaries",
+          "grupo": "obras",
+          "evidence": "<em>The Murderbot Diaries</em> by Martha Wells"
+        }
+      ],
+      "tags_sugeridas": [
+        "Murderbot",
+        "Martha Wells",
+        "Apple TV+",
+        "ficção científica",
+        "série",
+        "SecUnit",
+        "Alexander Skarsgård"
+      ],
+      "image_alt_texts": {
+        "murderbot-season-1-ep-8-18.jpg": "Cena da primeira temporada de Murderbot, com a equipe reunida.",
+        "murderbot-season-1-ep-9-23.jpg": "O protagonista Murderbot (Alexander Skarsgård) ferido em uma cena da série."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Murderbot 2: Sequência da série de ficção científica da Apple TV+ empolga fãs",
+        "_yoast_wpseo_metadesc": "Saiba tudo sobre a aguardada segunda temporada de Murderbot na Apple TV+. Descubra as expectativas, desafios e o potencial da série baseada nos livros de Martha Wells.",
+        "_yoast_wpseo_focuskw": "Murderbot temporada 2",
+        "_yoast_news_keywords": "Murderbot, Martha Wells, Apple TV+, ficção científica, série, SecUnit, Alexander Skarsgård, The Murderbot Diaries",
+        "_yoast_wpseo_opengraph-title": "Murderbot 2: Sequência da série de ficção científica da Apple TV+ empolga fãs",
+        "_yoast_wpseo_opengraph-description": "Saiba tudo sobre a aguardada segunda temporada de Murderbot na Apple TV+. Descubra as expectativas, desafios e o potencial da série baseada nos livros de Martha Wells.",
+        "_yoast_wpseo_twitter-title": "Murderbot 2: Sequência da série de ficção científica da Apple TV+ empolga fãs",
+        "_yoast_wpseo_twitter-description": "Saiba tudo sobre a aguardada segunda temporada de Murderbot na Apple TV+. Descubra as expectativas, desafios e o potencial da série baseada nos livros de Martha Wells."
+      }
+    }
+  ]
+}

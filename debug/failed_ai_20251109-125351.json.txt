@@ -1,0 +1,45 @@
+{
+  "titulo_final": "Shigeru Miyamoto questiona o futuro de Super Mario no Switch 2",
+  "conteudo_final": "<p>O criador de <b>Super Mario</b>, Shigeru Miyamoto, expressou curiosidade sobre os planos da equipe de desenvolvimento para o próximo jogo 3D da franquia no futuro <b>Nintendo Switch 2</b>. A expectativa por um novo título de Mario acompanha o lançamento de novos consoles da Nintendo, mas a situação atual levanta questões.</p><h2>Shigeru Miyamoto reflete sobre o desafio do novo Super Mario</h2><p>A revelação do <b>Nintendo Switch 2</b> gerou especulações sobre quando o aguardado jogo 3D de <b>Mario</b> será lançado. Tradicionalmente, a Nintendo lança um título de Mario próximo ou junto com seus novos consoles. No entanto, o lançamento de <b>Donkey Kong Bananza</b>, desenvolvido por parte da equipe responsável por <b>Super Mario Odyssey</b>, complicou essa expectativa.</p><p>Com <b>Donkey Kong Bananza</b> sendo desenvolvido por muitos dos mesmos talentos de <b>Super Mario Odyssey</b>, a possibilidade de um novo <b>Super Mario</b> 3D parecer mais distante. Isso tem levado a questionamentos sobre o futuro do próximo jogo e sua aparência, um sentimento que o próprio Shigeru Miyamoto parece compartilhar.</p><h2>O futuro de Mario e a estratégia da Nintendo</h2><p>Em uma entrevista recente à revista japonesa Casa Brutus, Miyamoto abordou diversos temas, incluindo o filme <b>Super Mario Bros. O Filme</b> e a importância de cada jogo de Mario ter a sua identidade. Ele destacou que, após <b>Super Mario Odyssey</b>, sentiu que a equipe havia explorado o máximo que podiam no Switch.</p><p>Miyamoto observou que a Nintendo costuma lançar um novo jogo de Mario com cada novo console. Diante da ausência de um anúncio para o Switch 2, ele admitiu que se pergunta como "a equipe atual vai encarar esse desafio". Embora isso possa indicar que um novo 3D Mario ainda está em fases iniciais de desenvolvimento, é provável que Miyamoto esteja sendo cauteloso em suas declarações.</p><p>\"No passado, sempre que um novo console era lançado, nós lançávamos um novo jogo de Mario, então eu me pergunto como a equipe atual vai encarar esse desafio\", declarou Shigeru Miyamoto.</p><p>Apesar da incerteza, é notável que Miyamoto reconheça a mudança na tendência de lançamento de jogos de Mario com novos consoles. A expectativa é que novidades sobre o próximo grande título da série sejam divulgadas em breve.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/09/mariotennisfevermarioluigi.jpg\" alt=\"Mario e Luigi em uma cena de jogo.\"><figcaption>Mario e Luigi em uma cena de jogo.</figcaption></figure><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/02/super-mario-odyssey-cover-art.jpg\" alt=\"Arte da capa do jogo Super Mario Odyssey.\"><figcaption>Arte da capa do jogo Super Mario Odyssey.</figcaption></figure>",
+  "meta_description": "Shigeru Miyamoto, criador de Super Mario, expressa curiosidade sobre o futuro do próximo jogo 3D da franquia no Nintendo Switch 2.",
+  "focus_keyphrase": "Shigeru Miyamoto Switch 2 Super Mario",
+  "related_keyphrases": [
+    "próximo Super Mario 3D",
+    "Nintendo Switch 2",
+    "futuro de Mario"
+  ],
+  "slug": "shigeru-miyamoto-super-mario-switch-2",
+  "categorias": [
+    {
+      "nome": "Super Mario",
+      "grupo": "franquias",
+      "evidence": "Super Mario"
+    },
+    {
+      "nome": "Nintendo Switch 2",
+      "grupo": "plataformas",
+      "evidence": "Nintendo Switch 2"
+    }
+  ],
+  "tags_sugeridas": [
+    "Shigeru Miyamoto",
+    "Super Mario",
+    "Nintendo Switch 2",
+    "Donkey Kong Bananza",
+    "Super Mario Odyssey"
+  ],
+  "image_alt_texts": {
+    "mariotennisfevermarioluigi.jpg": "Mario e Luigi em uma cena de jogo.",
+    "super-mario-odyssey-cover-art.jpg": "Arte da capa do jogo Super Mario Odyssey."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Shigeru Miyamoto questiona o futuro de Super Mario no Switch 2",
+    "_yoast_wpseo_metadesc": "Shigeru Miyamoto, criador de Super Mario, expressa curiosidade sobre o futuro do próximo jogo 3D da franquia no Nintendo Switch 2.",
+    "_yoast_wpseo_focuskw": "Shigeru Miyamoto Switch 2 Super Mario",
+    "_yoast_news_keywords": "Shigeru Miyamoto, Super Mario, Nintendo Switch 2, Nintendo, franquia Mario",
+    "_yoast_wpseo_opengraph-title": "Shigeru Miyamoto questiona o futuro de Super Mario no Switch 2",
+    "_yoast_wpseo_opengraph-description": "Shigeru Miyamoto, criador de Super Mario, expressa curiosidade sobre o futuro do próximo jogo 3D da franquia no Nintendo Switch 2.",
+    "_yoast_wpseo_twitter-title": "Shigeru Miyamoto questiona o futuro de Super Mario no Switch 2",
+    "_yoast_wpseo_twitter-description": "Shigeru Miyamoto, criador de Super Mario, expressa curiosidade sobre o futuro do próximo jogo 3D da franquia no Nintendo Switch 2."
+  }
+}

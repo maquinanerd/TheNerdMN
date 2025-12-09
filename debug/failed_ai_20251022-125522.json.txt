@@ -1,0 +1,149 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Rian Johnson prepara novo suspense com elementos de ficção científica anos 70",
+      "conteudo_final": "<p>O aclamado diretor <b>Rian Johnson</b>, conhecido por explorar universos inéditos em filmes como <i>Looper</i> e <i>Star Wars: Os Últimos Jedi</i>, e criador da série <i>Poker Face</i>, está planejando seu próximo projeto. Após se dedicar a mistérios com a franquia <i>Knives Out</i>, Johnson revela que seu novo filme será uma mistura de 70s e ficção científica.</p><p>Em uma conversa recente com a publicação Empire, o cineasta compartilhou detalhes sobre sua nova ideia. \"A coisa mais emocionante no momento é essa ideia que tenho em mente para o próximo projeto que vou fazer, e acho que, no fim das contas, é tudo o que você pode fazer, é seguir seu instinto. Se eu tivesse que definir o gênero, diria que remete aos thrillers paranoicos dos anos 70. Tem um elemento leve de ficção científica. Essa engrenagem vai girar pelo resto da minha vida\", declarou Johnson.</p><h2>O Retorno de Johnson ao Fantástico</h2><p>Enquanto a terceira parte de sua popular franquia de mistério, <i>Wake Up Dead Man: A Knives Out Mystery</i>, tem lançamento previsto para dezembro, Johnson já demonstra interesse em retornar a universos mais fantásticos. Ele expressou seu carinho pela saga <i>Star Wars</i>, afirmando que estaria aberto a voltar para a franquia se a oportunidade fizer sentido para ambos os lados.</p><p>Apesar de <i>Wake Up Dead Man</i> ter uma estreia nos cinemas antes de chegar à Netflix, Johnson reafirma sua satisfação com a parceria com o serviço de streaming. \"Ser parceiro da Netflix colocou [Knives Out] culturalmente em um lugar que eu nunca pensei que chegaria, o que é muito, muito legal\", comentou.</p><blockquote>\"Ao mesmo tempo, eu disse que a experiência cinematográfica é muito, muito importante para mim. É algo em que realmente acredito, e sinto que os relatos de sua morte são muito exagerados. Vemos isso este ano, com filmes como Sinners – algo genuinamente emocionante de um dos nossos grandes novos cineastas, conectando-se com o público de uma forma enorme, e de uma forma que as pessoas querem ir ao cinema para vê-lo. Isso é muito empolgante para mim.\"</blockquote><p>O cineasta demonstrou sua paixão pela experiência teatral, citando o sucesso recente de filmes que atraíram o público para as salas de cinema. Isso reforça seu compromisso com a arte de fazer filmes para serem vistos na tela grande.</p>",
+      "meta_description": "Rian Johnson, diretor de Knives Out, revela planos para seu próximo filme: um suspense com elementos de ficção científica inspirado nos anos 70.",
+      "focus_keyphrase": "Rian Johnson próximo filme",
+      "related_keyphrases": [
+        "thriller anos 70",
+        "ficção científica",
+        "Rian Johnson suspense"
+      ],
+      "slug": "rian-johnson-proximo-filme-70s-sci-fi",
+      "categorias": [
+        {
+          "nome": "Knives Out",
+          "grupo": "franquias",
+          "evidence": "terceira installment of his Knives Out franchise"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "galaxy far, far away"
+        }
+      ],
+      "tags_sugeridas": [
+        "Rian Johnson",
+        "Wake Up Dead Man",
+        "Knives Out",
+        "ficção científica",
+        "suspense",
+        "cinema anos 70"
+      ],
+      "image_alt_texts": {
+        "wake-up-dead-man_-a-knives-out-mystery-poster.jpg": "Poster de Wake Up Dead Man: A Knives Out Mystery, novo filme de Rian Johnson."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Rian Johnson prepara novo suspense com elementos de ficção científica anos 70",
+        "_yoast_wpseo_metadesc": "Rian Johnson, diretor de Knives Out, revela planos para seu próximo filme: um suspense com elementos de ficção científica inspirado nos anos 70.",
+        "_yoast_wpseo_focuskw": "Rian Johnson próximo filme",
+        "_yoast_news_keywords": "Rian Johnson, Wake Up Dead Man, Knives Out, ficção científica, suspense, cinema anos 70",
+        "_yoast_wpseo_opengraph-title": "Rian Johnson prepara novo suspense com elementos de ficção científica anos 70",
+        "_yoast_wpseo_opengraph-description": "Rian Johnson, diretor de Knives Out, revela planos para seu próximo filme: um suspense com elementos de ficção científica inspirado nos anos 70.",
+        "_yoast_wpseo_twitter-title": "Rian Johnson prepara novo suspense com elementos de ficção científica anos 70",
+        "_yoast_wpseo_twitter-description": "Rian Johnson, diretor de Knives Out, revela planos para seu próximo filme: um suspense com elementos de ficção científica inspirado nos anos 70."
+      }
+    },
+    {
+      "titulo_final": "Alien: Earth é removida do Top 10 e sem renovação para 2ª temporada",
+      "conteudo_final": "<p>A primeira série live-action do universo <b>Alien</b>, intitulada <i>Alien: Earth</i>, enfrenta um duro golpe após ser removida das paradas globais de Top 10 do Hulu e Disney+. A série, que teve uma corrida de oito episódios, ainda aguarda a notícia sobre uma possível renovação para uma segunda temporada.</p><p>Criada por <b>Noah Hawley</b>, conhecido por seu trabalho em <i>Fargo</i>, a série conquistou os fãs com sua abordagem única e novos personagens. Apesar de ter permanecido nas listas de mais assistidos por grande parte de sua exibição, a série agora vê seu desempenho cair.</p><h2>Desempenho e Críticas</h2><p><i>Alien: Earth</i> ostenta uma aprovação crítica impressionante de 94% no Rotten Tomatoes, com uma pontuação de audiência de 66%. Esses números tornam a falta de um sinal verde para a segunda temporada ainda mais surpreendente.</p><p>A primeira temporada apresentou <b>Wendy</b> (Sydney Chandler), uma sintética híbrida com consciência humana, e um grupo de colegas embarcando em uma missão de busca e resgate após um acidente com uma nave de pesquisa. A jornada os confrontou não apenas com o icônico Xenomorfo, mas também com outras criaturas intergalácticas perigosas.</p><h2>O Futuro da Franquia Alien</h2><p>Enquanto <i>Alien: Earth</i> aguarda seu destino, a franquia já tem outros projetos em andamento. Há expectativa para uma continuação cinematográfica do sucesso de <b>Fede Álvarez</b>, <i>Alien: Romulus</i>. Álvarez e Rodo Sayagues já co-escreveram o roteiro para a sequência, que trará de volta a personagem Rain Carradine (Cailee Spaeny). No entanto, Álvarez confirmou que não retornará para dirigir este próximo capítulo.</p><p>Os fãs permanecem na expectativa por mais novidades sobre o futuro de <i>Alien: Earth</i> e de toda a saga <i>Alien</i>.</p>",
+      "meta_description": "Sem renovação à vista, a série Alien: Earth é removida do Top 10 do Hulu e Disney+, apesar de boas críticas e popularidade inicial.",
+      "focus_keyphrase": "Alien: Earth segunda temporada",
+      "related_keyphrases": [
+        "série Alien",
+        "Noah Hawley",
+        "Hulu Disney+"
+      ],
+      "slug": "alien-earth-sem-2-temporada",
+      "categorias": [
+        {
+          "nome": "Alien",
+          "grupo": "franquias",
+          "evidence": "Alien fans have been in a place of purgatory-like waiting for the last month since the franchise’s first live-action series, Alien: Earth, bowed out"
+        }
+      ],
+      "tags_sugeridas": [
+        "Alien: Earth",
+        "Noah Hawley",
+        "Hulu",
+        "Disney+",
+        "Xenomorfo",
+        "Alien: Romulus"
+      ],
+      "image_alt_texts": {
+        "03182322_poster_w780.jpg": "Poster da série Alien: Earth, mostrando um Xenomorfo ameaçador.",
+        "alien-earth-episode-4_4.jpg": "Cena de Alien: Earth com personagens em ambiente de suspense.",
+        "alien-earth-episode-5_4.jpg": "Momento de ação em Alien: Earth com criaturas alienígenas.",
+        "alien-earth_gcpuwn-cropped.jpg": "Detalhe de uma criatura alienígena em Alien: Earth.",
+        "babou-ceesay-as-morrow-looking-serious-aboard-the-maginot-in-alien-earth.jpg": "Ator Babou Ceeyas como Morrow em Alien: Earth, com expressão séria.",
+        "beetle.jpg": "Visão macro de uma criatura insetoide em Alien: Earth.",
+        "blenkin1-1.jpg": "Ator Samuel Blenkin em cena de Alien: Earth.",
+        "hermit.jpg": "Arte conceitual de um alienígena 'hermit' de Alien: Earth.",
+        "morrow-questioning-teng-in-alien-earth.jpg": "Personagens Morrow e Teng em diálogo em Alien: Earth.",
+        "smee-and-kirsh-conducting-research-in-alien-earth.jpg": "Cena de pesquisa científica em Alien: Earth com Smee e Kirsh.",
+        "tick.jpg": "Representação de um parasita 'tick' em Alien: Earth."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Alien: Earth sem 2ª temporada e fora do Top 10",
+        "_yoast_wpseo_metadesc": "A série Alien: Earth não deve ter segunda temporada e foi removida do Top 10 do Hulu e Disney+, apesar das boas críticas.",
+        "_yoast_wpseo_focuskw": "Alien: Earth segunda temporada",
+        "_yoast_news_keywords": "Alien: Earth, Noah Hawley, Hulu, Disney+, Xenomorfo, Alien: Romulus",
+        "_yoast_wpseo_opengraph-title": "Alien: Earth sem 2ª temporada e fora do Top 10",
+        "_yoast_wpseo_opengraph-description": "A série Alien: Earth não deve ter segunda temporada e foi removida do Top 10 do Hulu e Disney+, apesar das boas críticas.",
+        "_yoast_wpseo_twitter-title": "Alien: Earth sem 2ª temporada e fora do Top 10",
+        "_yoast_wpseo_twitter-description": "A série Alien: Earth não deve ter segunda temporada e foi removida do Top 10 do Hulu e Disney+, apesar das boas críticas."
+      }
+    },
+    {
+      "titulo_final": "The Resident: Ator Manish Dayal chega em Chicago Med",
+      "conteudo_final": "<p><b>Manish Dayal</b>, conhecido por seu papel como Dr. Devon Pravesh na série médica da Fox, <i>The Resident</i>, fará uma participação especial em <b>Chicago Med</b>. O ator interpretará o Dr. Theo Rabari em um episódio da 11ª temporada da série da NBC.</p><p>Após seis temporadas como um residente e, posteriormente, médico experiente em <i>The Resident</i>, Dayal volta a usar suas habilidades médicas em um novo cenário. A NBC divulgou imagens do episódio "Found Family", que vai ao ar nesta quarta-feira, 22 de outubro, oferecendo um vislumbre do personagem e de seu arco.</p><h2>Novo Caso e Colaboração Médica</h2><p>Em sua participação em <i>Chicago Med</i>, o Dr. Rabari colaborará com os médicos veteranos da Gaffney, incluindo o Dr. Charles (Oliver Platt) e o Dr. Archer (Steven Weber). Eles investigarão um caso peculiar envolvendo um paciente que chega ao pronto-socorro com um braço decepado e se recusa a permitir que seja reimplantado, alegando ter cortado o membro para evitar cometer um assassinato.</p><p>Enquanto o Dr. Charles mergulha na mente do paciente para entender a situação, outras tramas do episódio incluem o Dr. Frost (Darren Barnet) cuidando de uma jovem paciente com imunodeficiência, Cora Cooper (Hattie M. Baker), e sua mãe, Vivienne (Erin Davie). As imagens sugerem que este caso pode desenterrar memórias dolorosas e complexas relacionadas ao passado de Dr. Frost.</p><h2>Próximos Episódios de Chicago Med</h2><p>A 11ª temporada de <i>Chicago Med</i> continua a explorar arcos de longa data, como a situação de Hannah (Jessy Schram) e Archer. O episódio que conta com a participação de Dayal também trará cameos de outras séries do universo One Chicago, como Kim Burgess (Marina Squerciati) de <i>Chicago P.D.</i>.</p><p>O episódio seguinte será temático de Halloween e promete um caso impactante para Hannah, envolvendo uma jovem com um segredo devastador. A atriz Jessy Schram descreveu a história como \"coração partido\" e \"muito mortal\", ressaltando a complexidade dos casos que a série apresenta.</p>",
+      "meta_description": "Manish Dayal, estrela de The Resident, fará uma participação especial como Dr. Theo Rabari na 11ª temporada de Chicago Med.",
+      "focus_keyphrase": "Manish Dayal Chicago Med",
+      "related_keyphrases": [
+        "The Resident",
+        "Chicago Med 11 temporada",
+        "Dr. Theo Rabari"
+      ],
+      "slug": "manish-dayal-chicago-med-participacao",
+      "categorias": [
+        {
+          "nome": "The Resident",
+          "grupo": "obras",
+          "evidence": "Manish Dayal's breakout role was in the Fox medical drama The Resident."
+        },
+        {
+          "nome": "Chicago Med",
+          "grupo": "obras",
+          "evidence": "The actor is set to appear in Chicago Med Season 11"
+        },
+        {
+          "nome": "NBC",
+          "grupo": "editorias",
+          "evidence": "NBC has released images from tonight's episode"
+        }
+      ],
+      "tags_sugeridas": [
+        "Manish Dayal",
+        "The Resident",
+        "Chicago Med",
+        "Dr. Devon Pravesh",
+        "Dr. Theo Rabari",
+        "NBC"
+      ],
+      "image_alt_texts": {
+        "0321718_poster_w780-1.jpg": "Manish Dayal como Dr. Theo Rabari em cena de Chicago Med."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Resident: Ator Manish Dayal chega em Chicago Med",
+        "_yoast_wpseo_metadesc": "Manish Dayal, estrela de The Resident, fará uma participação especial como Dr. Theo Rabari na 11ª temporada de Chicago Med.",
+        "_yoast_wpseo_focuskw": "Manish Dayal Chicago Med",
+        "_yoast_news_keywords": "Manish Dayal, The Resident, Chicago Med, Dr. Devon Pravesh, Dr. Theo Rabari, NBC",
+        "_yoast_wpseo_opengraph-title": "The Resident: Ator Manish Dayal chega em Chicago Med",
+        "_yoast_wpseo_opengraph-description": "Manish Dayal, estrela de The Resident, fará uma participação especial como Dr. Theo Rabari na 11ª temporada de Chicago Med.",
+        "_yoast_wpseo_twitter-title": "The Resident: Ator Manish Dayal chega em Chicago Med",
+        "_yoast_wpseo_twitter-description": "Manish Dayal, estrela de The Resident, fará uma participação especial como Dr. Theo Rabari na 11ª temporada de Chicago Med."
+      }
+    }
+  ]
+}

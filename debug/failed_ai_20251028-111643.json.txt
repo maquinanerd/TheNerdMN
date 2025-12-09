@@ -1,0 +1,56 @@
+{
+  "titulo_final": "Freakier Friday: Sequência chega ao Disney+ em novembro; confira trailer",
+  "conteudo_final": "<p>A data de lançamento de <b>Freakier Friday</b> no Disney+ foi finalmente revelada. A sequência de <i>Freaky Friday</i> (2003) reúne Anna Coleman (Lindsay Lohan) e sua mãe, Tess Coleman (Jamie Lee Curtis), 22 anos após a troca de corpos. Desta vez, a trama envolve uma troca de corpos quádrupla, com a filha de Anna, Harper (Julia Butters), e a futura enteada de Anna, Lily Reyes (Sophia Hammons).</p><p>As críticas para <i>Freakier Friday</i> foram em grande parte positivas, com muitos críticos elogiando a comédia, a história emocionante e a forma como Lohan e Curtis reprisaram seus papéis. Após a estreia nos cinemas em 8 de agosto, o filme arrecadou US$ 153 milhões mundialmente e está disponível para compra ou aluguel digital em plataformas selecionadas desde 7 de outubro.</p><p>Agora, a Disney anunciou que <i>Freakier Friday</i> chegará ao Disney+ em 12 de novembro. Um novo trailer foi lançado para celebrar a estreia do filme na plataforma. O trailer destaca elogios da crítica, com o filme ostentando uma pontuação "Certified Fresh" pela crítica e "Verified Hot" pelo público no Rotten Tomatoes, incentivando o público a assistir ao filme com suas mães ou filhas.</p><div class=\"display-card video large no-badge\">\n<div class=\"w-adsninja-video-player\">\n<div class=\"an-ignore\">\n<div class=\"adsninja-video-player emaki-video-player emaki-video-player-16c8c0b7399a65b7\" id=\"emaki-video-player-16c8c0b7399a65b7\">\n</div>\n</div>\n</div>\n</div><p>Com a estreia em 12 de novembro, <i>Freakier Friday</i> se junta a muitos de seus antecessores que já estão disponíveis para streaming no Disney+. Além da versão de 2003 estrelada por Lohan e Curtis, os assinantes também podem assistir ao <i>Freaky Friday</i> dos anos 70 estrelado por Jodie Foster e ao musical <i>Freaky Friday</i> do Disney Channel de 2018 na plataforma de streaming.</p><p>Ao lado de Lohan e Curtis, o elenco de <i>Freakier Friday</i> conta com o retorno de Mark Harmon como o marido de Tess, Ryan Volvo, Chad Michael Murray como o ex-namorado de Anna, Jake Austin, Ryan Malgarini como o irmão de Anna, Jake Coleman, e vários outros personagens do filme de 2003. Manny Jacinto, estrela de <i>The Good Place</i> e <i>Star Wars: The Acolyte</i>, junta-se à sequência como o pai de Lily, Eric Reyes, e ele fica noivo de Anna.</p><h2>Rumores de Freaky Friday 3</h2><p>Embora não haja planos anunciados para que a história continue com <i>Freaky Friday 3</i>, se o filme de 2025 tiver um bom desempenho no Disney+, as chances de um terceiro filme se tornar realidade aumentarão. A diretora de <i>Freakier Friday</i>, Nisha Ganatra, já provocou a possibilidade de uma troca de corpos a seis, que desta vez incluiria Jake de Murray e Eric de Jacinto, levando a trilogia a novos e hilários patamares.</p><p>Independentemente de um terceiro filme acontecer, <b><i>Freakier Friday</i></b> provavelmente se tornará um sucesso de streaming para a Disney+. Por ser um filme classificado como PG, crianças, adultos e famílias inteiras podem assisti-lo, com uma história que possui apelo nostálgico e moderno.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/embed-url-aqui\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>",
+  "meta_description": "Freakier Friday chega ao Disney+ em 12 de novembro. Assista ao trailer e confira os detalhes da nova comédia de troca de corpos com Lindsay Lohan e Jamie Lee Curtis.",
+  "focus_keyphrase": "Freakier Friday",
+  "related_keyphrases": [
+    "Freaky Friday",
+    "Disney+",
+    "Lindsay Lohan",
+    "Jamie Lee Curtis"
+  ],
+  "slug": "freakier-friday-disney-plus-lancamento",
+  "categorias": [
+    {
+      "nome": "Freakier Friday",
+      "grupo": "obras",
+      "evidence": "Freakier Friday has announced its Disney+ release date."
+    },
+    {
+      "nome": "Disney+",
+      "grupo": "franquias",
+      "evidence": "Freakier Friday has announced its Disney+ release date."
+    },
+    {
+      "nome": "Freaky Friday",
+      "grupo": "obras",
+      "evidence": "The sequel to Freaky Friday (2003) reunites Anna Coleman (Lindsay Lohan) and her mother, Tess Coleman, (Jamie Lee Curtis)"
+    }
+  ],
+  "tags_sugeridas": [
+    "freakier-friday",
+    "disney-plus",
+    "freaky-friday",
+    "lindsay-lohan",
+    "jamie-lee-curtis",
+    "nisha-ganatra",
+    "comedia"
+  ],
+  "image_alt_texts": {
+    "freakier-friday-poster.jpg": "Poster do filme Freakier Friday com Lindsay Lohan e Jamie Lee Curtis.",
+    "sr-logo-icon-colored-light.svg": "Logo do ScreenRant.",
+    "instar54013578.jpg": "Jamie Lee Curtis em evento.",
+    "instar53347080.jpg": "Lindsay Lohan em evento.",
+    "sr-db-logo-icon-colored-dark.svg?v=1.9": "Logo do ScreenRant Database."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Freakier Friday: Sequência chega ao Disney+ em novembro; confira trailer",
+    "_yoast_wpseo_metadesc": "Freakier Friday chega ao Disney+ em 12 de novembro. Assista ao trailer e confira os detalhes da nova comédia de troca de corpos com Lindsay Lohan e Jamie Lee Curtis.",
+    "_yoast_wpseo_focuskw": "Freakier Friday",
+    "_yoast_news_keywords": "Freakier Friday, Disney+, Freaky Friday, Lindsay Lohan, Jamie Lee Curtis, Nisha Ganatra, Comédia",
+    "_yoast_wpseo_opengraph-title": "Freakier Friday: Sequência chega ao Disney+ em novembro; confira trailer",
+    "_yoast_wpseo_opengraph-description": "Freakier Friday chega ao Disney+ em 12 de novembro. Assista ao trailer e confira os detalhes da nova comédia de troca de corpos com Lindsay Lohan e Jamie Lee Curtis.",
+    "_yoast_wpseo_twitter-title": "Freakier Friday: Sequência chega ao Disney+ em novembro; confira trailer",
+    "_yoast_wpseo_twitter-description": "Freakier Friday chega ao Disney+ em 12 de novembro. Assista ao trailer e confira os detalhes da nova comédia de troca de corpos com Lindsay Lohan e Jamie Lee Curtis."
+  }
+}

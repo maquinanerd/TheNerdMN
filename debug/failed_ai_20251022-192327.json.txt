@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Sylvester Stallone: Insegurança com Samuel L. Jackson em 'Tulsa King'",
+      "conteudo_final": "<p>Sylvester Stallone, astro de <b>'Tulsa King'</b>, confessou que não ficou inicialmente feliz com a possibilidade de Samuel L. Jackson se juntar ao universo criminal em expansão de Taylor Sheridan. Stallone admitiu em entrevista recente que temia um confronto de egos ao dividir a tela com Jackson.</p>\n<p>\"Pensei: 'Isso vai ser uma briga. Vai ser uma batalha.' Como dois boxeadores em um ringue: quem vai dar o primeiro soco? Você fica nervoso porque está lidando com competição séria. Mas agora estamos bem. Estamos fluindo. Poderíamos fazer um programa chamado Tulsa King e Buddy. Trabalhamos bem juntos\", declarou Stallone.</p>\n<p>Atualmente em sua terceira temporada no Paramount+, <b>'Tulsa King'</b> mantém sua força, apesar de pontuações críticas ligeiramente mais baixas. A série continua sendo um grande sucesso para o streamer, e com a 4ª temporada já aprovada, o chefe da máfia de Stallone, Dwight “The General” Manfredi, não vai a lugar nenhum tão cedo. Contudo, é o spin-off de Jackson, <b>'NOLA King'</b>, que está gerando novo burburinho no universo Sheridan.</p>\n\n<h2>O que é 'NOLA King'?</h2>\n\n<p><b>'NOLA King'</b> seguirá Samuel L. Jackson como Russell Lee Washington Jr., personagem que em breve será introduzido em 'Tulsa King'. Após fazer amizade com Dwight Manfredi (Stallone) durante uma passagem de 10 anos pela prisão federal, Washington é enviado a Tulsa pela família criminosa Renzetti para eliminá-lo de uma vez por todas.</p>\n<p>No entanto, após testemunhar o que Dwight construiu em Tulsa e reconhecer o valor das segundas chances, Washington retorna a Nova Orleans, cidade que deixou há 42 anos, determinado a reconstruir sua vida e retomar o controle das ruas. A sinopse oficial indica:</p>\n\n<blockquote>\n<p>“NOLA King acompanha Russell Lee Washington Jr. (Jackson) que, após fazer amizade com Dwight Manfredi (Stallone) durante uma passagem de 10 anos pela prisão federal, é enviado a Tulsa pela família criminosa Renzetti de Nova York para eliminá-lo de uma vez por todas. Inspirado pelo que Dwight criou em Tulsa e impressionado com as possibilidades de segundas chances, Washington retorna a Nova Orleans, o lar que abandonou há 42 anos, para reacender seu relacionamento com a família, amigos e assumir o controle da cidade que deixou para trás. Ao fazer isso, ele incita a ira de seus antigos empregadores em Nova York e se torna vulnerável a velhos inimigos de NOLA, tanto criminosos quanto policiais.”</p>\n</blockquote>\n\n<p>A série tem previsão de início de filmagens para o início de 2026, com uma potencial estreia ainda no mesmo ano no Paramount+.</p>\n\n<figure>\n  <img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/07/03182315_poster_w780.jpg\" alt=\"Poster de NOLA King com Samuel L. Jackson.\">\n  <figcaption>Samuel L. Jackson em 'NOLA King'.</figcaption>\n</figure>\n\n<figure>\n  <img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/greene.jpg\" alt=\"Cena de 'Tulsa King' com Sylvester Stallone.\">\n  <figcaption>'Tulsa King' com Sylvester Stallone.</figcaption>\n</figure>\n\n<figure>\n  <img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/sylvester-stallone-as-dwight-manfredi-flanked-by-jay-will-as-tyson-mitchell-and-mike-walden-as-bigfoot-in-tulsa-king-season-3.jpg\" alt=\"Sylvester Stallone como Dwight Manfredi em 'Tulsa King'.\">\n  <figcaption>Sylvester Stallone em 'Tulsa King'.</figcaption>\n</figure>",
+      "meta_description": "Sylvester Stallone revela insegurança inicial com Samuel L. Jackson em 'Tulsa King' e fala sobre o futuro spin-off 'NOLA King'.",
+      "focus_keyphrase": "Sylvester Stallone Tulsa King",
+      "related_keyphrases": [
+        "Samuel L. Jackson NOLA King",
+        "Taylor Sheridan universo criminal",
+        "Spin-off Tulsa King"
+      ],
+      "slug": "sylvester-stallone-tulsa-king-jackson",
+      "categorias": [
+        {
+          "nome": "Tulsa King",
+          "grupo": "obras",
+          "evidence": "The Tulsa King star recently admitted"
+        },
+        {
+          "nome": "NOLA King",
+          "grupo": "obras",
+          "evidence": "upcoming spin-off, NOLA King"
+        },
+        {
+          "nome": "Paramount+",
+          "grupo": "editorias",
+          "evidence": "Paramount+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tulsa King",
+        "Sylvester Stallone",
+        "Samuel L. Jackson",
+        "NOLA King",
+        "Taylor Sheridan",
+        "Paramount+",
+        "Séries de Crime"
+      ],
+      "image_alt_texts": {
+        "https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/07/03182315_poster_w780.jpg": "Poster de NOLA King com Samuel L. Jackson.",
+        "https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/greene.jpg": "Cena de 'Tulsa King' com Sylvester Stallone.",
+        "https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/sylvester-stallone-as-dwight-manfredi-flanked-by-jay-will-as-tyson-mitchell-and-mike-walden-as-bigfoot-in-tulsa-king-season-3.jpg": "Sylvester Stallone como Dwight Manfredi em 'Tulsa King'."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Sylvester Stallone: Insegurança com Samuel L. Jackson em 'Tulsa King'",
+        "_yoast_wpseo_metadesc": "Sylvester Stallone revela insegurança inicial com Samuel L. Jackson em 'Tulsa King' e fala sobre o futuro spin-off 'NOLA King'.",
+        "_yoast_wpseo_focuskw": "Sylvester Stallone Tulsa King",
+        "_yoast_news_keywords": "Tulsa King, Sylvester Stallone, Samuel L. Jackson, NOLA King, Paramount+, Taylor Sheridan",
+        "_yoast_wpseo_opengraph-title": "Sylvester Stallone: Insegurança com Samuel L. Jackson em 'Tulsa King'",
+        "_yoast_wpseo_opengraph-description": "Sylvester Stallone revela insegurança inicial com Samuel L. Jackson em 'Tulsa King' e fala sobre o futuro spin-off 'NOLA King'.",
+        "_yoast_wpseo_twitter-title": "Sylvester Stallone: Insegurança com Samuel L. Jackson em 'Tulsa King'",
+        "_yoast_wpseo_twitter-description": "Sylvester Stallone revela insegurança inicial com Samuel L. Jackson em 'Tulsa King' e fala sobre o futuro spin-off 'NOLA King'."
+      }
+    }
+  ]
+}

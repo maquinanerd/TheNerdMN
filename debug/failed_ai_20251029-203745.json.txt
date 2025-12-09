@@ -1,0 +1,48 @@
+{
+  "titulo_final": "Tulsa King: Saiba como a 3ª temporada lidou com a saída de Armand e Tina",
+  "conteudo_final": "<p>A terceira temporada de <b>Tulsa King</b> trouxe algumas mudanças significativas no elenco, com a saída de atores importantes. A forma como a série abordou o desaparecimento de Armand e Tina Manfredi, no entanto, tem sido alvo de críticas por parte dos fãs e da crítica especializada.</p><h2>A Saída de Armand e Tina Manfredi em Tulsa King</h2><p>Após o sexto episódio da terceira temporada de <b>Tulsa King</b>, ficou claro que nem Armand nem Tina Manfredi continuarão na série. A confirmação veio com a revelação de que Armand cometeu suicídio, após ter sido procurado desde a segunda temporada. Sua ausência, explicada de forma abrupta, deixou um vazio na narrativa.</p><figure><img src=\"https:
+  "meta_description": "Descubra como Tulsa King lidou com as saídas de Armand e Tina na 3ª temporada, e o impacto dessas decisões na trama da série de Sylvester Stallone.",
+  "focus_keyphrase": "Tulsa King temporada 3",
+  "related_keyphrases": [
+    "saída de atores Tulsa King",
+    "Armand e Tina Tulsa King",
+    "série Tulsa King"
+  ],
+  "slug": "tulsa-king-temporada-3-armand-tina",
+  "categorias": [
+    {
+      "nome": "Tulsa King",
+      "grupo": "obras",
+      "evidence": "A terceira temporada de Tulsa King"
+    },
+    {
+      "nome": "Sylvester Stallone",
+      "grupo": "atores",
+      "evidence": "estrelada por Sylvester Stallone como Dwight Manfredi"
+    }
+  ],
+  "tags_sugeridas": [
+    "tulsa king",
+    "sylvester stallone",
+    "paramount+",
+    "séries de crime",
+    "drama criminal",
+    "max casella",
+    "tatiana zappardino"
+  ],
+  "image_alt_texts": {
+    "armand1.jpg": "Armand Truisi (Max Casella) com uma expressão furiosa em Tulsa King.",
+    "tina3.jpg": "Tina Manfredi (Tatiana Zappardino) com uma expressão irritada em Tulsa King.",
+    "03182315_poster_w780.jpg": "Pôster oficial da série Tulsa King com Sylvester Stallone em destaque."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Tulsa King: Saiba como a 3ª temporada lidou com a saída de Armand e Tina",
+    "_yoast_wpseo_metadesc": "Descubra como Tulsa King lidou com as saídas de Armand e Tina na 3ª temporada, e o impacto dessas decisões na trama da série de Sylvester Stallone.",
+    "_yoast_wpseo_focuskw": "Tulsa King temporada 3",
+    "_yoast_news_keywords": "Tulsa King, Sylvester Stallone, Paramount+, séries de crime, drama criminal, Max Casella, Tatiana Zappardino, saída de atores",
+    "_yoast_wpseo_opengraph-title": "Tulsa King: Saiba como a 3ª temporada lidou com a saída de Armand e Tina",
+    "_yoast_wpseo_opengraph-description": "Descubra como Tulsa King lidou com as saídas de Armand e Tina na 3ª temporada, e o impacto dessas decisões na trama da série de Sylvester Stallone.",
+    "_yoast_wpseo_twitter-title": "Tulsa King: Saiba como a 3ª temporada lidou com a saída de Armand e Tina",
+    "_yoast_wpseo_twitter-description": "Descubra como Tulsa King lidou com as saídas de Armand e Tina na 3ª temporada, e o impacto dessas decisões na trama da série de Sylvester Stallone."
+  }
+}

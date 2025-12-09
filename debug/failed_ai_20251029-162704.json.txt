@@ -1,0 +1,65 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Resident Evil Requiem: Vazamento revela bônus da Edição Deluxe",
+      "conteudo_final": "<p>Embora <b>Resident Evil Requiem</b> não chegue antes de 27 de fevereiro, um novo boato sugere que a próxima aventura da Capcom pode ter uma Edição Deluxe com cosméticos adicionais. Esses itens incluem fantasias para a protagonista Grace Ashcroft, que fazem referência a jogos anteriores da série, além de skins de armas e outros extras para os jogadores.</p>\n\n<p>A Capcom revelou anteriormente que Resident Evil Requiem levará os jogadores de volta a Raccoon City, um local central na maioria dos eventos notórios da série. Com Grace Ashcroft trabalhando para desvendar os segredos por trás do assassinato de sua mãe, Alyssa, o jogo apresentará perspectivas em primeira e terceira pessoa para os jogadores escolherem. Rumores sobre o retorno do protagonista da série Leon Kennedy foram discutidos, mas a Capcom mostrou apenas segmentos da história de Grace até agora.</p>\n\n<p>Embora todos os rumores sobre Resident Evil Requiem devam ser levados com cautela, o conteúdo suposto da Edição Deluxe pode agradar aos fãs da franquia. Conforme relatado pelo usuário do Twitter SpookyHoo, a Edição Deluxe incluirá vários itens cosméticos. Uma dessas roupas para Grace é baseada em Lady Dimitrescu, uma das antagonistas de Resident Evil Village, embora o cabelo curto e loiro de Grace seja mantido intacto ao usá-la. Junto com a fantasia, uma skin de arma Apocalypse para a pistola S&amp;S M232 e um filtro de tela também foram mencionados. Outros bônus incluem um Amuleto Sr. Raccoon, um pacote de áudio e alguns arquivos que podem servir como referência ao incidente de Raccoon City e suas encobriramentos.</p>\n\n<h2>Conteúdo Rumorizado da Edição Deluxe de Resident Evil Requiem</h2>\n\n<ul>\n<li>Jogo principal</li>\n<li>Cinco fantasias para Grace (incluindo Lady Dimitrescu)</li>\n<li>Quatro skins de armas</li>\n<li>Dois filtros de tela</li>\n<li>Dois amuletos (incluindo o Amuleto Sr. Raccoon)</li>\n<li>Pacote de Áudio: Raccoon City Clássico</li>\n<li>Arquivos: Cartas de 1998</li>\n</ul>\n\n<p>Junto com os vazamentos da Edição Deluxe, um vazamento adicional no Twitter mostrou a arte da caixa da Edição Padrão de Resident Evil Requiem, que apresentava as ruínas do prédio da delegacia de Raccoon City. Embora os vazamentos tenham se concentrado principalmente em como a edição PS5 pode parecer, Resident Evil Requiem também será lançado para o Switch 2 em 27 de fevereiro, juntamente com ports de Resident Evil Village e Resident Evil 7: Biohazard. Cópias físicas de Resident Evil Requiem serão lançadas como um Game-Key Card no Switch 2, mas também estarão disponíveis digitalmente.</p>\n\n<p>Dado que Resident Evil Requiem verá o retorno da Umbrella Corporation de alguma forma, não é surpreendente ver a Edição Deluxe fazer referências ao histórico da série. Mas, como estão as coisas, a Capcom não confirmou nenhum detalhe adicional sobre Resident Evil Requiem.</p>\n\n<figure>\n  <img src=\"https:
+      "meta_description": "Vazamentos indicam que Resident Evil Requiem pode ter uma Edição Deluxe com trajes de Lady Dimitrescu, skins de armas e itens bônus.",
+      "focus_keyphrase": "Resident Evil Requiem Edição Deluxe",
+      "related_keyphrases": [
+        "Resident Evil Requiem vazamento",
+        "Capcom Resident Evil",
+        "Bônus Edição Deluxe Resident Evil"
+      ],
+      "slug": "resident-evil-requiem-bonuses-deluxe",
+      "categorias": [
+        {
+          "nome": "Resident Evil Requiem",
+          "grupo": "obras",
+          "evidence": "Although Resident Evil Requiem will not arrive until February 27"
+        },
+        {
+          "nome": "Capcom",
+          "grupo": "editorias",
+          "evidence": "Capcom previously revealed that Resident Evil Requiem"
+        },
+        {
+          "nome": "Raccoon City",
+          "grupo": "franquias",
+          "evidence": "Capcom previously revealed that Resident Evil Requiem will take players back to Raccoon City"
+        }
+      ],
+      "tags_sugeridas": [
+        "Resident Evil Requiem",
+        "Capcom",
+        "Edição Deluxe",
+        "Vazamento",
+        "Raccoon City",
+        "Grace Ashcroft",
+        "Lady Dimitrescu"
+      ],
+      "image_alt_texts": {
+        "re-requiem-official-trailer-screenshot-ruined-rcpd-feature-sized.jpg": "Ruínas da delegacia de Raccoon City em Resident Evil Requiem",
+        "resident-evil-requiem-ashcroft.jpg": "Grace Ashcroft em Resident Evil Requiem",
+        "resident-evil-requiem-city.jpg": "Paisagem urbana em Resident Evil Requiem",
+        "resident-evil-requiem-grace-at-desk.jpg": "Grace Ashcroft trabalhando em Resident Evil Requiem",
+        "resident-evil-requiem-monster.jpg": "Monstro ameaçador em Resident Evil Requiem",
+        "resident-evil-requiem-police-station.jpg": "Delegacia de polícia em Resident Evil Requiem",
+        "resident-evil-requiem-racoon-city-crater.jpg": "Cratera em Raccoon City em Resident Evil Requiem",
+        "resident-evil-requiem-tag-page-cover-art.jpg": "Arte da página de tag de Resident Evil Requiem",
+        "grace-ashcroft-resident-evil-requiem.jpg": "Close-up de Grace Ashcroft em Resident Evil Requiem",
+        "resident-evil-requiem-atmosphere.jpg": "Atmosfera sombria em Resident Evil Requiem",
+        "resident-evil-requiem-ace.jpg": "Arte promocional de Resident Evil Requiem"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Resident Evil Requiem: Vazamento revela bônus da Edição Deluxe",
+        "_yoast_wpseo_metadesc": "Vazamentos indicam que Resident Evil Requiem pode ter uma Edição Deluxe com trajes de Lady Dimitrescu, skins de armas e itens bônus.",
+        "_yoast_wpseo_focuskw": "Resident Evil Requiem Edição Deluxe",
+        "_yoast_news_keywords": "Resident Evil Requiem, Capcom, Edição Deluxe, Vazamento, Raccoon City, Grace Ashcroft, Lady Dimitrescu",
+        "_yoast_wpseo_opengraph-title": "Resident Evil Requiem: Vazamento revela bônus da Edição Deluxe",
+        "_yoast_wpseo_opengraph-description": "Vazamentos indicam que Resident Evil Requiem pode ter uma Edição Deluxe com trajes de Lady Dimitrescu, skins de armas e itens bônus.",
+        "_yoast_wpseo_twitter-title": "Resident Evil Requiem: Vazamento revela bônus da Edição Deluxe",
+        "_yoast_wpseo_twitter-description": "Vazamentos indicam que Resident Evil Requiem pode ter uma Edição Deluxe com trajes de Lady Dimitrescu, skins de armas e itens bônus."
+      }
+    }
+  ]
+}

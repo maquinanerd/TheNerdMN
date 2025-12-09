@@ -1,0 +1,102 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "DCU: Série Lanterns tem estreia adiada para o fim de 2026",
+      "conteudo_final": "<p>A série de TV <strong><em>Lanterns</em></strong>, parte do universo DCU e com previsão de estreia para 2026, teve sua janela de lançamento ajustada. A produção, que conta com Kyle Chandler e Aaron Pierre nos papéis principais, agora mira um debute no final do próximo ano.</p><p>Anunciada em 2024, <em>Lanterns</em> acompanha os policiais intergalácticos John Stewart (Pierre) e Hal Jordan (Chandler) em uma investigação de assassinato que os leva a um mistério mais profundo. A série faz parte do Chapter One: Gods and Monsters do DCU.</p><h2>Lanterns: Elenco e Produção</h2><p>Além de Chandler e Pierre, o elenco de <em>Lanterns</em> inclui Nathan Fillion reprisando seu papel como Guy Gardner, Ulrich Thomsen como Sinestro, e Kelly Macdonald, Garret Dillahunt, Poorna Jagannathan e Nicole Ari Parker. Chris Mundy, conhecido por seu trabalho em <em>True Detective</em>, <em>Criminal Minds</em> e <em>Ozark</em>, é o showrunner da série.</p><div class="body-img landscape"><figure><picture><source data-srcset=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/the-brave-and-the-bold-social-featured.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/the-brave-and-the-bold-social-featured.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/the-brave-and-the-bold-social-featured.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1\" media=\"(max-width: 767px)\" srcset=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/the-brave-and-the-bold-social-featured.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1\"/><source data-srcset=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/the-brave-and-the-bold-social-featured.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" media=\"(max-width: 1023px)\" srcset=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/the-brave-and-the-bold-social-featured.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/><img alt=\"Batman e Robin em cena de The Brave and The Bold\" data-img-url=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/the-brave-and-the-bold-social-featured.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" decoding=\"async\" height=\"413\" loading=\"lazy\" src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/the-brave-and-the-bold-social-featured.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" width=\"825\"/></picture><figcaption>Imagem promocional de uma produção da DC Studios.</figcaption><small class=\"body-img-caption\">Imagem via DC Studios</small></figure></div><h2>Outros Projetos DC e Possíveis Atrasos</h2><p>A série <em>Lanterns</em> não é o único projeto do DCU a enfrentar possíveis ajustes de cronograma. O filme <em>Superman</em>, com estreia prevista para junho de 2026, e a série <em>The Brave and The Bold</em>, que ainda não tem elenco definido, também podem ter seus desenvolvimentos impactados.</p><p>A DC Studios, sob a nova liderança de James Gunn, tem trabalhado na reestruturação de seu universo cinematográfico e televisivo. A confirmação de que <em>Lanterns</em> chegará apenas no fim de 2026 indica um planejamento cuidadoso para os lançamentos futuros.</p>",
+      "meta_description": "A série do DCU, Lanterns, com Kyle Chandler e Aaron Pierre, tem sua estreia prevista para o fim de 2026, adiando o lançamento que seria mais cedo.",
+      "focus_keyphrase": "Série Lanterns DCU",
+      "related_keyphrases": [
+        "Lanterns DC",
+        "DC Studios",
+        "Kyle Chandler",
+        "Aaron Pierre"
+      ],
+      "slug": "serie-lanterns-dcu-estreia-adiada",
+      "categorias": [
+        {
+          "nome": "Lanterns",
+          "grupo": "obras",
+          "evidence": "<strong><em>Lanterns</em></strong> TV series"
+        },
+        {
+          "nome": "DCU",
+          "grupo": "franquias",
+          "evidence": "DCU’s ‘True Detective’ Replacement"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "plataformas",
+          "evidence": "HBO has announced"
+        }
+      ],
+      "tags_sugeridas": [
+        "Lanterns",
+        "DCU",
+        "HBO",
+        "Kyle Chandler",
+        "Aaron Pierre",
+        "James Gunn"
+      ],
+      "image_alt_texts": {
+        "the-brave-and-the-bold-social-featured.jpg": "Batman e Robin em cena de The Brave and The Bold, produção da DC Studios."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "DCU: Série Lanterns tem estreia adiada para o fim de 2026",
+        "_yoast_wpseo_metadesc": "A série do DCU, Lanterns, com Kyle Chandler e Aaron Pierre, tem sua estreia prevista para o fim de 2026, adiando o lançamento que seria mais cedo.",
+        "_yoast_wpseo_focuskw": "Série Lanterns DCU",
+        "_yoast_news_keywords": "Lanterns, DCU, HBO, Kyle Chandler, Aaron Pierre, James Gunn, DC Studios",
+        "_yoast_wpseo_opengraph-title": "DCU: Série Lanterns tem estreia adiada para o fim de 2026",
+        "_yoast_wpseo_opengraph-description": "A série do DCU, Lanterns, com Kyle Chandler e Aaron Pierre, tem sua estreia prevista para o fim de 2026, adiando o lançamento que seria mais cedo.",
+        "_yoast_wpseo_twitter-title": "DCU: Série Lanterns tem estreia adiada para o fim de 2026",
+        "_yoast_wpseo_twitter-description": "A série do DCU, Lanterns, com Kyle Chandler e Aaron Pierre, tem sua estreia prevista para o fim de 2026, adiando o lançamento que seria mais cedo."
+      }
+    },
+    {
+      "titulo_final": "HBO adota novo modelo de produção inspirado em The Pitt",
+      "conteudo_final": "<p>A HBO está implementando uma nova estratégia de produção de conteúdo original, inspirada no sucesso da série dramática <em>The Pitt</em>. O novo modelo prevê lançamentos anuais com 15 episódios, produzidos com um orçamento considerado modesto.</p><p>Casey Bloys, chefe da HBO, explicou que <em>The Pitt</em> demonstrou que essa abordagem inovadora pode gerar sucesso e desafios criativos. A nova estrutura, segundo Bloys, exige habilidades específicas para a criação de narrativas envolventes em temporadas mais longas.</p><h2>Novos Projetos e Consistência Anual</h2><p>Além de <em>The Pitt</em>, que terá sua segunda temporada lançada em janeiro de 2026, a HBO já aprovou mais duas séries sob este novo formato: <em>American Blue</em>, com o showrunner de <em>Supernatural</em>, Jeremy Carver, e um drama familiar com título provisório <em>How To Survive Without Me</em>. A emissora acredita que essas produções complementarão seu catálogo existente.</p><div class=\"content-block-regular\"><p>A nova estrutura visa resolver um problema comum no streaming: longos intervalos entre temporadas. Séries populares frequentemente levam anos para retornar, enquanto a HBO busca oferecer uma experiência de visualização mais consistente, com novas temporadas chegando anualmente.</p><blockquote><p>“Essa consistência anual é realmente muito importante. Acho que, como indústria, nos afastamos disso, e minha esperança é que, para algo como <em>The Pitt</em>, tenhamos transmitido em janeiro [de 2025] e volte em janeiro [de 2026]. Esse tipo de visualização habitual, não apenas semana a semana, mas anualmente, é realmente importante em termos de estabelecer hábitos.”</p></blockquote><p>Bloys destacou que a intenção é criar um hábito de visualização para o público, garantindo que os fãs saibam quando esperar novas histórias. A série <em>Harry Potter</em>, por exemplo, seguirá um modelo de produção diferente, enquanto outras produções se encaixarão nesta nova estratégia.</p><h2>The Pitt: Sucesso e Reconhecimento</h2><p><em>The Pitt</em>, que já conquistou um Emmy, exemplifica o potencial criativo e comercial da nova abordagem da HBO. A série está disponível na plataforma de streaming da emissora, e a expectativa é que o modelo seja replicado em outras produções futuras.</p>",
+      "meta_description": "HBO adota novo modelo de produção com 15 episódios anuais, inspirado no sucesso de The Pitt, buscando maior consistência para o público.",
+      "focus_keyphrase": "HBO novo modelo de produção",
+      "related_keyphrases": [
+        "HBO The Pitt",
+        "Produção de séries",
+        "Casey Bloys"
+      ],
+      "slug": "hbo-novo-modelo-producao-the-pitt",
+      "categorias": [
+        {
+          "nome": "The Pitt",
+          "grupo": "obras",
+          "evidence": "<strong><em>The Pitt'</strong>s success"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "plataformas",
+          "evidence": "HBO will change the way it produces"
+        },
+        {
+          "nome": "Streaming",
+          "grupo": "editorias",
+          "evidence": "In the current streaming model"
+        }
+      ],
+      "tags_sugeridas": [
+        "HBO",
+        "The Pitt",
+        "Casey Bloys",
+        "Produção de TV",
+        "Streaming"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "HBO adota novo modelo de produção inspirado em The Pitt",
+        "_yoast_wpseo_metadesc": "HBO adota novo modelo de produção com 15 episódios anuais, inspirado no sucesso de The Pitt, buscando maior consistência para o público.",
+        "_yoast_wpseo_focuskw": "HBO novo modelo de produção",
+        "_yoast_news_keywords": "HBO, The Pitt, Casey Bloys, Produção de TV, Streaming, Séries",
+        "_yoast_wpseo_opengraph-title": "HBO adota novo modelo de produção inspirado em The Pitt",
+        "_yoast_wpseo_opengraph-description": "HBO adota novo modelo de produção com 15 episódios anuais, inspirado no sucesso de The Pitt, buscando maior consistência para o público.",
+        "_yoast_wpseo_twitter-title": "HBO adota novo modelo de produção inspirado em The Pitt",
+        "_yoast_wpseo_twitter-description": "HBO adota novo modelo de produção com 15 episódios anuais, inspirado no sucesso de The Pitt, buscando maior consistência para o público."
+      }
+    }
+  ]
+}

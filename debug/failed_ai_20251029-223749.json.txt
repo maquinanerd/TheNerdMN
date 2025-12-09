@@ -1,0 +1,59 @@
+{
+  "titulo_final": "Prime Video: 8 Séries de Ficção Científica Que Você Pode Ter Perdido",
+  "conteudo_final": "<p>O catálogo de ficção científica do <strong>Prime Video</strong> está em constante expansão, o que significa que muitas séries do gênero podem ter passado despercebidas. Além de grandes sucessos como <em>The Boys</em> e <em>Invincible</em>, que utilizam elementos de ficção científica mesmo sendo focadas em super-heróis, a plataforma oferece joias que representam o melhor que a TV sci-fi tem a oferecer.</p><p>Recentemente, a série <em>Lazarus</em> trouxe emoção ao universo sobrenatural. Fica evidente que muitas das séries viciantes do Prime Video se encaixam no gênero de ficção científica, mas nem todas receberam o devido reconhecimento.</p><p>Apresentamos oito séries de ficção científica genuinamente boas, que exploram diferentes facetas do gênero e que podem ter sido ignoradas durante sua exibição no serviço de streaming.</p><h2>Upload</h2><figure class=\"video-container\"><img src=\"https:
+  "meta_description": "Descubra 8 séries de ficção científica incríveis do Prime Video que você pode ter deixado passar. De Upload a The Expanse, confira as joias escondidas.",
+  "focus_keyphrase": "séries de ficção científica Prime Video",
+  "related_keyphrases": [
+    "melhores séries sci-fi Prime Video",
+    "ficção científica Amazon Prime",
+    "séries subestimadas Prime Video"
+  ],
+  "slug": "prime-video-series-ficcao-cientifica-esquecidas",
+  "categorias": [
+    {
+      "nome": "Prime Video",
+      "grupo": "plataformas",
+      "evidence": "Prime Video's sci-fi collection is ever-growing"
+    },
+    {
+      "nome": "The Expanse",
+      "grupo": "obras",
+      "evidence": "The Expanse is a popular show"
+    },
+    {
+      "nome": "Upload",
+      "grupo": "obras",
+      "evidence": "Upload is a sci-fi show starring Robbie Amell"
+    }
+  ],
+  "tags_sugeridas": [
+    "Prime Video",
+    "ficção científica",
+    "séries",
+    "Upload",
+    "Undone",
+    "The Expanse",
+    "The Boys"
+  ],
+  "image_alt_texts": {
+    "upload-season-4-episode-3-real-nathan-looking-sick.jpg": "Nathan em cena da série Upload.",
+    "undone-amazon-prime.jpg": "Rosa Salazar como Alma na série Undone.",
+    "The-Boys-Diabolical-trailer-Homelander.jpg": "Um personagem voa pelo céu em The Boys Presents: Diabolical.",
+    "rupert-evans-holding-a-gun-in-the-man-in-the-high-castle.jpg": "Rupert Evans segurando uma arma em The Man in the High Castle.",
+    "the-power-prime-vide.jpg": "Toni Collette em cena da série The Power do Prime Video.",
+    "gaddis-standing-in-front-of-a-floating-tractor-in-tales-from-the-loop.jpg": "Gaddis em frente a um trator flutuante em Tales From the Loop.",
+    "The-Twilight-Zone-Pilot-e1554137823480.jpg": "Cena da série The Twilight Zone.",
+    "untitled-design-263-1.jpg": "Quatro personagens em The Expanse, dentro de uma nave espacial.",
+    "prime-video-poster.jpg": "Poster promocional do Prime Video."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Prime Video: 8 Séries de Ficção Científica Que Você Pode Ter Perdido",
+    "_yoast_wpseo_metadesc": "Descubra 8 séries de ficção científica incríveis do Prime Video que você pode ter deixado passar. De Upload a The Expanse, confira as joias escondidas.",
+    "_yoast_wpseo_focuskw": "séries de ficção científica Prime Video",
+    "_yoast_news_keywords": "Prime Video, ficção científica, séries, Upload, Undone, The Expanse, The Boys, The Man in the High Castle, Tales from the Loop, The Twilight Zone",
+    "_yoast_wpseo_opengraph-title": "Prime Video: 8 Séries de Ficção Científica Que Você Pode Ter Perdido",
+    "_yoast_wpseo_opengraph-description": "Descubra 8 séries de ficção científica incríveis do Prime Video que você pode ter deixado passar. De Upload a The Expanse, confira as joias escondidas.",
+    "_yoast_wpseo_twitter-title": "Prime Video: 8 Séries de Ficção Científica Que Você Pode Ter Perdido",
+    "_yoast_wpseo_twitter-description": "Descubra 8 séries de ficção científica incríveis do Prime Video que você pode ter deixado passar. De Upload a The Expanse, confira as joias escondidas."
+  }
+}

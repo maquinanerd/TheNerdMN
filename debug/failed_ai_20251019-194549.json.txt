@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Fallout: New Vegas | Obsidian anuncia live especial de aniversário",
+  "conteudo_final": "<p>A <b>Obsidian Entertainment</b> confirmou sua participação em um painel especial dedicado a <b>Fallout: New Vegas</b> durante a Fallout Fan Celebration 2025. Embora o evento anual nem sempre receba grande apoio do estúdio desenvolvedor, este ano marca uma exceção significativa.</p><h2>Desenvolvedores de New Vegas na Fallout Fan Celebration 2025</h2><p>Comemorando o 15º aniversário do jogo, lançado originalmente em 19 de outubro de 2010 para PC e consoles da sétima geração, a Obsidian realizará um painel retrospectivo com diversos desenvolvedores de <b>Fallout: New Vegas</b>. O evento está agendado para 15 de novembro, começando às 10h PT (13h ET).</p><p>O estúdio ainda não revelou os nomes dos quatro funcionários que participarão, mas garantiu que o painel será uma "viagem nostálgica pelo Mojave Wasteland". A Fallout Fan Celebration 2025 ocorrerá de 14 a 16 de novembro no Pioneer Saloon, em Goodsprings, um dos locais icônicos que o jogo recriou.</p><p>Este ano, a celebração ocorrerá em um momento de grande expectativa para os fãs de <b>Fallout</b>, com rumores e especulações sobre o futuro da franquia. Recentemente, uma apresentação interna vazada durante o processo legal da Microsoft contra a FTC mencionou planos para um remaster de <b>Fallout 3</b>. No entanto, não há informações sobre um tratamento semelhante para <b>New Vegas</b>.</p><p>O remaster de <b>Fallout 3</b>, segundo o informante Nate the Hate, ainda está longe de ser concluído e não deve ser anunciado no próximo Fallout Day, em 23 de outubro.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/05/fallout-new-vegas-cure-addictions.jpg\" alt=\"Gameplay de Fallout: New Vegas mostrando o personagem interagindo com um item\"><figcaption>Gameplay de Fallout: New Vegas.</figcaption></figure><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/10/fall-out-new-vegas-3.JPG\" alt=\"Cena de combate em Fallout: New Vegas com personagens do jogo\"><figcaption>Cena de combate em Fallout: New Vegas.</figcaption></figure><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/mixcollage-12-dec-2024-09-49-am-1499.jpg\" alt=\"Arte conceitual ou cena de Fallout: New Vegas\"><figcaption>Arte ou cena de Fallout: New Vegas.</figcaption></figure>",
+  "meta_description": "Obsidian Entertainment confirma participação na Fallout Fan Celebration 2025 com painel especial para celebrar os 15 anos de Fallout: New Vegas.",
+  "focus_keyphrase": "Fallout: New Vegas",
+  "related_keyphrases": [
+    "Obsidian Entertainment",
+    "Fallout Fan Celebration 2025",
+    "Fallout 3 remaster"
+  ],
+  "slug": "fallout-new-vegas-obsidian-anuncia-live",
+  "categorias": [
+    {
+      "nome": "Fallout: New Vegas",
+      "grupo": "obras",
+      "evidence": "Fallout: New Vegas"
+    },
+    {
+      "nome": "Obsidian Entertainment",
+      "grupo": "franquias",
+      "evidence": "Obsidian Entertainment"
+    },
+    {
+      "nome": "Fallout",
+      "grupo": "franquias",
+      "evidence": "Fallout game"
+    }
+  ],
+  "tags_sugeridas": [
+    "fallout new vegas",
+    "obsidian entertainment",
+    "fallout fan celebration",
+    "bethesda",
+    "jogos de rpg"
+  ],
+  "image_alt_texts": {
+    "fallout-new-vegas-cure-addictions.jpg": "Gameplay de Fallout: New Vegas mostrando o personagem interagindo com um item",
+    "fall-out-new-vegas-3.JPG": "Cena de combate em Fallout: New Vegas com personagens do jogo",
+    "mixcollage-12-dec-2024-09-49-am-1499.jpg": "Arte conceitual ou cena de Fallout: New Vegas"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Fallout: New Vegas | Obsidian anuncia live especial de aniversário",
+    "_yoast_wpseo_metadesc": "Obsidian Entertainment confirma participação na Fallout Fan Celebration 2025 com painel especial para celebrar os 15 anos de Fallout: New Vegas.",
+    "_yoast_wpseo_focuskw": "Fallout: New Vegas",
+    "_yoast_news_keywords": "Fallout: New Vegas, Obsidian Entertainment, Fallout Fan Celebration 2025, Bethesda, RPG",
+    "_yoast_wpseo_opengraph-title": "Fallout: New Vegas | Obsidian anuncia live especial de aniversário",
+    "_yoast_wpseo_opengraph-description": "Obsidian Entertainment confirma participação na Fallout Fan Celebration 2025 com painel especial para celebrar os 15 anos de Fallout: New Vegas.",
+    "_yoast_wpseo_twitter-title": "Fallout: New Vegas | Obsidian anuncia live especial de aniversário",
+    "_yoast_wpseo_twitter-description": "Obsidian Entertainment confirma participação na Fallout Fan Celebration 2025 com painel especial para celebrar os 15 anos de Fallout: New Vegas."
+  }
+}

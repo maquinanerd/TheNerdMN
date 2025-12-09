@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Orlando Bloom protagoniza drama de boxe \"The Cut\" com estreia em novembro",
+  "conteudo_final": "<p><b>Orlando Bloom</b>, conhecido por seus papéis em <i>O Senhor dos Anéis</i> e <i>Piratas do Caribe</i>, está se preparando para um novo desafio em sua carreira com o filme de boxe <b>The Cut</b>. O longa, que teve sua estreia mundial no Festival Internacional de Cinema de Toronto em 2024 e um lançamento limitado nos cinemas, chegará ao streaming Paramount+ em 1º de novembro. Esta performance tem sido descrita pelo próprio ator como uma das mais fisicamente exigentes de sua trajetória.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/08/the-cut-poster.jpg\" alt=\"Pôster do filme The Cut com Orlando Bloom\"><figcaption>Pôster oficial do filme \"The Cut\", estrelado por Orlando Bloom.</figcaption></figure><h2>A jornada de um boxeador em busca de redenção</h2><p>Filmes de boxe frequentemente exploram histórias de superação, e <b>The Cut</b> segue essa linha. Dirigido por Sean Ellis, o filme acompanha um boxeador irlandês cuja ascensão promissora encontra obstáculos inesperados. Sem muitas opções, ele retorna à sua cidade natal e assume um emprego em uma academia local. Contudo, uma nova oportunidade surge, impulsionando-o a fazer o que for necessário para recuperar a forma física, voltar aos ringues e derrotar seus adversários.</p><p>O filme se inspira em clássicos do gênero como as franquias <b>Rocky</b> e <b>Creed</b>, além de <b>The Fighter</b>, estrelado por Mark Wahlberg e Christian Bale. A trama promete explorar os desafios físicos e mentais enfrentados por um atleta em sua luta para reconquistar o sucesso.</p><h2>Transformação física e emocional de Orlando Bloom</h2><p>A preparação para papéis em filmes esportivos geralmente envolve uma significativa transformação física. No caso de <b>The Cut</b>, Orlando Bloom compartilhou em entrevista que as filmagens foram uma experiência intensa, gravada em ordem cronológica reversa. Ele revelou ter chegado ao set em seu peso mais leve e enfrentado dificuldades com a energia e a força necessárias para as cenas.</p><blockquote><p>“Honestamente, começamos o filme com meu peso mais leve, então entrei e filmamos em ordem cronológica reversa. Eu simplesmente não tinha a força de vontade ou a força física. Eu estava literalmente deitado no chão entre as tomadas. Felizmente, tive John Turturro como esse parceiro de jogo notável e Caitriona Balfe, que foi simplesmente maravilhosa. Senti-me muito seguro para ser tão vulnerável, nu e assustado, literal e figurativamente. Foi realmente um presente, mas provavelmente foi uma das coisas mais desafiadoras que já me propus a fazer.”</p></blockquote><p>Bloom destacou o apoio de seus colegas de elenco, como <b>John Turturro</b> e <b>Caitríona Balfe</b>, que o ajudaram a lidar com a intensidade do papel e a expressar a vulnerabilidade necessária para a personagem.</p><h2>Elenco e detalhes de produção</h2><p>Além de Orlando Bloom, o elenco de <b>The Cut</b> conta com nomes como <b>John Turturro</b> (conhecido por <i>Severance</i>), <b>Caitríona Balfe</b> (de <i>O Felino Feroz</i>), Gary Beadle e Clare Dunne. A produção busca trazer uma narrativa envolvente sobre perseverança e a busca por um sonho no mundo do boxe profissional.</p><p>O filme tem duração de 99 minutos e foi dirigido por Sean Ellis.</p>",
+  "meta_description": "Orlando Bloom estrela o drama de boxe \"The Cut\", que chega ao Paramount+ em 1º de novembro. Conheça a história de um lutador em busca de redenção.",
+  "focus_keyphrase": "Orlando Bloom The Cut",
+  "related_keyphrases": [
+    "filme de boxe Orlando Bloom",
+    "The Cut streaming",
+    "Paramount+ filmes"
+  ],
+  "slug": "orlando-bloom-the-cut-streaming",
+  "categorias": [
+    {
+      "nome": "The Cut",
+      "grupo": "obras",
+      "evidence": "The Lord of the Rings alum’s latest feature-length project, The Cut"
+    },
+    {
+      "nome": "Orlando Bloom",
+      "grupo": "franquias",
+      "evidence": "Orlando Bloom is preparing to go another round."
+    },
+    {
+      "nome": "Paramount+",
+      "grupo": "obras",
+      "evidence": "slated for a streaming release on Paramount+"
+    }
+  ],
+  "tags_sugeridas": [
+    "orlando-bloom",
+    "the-cut",
+    "filme-de-boxe",
+    "paramount-plus",
+    "drama-esportivo",
+    "sean-ellis",
+    "john-turturro"
+  ],
+  "image_alt_texts": {
+    "the-cut-poster.jpg": "Pôster do filme The Cut com Orlando Bloom em destaque."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Orlando Bloom: \"The Cut\" estreia no Paramount+ em novembro | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Orlando Bloom estrela o drama de boxe \"The Cut\", que chega ao Paramount+ em 1º de novembro. Conheça a história de um lutador em busca de redenção.",
+    "_yoast_wpseo_focuskw": "Orlando Bloom The Cut",
+    "_yoast_news_keywords": "Orlando Bloom, The Cut, filme de boxe, Paramount+, drama esportivo, Sean Ellis, John Turturro, Caitríona Balfe",
+    "_yoast_wpseo_opengraph-title": "Orlando Bloom protagoniza drama de boxe \"The Cut\" com estreia em novembro",
+    "_yoast_wpseo_opengraph-description": "Orlando Bloom estrela o drama de boxe \"The Cut\", que chega ao Paramount+ em 1º de novembro. Conheça a história de um lutador em busca de redenção.",
+    "_yoast_wpseo_twitter-title": "Orlando Bloom: \"The Cut\" estreia no Paramount+ em novembro",
+    "_yoast_wpseo_twitter-description": "Orlando Bloom estrela o drama de boxe \"The Cut\", que chega ao Paramount+ em 1º de novembro. Conheça a história de um lutador em busca de redenção."
+  }
+}

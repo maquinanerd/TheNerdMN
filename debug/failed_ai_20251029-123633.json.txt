@@ -1,0 +1,48 @@
+{
+  "titulo_final": "Dragon Quest I & II HD-2D Remake: Restrições de Streaming da Square Enix",
+  "conteudo_final": "<p>Os jogadores que planejam transmitir o <b>Dragon Quest I &amp; II HD-2D Remake</b>, que será lançado em 30 de outubro, devem se familiarizar com as restrições impostas pela <b>Square Enix</b>. A publicadora já possui um histórico de diretrizes rigorosas para conteúdo, e os remakes de Dragon Quest I e II apresentam decretos particularmente estritos.</p><p>Mesmo para aqueles que pretendem apenas assistir a vídeos de criadores de conteúdo, a ausência de comentários pode deixar o público confuso sobre o motivo de cenas importantes serem puladas. Essas medidas visam evitar problemas de direitos autorais e estarão em vigor até 29 de novembro.</p><h2>Square Enix Protege Cena Pós-Créditos</h2><p>Publicado no site oficial japonês de Dragon Quest, o longo mandamento abrange uma ampla gama de materiais. O ponto mais notável e insistentemente escrito é a "segunda sequência de créditos" de <b>Dragon Quest II</b>. A diretriz pede para \"abster-se de transmitir ao vivo ou postar vídeos/imagens de gameplay\" dessa seção. Isso sugere que pode haver conteúdo de gameplay real, semelhante ao que ocorreu com <b>Dragon Quest III HD-2D Remake</b>, indicando que o DQII foi substancialmente aprimorado em relação às versões originais.</p><p>Além disso, spoilers não são permitidos sem aviso prévio. \"Para não estragar a diversão de outros jogadores, você deve marcar todo o conteúdo que inclua detalhes de grandes desenvolvimentos da trama com um aviso claro de spoiler.\" A intenção é bem-vinda, mas a dificuldade reside na interpretação do que constitui um spoiler em jogos. A recomendação é evitar postar qualquer coisa que possa ser remotamente interpretada como tal, especialmente com um aviso oficial.</p><p>O aviso também proíbe a criação de \"vídeos editados ou playlists com o objetivo de mostrar apenas cenas cinematográficas\", bem como o upload de conteúdo apenas com música. A primeira regra é um padrão raramente aplicado de forma consistente. A permissão para alterar ou modificar o material é limitada: \"Você pode adicionar seus próprios avatares, narração, textos e outras leituras geralmente necessárias ao compartilhar os Materiais\".</p><p>Sites ou serviços \"ilegais ou imorais\", \"religiosos, políticos ou relacionados a atividades antissociais\" e aqueles \"destinados apenas a maiores de 18 anos\" são zonas proibidas para o compartilhamento de conteúdo de <b>Dragon Quest I &amp; II HD-2D Remake</b>. Essa cláusula é bastante nebulosa e pode gerar complicações. O descumprimento das diretrizes pode resultar na \"suspensão temporária ou permanente\" do jogador.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/05/dragon-quest-hd2d-remake-king-of-tantegel.jpg\" alt=\"Cena de gameplay de Dragon Quest I &amp; II HD-2D Remake com o personagem principal.\"><figcaption>Cena de gameplay de Dragon Quest I &amp; II HD-2D Remake.</figcaption></figure><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/07/dragon-quest-i-ii-hd-2d-remake.jpg\" alt=\"Imagem promocional de Dragon Quest I &amp; II HD-2D Remake.\"><figcaption>Imagem promocional de Dragon Quest I &amp; II HD-2D Remake.</figcaption></figure><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/03/mixcollage-28-mar-2025-12-04-am-8231.jpg\" alt=\"Montagem de imagens de Dragon Quest I &amp; II HD-2D Remake.\"><figcaption>Montagem de imagens de Dragon Quest I &amp; II HD-2D Remake.</figcaption></figure>",
+  "meta_description": "Square Enix impõe restrições rigorosas para streaming de Dragon Quest I & II HD-2D Remake. Saiba quais são as diretrizes e o que evitar.",
+  "focus_keyphrase": "Dragon Quest I & II HD-2D Remake",
+  "related_keyphrases": [
+    "Dragon Quest streaming",
+    "Square Enix diretrizes",
+    "DQ1 e DQ2 HD-2D"
+  ],
+  "slug": "dragon-quest-hd2d-remake-restricoes-streaming",
+  "categorias": [
+    {
+      "nome": "Dragon Quest I & II HD-2D Remake",
+      "grupo": "obras",
+      "evidence": "Dragon Quest I &amp; II HD-2D Remake"
+    },
+    {
+      "nome": "Square Enix",
+      "grupo": "editorias",
+      "evidence": "Square Enix's"
+    }
+  ],
+  "tags_sugeridas": [
+    "Dragon Quest",
+    "Dragon Quest I",
+    "Dragon Quest II",
+    "Square Enix",
+    "RPG",
+    "Remake",
+    "Streaming"
+  ],
+  "image_alt_texts": {
+    "dragon-quest-hd2d-remake-king-of-tantegel.jpg": "Cena de gameplay de Dragon Quest I & II HD-2D Remake com o personagem principal.",
+    "dragon-quest-i-ii-hd-2d-remake.jpg": "Imagem promocional de Dragon Quest I & II HD-2D Remake.",
+    "mixcollage-28-mar-2025-12-04-am-8231.jpg": "Montagem de imagens de Dragon Quest I & II HD-2D Remake."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Dragon Quest I & II HD-2D Remake: Restrições de Streaming da Square Enix",
+    "_yoast_wpseo_metadesc": "Square Enix impõe restrições rigorosas para streaming de Dragon Quest I & II HD-2D Remake. Saiba quais são as diretrizes e o que evitar.",
+    "_yoast_wpseo_focuskw": "Dragon Quest I & II HD-2D Remake",
+    "_yoast_news_keywords": "Dragon Quest, Dragon Quest I, Dragon Quest II, HD-2D Remake, Square Enix, Streaming, RPG",
+    "_yoast_wpseo_opengraph-title": "Dragon Quest I & II HD-2D Remake: Restrições de Streaming da Square Enix",
+    "_yoast_wpseo_opengraph-description": "Square Enix impõe restrições rigorosas para streaming de Dragon Quest I & II HD-2D Remake. Saiba quais são as diretrizes e o que evitar.",
+    "_yoast_wpseo_twitter-title": "Dragon Quest I & II HD-2D Remake: Restrições de Streaming da Square Enix",
+    "_yoast_wpseo_twitter-description": "Square Enix impõe restrições rigorosas para streaming de Dragon Quest I & II HD-2D Remake. Saiba quais são as diretrizes e o que evitar."
+  }
+}

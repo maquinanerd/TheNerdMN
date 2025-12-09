@@ -1,0 +1,69 @@
+﻿# Credenciais e variáveis
+.env
+*.env
+.env.*
+secrets/
+keys/
+credentials/
+*.key
+*.pem
+*.p12
+*.crt
+*.cer
+*.jks
+
+# Logs e DBs
+*.log
+logs/
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Node (se tiver)
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Build/Dist
+dist/
+build/
+.cache/
+.coverage
+htmlcov/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Configs locais
+config/
+*.ini
+*.cfg
+*.toml
+
+# Arquivos potencialmente sensíveis
+*.json
+*.yml
+*.yaml
+
+# Temporários
+*.tmp
+*.bak
+
+# keys
+app/keys.py

@@ -1,0 +1,62 @@
+{
+  "titulo_final": "Bill Skarsgård: Os sustos de Pennywise no elenco de \"Bem-Vindo a Derry\"",
+  "conteudo_final": "<p>O elenco de <b><i>IT: Bem-Vindo a Derry</i></b> revelou as travessuras que Bill Skarsgård, como Pennywise, aprontou nos bastidores da série prequel de terror. Skarsgård retorna ao papel do icônico palhaço assassino, e sua presença promete ser um dos pontos altos da produção.</p>\n\n<h2>O Lado Doce de Pennywise Fora das Câmeras</h2>\n<p>Apesar da natureza aterrorizante de Pennywise, os atores adultos do elenco de <i>IT: Bem-Vindo a Derry</i> afirmaram que Skarsgård era um colega de trabalho doce e focado. James Remar descreveu o ator como \"muito, muito doce\" quando as câmeras não estavam gravando, ressaltando o peso e o rigor do figurino de Pennywise, que pode pesar mais de 45 quilos.</p>\n<p>Chris Chalk compartilhou que sua primeira reação ao ver Bill Skarsgård caracterizado foi de admiração pela maquiagem e pelo figurino, focando no aspecto técnico da atuação. Stephen Rider concordou, descrevendo Skarsgård como um \"ótimo cara\", mas admitindo que a dualidade entre a pessoa gentil e a figura assustadora de Pennywise era \"estranha\". Ele brincou sobre o visual do personagem, dizendo que \"precisa deixar [a calvície] ir\".</p>\n\n<h2>Travessuras e Medos Reais com os Jovens Atores</h2>\n<p>Em contraste com a experiência dos atores adultos, Brad Caleb Kane, co-showrunner da série, e alguns dos atores mais jovens, como Joshua Odjick, confirmaram que Skarsgård realmente pregava peças e assustava os atores mirins. Kane explicou que essa tática é essencial para obter reações genuínas de terror na tela, já que a presença de câmeras e equipes pode diminuir o medo.</p>\n<p>Joshua Odjick relatou que Skarsgård, em seu traje completo e com saltos, chegava a parecer ter mais de dois metros de altura, fazendo-o sentir-se \"encolhendo\". Blake James descreveu um encontro assustador nos esgotos, onde Skarsgård pulou para assustá-lo, uma experiência que ele não achou engraçada, mas sim \"aterrorizante\". Arian Cartaya corroborou, dizendo que Skarsgård começou a rir na voz de Pennywise ao entrarem nos esgotos, deixando ambos \"aterrorizados\".</p>\n<figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "Descubra as travessuras de Bill Skarsgård como Pennywise no set de \"IT: Bem-Vindo a Derry\". Atores revelam como o palhaço assustou o elenco.",
+  "focus_keyphrase": "Bill Skarsgård Pennywise Bem-Vindo a Derry",
+  "related_keyphrases": [
+    "Pennywise travessuras elenco",
+    "IT Bem-Vindo a Derry bastidores",
+    "Bill Skarsgård terror"
+  ],
+  "slug": "bill-skarsgard-pennywise-bem-vindo-a-derry-travessuras",
+  "categorias": [
+    {
+      "nome": "IT: Bem-Vindo a Derry",
+      "grupo": "obras",
+      "evidence": "O elenco de IT: Bem-Vindo a Derry"
+    },
+    {
+      "nome": "Pennywise",
+      "grupo": "personagens",
+      "evidence": "Skarsgård retorna como Pennywise"
+    },
+    {
+      "nome": "Stephen King",
+      "grupo": "autores",
+      "evidence": "Stephen King"
+    }
+  ],
+  "tags_sugeridas": [
+    "Bill Skarsgård",
+    "Pennywise",
+    "IT Bem-Vindo a Derry",
+    "Stephen King",
+    "Terror",
+    "HBO Max",
+    "Série de TV"
+  ],
+  "image_alt_texts": {
+    "bill-skarsgard-sneering-as-pennywise-in-it-welcome-to-derry.jpg": "Bill Skarsgård com um sorriso ameaçador como Pennywise na série IT: Bem-Vindo a Derry.",
+    "imgi_1_tease-art-4.jpeg": "Pôster da série IT: Bem-Vindo a Derry.",
+    "dick-hallorann-with-his-eyes-wide-looking-angry-in-it-welcome-to-derry.jpg": "Dick Hallorann com os olhos arregalados e furiosos em IT: Bem-Vindo a Derry.",
+    "jack-molloy-legault-and-mikkal-karrim-fidler-walking-through-a-school-hallway-in-it_-welcome-to-derry-season-1.jpg": "Jack Molloy Legault e Mikkal Karrim-Fidler em um corredor escolar na série IT: Bem-Vindo a Derry.",
+    "bill-skarsgard-s-pennywise-in-it-welcome-to-derry-trailer-2.jpg": "Bill Skarsgård como Pennywise em um trailer de IT: Bem-Vindo a Derry.",
+    "kid-similing-in-it-welcome-to-derry.jpg": "Uma criança sorrindo na série IT: Bem-Vindo a Derry.",
+    "taylour-paige-as-charlotte-hanlon-in-it_-welcome-to-derry.jpg": "Taylour Paige como Charlotte Hanlon em IT: Bem-Vindo a Derry.",
+    "pennywise-holds-up-a-red-balloon-in-the-sewers-from-it-welcome-to-derry-trailer.jpg": "Pennywise segurando um balão vermelho nos esgotos em um trailer de IT: Bem-Vindo a Derry.",
+    "it_-welcome-to-derry-teens-looking-surprised-at-something-off-screen.jpg": "Adolescentes surpresos em IT: Bem-Vindo a Derry.",
+    "upcoming-stephen-king-show-will-prove-1-dark-truth-about-his-iconic-monster.jpg": "Imagem promocional de uma série de Stephen King.",
+    "instar54387267.jpg": "Foto de Bill Skarsgård.",
+    "instar44146730-1.jpg": "Foto de Taylour Paige."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Bill Skarsgård: Os sustos de Pennywise no elenco de \"Bem-Vindo a Derry\"",
+    "_yoast_wpseo_metadesc": "Descubra as travessuras de Bill Skarsgård como Pennywise no set de \"IT: Bem-Vindo a Derry\". Atores revelam como o palhaço assustou o elenco.",
+    "_yoast_wpseo_focuskw": "Bill Skarsgård Pennywise Bem-Vindo a Derry",
+    "_yoast_news_keywords": "Bill Skarsgård, Pennywise, IT Bem-Vindo a Derry, Stephen King, Terror, HBO Max, Série de TV, Travessuras",
+    "_yoast_wpseo_opengraph-title": "Bill Skarsgård: Os sustos de Pennywise no elenco de \"Bem-Vindo a Derry\"",
+    "_yoast_wpseo_opengraph-description": "Descubra as travessuras de Bill Skarsgård como Pennywise no set de \"IT: Bem-Vindo a Derry\". Atores revelam como o palhaço assustou o elenco.",
+    "_yoast_wpseo_twitter-title": "Bill Skarsgård: Os sustos de Pennywise no elenco de \"Bem-Vindo a Derry\"",
+    "_yoast_wpseo_twitter-description": "Descubra as travessuras de Bill Skarsgård como Pennywise no set de \"IT: Bem-Vindo a Derry\". Atores revelam como o palhaço assustou o elenco."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Michael Dorn: Produtores de Enterprise mentiram sobre Scott Bakula",
+      "conteudo_final": "<p>Michael Dorn, ícone de <em>Star Trek: The Next Generation</em>, expõe uma mentira contada por produtores de <em>Star Trek: Enterprise</em> que o impediu de dirigir mais episódios. Dorn, conhecido por seu papel como Worf, o maior Klingon de <em>Star Trek</em>, também dirigiu três episódios de <em>Star Trek: Deep Space Nine</em> enquanto atuava na série.</p><h2>Participação em Enterprise</h2><p>Michael Dorn dirigiu o episódio 25 da primeira temporada de <em>Star Trek: Enterprise</em>, intitulado \"Two Days and Two Nights\". No entanto, a aventura cômica no planeta de prazer Risa acabou sendo o único episódio da série prequel de <em>Star Trek</em>, estrelada por Scott Bakula como Capitão Jonathan Archer, que Dorn foi contratado para dirigir.</p><p>Em participação no podcast <em>The D-Con Chamber</em>, Michael Dorn explicou aos apresentadores e colegas de elenco de <em>Star Trek: Enterprise</em>, Dominic Keating e Connor Trinneer, que ele foi enganado sobre o motivo de ter dirigido apenas um episódio de <em>Enterprise</em>.</p><h2>A negociação e a mentira</h2><p>Michael Dorn revelou que sua oportunidade de dirigir em <em>Enterprise</em> surgiu durante as negociações para sua participação em <em>Star Trek: Nemesis</em>. Segundo ele, os produtores usaram o nome de Scott Bakula para lhe dar uma informação falsa.</p><p>\"Isso surgiu, e interessantemente, adiciona algo, quando eles lançaram nosso último filme [Star Trek: Nemesis], que era o filme para o qual não tínhamos contrato... E então, em nossa negociação, e estes são os fatos, li o roteiro e não fiquei muito feliz com o roteiro. Número um... não havia muito Worf nele\", disse Dorn.</p><p>Ele continuou: \"Mas eles disseram: 'Bem, o que você quer?' E eu disse que quero dirigir... E eu deveria fazer três episódios de Enterprise... Três ou quatro... E foi minha culpa, porque... Eles disseram: 'Olha, daremos a você um garantido e três pay-or-play'. E eu deveria ter dito: 'Não. Garantido'. E então, eu fiz o único [episódio], e eles me pagaram pelos outros três\".</p><p>Dorn expressou seu desapontamento: \"É extremamente decepcionante, porque você pensa: 'Quer dizer que eu fui tão ruim?' Que eles disseram: 'Não queremos vê-lo nunca mais'. Foi simplesmente terrível... E então também... meus agentes ligaram para eles e disseram: 'Olha, que diabos está acontecendo?' E eles disseram: 'Scott Bakula odiava Michael'. Isso é bosta. É por isso que eles não queriam [que eu dirigisse mais Enterprise]\".</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/hPKotBsIk9M\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Michael Dorn em entrevista no podcast The D-Con Chamber.</figcaption></figure><h2>A verdade sobre Scott Bakula</h2><p>Diante da surpresa de Dominic Keating e Connor Trinneer, que insistiram que Scott Bakula jamais diria algo assim, Michael Dorn concordou, revelando que conversou com Scott sobre o assunto anos depois.</p><p>\"Sabe de uma coisa, eu conversei com Scott. Ele estava em Londres, na casa do Patrick [Stewart], e tivemos um ótimo momento. E eu sabia que não era verdade. Scott [e] todo mundo em [Enterprise], os atores, eram profissionais consumados. Não havia 'coisas' acontecendo\", relatou Dorn.</p><p>Como um profissional exemplar, Michael Dorn não revelou quem mentiu aos seus agentes, afirmando que Scott Bakula supostamente o \"odiava\". Independentemente disso, Dorn, Connor Trinneer e Dominic Keating conhecem Scott Bakula pessoalmente e concordam que ele jamais usaria sua influência para impedir Dorn de dirigir mais episódios de <em>Star Trek: Enterprise</em>.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-bakula-captain-archer-and-porthos-1.jpg?q=49&fit=crop&w=825&dpr=2" alt="Scott Bakula como Capitão Archer com seu cão Porthos em Star Trek: Enterprise."/><figcaption>Scott Bakula interpretou o Capitão Jonathan Archer em Star Trek: Enterprise.</figcaption></figure><p>A reputação de Scott Bakula é amplamente conhecida em Hollywood. Inúmeros atores e equipes que trabalharam com Bakula o aclamaram como um profissional consumado e um excelente líder que se preocupa com todos na produção em que Scott atua. Após dirigir Bakula, Michael Dorn nunca acreditou na mentira de que Scott o \"odiava\".</p><p>Além de ser o único episódio de <em>Star Trek: Enterprise</em> que Michael Dorn dirigiu, \"Two Days and Two Nights\" também se tornou a última vez que Dorn dirigiu qualquer obra de <em>Star Trek</em>. Após <em>Star Trek: Nemesis</em>, Dorn só retornaria à franquia em <em>Star Trek: Picard</em> temporada 3, reprisando seu papel como Capitão Worf.</p><p>Com 283 aparições como Worf nas séries de TV <em>Star Trek: The Next Generation</em>, filmes, <em>Star Trek: Deep Space Nine</em> e <em>Star Trek: Picard</em>, Michael Dorn detém um recorde que nunca será quebrado. Michael Dorn também pode se orgulhar de que seu episódio de <strong>Star Trek: Enterprise</strong> é uma das exibições mais divertidas da primeira temporada.</p>",
+      "meta_description": "Michael Dorn revela mentira de produtores de Star Trek: Enterprise sobre Scott Bakula e explica o real motivo de não ter dirigido mais episódios.",
+      "focus_keyphrase": "Michael Dorn Star Trek Enterprise",
+      "related_keyphrases": [
+        "Star Trek Enterprise Scott Bakula",
+        "Michael Dorn dirigiu Star Trek",
+        "Produção Star Trek Enterprise"
+      ],
+      "slug": "michael-dorn-star-trek-enterprise-scott-bakula-mentira",
+      "categorias": [
+        {
+          "nome": "Star Trek: Enterprise",
+          "grupo": "obras",
+          "evidence": "<em>Star Trek: Enterprise</em>"
+        },
+        {
+          "nome": "Michael Dorn",
+          "grupo": "atores",
+          "evidence": "Michael Dorn"
+        },
+        {
+          "nome": "Scott Bakula",
+          "grupo": "atores",
+          "evidence": "Scott Bakula"
+        }
+      ],
+      "tags_sugeridas": [
+        "star trek",
+        "star trek enterprise",
+        "michael dorn",
+        "scott bakula",
+        "worf",
+        "star trek next generation",
+        "star trek picard"
+      ],
+      "image_alt_texts": {
+        "scott-bakula-captain-archer-and-porthos-1.jpg": "Scott Bakula como Capitão Jonathan Archer em Star Trek: Enterprise, acompanhado de seu cão Porthos."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Michael Dorn: Produtores de Enterprise mentiram sobre Scott Bakula",
+        "_yoast_wpseo_metadesc": "Michael Dorn revela mentira de produtores de Star Trek: Enterprise sobre Scott Bakula e explica o real motivo de não ter dirigido mais episódios.",
+        "_yoast_wpseo_focuskw": "Michael Dorn Star Trek Enterprise",
+        "_yoast_news_keywords": "Michael Dorn, Star Trek Enterprise, Scott Bakula, Star Trek, Worf, TNG, Jean-Luc Picard, Trekkies",
+        "_yoast_wpseo_opengraph-title": "Michael Dorn: Produtores de Enterprise mentiram sobre Scott Bakula",
+        "_yoast_wpseo_opengraph-description": "Michael Dorn revela mentira de produtores de Star Trek: Enterprise sobre Scott Bakula e explica o real motivo de não ter dirigido mais episódios.",
+        "_yoast_wpseo_twitter-title": "Michael Dorn: Produtores de Enterprise mentiram sobre Scott Bakula",
+        "_yoast_wpseo_twitter-description": "Michael Dorn revela mentira de produtores de Star Trek: Enterprise sobre Scott Bakula e explica o real motivo de não ter dirigido mais episódios."
+      }
+    }
+  ]
+}

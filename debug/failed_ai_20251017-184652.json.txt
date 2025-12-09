@@ -1,0 +1,59 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ghost of Yotei: Sucker Punch descarta DLC similar a Iki Island",
+      "conteudo_final": "<p>Apesar do suporte pós-lançamento robusto para <b>Ghost of Tsushima</b>, que incluiu a expansão multijogador gratuita Legends e o DLC Iki Island, o novo título da franquia, <b>Ghost of Yotei</b>, pode não seguir o mesmo caminho em termos de conteúdo adicional pago.</p><h2>Yotei terá DLC?</h2><p>Em entrevista recente, o co-diretor Jason Connell abordou a possibilidade de uma expansão para <b>Ghost of Yotei</b> nos moldes de Iki Island. A resposta, no entanto, foi cautelosa, indicando que não há planos concretos para tal conteúdo no momento. Connell explicou que a equipe da Sucker Punch está focada em observar a recepção do jogo pelo público para entender quais elementos mais ressoaram e se há um desejo por mais aprofundamento em certos aspectos da narrativa ou dos personagens.</p><p>“Penso que, para nós, estamos no ponto do projeto em que apenas podemos lançá-lo e ver o que está ressoando com as pessoas e o que as pessoas amam e o que elas sentem que talvez gostariam de saber mais sobre Atsu”, declarou Connell, comparando o processo ao que ocorreu com <b>Ghost of Tsushima</b>.</p><p>“E eu acho que para nós, esta é a parte mais importante do projeto, em termos de tomar decisões como essas, porque o mesmo aconteceu com Tsushima. Você pode ouvir, você pode pensar: 'Ah, ok. As pessoas parecem querer saber um pouco mais sobre aquele relacionamento ou o que aconteceu com o pai'. Como você aprofunda esse personagem?”, continuou o diretor.</p><p>Connell ressaltou o valor de ouvir o feedback de milhões de jogadores para refinar a história e adicionar clareza narrativa. Ele mencionou que, embora gostem muito do personagem Atsu, qualquer decisão sobre um DLC seria tomada com base na necessidade de aprimorar a experiência ou trazer novos elementos que beneficiem a narrativa. A prioridade é sempre o que é melhor para a Sucker Punch e para a história a ser contada.</p><p>O roteirista principal, Ian Ryan, também comentou sobre o arco de Atsu, afirmando que, para ele, “uma etapa foi concluída”. Isso sugere que a intenção inicial da Sucker Punch era fechar a história de Atsu neste jogo. No entanto, o futuro dirá se o estúdio reconsiderará essa abordagem com base no engajamento dos jogadores.</p><h2>Suporte Pós-Lançamento</h2><p>Já foi anunciado que uma sequência para o modo multijogador <b>Legends</b> está prevista para 2026. Isso demonstra que a Sucker Punch continua comprometida com o universo de <b>Ghost of Tsushima</b>, mesmo que o foco para conteúdo adicional para um jogador possa ser diferente do que foi visto com a expansão Iki Island. A estratégia de escutar o público demonstra uma atenção especial às demandas e desejos dos fãs, o que pode moldar o futuro da franquia.</p><p>A expectativa agora recai sobre a recepção de <b>Ghost of Yotei</b> e como essa interação entre desenvolvedores e jogadores moldará os próximos passos da Sucker Punch para a saga dos samurais.</p>",
+      "meta_description": "Sucker Punch cogita DLC para Ghost of Yotei, mas descarta expansão similar a Iki Island. Entenda os planos do estúdio para o novo jogo.",
+      "focus_keyphrase": "Ghost of Yotei DLC",
+      "related_keyphrases": [
+        "Ghost of Yotei",
+        "Sucker Punch",
+        "Ghost of Tsushima"
+      ],
+      "slug": "ghost-of-yotei-dlc",
+      "categorias": [
+        {
+          "nome": "Ghost of Yotei",
+          "grupo": "obras",
+          "evidence": "Ghost of Yotei"
+        },
+        {
+          "nome": "Ghost of Tsushima",
+          "grupo": "obras",
+          "evidence": "Ghost of Tsushima"
+        },
+        {
+          "nome": "Sucker Punch",
+          "grupo": "editorias",
+          "evidence": "Sucker Punch"
+        }
+      ],
+      "tags_sugeridas": [
+        "ghost of yotei",
+        "sucker punch",
+        "ghost of tsushima",
+        "jason connell",
+        "expansão dlc",
+        "legends multiplayer"
+      ],
+      "image_alt_texts": {
+        "ghost-of-yotei-press-image-1-1.jpg": "Personagem Atsu em cena de ação em Ghost of Yotei",
+        "ghost-of-yotei-press-image-2-1.jpg": "Cenário de combate em Ghost of Yotei",
+        "ghost-of-yotei-press-image-3-1.jpg": "Atmosfera sombria em Ghost of Yotei",
+        "ghost-of-yotei-press-image-4-1.jpg": "Combate contra múltiplos inimigos em Ghost of Yotei",
+        "ghost-of-yotei-press-image-5-1.jpg": "Personagem principal em pose de combate em Ghost of Yotei",
+        "ghost-of-yotei-tag-page-cover-art.jpg": "Arte de capa de Ghost of Yotei"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ghost of Yotei: Sucker Punch descarta DLC similar a Iki Island",
+        "_yoast_wpseo_metadesc": "Sucker Punch cogita DLC para Ghost of Yotei, mas descarta expansão similar a Iki Island. Entenda os planos do estúdio para o novo jogo.",
+        "_yoast_wpseo_focuskw": "Ghost of Yotei DLC",
+        "_yoast_news_keywords": "Ghost of Yotei, Sucker Punch, Ghost of Tsushima, DLC, Iki Island, Legends",
+        "_yoast_wpseo_opengraph-title": "Ghost of Yotei: Sucker Punch descarta DLC similar a Iki Island",
+        "_yoast_wpseo_opengraph-description": "Sucker Punch cogita DLC para Ghost of Yotei, mas descarta expansão similar a Iki Island. Entenda os planos do estúdio para o novo jogo.",
+        "_yoast_wpseo_twitter-title": "Ghost of Yotei: Sucker Punch descarta DLC similar a Iki Island",
+        "_yoast_wpseo_twitter-description": "Sucker Punch cogita DLC para Ghost of Yotei, mas descarta expansão similar a Iki Island. Entenda os planos do estúdio para o novo jogo."
+      }
+    }
+  ]
+}

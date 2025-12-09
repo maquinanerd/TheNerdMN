@@ -1,0 +1,144 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "MCU: Os 10 Personagens LGBT Confirmados no Universo Marvel",
+      "conteudo_final": "<p>O Universo Cinematográfico Marvel (MCU) tem expandido sua representatividade com personagens LGBT confirmados. Desde a introdução de figuras como Jeri Hogarth e Yukio, até personagens mais recentes em séries como <b>X-Men '97</b> com o não-binário Morph, a Marvel demonstra um crescente compromisso com a diversidade.</p><h2>Personagens LGBT no MCU e suas chances de retorno</h2>\n<p>A jornada de representatividade LGBT no MCU tem se consolidado, especialmente em fases recentes. Personagens como Korg, Morte, Aneka, Phastos, Agatha Harkness, Valquíria, Deadpool, America Chavez, Wiccan e Loki & Sylvie já tiveram suas identidades confirmadas no universo.</p>\n<h3>Korg: A Proximidade com Dwayne</h3>\n<p>Introduzido em <b>Thor: Ragnarok</b>, Korg revelou detalhes de sua vida pessoal em <b>Thor: Amor e Trovão</b>. A forma como os Kronans se reproduzem, através de dois homens que se unem, e seu relacionamento com Dwayne, sugerem uma continuidade para o personagem. No entanto, a recepção mista do filme pode afetar seu retorno.</p>\n<h3>Morte: Um Amor em Meio à Magia</h3>\n<p>Na série <b>Agatha All Along</b>, a personagem Morte, interpretada por Aubrey Plaza, teve um relacionamento com Agatha Harkness. A série sugeriu que Nicholas Scratch seria filho de ambas, marcando um ponto significativo para a representatividade. A esperança é que Morte retorne para explorar mais de sua história.</p>\n<h3>Aneka: A Força das Dora Milaje</h3>\n<p>Em <b>Pantera Negra: Wakanda Para Sempre</b>, Aneka foi apresentada como uma membro das Dora Milaje com suas próprias regras, abrindo caminho para se tornar uma <b>Meia-Noite Angel</b>. Com planos para futuras produções ambientadas em Wakanda, há esperança para o retorno de Aneka e outros membros LGBT das Dora Milaje.</p>\n<h3>Phastos: O Primeiro Herói LGBT do MCU</h3>\n<p>Em <b>Eternos</b>, o personagem Phastos, interpretado por Brian Tyree Henry, marcou a estreia do primeiro herói abertamente gay do MCU. O filme também apresentou seu marido, Ben, e seu filho, além de registrar o primeiro beijo entre pessoas do mesmo sexo na franquia. A expectativa é que os Eternos retornem em futuras aventuras.</p>\n<h3>Agatha Harkness: A Feiticeira Revelada</h3>\n<p>Kathryn Hahn brilhou como Agatha Harkness em <b>WandaVision</b> e, mais recentemente, em <b>Agatha All Along</b>. A série explorou seu relacionamento com Morte e sua sexualidade, indicando que ela não é uma “senhora heterossexual”. Seu possível retorno em projetos como <b>VisionQuest</b> em 2026 a torna uma forte candidata a permanecer no MCU.</p>\n<h3>Valquíria: A Rainha de Nova Asgard</h3>\n<p>Embora não explicitamente referenciada no MCU, a sexualidade de Valquíria, interpretada por Tessa Thompson, é amplamente conhecida pela comunidade LGBT. Sua ascensão como Rainha de Nova Asgard em <b>Thor: Ragnarok</b> e subsequentes aparições abrem espaço para o desenvolvimento de seus relacionamentos, possivelmente com figuras como Carol Danvers.</p>\n<h3>Deadpool: Um Anti-Herói Pansexual</h3>\n<p>Ryan Reynolds interpreta Wade Wilson, o Deadpool, que é firmemente estabelecido como pansexual nos quadrinhos da Marvel. Suas falas e piadas no MCU sugerem uma sexualidade expansiva, tornando-o um dos personagens LGBT mais populares. O sucesso de <b>Deadpool & Wolverine</b> garante seu retorno, com potencial para explorar sua identidade com mais profundidade.</p>\n<h3>America Chavez: Uma Jornada de Identidade</h3>\n<p>Originária de outra dimensão, America Chavez (Xochitl Gomez) teve suas relações com mulheres, como Kate Bishop, exploradas nos quadrinhos. Embora ainda não tenha sido aprofundado no MCU, seu poder multiversal e habilidades mágicas garantem seu retorno, abrindo portas para explorar sua identidade.</p>\n<h3>Wiccan: O Filho da Feiticeira Escarlate</h3>\n<p>A série <b>Agatha All Along</b> apresentou a forma reencarnada de Billy Maximoff, o Wiccan, filho da Feiticeira Escarlate. Interpretado por Joe Locke, ele iniciou um relacionamento com Eddie. A série <b>WandaVision</b> já havia introduzido Billy, e seu retorno é provável, permitindo a exploração de sua vida amorosa no futuro do MCU.</p>\n<h3>Loki & Sylvie: Um Amor Complexo</h3>\n<p>Tom Hiddleston como Loki confirmou sua bissexualidade na primeira temporada de <b>Loki</b>. Sua variante, Sylvie (Sophia Di Martino), também revelou sua bissexualidade. Embora o romance atual de Loki seja com sua própria variante, a confirmação de Hiddleston em <b>Vingadores: Dinastia Kang</b> e o teaser de Di Martino indicam que a dupla continuará a ter destaque no MCU.</p>",
+      "meta_description": "Conheça 10 personagens LGBT confirmados no MCU, de Loki e Sylvie a America Chavez e Wiccan, e avalie suas chances de retorno.",
+      "focus_keyphrase": "Personagens LGBT no MCU",
+      "related_keyphrases": [
+        "Representatividade LGBT no MCU",
+        "Personagens queer do Universo Marvel",
+        "Retorno de personagens LGBT no MCU"
+      ],
+      "slug": "personagens-lgbt-mcu",
+      "categorias": [
+        {
+          "nome": "Universo Cinematográfico Marvel",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        },
+        {
+          "nome": "Agatha All Along",
+          "grupo": "obras",
+          "evidence": "Agatha All Along"
+        },
+        {
+          "nome": "Loki",
+          "grupo": "obras",
+          "evidence": "Loki season 1"
+        }
+      ],
+      "tags_sugeridas": [
+        "MCU",
+        "Marvel",
+        "LGBT",
+        "Representatividade",
+        "Loki",
+        "Agatha Harkness",
+        "America Chavez"
+      ],
+      "image_alt_texts": {
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Personagens LGBT no MCU - Arte conceitual de personagens da Marvel.",
+        "pax-dei.png": "Personagens LGBT no MCU - Imagem promocional da Marvel Studios.",
+        "Agatha-Harkness-using-her-magic-in-Agatha-All-Along.jpg": "Agatha Harkness usando magia em Agatha All Along, personagem LGBT do MCU.",
+        "America-Chavez-in-a-glass-cage-in-Doctor-Strange-in-the-Multiverse-of-Madness.jpg": "America Chavez em uma caixa de vidro em Doutor Estranho no Multiverso da Loucura, personagem LGBT do MCU.",
+        "Aneka-as-a-Midnight-Angel-in-Black-Panther-Wakanda-Forever.jpg": "Aneka como Meia-Noite Angel em Pantera Negra: Wakanda Para Sempre, personagem LGBT do MCU.",
+        "Battlestar-Galactica-33.jpg": "Personagens LGBT no MCU - Imagem de Battlestar Galactica.",
+        "Billy-Maximoffs-Wiccan-after-Agathas-death-in-Agatha-All-Along.jpg": "Billy Maximoff (Wiccan) após a morte de Agatha em Agatha All Along, personagem LGBT do MCU.",
+        "Deadpool-with-gold-guns-in-Deadpool-Wolverine.jpg": "Deadpool com armas douradas em Deadpool & Wolverine, personagem LGBT do MCU.",
+        "Death-showing-her-face-in-Agatha-All-Along.jpg": "Morte mostrando seu rosto em Agatha All Along, personagem LGBT do MCU.",
+        "Korg-waving-in-Avengers-Endgamer.jpg": "Korg acenando em Vingadores: Ultimato, personagem LGBT do MCU.",
+        "Loki-and-Sylvie-about-to-die-in-Loki-season-1.jpg": "Loki e Sylvie prestes a morrer em Loki temporada 1, personagens LGBT do MCU.",
+        "Phastos-in-the-Domo-in-Eternals.jpg": "Phastos no Domo em Eternos, personagem LGBT do MCU.",
+        "Star-Cops.jpg": "Personagens LGBT no MCU - Imagem de Star Cops.",
+        "Valkyrie-on-Sakaar-in-Thor-Ragnarok.jpg": "Valquíria em Sakaar em Thor: Ragnarok, personagem LGBT do MCU.",
+        "p-s-2.png": "Personagens LGBT no MCU - Arte promocional.",
+        "p-s-5-p-r-o.png": "Personagens LGBT no MCU - Imagem de game.",
+        "p-s-5_aed69f.png": "Personagens LGBT no MCU - Imagem promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "MCU: 10 Personagens LGBT Confirmados e Suas Chances de Retorno | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Conheça 10 personagens LGBT confirmados no MCU, de Loki e Sylvie a America Chavez e Wiccan, e avalie suas chances de retorno.",
+        "_yoast_wpseo_focuskw": "Personagens LGBT no MCU",
+        "_yoast_news_keywords": "MCU, Marvel, LGBT, Universo Cinematográfico Marvel, Personagens LGBT, Loki, Sylvie, America Chavez, Wiccan, Agatha Harkness, Valquíria, Deadpool",
+        "_yoast_wpseo_opengraph-title": "Personagens LGBT Confirmados no MCU: Quem Volta?",
+        "_yoast_wpseo_opengraph-description": "O MCU tem expandido sua representatividade com personagens LGBT. Descubra quem são e quais têm mais chances de retornar.",
+        "_yoast_wpseo_twitter-title": "Personagens LGBT Confirmados no MCU: Quem Volta?",
+        "_yoast_wpseo_twitter-description": "O MCU tem expandido sua representatividade com personagens LGBT. Descubra quem são e quais têm mais chances de retornar."
+      }
+    },
+    {
+      "titulo_final": "5 Filmes da Marvel Pré-MCU Essenciais que Merecem Reconhecimento",
+      "conteudo_final": "<p>Antes do sucesso estrondoso do <b>Universo Cinematográfico Marvel (MCU)</b>, a Marvel já presentava o público com filmes de super-heróis que moldaram o gênero. Embora o MCU tenha revolucionado a forma como as marcas são adaptadas para o cinema, começando com o ousado <b>Homem de Ferro</b> em 2008, produções anteriores pavimentaram o caminho para o sucesso estrondoso das histórias em quadrinhos nas telonas.</p>\n\n<p>Esses filmes, lançados antes da formação do MCU pela Marvel Studios, enfrentaram seus próprios desafios e sucessos, mas todos contribuíram significativamente para a popularidade dos filmes de super-heróis. Alguns, inclusive, são considerados marcos que merecem tanto crédito quanto as produções atuais.</p>\n\n<h2>Blade (1998): O Pioneiro do Terror Marvel</h2>\n<p>Em 1998, a Marvel ainda não possuía um histórico de sucesso cinematográfico expressivo. Filmes como <b>O Justiceiro</b> com Dolph Lundgren e o cômico <b>Howard, o Super-Herói</b> eram os exemplos mais conhecidos. No entanto, <b>Blade</b>, estrelado por Wesley Snipes, mudou esse cenário. O filme de terror com classificação R apresentou um caçador de vampiros que se tornou o ponto de partida para uma franquia.</p>\n\n<p>Embora o personagem tenha sido adaptado para o cinema antes de ser totalmente alinhado aos quadrinhos, <b>Blade</b> popularizou o herói e se tornou a primeira propriedade da Marvel a gerar uma franquia de três filmes. A direção de Guillermo Del Toro na sequência é frequentemente elogiada, superando até mesmo o impacto do primeiro filme.</p>\n\n<h2>Homem-Aranha (2002): O Início da Nova Era</h2>\n<p>Em 2002, a Sony Pictures trouxe ao cinema uma das figuras mais icônicas da Marvel: <b>Homem-Aranha</b>, com Tobey Maguire no papel principal. Antes disso, o personagem já era popular em diversas séries e programas de TV. Contudo, o filme dirigido por Sam Raimi redefiniu as expectativas para filmes de quadrinhos.</p>\n\n<p><b>Homem-Aranha</b> foi um sucesso estrondoso, arrecadando mais de US$ 825 milhões e provando que filmes baseados em quadrinhos poderiam ser grandes atrativos de bilheteria. O filme não só gerou uma trilogia, mas também abriu caminho para outras adaptações do personagem, incluindo a franquia de Andrew Garfield e a parceria com a Marvel Studios para Tom Holland. A influência desta produção é inegável.</p>\n\n<h2>X2 (2003): Expandindo o Universo Mutante</h2>\n<p>Lançado em 2000, <b>X-Men</b> foi o primeiro filme a ser explicitamente baseado nos quadrinhos da Marvel, demonstrando o potencial do estúdio para o público cinematográfico. Dois anos depois, em 2003, a sequência <b>X2: X-Men United</b> consolidou o sucesso da franquia.</p>\n\n<p>Com uma bilheteria superior em mais de US$ 110 milhões em comparação ao primeiro filme, <b>X2</b> apresentou uma narrativa ainda mais envolvente e solidificou os <b>X-Men</b> como a equipe mutante mais popular nos cinemas. A Fox capitalizou esse sucesso, resultando em diversas sequências, spin-offs e filmes focados em personagens como Wolverine, tornando os X-Men uma das franquias mais extensas da Marvel.</p>\n\n<h2>Hulk (2003): Uma Abordagem Cinematográfica Única</h2>\n<p>O personagem Hulk apresenta um caso particular no MCU, com direitos de filmes solo ainda controlados pela Universal. No entanto, o filme de 2003, dirigido por Ang Lee, trouxe uma abordagem visualmente inspirada nos quadrinhos, com cenas que remetiam diretamente aos painéis de uma HQ.</p>\n\n<p>Apesar de ter recebido críticas mistas na época, o <b>Hulk</b> de Ang Lee é lembrado por sua estética única e por tentar capturar a essência do personagem de uma forma que poucos filmes de super-heróis ousaram. Ele se destaca como um predecessor interessante para a versão do MCU desenvolvida em colaboração com a Universal.</p>\n\n<h2>O Justiceiro (2004): Um Clássico Cult</h2>\n<p>Diferente de outras adaptações do personagem, como o filme de 1989 com Dolph Lundgren ou a versão mais violenta de 2008 (<b>O Justiceiro: Em Zona de Guerra</b>), o filme de 2004 estrelado por Thomas Jane é considerado por muitos a melhor representação cinematográfica de Frank Castle.</p>\n\n<p>O filme apresentou personagens secundários queridos dos quadrinhos, como Spacker Dave e Joan, e capturou o espírito sombrio do personagem. Embora não tenha sido um sucesso absoluto na época, <b>O Justiceiro</b> de 2004 conquistou o status de cult. Mesmo com a aclamada interpretação de Jon Bernthal na série do MCU, a versão de Thomas Jane continua sendo um marco para os fãs do anti-herói.</p>",
+      "meta_description": "Descubra 5 filmes da Marvel lançados antes do MCU que merecem reconhecimento por seu impacto no gênero de super-heróis.",
+      "focus_keyphrase": "Filmes da Marvel pré-MCU",
+      "related_keyphrases": [
+        "Filmes de super-heróis antigos",
+        "Marvel antes do MCU",
+        "Blade 1998",
+        "Homem-Aranha 2002"
+      ],
+      "slug": "filmes-marvel-pre-mcu",
+      "categorias": [
+        {
+          "nome": "Blade",
+          "grupo": "obras",
+          "evidence": "Blade (1998)"
+        },
+        {
+          "nome": "Homem-Aranha",
+          "grupo": "obras",
+          "evidence": "Spider-Man (2002)"
+        },
+        {
+          "nome": "X-Men",
+          "grupo": "franquias",
+          "evidence": "X2 (2003)"
+        },
+        {
+          "nome": "Hulk",
+          "grupo": "obras",
+          "evidence": "Hulk (2003)"
+        },
+        {
+          "nome": "O Justiceiro",
+          "grupo": "obras",
+          "evidence": "The Punisher (2004)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Marvel Studios",
+        "MCU",
+        "Blade",
+        "Homem-Aranha",
+        "X-Men",
+        "Hulk",
+        "O Justiceiro"
+      ],
+      "image_alt_texts": {
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Filmes da Marvel pré-MCU - Arte promocional de jogos.",
+        "pax-dei.png": "Filmes da Marvel pré-MCU - Imagem promocional da Marvel Studios.",
+        "Battlestar-Galactica-33.jpg": "Filmes da Marvel pré-MCU - Imagem de Battlestar Galactica.",
+        "Hulk-in-the-2003-movie.jpg": "O Hulk no filme de 2003, uma das produções da Marvel pré-MCU.",
+        "Nightcrawler-from-X-Men.jpg": "Noturno dos X-Men, um dos personagens de filmes da Marvel pré-MCU.",
+        "Star-Cops.jpg": "Filmes da Marvel pré-MCU - Imagem de Star Cops.",
+        "Thomas-Jane-as-The-Punisher.jpg": "Thomas Jane como O Justiceiro em um filme da Marvel pré-MCU.",
+        "Tobey-Maguire-as-Spider-Man.jpg": "Tobey Maguire como Homem-Aranha, em um filme da Marvel pré-MCU.",
+        "Wesley-Snipes-as-Blade.jpg": "Wesley Snipes como Blade, em um filme da Marvel pré-MCU.",
+        "p-s-2.png": "Filmes da Marvel pré-MCU - Arte promocional.",
+        "p-s-5-p-r-o.png": "Filmes da Marvel pré-MCU - Imagem de game.",
+        "p-s-5_aed69f.png": "Filmes da Marvel pré-MCU - Imagem promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "5 Filmes da Marvel Pré-MCU que Merecem Crédito | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Descubra 5 filmes da Marvel lançados antes do MCU que merecem reconhecimento por seu impacto no gênero de super-heróis.",
+        "_yoast_wpseo_focuskw": "Filmes da Marvel pré-MCU",
+        "_yoast_news_keywords": "Marvel, Filmes da Marvel, Pré-MCU, Blade, Homem-Aranha, X-Men, Hulk, O Justiceiro, Cinema de Super-heróis",
+        "_yoast_wpseo_opengraph-title": "5 Filmes da Marvel Pré-MCU Que Merecem Atenção",
+        "_yoast_wpseo_opengraph-description": "Antes do MCU, a Marvel lançou filmes incríveis. Conheça 5 produções que pavimentaram o caminho para o sucesso.",
+        "_yoast_wpseo_twitter-title": "5 Filmes da Marvel Pré-MCU Que Merecem Atenção",
+        "_yoast_wpseo_twitter-description": "Antes do MCU, a Marvel lançou filmes incríveis. Conheça 5 produções que pavimentaram o caminho para o sucesso."
+      }
+    }
+  ]
+}

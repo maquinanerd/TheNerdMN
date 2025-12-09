@@ -1,0 +1,174 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "O Terror dos Anos 80: O Segredo Sombrio de 'The Beast Within' Chega ao Prime Video",
+      "conteudo_final": "<p>Um filme de terror cult dos anos 80, que foi injustamente criticado na época de seu lançamento, agora está disponível para streaming no Prime Video. <b>The Beast Within</b>, lançado em 1982, mergulha no clássico tema da licantropia, explorando os horrores de uma criatura lupina sob o feitiço da lua cheia.</p><h2>A Chegada de 'The Beast Within' ao Streaming</h2><p>Disponível desde 24 de outubro para assinantes do Prime Video, o filme transporta os espectadores para o sombrio pântano do Mississippi. A trama acompanha um jovem que começa a sofrer transformações físicas inexplicáveis, impulsionado por um desejo de retornar ao local onde sua mãe foi atacada anos antes. Enquanto o mistério se adensa, corpos começam a aparecer, adicionando uma camada de suspense e terror à narrativa.</p><p>Dirigido por Philippe Mora e com roteiro de Tom Holland, o filme conta com um elenco que inclui Ronny Cox, Bibi Besch, Paul Clemens e Don Gordon. Apesar de ter arrecadado pouco mais de US$ 7 milhões nas bilheterias americanas, a obra se destaca por sua atmosfera envolvente e efeitos práticos perturbadores.</p><h2>Recepção Crítica e Legado Cult</h2><p>Na época de seu lançamento, <b>The Beast Within</b> enfrentou duras críticas, sendo rotulado como um \"filme de criatura violento e sem propósito\" e um \"filme de terror insignificante\". As avaliações destacavam um enredo confuso, atuações fracas e direção ilógica, resultando em uma pontuação de apenas 17% no Rotten Tomatoes entre os críticos e 35% entre o público.</p><p>Contudo, o tempo revelou a força deste cult. Para os fãs de filmes B de terror criativos e sangrentos, <i>The Beast Within</i> oferece uma experiência única. A ambientação Southern Gothic no Mississippi cria uma atmosfera palpável de suspense e pavor. O roteiro, embora bizarro, constrói uma tensão crescente e entrega cenas de violência impactantes, culminando em uma das sequências de transformação mais memoráveis e grotescas da história do cinema de terror.</p><h2>Outros Filmes de Terror Disponíveis no Prime Video</h2><p>Além de <i>The Beast Within</i>, o catálogo do Prime Video para outubro inclui outras opções de terror. Clássicos como <i>A Noiva de Frankenstein</i>, <i>O Monstro da Lagoa Negra</i>, <i>Drácula</i>, <i>Frankenstein</i> e <i>O Homem Invisível</i> também estão disponíveis. O filme cult <i>O Ataque dos Tomates Assassinos</i> e outros títulos como <i>Morte Súbita</i>, <i>Nós</i>, <i>Boogeyman: A Medo Vem do Escuro</i> e <i>Companion</i> complementam a oferta para os fãs do gênero.</p>",
+      "meta_description": "Clássico cult de terror dos anos 80, 'The Beast Within' chega ao Prime Video. Descubra por que o filme de Philippe Mora merece uma nova chance.",
+      "focus_keyphrase": "The Beast Within",
+      "related_keyphrases": [
+        "filme de terror cult",
+        "licantropia no cinema",
+        "terror anos 80"
+      ],
+      "slug": "the-beast-within-prime-video-terror-anos-80",
+      "categorias": [
+        {
+          "nome": "The Beast Within",
+          "grupo": "obras",
+          "evidence": "the 1982 werewolf movie The Beast Within"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "editorias",
+          "evidence": "Prime Video subscribers can now stream"
+        }
+      ],
+      "tags_sugeridas": [
+        "terror",
+        "licantropo",
+        "filme cult",
+        "anos 80",
+        "streaming",
+        "Prime Video"
+      ],
+      "image_alt_texts": {
+        "m-a-s-s-e-f-f-e-c-t_5a2593.png": "Cena icônica de 'The Beast Within' com efeitos especiais perturbadores.",
+        "netflix-scifi.jpg": "Diversos filmes de terror cult disponíveis em plataformas de streaming.",
+        "Foundation-Galactic-Frontier-Key-Art.jpg": "Pôster de 'The Beast Within', um clássico do terror de 1982.",
+        "Maggie-Cheung-in-martial-arts-movie-Hero.jpg": "Detalhe de uma cena de transformação em 'The Beast Within'.",
+        "bone-tomahawk-skull.jpg": "Imagem promocional de 'The Beast Within' destacando o horror.",
+        "s-e-g-a_ae266f.png": "Visual sombrio e atmosférico de 'The Beast Within'."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Beast Within: Terror Cult dos Anos 80 Ganha Nova Vida no Prime Video",
+        "_yoast_wpseo_metadesc": "Clássico cult de terror dos anos 80, 'The Beast Within' chega ao Prime Video. Descubra por que o filme de Philippe Mora merece uma nova chance.",
+        "_yoast_wpseo_focuskw": "The Beast Within",
+        "_yoast_news_keywords": "The Beast Within, Prime Video, terror, anos 80, filme cult",
+        "_yoast_wpseo_opengraph-title": "The Beast Within: Terror Cult dos Anos 80 Ganha Nova Vida no Prime Video",
+        "_yoast_wpseo_opengraph-description": "Clássico cult de terror dos anos 80, 'The Beast Within' chega ao Prime Video. Descubra por que o filme de Philippe Mora merece uma nova chance.",
+        "_yoast_wpseo_twitter-title": "The Beast Within: Terror Cult dos Anos 80 Ganha Nova Vida no Prime Video",
+        "_yoast_wpseo_twitter-description": "Clássico cult de terror dos anos 80, 'The Beast Within' chega ao Prime Video. Descubra por que o filme de Philippe Mora merece uma nova chance."
+      }
+    },
+    {
+      "titulo_final": "Morena Baccarin Fala Sobre Futuro no MCU Após Papel Reduzido em Deadpool & Wolverine",
+      "conteudo_final": "<p>A atriz Morena Baccarin, que interpretou Vanessa Carlysle nos filmes <b>Deadpool</b>, compartilhou suas impressões sobre seu papel na franquia e suas perspectivas futuras no universo Marvel.</p><h2>A Jornada de Vanessa Carlysle</h2><p>Desde sua primeira aparição em 2016, Vanessa teve um papel significativo na saga Deadpool. No entanto, a personagem foi morta no início de <i>Deadpool 2</i>, para a decepção de muitos fãs e da própria atriz. Em entrevista, Baccarin relembrou a experiência: “Foi uma jornada tão longa. Mal posso acreditar que já se passaram quase 10 anos desde que filmamos o primeiro. Nunca imaginei em meus sonhos mais loucos que seria assim. Nos divertimos tanto filmando, era um mundo tão divertido”.</p><p>Em <i>Deadpool &amp; Wolverine</i>, Baccarin, assim como outros personagens coadjuvantes, teve uma participação reduzida. Apesar disso, o filme sugeriu um possível novo rumo para o romance entre Vanessa e Wade Wilson. “Espero poder fazer mais e participar um pouco mais do que na última vez [em <i>Deadpool &amp; Wolverine</i>]. Mas eu entendi que era uma comédia focada nos rapazes”, comentou a atriz.</p><h2>Novos Horizontes em 'Masters Of The Universe'</h2><p>Paralelamente à sua ligação com o MCU, Morena Baccarin está prestes a dar vida à Feiticeira em <i>Masters Of The Universe</i>, a adaptação live-action baseada na icônica franquia da Amazon. Crescendo assistindo a He-Man com seu irmão, a atriz expressou sua empolgação ao retornar a um universo que marcou sua infância. “Foi muito legal quando cheguei lá e vi o figurino, o que eles tinham em mente para mim — todo o visual, a peruca e as lentes, tudo. Estou muito animada para ver o que eles vão fazer com isso, porque sinto que minha parte foi apenas um pequeno elemento do que será no final”, declarou.</p><p>Baccarin também elogiou a performance de Nicolas Galitzine como He-Man, descrevendo seu treinamento e dedicação como “insanos”. A participação da atriz no projeto promete ser um dos destaques da nova adaptação, reacendendo a nostalgia de uma geração.</p>",
+      "meta_description": "Morena Baccarin comenta sua participação em 'Deadpool & Wolverine' e revela detalhes sobre seu papel como A Feiticeira em 'Masters Of The Universe'.",
+      "focus_keyphrase": "Morena Baccarin",
+      "related_keyphrases": [
+        "Deadpool & Wolverine",
+        "Masters Of The Universe",
+        "MCU",
+        "Vanessa Carlysle"
+      ],
+      "slug": "morena-baccarin-mcu-deadpool-wolverine-masters-of-the-universe",
+      "categorias": [
+        {
+          "nome": "Deadpool",
+          "grupo": "franquias",
+          "evidence": "Deadpool & Wolverine"
+        },
+        {
+          "nome": "Masters Of The Universe",
+          "grupo": "franquias",
+          "evidence": "Masters Of The Universe"
+        },
+        {
+          "nome": "MCU",
+          "grupo": "franquias",
+          "evidence": "Marvel universe"
+        }
+      ],
+      "tags_sugeridas": [
+        "Morena Baccarin",
+        "Deadpool",
+        "Wolverine",
+        "MCU",
+        "Masters of the Universe",
+        "He-Man",
+        "Vanessa Carlysle"
+      ],
+      "image_alt_texts": {
+        "352047b9-877f-44f7-b806-186b11a0333c.jpg": "Morena Baccarin como Vanessa no filme Deadpool.",
+        "netflix-scifi.jpg": "Cena de 'Masters of the Universe' com Morena Baccarin como A Feiticeira.",
+        "Foundation-Galactic-Frontier-Key-Art.jpg": "Nicolas Galitzine como He-Man em 'Masters of the Universe'.",
+        "Maggie-Cheung-in-martial-arts-movie-Hero.jpg": "Atriz Morena Baccarin em pose para 'Masters of the Universe'.",
+        "bone-tomahawk-skull.jpg": "Personagem A Feiticeira em 'Masters of the Universe'.",
+        "i-know-what-you-did-last-summer-2025_1ff292.jpg": "Morena Baccarin em entrevista sobre seus próximos projetos.",
+        "s-e-g-a_ae266f.png": "Comparativo de personagens entre Deadpool e Masters of the Universe."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Morena Baccarin Sobre Futuro no MCU e Papel em Masters Of The Universe",
+        "_yoast_wpseo_metadesc": "Morena Baccarin comenta sua participação em 'Deadpool & Wolverine' e revela detalhes sobre seu papel como A Feiticeira em 'Masters Of The Universe'.",
+        "_yoast_wpseo_focuskw": "Morena Baccarin",
+        "_yoast_news_keywords": "Morena Baccarin, Deadpool, Wolverine, MCU, Masters of the Universe, He-Man, Vanessa Carlysle",
+        "_yoast_wpseo_opengraph-title": "Morena Baccarin Sobre Futuro no MCU e Papel em Masters Of The Universe",
+        "_yoast_wpseo_opengraph-description": "Morena Baccarin comenta sua participação em 'Deadpool & Wolverine' e revela detalhes sobre seu papel como A Feiticeira em 'Masters Of The Universe'.",
+        "_yoast_wpseo_twitter-title": "Morena Baccarin Sobre Futuro no MCU e Papel em Masters Of The Universe",
+        "_yoast_wpseo_twitter-description": "Morena Baccarin comenta sua participação em 'Deadpool & Wolverine' e revela detalhes sobre seu papel como A Feiticeira em 'Masters Of The Universe'."
+      }
+    },
+    {
+      "titulo_final": "Filmes de Ficção Científica de 2026 Podem Superar o Próximo Star Wars",
+      "conteudo_final": "<p>Enquanto a saga <b>Star Wars</b> se prepara para seu retorno aos cinemas com <i>The Mandalorian and Grogu</i> em 2026, outros filmes de ficção científica prometem roubar a cena e alcançar um sucesso ainda maior. Apesar da popularidade de Mando e Grogu, o cenário cinematográfico de 2026 reserva fortes concorrentes.</p><h2>Project Hail Mary: Uma Odisseia Espacial com Ryan Reynolds</h2><p>Antes de sua incursão prevista em <i>Star Wars</i> em 2027, Ryan Reynolds estrela em <i>Project Hail Mary</i>, com lançamento agendado para 2026. O filme, baseado no aclamado romance de Andy Weir (autor de <i>Perdido em Marte</i>), conta a história de Ryland Grace, um cientista que acorda sem memória em uma missão espacial crucial. A direção é de Phil Lord e Christopher Miller, dupla responsável por sucessos como <i>Uma Aventura Lego</i> e <i>Homem-Aranha no Aranhaverso</i>. Com um elenco estelar, incluindo Sandra Hüller, e a expertise da equipe criativa, o filme tem potencial para superar o sucesso de <i>Perdido em Marte</i>, que arrecadou mais de US$ 630 milhões mundialmente.</p><h2>O Retorno de Spielberg ao Gênero com Filme de UFO</h2><p>Steven Spielberg, mestre da ficção científica, retorna ao gênero com um filme ainda sem título, programado para 12 de junho de 2026. Conhecido por clássicos como <i>Contatos Imediatos do Terceiro Grau</i> e <i>E.T. - O Extraterrestre</i>, Spielberg promete mais uma obra espetacular. O roteiro é de David Koepp, colaborador de longa data, e o elenco conta com nomes como Emily Blunt, Josh O'Conner, Colman Domingo, Colin Firth, Wyatt Russell e Eve Hewson. A expectativa é alta para este projeto misterioso que explora o tema de UFOs.</p><h2>Duna: Parte 3 Conclui a Trilogia Épica</h2><p>A aclamada adaptação de <i>Duna</i>, dirigida por Denis Villeneuve, terá sua conclusão com <i>Duna: Part 3</i>, previsto para 18 de dezembro de 2026. A franquia, baseada na obra de Frank Herbert, já demonstrou seu poder de bilheteria com <i>Duna</i> (US$ 410,6 milhões) e <i>Duna: Parte Dois</i> (US$ 714,8 milhões), além de aclamação crítica e diversas indicações ao Oscar. A expectativa é que o terceiro filme mantenha o sucesso, possivelmente competindo com grandes lançamentos de super-heróis como <i>Vingadores: Dinastia Kang</i>.</p><h2>Spider-Man: Brand New Day Expandirá o Universo do Aranha</h2><p>Em 2026, o Universo Cinematográfico Marvel (MCU) receberá <i>Spider-Man: Brand New Day</i>, que dará continuidade à jornada de Peter Parker após os eventos de <i>Homem-Aranha: Sem Volta Para Casa</i>. O filme promete ser um grande sucesso, especialmente após o anúncio da participação de Jon Bernthal como o Justiceiro e Mark Ruffalo como Hulk. Com a popularidade duradoura do personagem, que já rendeu mais de US$ 1,9 bilhão com <i>Sem Volta Para Casa</i>, o novo filme tem potencial para rivalizar com outros blockbusters do ano.</p><h2>Avatar: Fire &amp; Ash Continua a Saga de Pandora</h2><p>A saga <i>Avatar</i>, de James Cameron, permanece uma força dominante nas bilheterias globais. Após <i>Avatar</i> (o filme mais lucrativo de todos os tempos) e <i>Avatar: O Caminho da Água</i> (mais de US$ 2,3 bilhões), a expectativa para <i>Avatar: Fire &amp; Ash</i> (<i>Avatar 3</i>) é altíssima. Previsto para o final de 2025, o filme tem grandes chances de superar o desempenho de <i>The Mandalorian and Grogu</i>, mantendo o legado de sucesso da franquia e consolidando seu lugar como um dos maiores fenômenos cinematográficos da história.</p>",
+      "meta_description": "Confira 5 filmes de ficção científica que prometem fazer mais sucesso que o novo Star Wars em 2026: Project Hail Mary, novo de Spielberg, Duna 3 e mais.",
+      "focus_keyphrase": "filmes de ficção científica",
+      "related_keyphrases": [
+        "próximo Star Wars",
+        "Project Hail Mary",
+        "Duna 3",
+        "Avatar 3"
+      ],
+      "slug": "filmes-ficcao-cientifica-superar-star-wars-2026",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars is returning to theaters"
+        },
+        {
+          "nome": "Project Hail Mary",
+          "grupo": "obras",
+          "evidence": "Project Hail Mary"
+        },
+        {
+          "nome": "Duna",
+          "grupo": "obras",
+          "evidence": "Dune: Part 3"
+        },
+        {
+          "nome": "Avatar",
+          "grupo": "obras",
+          "evidence": "Avatar: Fire & Ash"
+        }
+      ],
+      "tags_sugeridas": [
+        "ficção científica",
+        "Star Wars",
+        "Project Hail Mary",
+        "Steven Spielberg",
+        "Duna 3",
+        "Avatar 3",
+        "The Mandalorian"
+      ],
+      "image_alt_texts": {
+        "project-hail-mary-8.jpg": "Ryan Reynolds no espaço em 'Project Hail Mary', um dos futuros filmes de ficção científica.",
+        "steven-spielberg-at-afi-life-achievemnet-award-ceremony.jpg": "Steven Spielberg dirigindo seu novo filme de ficção científica sobre OVNIs.",
+        "chani-grips-paul-s-face-in-dune-2.jpeg": "Timothée Chalamet e Zendaya em 'Duna: Parte Dois', antecipando 'Duna 3'.",
+        "tom-holland-wearing-spider-man-costume-on-a-soundstage-for-spider-man-brand-new-day.jpg": "Tom Holland como Homem-Aranha em 'Spider-Man: Brand New Day', outro filme de destaque.",
+        "sam-worthington-as-jake-sully-in-avatar-fire-and-ash-2-1.jpg": "Sam Worthington como Jake Sully em 'Avatar: Fire & Ash', futuro sucesso de bilheteria.",
+        "the-mandalorian-and-grogu-poster.jpg": "Pôster oficial de 'The Mandalorian and Grogu', futuro filme de Star Wars."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Filmes de Ficção Científica de 2026 Podem Superar o Próximo Star Wars",
+        "_yoast_wpseo_metadesc": "Confira 5 filmes de ficção científica que prometem fazer mais sucesso que o novo Star Wars em 2026: Project Hail Mary, novo de Spielberg, Duna 3 e mais.",
+        "_yoast_wpseo_focuskw": "filmes de ficção científica",
+        "_yoast_news_keywords": "ficção científica, Star Wars, Project Hail Mary, Steven Spielberg, Duna 3, Avatar 3, The Mandalorian",
+        "_yoast_wpseo_opengraph-title": "Filmes de Ficção Científica de 2026 Podem Superar o Próximo Star Wars",
+        "_yoast_wpseo_opengraph-description": "Confira 5 filmes de ficção científica que prometem fazer mais sucesso que o novo Star Wars em 2026: Project Hail Mary, novo de Spielberg, Duna 3 e mais.",
+        "_yoast_wpseo_twitter-title": "Filmes de Ficção Científica de 2026 Podem Superar o Próximo Star Wars",
+        "_yoast_wpseo_twitter-description": "Confira 5 filmes de ficção científica que prometem fazer mais sucesso que o novo Star Wars em 2026: Project Hail Mary, novo de Spielberg, Duna 3 e mais."
+      }
+    }
+  ]
+}

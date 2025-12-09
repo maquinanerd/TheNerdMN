@@ -1,0 +1,116 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "KPop Demon Hunters lidera bilheteria fraca de Halloween com US$ 14,7 milhões",
+      "conteudo_final": "<p>O fim de semana de Halloween, que caiu em uma sexta-feira, promete uma bilheteria modesta nos cinemas. Apesar da data ser tradicionalmente associada a filmes de terror, a oferta de novos lançamentos é limitada. O destaque fica para a expansão de <em>Bugonia</em> e o retorno de <em>De Volta Para o Futuro</em> em celebração aos seus 40 anos.</p><p>No entanto, o grande campeão de bilheteria do feriado será o retorno de <em>KPop Demon Hunters: A Singalong Event</em>, da Netflix. O sucesso animado, que estreou no streaming em junho e teve uma exibição limitada nos cinemas para fins de elegibilidade ao Oscar, volta às telonas por demanda popular.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "KPop Demon Hunters retorna aos cinemas para liderar bilheterias fracas de Halloween. Bugonia e De Volta Para o Futuro também se destacam.",
+      "focus_keyphrase": "KPop Demon Hunters bilheteria Halloween",
+      "related_keyphrases": [
+        "previsão bilheteria Halloween",
+        "KPop Demon Hunters Netflix",
+        "Bugonia estreia cinemas"
+      ],
+      "slug": "kpop-demon-hunters-lidera-bilheteria-halloween",
+      "categorias": [
+        {
+          "nome": "KPop Demon Hunters",
+          "grupo": "obras",
+          "evidence": "Netflix's KPop Demon Hunters: A Singalong Event"
+        },
+        {
+          "nome": "De Volta Para o Futuro",
+          "grupo": "obras",
+          "evidence": "Back to the Future returning for its 40th anniversary"
+        },
+        {
+          "nome": "Bugonia",
+          "grupo": "obras",
+          "evidence": "Focus Features' Bugonia expands into wide release"
+        }
+      ],
+      "tags_sugeridas": [
+        "KPop Demon Hunters",
+        "Netflix",
+        "Bilheteria",
+        "Halloween",
+        "De Volta Para o Futuro",
+        "Bugonia"
+      ],
+      "image_alt_texts": {
+        "rumi-looking-at-jinu-weirdly-in-kpop-demon-hunters.jpg": "Rumi e Jinu em cena do filme animado KPop Demon Hunters.",
+        "bugonia-film.jpg": "Cartaz do filme Bugonia, com destaque para Emma Stone.",
+        "mcdbato_uv022-cropped.jpg": "Marty McFly (Michael J. Fox) em uma cena icônica do filme De Volta Para o Futuro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "KPop Demon Hunters lidera bilheteria fraca de Halloween com US$ 14,7 milhões",
+        "_yoast_wpseo_metadesc": "KPop Demon Hunters retorna aos cinemas para liderar bilheterias fracas de Halloween. Bugonia e De Volta Para o Futuro também se destacam.",
+        "_yoast_wpseo_focuskw": "KPop Demon Hunters bilheteria Halloween",
+        "_yoast_news_keywords": "KPop Demon Hunters, Netflix, Bilheteria, Halloween, De Volta Para o Futuro, Bugonia, Cinema",
+        "_yoast_wpseo_opengraph-title": "KPop Demon Hunters lidera bilheteria fraca de Halloween com US$ 14,7 milhões",
+        "_yoast_wpseo_opengraph-description": "KPop Demon Hunters retorna aos cinemas para liderar bilheterias fracas de Halloween. Bugonia e De Volta Para o Futuro também se destacam.",
+        "_yoast_wpseo_twitter-title": "KPop Demon Hunters lidera bilheteria fraca de Halloween com US$ 14,7 milhões",
+        "_yoast_wpseo_twitter-description": "KPop Demon Hunters retorna aos cinemas para liderar bilheterias fracas de Halloween. Bugonia e De Volta Para o Futuro também se destacam."
+      }
+    },
+    {
+      "titulo_final": "Clint Eastwood: 10 citações que definem seu legado no Velho Oeste",
+      "conteudo_final": "<p>Ao lado de John Wayne, <b>Clint Eastwood</b> é, possivelmente, a estrela mais icônica do gênero Western em toda a história do cinema. Sua carreira consolidou-se com atuações marcantes em <i>spaghetti westerns</i>, westerns revisionistas e filmes de ação como <em>Dirty Harry</em>.</p><p>Os personagens de Eastwood nos westerns são conhecidos por sua natureza reservada e poucas palavras. Quando falam, suas falas carregam peso e sabedoria. As citações mais memoráveis de Eastwood no gênero não apenas definem o Velho Oeste, mas também os personagens complexos que ele interpretou.</p><h2>\"Quando um homem tem dinheiro no bolso, ele começa a apreciar a paz.\" - <em>Por um Punhado de Dólares</em></h2><figure><img src=\"https:
+      "meta_description": "Relembre 10 citações icônicas de Clint Eastwood que solidificaram seu status como lenda do Velho Oeste, explorando a profundidade de seus personagens.",
+      "focus_keyphrase": "Citações Clint Eastwood Western",
+      "related_keyphrases": [
+        "Clint Eastwood westerns",
+        "Melhores frases Velho Oeste",
+        "Legado de Clint Eastwood"
+      ],
+      "slug": "citacoes-clint-eastwood-western",
+      "categorias": [
+        {
+          "nome": "Clint Eastwood",
+          "grupo": "ator",
+          "evidence": "Clint Eastwood might be the most iconic Western star"
+        },
+        {
+          "nome": "Western",
+          "grupo": "gênero",
+          "evidence": "iconic Western star"
+        },
+        {
+          "nome": "Por um Punhado de Dólares",
+          "grupo": "obras",
+          "evidence": "A Fistful of Dollars"
+        }
+      ],
+      "tags_sugeridas": [
+        "Clint Eastwood",
+        "Western",
+        "Faroeste",
+        "Citações",
+        "Por um Punhado de Dólares",
+        "Os Imperdoáveis",
+        "Velho Oeste"
+      ],
+      "image_alt_texts": {
+        "clint-eastwood-points-a-gun-in-a-scene-from-a-fistful-of-dollars.jpg": "Clint Eastwood como o Homem Sem Nome em cena de Por um Punhado de Dólares.",
+        "clint-eastwood-as-the-stranger-in-high-plains-drifter.jpg": "Clint Eastwood como O Estranho em uma cena do filme O Justiceiro.",
+        "clint-eastwood-on-horseback-outside-in-pale-rider.jpg": "Clint Eastwood a cavalo em uma cena do filme Cavalo de Fogo.",
+        "hogan-and-sara-in-two-mules-for-sister-sara.jpg": "Clint Eastwood como Hogan e Sara em uma cena do filme A Carga de 300.",
+        "clint-eastwood-s-man-with-no-name-staring-ahead-in-the-good-the-bad-the-ugly.jpg": "Clint Eastwood como o Homem Sem Nome em Três Homens em Conflito.",
+        "clint-eastwood-in-the-outlaw-josey-wales-posing-with-a-gun.jpg": "Clint Eastwood como Josey Wales em O Fora da Lei, posando com revólveres.",
+        "clint-eastwood-as-mike-milo-outside-in-cry-macho.jpg": "Clint Eastwood como Mike Milo em uma cena do filme Cry Macho.",
+        "clint-eastwood-as-manco-in-for-a-few-dollars-more-1.jpg": "Clint Eastwood como Manco em uma cena do filme Por Mais Alguns Dólares.",
+        "hang-em-high-1968.jpg": "Clint Eastwood como Jed Cooper em O Preço do Desafio, mostrando uma cicatriz.",
+        "clint-eastwood-as-william-munny-in-unforgiven.jpg": "Clint Eastwood como William Munny em uma cena do filme Os Imperdoáveis."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Clint Eastwood: 10 citações que definem seu legado no Velho Oeste",
+        "_yoast_wpseo_metadesc": "Relembre 10 citações icônicas de Clint Eastwood que solidificaram seu status como lenda do Velho Oeste, explorando a profundidade de seus personagens.",
+        "_yoast_wpseo_focuskw": "Citações Clint Eastwood Western",
+        "_yoast_news_keywords": "Clint Eastwood, Western, Faroeste, Citações, Por um Punhado de Dólares, Os Imperdoáveis, Velho Oeste, Cinema",
+        "_yoast_wpseo_opengraph-title": "Clint Eastwood: 10 citações que definem seu legado no Velho Oeste",
+        "_yoast_wpseo_opengraph-description": "Relembre 10 citações icônicas de Clint Eastwood que solidificaram seu status como lenda do Velho Oeste, explorando a profundidade de seus personagens.",
+        "_yoast_wpseo_twitter-title": "Clint Eastwood: 10 citações que definem seu legado no Velho Oeste",
+        "_yoast_wpseo_twitter-description": "Relembre 10 citações icônicas de Clint Eastwood que solidificaram seu status como lenda do Velho Oeste, explorando a profundidade de seus personagens."
+      }
+    }
+  ]
+}

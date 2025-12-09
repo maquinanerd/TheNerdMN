@@ -1,0 +1,104 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Séries de TV Injustiçadas: Programas que Merecem Mais Reconhecimento",
+      "conteudo_final": "<p>Algumas séries de TV parecem destinadas a carregar uma má reputação, independentemente de seus méritos. Seja por reações negativas dos fãs, controvérsias envolvendo membros do elenco ou um mal-entendido geral sobre as intenções do programa, essas séries são injustamente descartadas.</p><p>No entanto, por trás do ruído negativo, muitas dessas produções, tidas como \"ruins\", entregam roteiros inteligentes, performances estelares e narrativas profundamente recompensadoras para quem lhes dá uma chance justa. Existem muitas séries que são incrivelmente valiosas para espectadores que conseguem olhar além de suas reputações e lhes conceder uma oportunidade.</p><p>Algumas séries são criticadas porque reinventam uma propriedade intelectual amada de maneiras que o público não esperava, enquanto outras são sobrecarregadas por finais divisivos ou suposições desatualizadas sobre sua qualidade. Certamente existem séries que merecem toda a crítica que recebem, mas estas definitivamente não.</p><h2 id=\"demon-slayer-2019-present\">Demon Slayer (2019-Presente)</h2><h3>Uma Obra-Prima Visual que Prova que Coração e Substância Importam Tanto Quanto Estilo</h3><figure class=\"video-container\"><img alt=\"Tanjiro com medo em Demon Slayer\" src=\"https:
+      "meta_description": "Descubra séries de TV que são injustiçadas e criticadas. Analisamos programas que merecem mais atenção pela qualidade e méritos, indo além da má reputação.",
+      "focus_keyphrase": "séries de TV injustiçadas",
+      "related_keyphrases": [
+        "programas de TV criticados",
+        "séries subestimadas",
+        "melhores séries injustiçadas"
+      ],
+      "slug": "series-de-tv-injusticadas-programas-merecem-mais-reconhecimento",
+      "categorias": [
+        {
+          "nome": "Demon Slayer",
+          "grupo": "franquias",
+          "evidence": "Demon Slayer has become one of the most successful anime series of all time"
+        },
+        {
+          "nome": "Teen Titans GO!",
+          "grupo": "franquias",
+          "evidence": "as much backlash as Teen Titans GO!"
+        },
+        {
+          "nome": "Frasier",
+          "grupo": "franquias",
+          "evidence": "When the Paramount+ reboot premiered, fans of the original Frasier were skeptical"
+        },
+        {
+          "nome": "Riverdale",
+          "grupo": "franquias",
+          "evidence": "There’s no denying that Riverdale went completely off the rails"
+        },
+        {
+          "nome": "Two And A Half Men",
+          "grupo": "franquias",
+          "evidence": "Most people remember Two And A Half Men for the off-screen drama"
+        },
+        {
+          "nome": "She-Ra & The Princesses Of Power",
+          "grupo": "franquias",
+          "evidence": "When She-Ra & The Princesses Of Power debuted, purists of the 1980s series were quick to reject it"
+        },
+        {
+          "nome": "Friends",
+          "grupo": "franquias",
+          "evidence": "Friends has become the internet’s favorite punching bag"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "The Acolyte faced backlash from Star Wars purists almost immediately"
+        },
+        {
+          "nome": "Lost",
+          "grupo": "franquias",
+          "evidence": "Lost’s reputation has never recovered from its polarizing finale"
+        },
+        {
+          "nome": "The Big Bang Theory",
+          "grupo": "franquias",
+          "evidence": "The Big Bang Theory often gets dismissed as a laugh-track-laden show"
+        }
+      ],
+      "tags_sugeridas": [
+        "Demon Slayer",
+        "Teen Titans GO!",
+        "Frasier",
+        "Riverdale",
+        "Two And A Half Men",
+        "She-Ra",
+        "Friends",
+        "Star Wars",
+        "The Acolyte",
+        "Lost",
+        "The Big Bang Theory",
+        "séries de TV"
+      ],
+      "image_alt_texts": {
+        "demon-slayer-anime-featured-image-tanjiro-looking-scared.png": "Tanjiro, o protagonista de Demon Slayer, com uma expressão de medo em seu rosto.",
+        "The-old-and-new-Teen-Titans-together-in-Teen-Titans-Go!-Vs-Teen-Titans-(2019).jpg": "Os Teen Titans antigos e a versão Go! reunidos em uma cena de crossover.",
+        "kelsey-grammer-as-frasier-in-the-frasier-reboot.jpg": "Kelsey Grammer reprisando seu papel como Dr. Frasier Crane na nova série de Frasier.",
+        "archie-betty-and-veronica-share-a-milkshake-in-riverdale.jpg": "Archie, Betty e Veronica, personagens centrais de Riverdale, compartilhando um momento em uma lanchonete.",
+        "a-two-and-a-half-men-reboot-should-only-happen-on-one-condition.jpg": "Charlie Sheen e Jon Cryer fazendo caretas em uma cena icônica de Two and a Half Men.",
+        "spop-4.jpg": "Catra implorando a Adora em uma cena dramática de She-Ra & The Princesses Of Power.",
+        "friends.jpg": "O elenco principal de Friends reunido, olhando para um livro.",
+        "sol-and-qimir-in-the-acolyte.jpg": "Mestre Sol e Qimir com sabres de luz ativos em The Acolyte, explorando uma nova era de Star Wars.",
+        "lost-pilot.jpg": "Matthew Fox como Jack Shephard, médico protagonista de Lost, em uma cena do episódio piloto.",
+        "sheldon-in-the-big-bang-theory.jpg": "Sheldon Cooper, o personagem principal de The Big Bang Theory, em uma cena característica da série."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Séries de TV Injustiçadas: Programas que Merecem Mais Reconhecimento",
+        "_yoast_wpseo_metadesc": "Descubra séries de TV que são injustiçadas e criticadas. Analisamos programas que merecem mais atenção pela qualidade e méritos, indo além da má reputação.",
+        "_yoast_wpseo_focuskw": "séries de TV injustiçadas",
+        "_yoast_news_keywords": "Demon Slayer, Teen Titans GO!, Frasier, Riverdale, Two And A Half Men, She-Ra, Friends, Star Wars, The Acolyte, Lost, The Big Bang Theory, séries de TV",
+        "_yoast_wpseo_opengraph-title": "Séries de TV Injustiçadas: Programas que Merecem Mais Reconhecimento",
+        "_yoast_wpseo_opengraph-description": "Descubra séries de TV que são injustiçadas e criticadas. Analisamos programas que merecem mais atenção pela qualidade e méritos, indo além da má reputação.",
+        "_yoast_wpseo_twitter-title": "Séries de TV Injustiçadas: Programas que Merecem Mais Reconhecimento",
+        "_yoast_wpseo_twitter-description": "Descubra séries de TV que são injustiçadas e criticadas. Analisamos programas que merecem mais atenção pela qualidade e méritos, indo além da má reputação."
+      }
+    }
+  ]
+}

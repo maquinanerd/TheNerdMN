@@ -1,0 +1,71 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix: 5 filmes de terror imperdíveis para assistir no Halloween 2025",
+      "conteudo_final": "<p>Com a chegada do período assustador, muitos buscam o filme ideal para assistir no Halloween. A <b>Netflix</b> se destaca como a plataforma com um impressionante catálogo de filmes perfeitos para esta data, que vão desde o terror puro até obras que criam o clima perfeito para a celebração.</p>\n<h2>E.T. - O Extraterrestre (1982)</h2>\n<figure class=\"video-container\"><img src=\"https:
+      "meta_description": "Descubra 5 filmes essenciais para assistir na Netflix neste Halloween. De clássicos a novidades, prepare-se para uma maratona assustadora.",
+      "focus_keyphrase": "filmes Netflix Halloween",
+      "related_keyphrases": [
+        "streaming Netflix terror",
+        "melhores filmes de terror",
+        "novidades Netflix Halloween"
+      ],
+      "slug": "netflix-filmes-halloween-2025",
+      "categorias": [
+        {
+          "nome": "E.T. - O Extraterrestre",
+          "grupo": "obras",
+          "evidence": "E.T. The Extra-Terrestrial (1982)"
+        },
+        {
+          "nome": "Invasão Zumbi",
+          "grupo": "obras",
+          "evidence": "Train To Busan (2016)"
+        },
+        {
+          "nome": "Rua do Medo",
+          "grupo": "obras",
+          "evidence": "Fear Street: 1994 (2021)"
+        },
+        {
+          "nome": "Sorria",
+          "grupo": "obras",
+          "evidence": "Smile (2022)"
+        },
+        {
+          "nome": "Os Fantasmas se Divertem 2",
+          "grupo": "obras",
+          "evidence": "Beetlejuice Beetlejuice (2024)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "Halloween",
+        "Terror",
+        "Filmes de Terror",
+        "E.T. O Extraterrestre",
+        "Invasão Zumbi",
+        "Rua do Medo",
+        "Sorria",
+        "Os Fantasmas se Divertem 2"
+      ],
+      "image_alt_texts": {
+        "ET-with-a-glowing-fingertip-in-ET-the-Extra-Terrestrial.jpg": "E.T. com a ponta do dedo brilhando em E.T. - O Extraterrestre, um filme ideal para o clima de Halloween.",
+        "netflix-s-korean-zombie-show-with-89_-on-rotten-tomatoes-is-the-train-to-busan-sequel-we-never-got.jpg": "Gong Yoo se escondendo atrás de uma cadeira com um taco em Invasão Zumbi, um thriller de terror sul-coreano.",
+        "Fear-Street-Killer-.jpg": "O Assassino da Rua do Medo usando máscara de esqueleto e capa preta, em Rua do Medo: 1994.",
+        "Sosie-Bacon-Smile.jpg": "Sosie Bacon em Sorria, um filme de terror psicológico sobre uma maldição transmitida por um sorriso.",
+        "beetlejuice-3-introducing-a-missing-deetz-family-member-makes-sense-after-beetlejuice-beetlejuice-s-biggest-death.jpg": "Cena de Os Fantasmas se Divertem 2, com Michael Keaton e Jenna Ortega, perfeito para o Halloween."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: 5 filmes de terror imperdíveis para assistir no Halloween 2025",
+        "_yoast_wpseo_metadesc": "Descubra 5 filmes essenciais para assistir na Netflix neste Halloween. De clássicos a novidades, prepare-se para uma maratona assustadora.",
+        "_yoast_wpseo_focuskw": "filmes Netflix Halloween",
+        "_yoast_news_keywords": "Netflix, Halloween, Terror, Filmes de Terror, E.T. O Extraterrestre, Invasão Zumbi, Rua do Medo, Sorria, Os Fantasmas se Divertem 2",
+        "_yoast_wpseo_opengraph-title": "Netflix: 5 filmes de terror imperdíveis para assistir no Halloween 2025",
+        "_yoast_wpseo_opengraph-description": "Descubra 5 filmes essenciais para assistir na Netflix neste Halloween. De clássicos a novidades, prepare-se para uma maratona assustadora.",
+        "_yoast_wpseo_twitter-title": "Netflix: 5 filmes de terror imperdíveis para assistir no Halloween 2025",
+        "_yoast_wpseo_twitter-description": "Descubra 5 filmes essenciais para assistir na Netflix neste Halloween. De clássicos a novidades, prepare-se para uma maratona assustadora."
+      }
+    }
+  ]
+}

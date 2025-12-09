@@ -1,0 +1,60 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "World of Warcraft: Midnight - Pré-Patch pode chegar em 20 de janeiro",
+      "conteudo_final": "<p>O aguardado pré-patch para a expansão <b>World of Warcraft: Midnight</b>, codinome <b>Twilight Ascension</b>, tem uma data de lançamento provável para 20 de janeiro. Essa informação surge a partir de uma tela de carregamento encontrada nos servidores de teste do jogo, indicando que os jogadores poderão desfrutar de novidades como os Bairros Residenciais e a nova especialização do Caçador de Demônios, o Devorador, antes do dia 27 de janeiro.</p><h2>Pré-Patch de World of Warcraft: Midnight Previsto para 20 de Janeiro</h2><p>Embora o patch 11.2.7, que trará o sistema de Moradia para Jogadores e um prólogo para <b>Midnight</b>, ainda não tenha sido lançado em 2 de dezembro, os fãs já descobriram detalhes sobre o primeiro grande update da expansão. Uma análise de dados (datamine) realizada pelo Wowhead em uma nova tela de carregamento nos servidores de teste de <b>World of Warcraft</b> sugere que o evento <b>Twilight Ascension Midnight Pre-Patch</b> começará em 27 de janeiro. Historicamente, eventos de pré-patch de expansões anteriores iniciam uma semana após o lançamento das atualizações correspondentes, o que reforça a possibilidade de o patch 12.0 ser liberado em 20 de janeiro.</p><p>Se a data se confirmar, a atualização de 20 de janeiro introduzirá os Esforços de Bairro ao sistema de Moradia de Jogadores de <b>WoW</b>. Além disso, Caçadores de Demônios terão acesso à especialização Devorador, poderão escolher a raça Elfo do Vazio e participar de uma missão que detalha a lore dessas novas opções. Esta atualização também implementará as massivas mudanças de classe de <b>World of Warcraft: Midnight</b>. Já em 27 de janeiro, terá início o evento de pré-patch <b>Twilight Ascension</b>, onde os jogadores enfrentarão o Exército da Lâmina do Crepúsculo, uma facção rebatizada do Martelo do Crepúsculo, leal a Xal'atath.</p><h2>Vazamentos Corroboram Cronograma de Lançamento</h2><p>Essas novas informações corroboram vazamentos anteriores que apontavam para o cronograma de lançamento de <b>Midnight</b>. Um evento não nomeado em <b>World of Warcraft</b> foi descoberto, ocorrendo de 27 de janeiro a 9 de março, que é quase certamente o evento de pré-patch <b>Twilight Ascension</b>. Além disso, o evento <b>World of Warcraft: Legion Remix</b> termina em 19 de janeiro, um dia antes da data potencial para o pré-patch, permitindo que os jogadores transitem de um evento empolgante para outro com pouca interrupção.</p><p>Caso todos esses dados estejam corretos, o lançamento completo de <b>Midnight</b> deve ocorrer por volta de 10 de março. No entanto, outros vazamentos sugerem que a expansão pode chegar a <b>WoW</b> já em 26 de fevereiro. Independentemente da data exata, o grande lançamento está próximo. Os jogadores podem pré-comprar a <b>World of Warcraft: Midnight Epic Edition</b> para obter três dias de acesso antecipado antes da data oficial de lançamento da expansão.</p><h2>Novidades do Pré-Patch</h2><ul><li><b>20 de Janeiro (Provável):</b></li><ul><li><b>Bairros Residenciais:</b> Trabalhe com seus vizinhos para completar empreendimentos e ganhar novas decorações.</li><li><b>Devorador Caçador de Demônios &amp; Mudanças de Classe:</b> Uma nova especialização à distância e atualizações para as habilidades e talentos de todas as especializações.</li></ul><li><b>27 de Janeiro:</b></li><ul><li><b>Ascensão do Crepúsculo:</b> A atividade cultista está em ascensão. Algo sinistro se aproxima...</li></ul></ul><figure><img src=\"https:
+      "meta_description": "World of Warcraft: Midnight - Pré-patch com Bairros Residenciais e Caçador de Demônios Devorador pode chegar em 20 de janeiro.",
+      "focus_keyphrase": "World of Warcraft Midnight",
+      "related_keyphrases": [
+        "World of Warcraft pré-patch",
+        "Twilight Ascension",
+        "WoW Midnight"
+      ],
+      "slug": "world-of-warcraft-midnight-pre-patch-janeiro",
+      "categorias": [
+        {
+          "nome": "World of Warcraft",
+          "grupo": "franquias",
+          "evidence": "World of Warcraft"
+        },
+        {
+          "nome": "Midnight",
+          "grupo": "obras",
+          "evidence": "World of Warcraft: Midnight"
+        }
+      ],
+      "tags_sugeridas": [
+        "World of Warcraft",
+        "Midnight",
+        "Pré-patch",
+        "MMORPG",
+        "Blizzard",
+        "Twilight Ascension",
+        "Caçador de Demônios"
+      ],
+      "image_alt_texts": {
+        "e9zc7dk3211a1755622280364.jpg": "Cena de World of Warcraft: Midnight com personagens em ação.",
+        "wow_midnight_cinematic_stills_-1.jpg": "Personagens em uma cena cinematográfica de World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-2.jpg": "Cena de combate em World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-3.jpg": "Um grupo de personagens explorando em World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-4.jpg": "Detalhe de um personagem em World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-5.jpg": "Cena épica em World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-6.jpg": "Um vilão em World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-7.jpg": "Cena de ação em World of Warcraft: Midnight.",
+        "wow_midnight_cinematic_stills_-8.jpg": "Um ambiente de World of Warcraft: Midnight.",
+        "world-of-warcraft-midnight-twilight-s-blade-cultists-ogre.jpg": "Cultistas da Lâmina do Crepúsculo em World of Warcraft: Midnight.",
+        "world-of-warcraft-player-housing-neighborhood-endeavors-val-sharah.jpg": "Sistema de Bairros Residenciais em World of Warcraft: Midnight."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "World of Warcraft: Midnight - Pré-Patch pode chegar em 20 de janeiro",
+        "_yoast_wpseo_metadesc": "World of Warcraft: Midnight - Pré-patch com Bairros Residenciais e Caçador de Demônios Devorador pode chegar em 20 de janeiro.",
+        "_yoast_wpseo_focuskw": "World of Warcraft Midnight",
+        "_yoast_news_keywords": "World of Warcraft, Midnight, Pré-patch, Twilight Ascension, Blizzard, MMORPG, Caçador de Demônios",
+        "_yoast_wpseo_opengraph-title": "World of Warcraft: Midnight - Pré-Patch pode chegar em 20 de janeiro",
+        "_yoast_wpseo_opengraph-description": "O aguardado pré-patch para a expansão World of Warcraft: Midnight, Twilight Ascension, tem data provável para 20 de janeiro, trazendo novidades como Bairros Residenciais e o Caçador de Demônios Devorador.",
+        "_yoast_wpseo_twitter-title": "World of Warcraft: Midnight - Pré-Patch pode chegar em 20 de janeiro",
+        "_yoast_wpseo_twitter-description": "O aguardado pré-patch para a expansão World of Warcraft: Midnight, Twilight Ascension, tem data provável para 20 de janeiro, trazendo novidades como Bairros Residenciais e o Caçador de Demônios Devorador."
+      }
+    }
+  ]
+}

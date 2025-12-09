@@ -1,0 +1,116 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Frozen 3: Kristen Bell confirma produção a caminho em 2027",
+      "conteudo_final": "<p>Um dos filmes mais aguardados da <b>Disney</b> está mais perto de chegar às telonas. O estúdio está focando em seu conteúdo animado, e uma de suas maiores franquias retornará aos cinemas com uma nova sequência em 2027. A protagonista da saga, <b>Kristen Bell</b>, que dá voz à Anna, deu uma atualização animadora sobre a produção de <b>Frozen 3</b>.</p>\n\n<h2>Produção de Frozen 3 se aproxima</h2>\n<p>Questionada sobre quando a produção de <b>Frozen 3</b> começaria, Kristen Bell respondeu: “Em breve. É tudo que posso dizer”. O novo filme será o terceiro da franquia musical animada, um sucesso de bilheteria para a Disney. Os dois filmes anteriores, lançados a partir de 2013, arrecadaram juntos US$ 2,6 bilhões mundialmente, consolidando-se como a segunda maior franquia animada do estúdio, atrás apenas de <b>Toy Story</b>.</p>\n\n<p>Apesar de <b>Frozen 3</b> estar previsto para estrear em 2027, Bell afirmou que está “sob sigilo” para compartilhar detalhes sobre as datas de produção. Ela acrescentou que, no início, os trabalhos envolvem principalmente “conceitos e ideias de como as coisas devem seguir”. A atriz elogiou o processo criativo da Disney, destacando que os filmes passam por “mil filtros” para garantir que cada aspecto seja considerado, resultando em obras que “atingem todas as marcas” e não deixam nada a desejar.</p>\n\n<h2>Franquia Frozen continuará além de Frozen 3</h2>\n<p><b>Frozen 3</b> foi confirmado em 2023 e será o terceiro longa-metragem da saga. Detalhes sobre o enredo permanecem em segredo, mas especulações indicam uma nova adição à família real de Arendelle e uma atualização no relacionamento de Anna, que embarcará em uma “nova jornada mágica cheia de desafios desconhecidos” ao lado de Elsa. O elenco de retorno deve contar com Idina Menzel (Elsa), Jonathan Groff (Kristoff) e Josh Gad (Olaf).</p>\n\n<p>O filme não deve encerrar a franquia, mas sim continuar a história, com mais aventuras de Anna e Elsa a caminho. Uma quarta parte já foi anunciada, demonstrando o desejo da Disney de capitalizar sobre o sucesso multimilionário da saga, que já inclui curtas, séries, especiais e até jogos de tabuleiro. O futuro além de <b>Frozen 4</b> não está confirmado, mas considerando o histórico da Disney em adaptar seus filmes para live-action, não seria surpreendente ver uma versão com atores reais de <b>Frozen</b>.</p>\n\n<p><b>Frozen 3</b> tem estreia marcada nos cinemas para 24 de novembro de 2027. Os filmes <b>Frozen</b> e <b>Frozen 2</b> estão disponíveis para streaming no Disney+.</p>",
+      "meta_description": "Kristen Bell confirma que a produção de Frozen 3 está próxima. A nova sequência da franquia de sucesso da Disney tem estreia prevista para 2027.",
+      "focus_keyphrase": "Frozen 3",
+      "related_keyphrases": [
+        "Disney",
+        "Kristen Bell",
+        "Franquia Frozen"
+      ],
+      "slug": "frozen-3-kristen-bell-producao-2027",
+      "categorias": [
+        {
+          "nome": "Frozen",
+          "grupo": "franquias",
+          "evidence": "a third installment in the animated musical franchise"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "editorias",
+          "evidence": "Disney’s upcoming movie slate"
+        }
+      ],
+      "tags_sugeridas": [
+        "Frozen",
+        "Frozen 3",
+        "Disney",
+        "Kristen Bell",
+        "Elsa",
+        "Anna"
+      ],
+      "image_alt_texts": {
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png?w=300": "Imagem genérica",
+        "Escape-from-New-York.jpg?w=300": "Imagem genérica",
+        "Battlestar-Galactica-33.jpg?w=300": "Imagem genérica",
+        "Star-Cops.jpg?w=300": "Imagem genérica",
+        "comicbook.com-images3.png?w=300": "Imagem genérica",
+        "disney-frozen.jpg?w=1024": "Elsa e Anna em cena de Frozen",
+        "p-s-5-p-r-o.png?w=300": "Imagem genérica",
+        "p-s-5_aed69f.png?w=300": "Imagem genérica",
+        "sunshine.jpg?w=300": "Imagem genérica"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Frozen 3: Kristen Bell confirma produção a caminho em 2027 | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Kristen Bell confirma que a produção de Frozen 3 está próxima. A nova sequência da franquia de sucesso da Disney tem estreia prevista para 2027.",
+        "_yoast_wpseo_focuskw": "Frozen 3",
+        "_yoast_news_keywords": "Frozen, Frozen 3, Disney, Kristen Bell, Elsa, Anna, Cinema",
+        "_yoast_wpseo_opengraph-title": "Frozen 3: Kristen Bell confirma produção a caminho em 2027",
+        "_yoast_wpseo_opengraph-description": "Kristen Bell confirma que a produção de Frozen 3 está próxima. A nova sequência da franquia de sucesso da Disney tem estreia prevista para 2027.",
+        "_yoast_wpseo_twitter-title": "Frozen 3: Kristen Bell confirma produção a caminho em 2027",
+        "_yoast_wpseo_twitter-description": "Kristen Bell confirma que a produção de Frozen 3 está próxima. A nova sequência da franquia de sucesso da Disney tem estreia prevista para 2027."
+      }
+    },
+    {
+      "titulo_final": "Spider-Man 4: Hulk em \"primeira foto\" indica fim de trend no MCU",
+      "conteudo_final": "<p>A produção de <b>Spider-Man 4</b> segue a todo vapor, com o quarto filme solo do Teioso se configurando para ser um dos maiores do Universo Cinematográfico Marvel (MCU). Além de ser o único filme do Marvel Studios programado entre agora e <b>Vingadores: A Dinastia Kang</b>, o longa trará um elenco recheado de retornos e novidades. O Aranha de <b>Tom Holland</b> será acompanhado pelo Justiceiro de <b>Jon Bernthal</b> e enfrentará o Abutre, interpretado por Michael Mando (retornando de <b>Spider-Man: Homecoming</b>), e o gangster do MCU Tombstone, de Marvin Jones III. E agora, uma primeira imagem do Hulk também está circulando.</p>\n\n<h2>Mark Ruffalo chega ao set de Spider-Man 4</h2>\n<p>Novas fotos do set de <b>Spider-Man 4</b> revelam que <b>Mark Ruffalo</b> já chegou e começou a filmar cenas para o novo filme. A participação do Hulk no longa já era esperada há algum tempo. A forma como <b>Spider-Man 4</b> irá conciliar a interação do herói com o Justiceiro, o Hulk e múltiplos vilões ainda é um mistério. Contudo, as primeiras imagens de Ruffalo no set trazem uma novidade ainda mais intrigante para o MCU: um vislumbre que os fãs esperavam há muito tempo.</p>\n\n<h2>Hulk pode finalmente se transformar em Spider-Man 4</h2>\n<p>Vídeos e fotos do set de <b>Spider-Man 4</b> não só confirmam a presença de Mark Ruffalo nas filmagens, como também indicam sua participação ativa em uma sequência rodada em uma rua de Londres. Em um dos vídeos, Ruffalo pode ser visto deitado em uma maca, sendo colocado em uma ambulância. Embora o contexto exato da cena ainda seja incerto, isso sugere que, após mais de uma década, a Marvel pode finalmente permitir que o Bruce Banner de Ruffalo se transforme em Hulk na tela.</p>\n\n<p>Apesar de aparições em quatro filmes dos Vingadores, <b>Shang-Chi e a Lenda dos Dez Anéis</b>, na série <b>Mulher-Hulk</b> e até em participações em <b>Homem de Ferro 3</b>, a versão de Bruce Banner de Mark Ruffalo não se transforma em Hulk em um momento cinematográfico marcante desde <b>Os Vingadores</b> (2012). A cena icônica em que ele diz “Eu estou sempre com raiva” e se transforma para enfrentar um Leviatã Chitauri é uma das mais memoráveis do MCU. Desde então, as transformações do Hulk foram deixadas fora de cena.</p>\n\n<p>Em <b>Vingadores: Era de Ultron</b>, houve uma sequência em que o Hulk voltava a ser Banner, mas todas as outras transformações ocorreram fora de quadro. A aproximação mais recente foi uma tentativa de Banner em liberar o Hulk em <b>Vingadores: Guerra Infinita</b>, que falhou. Desde então, o Hulk aparece em cena por conta própria, ou Banner surge como uma pessoa comum.</p>\n\n<p>As fotos e vídeos do set de <b>Spider-Man 4</b> parecem indicar que as transformações de Banner em Hulk podem, finalmente, retornar à tela grande. Rumores sobre o filme há tempos posicionam a presença do Hulk retornando às suas origens selvagens, com o Homem-Aranha e o Justiceiro sendo forçados a se unir para detê-lo. Os vídeos de Ruffalo não confirmam isso totalmente, mas deixam claro que o ator aparecerá como a versão humana de Banner, e parece que será apenas uma questão de tempo até que essa versão dê lugar à sua contraparte gigante e verde que os fãs tanto aguardam. Esperamos que, quando ele retornar, seja de uma forma na tela que corresponda ao entusiasmo dos fãs.</p>",
+      "meta_description": "Mark Ruffalo é visto no set de Spider-Man 4. A presença do Hulk pode marcar o fim de uma trend de transformações fora de cena no MCU.",
+      "focus_keyphrase": "Spider-Man 4",
+      "related_keyphrases": [
+        "MCU",
+        "Hulk",
+        "Mark Ruffalo",
+        "Tom Holland"
+      ],
+      "slug": "spider-man-4-hulk-trend-mcu",
+      "categorias": [
+        {
+          "nome": "Spider-Man",
+          "grupo": "franquias",
+          "evidence": "Spider-Man: Brand New Day continues production"
+        },
+        {
+          "nome": "Marvel Studios",
+          "grupo": "editorias",
+          "evidence": "one of the MCU’s biggest"
+        },
+        {
+          "nome": "Hulk",
+          "grupo": "personagens",
+          "evidence": "The Hulk confirmed to be a big part of the movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Spider-Man 4",
+        "MCU",
+        "Hulk",
+        "Mark Ruffalo",
+        "Tom Holland",
+        "Jon Bernthal",
+        "Bruce Banner"
+      ],
+      "image_alt_texts": {
+        "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png?w=300": "Imagem genérica",
+        "Escape-from-New-York.jpg?w=300": "Imagem genérica",
+        "Battlestar-Galactica-33.jpg?w=300": "Imagem genérica",
+        "Star-Cops.jpg?w=300": "Imagem genérica",
+        "comicbook.com-images3.png?w=300": "Imagem genérica",
+        "p-s-5-p-r-o.png?w=300": "Imagem genérica",
+        "p-s-5_aed69f.png?w=300": "Imagem genérica",
+        "sunshine.jpg?w=300": "Imagem genérica"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Spider-Man 4: Hulk em \"primeira foto\" indica fim de trend no MCU | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Mark Ruffalo é visto no set de Spider-Man 4. A presença do Hulk pode marcar o fim de uma trend de transformações fora de cena no MCU.",
+        "_yoast_wpseo_focuskw": "Spider-Man 4",
+        "_yoast_news_keywords": "Spider-Man 4, MCU, Hulk, Mark Ruffalo, Tom Holland, Marvel Studios, Cinema",
+        "_yoast_wpseo_opengraph-title": "Spider-Man 4: Hulk em \"primeira foto\" indica fim de trend no MCU",
+        "_yoast_wpseo_opengraph-description": "Mark Ruffalo é visto no set de Spider-Man 4. A presença do Hulk pode marcar o fim de uma trend de transformações fora de cena no MCU.",
+        "_yoast_wpseo_twitter-title": "Spider-Man 4: Hulk em \"primeira foto\" indica fim de trend no MCU",
+        "_yoast_wpseo_twitter-description": "Mark Ruffalo é visto no set de Spider-Man 4. A presença do Hulk pode marcar o fim de uma trend de transformações fora de cena no MCU."
+      }
+    }
+  ]
+}

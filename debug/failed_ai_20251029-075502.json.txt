@@ -1,0 +1,58 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Battlefield 6: Jogadores criticam microtransações da Temporada 1",
+      "conteudo_final": "<p>Apesar do lançamento de <a href=\"https:
+      "meta_description": "Jogadores de Battlefield 6 expressam forte descontentamento com a avalanche de microtransações introduzida na Temporada 1. Críticas apontam para monetização agressiva.",
+      "focus_keyphrase": "Battlefield 6 microtransações",
+      "related_keyphrases": [
+        "Battlefield 6 temporada 1",
+        "EA monetização agressiva",
+        "Críticas Battlefield 6"
+      ],
+      "slug": "battlefield-6-microtransacoes-temporada-1",
+      "categorias": [
+        {
+          "nome": "Battlefield 6",
+          "grupo": "obras",
+          "evidence": "Battlefield 6"
+        },
+        {
+          "nome": "Electronic Arts",
+          "grupo": "editoras",
+          "evidence": "EA"
+        }
+      ],
+      "tags_sugeridas": [
+        "Battlefield 6",
+        "EA",
+        "Dice",
+        "microtransações",
+        "games",
+        "shooter",
+        "Temporada 1"
+      ],
+      "image_alt_texts": {
+        "ss_b6a6910670a262c2564ed7ee2547b6aa1213daa0.jpg": "Comunidade de Battlefield 6 reage negativamente ao aumento de microtransações na Temporada 1.",
+        "battlefield-6-press-image-1.jpg": "Novas skins e cosméticos em Battlefield 6 foram um ponto de discórdia entre jogadores.",
+        "battlefield-6-press-image-2.jpg": "A qualidade visual de Battlefield 6 é elogiada, mas a monetização excessiva preocupa.",
+        "battlefield-6-press-image-3.jpg": "Novas opções de customização de veículos foram introduzidas em Battlefield 6, ligadas a microtransações.",
+        "battlefield-6-press-image-4.jpg": "A variedade de uniformes e equipamentos em Battlefield 6 está ligada a microtransações.",
+        "battlefield-6-press-image-5.jpg": "O design dos mapas de Battlefield 6 é um ponto forte, mas ofuscado pelas microtransações.",
+        "battlefield-6-press-image-6.jpg": "A escala dos combates em Battlefield 6 é um de seus atrativos, afetada pela monetização.",
+        "battlefield-6-press-image-7.jpg": "Personalização de armamentos em Battlefield 6 pode envolver microtransações.",
+        "battlefield-6-tag-page-cover-art.jpg": "Arte conceitual de Battlefield 6 com soldados e veículos em ação, gerando debate sobre monetização."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Battlefield 6: Jogadores criticam microtransações da Temporada 1",
+        "_yoast_wpseo_metadesc": "Jogadores de Battlefield 6 expressam forte descontentamento com a avalanche de microtransações introduzida na Temporada 1. Críticas apontam para monetização agressiva.",
+        "_yoast_wpseo_focuskw": "Battlefield 6 microtransações",
+        "_yoast_news_keywords": "Battlefield 6, microtransações, EA, Electronic Arts, Dice, jogos, shooter, Temporada 1, games",
+        "_yoast_wpseo_opengraph-title": "Battlefield 6: Jogadores criticam microtransações da Temporada 1",
+        "_yoast_wpseo_opengraph-description": "Comunidade de Battlefield 6 reage negativamente ao excesso de microtransações na atualização da Temporada 1. Críticas apontam para monetização agressiva da EA.",
+        "_yoast_wpseo_twitter-title": "Battlefield 6: Jogadores criticam microtransações da Temporada 1",
+        "_yoast_wpseo_twitter-description": "Comunidade de Battlefield 6 reage negativamente ao excesso de microtransações na atualização da Temporada 1. Críticas apontam para monetização agressiva da EA."
+      }
+    }
+  ]
+}

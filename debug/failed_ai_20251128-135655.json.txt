@@ -1,0 +1,48 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Call of Duty: Black Ops 7 usa matchmaking aberto, afirma Treyarch",
+      "conteudo_final": "<p>A Treyarch Studios, desenvolvedora de <strong><em>Call of Duty: Black Ops 7</em></strong>, respondeu às alegações de que o jogo ainda prioriza a habilidade do jogador em seu sistema de matchmaking, apesar de a equipe ter adotado um modelo aberto durante o beta.</p><p>O sistema de matchmaking baseado em habilidade (SBMM) tem sido um tópico de debate acalorado na comunidade de <em>Call of Duty</em>. Historicamente, jogos como <em>Call of Duty 4: Modern Warfare</em>, <em>World at War</em> e <em>Black Ops</em> utilizavam um matchmaking aberto, focado na conexão. Essa abordagem mudou em 2019 com o reboot da série <em>Modern Warfare</em>, que introduziu o SBMM, priorizando o nível de habilidade dos jogadores. A Infinity Ward e a Activision defenderam o SBMM como crucial para a longevidade dos jogadores e um matchmaking mais saudável.</p>\n\n<h2>Treyarch reitera que matchmaking de Black Ops 7 é aberto</h2>\n\n<p>Apesar da insistência da Activision em manter o SBMM na série, este ano a desenvolvedora surpreendeu a comunidade ao confirmar o retorno ao sistema de matchmaking aberto para <em>Call of Duty: Black Ops 7</em>. Embora a habilidade ainda seja considerada minimamente, a Treyarch garante que seu peso é reduzido.</p>\n\n<p>Contudo, muitos jogadores expressaram ceticismo, afirmando que a experiência de jogo difere significativamente do que foi observado durante o beta aberto. Essa desconfiança levou o YouTuber Xclusive Ace a realizar testes para investigar o sistema. Utilizando duas contas, uma principal e outra de teste, ele replicou as condições de jogo, variando apenas a conta utilizada. Os resultados indicaram uma diferença notável na latência (ping), com a conta principal apresentando média de 42ms e a conta de teste, 20ms. Essa disparidade sugere que a habilidade pode ter um peso maior do que o afirmado pela Treyarch.</p>\n\n<p>Em resposta à publicação de Ace, a Treyarch declarou que está "analisando as partidas" em questão. O estúdio reitera que nenhuma alteração ocorreu entre o beta aberto e o lançamento completo de <em>Call of Duty: Black Ops 7</em>. No entanto, a empresa observou que as <strong><a href=\"https://www.maquinanerd.com.br/tag/demografias-de-jogadores\">demografias de jogadores</a></strong> e as seleções de playlists são "muito diferentes", o que poderia explicar a percepção de diferenças no nível de habilidade das lobbies em comparação com o beta.</p>\n\n<h2>Comunidade pede transparência sobre o matchmaking</h2>\n\n<p>Mesmo com a Treyarch afirmando não utilizar mais o SBMM em <em>Black Ops 7</em>, parte da comunidade permanece cética. YouTubers como PrimitiveAK pedem acesso aos dados brutos ou total transparência da Activision/Treyarch sobre as mudanças implementadas do sistema de habilidade para o aberto. \"A comunidade tem sido enganada por anos com matchmaking manipulador e, neste ponto, nada do que eles dizem será crível\", afirmou Primitive.</p>\n\n<p>Outros jogadores expressaram sentimentos semelhantes. A frustração com o SBMM em <em>Call of Duty</em> se deve, em parte, à percepção de uma implementação inadequada por parte da Activision. Desde 2019, o favorecimento da habilidade tem sido associado a uma pioria na conexão e a jogos menos relaxantes. Relatos de um ciclo de partidas em \"montanha-russa\" – lobbies mais difíceis após vitórias e mais fáceis após derrotas – são comuns entre os jogadores.</p>\n\n<p>A Treyarch busca esclarecer as preocupações dos jogadores, enfatizando que o sistema atual visa uma experiência mais equilibrada, mesmo que a percepção inicial seja de desafios diferentes em comparação ao período de testes.</p>",
+      "meta_description": "Treyarch responde a alegações sobre SBMM em Call of Duty: Black Ops 7, afirmando que o jogo usa matchmaking aberto e explica as diferenças sentidas pelos jogadores.",
+      "focus_keyphrase": "Call of Duty Black Ops 7 matchmaking",
+      "related_keyphrases": [
+        "SBMM Call of Duty",
+        "Treyarch matchmaking",
+        "Black Ops 7 open matchmaking"
+      ],
+      "slug": "call-of-duty-black-ops-7-matchmaking-aberto",
+      "categorias": [
+        {
+          "nome": "Call of Duty",
+          "grupo": "franquias",
+          "evidence": "Call of Duty: Black Ops 7"
+        },
+        {
+          "nome": "Treyarch",
+          "grupo": "estudios",
+          "evidence": "Treyarch Studios"
+        }
+      ],
+      "tags_sugeridas": [
+        "call of duty",
+        "black ops 7",
+        "treyarch",
+        "sbmm",
+        "matchmaking",
+        "call of duty black ops",
+        "shooter"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Call of Duty: Black Ops 7 usa matchmaking aberto, afirma Treyarch",
+        "_yoast_wpseo_metadesc": "Treyarch responde a alegações sobre SBMM em Call of Duty: Black Ops 7, afirmando que o jogo usa matchmaking aberto e explica as diferenças sentidas pelos jogadores.",
+        "_yoast_wpseo_focuskw": "Call of Duty Black Ops 7 matchmaking",
+        "_yoast_news_keywords": "Call of Duty, Black Ops 7, Treyarch, SBMM, matchmaking, shooter, Activision",
+        "_yoast_wpseo_opengraph-title": "Call of Duty: Black Ops 7 usa matchmaking aberto, afirma Treyarch",
+        "_yoast_wpseo_opengraph-description": "Treyarch responde a alegações sobre SBMM em Call of Duty: Black Ops 7, afirmando que o jogo usa matchmaking aberto e explica as diferenças sentidas pelos jogadores.",
+        "_yoast_wpseo_twitter-title": "Call of Duty: Black Ops 7 usa matchmaking aberto, afirma Treyarch",
+        "_yoast_wpseo_twitter-description": "Treyarch responde a alegações sobre SBMM em Call of Duty: Black Ops 7, afirmando que o jogo usa matchmaking aberto e explica as diferenças sentidas pelos jogadores."
+      }
+    }
+  ]
+}

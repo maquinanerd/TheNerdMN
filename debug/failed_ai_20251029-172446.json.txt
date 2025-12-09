@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Ready Player One: Filme de Steven Spielberg chega à Netflix em novembro",
+  "conteudo_final": "<p>O aguardado blockbuster de ficção científica de <b>Steven Spielberg</b>, <b>Ready Player One</b>, está prestes a estrear no catálogo da <b>Netflix</b> em 1º de novembro. O filme, baseado no best-seller de Ernest Cline, marca a primeira vez que a obra estará disponível em um grande serviço de streaming após um período fora das plataformas.</p><h2>O Fenômeno de Ready Player One</h2><p>Lançado em 2018, <b>Ready Player One</b> foi um sucesso estrondoso, arrecadando quase US$ 608 milhões mundialmente. O grande apelo do filme reside em sua imersão em referências da cultura pop, que vão desde ícones como Jason Voorhees e o DeLorean de <b>De Volta Para o Futuro</b> até o icônico Mechagodzilla. Essa interconexão de propriedades intelectuais existentes confere uma camada de realismo e atração ao universo do jogo central da trama, embora para alguns, isso possa ter definido os limites da originalidade da obra.</p><p>Independentemente das opiniões sobre sua abordagem narrativa, o sucesso comercial de <b>Ready Player One</b> é inegável. Além disso, destaca-se por ser uma das poucas incursões diretas de Spielberg no gênero sci-fi/ação em anos recentes. Embora filmes de gênero maiores tenham sido um marco em sua carreira, sua frequência diminuiu nas últimas duas décadas. Antes de <b>Ready Player One</b>, sua última aventura em grandes produções de gênero foi a animação <b>As Aventuras de Tintin</b>, em 2011, e desde então, ele não dirigiu outro filme similar.</p><figure><img src=\"https:
+  "meta_description": "Ready Player One, o aclamado sci-fi de Steven Spielberg, chega à Netflix em novembro. Reviva a aventura nostálgica e cheia de referências.",
+  "focus_keyphrase": "Ready Player One Netflix",
+  "related_keyphrases": [
+    "Steven Spielberg Ready Player One",
+    "Filmes sci-fi Netflix",
+    "Ready Player One streaming"
+  ],
+  "slug": "ready-player-one-steven-spielberg-netflix",
+  "categorias": [
+    {
+      "nome": "Ready Player One",
+      "grupo": "obras",
+      "evidence": "Netflix will add Ready Player One to its streaming lineup"
+    },
+    {
+      "nome": "Steven Spielberg",
+      "grupo": "pessoas",
+      "evidence": "Steven Spielberg's Most Recent Sci-Fi Blockbuster"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "servicos",
+      "evidence": "Netflix is losing an all-time great Steven Spielberg movie"
+    }
+  ],
+  "tags_sugeridas": [
+    "Ready Player One",
+    "Steven Spielberg",
+    "Netflix",
+    "Ficção Científica",
+    "Cultura Pop",
+    "Streaming",
+    "Ernest Cline"
+  ],
+  "image_alt_texts": {
+    "Ex-Machina.jpg": "Cena do filme Ready Player One com referências visuais.",
+    "PlayStation-Plus-Stray.jpg": "Imagem representando novidades no catálogo da Netflix.",
+    "netflix-a-house-of-dynamite.jpg": "Cena de um filme de comédia adicionado à Netflix.",
+    "hqdefault.jpg": "Trailer oficial do filme Ready Player One de Steven Spielberg."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Ready Player One: Filme de Steven Spielberg chega à Netflix em novembro",
+    "_yoast_wpseo_metadesc": "Ready Player One, o aclamado sci-fi de Steven Spielberg, chega à Netflix em novembro. Reviva a aventura nostálgica e cheia de referências.",
+    "_yoast_wpseo_focuskw": "Ready Player One Netflix",
+    "_yoast_news_keywords": "Ready Player One, Steven Spielberg, Netflix, Ficção Científica, Cultura Pop, Ernest Cline",
+    "_yoast_wpseo_opengraph-title": "Ready Player One: Filme de Steven Spielberg chega à Netflix em novembro",
+    "_yoast_wpseo_opengraph-description": "Ready Player One, o aclamado sci-fi de Steven Spielberg, chega à Netflix em novembro. Reviva a aventura nostálgica e cheia de referências.",
+    "_yoast_wpseo_twitter-title": "Ready Player One: Filme de Steven Spielberg chega à Netflix em novembro",
+    "_yoast_wpseo_twitter-description": "Ready Player One, o aclamado sci-fi de Steven Spielberg, chega à Netflix em novembro. Reviva a aventura nostálgica e cheia de referências."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Jeri Ryan revela dificuldade em reprisar Seven of Nine em Star Trek: Picard",
+  "conteudo_final": "<p>Jeri Ryan admite que houve um motivo específico pelo qual ela achou <b>\"difícil\"</b> reprisar o papel de Seven of Nine em <b><i>Star Trek: Picard</b></i>. Ryan interpretou Seven of Nine em quatro temporadas de <i>Star Trek: Voyager</i>, e sua icônica personagem, após se libertar dos Borg, permanece como uma das mais populares de <i>Star Trek</i> décadas após o fim de <i>Voyager</i> em 2001.</p><p>Em 2020, <i><b>Star Trek: Picard</b></i> trouxe Seven of Nine de volta para se juntar à tripulação de elite do Almirante Jean-Luc Picard (Patrick Stewart). Seven era uma personagem transformada, que enfrentou dificuldades após <i>Star Trek: Voyager</i>, levando-a a deixar a Terra e encontrar uma nova vida com os Fenris Rangers no Quadrante Beta.</p><p>Jeri Ryan discutiu como Seven foi criada para dar atenção mainstream a <i>Star Trek: Voyager</i> e revelou seus pensamentos sobre os icônicos macacões de Seven. Ryan comentou que teve <b>\"uma época mais difícil para encontrá-la\"</b> quando se juntou a <i>Star Trek: Picard</i> devido à diferença na escrita.</p><p>Ryan credita ao produtor executivo de <i>Star Trek: Voyager</i>, Brannon Braga, por criar Seven, e observa que havia um contraste entre a personagem <b>\"lindamente escrita\"</b> por Braga e como Seven foi inicialmente escrita em <i>Picard</i>. Ela explicou:</p><blockquote><p>\"Basicamente, cada palavra que eu pronunciava em <i>Voyager</i> foi escrita ou reescrita por Brannon Braga. Este era muito o personagem dele. Ela era a visão dele. Ela era o bebê dele. Ela realmente saiu completamente formada de seu cérebro, e ele nunca cometeu um erro, realmente, eu acho, com a forma como ele a desenvolveu. Foi lindamente escrito. Então, nunca houve um momento em que eu tive que dizer: 'Oh, eu não acho que ela diria isso.' Porque ele sabia o que ela pensava. Então, eu tive muita sorte com a forma como ela foi escrita.\"</p><p>\"Com <i>Picard</i>, foi diferente. Foi difícil. Tive uma época mais difícil para encontrá-la no começo. Eu estava tão acostumada com aquela voz sendo tão específica por tanto tempo. E houve algumas vezes em que eu pensei: 'Ok, não tenho certeza se isso é...' Mas eles foram muito abertos a feedback e sugestões com coisas assim.\"</p></blockquote><p>O showrunner da primeira temporada de <i>Star Trek: Picard</i> foi Michael Chabon, e o aclamado romancista explorou a mitologia Romulana e Borg. A primeira temporada de <i>Picard</i> foi uma diferença marcante, em tom e estrutura, do que os fãs de <i>Star Trek: The Next Generation</i> e <i>Star Trek: Voyager</i> esperavam.</p><p>Vinte anos após <i>Star Trek: Voyager</i>, Seven of Nine era uma personagem diferente em <i>Star Trek: Picard</i>. Seven estava isolada de seus amigos de <i>Voyager</i> e viveu uma vida de violência e perda como Fenris Ranger no Quadrante Delta. Outra mudança para Seven foi que <i>Picard</i> a transformou mais em uma heroína de ação relutante, empunhando um phaser.</p>
+<figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/seven-of-nine-toting-phaser-rifles.jpg?q=49&fit=crop&w=825&dpr=2" alt="Seven of Nine empunhando rifles phaser em Star Trek: Picard" loading="lazy"/></figure>
+<p>Em uma aparição em 2023 no <i>The Shuttlepod Show</i>, Brannon Braga apontou: <i>\"Não tenho certeza se eu teria feito\"</i> o tipo de histórias com Seven of Nine que <i>Star Trek: Picard</i> fez. Braga, que esteve em um relacionamento com Jeri Ryan durante os anos de <i>Star Trek: Voyager</i>, também achou que Seven deveria ter morrido no final de <i>Voyager</i>.</p><p>A terceira temporada de <i>Star Trek: Picard</i> foi a iteração mais bem-sucedida da série, e Jeri Ryan ficou encantada com a forma como sua amiga próxima, Terry Matalas, escreveu Seven of Nine, que se tornou Capitã da USS Enterprise-G. Se Jeri Ryan terá a chance de interpretar a Capitã Seven na esperada série derivada <i>Star Trek: Legacy</i>, ainda é uma incógnita.</p>",
+  "meta_description": "Jeri Ryan revela que achou difícil reprisar Seven of Nine em Star Trek: Picard devido a diferenças na escrita, comparando com seu trabalho em Voyager.",
+  "focus_keyphrase": "Jeri Ryan Seven of Nine Star Trek Picard",
+  "related_keyphrases": [
+    "Seven of Nine em Star Trek: Picard",
+    "Jeri Ryan como Seven of Nine",
+    "Dificuldades de escrita em Star Trek: Picard"
+  ],
+  "slug": "jeri-ryan-seven-of-nine-picard-dificuldade",
+  "categorias": [
+    {
+      "nome": "Star Trek: Picard",
+      "grupo": "obras",
+      "evidence": "Star Trek: Picard"
+    },
+    {
+      "nome": "Seven of Nine",
+      "grupo": "personagens",
+      "evidence": "Seven of Nine"
+    },
+    {
+      "nome": "Jeri Ryan",
+      "grupo": "atores",
+      "evidence": "Jeri Ryan"
+    }
+  ],
+  "tags_sugeridas": [
+    "Star Trek",
+    "Star Trek: Picard",
+    "Seven of Nine",
+    "Jeri Ryan",
+    "Brannon Braga",
+    "Star Trek: Voyager",
+    "USS Enterprise-G"
+  ],
+  "image_alt_texts": {
+    "seven-of-nine-toting-phaser-rifles.jpg": "Seven of Nine empunhando rifles phaser em Star Trek: Picard, demonstrando sua nova persona de ação."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Jeri Ryan revela dificuldade em reprisar Seven of Nine em Star Trek: Picard",
+    "_yoast_wpseo_metadesc": "Jeri Ryan revela que achou difícil reprisar Seven of Nine em Star Trek: Picard devido a diferenças na escrita, comparando com seu trabalho em Voyager.",
+    "_yoast_wpseo_focuskw": "Jeri Ryan Seven of Nine Star Trek Picard",
+    "_yoast_news_keywords": "Jeri Ryan, Seven of Nine, Star Trek: Picard, Star Trek: Voyager, Brannon Braga, Jeri Ryan entrevista, Seven of Nine personagem",
+    "_yoast_wpseo_opengraph-title": "Jeri Ryan revela dificuldade em reprisar Seven of Nine em Star Trek: Picard",
+    "_yoast_wpseo_opengraph-description": "Jeri Ryan admite que teve dificuldades em encontrar a voz de Seven of Nine em Star Trek: Picard, comparando a escrita com a de Star Trek: Voyager.",
+    "_yoast_wpseo_twitter-title": "Jeri Ryan revela dificuldade em reprisar Seven of Nine em Star Trek: Picard",
+    "_yoast_wpseo_twitter-description": "Jeri Ryan admite que teve dificuldades em encontrar a voz de Seven of Nine em Star Trek: Picard, comparando a escrita com a de Star Trek: Voyager."
+  }
+}

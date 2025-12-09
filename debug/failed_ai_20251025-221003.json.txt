@@ -1,0 +1,67 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Estreias de Novembro: Séries Essenciais de Ficção Científica e Fantasia",
+      "conteudo_final": "<p>Novembro promete ser um mês recheado de novidades para os fãs de ficção científica e fantasia, com o lançamento de séries aguardadas e retornos de títulos aclamados. Enquanto 2025 já trouxe grandes produções, o final do ano reserva ainda mais conteúdo para explorar.</p><h2>Retornos e Novidades Essenciais em Novembro</h2><p>A lista de séries essenciais para acompanhar em novembro inclui uma variedade de gêneros e plataformas. De animações baseadas em universos de RPG a dramas familiares distópicos e desfechos de sagas conhecidas, há algo para todos os gostos.</p><h2>Pluribus – Apple TV+</h2><p>A Apple TV+ estreia <b>Pluribus</b>, uma nova série que acompanha Carol (Rhea Seehorn), uma mulher que tenta libertar as pessoas ao seu redor de uma ilusão de felicidade. A trama promete explorar a frustração de Carol ao perceber que é a única ciente da situação, enquanto todos ao seu redor buscam "curá-la". A série marca a reunião de Seehorn com Vince Gilligan, criador de <b>Breaking Bad</b>.</p><p><b>Pluribus</b> chega à Apple TV+ em 7 de novembro com dois episódios de sua temporada de nove capítulos. A plataforma já garantiu duas temporadas da produção.</p><h2>Bat-Fam – Prime Video</h2><p>O universo do <b>Batman</b> se expande no Prime Video com <b>Bat-Fam</b>, uma nova série animada. A produção foca nas aventuras de Batman, seu filho Damian (Little Batman) e Alfred em seu lar, a Wayne Manor, que agora abriga mais membros. A série estreia em 10 de novembro e apresentará uma casa cheia, incluindo a sobrinha-neta de Alfred, Alicia, e vilões reformados como Ra’s al Ghul e Man-Bat.</p><h2>Outlander – Temporada 8 – Starz</h2><p>A aclamada série <b>Outlander</b> se prepara para seu desfecho com a oitava e última temporada em 2025. A temporada final promete entregar respostas há muito esperadas e pode superar os eventos da sétima temporada. Um grande mistério envolve a filha de Claire e Jamie, Faith, que teria morrido na segunda temporada, mas o trailer da nova temporada sugere que ela pode estar viva, o que traria uma reunião emocionante para fechar a série.</p><h2>Squid Game: The Challenge, Temporada 2 – Netflix</h2><p>A Netflix retorna com a segunda temporada de <b>Squid Game: The Challenge</b> em 4 de novembro. O reality show, derivado da popular série <b>Squid Game</b>, acompanha 426 participantes em desafios inspirados na trama original, com o objetivo de um único vencedor levar milhões. A nova temporada promete ainda mais tensão e drama, com estratégias de jogo e possíveis reviravoltas.</p><h2>Jurassic World: Chaos Theory (S4) – Netflix</h2><p>A franquia <b>Jurassic World</b> continua sua expansão com <b>Jurassic World: Chaos Theory</b>, quarta temporada da série animada que estreia em 20 de novembro na Netflix e marcará o fim da produção. A história segue os Nublar Six em sua jornada de volta para casa, enfrentando desafios mortais no Vale Biosyn, incluindo confrontos com um Tyrannosaurus rex.</p><h2>The Mighty Nein – Prime Video</h2><p>O universo de <b>Critical Role</b> ganha uma nova adaptação animada com <b>The Mighty Nein</b>, que chega ao Prime Video em 19 de novembro. Baseada no popular universo de RPG de mesa, a série acompanha a equipe em sua missão para salvar a realidade e impedir que um artefato poderoso, The Beacon, caia em mãos erradas. O elenco de personagens inclui Jester Lavorre (Laura Bailey) e Fjord (Travis Willingham).</p><h2>Stranger Things, Temporada 5, Volume 1 – Netflix</h2><p>A Netflix encerra uma de suas séries mais populares com <b>Stranger Things</b>, temporada 5. O Volume 1, com os quatro primeiros episódios, estreia em 26 de novembro. A temporada final será dividida em três partes, com os episódios seguintes previstos para o Natal e o Ano Novo. Os criadores, os Duffer Brothers, buscam entregar um final satisfatório para os fãs, unindo as diversas tramas da série.</p>",
+      "meta_description": "Descubra as séries essenciais de ficção científica e fantasia que chegam em novembro. Veja estreias e retornos imperdíveis como Stranger Things e Pluribus.",
+      "focus_keyphrase": "Séries de ficção científica e fantasia",
+      "related_keyphrases": [
+        "novas séries de novembro",
+        "estreias sci-fi e fantasia 2025",
+        "melhores séries de fantasia"
+      ],
+      "slug": "series-ficcao-cientifica-fantasia-novembro",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "obras",
+          "evidence": "Stranger Things season 5"
+        },
+        {
+          "nome": "Jurassic World",
+          "grupo": "franquias",
+          "evidence": "Jurassic World franchise"
+        },
+        {
+          "nome": "Squid Game",
+          "grupo": "obras",
+          "evidence": "Squid Game franchise"
+        }
+      ],
+      "tags_sugeridas": [
+        "Stranger Things",
+        "Jurassic World",
+        "Squid Game",
+        "Pluribus",
+        "The Mighty Nein",
+        "Outlander",
+        "Bat-Fam"
+      ],
+      "image_alt_texts": {
+        "m-a-s-s-e-f-e-c-t_5a2593.png": "Logo da série Pluribus com fundo abstrato.",
+        "Bat-Fam-Images-1.jpg": "Batman, Damian e Alfred em Bat-Fam, série animada do Prime Video.",
+        "netflix-scifi.jpg": "Mosaico de imagens de séries de ficção científica da Netflix.",
+        "David-Harbour-Millie-Bobby-Brown-in-Stranger-Things-Season-5.jpg": "David Harbour e Millie Bobby Brown em cena de Stranger Things Temporada 5.",
+        "Foundation-Galactic-Frontier-Key-Art.jpg": "Arte conceitual de Foundation mostrando naves espaciais.",
+        "Jurassic-World-Chaos-Theory.jpg": "Dinossauro em cena de Jurassic World: Chaos Theory, série da Netflix.",
+        "Maggie-Cheung-in-martial-arts-movie-Hero.jpg": "Maggie Cheung em cena de filme de artes marciais.",
+        "Outlander.jpg": "Claire e Jamie em cena de Outlander, série com temporada final.",
+        "Pluribus.jpg": "Rhea Seehorn em cena de Pluribus, série da Apple TV+.",
+        "Squid-Game-The-Challenge-S-2.jpg": "Participantes em desafio de Squid Game: The Challenge Temporada 2.",
+        "The-Mighty-Nein.jpg": "Personagens de The Mighty Nein em arte promocional.",
+        "i-know-what-you-did-last-summer-2025_1ff292.jpg": "Elenco jovem em cena de I Know What You Did Last Summer.",
+        "s-e-g-a_ae266f.png": "Logo da Sega com elementos de videogame."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Estreias de Novembro: Séries Essenciais de Ficção Científica e Fantasia",
+        "_yoast_wpseo_metadesc": "Descubra as séries essenciais de ficção científica e fantasia que chegam em novembro. Veja estreias e retornos imperdíveis como Stranger Things e Pluribus.",
+        "_yoast_wpseo_focuskw": "Séries de ficção científica e fantasia",
+        "_yoast_news_keywords": "Stranger Things, Jurassic World, Squid Game, Pluribus, The Mighty Nein, Outlander, Bat-Fam, Séries de ficção científica, Séries de fantasia, Netflix, Apple TV+, Prime Video, Starz",
+        "_yoast_wpseo_opengraph-title": "Estreias de Novembro: Séries Essenciais de Ficção Científica e Fantasia",
+        "_yoast_wpseo_opengraph-description": "Novembro traz grandes novidades para fãs de sci-fi e fantasia. Confira os lançamentos e retornos que você não pode perder, incluindo Stranger Things e mais.",
+        "_yoast_wpseo_twitter-title": "Estreias de Novembro: Séries Essenciais de Ficção Científica e Fantasia",
+        "_yoast_wpseo_twitter-description": "Novembro traz grandes novidades para fãs de sci-fi e fantasia. Confira os lançamentos e retornos que você não pode perder, incluindo Stranger Things e mais."
+      }
+    }
+  ]
+}

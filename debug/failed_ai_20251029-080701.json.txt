@@ -1,0 +1,63 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Battlefield Redfall: Pacote Rogue Ops Grátis para Jogadores de PS5 com PS Plus",
+      "conteudo_final": "<p>O modo battle royale de <b>Battlefield</b>, conhecido como Redfall, já está disponível. A <b>PlayStation</b> tem reforçado seu apoio à série, especialmente após a aquisição do <b>Xbox</b> pela <b>Call of Duty</b>. Um dos pacotes de skins de Redfall é exclusivo para PS5, e outro pacote, embora não exclusivo, pode ser desbloqueado gratuitamente para assinantes da PS Plus.</p>\n\n<h2>Pacote Initial Strike: Exclusivo para PS5</h2>\n<p>O Pacote Initial Strike é o item exclusivo para jogadores de PS5, podendo ser resgatado e utilizado tanto em <b>Battlefield 6</b> quanto em Redfall. Como é comum em itens exclusivos de PlayStation para jogos multiplayer online, este pacote apresenta detalhes em azul, cor característica da plataforma.</p>\n\n<h2>Redfall: Mais Conteúdo Gratuito para Assinantes PS Plus no PS5</h2>\n<p>O Pacote Rogue Ops é um segundo item gratuito oferecido aos jogadores de PS5. Diferentemente do Pacote Initial Strike, este não é liberado para todos os jogadores do PlayStation. É necessário possuir uma assinatura ativa da PS Plus para resgatá-lo sem custo. Caso contrário, ou se você estiver jogando em outra plataforma, o pacote custará US$ 20.</p>\n\n<p>A <b>PlayStation</b> tem demonstrado um forte apoio a <b>Battlefield 6</b> e Redfall, possivelmente visando fortalecer a série como uma concorrente direta de <b>Call of Duty</b>. O investimento em marketing para <b>Battlefield 6</b> foi tão expressivo antes do lançamento que muitos jogadores casuais podem ter acreditado ser um título exclusivo de PS5.</p>\n\n<p>A <b>EA</b> certamente valoriza o suporte da <b>PlayStation</b>, que tem investido significativamente no mais recente título de <b>Battlefield</b>. Relatórios anteriores ao lançamento indicavam que o estúdio esperava atrair mais de 100 milhões de jogadores. O sucesso de Redfall será crucial para atingir essa meta, mas com <b>Battlefield 6</b> vendendo 6,5 milhões de cópias a US$ 70, o modo battle royale gratuito tem um futuro promissor.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Jogadores de Battlefield Redfall no PS5 podem obter o pacote Rogue Ops gratuitamente com PS Plus. Saiba os detalhes e como resgatar.",
+      "focus_keyphrase": "Battlefield Redfall pacote grátis PS5",
+      "related_keyphrases": [
+        "Battlefield Redfall Rogue Ops Pack",
+        "PS Plus Battlefield skins",
+        "Battlefield 6 conteúdo gratuito"
+      ],
+      "slug": "battlefield-redfall-pacote-gratis-ps5",
+      "categorias": [
+        {
+          "nome": "Battlefield",
+          "grupo": "franquias",
+          "evidence": "Battlefield's battle royale, RedSec is here"
+        },
+        {
+          "nome": "PlayStation",
+          "grupo": "franquias",
+          "evidence": "PlayStation has continued a trend"
+        },
+        {
+          "nome": "Call of Duty",
+          "grupo": "franquias",
+          "evidence": "wake of Call of Duty becoming Xbox-owned"
+        }
+      ],
+      "tags_sugeridas": [
+        "battlefield",
+        "redfall",
+        "ps5",
+        "ps plus",
+        "ea",
+        "jogos",
+        "skins"
+      ],
+      "image_alt_texts": {
+        "mixcollage-29-oct-2025-10-43-am-2625.jpg": "Jogadores de Battlefield Redfall podem obter o pacote Rogue Ops gratuitamente no PS5 com PS Plus.",
+        "mixcollage-29-oct-2025-10-44-am-1679.jpg": "Detalhes do pacote Rogue Ops para Battlefield Redfall, incluindo skins e cosméticos.",
+        "battlefield-redsec-press-image-1-1.jpg": "Arte promocional de Battlefield Redfall, mostrando o visual do jogo.",
+        "battlefield-redsec-press-image-2-1.jpg": "Cena de jogabilidade de Battlefield Redfall, destacando a ação e os gráficos.",
+        "battlefield-redsec-press-image-3-1.jpg": "Personagens em Battlefield Redfall, exibindo diferentes trajes e equipamentos.",
+        "battlefield-redsec-press-image-4-1.jpg": "Cenário de Battlefield Redfall, mostrando o ambiente do jogo.",
+        "battlefield-redsec-press-image-5-1.jpg": "Skins disponíveis em Battlefield Redfall, com foco no pacote Rogue Ops.",
+        "battlefield-redsec-press-image-6-1.jpg": "Pacote Rogue Ops em destaque em Battlefield Redfall, mostrando seu conteúdo.",
+        "battlefield-redsec-tag-page-cover-art.jpg": "Arte de capa de Battlefield Redfall, servindo como imagem principal do jogo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Battlefield Redfall: Pacote Rogue Ops Grátis para Jogadores de PS5 com PS Plus",
+        "_yoast_wpseo_metadesc": "Jogadores de Battlefield Redfall no PS5 podem obter o pacote Rogue Ops gratuitamente com PS Plus. Saiba os detalhes e como resgatar.",
+        "_yoast_wpseo_focuskw": "Battlefield Redfall pacote grátis PS5",
+        "_yoast_news_keywords": "Battlefield, Redfall, PS5, PS Plus, EA, Rogue Ops Pack, skins, jogos",
+        "_yoast_wpseo_opengraph-title": "Battlefield Redfall: Pacote Rogue Ops Grátis para Jogadores de PS5 com PS Plus",
+        "_yoast_wpseo_opengraph-description": "Jogadores de Battlefield Redfall no PS5 podem obter o pacote Rogue Ops gratuitamente com PS Plus. Saiba os detalhes e como resgatar.",
+        "_yoast_wpseo_twitter-title": "Battlefield Redfall: Pacote Rogue Ops Grátis para Jogadores de PS5 com PS Plus",
+        "_yoast_wpseo_twitter-description": "Jogadores de Battlefield Redfall no PS5 podem obter o pacote Rogue Ops gratuitamente com PS Plus. Saiba os detalhes e como resgatar."
+      }
+    }
+  ]
+}

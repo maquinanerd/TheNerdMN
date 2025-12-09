@@ -1,0 +1,48 @@
+{
+  "titulo_final": "Buffy: Der Kindestod é o vilão mais assustador da série",
+  "conteudo_final": "<p>Ao longo de suas sete temporadas, <b>Buffy the Vampire Slayer</b> apresentou uma galeria de vilões memoráveis, mas um em particular se destaca como o mais aterrorizante. Buffy Summers (Sarah Michelle Gellar) enfrentou inúmeros monstros, mas o que apareceu na segunda temporada é assustador demais até para a série.</p><h2>Der Kindestod: O Vilão Mais Assustador de Buffy</h2><p>No episódio 18 da segunda temporada, intitulado \"Killed by Death\", Buffy contrai gripe e é hospitalizada. Lá, ela testemunha um homem assustador, com cicatrizes e dentes afiados, perseguindo crianças doentes. Ao investigar, Buffy e seus amigos descobrem que o monstro se chama \"Der Kindestod\", que significa \"morte infantil\".</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "Descubra por que Der Kindestod, o vilão do episódio \"Killed by Death\" de Buffy the Vampire Slayer, é considerado o mais assustador da série.",
+  "focus_keyphrase": "Der Kindestod Buffy",
+  "related_keyphrases": [
+    "Buffy the Vampire Slayer vilões",
+    "episódios assustadores Buffy",
+    "Der Kindestod significado"
+  ],
+  "slug": "buffy-der-kindestod-vilao-assustador",
+  "categorias": [
+    {
+      "nome": "Buffy the Vampire Slayer",
+      "grupo": "obras",
+      "evidence": "Buffy Summers (Sarah Michelle Gellar) enfrentou inúmeros monstros"
+    },
+    {
+      "nome": "Der Kindestod",
+      "grupo": "personagens",
+      "evidence": "o monstro se chama \"Der Kindestod\""
+    }
+  ],
+  "tags_sugeridas": [
+    "buffy-the-vampire-slayer",
+    "der-kindestod",
+    "sarah-michelle-gellar",
+    "vilões",
+    "terror",
+    "segunda temporada",
+    "joss-whedon"
+  ],
+  "image_alt_texts": {
+    "der-kindestod-extending-its-eyeballs-in-buffy-the-vampire-slayer.jpg": "Der Kindestod, o vilão de Buffy, com seus olhos se abrindo para sugar a vida.",
+    "der-kindestod-buffy.jpg": "Der Kindestod, o monstro que aterroriza crianças em Buffy the Vampire Slayer.",
+    "buffy-the-vampire-slayer-poster.jpg": "Poster oficial da série Buffy the Vampire Slayer."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Buffy: Der Kindestod é o vilão mais assustador da série | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Descubra por que Der Kindestod, o vilão do episódio \"Killed by Death\" de Buffy the Vampire Slayer, é considerado o mais assustador da série.",
+    "_yoast_wpseo_focuskw": "Der Kindestod Buffy",
+    "_yoast_news_keywords": "Buffy the Vampire Slayer, Der Kindestod, Sarah Michelle Gellar, vilões, terror, segunda temporada, Joss Whedon",
+    "_yoast_wpseo_opengraph-title": "Buffy: Der Kindestod é o vilão mais assustador da série",
+    "_yoast_wpseo_opengraph-description": "Descubra por que Der Kindestod, o vilão do episódio \"Killed by Death\" de Buffy the Vampire Slayer, é considerado o mais assustador da série.",
+    "_yoast_wpseo_twitter-title": "Buffy: Der Kindestod é o vilão mais assustador da série",
+    "_yoast_wpseo_twitter-description": "Descubra por que Der Kindestod, o vilão do episódio \"Killed by Death\" de Buffy the Vampire Slayer, é considerado o mais assustador da série."
+  }
+}

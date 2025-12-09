@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Wicked: Produtor explica os 30 anos de espera pela adaptação para o cinema",
+      "conteudo_final": "<p>Estreando na Broadway em 2003, <em>Wicked</em>, baseado em um romance de Gregory Maguire, reconta os eventos de <em>O Mágico de Oz</em> da perspectiva da Bruxa Má do Oeste, Elphaba. Agora, mais de 20 anos depois, o musical foi adaptado para dois filmes, cada um baseado em um ato diferente do show: <em><strong>Wicked</strong></em>, de 2024, e <em><strong>Wicked: For Good</strong></em>, de 2025.</p><p>Dirigidos por Jon M. Chu, ambos os filmes estrelam Cynthia Erivo, Ariana Grande, Jonathan Bailey, Michelle Yeoh, Marissa Bode, Ethan Slater e Jeff Goldblum. Desde os primeiros dias do sucesso de <em>Wicked</em> na Broadway, rumores de uma adaptação cinematográfica circularam; no entanto, Marc Platt, produtor do musical e do filme, revelou que sua jornada para as telonas se estende desde o lançamento do livro <em>Wicked</em> em 1995.</p><h2>O Início da Jornada Cinematográfica</h2><p>\"<em>Quando li pela primeira vez o romance de Gregory McGuire, ‘Wicked’, pensei ‘isso precisa ser um filme’</em>\", disse Platt. \"<em>É ‘O Mágico de Oz’, é um mundo para construir, é um mundo para viajar, e pareceu muito cinematográfico para mim. A releitura que ele impôs ao material original, ‘O Mágico de Oz’, pareceu tão relevante e interessante, e uma ideia brilhante. E então comecei uma jornada desenvolvendo-o inicialmente como um filme, e depois um dia o grande Stephen Schwartz, um compositor renomado de quem eu era um grande fã desde criança, disse: 'por que não transformar isso em um musical?' E pensei que essa é uma ótima ideia, na verdade.</em>\"</p><p>O produtor continuou, explicando que Oz é \"<em>um mundo que quer cantar</em>\". Ele também observou que a maioria do público em geral conhecia <em>O Mágico de Oz</em>, de 1939, mais do que o romance original, e que os números musicais do filme são uma grande parte de seu apelo atemporal. Segundo Platt, musicais também permitem que o público tenha uma visão mais direta dos sentimentos e crenças do personagem.</p><p>\"<em>Mais interessantemente, estávamos tentando contar a história de duas personagens que se apresentam de uma maneira para o mundo em que vivem, mas se sentem de forma diferente por dentro</em>\", acrescentou Platt. \"<em>Muito parecido com hoje em dia, crianças nas redes sociais, é a mesma coisa. Como você se apresenta, o que você sente? E <strong>em um musical, um personagem pode cantar uma coisa para o mundo em que está, mas depois se voltar para o público, ou para a câmera, e cantar exatamente o que está sentindo, e nos deixar entrar. E essa é a chave de tudo em ‘Wicked.’</strong></em>\"</p><h2>O Desafio da Adaptação para o Cinema</h2><p>Inicialmente, Platt \"<em>deixou de lado a ideia de um filme</em>\", mas então \"<em>tornou-se um musical de palco muito bem-sucedido em todo o mundo</em>\". Ele explicou que \"<em>um filme parecia maduro para a jornada continuar, e [seus] colegas da Universal perguntavam 'quando sai o filme?'</em>\" Apesar disso, ele esperou porque \"<em>queria que a base de fãs crescesse</em>\".</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/cynthia-erivo-as-elphaba-and-ariana-grande-as-glinda-in-wicked-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Cynthia Erivo como Elphaba e Ariana Grande como Glinda no filme Wicked"/><figcaption>Cynthia Erivo como Elphaba e Ariana Grande como Glinda no filme Wicked.</figcaption></figure><p>Como Platt \"<em>achou que tinha feito algo muito bem no palco e a barra era muito alta</em>\", ele hesitou em dar o salto para a tela grande. Como resultado, Platt dedicou tempo para \"<em>desenvolver [suas] habilidades como produtor de cinema</em>\" e \"<em>ter certeza de [que sabia] exatamente o que fazer</em>\".</p><p>\"<em>Eu nunca senti que tinha que fazer o filme, mas eu queria</em>\", concluiu Platt. \"<em>E então <strong>percebi muitos, muitos anos depois que a razão pela qual eu estava esperando era para Jon Chu levantar a mão e dizer: 'Eu adoraria dirigir esses filmes.'</strong> E essa foi a melhor ligação que eu já recebi.</em>\"</p><h2>Legado e Recepção</h2><p>A paciência de Platt valeu a pena a longo prazo; <em>Wicked </em>foi um sucesso de bilheteria e <em>For Good </em>já está sendo bem recebido pelo público. Concluindo a saga <em>Wicked</em>, <em><strong>Wicked: For Good</strong></em><strong> </strong>estreia nos cinemas em 21 de novembro de 2025.</p>",
+      "meta_description": "Produtor Marc Platt revela os 30 anos de espera pela adaptação cinematográfica de Wicked, explicando os motivos do longo desenvolvimento.",
+      "focus_keyphrase": "Wicked adaptação cinema",
+      "related_keyphrases": [
+        "Wicked filme produtor",
+        "Wicked 30 anos",
+        "Marc Platt Wicked"
+      ],
+      "slug": "wicked-produtor-explica-espera-cinema",
+      "categorias": [
+        {
+          "nome": "Wicked",
+          "grupo": "franquias",
+          "evidence": "<em>Wicked</em>, baseado em um romance de Gregory Maguire, reconta os eventos de <em>O Mágico de Oz</em>"
+        },
+        {
+          "nome": "Broadway",
+          "grupo": "editorias",
+          "evidence": "Estreando na Broadway em 2003"
+        },
+        {
+          "nome": "O Mágico de Oz",
+          "grupo": "franquias",
+          "evidence": "reconta os eventos de <em>O Mágico de Oz</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Wicked",
+        "filme Wicked",
+        "Marc Platt",
+        "Jon M. Chu",
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Broadway"
+      ],
+      "image_alt_texts": {
+        "cynthia-erivo-as-elphaba-and-ariana-grande-as-glinda-in-wicked-movie.jpg": "Cynthia Erivo como Elphaba e Ariana Grande como Glinda no filme Wicked."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wicked: Produtor explica os 30 anos de espera pela adaptação para o cinema",
+        "_yoast_wpseo_metadesc": "Produtor Marc Platt revela os 30 anos de espera pela adaptação cinematográfica de Wicked, explicando os motivos do longo desenvolvimento.",
+        "_yoast_wpseo_focuskw": "Wicked adaptação cinema",
+        "_yoast_news_keywords": "Wicked, filme Wicked, adaptação, cinema, Marc Platt, Jon M. Chu, Cynthia Erivo, Ariana Grande, Broadway, O Mágico de Oz",
+        "_yoast_wpseo_opengraph-title": "Wicked: Produtor explica os 30 anos de espera pela adaptação para o cinema",
+        "_yoast_wpseo_opengraph-description": "Produtor Marc Platt revela os 30 anos de espera pela adaptação cinematográfica de Wicked, explicando os motivos do longo desenvolvimento.",
+        "_yoast_wpseo_twitter-title": "Wicked: Produtor explica os 30 anos de espera pela adaptação para o cinema",
+        "_yoast_wpseo_twitter-description": "Produtor Marc Platt revela os 30 anos de espera pela adaptação cinematográfica de Wicked, explicando os motivos do longo desenvolvimento."
+      }
+    }
+  ]
+}

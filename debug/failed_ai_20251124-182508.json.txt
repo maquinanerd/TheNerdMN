@@ -1,0 +1,102 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Law & Order: SVU: Ice-T explica redução de participação de Fin na 27ª temporada",
+      "conteudo_final": "<p>Ice-T revelou o motivo pelo qual seu personagem, Fin, tem aparecido em menos episódios de <em>Law &amp; Order: Special Victims Unit</em> nesta temporada. O rapper e ator é um dos membros do elenco com mais tempo na icônica franquia <em>Law &amp; Order</em>, criada por Dick Wolf, tendo estreado na segunda temporada ao lado de Mariska Hargitay, intérprete de Olivia Benson.</p><h2>Redução de Participação de Fin na 27ª Temporada de SVU</h2><p>Quem acompanha <em>Law &amp; Order: SVU</em> na 27ª temporada notou a ausência de Fin em todos os episódios. Ele participou de apenas metade dos oito episódios exibidos até o momento.</p><p>Segundo Ice-T, em declaração ao <em>TMZ</em>, a redução na participação de seu personagem se deve a motivos orçamentários. A medida foi necessária para acomodar o retorno de Kelli Giddish, que interpreta Amanda Rollins, em tempo integral.</p><p>Para que <em>SVU</em> pudesse arcar com os custos de Giddish, a presença de outro membro do elenco precisou ser diminuída. \"Eles não podiam manter nós dois nos dois papéis ao mesmo tempo\", explicou Ice-T.</p><blockquote><p>É basicamente negócio. Eles trouxeram Kelli de volta. No fim das contas, não podiam manter nós dois nos dois papéis, em termos de orçamento.</p></blockquote><p>Os produtores conversaram com Ice-T e perguntaram se ele estaria confortável com \"entrar e sair este ano\", já que \"todo mundo\" queria o retorno de Giddish.</p><p>O ator não teve problemas com essa mudança significativa, compreendendo a necessidade. Ele chegou a perguntar aos produtores se estava sendo dispensado do programa, mas foi assegurado de que não era o caso. \"Não conseguimos imaginar <em>Law &amp; Order</em> sem você\", foi o que ele ouviu.</p><h2>Preocupação com a Renovação e Carreira Musical</h2><p>Neste momento, Ice-T está \"mais preocupado\" com a renovação de <em>SVU</em> para a 28ª temporada. Ele afirmou que os produtores o informaram que ele seria \"trabalhado um pouco menos este ano\", o que foi \"tudo bem\" para ele, pois compreendeu a situação.</p><blockquote><p>Eles disseram: ‘Ice, vamos te fazer entrar e sair este ano.’ Todo mundo queria Kelli de volta. Temos novos policiais. Eu não estou saindo do programa. Estou mais preocupado em chegar à temporada 28. Este ano, eles disseram: ‘Ice, vamos te fazer trabalhar um pouco menos.’ Tudo ficou bem comigo. Eu entendi. Eu disse: ‘Vocês estão me dispensando?’ Eles disseram: ‘De jeito nenhum. Não conseguimos imaginar <em>Law and Order</em> sem você.’ Estou neste programa há 27 anos. Não vou dizer nada negativo sobre este programa. Eles cuidaram de mim por tanto tempo. Estou tentando chegar à temporada 28.</p></blockquote><p>Com menos tempo de set, Ice-T está aproveitando para se dedicar à sua carreira musical.</p><h2>Reação dos Fãs e Retorno de Personagens</h2><p>Diante da preocupação e raiva de muitos fãs pela ausência de Fin em <em>SVU</em>, Ice-T fez questão de tranquilizá-los, afirmando que não há motivo para alarme. Ele se disse \"feliz\" com a insatisfação dos espectadores, pois isso demonstra que eles se importam. \"E se eu estivesse sumido e ninguém se importasse?\", questionou.</p><blockquote><p>Não se preocupem comigo. Fico meio feliz que os fãs estejam chateados. E se eu estivesse sumido e ninguém se importasse? Estarei espalhado por esta temporada.</p></blockquote><p>Sua colega de elenco retornou a <em>Law &amp; Order: SVU</em> na 13ª temporada, após participações anteriores como uma personagem diferente. Giddish teve uma saída controversa de <em>SVU</em> na 24ª temporada, quando sua personagem, Amanda Rollins, conseguiu um novo emprego fora da aplicação da lei. Após algumas aparições pontuais desde então, Giddish retornou como regular nesta temporada.</p><p>O retorno de Giddish e a participação reduzida de Ice-T não são as únicas mudanças no elenco de <em>Law &amp; Order: SVU</em> recentemente. Juliana Martinez e Octavio Pisano, que interpretaram Kate Silva e Joe Velasco, respectivamente, deixaram a série na temporada passada, com Aimé Donna Kelly sendo promovida a regular. Noma Dumezweni se juntou ao elenco nesta temporada em um papel recorrente.</p><p><em>Law &amp; Order: Special Victims Unit</em> retorna na quinta-feira, 8 de janeiro de 2026, às 21h (horário de Brasília) na NBC.</p>",
+      "meta_description": "Ice-T explica por que seu personagem Fin tem participação reduzida em Law & Order: SVU na 27ª temporada, citando motivos orçamentários e o retorno de Kelli Giddish.",
+      "focus_keyphrase": "Fin Law & Order SVU temporada 27",
+      "related_keyphrases": [
+        "Ice-T Law & Order SVU",
+        "participação Fin SVU",
+        "Law & Order SVU orçamento"
+      ],
+      "slug": "law-order-svu-fin-temporada-27-ice-t",
+      "categorias": [
+        {
+          "nome": "Law & Order: Special Victims Unit",
+          "grupo": "obras",
+          "evidence": "Law & Order: Special Victims Unit"
+        },
+        {
+          "nome": "Ice-T",
+          "grupo": "atores",
+          "evidence": "Ice-T"
+        }
+      ],
+      "tags_sugeridas": [
+        "law-order-svu",
+        "ice-t",
+        "fin",
+        "kelli-giddish",
+        "mariska-hargitay",
+        "nbc"
+      ],
+      "image_alt_texts": {
+        "ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg": "Ice-T como Fin Tutuola em Law & Order: SVU, com expressão séria.",
+        "tcdmaon_zx067.jpg": "Kelli Giddish como Amanda Rollins em Law & Order: SVU, em cena de investigação.",
+        "screenshot-2024-11-20-at-11-06-14.png": "Elenco de Law & Order: SVU reunido em uma cena de tribunal."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Law & Order: SVU: Ice-T explica redução de participação de Fin na 27ª temporada",
+        "_yoast_wpseo_metadesc": "Ice-T explica por que seu personagem Fin tem participação reduzida em Law & Order: SVU na 27ª temporada, citando motivos orçamentários e o retorno de Kelli Giddish.",
+        "_yoast_wpseo_focuskw": "Fin Law & Order SVU temporada 27",
+        "_yoast_news_keywords": "Law & Order SVU, Ice-T, Fin Tutuola, Kelli Giddish, Mariska Hargitay, NBC, temporada 27",
+        "_yoast_wpseo_opengraph-title": "Law & Order: SVU: Ice-T explica redução de participação de Fin na 27ª temporada",
+        "_yoast_wpseo_opengraph-description": "Ice-T explica por que seu personagem Fin tem participação reduzida em Law & Order: SVU na 27ª temporada, citando motivos orçamentários e o retorno de Kelli Giddish.",
+        "_yoast_wpseo_twitter-title": "Law & Order: SVU: Ice-T explica redução de participação de Fin na 27ª temporada",
+        "_yoast_wpseo_twitter-description": "Ice-T explica por que seu personagem Fin tem participação reduzida em Law & Order: SVU na 27ª temporada, citando motivos orçamentários e o retorno de Kelli Giddish."
+      }
+    },
+    {
+      "titulo_final": "A Man on the Inside: Netflix renova série de Ted Danson para 3ª temporada",
+      "conteudo_final": "<p>A série de comédia da Netflix, <em>A Man on the Inside</em>, está em alta após o lançamento de sua segunda temporada. Com potencial para mais histórias, a renovação para uma terceira temporada é esperada.</p><h2>A Man on the Inside: Renovação para 3ª Temporada</h2><p>A segunda temporada de <em>A Man on the Inside</em> termina com mais um crime solucionado e Charles Nieuwendyk (Ted Danson) relaxando na Pacific View Retirement Community, cercado por amigos. É provável que a maioria dos personagens principais retorne caso a série seja renovada.</p><p>Novos personagens introduzidos na segunda temporada também devem continuar, assim como alguns nomes já estabelecidos. As tramas românticas desenvolvidas nos minutos finais do último episódio da segunda temporada já preparam o terreno para o que pode acontecer na terceira temporada.</p><p>Enquanto aguardamos a confirmação oficial da Netflix, é interessante explorar esses fios soltos. Embora os detalhes de um possível mistério na terceira temporada sejam imprevisíveis, podemos antecipar alguns rumos para Charles, Julie e seus amigos.</p><div class="body-img landscape"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Ted Danson como Charles Nieuwendyk em A Man on the Inside" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Ted Danson como Charles Nieuwendyk em A Man on the Inside.</figcaption></figure></div><h2>A Man on the Inside: Recepção e Expectativas para a 3ª Temporada</h2><p><em>A Man on the Inside</em> se consolida como um sucesso no streaming, comparável a <em>Only Murders in the Building</em>. A segunda temporada alcançou o segundo lugar no ranking da Netflix nos EUA desde seu lançamento em 20 de novembro.</p><p>Além da audiência expressiva, a segunda temporada de <em>A Man on the Inside</em> obteve uma pontuação de 93% no Rotten Tomatoes entre os críticos. Essa recepção positiva, aliada aos altos índices de audiência, torna a renovação da série uma forte possibilidade.</p><p>A Netflix renovou <em>A Man on the Inside</em> para sua segunda temporada em meados de dezembro de 2024, três semanas após o lançamento da primeira. Se a série mantiver sua popularidade, a confirmação da terceira temporada deve ocorrer em meados de dezembro.</p><div class="body-img landscape"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdmaon_zx067.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdmaon_zx067.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdmaon_zx067.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdmaon_zx067.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdmaon_zx067.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdmaon_zx067.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Lilah Richcreek Estrada como Julie Kovalenko em A Man on the Inside" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdmaon_zx067.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdmaon_zx067.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Lilah Richcreek Estrada como Julie Kovalenko em A Man on the Inside.</figcaption></figure></div><h2>A Man on the Inside: Possíveis Tramas para a 3ª Temporada</h2><p>Após ambientar a primeira temporada em um lar de idosos, <em>A Man on the Inside</em> mudou o cenário para a segunda temporada, com Charles Nieuwendyk atuando como professor disfarçado na Wheeler College. Uma mudança de cenário semelhante pode ocorrer na terceira temporada, mantendo alguns personagens secundários.</p><p>Pelo menos três novas subtramas foram introduzidas no último episódio da segunda temporada e devem ser desenvolvidas no início da terceira. Uma delas envolve o professor aposentado Dr. Benjamin Cole, que se muda para a Pacific View Retirement Community e faz amizade com Elliott Haverhill, antigo rival de Charles.</p><p>É possível que Benjamin e Elliott formem uma parceria na terceira temporada, ou que entrem em conflito, dada a personalidade forte de ambos. No entanto, por enquanto, eles compartilham um desdém mútuo por Charles.</p><p>As outras duas subtramas que devem ser desenvolvidas em <em>A Man on the Inside</em> temporada 3 envolvem a vida amorosa de Julie Kovalenko e sua mãe, Vanessa Cascade. No final da segunda temporada, Didi, a gerente da Pacific View, revela seu interesse em Julie, que a convida para sair.</p><p>Além do relacionamento de Julie com Didi, Vanessa pode encontrar um novo interesse amoroso na terceira temporada, após o término com Apollo. Charles também terminou seu relacionamento com Mona no mesmo episódio.</p><p>Considerando a aproximação de Charles com Julie e sua mãe durante a temporada, é uma forte possibilidade que ele e Vanessa iniciem um relacionamento na próxima temporada. Embora outras possibilidades não sejam descartadas, Vanessa certamente retornará em algum momento na terceira temporada.</p><div class="body-img landscape"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-20-at-11-06-14.png?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-20-at-11-06-14.png?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-20-at-11-06-14.png?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-20-at-11-06-14.png?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-20-at-11-06-14.png?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-20-at-11-06-14.png?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Elenco de A Man on the Inside em uma festa" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-20-at-11-06-14.png?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/screenshot-2024-11-20-at-11-06-14.png?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Elenco de A Man on the Inside em uma festa.</figcaption></figure></div><h2>A Man on the Inside: Elenco da 3ª Temporada</h2><p>Como <em>A Man on the Inside</em> ainda não foi oficialmente renovada para a terceira temporada, não é possível confirmar o retorno de todos os membros do elenco. No entanto, é certo que Ted Danson retornaria como Charles na terceira temporada.</p><p>Mary Elizabeth Ellis (Emily), Lilah Richcreek Estrada (Julie) e Stephanie Beatriz (Didi) também devem retornar, pois participaram de ambas as temporadas.</p><p>Considerando o aprofundamento na personagem Julie na segunda temporada e a revelação de que Vanessa Cascade (Constance Marie) é sua mãe, Marie tem grande potencial para se tornar membro permanente do elenco. Se ela se tornará o interesse amoroso de Charles ainda é incerto.</p><p>Os atores que interpretam os residentes da Pacific View, como Stephen McKinley Henderson (Calbert Graham), Sally Struthers e John Getz (Virginia e Elliott), também devem retornar. O novo residente Dr. Benjamin Cole, interpretado por David Strathairn, provavelmente voltará.</p><p>Por outro lado, Mary Steenburgen, que interpretou o interesse amoroso de Charles na segunda temporada, não deve retornar. Seu personagem decidiu não acompanhá-la em suas viagens.</p><p>Max Greenfield, Gary Cole, Jill Talley e outros atores que interpretam personagens da Wheeler College provavelmente não retornarão. <em>A Man on the Inside</em> temporada 3 pode apresentar Charles Nieuwendyk em um novo cenário, com um novo conjunto de personagens secundários.</p>",
+      "meta_description": "A série A Man on the Inside, estrelada por Ted Danson, é renovada pela Netflix para a 3ª temporada. Saiba mais sobre as possíveis tramas e o elenco.",
+      "focus_keyphrase": "A Man on the Inside temporada 3",
+      "related_keyphrases": [
+        "renovação A Man on the Inside",
+        "Netflix A Man on the Inside",
+        "Ted Danson série"
+      ],
+      "slug": "a-man-on-the-inside-temporada-3-netflix",
+      "categorias": [
+        {
+          "nome": "A Man on the Inside",
+          "grupo": "obras",
+          "evidence": "A Man on the Inside"
+        },
+        {
+          "nome": "Ted Danson",
+          "grupo": "atores",
+          "evidence": "Ted Danson"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "a-man-on-the-inside",
+        "ted-danson",
+        "netflix",
+        "comedia",
+        "renovacao-serie"
+      ],
+      "image_alt_texts": {
+        "ted-danson-with-magnifying-glass-in-a-man-on-the-inside-season-2.jpg": "Ted Danson como Charles Nieuwendyk em A Man on the Inside, usando uma lupa.",
+        "tcdmaon_zx067.jpg": "Lilah Richcreek Estrada como Julie Kovalenko em A Man on the Inside, em cena de diálogo.",
+        "screenshot-2024-11-20-at-11-06-14.png": "Elenco de A Man on the Inside reunido em uma festa, celebrando."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Man on the Inside: Netflix renova série de Ted Danson para 3ª temporada",
+        "_yoast_wpseo_metadesc": "A série A Man on the Inside, estrelada por Ted Danson, é renovada pela Netflix para a 3ª temporada. Saiba mais sobre as possíveis tramas e o elenco.",
+        "_yoast_wpseo_focuskw": "A Man on the Inside temporada 3",
+        "_yoast_news_keywords": "A Man on the Inside, Ted Danson, Netflix, comédia, renovação de série, temporada 3",
+        "_yoast_wpseo_opengraph-title": "A Man on the Inside: Netflix renova série de Ted Danson para 3ª temporada",
+        "_yoast_wpseo_opengraph-description": "A série A Man on the Inside, estrelada por Ted Danson, é renovada pela Netflix para a 3ª temporada. Saiba mais sobre as possíveis tramas e o elenco.",
+        "_yoast_wpseo_twitter-title": "A Man on the Inside: Netflix renova série de Ted Danson para 3ª temporada",
+        "_yoast_wpseo_twitter-description": "A série A Man on the Inside, estrelada por Ted Danson, é renovada pela Netflix para a 3ª temporada. Saiba mais sobre as possíveis tramas e o elenco."
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "7 Grandes Livros de Fantasia que Precisam de Adaptação para Cinema ou TV",
+      "conteudo_final": "<p>A ficção fantástica é um terreno fértil para adaptações, mas muitos títulos incríveis ainda aguardam sua vez nas telas. Diversos livros de fantasia cativantes nunca receberam uma adaptação cinematográfica ou televisiva, deixando um vazio para os fãs.</p><h2>O Chamado de Cthulhu</h2><p>A mitologia de H.P. Lovecraft, centrada em <b>O Chamado de Cthulhu</b>, é um pilar do horror cósmico. Embora existam adaptações, nenhuma captura totalmente a essência do horror Lovecraftiano, especialmente a insignificância da humanidade diante de horrores cósmicos e as complexidades do culto.</p><figure class=\"figure-container\"><img src=\"https://comicbook.com/wp-content/uploads/2025/11/the-call-of-cthulhu-lovecraft.jpg?resize=680,463\" alt=\"Capa do livro O Chamado de Cthulhu, de H.P. Lovecraft.\"><figcaption>O universo de H.P. Lovecraft ainda espera uma adaptação definitiva.</figcaption></figure><h2>O Mago de Terramar</h2><p>Ursula K. Le Guin criou um mundo rico e complexo em <b>O Mago de Terramar</b>. A série explora temas de poder, responsabilidade e equilíbrio de uma maneira única. Uma adaptação fiel poderia trazer essa profundidade para o público mainstream.</p><h2>A Roda do Tempo</h2><p>Embora uma série recente tenha tentado, <b>A Roda do Tempo</b> de Robert Jordan é uma saga épica vasta com uma mitologia complexa e muitos personagens. Há espaço para uma interpretação diferente ou uma continuação que se aprofunde ainda mais nos detalhes que os fãs amam.</p><figure class=\"figure-container\"><img src=\"https://comicbook.com/wp-content/uploads/2025/11/the-wheel-of-time-robert-jordan.jpg?resize=680,463\" alt=\"Ilustração da série A Roda do Tempo, mostrando personagens e cenários épicos.\"><figcaption>A saga de Robert Jordan é um dos maiores legados da fantasia.</figcaption></figure><h2>Crônicas de Nárnia</h2><p>Embora já tenham tido adaptações, as <b>Crônicas de Nárnia</b> de C.S. Lewis possuem muitas histórias que ainda não foram exploradas nas telas, como a sequência dos livros publicada. A magia e a alegoria presentes na obra oferecem um potencial inexplorado.</p><h2>Mistborn: Nascidos da Bruma</h2><p>Brandon Sanderson é conhecido por seus mundos intrincados e sistemas de magia únicos. <b>Mistborn: Nascidos da Bruma</b>, com seu sistema de "Alomancia", oferece visuais fantásticos e uma trama de roubo e revolução que seria espetacular no cinema ou na TV.</p><figure class=\"figure-container\"><img src=\"https://comicbook.com/wp-content/uploads/2025/11/mistborn-brand-sanderson.jpg?resize=680,463\" alt=\"Capa do livro Mistborn: Nascidos da Bruma, de Brandon Sanderson.\"><figcaption>O sistema de magia de Mistborn é um dos mais criativos da fantasia.</figcaption></figure><h2>O Nome do Vento</h2><p>A trilogia <b>O Nome do Vento</b> de Patrick Rothfuss é amplamente elogiada por sua prosa lírica e construção de mundo. A história de Kvothe tem um apelo enorme e seria um prato cheio para uma série de alta qualidade.</p><h2>Jonathan Strange e o Senhor das Fadas</h2><p>Susanna Clarke nos transporta para uma Inglaterra alternativa onde a magia é real. <b>Jonathan Strange e o Senhor das Fadas</b> é uma obra densa e rica em detalhes históricos e fantásticos, que mereceria uma adaptação cuidadosa e visualmente deslumbrante.</p><figure class=\"figure-container\"><img src=\"https://comicbook.com/wp-content/uploads/2025/11/jonathan-strange-mr-norrell.jpg?resize=680,463\" alt=\"Capa do livro Jonathan Strange e o Senhor das Fadas, de Susanna Clarke.\"><figcaption>A magia e a história em Jonathan Strange e o Senhor das Fadas criam um cenário único.</figcaption></figure>",
+      "meta_description": "Descubra 7 livros de fantasia aclamados que ainda aguardam adaptações para cinema ou TV, incluindo O Chamado de Cthulhu e Mistborn.",
+      "focus_keyphrase": "livros de fantasia para adaptar",
+      "related_keyphrases": [
+        "adaptação de fantasia",
+        "livros de fantasia famosos",
+        "cinema e fantasia"
+      ],
+      "slug": "livros-fantasia-adaptacao-cinema-tv",
+      "categorias": [
+        {
+          "nome": "Fantasia",
+          "grupo": "gêneros",
+          "evidence": "Grandes Livros de Fantasia"
+        },
+        {
+          "nome": "Cinema",
+          "grupo": "editorias",
+          "evidence": "adaptação para Movie"
+        },
+        {
+          "nome": "TV Shows",
+          "grupo": "obras",
+          "evidence": "TV Adaptation"
+        }
+      ],
+      "tags_sugeridas": [
+        "fantasia",
+        "livros",
+        "adaptação",
+        "H.P. Lovecraft",
+        "Brandon Sanderson",
+        "Ursula K. Le Guin",
+        "Patrick Rothfuss"
+      ],
+      "image_alt_texts": {
+        "the-call-of-cthulhu-lovecraft.jpg": "Capa do livro O Chamado de Cthulhu, de H.P. Lovecraft.",
+        "the-wheel-of-time-robert-jordan.jpg": "Ilustração da série A Roda do Tempo, mostrando personagens e cenários épicos.",
+        "mistborn-brand-sanderson.jpg": "Capa do livro Mistborn: Nascidos da Bruma, de Brandon Sanderson.",
+        "jonathan-strange-mr-norrell.jpg": "Capa do livro Jonathan Strange e o Senhor das Fadas, de Susanna Clarke."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "7 Livros de Fantasia que Merecem Adaptação para Cinema e TV",
+        "_yoast_wpseo_metadesc": "Descubra 7 livros de fantasia aclamados que ainda aguardam adaptações para cinema ou TV, incluindo O Chamado de Cthulhu e Mistborn.",
+        "_yoast_wpseo_focuskw": "livros de fantasia para adaptar",
+        "_yoast_news_keywords": "fantasia, livros, adaptação, H.P. Lovecraft, Brandon Sanderson, Ursula K. Le Guin, Patrick Rothfuss, cinema, TV",
+        "_yoast_wpseo_opengraph-title": "7 Livros de Fantasia que Merecem Adaptação para Cinema e TV",
+        "_yoast_wpseo_opengraph-description": "Descubra 7 livros de fantasia aclamados que ainda aguardam adaptações para cinema ou TV, incluindo O Chamado de Cthulhu e Mistborn.",
+        "_yoast_wpseo_twitter-title": "7 Livros de Fantasia que Merecem Adaptação para Cinema e TV",
+        "_yoast_wpseo_twitter-description": "Descubra 7 livros de fantasia aclamados que ainda aguardam adaptações para cinema ou TV, incluindo O Chamado de Cthulhu e Mistborn."
+      }
+    }
+  ]
+}

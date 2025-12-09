@@ -1,0 +1,145 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Epic Games critica política de IA da Steam e a considera sem sentido",
+      "conteudo_final": "<p>Tim Sweeney, CEO da Epic Games, criticou a política de inteligência artificial (IA) da Steam em declarações recentes. Segundo o executivo, a exigência da Valve para divulgar o uso de IA nas listagens da Steam não faz sentido e está se tornando irrelevante.</p><p>Desde janeiro de 2024, a Valve exige que os desenvolvedores informem o uso de conteúdo gerado por IA em seus jogos na Steam. Essa política foi adicionada ao Acordo de Distribuição da Steam, após relatos de que a Valve estaria banindo alguns jogos com conteúdo de IA da plataforma. A empresa afirmou que a exigência de divulgação permitiria o lançamento da maioria dos jogos que utilizam IA generativa.</p><h2>CEO da Epic Games considera política de divulgação de IA da Steam sem sentido</h2><p>Tim Sweeney manifestou sua opinião em publicações no X (antigo Twitter) no final de novembro de 2025. Em resposta a um pedido para que a Valve removesse o rótulo de divulgação de IA, o executivo declarou que a exigência \"não faz sentido para lojas de jogos\". Ele observou que um número crescente de títulos utiliza soluções de IA generativa.</p><p>Um relatório de julho de 2025 da Totally Human Media corrobora a observação de Sweeney, indicando que um em cada cinco jogos lançados na Steam em 2025 divulgou o uso de IA. A mesma fonte estimou que apenas 7% de todos os títulos na plataforma exibem essa divulgação, sugerindo uma rápida adoção de IA entre os desenvolvedores de jogos.</p><h3>O rótulo 'Feito com IA' em breve será implícito para quase todos os jogos, prevê CEO da Epic</h3><p>Sweeney esclareceu que não é contra rótulos de IA em geral, reconhecendo sua relevância em contextos onde direitos autorais e de propriedade são cruciais, como em exposições de arte e plataformas de licenciamento de conteúdo. No entanto, com mais desenvolvedores de jogos adotando IA, ele argumentou que o rótulo está perdendo seu significado para plataformas como a Steam e a Epic Games Store, onde ele prevê que em breve será aplicado a quase todas as listagens.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/07/steam-logo-with-coding-background.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/07/steam-logo-with-coding-background.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/07/steam-logo-with-coding-background.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Logotipo da Steam com fundo de código" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/07/steam-logo-with-coding-background.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>O logotipo da Steam em um fundo de código.</figcaption></figure><h3>CEO da Epic compara rótulo de IA da Steam à divulgação de marca de shampoo</h3><p>A declaração de Sweeney em 27 de novembro gerou respostas polarizadas dos usuários. Um comentário questionando sua crença de que \"os clientes merecem saber\" sobre o uso de IA levou o executivo a reforçar sua posição com uma analogia. \"Poderíamos ter divulgações obrigatórias sobre qual marca de shampoo o desenvolvedor usa\", disse Sweeney, sugerindo que, se as divulgações de IA são obrigatórias, não há razão para parar por aí.</p><p>Alguns usuários apontaram que as preferências de shampoo dos desenvolvedores não são tão consequentes para o desenvolvimento de jogos quanto o uso de IA, mas Sweeney não respondeu.</p><h2>Desenvolvedor premiado rebate crença de Sweeney em 'máquinas de gororoba'</h2><p>Entre as partes mais vocais das comunidades online, há uma crença crescente de que o uso de IA está correlacionado a títulos de baixa qualidade. Esse sentimento vai além dos consumidores; Thomas Bithell, desenvolvedor do aclamado jogo de quebra-cabeça <em>Thomas Was Alone</em>, chamou os comentários de Sweeney sobre IA de \"muito tristes\". Em uma postagem no BlueSky em 27 de novembro, o desenvolvedor premiado criticou diretamente o apoio de Sweeney à IA generativa.</p><figure class="video-container"><blockquote class="bluesky-embed" data-bluesky-cid="bafyreid5ybncepogypq75tueduicjdh5pc4rrcik36mfupfqq6ahhix2n4" data-bluesky-uri="at://did:plc:kopiyhjlr2zlaw57z67nrpqh/app.bsky.feed.post/3m6lzdewov22r">Imagine ser tão certo de que precisa de máquinas de gororoba para fazer seu trabalho, que você se convence de que TODO MUNDO precisa delas. — Mike Bithell (@mikebithell.bsky.social) 2025-11-27T09:06:05.917Z</blockquote><script async src="https://embed.bsky.app/static/embed.js"></script></figure><h2>IA Generativa Não Vai Desaparecer na Steam ou em Outros Lugares</h2><p>Como destacado pela recente controvérsia sobre o uso de IA em <em>ARC Raiders</em>, até mesmo alguns dos jogos mais populares e aclamados pela crítica hoje não estão imunes a críticas por incorporar IA generativa. No entanto, se a previsão de Sweeney se concretizar e a indústria adotar amplamente tais tecnologias, o uso de IA pode se normalizar entre jogadores e desenvolvedores. Nesse caso, a Valve pode mais uma vez revisar suas políticas da Steam, que atualmente exigem divulgação de IA em um nível básico, reconhecendo apenas dois rótulos oficiais: pré-gerado e gerado em tempo real.</p><p>O rótulo pré-gerado da Steam aplica-se não apenas a visuais e música, mas também a código gerado por IA, que pode ser a forma mais difundida de uso de IA no desenvolvimento de jogos atualmente. De acordo com a pesquisa Stack Overflow de 2025, 84% dos usuários da plataforma já utilizam ferramentas de IA ou pretendem adotá-las em breve. Embora a pesquisa não forneça uma divisão específica por setor, seus resultados sugerem que o rótulo de conteúdo gerado por IA da Steam pode já estar desatualizado, pois a Valve o aplica uniformemente tanto a código quanto a arte.</p>",
+      "meta_description": "Tim Sweeney, CEO da Epic Games, critica a política de divulgação de IA da Steam, argumentando que ela não faz sentido para lojas de jogos e está se tornando irrelevante.",
+      "focus_keyphrase": "Epic Games critica política de IA da Steam",
+      "related_keyphrases": [
+        "Tim Sweeney Steam IA",
+        "Epic Games Store IA",
+        "política de IA Valve"
+      ],
+      "slug": "epic-games-critica-politica-ia-steam",
+      "categorias": [
+        {
+          "nome": "Steam",
+          "grupo": "plataformas",
+          "evidence": "criticou a política de inteligência artificial (IA) da Steam"
+        },
+        {
+          "nome": "Epic Games",
+          "grupo": "estúdios",
+          "evidence": "CEO da Epic Games"
+        }
+      ],
+      "tags_sugeridas": [
+        "epic games",
+        "steam",
+        "tim sweeney",
+        "inteligência artificial",
+        "desenvolvimento de jogos"
+      ],
+      "image_alt_texts": {
+        "steam-logo-with-coding-background.jpg": "Logotipo da Steam em um fundo de código."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Epic Games critica política de IA da Steam e a considera sem sentido",
+        "_yoast_wpseo_metadesc": "Tim Sweeney, CEO da Epic Games, critica a política de divulgação de IA da Steam, argumentando que ela não faz sentido para lojas de jogos e está se tornando irrelevante.",
+        "_yoast_wpseo_focuskw": "Epic Games critica política de IA da Steam",
+        "_yoast_news_keywords": "Epic Games, Steam, Tim Sweeney, Inteligência Artificial, IA Generativa, Valve, Desenvolvimento de Jogos",
+        "_yoast_wpseo_opengraph-title": "Epic Games critica política de IA da Steam e a considera sem sentido",
+        "_yoast_wpseo_opengraph-description": "Tim Sweeney, CEO da Epic Games, critica a política de divulgação de IA da Steam, argumentando que ela não faz sentido para lojas de jogos e está se tornando irrelevante.",
+        "_yoast_wpseo_twitter-title": "Epic Games critica política de IA da Steam e a considera sem sentido",
+        "_yoast_wpseo_twitter-description": "Tim Sweeney, CEO da Epic Games, critica a política de divulgação de IA da Steam, argumentando que ela não faz sentido para lojas de jogos e está se tornando irrelevante."
+      }
+    },
+    {
+      "titulo_final": "Dead by Daylight anuncia segunda colaboração com Stranger Things",
+      "conteudo_final": "<p><em>Dead by Daylight</em>, o popular jogo de terror multiplayer assimétrico, confirma uma nova colaboração com <em>Stranger Things</em>. Esta parceria marca a segunda vez que a série da Netflix se une ao jogo, um feito raro que até agora só havia sido compartilhado com a franquia <em>Resident Evil</em>.</p><p>A primeira colaboração entre <em>Dead by Daylight</em> e <em>Stranger Things</em> foi lançada em setembro de 2019. No entanto, o conteúdo foi removido do jogo dois anos depois devido à expiração da licença. Felizmente, em novembro de 2023, a parceria foi reativada e o conteúdo original, incluindo os sobreviventes Steve Harrington e Nancy Wheeler, e o assassino Demogorgon, voltou a estar disponível para os jogadores.</p><p>O pacote original, disponível por US$ 11,99 ou 1.500 Células Auricas, oferece aos jogadores a chance de controlar Steve e Nancy, cujas habilidades de sobrevivente focam em consciência de equipe e auxílio a companheiros. O Demogorgon, por sua vez, utiliza o poder de se teleportar pelo Mundo Invertido, adicionando uma camada tática ao jogo.</p><h2>Teaser confirma retorno de Stranger Things e sugere novo assassino</h2><p>Em 27 de novembro, a conta oficial de <em>Dead by Daylight</em> no X (antigo Twitter) divulgou um teaser de 20 segundos confirmando a chegada de um segundo capítulo de DLC de <em>Stranger Things</em>. O anúncio coincide com o lançamento dos primeiros episódios da quinta temporada de <em>Stranger Things</em> na Netflix.</p><p>O teaser, embora curto, sugere fortemente que Vecna, o vilão da série, será o foco deste novo conteúdo. É provável que ele se torne um novo assassino jogável. A expectativa é que a versão de Vecna em <em>Dead by Daylight</em> se diferencie da versão de <em>Dungeons & Dragons</em>, introduzida em junho de 2024, focando mais em suas habilidades telepáticas e de controle mental.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/dead-by-daylight-stranger-things-crossover-2.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/dead-by-daylight-stranger-things-crossover-2.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/dead-by-daylight-stranger-things-crossover-2.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Capa do DLC de Dead by Daylight com Stranger Things" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/dead-by-daylight-stranger-things-crossover-2.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Imagem promocional do novo crossover de Dead by Daylight com Stranger Things.</figcaption><small class="body-img-caption">Imagem via Behaviour Interactive</small></figure><h3>Novos sobreviventes e mapa podem acompanhar Vecna</h3><p>Se a nova colaboração seguir o padrão da anterior, é provável que dois novos sobreviventes sejam introduzidos junto com Vecna. Jim Hopper e Joyce Byers são candidatos prováveis, considerando que os personagens mais jovens da série podem ser considerados inadequados para um jogo de terror tão brutal. O primeiro crossover também adicionou um mapa inspirado no laboratório subterrâneo de Hawkins, sugerindo a possibilidade de um novo mapa temático, talvez baseado em locais icônicos como a Casa Creel ou o esconderijo de Vecna no Mundo Invertido.</p><h2>Lançamento previsto para janeiro de 2026</h2><p>A segunda colaboração entre <em>Dead by Daylight</em> e <em>Stranger Things</em> está prevista para janeiro de 2026, coincidindo com a conclusão da quinta temporada de <em>Stranger Things</em>. Com essa janela de lançamento, é possível que mais detalhes sobre o DLC sejam revelados durante o The Game Awards 2025, evento onde o jogo já teve revelações importantes no passado.</p><p>O próximo capítulo de <em>Dead by Daylight</em> tem sido alvo de especulações, com rumores anteriores sugerindo uma terceira colaboração com <em>Resident Evil</em> ou um crossover com <em>Predator</em>. A confirmação do retorno de <em>Stranger Things</em> encerra parte dessas especulações, focando a atenção dos fãs no aguardado conteúdo.</p>",
+      "meta_description": "Dead by Daylight anuncia oficialmente uma segunda colaboração com Stranger Things, trazendo Vecna como provável novo assassino em janeiro de 2026.",
+      "focus_keyphrase": "Dead by Daylight anuncia segunda colaboração Stranger Things",
+      "related_keyphrases": [
+        "Dead by Daylight Vecna",
+        "Stranger Things DLC",
+        "novo assassino Dead by Daylight"
+      ],
+      "slug": "dead-by-daylight-segunda-colaboracao-stranger-things",
+      "categorias": [
+        {
+          "nome": "Dead by Daylight",
+          "grupo": "jogos",
+          "evidence": "Dead by Daylight developer Behaviour Interactive"
+        },
+        {
+          "nome": "Stranger Things",
+          "grupo": "séries",
+          "evidence": "Stranger Things DLC Chapter"
+        }
+      ],
+      "tags_sugeridas": [
+        "dead by daylight",
+        "stranger things",
+        "vecna",
+        "behavior interactive",
+        "netflix",
+        "jogos de terror"
+      ],
+      "image_alt_texts": {
+        "dead-by-daylight-stranger-things-crossover-2.jpg": "Capa do DLC de Dead by Daylight com Stranger Things."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Dead by Daylight anuncia segunda colaboração Stranger Things",
+        "_yoast_wpseo_metadesc": "Dead by Daylight anuncia oficialmente uma segunda colaboração com Stranger Things, trazendo Vecna como provável novo assassino em janeiro de 2026.",
+        "_yoast_wpseo_focuskw": "Dead by Daylight anuncia segunda colaboração Stranger Things",
+        "_yoast_news_keywords": "Dead by Daylight, Stranger Things, Vecna, Behavior Interactive, Netflix, Jogos de Terror, Crossover",
+        "_yoast_wpseo_opengraph-title": "Dead by Daylight anuncia segunda colaboração Stranger Things",
+        "_yoast_wpseo_opengraph-description": "Dead by Daylight anuncia oficialmente uma segunda colaboração com Stranger Things, trazendo Vecna como provável novo assassino em janeiro de 2026.",
+        "_yoast_wpseo_twitter-title": "Dead by Daylight anuncia segunda colaboração Stranger Things",
+        "_yoast_wpseo_twitter-description": "Dead by Daylight anuncia oficialmente uma segunda colaboração com Stranger Things, trazendo Vecna como provável novo assassino em janeiro de 2026."
+      }
+    },
+    {
+      "titulo_final": "Nintendo adquire estúdio da Bandai Namco em Singapura em 2026",
+      "conteudo_final": "<p>A Nintendo anunciou um acordo com a Bandai Namco para adquirir todas as suas ações no estúdio de desenvolvimento Bandai Namco Singapore. A transação, prevista para a primavera de 2026, integrará o estúdio ao portfólio da Nintendo, abrindo novas possibilidades para o futuro da empresa, especialmente com a próxima geração de consoles.</p><p>O estúdio de Singapura da Bandai Namco foi fundado em 2013 com o objetivo de expandir o desenvolvimento de jogos na Ásia, enquanto uma filial em Vancouver cobria o mercado ocidental. O maior sucesso comercial do estúdio foi <em>Splatoon 3</em>, desenvolvido em colaboração com a Nintendo EPD e lançado exclusivamente para Nintendo Switch em setembro de 2022. O estúdio também esteve envolvido em títulos como <em>Soul Calibur 6</em>, <em>Ace Combat 7: Skies Unknown</em> e <em>Taiko no Tatsujin: VR Festival</em>.</p><h2>Jogos desenvolvidos pelo Bandai Namco Singapore</h2><ul><li><em>Splatoon 3</em> (com Nintendo EPD)</li><li><em>Soul Calibur 6</em></li><li><em>Ace Combat 7: Skies Unknown</em></li><li><em>Taiko no Tatsujin: VR Festival</em></li></ul><p>A Nintendo confirmou que adquirirá a maioria das ações da Bandai Namco Singapore no início de 2026. Cerca de 80% das ações do estúdio passarão para a posse da Nintendo em 1º de abril de 2026, com os 20% restantes planejados para transferência em uma data posterior. A aquisição, que resultará na redenominação do estúdio para Nintendo Studios Singapore, deve ter um \"efeito menor\" nas finanças da Nintendo para o ano fiscal atual. Contudo, ela abre um leque de oportunidades, especialmente após o anúncio do fim das atualizações regulares para <em>Splatoon 3</em> há mais de um ano.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/splatoon-3-characters.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/splatoon-3-characters.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/splatoon-3-characters.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Personagens de Splatoon 3" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/splatoon-3-characters.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Personagens do jogo Splatoon 3.</figcaption></figure><h3>Nintendo se destaca em aquisições de estúdios</h3><p>Em comparação com rivais como Sony e Microsoft, a Nintendo tem sido menos ativa na aquisição de novos estúdios de desenvolvimento. A Sony possui mais de 20 estúdios first-party, incluindo aquisições recentes como Bungie e Firewalk Studios. A Microsoft, por sua vez, realizou a compra bilionária da Activision Blizzard, que trouxe franquias como <em>Call of Duty</em> e <em>Diablo</em> para seu portfólio.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/call-of-duty-black-ops-7-season-1-image-2.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/call-of-duty-black-ops-7-season-1-image-2.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/call-of-duty-black-ops-7-season-1-image-2.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Imagem promocional de Call of Duty: Black Ops 7" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/call-of-duty-black-ops-7-season-1-image-2.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Imagem promocional de um jogo da franquia Call of Duty.</figcaption></figure><p>Uma das últimas grandes aquisições da Nintendo foi a Shiver Entertainment em maio de 2024, conhecida por portar jogos como <em>Hogwarts Legacy</em>. Mais tarde naquele ano, a empresa adquiriu totalmente a Monolith Soft, desenvolvedora de <em>Xenoblade Chronicles</em>, embora já possuísse a maior parte da empresa desde 2011. Outras aquisições incluem a SRD e a Next Level Games, desenvolvedora de <em>Luigi's Mansion 3</em>.</p><p>Adicionalmente, a aquisição do estúdio de animação Dynamo Pictures em 2022 rendeu à Nintendo créditos em jogos, animes e curtas-metragens, incluindo trabalho de captura de movimento para <em>Death Stranding 2</em>.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/07/death-stranding-3.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/07/death-stranding-3.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/07/death-stranding-3.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Imagem de Death Stranding 2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/07/death-stranding-3.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Imagem de Death Stranding 2.</figcaption></figure><p>O acordo entre Nintendo e Bandai Namco pode indicar uma maior disposição da Nintendo em competir com outras desenvolvedoras first-party. Embora o Switch esteja vendendo bem, a Nintendo perdeu a Rare, uma de suas desenvolvedoras mais conhecidas, para a Microsoft em 2002. Com o sucesso recente de <em>Donkey Kong Country</em>, a criação da Nintendo Studios Singapore pode ser uma medida para proteger franquias como <em>Splatoon</em> de um destino semelhante.</p>",
+      "meta_description": "Nintendo adquire estúdio da Bandai Namco em Singapura, que será renomeado para Nintendo Studios Singapore, com foco em futuras produções.",
+      "focus_keyphrase": "Nintendo adquire estúdio Bandai Namco",
+      "related_keyphrases": [
+        "Nintendo Studios Singapore",
+        "Bandai Namco aquisição",
+        "futuro da Nintendo Switch 2"
+      ],
+      "slug": "nintendo-adquire-estudio-bandai-namco",
+      "categorias": [
+        {
+          "nome": "Nintendo",
+          "grupo": "estúdios",
+          "evidence": "Nintendo has entered an agreement with Bandai Namco"
+        },
+        {
+          "nome": "Bandai Namco",
+          "grupo": "estúdios",
+          "evidence": "Bandai Namco Singapore development studio"
+        },
+        {
+          "nome": "Splatoon 3",
+          "grupo": "jogos",
+          "evidence": "Splatoon 3"
+        }
+      ],
+      "tags_sugeridas": [
+        "nintendo",
+        "bandai namco",
+        "splatoon 3",
+        "nintendo switch",
+        "desenvolvimento de jogos",
+        "aquisição de estúdio"
+      ],
+      "image_alt_texts": {
+        "splatoon-3-characters.jpg": "Personagens do jogo Splatoon 3.",
+        "call-of-duty-black-ops-7-season-1-image-2.jpg": "Imagem promocional de um jogo da franquia Call of Duty.",
+        "death-stranding-3.jpg": "Imagem de Death Stranding 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Nintendo adquire estúdio da Bandai Namco em Singapura em 2026",
+        "_yoast_wpseo_metadesc": "Nintendo adquire estúdio da Bandai Namco em Singapura, que será renomeado para Nintendo Studios Singapore, com foco em futuras produções.",
+        "_yoast_wpseo_focuskw": "Nintendo adquire estúdio Bandai Namco",
+        "_yoast_news_keywords": "Nintendo, Bandai Namco, Nintendo Studios Singapore, Splatoon 3, Aquisição de Estúdio, Desenvolvimento de Jogos",
+        "_yoast_wpseo_opengraph-title": "Nintendo adquire estúdio da Bandai Namco em Singapura em 2026",
+        "_yoast_wpseo_opengraph-description": "Nintendo adquire estúdio da Bandai Namco em Singapura, que será renomeado para Nintendo Studios Singapore, com foco em futuras produções.",
+        "_yoast_wpseo_twitter-title": "Nintendo adquire estúdio da Bandai Namco em Singapura em 2026",
+        "_yoast_wpseo_twitter-description": "Nintendo adquire estúdio da Bandai Namco em Singapura, que será renomeado para Nintendo Studios Singapore, com foco em futuras produções."
+      }
+    }
+  ]
+}

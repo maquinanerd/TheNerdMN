@@ -1,0 +1,49 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Task: HBO confirma 2ª temporada após sucesso histórico de audiência",
+      "conteudo_final": "<p>A série <em><strong>Task</strong></em>, produção da HBO, teve sua segunda temporada oficialmente confirmada. O thriller criminal retorna após uma primeira temporada aclamada pela crítica e com números recordes. Originalmente concebida como minissérie, a trama acompanha o jogo de gato e rato entre o agente do FBI Tom Brandis (Mark Ruffalo) e o ladrão profissional Robbie Prendergrast (Tom Pelphrey). A primeira temporada de <em>Task</em> alcançou 96% de aprovação no Rotten Tomatoes.</p><h2>HBO confirma renovação de Task para 2ª temporada</h2><p>A HBO confirmou a renovação de <em>Task</em> para a sua segunda temporada, com o criador da série, Brad Ingelsby, à frente do novo ciclo. Embora detalhes sobre o enredo e o retorno do elenco ainda não tenham sido divulgados, Francesca Orsi, vice-presidente executiva de Programação Dramática e Filmes da HBO, comentou a renovação:</p><blockquote><p>Sabíamos bem antes do lançamento que tínhamos uma série dramática poderosa em mãos, mas tem sido muito gratificante testemunhar o fervor e a recepção do público a este programa, à medida que crescia semana após semana. Raramente um escritor equilibra a narrativa humanística com um enredo intrincado e explosivo, mas Brad Ingelsby é um dos grandes de nossa indústria e não temos dúvidas de que ele abordará temas profundos e viciantes novamente na segunda temporada.</p></blockquote><p>Ingelsby também confirmou seu retorno à série em declaração própria. O roteirista, showrunner e produtor executivo agradeceu à HBO pela confiança e apoio a <em>Task</em>, que se tornou uma das primeiras temporadas de maior crescimento na história da emissora, figurando no Top 3. O criador expressou entusiasmo para a segunda temporada e a história que ainda será contada:</p><blockquote><p>Tivemos uma sorte incrível com o apoio inabalável da HBO a TASK desde o primeiro roteiro, durante a produção e durante o lançamento extraordinário da nossa primeira temporada para o público. Eles são um lar criativo incomparável. Em nome de toda a equipe de TASK, em frente e atrás das câmeras, sinto-me honrado e animado para voltar ao trabalho em uma segunda temporada de nosso programa.</p></blockquote><h2>Trajetória de Brad Ingelsby na HBO</h2><p><em>Task</em> é a segunda série de Ingelsby a obter sucesso crítico para a HBO. Sua primeira produção para a emissora foi a minissérie <em>Mare of Easttown</em>, em 2021, estrelada por Kate Winslet. O programa recebeu 16 indicações ao Emmy, incluindo quatro vitórias, e detém 95% de aprovação no Rotten Tomatoes. No entanto, esta é a primeira vez que uma minissérie de Ingelsby é renovada.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/mark-ruffalo-looking-over-his-glasses-in-task.jpg?q=49&fit=crop&w=825&dpr=2" alt="Mark Ruffalo em cena da série Task da HBO." /><figcaption>Mark Ruffalo interpreta o agente do FBI Tom Brandis na série Task da HBO.</figcaption></figure><p>A renovação da minissérie levanta questões sobre o futuro da história e o desenvolvimento de novos personagens. O final da primeira temporada de <em>Task</em> apresentou uma conclusão definitiva para o conflito entre Tom e Robbie. Embora a HBO não tenha confirmado oficialmente o retorno de nenhum membro do elenco, a história do personagem de Ruffalo poderia ter continuidade em um seguimento direto da primeira temporada.</p><h2>Desenvolvimento e expectativa para a 2ª temporada</h2><p>A renovação da série também estende o trabalho de Ingelsby com a HBO para além do acordo de três anos, assinado em 2021. Embora não haja confirmação sobre quando a segunda temporada chegará, o processo criativo para uma continuação provavelmente demandará tempo. A primeira temporada de <em>Task</em> iniciou seu desenvolvimento em junho de 2023, antes do lançamento em setembro de 2025, indicando que a espera não será curta.</p><p>Apesar disso, a recepção crítica de <em><strong>Task</strong></em>, aliada ao seu desempenho para a HBO, torna sua renovação apropriada. A avaliação da série também a posiciona como uma forte candidata para a temporada de premiações, embora nenhuma indicação tenha sido anunciada até o momento. Por ora, a segunda temporada promete marcar presença na HBO, com mais informações a serem divulgadas durante seu ciclo de desenvolvimento.</p>",
+      "meta_description": "HBO confirma a segunda temporada de Task após sucesso estrondoso e aclamação da crítica. Saiba mais sobre o futuro da série.",
+      "focus_keyphrase": "Task 2ª temporada HBO",
+      "related_keyphrases": [
+        "Task HBO",
+        "Brad Ingelsby Task",
+        "Mark Ruffalo série HBO"
+      ],
+      "slug": "task-hbo-confirma-2-temporada-sucesso",
+      "categorias": [
+        {
+          "nome": "Task",
+          "grupo": "obras",
+          "evidence": "Task season 2 has officially been confirmed by HBO, the crime thriller series"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "plataformas",
+          "evidence": "Task season 2 has officially been confirmed by HBO"
+        }
+      ],
+      "tags_sugeridas": [
+        "task",
+        "hbo",
+        "brad ingelsby",
+        "mark ruffalo",
+        "task renovada",
+        "crime thriller"
+      ],
+      "image_alt_texts": {
+        "mark-ruffalo-looking-over-his-glasses-in-task.jpg": "Mark Ruffalo em cena da série Task da HBO."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Task: HBO confirma 2ª temporada após sucesso histórico de audiência",
+        "_yoast_wpseo_metadesc": "HBO confirma a segunda temporada de Task após sucesso estrondoso e aclamação da crítica. Saiba mais sobre o futuro da série.",
+        "_yoast_wpseo_focuskw": "Task 2ª temporada HBO",
+        "_yoast_news_keywords": "Task, HBO, Brad Ingelsby, Mark Ruffalo, Task renovada, série de crime, thriller",
+        "_yoast_wpseo_opengraph-title": "Task: HBO confirma 2ª temporada após sucesso histórico de audiência",
+        "_yoast_wpseo_opengraph-description": "HBO confirma a segunda temporada de Task após sucesso estrondoso e aclamação da crítica. Saiba mais sobre o futuro da série.",
+        "_yoast_wpseo_twitter-title": "Task: HBO confirma 2ª temporada após sucesso histórico de audiência",
+        "_yoast_wpseo_twitter-description": "HBO confirma a segunda temporada de Task após sucesso estrondoso e aclamação da crítica. Saiba mais sobre o futuro da série."
+      }
+    }
+  ]
+}

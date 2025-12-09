@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Star Trek: Scott Bakula pode retornar em \"United\", série focada em Archer",
+  "conteudo_final": "<p>Uma nova série proposta, <em>Star Trek: United</em>, pode trazer Scott Bakula de volta ao universo <em>Star Trek</em> como um Presidente Jonathan Archer mais velho, anos após os eventos de <em>Star Trek: Enterprise</em>. A série, concebida pelo escritor e produtor Michael Sussman, visa ser um thriller político e drama familiar, explorando a vida de Archer como o primeiro presidente da Federação Unida de Planetas.</p><h2>Filhos de Jonathan Archer e a identidade de sua mãe</h2><p>Um dos aspectos mais intrigantes de <em>Star Trek: United</em> é o foco no drama familiar de Archer, que teria quatro filhos adultos. Michael Sussman revelou em uma entrevista que um dos filhos de Archer serve na Frota Estelar e utiliza o sobrenome "Hernandez". Ele confirmou que a mãe deste filho é a Capitã Erika Hernandez, interpretada por Ada Maris em <em>Star Trek: Enterprise</em>.</p><p>A Capitã Hernandez, que comandou a nave NX-02 Columbia, foi um interesse amoroso de Jonathan Archer no passado. Apesar do relacionamento não ter vingado, a conexão familiar é um ponto chave para a nova série. Sussman também explicou que o uso do sobrenome Hernandez pelo filho de Archer é uma forma de evitar tratamento preferencial devido à fama de seu pai.</p><div class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/utVYHQKo_Gc\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></div><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/utVYHQKo_Gc\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Michael Sussman fala sobre Star Trek: United.</figcaption></figure><p>Hernandez, introduzida na quarta temporada de <em>Star Trek: Enterprise</em>, apareceu em três episódios e teve seu potencial para o futuro da franquia explorado. Sussman expressou o desejo de que Ada Maris retorne ao papel caso <em>Star Trek: United</em> seja aprovada.</p><h2>Detalhes sobre os filhos de Archer em Star Trek: United</h2><p>Além do filho que usa o sobrenome Hernandez, Sussman detalhou outros dois filhos de Archer que terão papéis centrais na série. Um deles atua na diplomacia, enquanto outro trabalha para a Inteligência da Federação, uma divisão distinta da Inteligência da Frota Estelar. Sussman fez questão de esclarecer que este filho não trabalha para a Seção 31, buscando afastar-se de elementos já explorados em outras séries.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/captain-erika-hernandez-star-trek-enterprise.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Capitã Erika Hernandez em Star Trek: Enterprise\"><figcaption>Capitã Erika Hernandez foi introduzida em Star Trek: Enterprise.</figcaption></figure><p>Ainda há um quarto filho de Archer cujos detalhes não foram revelados por Sussman, assim como a identidade das mães dos outros filhos e o estado civil de Archer na série. A exploração da vida familiar de Archer é vista como um desenvolvimento gratificante para o personagem, contrastando com a imagem frequentemente solitária de outros capitães da Frota Estelar.</p><h2>O status atual de Star Trek: United</h2><p>É importante notar que <em>Star Trek: United</em> ainda é um conceito e não uma série em desenvolvimento oficial pela Paramount+. Michael Sussman tem colaborado com o artista conceitual Andrew Probert em designs, incluindo uma nova nave estelar para o Presidente Archer, provisoriamente chamada 'Starfleet One' ou 'Federation One'.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/captain-archer-and-hernandez-in-star-trek-enterprise.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Capitão Archer e Erika Hernandez em Star Trek: Enterprise\"><figcaption>A relação entre Archer e Hernandez é um ponto chave para a nova série.</figcaption></figure><p>Sussman também indicou que há planos para o retorno de outros personagens de <em>Star Trek: Enterprise</em>, como o Comandante Trip Tucker. Há especulações de que a morte de Tucker no final da série pode ter sido apresentada de forma diferente em uma simulação de holodeck, abrindo portas para seu retorno.</p><p>A ideia de <em>Star Trek: United</em> tem gerado grande interesse entre os fãs, que desejam ver Scott Bakula retornar ao papel. A expectativa é que a nova gestão da Paramount Skydance reconheça o potencial desta visão única para a franquia.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/captain-archer-and-t-pol-in-enterprise-finale-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Capitão Archer e T'Pol no final de Star Trek: Enterprise\"><figcaption>O final de Star Trek: Enterprise deixou aberto o destino de alguns personagens.</figcaption></figure>",
+  "meta_description": "Descubra detalhes sobre Star Trek: United, a série que pode trazer Scott Bakula de volta como Presidente Archer e explorar sua família.",
+  "focus_keyphrase": "Star Trek United",
+  "related_keyphrases": [
+    "Scott Bakula Star Trek",
+    "Presidente Archer",
+    "Star Trek Enterprise"
+  ],
+  "slug": "star-trek-united-archer-bakula",
+  "categorias": [
+    {
+      "nome": "Star Trek: Enterprise",
+      "grupo": "obras",
+      "evidence": "Star Trek: Enterprise"
+    },
+    {
+      "nome": "Star Trek: United",
+      "grupo": "obras",
+      "evidence": "Star Trek: United"
+    },
+    {
+      "nome": "Star Trek",
+      "grupo": "franquias",
+      "evidence": "Star Trek"
+    }
+  ],
+  "tags_sugeridas": [
+    "star trek",
+    "star trek united",
+    "scott bakula",
+    "jonathan archer",
+    "star trek enterprise",
+    "michael sussman",
+    "frota estelar"
+  ],
+  "image_alt_texts": {
+    "captain-erika-hernandez-star-trek-enterprise.jpg": "Capitã Erika Hernandez em Star Trek: Enterprise, filha de Jonathan Archer.",
+    "captain-archer-and-hernandez-in-star-trek-enterprise.jpg": "Capitão Jonathan Archer e Capitã Erika Hernandez em um momento de Star Trek: Enterprise.",
+    "captain-archer-and-t-pol-in-enterprise-finale-1.jpg": "Capitão Archer e T'Pol no episódio final de Star Trek: Enterprise.",
+    "star-trek-enterprise-tv-show-poster.jpg": "Poster oficial da série Star Trek: Enterprise."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Star Trek: Scott Bakula pode retornar em \"United\", série focada em Archer",
+    "_yoast_wpseo_metadesc": "Descubra detalhes sobre Star Trek: United, a série que pode trazer Scott Bakula de volta como Presidente Archer e explorar sua família.",
+    "_yoast_wpseo_focuskw": "Star Trek United",
+    "_yoast_news_keywords": "Star Trek, Star Trek United, Scott Bakula, Jonathan Archer, Star Trek Enterprise, Michael Sussman, Frota Estelar, Ada Maris",
+    "_yoast_wpseo_opengraph-title": "Star Trek: Scott Bakula pode retornar em \"United\", série focada em Archer",
+    "_yoast_wpseo_opengraph-description": "Descubra detalhes sobre Star Trek: United, a série que pode trazer Scott Bakula de volta como Presidente Archer e explorar sua família.",
+    "_yoast_wpseo_twitter-title": "Star Trek: Scott Bakula pode retornar em \"United\", série focada em Archer",
+    "_yoast_wpseo_twitter-description": "Descubra detalhes sobre Star Trek: United, a série que pode trazer Scott Bakula de volta como Presidente Archer e explorar sua família."
+  }
+}

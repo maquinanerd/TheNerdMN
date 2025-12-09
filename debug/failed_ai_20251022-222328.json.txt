@@ -1,0 +1,56 @@
+{
+  "titulo_final": "Task: Série da HBO com Mark Ruffalo atinge marco inédito no streaming",
+  "conteudo_final": "<p>A série de crime da HBO, <b>Task</b>, encerrou sua trajetória de sucesso no domingo, consolidando-se como um fenômeno de audiência. O drama permaneceu por 45 dias consecutivos nos gráficos de audiência do HBO Max, a maior parte desse tempo na liderança, superando até mesmo a concorrência de <b>Peacemaker</b>.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/03199142_poster_w780-1.jpg\" alt=\"Pôster da série Task com Mark Ruffalo.\"><figcaption>Pôster oficial da série Task.</figcaption></figure><p>Criada por Brad Inglesby, que anteriormente entregou o aclamado sucesso da HBO, <b>Mare of Easttown</b>, <b>Task</b> estrela Mark Ruffalo como um agente do FBI que retorna ao campo após um longo período afastado. A trama acompanha sua investigação para capturar um assaltante, interpretado por Tom Pelphrey, desvendando as complexidades por trás da vida dupla do criminoso.</p><p>Segundo o FlixPatrol, a série manteve o posto de número um globalmente na plataforma após seu episódio final, que foi amplamente elogiado. No agregador Rotten Tomatoes, <b>Task</b> ostenta uma pontuação de 95%, com o consenso da crítica destacando as atuações de Mark Ruffalo e Tom Pelphrey em uma história de crime culturalmente específica, "desoladora, mas igualmente cativante". A recap do episódio final, por Carly Lane, do Collider, descreveu-o como \"uma resolução agridoce para uma história que começou com vingança sangrenta\".</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/mark-ruffalo-in-hbo-s-task.jpg\" alt=\"Mark Ruffalo como agente do FBI na série Task.\"><figcaption>Mark Ruffalo interpreta um agente do FBI em Task.</figcaption></figure><h2>Task: Potencial para novas temporadas e crossovers</h2><p>Apesar de ter sido concebida como uma minissérie de sete episódios, Brad Inglesby expressou recentemente em entrevista à People sua abertura para retornar ao universo de <b>Task</b>, e até mesmo explorar um crossover com <b>Mare of Easttown</b>. \"Se as pessoas continuarem a responder a Task, adoraria contar mais histórias sobre este lugar\", afirmou.</p><p>Esta não seria a primeira vez que a HBO renovaria uma série originalmente comercializada como minissérie. Um exemplo notável é o drama de mistério <b>Big Little Lies</b>, que ganhou uma segunda temporada devido à popularidade. A HBO também deixou em aberto a possibilidade de Damon Lindelof desenvolver mais temporadas de <b>Watchmen</b>, que sempre foi planejada como uma série limitada.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/alison-oliver-in-task-episode-2.jpg\" alt=\"Alison Oliver em cena da série Task.\"><figcaption>Alison Oliver em uma cena da série Task.</figcaption></figure><h2>2025: Um ano marcante para minisséries na TV</h2><p><b>Task</b> se destacou em um ano repleto de minisséries notáveis, incluindo <b>Adolescence</b> da Netflix, <b>Dying for Sex</b> da FX, <b>Zero Day</b> estrelada por Robert De Niro, e o faroeste <b>American Primeval</b>. A série da Apple, <b>Chief of War</b>, também foi convertida em uma série contínua após seu sucesso.</p><p>Em 2024, a produção da FX on Hulu, <b>Shōgun</b>, também recebeu luz verde para continuações após ter sido inicialmente concebida como série limitada. A recepção positiva de <b>Task</b>, com suas atuações fortes e narrativa envolvente, reafirma o apelo das minisséries bem produzidas.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/mark-ruffalo-and-allison-oliver-hold-guns-as-they-approach-a-crime-scene-in-task.jpg\" alt=\"Mark Ruffalo e Alison Oliver em cena de ação na série Task.\"><figcaption>Mark Ruffalo e Alison Oliver em uma cena tensa.</figcaption></figure><p>A série <b>Task</b> está disponível para assistir no HBO Max. Acompanhe o Collider para mais atualizações sobre o universo das séries e filmes.</p>",
+  "meta_description": "Série \"Task\" com Mark Ruffalo no HBO Max atinge feito inédito no streaming, permanecendo no top 10 global por 45 dias. Saiba mais sobre o sucesso.",
+  "focus_keyphrase": "Série Task HBO",
+  "related_keyphrases": [
+    "Mark Ruffalo séries",
+    "Mare of Easttown",
+    "HBO Max séries de crime"
+  ],
+  "slug": "task-serie-hbo-streaming-sucesso",
+  "categorias": [
+    {
+      "nome": "Task",
+      "grupo": "obras",
+      "evidence": "HBO's Task has been a ratings hit for the entire duration of its run"
+    },
+    {
+      "nome": "HBO",
+      "grupo": "editorias",
+      "evidence": "HBO's Task has been a ratings hit"
+    },
+    {
+      "nome": "Mark Ruffalo",
+      "grupo": "franquias",
+      "evidence": "Task stars Mark Ruffalo as an FBI agent"
+    }
+  ],
+  "tags_sugeridas": [
+    "task",
+    "hbo",
+    "max",
+    "mark ruffalo",
+    "brad inglesby",
+    "crime drama",
+    "minissérie"
+  ],
+  "image_alt_texts": {
+    "03199142_poster_w780-1.jpg": "Pôster oficial da série Task estrelada por Mark Ruffalo.",
+    "alison-oliver-in-task-episode-2.jpg": "Alison Oliver em uma cena da série de crime da HBO, Task.",
+    "mark-ruffalo-and-allison-oliver-hold-guns-as-they-approach-a-crime-scene-in-task.jpg": "Mark Ruffalo e Alison Oliver segurando armas em cena de ação na série Task.",
+    "mark-ruffalo-in-hbo-s-task.jpg": "Mark Ruffalo em destaque como agente do FBI na série Task da HBO.",
+    "mark-ruffalo-looking-suspicious-in-task.jpg": "Mark Ruffalo em atitude suspeita na série Task.",
+    "tom-pelphrey-as-robbie-getting-into-a-car-in-task.jpg": "Tom Pelphrey como Robbie entrando em um carro na série Task."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Task: Série da HBO com Mark Ruffalo atinge marco inédito no streaming",
+    "_yoast_wpseo_metadesc": "Série \"Task\" com Mark Ruffalo no HBO Max atinge feito inédito no streaming, permanecendo no top 10 global por 45 dias. Saiba mais sobre o sucesso.",
+    "_yoast_wpseo_focuskw": "Série Task HBO",
+    "_yoast_news_keywords": "Task, HBO, Mark Ruffalo, Brad Inglesby, Mare of Easttown, Peacemaker, Big Little Lies, Watchmen, HBO Max, série de crime",
+    "_yoast_wpseo_opengraph-title": "Task: Série da HBO com Mark Ruffalo atinge marco inédito no streaming",
+    "_yoast_wpseo_opengraph-description": "Série \"Task\" com Mark Ruffalo no HBO Max atinge feito inédito no streaming, permanecendo no top 10 global por 45 dias. Saiba mais sobre o sucesso.",
+    "_yoast_wpseo_twitter-title": "Task: Série da HBO com Mark Ruffalo atinge marco inédito no streaming",
+    "_yoast_wpseo_twitter-description": "Série \"Task\" com Mark Ruffalo no HBO Max atinge feito inédito no streaming, permanecendo no top 10 global por 45 dias. Saiba mais sobre o sucesso."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Brendan Fraser relembra audição frustrada para Superman e roteiro de 'Shakespeare In Space'",
+      "conteudo_final": "<p>O ator Brendan Fraser, conhecido por seu trabalho em <i>A Múmia</i> e pela recente aclamação em <i>A Baleia</i>, compartilhou detalhes sobre uma audição que realizou para o papel de Superman em um filme que nunca se concretizou. Fraser relembrou o processo em uma entrevista recente, revelando o impacto de um roteiro particular que ele avaliou.</p><h2>Audiação para Superman</h2><p>Brendan Fraser já demonstrou interesse em interpretar o icônico Homem de Aço no passado. Em uma conversa, o ator mencionou ter participado de um teste para o papel em um filme que, por fim, não saiu do papel. Embora os detalhes sobre qual versão do Superman seria não sejam explícitos, a experiência parece ter sido marcante para ele.</p><h2>Roteiro "Shakespeare In Space"</h2><p>Fraser também comentou sobre um roteiro específico que leu, intitulado <b>\"Shakespeare In Space\"</b>. Ele descreveu o texto como uma obra que exigia uma abordagem dramática e complexa, comparando-o a peças clássicas. A avaliação do ator sugere que o projeto buscava uma profundidade incomum para o gênero.</p><p>O ator, que teve um retorno triunfal à indústria cinematográfica com <i>A Baleia</i>, continua a ser uma figura querida pelo público. Sua disposição em discutir projetos passados e roteiros variados demonstra seu engajamento com a arte de atuar e com a história do cinema.</p>",
+      "meta_description": "Brendan Fraser relembra audição para o papel de Superman e comenta sobre o roteiro de \"Shakespeare In Space\", demonstrando seu talento para papéis complexos.",
+      "focus_keyphrase": "Brendan Fraser Superman",
+      "related_keyphrases": [
+        "Brendan Fraser A Baleia",
+        "Superman audição",
+        "Shakespeare In Space roteiro"
+      ],
+      "slug": "brendan-fraser-superman-audicao",
+      "categorias": [
+        {
+          "nome": "Superman",
+          "grupo": "franquias",
+          "evidence": "Superman"
+        },
+        {
+          "nome": "Brendan Fraser",
+          "grupo": "atores",
+          "evidence": "Brendan Fraser"
+        },
+        {
+          "nome": "A Baleia",
+          "grupo": "obras",
+          "evidence": "A Baleia"
+        }
+      ],
+      "tags_sugeridas": [
+        "Brendan Fraser",
+        "Superman",
+        "DC Comics",
+        "audicao",
+        "A Baleia",
+        "Shakespeare In Space"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Brendan Fraser relembra audição para Superman e roteiro de \"Shakespeare In Space\"",
+        "_yoast_wpseo_metadesc": "Brendan Fraser relembra audição para o papel de Superman e comenta sobre o roteiro de \"Shakespeare In Space\", demonstrando seu talento para papéis complexos.",
+        "_yoast_wpseo_focuskw": "Brendan Fraser Superman",
+        "_yoast_news_keywords": "Brendan Fraser, Superman, DC Comics, audicao, A Baleia, Shakespeare In Space",
+        "_yoast_wpseo_opengraph-title": "Brendan Fraser relembra audição para Superman e roteiro de \"Shakespeare In Space\"",
+        "_yoast_wpseo_opengraph-description": "Brendan Fraser relembra audição para o papel de Superman e comenta sobre o roteiro de \"Shakespeare In Space\", demonstrando seu talento para papéis complexos.",
+        "_yoast_wpseo_twitter-title": "Brendan Fraser relembra audição para Superman e roteiro de \"Shakespeare In Space\"",
+        "_yoast_wpseo_twitter-description": "Brendan Fraser relembra audição para o papel de Superman e comenta sobre o roteiro de \"Shakespeare In Space\", demonstrando seu talento para papéis complexos."
+      }
+    }
+  ]
+}

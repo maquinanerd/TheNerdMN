@@ -1,0 +1,98 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Billy Bob Thornton revela planos para o futuro de Landman além da 2ª temporada",
+      "conteudo_final": "<p>Billy Bob Thornton abordou a longevidade de <strong><em>Landman</em></strong> após a segunda temporada, explicando sua visão para o futuro do drama focado no setor de petróleo. A segunda temporada de <em>Landman</em> estreou no Paramount+, mostrando Tommy (Thornton) lutando para gerenciar a M-Tex após a morte de Monty (John Hamm). O foco realista e empresarial da série oferece um terreno fértil para futuras narrativas.</p><h2>Visão de Longa Duração para Landman</h2><p>Em entrevista ao <em>The Hollywood Reporter</em>, Thornton, que assinou contrato por pelo menos quatro anos com a série, expressou otimismo sobre a duração do programa. Ele acredita que a série pode durar até 10 anos, afirmando que o fim será claro quando as ideias para o futuro se esgotarem. Ele comparou a situação com sua experiência em <em>Goliath</em>, onde a história se sentiu completa após quatro anos.</p><p>Thornton explicou que algumas séries se estendem demais, correndo o risco de se tornarem repetitivas ou forçarem situações ridículas. Ele acredita que <em>Landman</em>, como entidade, saberá quando chegar ao seu fim natural.</p><blockquote><p>“Bem, sim, absolutamente. Enquanto eu puder, quero fazer isso. Ou, até que a história acabe. Quando fiz [a série da Amazon] <em>Goliath</em>, onde interpretei um advogado, assinei por quatro anos. E depois desses quatro anos, ficamos satisfeitos. Às vezes, as pessoas podem ir longe demais. Existem certas séries que estão no ar há 12, 14, 17 temporadas. Depois de um tempo, é como, ‘Ok, entendemos. Mas o que você vai apresentar a seguir?’ Você tem que fazer algo ridículo ou repetir coisas que já fez. Então, acho que <em>Landman</em>, como uma entidade, saberá quando acabar.”</p></blockquote><h2>Enredo e Desenvolvimento da 2ª Temporada</h2><p>A principal trama da segunda temporada foca em Tommy e Cami (Demi Moore) tentando administrar a M-Tex após descobrirem o envolvimento de Monty em transações financeiras ilegais e fraudes. Paralelamente, Tommy se reconecta com seu pai, T.L. (Sam Elliott), após a morte de sua mãe. Cooper (Jacob Lofland) também está construindo seu próprio império no ramo do petróleo.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/landman-tommy-hero.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Billy Bob Thornton como Tommy em Landman"/><figcaption>Billy Bob Thornton como Tommy em Landman.</figcaption></figure><h2>Potencial de Longevidade da Série</h2><p>As diversas tramas e personagens de <em>Landman</em> indicam que a série tem potencial para explorar o complexo mundo do petróleo por muitos anos. A declaração de Thornton sugere uma abordagem realista, com o ator disposto a continuar no papel principal se a qualidade da história for mantida.</p><p>É importante notar que o co-criador e roteirista Taylor Sheridan assinou um novo acordo com a NBCUniversal, o que o afastará da Paramount a partir de janeiro de 2029. No entanto, ainda há tempo para que Sheridan contribua com a série antes de seu contrato expirar.</p><p>A série já estabeleceu bases sólidas para o desenvolvimento de suas histórias ao longo dos anos. A gestão de Tommy e Cami na M-Tex, juntamente com os empreendimentos de Cooper, parecem preparados para arcos narrativos extensos.</p><p>A declaração de Thornton é um bom sinal para a continuidade de <em>Landman</em>, possivelmente se tornando um marco na carreira do ator por um longo período. A série parece promissora enquanto continuar a desenvolver novas e interessantes narrativas para seus personagens.</p><p><strong>Novos episódios de <em>Landman</em> estreiam aos domingos no Paramount+.</strong></p>",
+      "meta_description": "Billy Bob Thornton fala sobre a possibilidade de Landman continuar por até 10 anos, detalhando sua visão para o futuro da série de petróleo no Paramount+.",
+      "focus_keyphrase": "Billy Bob Thornton futuro Landman",
+      "related_keyphrases": [
+        "Longevidade de Landman",
+        "Landman temporada 2",
+        "Taylor Sheridan Landman"
+      ],
+      "slug": "billy-bob-thornton-futuro-landman",
+      "categorias": [
+        {
+          "nome": "Landman",
+          "grupo": "obras",
+          "evidence": "Billy Bob Thornton has addressed how long Landman will last beyond season 2"
+        },
+        {
+          "nome": "Paramount+",
+          "grupo": "plataformas",
+          "evidence": "New episodes of Landman air Sundays on Paramount+."
+        }
+      ],
+      "tags_sugeridas": [
+        "Billy Bob Thornton",
+        "Landman",
+        "Paramount+",
+        "Taylor Sheridan",
+        "Série de TV"
+      ],
+      "image_alt_texts": {
+        "landman-tommy-hero.jpg": "Billy Bob Thornton como Tommy em Landman, série de TV sobre o setor de petróleo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Billy Bob Thornton revela planos para o futuro de Landman além da 2ª temporada",
+        "_yoast_wpseo_metadesc": "Billy Bob Thornton fala sobre a possibilidade de Landman continuar por até 10 anos, detalhando sua visão para o futuro da série de petróleo no Paramount+.",
+        "_yoast_wpseo_focuskw": "Billy Bob Thornton futuro Landman",
+        "_yoast_news_keywords": "Billy Bob Thornton, Landman, Paramount+, Série de TV, Taylor Sheridan",
+        "_yoast_wpseo_opengraph-title": "Billy Bob Thornton revela planos para o futuro de Landman além da 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Billy Bob Thornton fala sobre a possibilidade de Landman continuar por até 10 anos, detalhando sua visão para o futuro da série de petróleo no Paramount+.",
+        "_yoast_wpseo_twitter-title": "Billy Bob Thornton revela planos para o futuro de Landman além da 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Billy Bob Thornton fala sobre a possibilidade de Landman continuar por até 10 anos, detalhando sua visão para o futuro da série de petróleo no Paramount+."
+      }
+    },
+    {
+      "titulo_final": "Hytale: Novo dono lança imagens impressionantes após aquisição",
+      "conteudo_final": "<p>O desenvolvimento de <em>Hytale</em>, um jogo no estilo sandbox MMORPG criado por membros da comunidade do servidor <em>Minecraft</em> Hypixel, tem sido marcado por reviravoltas. Após seis anos de desenvolvimento, o projeto foi adquirido pela Riot Games em 2020. No entanto, o progresso estagnou nos últimos anos, levando a Riot a cancelar o projeto anteriormente este ano.</p><p>Um ex-desenvolvedor apontou a nova gestão da Hypixel Games como a responsável pelas dificuldades do jogo, e não a Riot Games, que ele descreveu como uma parceira agradável de se trabalhar. Recentemente, a Riot Games vendeu o jogo de volta para Simon Collins-Laflamme, um dos co-fundadores originais do estúdio.</p><h2>Hytale é Salvo por Cofundador</h2><p>Laflamme reconhece que <em>Hytale</em> ainda apresenta falhas e necessita de muito trabalho. Seu objetivo é realinhar o jogo à visão original do estúdio, evitando o excesso de escopo que prejudicou o projeto ao longo dos anos. Um dia após a aquisição, Laflamme divulgou 16 minutos de filmagens brutas para atualizar a comunidade sobre o estado atual de <em>Hytale</em>.</p><p>“Tenham em mente que <em>Hytale</em> está incompleto e com bugs, mas ainda é bonito e divertido. Temos muito trabalho para fazer deste um bom jogo, mas acredito na minha equipe. O progresso que fizemos nas últimas semanas tem sido incrível”, declarou Laflamme.</p><figure><img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/06/hytale-three-characters-in-front-of-fire.jpg" alt="Personagens de Hytale em frente a uma fogueira"/><figcaption>Personagens de Hytale em frente a uma fogueira.</figcaption></figure><h2>Imagens Brutas Revelam Potencial</h2><p>As filmagens mostram uma geração de mundo impressionante, com iluminação detalhada e uma trilha sonora atmosférica. O combate, embora pareça um pouco derivativo, demonstra ser surpreendentemente divertido. Apesar da ausência de muitas criaturas nos cenários apresentados, o jogo não aparenta ser um típico projeto em \"inferno de desenvolvimento\", como se poderia esperar após quatro anos sem novidades.</p><p>Os comentários no YouTube refletem o otimismo da comunidade, com muitos elogiando as imagens brutas como uma \"obra-prima cinematográfica\". A satisfação geral é palpável, dado o longo período de silêncio sobre o desenvolvimento do jogo.</p><figure><img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/05/riot-games.jpg" alt="Logo da Riot Games"/><figcaption>Logo da Riot Games.</figcaption></figure><p>O vídeo, que pode ser visto abaixo, oferece um vislumbre do que os fãs podem esperar de <em>Hytale</em> sob a nova liderança.</p><figure class="video-container"><iframe src="https://www.youtube.com/embed/rhaqjb_S2X8?t=37s" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></figure>",
+      "meta_description": "Simon Collins-Laflamme, cofundador do Hypixel, lança imagens brutas de Hytale após readquirir o jogo da Riot Games, mostrando progresso e potencial.",
+      "focus_keyphrase": "Hytale imagens brutas",
+      "related_keyphrases": [
+        "Hytale novo dono",
+        "Riot Games Hytale",
+        "Desenvolvimento Hytale"
+      ],
+      "slug": "hytale-imagens-brutas-novo-dono",
+      "categorias": [
+        {
+          "nome": "Hytale",
+          "grupo": "obras",
+          "evidence": "Hytale has been in development for six years"
+        },
+        {
+          "nome": "Riot Games",
+          "grupo": "franquias",
+          "evidence": "Riot Games acquired Hypixel Games in 2020"
+        },
+        {
+          "nome": "Minecraft",
+          "grupo": "obras",
+          "evidence": "created by community members of the popular Minecraft server Hypixel"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hytale",
+        "Riot Games",
+        "Simon Collins-Laflamme",
+        "Hypixel Games",
+        "Minecraft"
+      ],
+      "image_alt_texts": {
+        "hytale-three-characters-in-front-of-fire.jpg": "Personagens de Hytale em frente a uma fogueira, mostrando o potencial gráfico do jogo.",
+        "riot-games.jpg": "Logo da Riot Games, empresa que adquiriu e depois vendeu o desenvolvimento de Hytale."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hytale: Novo dono lança imagens impressionantes após aquisição",
+        "_yoast_wpseo_metadesc": "Simon Collins-Laflamme, cofundador do Hypixel, lança imagens brutas de Hytale após readquirir o jogo da Riot Games, mostrando progresso e potencial.",
+        "_yoast_wpseo_focuskw": "Hytale imagens brutas",
+        "_yoast_news_keywords": "Hytale, Riot Games, Simon Collins-Laflamme, Hypixel Games, Minecraft, Jogo Sandbox",
+        "_yoast_wpseo_opengraph-title": "Hytale: Novo dono lança imagens impressionantes após aquisição",
+        "_yoast_wpseo_opengraph-description": "Simon Collins-Laflamme, cofundador do Hypixel, lança imagens brutas de Hytale após readquirir o jogo da Riot Games, mostrando progresso e potencial.",
+        "_yoast_wpseo_twitter-title": "Hytale: Novo dono lança imagens impressionantes após aquisição",
+        "_yoast_wpseo_twitter-description": "Simon Collins-Laflamme, cofundador do Hypixel, lança imagens brutas de Hytale após readquirir o jogo da Riot Games, mostrando progresso e potencial."
+      }
+    }
+  ]
+}

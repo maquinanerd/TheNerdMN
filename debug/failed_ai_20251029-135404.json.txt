@@ -1,0 +1,48 @@
+{
+  "titulo_final": "One Piece: Ator de Mr. 3 revela segredo do sucesso da adaptação da Netflix",
+  "conteudo_final": "<p>A adaptação em live-action de <b>One Piece</b> pela Netflix surpreendeu os fãs, especialmente por ter sido lançada em um momento de baixa confiança na plataforma. Agora, com a segunda temporada a caminho, David Dastmalchian, intérprete do Mr. 3, compartilhou sua visão sobre o que diferencia esta adaptação de outras obras japonesas.</p><p>Em entrevista ao <b>Games Radar</b>, Dastmalchian destacou a fidelidade ao material original como o principal fator de sucesso. Ele afirmou que a série soube capturar a essência do mangá e do anime, elementos que tornam a obra de Eiichiro Oda tão especial.</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "David Dastmalchian, ator de Mr. 3, revela o segredo por trás do sucesso da adaptação live-action de One Piece pela Netflix, destacando a fidelidade e as mudanças estratégicas.",
+  "focus_keyphrase": "One Piece live-action Netflix",
+  "related_keyphrases": [
+    "adaptação de anime",
+    "Eiichiro Oda",
+    "segunda temporada de One Piece"
+  ],
+  "slug": "one-piece-sucesso-netflix",
+  "categorias": [
+    {
+      "nome": "One Piece",
+      "grupo": "franquias",
+      "evidence": "<i>One Piece</i> fans were shocked when Netflix's live-action adaptation turned out to be solid."
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "editorias",
+      "evidence": "Netflix's <em>One Piece</em> gears up for a new season"
+    }
+  ],
+  "tags_sugeridas": [
+    "one-piece",
+    "netflix",
+    "live-action",
+    "david dastmalchian",
+    "eiichiro oda",
+    "anime",
+    "adaptação"
+  ],
+  "image_alt_texts": {
+    "in-aki-godoy-as-luffy-looking-excited-while-walking-through-a-jungle-in-one-piece-season-2.jpg": "Iñaki Godoy como Luffy em cena da segunda temporada de One Piece.",
+    "netflix-one-piece-promotional-art.jpg": "Arte promocional da adaptação live-action de One Piece pela Netflix.",
+    "one-piece-season-2-poster.jpg": "Poster da segunda temporada de One Piece."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "One Piece: Ator de Mr. 3 revela segredo do sucesso da adaptação Netflix",
+    "_yoast_wpseo_metadesc": "David Dastmalchian, ator de Mr. 3, revela o segredo por trás do sucesso da adaptação live-action de One Piece pela Netflix, destacando a fidelidade e as mudanças estratégicas.",
+    "_yoast_wpseo_focuskw": "One Piece live-action Netflix",
+    "_yoast_news_keywords": "One Piece, Netflix, live-action, David Dastmalchian, Eiichiro Oda, anime, adaptação",
+    "_yoast_wpseo_opengraph-title": "One Piece: Ator de Mr. 3 revela segredo do sucesso da adaptação Netflix",
+    "_yoast_wpseo_opengraph-description": "David Dastmalchian, ator de Mr. 3, revela o segredo por trás do sucesso da adaptação live-action de One Piece pela Netflix, destacando a fidelidade e as mudanças estratégicas.",
+    "_yoast_wpseo_twitter-title": "One Piece: Ator de Mr. 3 revela segredo do sucesso da adaptação Netflix",
+    "_yoast_wpseo_twitter-description": "David Dastmalchian, ator de Mr. 3, revela o segredo por trás do sucesso da adaptação live-action de One Piece pela Netflix, destacando a fidelidade e as mudanças estratégicas."
+  }
+}

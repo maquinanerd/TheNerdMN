@@ -1,0 +1,108 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Taylor Sheridan deixa Paramount e assina com a NBCUniversal em 2029",
+      "conteudo_final": "<p>Novos relatórios revelam os motivos que levaram o criador de <b>Yellowstone</b>, Taylor Sheridan, a encerrar sua parceria com a Paramount. Sheridan, responsável por sucessos como <b>Tulsa King</b>, <b>Lioness</b> e <b>Landman</b>, se juntará à NBCUniversal em 2029.</p><p>A relação entre Sheridan e a Paramount já apresentava instabilidade antes mesmo da fusão com a Skydance. Segundo informações, a divisão cinematográfica do estúdio rejeitou o roteiro de longa-metragem de Sheridan, intitulado <b>Capture the Flag</b>, o que teria sido um ponto de atrito.</p><p>Adicionalmente, a Paramount teria dificultado o desenvolvimento do thriller de ação <b>F.A.S.T.</b>, que Sheridan desejava produzir em parceria com o estúdio rival Warner Bros.</p><p>Outras fontes indicam que as divergências surgiram após a fusão, com o novo CEO David Ellison e sua equipe. Desentendimentos sobre potenciais novas séries de TV, a decisão de não prosseguir com um projeto específico e questionamentos sobre os orçamentos das produções de Sheridan também teriam contribuído para a sua saída.</p>",
+      "meta_description": "Taylor Sheridan, criador de Yellowstone, deixará a Paramount em 2029 para se juntar à NBCUniversal. Saiba os motivos por trás da decisão.",
+      "focus_keyphrase": "Taylor Sheridan deixa Paramount",
+      "related_keyphrases": [
+        "Taylor Sheridan NBCUniversal",
+        "Yellowstone criador",
+        "Paramount Taylor Sheridan"
+      ],
+      "slug": "taylor-sheridan-deixa-paramount",
+      "categorias": [
+        {
+          "nome": "Yellowstone",
+          "grupo": "obras",
+          "evidence": "the <em>Yellowstone</em> creator"
+        },
+        {
+          "nome": "Tulsa King",
+          "grupo": "obras",
+          "evidence": "including <em>Tulsa King</em>"
+        },
+        {
+          "nome": "Landman",
+          "grupo": "obras",
+          "evidence": "and <em>Landman.</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Taylor Sheridan",
+        "Paramount",
+        "NBCUniversal",
+        "Yellowstone",
+        "Tulsa King",
+        "Landman"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Taylor Sheridan deixa Paramount e assina com a NBCUniversal em 2029",
+        "_yoast_wpseo_metadesc": "Taylor Sheridan, criador de Yellowstone, deixará a Paramount em 2029 para se juntar à NBCUniversal. Saiba os motivos por trás da decisão.",
+        "_yoast_wpseo_focuskw": "Taylor Sheridan deixa Paramount",
+        "_yoast_news_keywords": "Taylor Sheridan, Paramount, NBCUniversal, Yellowstone, Tulsa King, Landman",
+        "_yoast_wpseo_opengraph-title": "Taylor Sheridan deixa Paramount e assina com a NBCUniversal em 2029",
+        "_yoast_wpseo_opengraph-description": "Taylor Sheridan, criador de Yellowstone, deixará a Paramount em 2029 para se juntar à NBCUniversal. Saiba os motivos por trás da decisão.",
+        "_yoast_wpseo_twitter-title": "Taylor Sheridan deixa Paramount e assina com a NBCUniversal em 2029",
+        "_yoast_wpseo_twitter-description": "Taylor Sheridan, criador de Yellowstone, deixará a Paramount em 2029 para se juntar à NBCUniversal. Saiba os motivos por trás da decisão."
+      }
+    },
+    {
+      "titulo_final": "Ready Player One: Ficção científica de Spielberg chega à Netflix",
+      "conteudo_final": "<p>Um grande sucesso de ficção científica de <b>Steven Spielberg</b> está prestes a desembarcar na Netflix. A partir de 1º de novembro, o filme <b>Ready Player One</b>, lançado em 2018, estará disponível no catálogo do serviço de streaming, marcando seu retorno a uma plataforma popular após um período fora.</p><p>Baseado no aclamado romance de Ernest Cline, <b>Ready Player One</b> foi um sucesso de bilheteria, arrecadando quase US$ 608 milhões mundialmente. O filme se destaca pela sua imersão em referências da cultura pop, incluindo personagens como Jason Voorhees, referências a <b>De Volta para o Futuro</b> e a presença de Mechagodzilla.</p><p>Essa abundância de elementos já existentes foi tanto um ponto forte quanto uma crítica ao filme, que se apoia fortemente em propriedades intelectuais já estabelecidas para construir seu universo e narrativa. Apesar das discussões sobre sua originalidade, o sucesso comercial é inegável.</p><h2>Spielberg e o Gênero Sci-Fi</h2><p><b>Ready Player One</b> representa um dos poucos filmes de ação e ficção científica dirigidos por Spielberg nas últimas décadas. Embora o gênero tenha sido um pilar em sua carreira, ele tem se dedicado menos a essas produções nos últimos 15 a 20 anos. Antes de <b>Ready Player One</b>, seu último grande projeto no gênero foi a animação <b>As Aventuras de Tintin</b>, em 2011.</p><h2>Novidades na Netflix em Novembro</h2><p>A chegada de <b>Ready Player One</b> promete impulsionar o catálogo de ficção científica da Netflix. Além dele, diversos outros títulos estarão disponíveis a partir do início de novembro, incluindo:</p><ul><li>Ace Ventura: Pet Detective</li><li>Baby Driver</li><li>Back to the Future (trilogia)</li><li>Crazy Rich Asians</li><li>Doctor Sleep</li><li>Elvis</li><li>Game Night</li><li>The Hangover (trilogia)</li><li>Judas and the Black Messiah</li><li>Ocean’s 8</li><li>Paddington 2</li><li>Tenet</li></ul><figure><iframe src=\"https:
+      "meta_description": "Ready Player One, sucesso de ficção científica de Steven Spielberg, chega à Netflix em 1º de novembro. Saiba mais sobre o filme e outras novidades.",
+      "focus_keyphrase": "Ready Player One Netflix",
+      "related_keyphrases": [
+        "Steven Spielberg Ready Player One",
+        "Ready Player One streaming",
+        "filmes de ficção científica Netflix"
+      ],
+      "slug": "ready-player-one-netflix",
+      "categorias": [
+        {
+          "nome": "Ready Player One",
+          "grupo": "obras",
+          "evidence": "Netflix will add <a href=\"https:
+        },
+        {
+          "nome": "Steven Spielberg",
+          "grupo": "diretores",
+          "evidence": "great Steven Spielberg movie"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "<a href=\"https:
+        }
+      ],
+      "tags_sugeridas": [
+        "Ready Player One",
+        "Steven Spielberg",
+        "Netflix",
+        "ficção científica",
+        "cultura pop",
+        "streaming"
+      ],
+      "image_alt_texts": {
+        "Ex-Machina.jpg": "Cena do filme Ready Player One com referências à cultura pop.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Montagem de imagens de filmes de ficção científica.",
+        "PlayStation-Plus-Stray.jpg": "Imagem promocional do jogo Stray.",
+        "netflix-a-house-of-dynamite.jpg": "Poster do filme A House of Dynamite.",
+        "nightfall-movie.jpg": "Imagem do filme Nightfall.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_45a3c5.png": "Logo do Xbox Game Pass.",
+        "cSp1dM2Vj48": "Trailer do filme Ready Player One."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ready Player One: Ficção científica de Spielberg chega à Netflix",
+        "_yoast_wpseo_metadesc": "Ready Player One, sucesso de ficção científica de Steven Spielberg, chega à Netflix em 1º de novembro. Saiba mais sobre o filme e outras novidades.",
+        "_yoast_wpseo_focuskw": "Ready Player One Netflix",
+        "_yoast_news_keywords": "Ready Player One, Steven Spielberg, Netflix, ficção científica, cultura pop, streaming",
+        "_yoast_wpseo_opengraph-title": "Ready Player One: Ficção científica de Spielberg chega à Netflix",
+        "_yoast_wpseo_opengraph-description": "Ready Player One, sucesso de ficção científica de Steven Spielberg, chega à Netflix em 1º de novembro. Saiba mais sobre o filme e outras novidades.",
+        "_yoast_wpseo_twitter-title": "Ready Player One: Ficção científica de Spielberg chega à Netflix",
+        "_yoast_wpseo_twitter-description": "Ready Player One, sucesso de ficção científica de Steven Spielberg, chega à Netflix em 1º de novembro. Saiba mais sobre o filme e outras novidades."
+      }
+    }
+  ]
+}

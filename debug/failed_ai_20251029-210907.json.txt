@@ -1,0 +1,54 @@
+{
+  "titulo_final": "The Boys: Amazon comete erro ao cancelar spinoff animado Diabolical",
+  "conteudo_final": "<p>Com a segunda temporada de <em>Gen V</em> concluída e a quinta temporada de <strong><em>The Boys</em></strong> a caminho, o universo da sátira de super-heróis de Eric Kripke parece mais forte do que nunca. No entanto, nem todas as notícias sobre a franquia foram positivas. Em 2025, Kripke confirmou o que muitos fãs temiam: <em>The Boys Presents: Diabolical</em> não retornaria para uma segunda temporada. A série antológica animada foi o primeiro spinoff de <em>The Boys</em> e, embora não tenha alcançado a mesma popularidade que <em>Gen V</em> ou a série principal, mostrou um lado diferente do mundo caótico da Vought.</p><h2><em>The Boys Presents: Diabolical</em> Merecia Mais Que Uma Temporada</h2><p><em>The Boys Presents: Diabolical</em> foi muito mais do que um experimento animado descartável. A série se destacou como uma expansão ousada e criativa do universo de <em>The Boys</em>, oferecendo aos fãs uma nova e muitas vezes bizarra maneira de vivenciar os temas de poder, corrupção e humanidade da série. Críticos claramente viram o valor, com a série ostentando impressionantes 97% no Rotten Tomatoes.</p><p>O formato antológico de <em>Diabolical</em> permitiu que diferentes criadores e estúdios de animação contassem histórias radicalmente distintas, desde as hilariamente sangrentas até as surpreendentemente emocionantes. Episódios como \"I’m Your Pusher\" mergulharam nas raízes dos quadrinhos de <em>The Boys</em> com energia inabalável, enquanto \"John and Sun-Hee\" entregou profundidade emocional genuína, provando que este universo não é feito apenas de sátira e choque.</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "A Amazon comete um erro ao cancelar The Boys Presents: Diabolical. O spinoff animado tinha potencial para expandir o universo da série.",
+  "focus_keyphrase": "The Boys Diabolical",
+  "related_keyphrases": [
+    "The Boys spinoff",
+    "Diabolical cancelado",
+    "Eric Kripke"
+  ],
+  "slug": "the-boys-diabolical-cancelamento-erro",
+  "categorias": [
+    {
+      "nome": "The Boys Presents: Diabolical",
+      "grupo": "obras",
+      "evidence": "The Boys Presents: Diabolical won’t be returning"
+    },
+    {
+      "nome": "The Boys",
+      "grupo": "franquias",
+      "evidence": "The Boys season 5 on the horizon"
+    },
+    {
+      "nome": "Gen V",
+      "grupo": "obras",
+      "evidence": "With Gen V season 2 wrapped"
+    }
+  ],
+  "tags_sugeridas": [
+    "the-boys",
+    "diabolical",
+    "gen-v",
+    "eric-kripke",
+    "amazon-prime-video",
+    "animação",
+    "spinoff"
+  ],
+  "image_alt_texts": {
+    "the-boys-diabolical-hughie-with-simon-pegg-s-likeness.jpg": "Hughie em The Boys Presents: Diabolical",
+    "ghost-in-the-boys-diabolical.jpg": "Fantasma em The Boys Diabolical",
+    "homelander-in-gen-v.jpg": "Homelander (Anthony Starr) olhando para Marie no final da 1ª temporada de Gen V",
+    "diabolical-tv-poster.jpg": "Pôster de TV de The Boys Presents: Diabolical"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "The Boys: Amazon comete erro ao cancelar spinoff animado Diabolical",
+    "_yoast_wpseo_metadesc": "A Amazon comete um erro ao cancelar The Boys Presents: Diabolical. O spinoff animado tinha potencial para expandir o universo da série.",
+    "_yoast_wpseo_focuskw": "The Boys Diabolical",
+    "_yoast_news_keywords": "The Boys, Diabolical, Gen V, Eric Kripke, Amazon Prime Video, Animação, Spinoff",
+    "_yoast_wpseo_opengraph-title": "The Boys: Amazon comete erro ao cancelar spinoff animado Diabolical",
+    "_yoast_wpseo_opengraph-description": "A Amazon comete um erro ao cancelar The Boys Presents: Diabolical. O spinoff animado tinha potencial para expandir o universo da série.",
+    "_yoast_wpseo_twitter-title": "The Boys: Amazon comete erro ao cancelar spinoff animado Diabolical",
+    "_yoast_wpseo_twitter-description": "A Amazon comete um erro ao cancelar The Boys Presents: Diabolical. O spinoff animado tinha potencial para expandir o universo da série."
+  }
+}

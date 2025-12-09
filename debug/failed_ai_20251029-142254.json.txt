@@ -1,0 +1,64 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "10 Filmes de Vingança que Superam John Wick em Intensidade",
+      "conteudo_final": "<p>Embora <b>John Wick</b> tenha estabelecido um novo padrão para filmes de vingança modernos, muitos clássicos incríveis superam a franquia de Keanu Reeves. O gênero de suspense é difícil de definir, mas os filmes geralmente compartilham elementos que os diferenciam de ação ou terror.</p><p>O gênero evoluiu ao longo das décadas, tornando a identificação ainda mais desafiadora. Os primeiros thrillers eram mais convencionais, com menos ênfase na ação e mais foco em histórias intrigantes. Mestres como Alfred Hitchcock ajudaram a revolucionar o gênero, estabelecendo um padrão que muitos tentaram igualar.</p><p>A franquia <b>John Wick</b> tem mantido o gênero de ação e suspense em alta por uma década, gerando inúmeros imitadores. Com emoções explosivas e vingança sangrenta, <i>John Wick</i> combina o melhor de seu gênero. No entanto, filmes mais antigos também destacam os pontos fortes do thriller de vingança, e alguns até superam <i>John Wick</i> em qualidade.</p><h2>Point Blank (1967)</h2><figure><img src=\"https:
+      "meta_description": "Descubra 10 filmes de vingança que superam John Wick em intensidade, explorando clássicos e modernos do gênero.",
+      "focus_keyphrase": "filmes de vingança",
+      "related_keyphrases": [
+        "thrillers de vingança",
+        "melhores filmes de vingança",
+        "John Wick"
+      ],
+      "slug": "filmes-vinganca-melhores-john-wick",
+      "categorias": [
+        {
+          "nome": "John Wick",
+          "grupo": "franquias",
+          "evidence": "John Wick might have set the new gold standard for revenge thrillers in the modern day"
+        },
+        {
+          "nome": "Point Blank",
+          "grupo": "obras",
+          "evidence": "Point Blank (1967)"
+        },
+        {
+          "nome": "Man on Fire",
+          "grupo": "obras",
+          "evidence": "Man On Fire (2004)"
+        }
+      ],
+      "tags_sugeridas": [
+        "John Wick",
+        "Point Blank",
+        "Man on Fire",
+        "Léon: The Professional",
+        "Oldboy",
+        "Kill Bill"
+      ],
+      "image_alt_texts": {
+        "point-blank-la-river.jpg": "Lee Marvin em uma cena de Point Blank, olhando para o rio.",
+        "man-on-fire-washington-gun.jpg": "Denzel Washington atirando com uma arma em Man on Fire.",
+        "leon-the-professional-gun-hallway.jpg": "Natalie Portman e Jean Reno em uma cena de corredor em Léon: The Professional.",
+        "best-movies-inspired-by-manga-oldboy.jpg": "Choi Min-sik com uma faca em uma cena tensa de Oldboy.",
+        "Dustin-Hoffman-Straw-Dogs.jpg": "Dustin Hoffman segurando garrafas em Straw Dogs.",
+        "clint-eastwood-as-william-munny-in-unforgiven.jpg": "Clint Eastwood como William Munny em Unforgiven.",
+        "death-wish-finger-guns.jpg": "Charles Bronson fazendo um gesto de 'dedos de pistola' em Death Wish.",
+        "commando-bazooka.jpg": "Arnold Schwarzenegger empunhando um lança-foguetes em Commando.",
+        "payback-mel-gibson.jpg": "Mel Gibson em uma conversa tensa em Payback.",
+        "kill-bill-the-bride-sword.jpg": "Uma Thurman como A Noiva em Kill Bill, cercada por espadachins.",
+        "john-wick-franchise-poster.jpg": "Pôster da franquia John Wick com os personagens principais."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "10 Filmes de Vingança que Superam John Wick em Intensidade",
+        "_yoast_wpseo_metadesc": "Descubra 10 filmes de vingança que superam John Wick em intensidade, explorando clássicos e modernos do gênero.",
+        "_yoast_wpseo_focuskw": "filmes de vingança",
+        "_yoast_news_keywords": "filmes de vingança, John Wick, Point Blank, Man on Fire, Léon: The Professional, Oldboy, Kill Bill, thrillers de vingança",
+        "_yoast_wpseo_opengraph-title": "10 Filmes de Vingança que Superam John Wick em Intensidade",
+        "_yoast_wpseo_opengraph-description": "Descubra 10 filmes de vingança que superam John Wick em intensidade, explorando clássicos e modernos do gênero.",
+        "_yoast_wpseo_twitter-title": "10 Filmes de Vingança que Superam John Wick em Intensidade",
+        "_yoast_wpseo_twitter-description": "Descubra 10 filmes de vingança que superam John Wick em intensidade, explorando clássicos e modernos do gênero."
+      }
+    }
+  ]
+}

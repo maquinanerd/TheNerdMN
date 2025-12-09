@@ -1,0 +1,155 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Gwyneth Paltrow pode retornar ao Universo Cinematográfico Marvel (MCU)",
+      "conteudo_final": "<p>O Universo Cinematográfico Marvel (MCU) iniciou a Fase 6 em 2025 com <em>The Fantastic Four: First Steps</em>, mas o cronograma atual já se aproxima do fim, com poucos projetos restantes. A Saga do Multiverso será concluída em 2027 com <em>Avengers: Secret Wars</em>, antes que a franquia passe por uma reestruturação para a Fase 7 e além.</p>\n<p>Em uma entrevista recente, Gwyneth Paltrow, que faz parte do MCU desde <em>Homem de Ferro</em> em 2008, revelou inesperadamente que pode revisitar a franquia. A atriz, que interpreta Pepper Potts, declarou que <strong>“Eu posso estar em outro filme da Marvel.”</strong></p>\n<p>Não está claro se ela já gravou algo para um futuro filme da Marvel ou se está se preparando para reprisar o papel em um dos filmes que ainda não começaram a ser filmados. A última aparição de Pepper foi em <em>Vingadores: Ultimato</em> (2019), quando participou da guerra final contra Thanos.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/pepper-potts-telling-iron-man-to-stop-the-party-in-iron-man-2.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Pepper Potts e Tony Stark em Homem de Ferro 2.\"><figcaption>Pepper Potts em Homem de Ferro 2.</figcaption></figure>\n<p>Uma possibilidade é que ela faça parte do elenco de <em>Avengers: Doomsday</em>, cuja fotografia principal foi concluída em 19 de setembro de 2025. Embora seu nome não tenha sido anunciado entre os membros do elenco durante a transmissão surpresa da Marvel Studios em 26 de março de 2025, Kevin Feige confirmou posteriormente na CinemaCon, em 3 de abril, que nem toda a linha de personagens havia sido revelada.</p>\n<p>Como Robert Downey Jr. está retornando ao MCU, mas como Victor von Doom, o Doutor Destino, para os próximos dois filmes dos Vingadores, a participação de Paltrow poderia adicionar um arco emocional após a morte de Tony Stark em <em>Vingadores: Ultimato</em>. Há também a possibilidade de vermos uma Variante de Pepper através do conceito de multiverso.</p>\n<p>Outro filme do MCU em que Paltrow poderia aparecer é <em>Spider-Man: Brand New Day</em>, atualmente em produção, com Tom Holland retornando à franquia em 2026. Uma aparição no novo filme centrado em Peter Parker também seria cômica, após Paltrow ter esquecido em 2019 que participou de <em>Homem-Aranha: De Volta ao Lar</em>.</p>\n<p>Com <em>Spider-Man: Brand New Day</em> chegando aos cinemas em 31 de julho de 2026, e <em>Avengers: Doomsday</em> em 18 de dezembro de 2026, o público do MCU descobrirá no próximo ano se Pepper Potts de Paltrow estará envolvida em algum desses projetos, ou se ela pode ter aludido a <em>Avengers: Secret Wars</em>, com estreia em 17 de dezembro de 2027.</p>",
+      "meta_description": "Gwyneth Paltrow sugere um possível retorno ao MCU como Pepper Potts em futuros filmes da Marvel. Descubra as especulações sobre sua participação.",
+      "focus_keyphrase": "Gwyneth Paltrow Marvel",
+      "related_keyphrases": [
+        "Pepper Potts",
+        "Gwyneth Paltrow MCU",
+        "Próximos filmes Marvel"
+      ],
+      "slug": "gwyneth-paltrow-marvel-retorno",
+      "categorias": [
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "The Marvel Cinematic Universe kicked off Phase 6 in 2025"
+        },
+        {
+          "nome": "Pepper Potts",
+          "grupo": "personagens",
+          "evidence": "Pepper Potts, who has been with the MCU since 2008's Iron Man"
+        },
+        {
+          "nome": "Gwyneth Paltrow",
+          "grupo": "atores",
+          "evidence": "Gwyneth Paltrow, who has been with the MCU since 2008's Iron Man"
+        }
+      ],
+      "tags_sugeridas": [
+        "Gwyneth Paltrow",
+        "Pepper Potts",
+        "MCU",
+        "Marvel Studios",
+        "Vingadores: Ultimato",
+        "Homem-Aranha"
+      ],
+      "image_alt_texts": {
+        "pepper-potts-telling-iron-man-to-stop-the-party-in-iron-man-2.jpg": "Gwyneth Paltrow como Pepper Potts em cena de Homem de Ferro 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Gwyneth Paltrow pode retornar ao Universo Cinematográfico Marvel (MCU)",
+        "_yoast_wpseo_metadesc": "Gwyneth Paltrow sugere um possível retorno ao MCU como Pepper Potts em futuros filmes da Marvel. Descubra as especulações sobre sua participação.",
+        "_yoast_wpseo_focuskw": "Gwyneth Paltrow Marvel",
+        "_yoast_news_keywords": "Gwyneth Paltrow, Pepper Potts, MCU, Marvel Studios, Vingadores: Ultimato, Homem-Aranha",
+        "_yoast_wpseo_opengraph-title": "Gwyneth Paltrow pode retornar ao Universo Cinematográfico Marvel (MCU)",
+        "_yoast_wpseo_opengraph-description": "Gwyneth Paltrow sugere um possível retorno ao MCU como Pepper Potts em futuros filmes da Marvel. Descubra as especulações sobre sua participação.",
+        "_yoast_wpseo_twitter-title": "Gwyneth Paltrow pode retornar ao Universo Cinematográfico Marvel (MCU)",
+        "_yoast_wpseo_twitter-description": "Gwyneth Paltrow sugere um possível retorno ao MCU como Pepper Potts em futuros filmes da Marvel. Descubra as especulações sobre sua participação."
+      }
+    },
+    {
+      "titulo_final": "Jason Statham: Novo thriller de ação 'Mutiny' ganha data de estreia",
+      "conteudo_final": "<p>O novo thriller de ação com Jason Statham, <em>Mutiny</em>, teve sua data de lançamento confirmada após um grande adiamento. Dirigido por Jean-François Richet, o filme acompanha Cole Reed (Statham), que testemunha o assassinato de seu chefe bilionário e é incriminado pelo crime. Ele embarca em um navio cargueiro para buscar vingança, apenas para descobrir um mistério mais profundo.</p>\n<p>A<em>Deadline</em> confirmou que <em>Mutiny</em> será lançado nos cinemas em 21 de agosto de 2026. O filme de ação estava originalmente programado para janeiro de 2026, antes de ser adiado para uma data desconhecida na agenda da Lionsgate. Posteriormente, foi relatado que o filme visava uma janela de lançamento no verão de 2026, algo que esta nova data confirma para a produção liderada por Statham.</p>\n<p><em>Mutiny</em> será o mais recente de uma longa linha de filmes em que Statham estrelou sob a bandeira da Lionsgate. Mais notável são os filmes de <em><a href=\"https://www.maquinanerd.com.br/tag/the-expendables\">Os Mercenários</a></em>, sendo seu último filme sob a produtora <em>Expend4bles</em> em 2023. Ele também estrelou as franquias <em>Carga Explosiva</em> e <em>Adrenalina</em> pela Lionsgate, com este novo filme de ação sendo o mais recente em seu relacionamento de longa data com o estúdio.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/untitled-33.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Jason Statham em cena de filme de ação.\"><figcaption>Jason Statham em uma cena de ação.</figcaption></figure>\n<p>Ao lado de Statham, outros membros do elenco principal de <em>Mutiny</em> incluem Arnas Fedaravičius, Adrian Lester, Roland Møller, Ramon Tikaram, Annabelle Wallis e Jason Wong. O roteiro foi escrito por J.P. Davis, conhecido pelo drama esportivo <em>Fighting Tommy Riley</em> (2004), e Lindsay Michel em sua estreia como roteirista de cinema. Este também é o primeiro filme de Richet desde <em>O Resgate</em> (<em>Plane</em>) de 2023.</p>\n<p>O filme de ação é um dos muitos em que Statham estará estrelando em breve. Seu próximo filme é o thriller de ação <em>Shelter</em>, dirigido por Ric Roman Waugh, no qual ele atuará ao lado de Bill Nighy. O filme será lançado nos cinemas em 30 de janeiro de 2026. Além disso, ele também está estrelando <em>The Beekeeper 2</em>, a sequência de seu bem-sucedido filme de ação de 2024.</p>",
+      "meta_description": "O novo thriller de ação de Jason Statham, 'Mutiny', tem sua estreia confirmada para agosto de 2026 após um adiamento significativo. Saiba mais.",
+      "focus_keyphrase": "Jason Statham Mutiny",
+      "related_keyphrases": [
+        "Mutiny data de lançamento",
+        "Jason Statham próximos filmes",
+        "Jean-François Richet"
+      ],
+      "slug": "jason-statham-mutiny-data-estreia",
+      "categorias": [
+        {
+          "nome": "Mutiny",
+          "grupo": "obras",
+          "evidence": "Jason Statham's upcoming action thriller movie Mutiny"
+        },
+        {
+          "nome": "Jason Statham",
+          "grupo": "atores",
+          "evidence": "Jason Statham's upcoming action thriller movie"
+        },
+        {
+          "nome": "Jean-François Richet",
+          "grupo": "diretores",
+          "evidence": "directed by Jean-François Richet"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jason Statham",
+        "Mutiny",
+        "Jean-François Richet",
+        "Lionsgate",
+        "Thriller de Ação",
+        "Os Mercenários"
+      ],
+      "image_alt_texts": {
+        "untitled-33.jpg": "Jason Statham em uma cena de ação do filme Mutiny."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jason Statham: Novo thriller de ação 'Mutiny' ganha data de estreia",
+        "_yoast_wpseo_metadesc": "O novo thriller de ação de Jason Statham, 'Mutiny', tem sua estreia confirmada para agosto de 2026 após um adiamento significativo. Saiba mais.",
+        "_yoast_wpseo_focuskw": "Jason Statham Mutiny",
+        "_yoast_news_keywords": "Jason Statham, Mutiny, Jean-François Richet, Lionsgate, Thriller de Ação, Os Mercenários",
+        "_yoast_wpseo_opengraph-title": "Jason Statham: Novo thriller de ação 'Mutiny' ganha data de estreia",
+        "_yoast_wpseo_opengraph-description": "O novo thriller de ação de Jason Statham, 'Mutiny', tem sua estreia confirmada para agosto de 2026 após um adiamento significativo. Saiba mais.",
+        "_yoast_wpseo_twitter-title": "Jason Statham: Novo thriller de ação 'Mutiny' ganha data de estreia",
+        "_yoast_wpseo_twitter-description": "O novo thriller de ação de Jason Statham, 'Mutiny', tem sua estreia confirmada para agosto de 2026 após um adiamento significativo. Saiba mais."
+      }
+    },
+    {
+      "titulo_final": "Guillermo del Toro quer adaptar 'O Fantasma da Ópera' em novo projeto",
+      "conteudo_final": "<p>Após a realização de seu aguardado projeto <em>Frankenstein</em>, Guillermo del Toro revelou um novo clássico do terror gótico que ele gostaria de adaptar: <em>O Fantasma da Ópera</em>. O filme de Mary Shelley, estrelado por Oscar Isaac e Jacob Elordi, já está em cartaz e chegará à Netflix em 7 de novembro.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/frankenstein-movie-2025-cropped.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Oscar Isaac em 'Frankenstein' de Guillermo del Toro.\"><figcaption>Oscar Isaac em 'Frankenstein' de Guillermo del Toro.</figcaption></figure>\n<p>Del Toro tem outros projetos em andamento, incluindo a adaptação do romance de fantasia sombria <em>The Buried Giant</em>, de Kazuo Ishiguro, e um novo thriller policial com Isaac. No entanto, o diretor de <em>O Labirinto do Fauno</em> revelou recentemente outro clássico que deseja adaptar.</p>\n<p>Em uma entrevista recente, <strong>del Toro expressou interesse em fazer sua própria versão do romance de 1909 de Gaston Leroux, <em>O Fantasma da Ópera</em>.</strong> Questionado sobre qual \"vilão incompreendido\" ele gostaria de abordar em seguida, del Toro respondeu: \"<em>O Fantasma da Ópera, porque é um conto tão clássico, mas eu o faria de forma diferente.</em>\"</p>\n<p>\"<em>Tenho algumas ideias, mas por enquanto, estou focado em crime e stop-motion</em>\", continuou del Toro, aparentemente referindo-se a seus projetos já confirmados, em vez de sugerir que faria uma versão em stop-motion de <em>O Fantasma da Ópera</em>. A adaptação mais famosa e bem-sucedida de <em>O Fantasma da Ópera</em> é o musical da Broadway, mas também houve o filme de 2004 com Gerard Butler e Emmy Rossum.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/09/the-phantom-of-the-opera.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Capa da obra 'O Fantasma da Ópera'.\"><figcaption>'O Fantasma da Ópera'.</figcaption></figure>\n<p><em>O Fantasma da Ópera</em> se passa no final do século XIX em Paris, focando em uma jovem e desconhecida soprano chamada Christine, que faz parte do coro da Ópera Garnier. No entanto, Christine é secretamente treinada por uma figura misteriosa que vive na ópera. Enquanto o Fantasma facilita o estrelato de Christine, ele também é perigosamente obcecado por ela.</p>\n<p>Os planos de del Toro para <em>At the Mountains of Madness</em> parecem ter sido arquivados, pois o cineasta também disse recentemente que não acha que \"<em>as pessoas estão ansiosas para fazer</em>\" sua adaptação há muito tempo planejada da novela de horror e ficção científica de H.P. Lovecraft. No entanto, <strong>isso potencialmente abre caminho para ele realizar <em>O Fantasma da Ópera</em>,</strong> que pelo menos tem uma história mais direta para ser levada às telas.</p>\n<p>Adquirir os direitos para o musical de <em>O Fantasma da Ópera</em> seria muito mais complicado, mas <strong>com base nos comentários de del Toro, ele pode querer fazer sua própria versão de uma adaptação direta do livro</strong>, que está em domínio público. Independentemente disso, este parece ser um novo projeto muito promissor de <strong>Guillermo del Toro</strong>, e esperamos que ele o realize em breve.</p>",
+      "meta_description": "Guillermo del Toro expressa interesse em adaptar 'O Fantasma da Ópera' após finalizar 'Frankenstein'. Saiba mais sobre seus planos.",
+      "focus_keyphrase": "Guillermo del Toro Fantasma da Ópera",
+      "related_keyphrases": [
+        "Guillermo del Toro Frankenstein",
+        "Adaptação O Fantasma da Ópera",
+        "Gaston Leroux"
+      ],
+      "slug": "guillermo-del-toro-fantasma-opera",
+      "categorias": [
+        {
+          "nome": "Guillermo del Toro",
+          "grupo": "diretores",
+          "evidence": "Guillermo del Toro finally adapting the classic horror novel"
+        },
+        {
+          "nome": "O Fantasma da Ópera",
+          "grupo": "obras",
+          "evidence": "French author Gaston Leroux's 1909 novel The Phantom of the Opera"
+        },
+        {
+          "nome": "Frankenstein",
+          "grupo": "obras",
+          "evidence": "Finally adapted the classic horror novel and monster story Frankenstein"
+        }
+      ],
+      "tags_sugeridas": [
+        "Guillermo del Toro",
+        "O Fantasma da Ópera",
+        "Frankenstein",
+        "Gaston Leroux",
+        "Terror Gótico",
+        "Adaptação Literária"
+      ],
+      "image_alt_texts": {
+        "frankenstein-movie-2025-cropped.jpg": "Oscar Isaac em cena do filme 'Frankenstein' de Guillermo del Toro.",
+        "the-phantom-of-the-opera.jpg": "Capa da obra literária 'O Fantasma da Ópera'."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Guillermo del Toro quer adaptar 'O Fantasma da Ópera' em novo projeto",
+        "_yoast_wpseo_metadesc": "Guillermo del Toro expressa interesse em adaptar 'O Fantasma da Ópera' após finalizar 'Frankenstein'. Saiba mais sobre seus planos.",
+        "_yoast_wpseo_focuskw": "Guillermo del Toro Fantasma da Ópera",
+        "_yoast_news_keywords": "Guillermo del Toro, O Fantasma da Ópera, Frankenstein, Gaston Leroux, Terror Gótico, Adaptação Literária",
+        "_yoast_wpseo_opengraph-title": "Guillermo del Toro quer adaptar 'O Fantasma da Ópera' em novo projeto",
+        "_yoast_wpseo_opengraph-description": "Guillermo del Toro expressa interesse em adaptar 'O Fantasma da Ópera' após finalizar 'Frankenstein'. Saiba mais sobre seus planos.",
+        "_yoast_wpseo_twitter-title": "Guillermo del Toro quer adaptar 'O Fantasma da Ópera' em novo projeto",
+        "_yoast_wpseo_twitter-description": "Guillermo del Toro expressa interesse em adaptar 'O Fantasma da Ópera' após finalizar 'Frankenstein'. Saiba mais sobre seus planos."
+      }
+    }
+  ]
+}

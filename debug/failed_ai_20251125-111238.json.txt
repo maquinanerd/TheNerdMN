@@ -1,0 +1,142 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Glen Powell estrela trailer de suspense sombrio da A24 'How to Make a Killing'",
+      "conteudo_final": "<p>Glen Powell, conhecido por seus papéis em <strong><em>Top Gun: Maverick</em></strong> e <strong><em>Hit Man</em></strong>, retorna às telonas com um novo suspense sombrio da A24. O primeiro trailer de <strong><em>How to Make a Killing</em></strong>, anteriormente intitulado <em>Huntington</em>, foi divulgado, apresentando Powell como Beckett, um membro carismático da rica família Redfellow.</p><p>Beckett é um potencial herdeiro da fortuna familiar, mas com sete pessoas à sua frente na linha de sucessão, ele se vê preso em um trabalho honesto e sem luxos. Cansado de esperar, ele decide tomar medidas drásticas para reivindicar seu direito à herança, contando com a ajuda de uma velha amiga, interpretada por Margaret Qualley.</p><h2>A Ascensão de Beckett e a Inspiração Clássica</h2><p>O trailer revela uma série de eventos que começam com um aparente "acidente" de barco, levando a uma cascata de assassinatos. Beckett sobe na escada financeira, atraindo a atenção da lei, mas determinado a eliminar todos os obstáculos em seu caminho.</p><p>O filme é uma releitura moderna da comédia sombria britânica de 1949, <em>Kind Hearts and Coronets</em>. Na versão original, Alec Guinness interpretou todas as oito vítimas. Em <em>How to Make a Killing</em>, Powell terá um elenco de peso para enfrentar.</p><h2>Elenco Estelar e Estreia Prevista</h2><p>Ao lado de Glen Powell e Margaret Qualley, o filme conta com as atuações de Jessica Henwick, Bill Camp, Zach Woods, Topher Grace e Ed Harris. A direção é de John Patton Ford, conhecido por seu trabalho em <em>Emily the Criminal</em>.</p><p><em>How to Make a Killing</em> marca a primeira colaboração de Powell com a A24 como ator. O filme tem estreia prevista para 20 de fevereiro de 2026.</p>",
+      "meta_description": "Glen Powell estrela o trailer de 'How to Make a Killing', novo suspense sombrio da A24. O filme, inspirado em clássico de 1949, chega aos cinemas em fevereiro de 2026.",
+      "focus_keyphrase": "Glen Powell How to Make a Killing trailer",
+      "related_keyphrases": [
+        "suspense A24 Glen Powell",
+        "How to Make a Killing estreia",
+        "Margaret Qualley filme"
+      ],
+      "slug": "glen-powell-how-to-make-a-killing-trailer-a24",
+      "categorias": [
+        {
+          "nome": "How to Make a Killing",
+          "grupo": "obras",
+          "evidence": "How to Make a Killing"
+        },
+        {
+          "nome": "A24",
+          "grupo": "franquias",
+          "evidence": "A24 thriller"
+        },
+        {
+          "nome": "Glen Powell",
+          "grupo": "atores",
+          "evidence": "Glen Powell"
+        }
+      ],
+      "tags_sugeridas": [
+        "Glen Powell",
+        "A24",
+        "How to Make a Killing",
+        "Margaret Qualley",
+        "suspense"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Glen Powell estrela trailer de suspense sombrio da A24 'How to Make a Killing'",
+        "_yoast_wpseo_metadesc": "Glen Powell estrela o trailer de 'How to Make a Killing', novo suspense sombrio da A24. O filme, inspirado em clássico de 1949, chega aos cinemas em fevereiro de 2026.",
+        "_yoast_wpseo_focuskw": "Glen Powell How to Make a Killing trailer",
+        "_yoast_news_keywords": "Glen Powell, A24, How to Make a Killing, Margaret Qualley, suspense, trailer",
+        "_yoast_wpseo_opengraph-title": "Glen Powell estrela trailer de suspense sombrio da A24 'How to Make a Killing'",
+        "_yoast_wpseo_opengraph-description": "Glen Powell estrela o trailer de 'How to Make a Killing', novo suspense sombrio da A24. O filme, inspirado em clássico de 1949, chega aos cinemas em fevereiro de 2026.",
+        "_yoast_wpseo_twitter-title": "Glen Powell estrela trailer de suspense sombrio da A24 'How to Make a Killing'",
+        "_yoast_wpseo_twitter-description": "Glen Powell estrela o trailer de 'How to Make a Killing', novo suspense sombrio da A24. O filme, inspirado em clássico de 1949, chega aos cinemas em fevereiro de 2026."
+      }
+    },
+    {
+      "titulo_final": "Bruxa Má do Oeste: As 5 melhores versões da personagem no cinema",
+      "conteudo_final": "<p>A Bruxa Má do Oeste é uma das vilãs mais icônicas do cinema, e sua presença em diversas adaptações de <em>O Mágico de Oz</em> rendeu interpretações memoráveis. Uma análise das melhores versões da personagem revela que a mais recente, em <em>Wicked</em>, não ocupa o primeiro lugar.</p><h2>As Versões Mais Marcantes da Bruxa Má do Oeste</h2><p>Apesar de sua popularidade, a Bruxa Má do Oeste, em sua forma mais conhecida, é uma figura trágica e complexa. Sua história de origem, explorada em obras como <em>Wicked</em>, oferece uma nova perspectiva sobre suas motivações e sua relação com Dorothy.</p><p>Apesar de <em>Wicked</em> apresentar uma nova visão da personagem, outras adaptações já exploraram a profundidade da Bruxa Má do Oeste de maneiras distintas. A classificação das melhores versões considera o impacto cultural, a atuação e a fidelidade à essência da personagem.</p><h2>O Legado da Vilã no Cinema</h2><p>A Bruxa Má do Oeste, com sua risada sinistra e seu olhar penetrante, se consolidou como um arquétipo de vilania no imaginário popular. Sua influência se estende por gerações, inspirando novas histórias e reinterpretações.</p><p>A análise das diferentes encarnações da personagem destaca a versatilidade e o apelo duradouro de um dos maiores ícones da fantasia cinematográfica.</p>",
+      "meta_description": "Ranking das 5 melhores versões da Bruxa Má do Oeste no cinema. Descubra qual interpretação se destaca e como 'Wicked' se posiciona.",
+      "focus_keyphrase": "Melhores versões da Bruxa Má do Oeste",
+      "related_keyphrases": [
+        "Bruxa Má do Oeste cinema",
+        "ranking vilãs O Mágico de Oz",
+        "Wicked personagem"
+      ],
+      "slug": "melhores-versoes-bruxa-ma-do-oeste-cinema",
+      "categorias": [
+        {
+          "nome": "O Mágico de Oz",
+          "grupo": "obras",
+          "evidence": "O Mágico de Oz"
+        },
+        {
+          "nome": "Wicked",
+          "grupo": "obras",
+          "evidence": "Wicked"
+        },
+        {
+          "nome": "Cinema",
+          "grupo": "editorias",
+          "evidence": "cinema"
+        }
+      ],
+      "tags_sugeridas": [
+        "Bruxa Má do Oeste",
+        "O Mágico de Oz",
+        "Wicked",
+        "cinema",
+        "ranking"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bruxa Má do Oeste: As 5 melhores versões da personagem no cinema",
+        "_yoast_wpseo_metadesc": "Ranking das 5 melhores versões da Bruxa Má do Oeste no cinema. Descubra qual interpretação se destaca e como 'Wicked' se posiciona.",
+        "_yoast_wpseo_focuskw": "Melhores versões da Bruxa Má do Oeste",
+        "_yoast_news_keywords": "Bruxa Má do Oeste, O Mágico de Oz, Wicked, cinema, ranking, vilãs",
+        "_yoast_wpseo_opengraph-title": "Bruxa Má do Oeste: As 5 melhores versões da personagem no cinema",
+        "_yoast_wpseo_opengraph-description": "Ranking das 5 melhores versões da Bruxa Má do Oeste no cinema. Descubra qual interpretação se destaca e como 'Wicked' se posiciona.",
+        "_yoast_wpseo_twitter-title": "Bruxa Má do Oeste: As 5 melhores versões da personagem no cinema",
+        "_yoast_wpseo_twitter-description": "Ranking das 5 melhores versões da Bruxa Má do Oeste no cinema. Descubra qual interpretação se destaca e como 'Wicked' se posiciona."
+      }
+    },
+    {
+      "titulo_final": "Promoção Black Friday: PS Plus tem até 33% de desconto para assinantes",
+      "conteudo_final": "<p>A promoção de Black Friday da PlayStation já começou, oferecendo descontos de até 33% em assinaturas do PS Plus. A oferta é válida para novos membros, assinantes existentes e para quem retornar ao serviço, com a maior economia disponível para o plano Premium.</p><p>Para novos assinantes, o plano PS Plus Premium de 12 meses está com 33% de desconto, saindo por R$ 107,19 (menos de R$ 9 por mês). Este plano oferece acesso aos jogos mensais, biblioteca de jogos PS5 e PS4 do Extra, catálogo de jogos clássicos e streaming na nuvem para o PlayStation Portal.</p><h2>Descontos no PS Plus Extra e para Assinantes Atuais</h2><p>O plano PS Plus Extra também está com desconto de 25% para 12 meses, custando R$ 101,24 (menos de R$ 8,50 por mês). Para assinantes atuais, é possível fazer um upgrade para o plano Premium com 33% de desconto sobre o período restante da assinatura.</p><p>A promoção é uma excelente oportunidade para aproveitar os benefícios do PlayStation Plus, incluindo acesso a uma vasta biblioteca de jogos e recursos exclusivos. A oferta vai até 5 de dezembro.</p><h2>Promoções Adicionais na PS Store</h2><p>Além dos descontos no PS Plus, a PlayStation Store também oferece cortes de preço em quase 900 jogos como parte da Black Friday, incluindo títulos indicados ao Jogo do Ano.</p>",
+      "meta_description": "Aproveite a Black Friday da PlayStation com descontos de até 33% no PS Plus. Assinaturas Premium e Extra com preços reduzidos para novos e antigos membros.",
+      "focus_keyphrase": "PS Plus Black Friday desconto",
+      "related_keyphrases": [
+        "PlayStation Plus promoção",
+        "assinatura PS Plus barata",
+        "desconto PS Plus Premium"
+      ],
+      "slug": "ps-plus-black-friday-desconto",
+      "categorias": [
+        {
+          "nome": "PlayStation",
+          "grupo": "plataformas",
+          "evidence": "PlayStation"
+        },
+        {
+          "nome": "PS Plus",
+          "grupo": "serviços",
+          "evidence": "PS Plus"
+        },
+        {
+          "nome": "Black Friday",
+          "grupo": "eventos",
+          "evidence": "Black Friday"
+        }
+      ],
+      "tags_sugeridas": [
+        "PS Plus",
+        "PlayStation",
+        "Black Friday",
+        "promoção",
+        "jogos"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Promoção Black Friday: PS Plus tem até 33% de desconto para assinantes",
+        "_yoast_wpseo_metadesc": "Aproveite a Black Friday da PlayStation com descontos de até 33% no PS Plus. Assinaturas Premium e Extra com preços reduzidos para novos e antigos membros.",
+        "_yoast_wpseo_focuskw": "PS Plus Black Friday desconto",
+        "_yoast_news_keywords": "PS Plus, PlayStation, Black Friday, promoção, jogos, assinatura",
+        "_yoast_wpseo_opengraph-title": "Promoção Black Friday: PS Plus tem até 33% de desconto para assinantes",
+        "_yoast_wpseo_opengraph-description": "Aproveite a Black Friday da PlayStation com descontos de até 33% no PS Plus. Assinaturas Premium e Extra com preços reduzidos para novos e antigos membros.",
+        "_yoast_wpseo_twitter-title": "Promoção Black Friday: PS Plus tem até 33% de desconto para assinantes",
+        "_yoast_wpseo_twitter-description": "Aproveite a Black Friday da PlayStation com descontos de até 33% no PS Plus. Assinaturas Premium e Extra com preços reduzidos para novos e antigos membros."
+      }
+    }
+  ]
+}

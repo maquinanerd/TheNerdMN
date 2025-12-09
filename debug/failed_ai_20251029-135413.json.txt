@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "One Piece da Netflix: Como a série quebrou a 'maldição' das adaptações live-action",
+      "conteudo_final": "<p>A adaptação live-action de <b>One Piece</b> pela Netflix surpreendeu os fãs ao se mostrar sólida, especialmente considerando a natureza peculiar do mangá e anime originais. A série chegou em um momento de baixa confiança na plataforma de streaming.</p><p>Agora, com a produção da segunda temporada em andamento, David Dastmalchian, intérprete do Sr. 3, compartilhou sua visão sobre o que diferencia a adaptação do clássico mangá de Eiichiro Oda.</p><p>Em entrevista, Dastmalchian apontou a fidelidade ao material original como o grande diferencial de <b>One Piece</b> em relação a outras adaptações.</p><p>\"É muito complicado quando pensamos em quão difícil tem sido para as pessoas encontrarem boas adaptações de anime para live-action. E eles acertaram porque se apoiaram no que faz o mangá funcionar. E o mangá é o que faz o anime funcionar. Se você estiver disposto a ouvir e fazer a mágica disso, é isso que faz o live-action funcionar\", explicou o ator.</p><h2>Por que One Piece se destaca onde outras adaptações falham</h2><p>A opinião de Dastmalchian ecoa o motivo mais comum apontado para o sucesso da versão live-action de <b>One Piece</b>. Eiichiro Oda esteve ativamente envolvido no desenvolvimento da série pela Netflix, garantindo que a visão do estúdio estivesse alinhada com a sua própria.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "David Dastmalchian, ator de One Piece, revela o segredo por trás do sucesso da adaptação live-action da Netflix e o que a diferencia de outras tentativas.",
+      "focus_keyphrase": "One Piece live-action Netflix",
+      "related_keyphrases": [
+        "adaptação de anime",
+        "segunda temporada One Piece",
+        "Eiichiro Oda"
+      ],
+      "slug": "one-piece-netflix-sucesso-adaptacao",
+      "categorias": [
+        {
+          "nome": "One Piece",
+          "grupo": "franquias",
+          "evidence": "One Piece fans were shocked when Netflix's live-action adaptation turned out to be solid."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix's live-action adaptation"
+        }
+      ],
+      "tags_sugeridas": [
+        "one-piece",
+        "netflix",
+        "live-action",
+        "anime",
+        "david-dastmalchian",
+        "eiichiro-oda"
+      ],
+      "image_alt_texts": {
+        "in-aki-godoy-as-luffy-looking-excited-while-walking-through-a-jungle-in-one-piece-season-2.jpg": "Iñaki Godoy como Luffy, empolgado caminhando pela selva na segunda temporada de One Piece.",
+        "netflix-one-piece-promotional-art.jpg": "Arte promocional da série live-action de One Piece da Netflix, destacando o elenco principal.",
+        "one-piece-season-2-poster.jpg": "Poster oficial anunciando a segunda temporada da série live-action de One Piece."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "One Piece Netflix: Segredos do Sucesso Live-Action e Nova Temporada",
+        "_yoast_wpseo_metadesc": "David Dastmalchian, ator de One Piece, revela o segredo por trás do sucesso da adaptação live-action da Netflix e o que a diferencia de outras tentativas.",
+        "_yoast_wpseo_focuskw": "One Piece live-action Netflix",
+        "_yoast_news_keywords": "one piece, netflix, live-action, anime, david dastmalchian, eiichiro oda, adaptação de anime",
+        "_yoast_wpseo_opengraph-title": "One Piece Netflix: Segredos do Sucesso Live-Action e Nova Temporada",
+        "_yoast_wpseo_opengraph-description": "David Dastmalchian, ator de One Piece, revela o segredo por trás do sucesso da adaptação live-action da Netflix e o que a diferencia de outras tentativas.",
+        "_yoast_wpseo_twitter-title": "One Piece Netflix: Segredos do Sucesso Live-Action e Nova Temporada",
+        "_yoast_wpseo_twitter-description": "David Dastmalchian, ator de One Piece, revela o segredo por trás do sucesso da adaptação live-action da Netflix e o que a diferencia de outras tentativas."
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Emma Thompson estrela nova série de mistério da Apple TV com boas críticas",
+      "conteudo_final": "<p>A atriz <b>Emma Thompson</b>, conhecida por seu papel na saga <i>Harry Potter</i>, está recebendo aclamação da crítica por sua nova série de mistério na Apple TV+. A produção, intitulada <i><b>Down Cemetery Road</b></i>, estreou em 29 de outubro e já acumula uma pontuação positiva de 75% no Rotten Tomatoes, com base em oito críticas compiladas até o momento.</p><p>A série acompanha Zoë Boehm, uma investigadora particular que é contratada por Sarah Tucker (Ruth Wilson) para encontrar uma criança desaparecida na mesma noite de uma misteriosa explosão. A personagem Zoë Boehm é a protagonista de quatro livros de Mick Herron, autor que também inspirou a série <i>Slow Horses</i>, da mesma plataforma de streaming.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Nova série de mistério da Apple TV+, 'Down Cemetery Road', estrelada por Emma Thompson, estreia com 75% de aprovação no Rotten Tomatoes. Saiba mais!",
+      "focus_keyphrase": "Down Cemetery Road",
+      "related_keyphrases": [
+        "Emma Thompson série Apple TV",
+        "Down Cemetery Road críticas",
+        "Série de mistério Emma Thompson"
+      ],
+      "slug": "down-cemetery-road-estreia-apple-tv",
+      "categorias": [
+        {
+          "nome": "Down Cemetery Road",
+          "grupo": "obras",
+          "evidence": "Thompson’s <em><strong>Down Cemetery Road</strong></em> premieres on October 29"
+        },
+        {
+          "nome": "Apple TV+",
+          "grupo": "editorias",
+          "evidence": "new mystery series on Apple TV"
+        },
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "<em>Harry Potter</em> alumnus Emma Thompson"
+        }
+      ],
+      "tags_sugeridas": [
+        "Down Cemetery Road",
+        "Emma Thompson",
+        "Apple TV+",
+        "Séries de mistério",
+        "Ruth Wilson",
+        "Mick Herron"
+      ],
+      "image_alt_texts": {
+        "emma-thompson-as-zoe-in-down-cemetery-road.jpg": "Emma Thompson como Zoë Boehm na série de mistério 'Down Cemetery Road' da Apple TV+"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Emma Thompson estrela nova série de mistério da Apple TV com boas críticas",
+        "_yoast_wpseo_metadesc": "Nova série de mistério da Apple TV+, 'Down Cemetery Road', estrelada por Emma Thompson, estreia com 75% de aprovação no Rotten Tomatoes. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Down Cemetery Road",
+        "_yoast_news_keywords": "Down Cemetery Road, Emma Thompson, Apple TV+, Série de mistério, Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-title": "Emma Thompson estrela nova série de mistério da Apple TV com boas críticas",
+        "_yoast_wpseo_opengraph-description": "Nova série de mistério da Apple TV+, 'Down Cemetery Road', estrelada por Emma Thompson, estreia com 75% de aprovação no Rotten Tomatoes. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Emma Thompson estrela nova série de mistério da Apple TV com boas críticas",
+        "_yoast_wpseo_twitter-description": "Nova série de mistério da Apple TV+, 'Down Cemetery Road', estrelada por Emma Thompson, estreia com 75% de aprovação no Rotten Tomatoes. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "The Forsytes: Nova adaptação de época estreia no PBS Masterpiece em 2026",
+      "conteudo_final": "<p>O PBS Masterpiece anunciou a data de estreia nos Estados Unidos de sua nova série de drama de época, <b><i>The Forsytes</i></b>. Inspirada nos romances de John Galsworthy, a produção promete explorar temas como ambição, traição, desejo e riqueza, acompanhando a família titular enquanto a nova geração se prepara para assumir os negócios e a fortuna dos Forsyte.</p><p>Diferente de adaptações anteriores, como a de 2002 estrelada por Damien Lewis, esta nova versão se passa antes dos eventos do material original, oferecendo uma perspectiva inédita sobre a complexa família Forsyte. Os dois primeiros episódios já foram exibidos no Reino Unido, onde a série continuará a ser transmitida semanalmente até 24 de novembro.</p><h2>Estreia e Elenco de The Forsytes</h2><p>Para o público americano, a série de drama de época luxuosa tem estreia marcada para <b>domingo, 22 de março de 2026</b>, no PBS Masterpiece. A produção se junta a outras séries britânicas de época que chegarão à emissora no início de 2026, como <i>Miss Scarlet</i> e <i>All Creatures Great &amp; Small</i>, ambas retornando para suas sextas temporadas.</p><p><i>The Forsytes</i> já foi renovada para uma segunda temporada, com as filmagens em andamento. A série conta com um elenco de peso, incluindo Francesca Annis como a matriarca Ann Forsyte, Millie Gibson como Irene Heron, Eleanor Tomlinson como Louisa Byrne e Tom Durant-Pritchard como Monty Dartie. Stephen Moyer, Danny Griffin, Tuppence Middleton e Jack Davenport também integram o elenco principal.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Nova adaptação da obra de John Galsworthy, 'The Forsytes' estreia no PBS Masterpiece em 22 de março de 2026. Conheça o elenco e a trama.",
+      "focus_keyphrase": "The Forsytes",
+      "related_keyphrases": [
+        "The Forsytes PBS Masterpiece",
+        "Série de época The Forsytes",
+        "Adaptação literária The Forsytes"
+      ],
+      "slug": "the-forsytes-estreia-pbs-masterpiece-2026",
+      "categorias": [
+        {
+          "nome": "The Forsytes",
+          "grupo": "obras",
+          "evidence": "upcoming romantic Victorian-era period drama, <em><strong>The Forsytes</strong></em>"
+        },
+        {
+          "nome": "PBS Masterpiece",
+          "grupo": "editorias",
+          "evidence": "PBS Masterpiece has revealed the US release date"
+        },
+        {
+          "nome": "Drama de época",
+          "grupo": "editorias",
+          "evidence": "upcoming romantic Victorian-era period drama"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Forsytes",
+        "PBS Masterpiece",
+        "Drama de época",
+        "John Galsworthy",
+        "Stephen Moyer",
+        "Eleanor Tomlinson",
+        "2026"
+      ],
+      "image_alt_texts": {
+        "the-forsytes-tv-show-promo-image.jpg": "Imagem promocional da série de época 'The Forsytes', com foco na família e no período vitoriano."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Forsytes: Nova adaptação de época estreia no PBS Masterpiece em 2026",
+        "_yoast_wpseo_metadesc": "Nova adaptação da obra de John Galsworthy, 'The Forsytes' estreia no PBS Masterpiece em 22 de março de 2026. Conheça o elenco e a trama.",
+        "_yoast_wpseo_focuskw": "The Forsytes",
+        "_yoast_news_keywords": "The Forsytes, PBS Masterpiece, Drama de época, John Galsworthy, 2026",
+        "_yoast_wpseo_opengraph-title": "The Forsytes: Nova adaptação de época estreia no PBS Masterpiece em 2026",
+        "_yoast_wpseo_opengraph-description": "Nova adaptação da obra de John Galsworthy, 'The Forsytes' estreia no PBS Masterpiece em 22 de março de 2026. Conheça o elenco e a trama.",
+        "_yoast_wpseo_twitter-title": "The Forsytes: Nova adaptação de época estreia no PBS Masterpiece em 2026",
+        "_yoast_wpseo_twitter-description": "Nova adaptação da obra de John Galsworthy, 'The Forsytes' estreia no PBS Masterpiece em 22 de março de 2026. Conheça o elenco e a trama."
+      }
+    },
+    {
+      "titulo_final": "10 Séries com Romances Mais Cativantes que Nobody Wants This",
+      "conteudo_final": "<p>A segunda temporada de <b><i>Nobody Wants This</i></b> gerou reações mistas, levantando a questão sobre a sustentabilidade de relacionamentos em séries de comédia romântica. Muitas vezes, a falta de obstáculos ou o excesso deles pode tornar a trama entediante ou artificial. A química entre Joanne e Noah, protagonistas da série, foi questionada, e o final da segunda temporada repetiu os mesmos pontos do final da primeira, deixando uma sensação de estagnação.</p><p>Felizmente, para os fãs de romances televisivos, existem diversas outras séries que oferecem relacionamentos mais profundos e satisfatórios. Abaixo, apresentamos 10 séries que superam <i>Nobody Wants This</i> em termos de desenvolvimento romântico e engajamento do público.</p><h2 id=\"fleabag\">10. Fleabag (2016-2019)</h2><p>O relacionamento entre Fleabag e o Padre (Hot Priest) cativa pela química intensa e pela tensão gerada pelo obstáculo religioso. Diferente de <i>Nobody Wants This</i>, onde o romance de Noah e Joanne pode se tornar repetitivo, em <i>Fleabag</i>, a antecipação, a contenção e a honestidade emocional tornam cada momento carregado de significado. A série explora a complexidade do desejo e da impossibilidade, provando que a ânsia pode ser mais envolvente do que a realização.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Descubra 10 séries com romances mais cativantes e bem desenvolvidos que superam 'Nobody Wants This', explorando dinâmicas complexas e satisfatórias.",
+      "focus_keyphrase": "Nobody Wants This",
+      "related_keyphrases": [
+        "Séries com romances",
+        "Melhores comédias românticas",
+        "Nobody Wants This temporada 2"
+      ],
+      "slug": "series-romances-melhores-nobody-wants-this",
+      "categorias": [
+        {
+          "nome": "Nobody Wants This",
+          "grupo": "obras",
+          "evidence": "<em><strong>Nobody Wants This</strong></em> season 2"
+        },
+        {
+          "nome": "Comédia Romântica",
+          "grupo": "editorias",
+          "evidence": "best romcoms"
+        },
+        {
+          "nome": "Fleabag",
+          "grupo": "obras",
+          "evidence": "Fleabag’s relationship with the Hot Priest"
+        }
+      ],
+      "tags_sugeridas": [
+        "Nobody Wants This",
+        "Fleabag",
+        "Lovesick",
+        "This Is Us",
+        "Sex and the City",
+        "Comédia Romântica",
+        "Séries de TV"
+      ],
+      "image_alt_texts": {
+        "fleabag-hot-priest.jpg": "Fleabag e o Padre (Hot Priest) em uma cena intensa da série.",
+        "lovesick-edited.jpg": "Elenco da série 'Lovesick' em uma cena.",
+        "this-is-us_en39kk.jpg": "Mandy Moore como Rebecca e Milo Ventimiglia como Jack em 'This Is Us'.",
+        "carrie-with-her-hand-on-bigs-cheek-as-she-says-goodbye-in-the-sex-and-the-city-episode-ex-in-the-city.jpg": "Carrie e Big em uma cena de despedida de 'Sex and the City'.",
+        "rob-delaney-and-sharon-horgan-in-catastrophe.jpg": "Rob Delaney e Sharon Horgan em 'Catastrophe'.",
+        "mindy-and-danny-laughing-in-the-mindy-project.jpg": "Mindy Kaling e Chris Messina em 'The Mindy Project'.",
+        "Aidy-Bryant-and-Lolly-Adefope-in-Shrill-Hulu.jpg": "Aidy Bryant e Lolly Adefope em 'Shrill'.",
+        "normal-people-connell-marianne-laughing.jpg": "Connell e Marianne se abraçando e rindo em 'Normal People'.",
+        "love.jpg": "Mickey (Gillian Jacobs) e Gus (Paul Rust) em 'Love'.",
+        "insecure-issa-lawrence.jpg": "Issa e Lawrence caminhando juntos em 'Insecure'."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "10 Séries com Romances Mais Cativantes que Nobody Wants This",
+        "_yoast_wpseo_metadesc": "Descubra 10 séries com romances mais cativantes e bem desenvolvidos que superam 'Nobody Wants This', explorando dinâmicas complexas e satisfatórias.",
+        "_yoast_wpseo_focuskw": "Nobody Wants This",
+        "_yoast_news_keywords": "Nobody Wants This, Séries de TV, Comédia Romântica, Fleabag, Lovesick, This Is Us, Sex and the City",
+        "_yoast_wpseo_opengraph-title": "10 Séries com Romances Mais Cativantes que Nobody Wants This",
+        "_yoast_wpseo_opengraph-description": "Descubra 10 séries com romances mais cativantes e bem desenvolvidos que superam 'Nobody Wants This', explorando dinâmicas complexas e satisfatórias.",
+        "_yoast_wpseo_twitter-title": "10 Séries com Romances Mais Cativantes que Nobody Wants This",
+        "_yoast_wpseo_twitter-description": "Descubra 10 séries com romances mais cativantes e bem desenvolvidos que superam 'Nobody Wants This', explorando dinâmicas complexas e satisfatórias."
+      }
+    }
+  ]
+}

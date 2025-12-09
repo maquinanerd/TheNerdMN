@@ -1,0 +1,95 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Arden Cho e May Hong celebram sucesso de KPop Demon Hunters na Netflix",
+      "conteudo_final": "<p>As atrizes Arden Cho e May Hong, estrelas de <em>KPop Demon Hunters</em>, compartilharam detalhes sobre o sucesso inesperado do filme na Netflix. Em uma conversa durante o programa <em>Coffee Chats</em>, elas revelaram como o longa se tornou um fenômeno cultural e como a recepção do público superou as expectativas.</p><h2>Sucesso Inesperado de KPop Demon Hunters</h2><p>Lançado discretamente pela Netflix, <em>KPop Demon Hunters</em> rapidamente conquistou o público. Cho e Hong expressaram surpresa com a magnitude do fenômeno. \"É uma loucura. Todo restaurante que vou, todo café, eles tocam [a música]. É realmente adorável\", comentou Cho sobre a onipresença da trilha sonora. Ela também destacou o apoio esmagador recebido durante sua visita à Ásia logo após o lançamento do filme, descrevendo a experiência como algo \"realmente especial\" que \"não acontece com frequência em Hollywood\".</p><blockquote><p>May Hong: Há algo acontecendo onde ainda não tive a chance de ouvir [a música] em público ou em um supermercado ou em qualquer lugar. Todos me dizem que a ouvem em todos os lugares, e eu não!</p><p>Arden Cho: É uma loucura. Todo restaurante que vou, todo café, eles tocam. É realmente adorável. Eu estava filmando um filme em Seattle e mais da metade dos lugares que visitávamos, eles começavam a tocar, e então a equipe vinha dizer olá. E é tão doce. Uma das maiores coisas foi logo depois que o filme saiu, eu estava na verdade na Coreia e na Malásia e pela Ásia, e foi tão legal ver a quantidade avassaladora de apoio e alegria. Isso é realmente algo tão especial. Sinto que não conseguimos nem capturar em palavras o que parece. Isso não acontece com frequência em Hollywood.</p></blockquote><h2>Arden Cho comenta cover de \"FREE\"</h2><p>Cho, que também é cantora, participou de um cover da popular música \"FREE\" do filme, ao lado do ator e ídolo K-Pop Cha Eun-woo. Ela compartilhou sua gratidão pela oportunidade, especialmente por ter sido uma das últimas colaborações de Eun-woo antes de seu alistamento militar. \"Eu estava tipo, 'Você tem certeza que quer fazer um cover comigo? (risos).' E eu fiquei um pouco envergonhada, mas acho que foi muito bom sentir o apoio e sentir o amor por isso. E sou muito grata porque ele e sua equipe juntaram tudo, e foi o último cover que ele fez antes de ir para o Exército. Sinto muita gratidão por ele ter arranjado tempo para fazer isso. Foi meio que o último pequeno presente para os fãs\", disse Cho.</p><figure><iframe src="https://www.youtube.com/embed/rrDlBEuCtLw" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>Arden Cho e May Hong em entrevista sobre KPop Demon Hunters.</figcaption></figure><h2>May Hong reflete sobre suas raízes</h2><p>Hong, que tem raízes coreanas, mas se mudou para os Estados Unidos aos seis anos, revelou que o filme a fez refletir sobre sua família e suas origens. \"Eu acho que o filme realmente trouxe muitas coisas à tona, porque o filme começa com toda essa história. Concedido, ele não entra especificamente em ser coreana, mas, quero dizer, perdi minhas duas avós há alguns anos. Tinha tantas perguntas restantes, e sinto muito por não poder fazer mais perguntas. E então eu acho que seria muito legal, se eu pudesse ter mais tempo com elas, e chá\", compartilhou Hong.</p><figure><iframe src="https://www.youtube.com/embed/2tj_6Su-M94" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>May Hong fala sobre suas origens e KPop Demon Hunters.</figcaption></figure><p><em>KPop Demon Hunters</em> está disponível na Netflix.</p>",
+      "meta_description": "Arden Cho e May Hong, de KPop Demon Hunters, falam sobre o sucesso do filme na Netflix, o cover de \"FREE\" e reflexões sobre suas origens.",
+      "focus_keyphrase": "KPop Demon Hunters sucesso Netflix",
+      "related_keyphrases": [
+        "Arden Cho KPop Demon Hunters",
+        "May Hong KPop Demon Hunters",
+        "KPop Demon Hunters entrevista"
+      ],
+      "slug": "kpop-demon-hunters-sucesso-netflix",
+      "categorias": [
+        {
+          "nome": "KPop Demon Hunters",
+          "grupo": "obras",
+          "evidence": "KPop Demon Hunters stars Arden Cho and May Hong"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "KPop Demon Hunters quietly arrived on Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "KPop Demon Hunters",
+        "Arden Cho",
+        "May Hong",
+        "Netflix",
+        "Coffee Chats"
+      ],
+      "image_alt_texts": {
+        "presented-by-v3-1.jpg": "Logo do Coffee Chats apresentado pela ScreenRant."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Arden Cho e May Hong celebram sucesso de KPop Demon Hunters na Netflix",
+        "_yoast_wpseo_metadesc": "Arden Cho e May Hong, de KPop Demon Hunters, falam sobre o sucesso do filme na Netflix, o cover de \"FREE\" e reflexões sobre suas origens.",
+        "_yoast_wpseo_focuskw": "KPop Demon Hunters sucesso Netflix",
+        "_yoast_news_keywords": "KPop Demon Hunters, Arden Cho, May Hong, Netflix, Coffee Chats, sucesso filme",
+        "_yoast_wpseo_opengraph-title": "Arden Cho e May Hong celebram sucesso de KPop Demon Hunters na Netflix",
+        "_yoast_wpseo_opengraph-description": "Arden Cho e May Hong, de KPop Demon Hunters, falam sobre o sucesso do filme na Netflix, o cover de \"FREE\" e reflexões sobre suas origens.",
+        "_yoast_wpseo_twitter-title": "Arden Cho e May Hong celebram sucesso de KPop Demon Hunters na Netflix",
+        "_yoast_wpseo_twitter-description": "Arden Cho e May Hong, de KPop Demon Hunters, falam sobre o sucesso do filme na Netflix, o cover de \"FREE\" e reflexões sobre suas origens."
+      }
+    },
+    {
+      "titulo_final": "Netflix: 3 melhores filmes para assistir neste fim de semana",
+      "conteudo_final": "<p>A Netflix oferece um leque de opções para o fim de semana, com sugestões que misturam drama, aventura e mistério. Para quem busca uma experiência cinematográfica completa, a plataforma apresenta filmes que agradam a diversos gostos, incluindo novidades e clássicos que estão prestes a deixar o catálogo.</p><h2>Train Dreams (2025)</h2><p>Um dos destaques recentes na Netflix é <em>Train Dreams</em>, lançado em 21 de novembro. O filme acompanha a jornada de Robert Grainier, interpretado por Joel Edgerton, um trabalhador ferroviário que enfrenta as rápidas mudanças do mundo. Com uma impressionante aprovação de 96% no Rotten Tomatoes, a atuação de Edgerton como Robert tem sido amplamente elogiada.</p><p><em>Train Dreams</em> é considerado um forte candidato ao Oscar, apresentando uma narrativa pessoal sobre um homem lutando por seu lugar no mundo, lidando com longas ausências da família e os desafios do trabalho. A obra é baseada na novela homônima de Denis Johnson e conta com Felicity Jones, William H. Macy e Kerry Condon no elenco. O filme retrata de forma extraordinária a vida comum.</p><h2>Wonka (2023)</h2><p>Para quem busca uma aventura mais leve após o drama de <em>Train Dreams</em>, <em>Wonka</em> é a escolha ideal. Estrelado por Timothée Chalamet, o filme explora a origem do famoso chocolatier Willy Wonka. A história é divertida, emocionante e repleta de reviravoltas, com elementos musicais que cativam o público.</p><p><em>Wonka</em> foi um sucesso de bilheteria e estará disponível na Netflix apenas até 1º de dezembro, tornando este fim de semana a última chance para muitos assistirem ao filme na plataforma.</p><h2>Glass Onion: Um Mistério Knives Out</h2><p>Encerrando a lista com uma dose de comédia e mistério, <em>Glass Onion: Um Mistério Knives Out</em> é a sugestão perfeita. A franquia <em>Knives Out</em>, criada por Rian Johnson, revitalizou o gênero de mistério cômico. Com o lançamento de <em>Wake Up Dead Man: A Knives Out Mystery</em> previsto para 12 de dezembro na Netflix, este é o momento ideal para revisitar o último filme da saga.</p><p><em>Glass Onion</em> leva o detetive Benoit Blanc, interpretado por Daniel Craig, a uma ilha particular, proporcionando um final de fim de semana envolvente e divertido na Netflix. O filme terá uma exibição limitada nos cinemas a partir de 26 de novembro.</p>",
+      "meta_description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana: Train Dreams, Wonka e Glass Onion. Não perca!",
+      "focus_keyphrase": "melhores filmes Netflix fim de semana",
+      "related_keyphrases": [
+        "filmes para assistir na Netflix",
+        "novidades Netflix",
+        "recomendações Netflix"
+      ],
+      "slug": "melhores-filmes-netflix-fim-semana",
+      "categorias": [
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix has quite a few exciting offerings this weekend"
+        },
+        {
+          "nome": "Train Dreams",
+          "grupo": "obras",
+          "evidence": "Train Dreams released on Netflix today, November 21."
+        },
+        {
+          "nome": "Wonka",
+          "grupo": "obras",
+          "evidence": "the next best movie on Netflix to continue our session is Wonka."
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "Train Dreams",
+        "Wonka",
+        "Glass Onion",
+        "Rian Johnson"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: 3 melhores filmes para assistir neste fim de semana (Nov 22-23)",
+        "_yoast_wpseo_metadesc": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana: Train Dreams, Wonka e Glass Onion. Não perca!",
+        "_yoast_wpseo_focuskw": "melhores filmes Netflix fim de semana",
+        "_yoast_news_keywords": "Netflix, filmes, Train Dreams, Wonka, Glass Onion, Rian Johnson, recomendações",
+        "_yoast_wpseo_opengraph-title": "Netflix: 3 melhores filmes para assistir neste fim de semana",
+        "_yoast_wpseo_opengraph-description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana: Train Dreams, Wonka e Glass Onion. Não perca!",
+        "_yoast_wpseo_twitter-title": "Netflix: 3 melhores filmes para assistir neste fim de semana",
+        "_yoast_wpseo_twitter-description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana: Train Dreams, Wonka e Glass Onion. Não perca!"
+      }
+    }
+  ]
+}

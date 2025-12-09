@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Doctor Sleep: Como Mike Flanagan corrigiu o problema de Stephen King",
+      "conteudo_final": "<p>Stephen King é um nome que domina não apenas o mundo literário, mas também o cinema e a TV. Com incontáveis adaptações de suas obras e até séries derivadas inspiradas em suas histórias, tudo o que se conecta a King costuma causar impacto. No entanto, ocasionalmente, algo passa despercebido, o que é ainda mais surpreendente quando vem de um dos poucos diretores que realmente sabem adaptar suas histórias. Enfrentar o desafio de agradar a dois públicos completamente diferentes, ao mesmo tempo em que se cria uma sequência autônoma que faça sentido por si só, é uma tarefa árdua. Mike Flanagan, por outro lado, decidiu encará-la de frente, criando um dos filmes de terror mais subestimados da última década.</p>\n<h2>Doctor Sleep: Uma Ponte entre Duas Visões</h2>\n<p>Lançado em 2019, <b>Doctor Sleep</b> tinha uma missão quase impossível: fundir o mundo do livro <i>The Shining</i> de King com a versão cinematográfica de Stanley Kubrick. O livro representa o horror cru e emocional de um homem consumido pelo alcoolismo, enquanto o filme é uma obra-prima fria e metódica de loucura e isolamento. As duas visões nunca se alinharam completamente, especialmente porque King notoriamente detestava a adaptação de Kubrick. Portanto, o anúncio de <i>Doctor Sleep</i> gerou um ceticismo inevitável. Contudo, Flanagan fez o inesperado: em vez de escolher um lado, ele abraçou ambos. Ele criou um filme que honra os visuais icônicos do clássico de 1980, ao mesmo tempo em que se mantém fiel ao coração e aos temas originalmente pretendidos por King. É o equilíbrio perfeito entre o respeito pela obra original e a inovação cinematográfica.</p>\n<figure><img src=\"https:
+      "meta_description": "Doctor Sleep, de Mike Flanagan, honra Stephen King e Kubrick, explorando trauma e redenção. Um filme de terror subestimado que merecia mais reconhecimento.",
+      "focus_keyphrase": "Doctor Sleep",
+      "related_keyphrases": [
+        "Mike Flanagan",
+        "Stephen King",
+        "The Shining"
+      ],
+      "slug": "doctor-sleep-mike-flanagan-stephen-king",
+      "categorias": [
+        {
+          "nome": "Doctor Sleep",
+          "grupo": "obras",
+          "evidence": "Released in 2019, <a href=\"https:
+        },
+        {
+          "nome": "The Shining",
+          "grupo": "obras",
+          "evidence": "King’s original novel ends with the hotel destroyed, while Kubrick’s film leaves it standing."
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "franquias",
+          "evidence": "<a href=\"https:
+        }
+      ],
+      "tags_sugeridas": [
+        "Doctor Sleep",
+        "Mike Flanagan",
+        "Stephen King",
+        "The Shining",
+        "Ewan McGregor",
+        "Rebecca Ferguson",
+        "Terror"
+      ],
+      "image_alt_texts": {
+        "doctor-sleep-movie-still-dan-jack-torrance.jpg?w=1024": "Dan e Jack Torrance em Doctor Sleep",
+        "doctor-sleep-rose-the-hat-rebecca-ferguson-.jpg?w=1024": "Rose the Hat em Doctor Sleep",
+        "doctor-sleep-still-dan-torrance-ewan-mcgregor.jpg?w=1024": "Ewan McGregor como Dan Torrance em Doctor Sleep"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Doctor Sleep: Como Mike Flanagan corrigiu o problema de Stephen King",
+        "_yoast_wpseo_metadesc": "Doctor Sleep, de Mike Flanagan, honra Stephen King e Kubrick, explorando trauma e redenção. Um filme de terror subestimado que merecia mais reconhecimento.",
+        "_yoast_wpseo_focuskw": "Doctor Sleep",
+        "_yoast_news_keywords": "Doctor Sleep, Mike Flanagan, Stephen King, The Shining, Ewan McGregor, Rebecca Ferguson, Terror",
+        "_yoast_wpseo_opengraph-title": "Doctor Sleep: Como Mike Flanagan corrigiu o problema de Stephen King",
+        "_yoast_wpseo_opengraph-description": "Doctor Sleep, de Mike Flanagan, honra Stephen King e Kubrick, explorando trauma e redenção. Um filme de terror subestimado que merecia mais reconhecimento.",
+        "_yoast_wpseo_twitter-title": "Doctor Sleep: Como Mike Flanagan corrigiu o problema de Stephen King",
+        "_yoast_wpseo_twitter-description": "Doctor Sleep, de Mike Flanagan, honra Stephen King e Kubrick, explorando trauma e redenção. Um filme de terror subestimado que merecia mais reconhecimento."
+      }
+    }
+  ]
+}

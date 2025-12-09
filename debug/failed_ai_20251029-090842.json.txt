@@ -1,0 +1,47 @@
+{
+  "titulo_final": "Jennifer Hale cobra cachês menores que colegas homens, apesar de currículo extenso",
+  "conteudo_final": "<p>A atriz de voz <b>Jennifer Hale</b>, conhecida por seu trabalho em jogos como <b>Mass Effect</b>, revelou que ainda enfrenta disparidades salariais em eventos, recebendo ofertas de cachês inferiores às de seus colegas homens, mesmo com um currículo significativamente mais extenso.</p><h2>Jennifer Hale ainda não recebe cachês iguais para aparições em eventos</h2><p>Em uma entrevista recente, Hale detalhou uma experiência onde a compensação oferecida para sua participação em um evento era menor em comparação com a de alguns homens presentes, apesar de seu extenso portfólio de 515 créditos de atuação. Ela foi reconhecida pelo Guinness World Records como a atriz de videogame com o maior número de papéis.</p><p>Apesar da frustração, Hale adota uma postura otimista, afirmando: \"Não vou ficar chateada com isso. Estou animada para quando isso mudar. Mas se você pagaria mais a um homem por um papel, você deveria estar disposto a pagar o mesmo a uma mulher. Tire o gênero e diga: 'Qual é este papel? O que este currículo merece?' E o mesmo vale para os roteiristas.\"</p><p>A atriz também comentou sobre a adaptação de franquias de jogos para outras mídias, como séries. Ela expressou surpresa quando grandes corporações adquirem IPs que se originaram no mundo dos games e, ao adaptá-las, deixam os dubladores originais de lado. Hale acredita que essas empresas \"deixaram todo o ouro na calçada\", referindo-se ao potencial não aproveitado.</p><p>Recentemente, Hale também incentivou os fãs a expressarem o desejo de seu retorno como a Comandante Shepard em futuros jogos de <b>Mass Effect</b>. Ela também discutiu a possibilidade do elenco original retornar para a série live-action em produção.</p><p>Em outro momento, durante o mesmo evento, Hale conversou com Aliona Baranova e Jennifer English, de <b>Baldur's Gate 3</b>. Elas compartilharam uma história sobre como os atores do jogo foram chamados de volta para gravar falas com pronomes neutros (They/Them).</p><figure><img src=\"https:
+  "meta_description": "Jennifer Hale, voz de Mass Effect, revela que ainda recebe cachês menores que colegas homens para eventos, apesar de currículo extenso.",
+  "focus_keyphrase": "Jennifer Hale cachês",
+  "related_keyphrases": [
+    "Jennifer Hale dubladora",
+    "disparidade salarial games",
+    "Mass Effect Jennifer Hale"
+  ],
+  "slug": "jennifer-hale-cachês-disparidade",
+  "categorias": [
+    {
+      "nome": "Mass Effect",
+      "grupo": "franquias",
+      "evidence": "Mass Effect"
+    },
+    {
+      "nome": "Jennifer Hale",
+      "grupo": "obras",
+      "evidence": "Jennifer Hale"
+    }
+  ],
+  "tags_sugeridas": [
+    "Jennifer Hale",
+    "Mass Effect",
+    "dublagem",
+    "games",
+    "disparidade salarial",
+    "atriz de voz",
+    "Baldur's Gate 3"
+  ],
+  "image_alt_texts": {
+    "mass-effect-key-art-showing-femshep-in-space-standing-in-front-of-the-earth.jpg": "Jennifer Hale como a Comandante Shepard em Mass Effect",
+    "mixcollage-07-dec-2024-08-58-am-3435.jpg": "A atriz Jennifer Hale em aparição recente."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Jennifer Hale cobra cachês menores que colegas homens, apesar de currículo extenso",
+    "_yoast_wpseo_metadesc": "Jennifer Hale, voz de Mass Effect, revela que ainda recebe cachês menores que colegas homens para eventos, apesar de currículo extenso.",
+    "_yoast_wpseo_focuskw": "Jennifer Hale cachês",
+    "_yoast_news_keywords": "Jennifer Hale, Mass Effect, dublagem, games, disparidade salarial, atriz de voz, Baldur's Gate 3",
+    "_yoast_wpseo_opengraph-title": "Jennifer Hale cobra cachês menores que colegas homens, apesar de currículo extenso",
+    "_yoast_wpseo_opengraph-description": "Jennifer Hale, voz de Mass Effect, revela que ainda recebe cachês menores que colegas homens para eventos, apesar de currículo extenso.",
+    "_yoast_wpseo_twitter-title": "Jennifer Hale cobra cachês menores que colegas homens, apesar de currículo extenso",
+    "_yoast_wpseo_twitter-description": "Jennifer Hale, voz de Mass Effect, revela que ainda recebe cachês menores que colegas homens para eventos, apesar de currículo extenso."
+  }
+}

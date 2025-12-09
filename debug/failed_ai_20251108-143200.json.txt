@@ -1,0 +1,140 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Michael Jackson: Cinebiografia Quebra Recordes com Trailer Mais Visto",
+      "conteudo_final": "<p>O Rei do Pop quebra recordes mais uma vez. Em apenas 24 horas online, o teaser trailer de <strong><em>Michael</em></strong>, a cinebiografia de Michael Jackson da Lionsgate, alcançou a impressionante marca de <strong>116,2 milhões de visualizações mundialmente</strong>, tornando-se o trailer mais visto de qualquer cinebiografia musical ou filme de concerto da história.</p><p>Os dados, confirmados por a firma de análise WaveMetrix, também marcam o <strong>maior lançamento de trailer em 24 horas na história da Lionsgate</strong>, superando <em>John Wick 4</em> em mais de 50% em suas primeiras seis horas. “As pessoas esperaram muito tempo por isso”, disse Adam Fogelson, presidente do Lionsgate Motion Picture Group, durante a apresentação de resultados do estúdio. “Acho que as pessoas estão chocadas com a performance de Jaafar [Jackson].”</p><p>Fogelson confirmou que a cinebiografia dirigida por Fuqua foi <strong>dividida em dois filmes</strong>. O corte original teria mais de três horas e meia, incluindo material envolvendo uma das acusadoras de Jackson — conteúdo proibido por contrato devido a acordos legais prévios.</p><blockquote><p>“Desde a última vez que trabalhamos juntos em uma apresentação de resultados, tivemos o grande prazer de ver o corte do diretor do primeiro filme, e ele é excepcional. Embora ainda não estejamos prontos para confirmar planos para um segundo filme, posso dizer que a equipe criativa está trabalhando duro para garantir que estaremos em posição de entregar mais <em>Michael</em> logo após o lançamento do primeiro filme.”</p></blockquote><p>Com suas 116,2 milhões de visualizações, <em>Michael</em> superou os números de lançamento de diversos sucessos musicais. Para comparação: <em>Taylor Swift: The Eras Tour</em> obteve 96,1 milhões de visualizações, <em>Bob Marley: One Love</em> registrou 60,1 milhões, <em>Bohemian Rhapsody</em> alcançou 57,6 milhões, e <em>A Complete Unknown</em>, a cinebiografia de Bob Dylan, atingiu 47,2 milhões.</p><p>A estreia do teaser também proporcionou à Lionsgate um impulso de relações públicas perfeitamente sincronizado, lançado poucas horas antes de sua apresentação trimestral de resultados. Em seis horas após o lançamento, o trailer de <em>Michael</em> acumulou <strong>mais de 30 milhões de visualizações</strong>, um número que superou o engajamento inicial de <em>John Wick 4</em> em metade.</p><p>Os fãs também poderão assistir ao trailer nos cinemas no próximo fim de semana, onde será exibido exclusivamente antes do próximo filme da Lionsgate, <em>Now You See: Now You Don’t</em>.</p><h2>Quem Está Envolvido no Filme de Michael Jackson?</h2><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/723RZxnDWKE\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>O sobrinho de Jackson, <strong>Jaafar Jackson</strong>, estrela como seu lendário tio, ao lado de <strong>Colman Domingo</strong> como o patriarca Joe Jackson, <strong>Nia Long</strong> como a matriarca Katherine Jackson, e <strong>Miles Teller</strong> como o advogado de Jackson, John Branca. O jovem Michael é interpretado por Juliano Krue Valdi, enquanto Kat Graham, Larenz Tate e Jessica Sula completam o elenco como figuras do círculo do cantor.</p><p>O roteiro é de John Logan, três vezes indicado ao Oscar por <em>Gladiador</em> e <em>007 - Operação Skyfall</em>. A Lionsgate distribuirá <em>Michael</em> domesticamente, com a Universal Pictures cuidando dos mercados internacionais (exceto Japão, onde será lançado pela Kino Films), enquanto o filme é dirigido por Antoine Fuqua (<em>Dia de Treinamento, O Protetor</em>) e produzido por Graham King, de <em>Bohemian Rhapsody</em>.</p><p>O próprio Fuqua descreveu <em>Michael</em> como um projeto profundamente pessoal. “Não há artista com o poder, o carisma e o puro gênio musical de Michael Jackson”, disse ele em uma declaração anterior. “Sua música e essas imagens fazem parte da minha visão de mundo, e a chance de contar sua história na tela ao lado de sua música foi irresistível.”</p><p><em>Michael</em> chega aos cinemas em 24 de abril de 2026.</p>",
+      "meta_description": "O trailer da cinebiografia de Michael Jackson, 'Michael', alcança 116,2 milhões de visualizações em 24h, tornando-se o mais visto da história para filmes do gênero.",
+      "focus_keyphrase": "Michael Jackson cinebiografia trailer recorde",
+      "related_keyphrases": [
+        "filme Michael Jackson",
+        "Jaafar Jackson",
+        "Lionsgate trailer"
+      ],
+      "slug": "michael-jackson-cinebiografia-trailer-recorde",
+      "categorias": [
+        {
+          "nome": "Michael Jackson",
+          "grupo": "franquias",
+          "evidence": "a cinebiografia de Michael Jackson da Lionsgate"
+        },
+        {
+          "nome": "Lionsgate",
+          "grupo": "editorias",
+          "evidence": "a cinebiografia de Michael Jackson da Lionsgate"
+        }
+      ],
+      "tags_sugeridas": [
+        "Michael Jackson",
+        "Michael",
+        "Jaafar Jackson",
+        "Antoine Fuqua",
+        "Lionsgate",
+        "cinebiografia"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Michael Jackson: Cinebiografia Quebra Recordes com Trailer Mais Visto",
+        "_yoast_wpseo_metadesc": "O trailer da cinebiografia de Michael Jackson, 'Michael', alcança 116,2 milhões de visualizações em 24h, tornando-se o mais visto da história para filmes do gênero.",
+        "_yoast_wpseo_focuskw": "Michael Jackson cinebiografia trailer recorde",
+        "_yoast_news_keywords": "Michael Jackson, Michael, Jaafar Jackson, Antoine Fuqua, Lionsgate, cinebiografia, trailer, recorde",
+        "_yoast_wpseo_opengraph-title": "Michael Jackson: Cinebiografia Quebra Recordes com Trailer Mais Visto",
+        "_yoast_wpseo_opengraph-description": "O trailer da cinebiografia de Michael Jackson, 'Michael', alcança 116,2 milhões de visualizações em 24h, tornando-se o mais visto da história para filmes do gênero.",
+        "_yoast_wpseo_twitter-title": "Michael Jackson: Cinebiografia Quebra Recordes com Trailer Mais Visto",
+        "_yoast_wpseo_twitter-description": "O trailer da cinebiografia de Michael Jackson, 'Michael', alcança 116,2 milhões de visualizações em 24h, tornando-se o mais visto da história para filmes do gênero."
+      }
+    },
+    {
+      "titulo_final": "K-Pop Demon Hunters 2 é Confirmado e Ganha Ideias para a Trama",
+      "conteudo_final": "<p>Após dominar as paradas de streaming e música, tornando-se o filme mais assistido da Netflix, e recentemente receber várias indicações ao Grammy (incluindo \"Gravação do Ano\"), <em><strong>K-Pop Demon Hunters</strong></em> ganhará oficialmente uma sequência. O sucesso estrondoso do musical animado, uma coprodução entre Sony e Netflix, acompanha o trio de ídolos pop que também são guerreiros sobrenaturais. Agora, <em>K-Pop Demon Hunters 2</em> está confirmado para lançamento em <strong>2029</strong>.</p><p>As dubladoras do grupo de caçadoras de demônios — EJAE, Audrey Nuna e Rei Ami — compartilharam o que gostariam de ver quando HUNTR/X voltar ao palco (e ao campo de batalha). EJAE expressou o desejo de que o filme incorpore mais elementos da cultura tradicional coreana, como história, música e culinária.</p><p>Audrey Nuna concordou, acrescentando: “<strong>Quero ver as garotas em cidades diferentes.</strong> Quero ver o que elas trazem globalmente. Porque acho que este filme teve um impacto global tão grande. Acho que o filme e a realidade têm tido essa conversa muito louca um com o outro, então eu adoraria ver isso continuar.” É uma previsão razoável, já que o sucesso de <em>K-Pop Demon Hunters</em> se expandiu bem além da Coreia, tornando-se uma sensação internacional.</p><p>Rei Ami, por outro lado, demonstrou curiosidade sobre a mitologia do filme. “<strong>Eu adoraria ver a história de origem de como as garotas se uniram. Se não for uma prequela, então quero Gwi-ma </strong>(<a href=\"https://www.maquinanerd.com.br/tag/lee-byung-hun\">Lee Byung-hun</a>) <strong>de volta. Tragam-no de volta. </strong><strong>Quem será o antagonista? Estou tão curiosa para o próximo.</strong>” Os próximos antagonistas do filme são, provavelmente, os aspectos que mais intrigam os fãs, especialmente após o destino ambíguo de Ji-Noo (Ahn Hyo-seop).</p><h2>Sobre o que é 'K-Pop Demon Hunters'?</h2><p><em>K-Pop Demon Hunters</em> foi dirigido por Maggie Kang e Chris Appelhans, e conta com as performances de voz de Arden Cho, May Hong e Ji-young Yoo, com EJAE, Audrey Nuna e Rei Ami fornecendo os vocais poderosos por trás de Rumi, Mira e Zoey, respectivamente.</p><p>O primeiro filme foi um fenômeno, quebrando recordes de streaming com mais de <strong>325 milhões de visualizações</strong>, conquistando <strong>três indicações ao Grammy</strong> e inspirando uma onda de fan art, cosplay e tendências virais no TikTok. Ele também alcançou o primeiro lugar nas paradas de trilhas sonoras da Billboard, provando que a magia de HUNTR/X se estende muito além das telas. O filme foi enormemente popular entre críticos e público, ostentando uma nota de 95% no Rotten Tomatoes. Em sua crítica, Jeff Ewing, do Collider, descreveu o filme como \"imperdível\" e elogiou seu elenco, música e visuais.</p><p>Com sua sequência a caminho e as cantoras já sonhando com os rumos que a história pode tomar, fica claro que <em>K-Pop Demon Hunters</em> conquistou seu bis. <em>K-Pop Demon Hunters 2</em> será lançado em <strong>2029</strong>, e o primeiro filme, recordista de bilheteria, está disponível para streaming na Netflix.</p>",
+      "meta_description": "A sequência de K-Pop Demon Hunters é confirmada para 2029. As dubladoras compartilham ideias para a trama, incluindo mais cultura coreana e a origem do grupo.",
+      "focus_keyphrase": "K-Pop Demon Hunters 2 confirmado",
+      "related_keyphrases": [
+        "sequência K-Pop Demon Hunters",
+        "HUNTR/X",
+        "filme Netflix K-Pop"
+      ],
+      "slug": "k-pop-demon-hunters-2-confirmado-ideias-sequencia",
+      "categorias": [
+        {
+          "nome": "K-Pop Demon Hunters",
+          "grupo": "franquias",
+          "evidence": "KPop Demon Hunters é oficialmente uma sequência"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "tornando-se o filme mais assistido da Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "K-Pop Demon Hunters",
+        "HUNTR/X",
+        "EJAE",
+        "Audrey Nuna",
+        "Rei Ami",
+        "Netflix",
+        "animação"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "K-Pop Demon Hunters 2 é Confirmado e Ganha Ideias para a Trama",
+        "_yoast_wpseo_metadesc": "A sequência de K-Pop Demon Hunters é confirmada para 2029. As dubladoras compartilham ideias para a trama, incluindo mais cultura coreana e a origem do grupo.",
+        "_yoast_wpseo_focuskw": "K-Pop Demon Hunters 2 confirmado",
+        "_yoast_news_keywords": "K-Pop Demon Hunters, K-Pop Demon Hunters 2, HUNTR/X, Netflix, EJAE, Audrey Nuna, Rei Ami, animação, sequência",
+        "_yoast_wpseo_opengraph-title": "K-Pop Demon Hunters 2 é Confirmado e Ganha Ideias para a Trama",
+        "_yoast_wpseo_opengraph-description": "A sequência de K-Pop Demon Hunters é confirmada para 2029. As dubladoras compartilham ideias para a trama, incluindo mais cultura coreana e a origem do grupo.",
+        "_yoast_wpseo_twitter-title": "K-Pop Demon Hunters 2 é Confirmado e Ganha Ideias para a Trama",
+        "_yoast_wpseo_twitter-description": "A sequência de K-Pop Demon Hunters é confirmada para 2029. As dubladoras compartilham ideias para a trama, incluindo mais cultura coreana e a origem do grupo."
+      }
+    },
+    {
+      "titulo_final": "Top Gun: Maverick Domina Streaming e Continua Sucesso",
+      "conteudo_final": "<p>Anos após sua estreia, <em><strong>Top Gun: Maverick</strong></em>, a sequência de um dos personagens mais icônicos de Tom Cruise, continua a dominar as paradas de streaming. O filme, que trouxe de volta o Capitão Pete Mitchell, é um dos dez filmes mais transmitidos no Paramount+ nos Estados Unidos.</p><p>Com um elenco estelar que inclui Miles Teller, Glen Powell e Monica Barbaro, ao lado de Cruise, <em>Top Gun: Maverick</em> foi coescrito por Christopher McQuarrie e dirigido por Joseph Kosinski. O filme foi um sucesso estrondoso de bilheteria, arrecadando quase <strong>US$ 1,5 bilhão mundialmente</strong>, o que o coloca como o 14º filme de maior bilheteria de todos os tempos. Nos Estados Unidos, o longa somou mais de US$ 700 milhões, sendo o quinto filme de maior bilheteria doméstica da história.</p><p>Para quem ainda não assistiu, a sinopse de <em>Top Gun: Maverick</em> é a seguinte:</p><blockquote><p>"Após mais de trinta anos de serviço como um dos principais aviadores da Marinha, Pete “Maverick” Mitchell (Cruise) está onde pertence, expandindo os limites como um corajoso piloto de testes e evitando a promoção que o aposentaria. Ao se encontrar treinando um destacamento de graduados do Top Gun para uma missão especializada, como nenhum piloto vivo jamais viu, Maverick encontra o Tenente Bradley Bradshaw (Teller), codinome: “Rooster”, filho do falecido amigo de Maverick e Oficial de Interceptação de Radar Lt. Nick Bradshaw, também conhecido como “Goose”. Enfrentando um futuro incerto e confrontando os fantasmas de seu passado, Maverick é levado a um confronto com seus medos mais profundos, culminando em uma missão que exige o sacrifício máximo daqueles que forem escolhidos para voá-la."</p></blockquote><h2>'Top Gun: Maverick' Foi um Triunfo Crítico</h2><p>Com uma pontuação de 96% dos críticos e 99% do público no agregador Rotten Tomatoes, <em><strong>Top Gun: Maverick</strong></em> é um dos filmes com as mais altas avaliações no site. O consenso da crítica afirma que o filme \"consegue um feito ainda mais complicado do que um mergulho invertido a 4G, entregando uma sequência muito atrasada que supera seu antecessor em estilo incrivelmente divertido.\" O sucesso foi tão grande que uma terceira parte foi confirmada, com o roteirista McQuarrie já tendo uma ideia de para onde levar a história, e Teller retornando ao elenco.</p><p><em>Top Gun: Maverick</em> está disponível para streaming no Paramount+.</p>",
+      "meta_description": "Top Gun: Maverick, de Tom Cruise, continua a dominar o streaming no Paramount+. O filme é um sucesso de crítica e bilheteria, com uma sequência já confirmada.",
+      "focus_keyphrase": "Top Gun Maverick streaming sucesso",
+      "related_keyphrases": [
+        "filme Tom Cruise Paramount+",
+        "Top Gun 3",
+        "sucesso bilheteria Top Gun Maverick"
+      ],
+      "slug": "top-gun-maverick-streaming-sucesso-continuo",
+      "categorias": [
+        {
+          "nome": "Top Gun: Maverick",
+          "grupo": "franquias",
+          "evidence": "Top Gun: Maverick"
+        },
+        {
+          "nome": "Paramount+",
+          "grupo": "plataformas",
+          "evidence": "no Paramount+"
+        },
+        {
+          "nome": "Tom Cruise",
+          "grupo": "atores",
+          "evidence": "Tom Cruise"
+        }
+      ],
+      "tags_sugeridas": [
+        "Top Gun Maverick",
+        "Tom Cruise",
+        "Paramount+",
+        "Joseph Kosinski",
+        "Miles Teller",
+        "sucesso bilheteria",
+        "streaming"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Top Gun: Maverick Domina Streaming e Continua Sucesso",
+        "_yoast_wpseo_metadesc": "Top Gun: Maverick, de Tom Cruise, continua a dominar o streaming no Paramount+. O filme é um sucesso de crítica e bilheteria, com uma sequência já confirmada.",
+        "_yoast_wpseo_focuskw": "Top Gun Maverick streaming sucesso",
+        "_yoast_news_keywords": "Top Gun Maverick, Tom Cruise, Paramount+, Joseph Kosinski, Miles Teller, streaming, sucesso bilheteria, sequência",
+        "_yoast_wpseo_opengraph-title": "Top Gun: Maverick Domina Streaming e Continua Sucesso",
+        "_yoast_wpseo_opengraph-description": "Top Gun: Maverick, de Tom Cruise, continua a dominar o streaming no Paramount+. O filme é um sucesso de crítica e bilheteria, com uma sequência já confirmada.",
+        "_yoast_wpseo_twitter-title": "Top Gun: Maverick Domina Streaming e Continua Sucesso",
+        "_yoast_wpseo_twitter-description": "Top Gun: Maverick, de Tom Cruise, continua a dominar o streaming no Paramount+. O filme é um sucesso de crítica e bilheteria, com uma sequência já confirmada."
+      }
+    }
+  ]
+}

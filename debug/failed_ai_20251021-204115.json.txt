@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Gen V: Vilão da 1ª temporada quase retornou em sonho na 2ª",
+  "conteudo_final": "<p>A máxima de que mortes no universo dos super-heróis raramente são definitivas quase se concretizou em <b>Gen V</b>. A segunda temporada da série derivada de <b>The Boys</b> quase trouxe de volta um supe que já havia morrido na primeira temporada, algo que iria além de flashbacks, clones ou substituições.</p><h2>Retorno Planejado para Golden Boy</h2><p>Eric Kripke, showrunner de <b>Gen V</b>, revelou em entrevista exclusiva que houve planos para o retorno de Golden Boy, personagem interpretado por Patrick Schwarzenegger. As ideias incluíam sequências de sonho, possivelmente com o personagem Sam, mas a volta efetiva de Golden Boy chegou a ser considerada nos esboços dos roteiros.</p><p>“Nós fizemos. Nós fizemos. Se bem me lembro, houve algumas sequências de sonho. Eu não me lembro quem estava tendo os sonhos. Talvez Sam, mas 100% isso chegou aos esboços onde Golden Boy estava aparecendo”, disse Kripke.</p><h2>Desafios de Agendamento e Interesse do Ator</h2><p>Apesar do interesse criativo, a participação de Patrick Schwarzenegger foi impedida por conflitos de agenda, uma vez que o ator estava envolvido com outras produções, como a série <b>The White Lotus</b>. Kripke lamentou a impossibilidade de concretizar a participação: “Patrick… acho que ele estava filmando um programa minúsculo sobre um hotel. Não acho que ninguém viu [risos]. Obviamente, ele estava fazendo <b>White Lotus</b> e estava super ocupado com isso e com a imprensa. Acho que não conseguimos acertar as agendas, se bem me lembro.”</p><p>O próprio Patrick Schwarzenegger demonstrou interesse em retornar. Em fevereiro de 2025, ele declarou que só não voltou para a segunda temporada de <b>Gen V</b> por questões de agendamento e que adoraria participar em futuras temporadas. “Não deu certo [para a segunda temporada de Gen V]… talvez na terceira temporada ou em algum outro momento”, comentou o ator.</p><p>Schwarzenegger possui uma ligação anterior com o universo de <b>The Boys</b>, pois chegou a fazer testes para o papel de Homelander antes de ser escalado como Golden Boy. Ele descreveu a experiência no podcast <b>Happy Sad Confused</b>:</p><p>“Quando eles estavam fazendo o spin-off de <b>Gen V</b>, eles vieram até mim dizendo: ‘Sabemos que você fez um teste para [Homelander] e nós nos lembramos disso e queremos que você faça o teste para este Golden Boy… Foi posicionado como se ele fosse ser uma versão em miniatura de Homelander, mas ele era honestamente uma ótima criança e uma pessoa muito boa, genuína, e ele estava meio que lutando para ter que se tornar parte daquele super-herói e desse nível de fama.”</p><p>Apesar dos obstáculos de agenda, o carinho entre o ator e a produção é mútuo. A possibilidade de um retorno, mesmo que em uma forma não convencional, permanece aberta, considerando os mecanismos já introduzidos no universo, como clones e ressurreições sombrias nos quadrinhos.</p>",
+  "meta_description": "Gen V quase trouxe de volta o vilão Golden Boy na 2ª temporada, com planos para sequências de sonho. Entenda os detalhes e os motivos do não retorno.",
+  "focus_keyphrase": "Gen V vilão temporada 2",
+  "related_keyphrases": [
+    "Golden Boy Gen V",
+    "Patrick Schwarzenegger Gen V",
+    "The Boys universo"
+  ],
+  "slug": "gen-v-vilao-retorno-temporada-2",
+  "categorias": [
+    {
+      "nome": "Gen V",
+      "grupo": "obras",
+      "evidence": "Gen V Season 2"
+    },
+    {
+      "nome": "The Boys",
+      "grupo": "franquias",
+      "evidence": "The Boys universe"
+    }
+  ],
+  "tags_sugeridas": [
+    "Gen V",
+    "The Boys",
+    "Eric Kripke",
+    "Patrick Schwarzenegger",
+    "Golden Boy",
+    "super-heróis",
+    "streaming"
+  ],
+  "image_alt_texts": {
+    "Alan-Cumming-blue-as-Nightcrawler-in-X2-X-Men-United.jpg": "Alan Cumming como Noturno no filme X2.",
+    "Army-in-Dune-Part-Two.jpg": "Exército no filme Duna: Parte Dois.",
+    "Battlestar-Galactica-33.jpg": "Cena da série Battlestar Galactica.",
+    "Golden-Boy-in-Gen-V.jpg": "Patrick Schwarzenegger como Golden Boy na série Gen V.",
+    "Solo-Leveling-Jinwoo.jpg": "Jinwoo de Solo Leveling.",
+    "dragon-ball-1.jpg": "Imagem promocional de Dragon Ball.",
+    "p-s-5_aed69f.png": "Logo do PlayStation 5.",
+    "prime-video-our-fault-culpa-nuestra_786c1f.jpg": "Imagem promocional do filme Culpa Minha (Our Fault) da Prime Video.",
+    "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Logo do Xbox Game Pass."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Gen V: Vilão da 1ª temporada quase retornou em sonho na 2ª | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Gen V quase trouxe de volta o vilão Golden Boy na 2ª temporada, com planos para sequências de sonho. Entenda os detalhes e os motivos do não retorno.",
+    "_yoast_wpseo_focuskw": "Gen V vilão temporada 2",
+    "_yoast_news_keywords": "Gen V, The Boys, Eric Kripke, Patrick Schwarzenegger, Golden Boy, super-heróis, streaming",
+    "_yoast_wpseo_opengraph-title": "Gen V: Vilão da 1ª temporada quase retornou em sonho na 2ª",
+    "_yoast_wpseo_opengraph-description": "Eric Kripke revelou que Golden Boy quase apareceu em sequências de sonho na segunda temporada de Gen V, mas conflitos de agenda impediram.",
+    "_yoast_wpseo_twitter-title": "Gen V: Vilão da 1ª temporada quase retornou em sonho na 2ª",
+    "_yoast_wpseo_twitter-description": "Eric Kripke revelou que Golden Boy quase apareceu em sequências de sonho na segunda temporada de Gen V, mas conflitos de agenda impediram."
+  }
+}

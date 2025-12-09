@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jonathan Frakes reage a novo filme de Star Trek: \"Uau!\"",
+      "conteudo_final": "<p>O icônico ator e diretor de <b>Star Trek: The Next Generation</b>, Jonathan Frakes, reage às notícias sobre o novo filme de <i>Star Trek</i> da Paramount. O estúdio anunciou um novo filme desenvolvido por John Francis Daley e Jonathan Goldstein, que será independente de qualquer filme ou série anterior de <i>Star Trek</i>.</p><h2>Jonathan Frakes como diretor em Star Trek</h2><p>Jonathan Frakes não é estranho à direção de filmes de <i>Star Trek</i>, tendo comandado <i>Star Trek: First Contact</i> e <i>Star Trek: Insurrection</i>. Frakes é considerado o diretor favorito dos atores de <i>Star Trek</i> na Paramount+. Ele dirigiu inúmeros episódios de <i>Star Trek: Discovery</i>, <i>Star Trek: Picard</i> e <i>Star Trek: Strange New Worlds</i>. O penúltimo episódio da primeira temporada de <i>Star Trek: Starfleet Academy</i> também será dirigido por Frakes.</p><p>Durante uma participação no podcast <i>All Access Star Trek</i>, de <i>TrekMovie</i>, com Kitty Swink, para discutir a conscientização sobre o câncer pancreático, Jonathan Frakes soube pela primeira vez sobre o novo filme de <i>Star Trek</i> da Paramount e que o estúdio não produziria <i>Star Trek 4</i> com Chris Pine e o elenco da Enterprise. Confira a reação de Frakes a essa grande notícia:</p><blockquote><p>“Uau. Essa é uma grande notícia.”</p></blockquote><h2>Conselhos para os novos diretores</h2><p>Jonathan Frakes reconheceu Jonathan Goldstein e John Francis Daley como \"os caras de Dungeons &amp; Dragons\". Goldstein e Daley dirigiram <i>Dungeons &amp; Dragons: Honor Among Thieves</i>, com Chris Pine. Como colega diretor de filmes de <i>Star Trek</i>, Frakes ofereceu o seguinte conselho à dupla de cineastas:</p><blockquote><p>“Que eles vivam muito e prosperem, fiquem seguros, venham dentro do orçamento e no prazo, e eles se sairão bem.”</p></blockquote><p>Durante o longo processo de desenvolvimento de <i>Star Trek 4</i>, Jonathan Frakes entrou em contato com o produtor J.J. Abrams e ofereceu seus serviços como diretor. No entanto, nada resultou disso, e Frakes continuou seu trabalho prolífico dirigindo séries de <i>Star Trek</i> e outros projetos.</p><p>Frakes parece ser fã do trabalho de Jonathan Goldstein e John Francis Daley. A dupla escreveu <i>Spider-Man: Homecoming</i> e <i>Horrible Bosses</i>. Daley e Goldstein assumiram a direção de <i>Vacation</i>, <i>Game Night</i> e <i>Dungeons &amp; Dragons: Honor Among Thieves</i>.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/director-jonathan-frakes.jpg?q=49&fit=crop&w=825&dpr=2" alt="Jonathan Frakes, diretor de Star Trek, reage a novidades do novo filme."/><figcaption>Jonathan Frakes, diretor conhecido por seu trabalho em Star Trek.</figcaption></figure><p>O episódio mais recente de <i>Star Trek</i> dirigido por Jonathan Frakes foi \"A Space Adventure Hour\" da terceira temporada de <i>Star Trek: Strange New Worlds</i>, que Frakes saudou como a melhor hora de TV que ele já dirigiu. Compreensivelmente, Jonathan ficou surpreso com a reação dividida dos fãs ao seu mistério de assassinato no holodeck e à ode leve a Gene Roddenberry e <i>Star Trek: The Original Series</i>.</p><p>Assim como os fãs de <i>Star Trek</i>, Jonathan Frakes adota uma abordagem de esperar para ver o que o novo filme de <i>Star Trek</i> será. Um filme de <i>Star Trek</i> desconectado de séries e filmes anteriores parece um grande risco, mas a própria <i><b>Star Trek: The Next Generation</b></i> de Frakes, que introduziu um novo elenco que não era o Capitão Kirk (William Shatner) e o Sr. Spock (Leonard Nimoy), também foi um grande risco que deu certo.</p>",
+      "meta_description": "Jonathan Frakes, diretor de Star Trek, reage com surpresa e conselhos ao anúncio de um novo filme da franquia pela Paramount.",
+      "focus_keyphrase": "Jonathan Frakes reage a novo filme de Star Trek",
+      "related_keyphrases": [
+        "novo filme Star Trek Paramount",
+        "diretores Star Trek John Francis Daley Jonathan Goldstein",
+        "Jonathan Frakes Star Trek The Next Generation"
+      ],
+      "slug": "jonathan-frakes-reage-novo-filme-star-trek",
+      "categorias": [
+        {
+          "nome": "Star Trek",
+          "grupo": "franquias",
+          "evidence": "<em><strong>Star Trek: The Next Generation</strong></em>"
+        },
+        {
+          "nome": "Paramount+",
+          "grupo": "plataformas",
+          "evidence": "Paramount's new <em>Star Trek</em> movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jonathan Frakes",
+        "Star Trek",
+        "Paramount",
+        "John Francis Daley",
+        "Jonathan Goldstein",
+        "Star Trek The Next Generation",
+        "Star Trek Discovery"
+      ],
+      "image_alt_texts": {
+        "director-jonathan-frakes.jpg": "Jonathan Frakes, diretor de Star Trek, reage a novidades do novo filme."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jonathan Frakes reage a novo filme de Star Trek: \"Uau!\"",
+        "_yoast_wpseo_metadesc": "Jonathan Frakes, diretor de Star Trek, reage com surpresa e conselhos ao anúncio de um novo filme da franquia pela Paramount.",
+        "_yoast_wpseo_focuskw": "Jonathan Frakes reage a novo filme de Star Trek",
+        "_yoast_news_keywords": "Jonathan Frakes, Star Trek, Paramount, John Francis Daley, Jonathan Goldstein, Star Trek The Next Generation, Star Trek Discovery, Star Trek Picard, Star Trek Strange New Worlds",
+        "_yoast_wpseo_opengraph-title": "Jonathan Frakes reage a novo filme de Star Trek: \"Uau!\"",
+        "_yoast_wpseo_opengraph-description": "Jonathan Frakes, diretor de Star Trek, reage com surpresa e conselhos ao anúncio de um novo filme da franquia pela Paramount.",
+        "_yoast_wpseo_twitter-title": "Jonathan Frakes reage a novo filme de Star Trek: \"Uau!\"",
+        "_yoast_wpseo_twitter-description": "Jonathan Frakes, diretor de Star Trek, reage com surpresa e conselhos ao anúncio de um novo filme da franquia pela Paramount."
+      }
+    }
+  ]
+}

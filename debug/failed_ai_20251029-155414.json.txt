@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Buck Rogers: Herói Lendário da Ficção Científica Ganha Novo Filme",
+  "conteudo_final": "<p>Um dos heróis mais lendários da ficção científica do século XX está de volta às telonas. <b>Buck Rogers</b> ganhará uma nova adaptação cinematográfica pela Legendary Pictures. Zeb Wells, roteirista do recente sucesso de terror animado da Marvel, <i>Marvel Zombies</i>, foi escalado para escrever o roteiro.</p><p>Segundo relatos, a Legendary pretende relançar o personagem como uma franquia multimídia, com uma série live-action e uma série de anime derivadas do filme. Wells é um nome conhecido nos gêneros de ficção científica e super-heróis. Ele escreveu e dirigiu para a série animada do Adult Swim, <i>Robot Chicken</i>, e co-criou a série exclusiva do Crackle, <i>SuperMansion</i>. Ele também contribuiu extensivamente para a Marvel Comics, incluindo uma passagem recente por <i>Amazing Spider-Man</i> e a história principal em <i>Deadpool/Batman</i>, a primeira parceria entre Marvel e DC em décadas. Suas contribuições para o MCU incluem roteiros para filmes como <i>Thor: Love and Thunder</i>, <i>The Marvels</i> e <i>Deadpool & Wolverine</i>.</p><h2>Quem é Buck Rogers?</h2><p>Criado por Philip Francis Nowlan e Dick Calkin em sua própria tira de jornal homônima em 1929, Buck Rogers é um veterano da Primeira Guerra Mundial que, ao investigar uma mina perto de Pittsburgh, ficou preso em um desabamento. Colocado em animação suspensa, ele foi revivido 500 anos depois, no século 25. Como um homem fora de seu tempo, ele logo se vê envolvido em uma guerra futurista ao lado da lutadora pela liberdade Wilma Deering. A tira, fortemente inspirada nos romances de John Carter de Edgar Rice Burroughs, foi enormemente popular e influente, inspirando imitadores como <b>Flash Gordon</b>. O personagem chegou pela primeira vez às telas em 1939 em um seriado de 12 partes, estrelado pelo famoso atleta olímpico Buster Crabbe. O seriado de Buck Rogers foi influente para George Lucas, cuja criação mais bem-sucedida levou ao renascimento de Buck Rogers. Na febre de ficção científica que se seguiu a Star Wars, a NBC lançou <i>Buck Rogers no Século 25</i>, uma série live-action em horário nobre. Estrelada por Gil Gerard como Rogers, Erin Gray como Deering e Mel Blanc como a voz de seu parceiro robô Twiki, a série durou apenas duas temporadas, mas se tornou um cult favorite.</p><p>Houve inúmeras tentativas de reviver Buck Rogers de seu longo sono. Frank Miller trabalhou em uma adaptação antes do fracasso crítico e comercial de <i>The Spirit</i>. Mais recentemente, Brian K. Vaughan estava desenvolvendo uma série de TV de Buck Rogers que teve George Clooney associado em um momento.</p><p>Um novo filme de Buck Rogers está em desenvolvimento na Legendary Pictures. Fique ligado para mais atualizações.</p><figure><img src=\"https:
+  "meta_description": "Buck Rogers, icônico herói da ficção científica, ganhará um reboot cinematográfico pela Legendary Pictures com roteiro de Zeb Wells. Saiba mais!",
+  "focus_keyphrase": "Buck Rogers",
+  "related_keyphrases": [
+    "reboot Buck Rogers",
+    "Zeb Wells",
+    "Legendary Pictures"
+  ],
+  "slug": "buck-rogers-novo-filme",
+  "categorias": [
+    {
+      "nome": "Buck Rogers",
+      "grupo": "franquias",
+      "evidence": "Buck Rogers is getting a big-screen reboot"
+    },
+    {
+      "nome": "Marvel Zombies",
+      "grupo": "obras",
+      "evidence": "Marvel Zombies"
+    },
+    {
+      "nome": "Legendary Pictures",
+      "grupo": "editorias",
+      "evidence": "Legendary Pictures"
+    }
+  ],
+  "tags_sugeridas": [
+    "buck rogers",
+    "ficção científica",
+    "zeb wells",
+    "legendary pictures",
+    "filme",
+    "reboot",
+    "flash gordon"
+  ],
+  "image_alt_texts": {
+    "buck-rogers-nbc.png": "Buck Rogers em uma cena da série de TV.",
+    "0317596_poster_w780.jpg": "Pôster do filme Buck Rogers."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Buck Rogers: Herói Lendário da Ficção Científica Ganha Novo Filme | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Buck Rogers, icônico herói da ficção científica, ganhará um reboot cinematográfico pela Legendary Pictures com roteiro de Zeb Wells. Saiba mais!",
+    "_yoast_wpseo_focuskw": "Buck Rogers",
+    "_yoast_news_keywords": "Buck Rogers, ficção científica, Zeb Wells, Legendary Pictures, Marvel Zombies, Flash Gordon, Buster Crabbe",
+    "_yoast_wpseo_opengraph-title": "Buck Rogers: Herói Lendário da Ficção Científica Ganha Novo Filme",
+    "_yoast_wpseo_opengraph-description": "Um dos heróis mais lendários da ficção científica do século XX está de volta às telonas. Buck Rogers ganhará uma nova adaptação cinematográfica pela Legendary Pictures.",
+    "_yoast_wpseo_twitter-title": "Buck Rogers: Herói Lendário da Ficção Científica Ganha Novo Filme",
+    "_yoast_wpseo_twitter-description": "Um dos heróis mais lendários da ficção científica do século XX está de volta às telonas. Buck Rogers ganhará uma nova adaptação cinematográfica pela Legendary Pictures."
+  }
+}

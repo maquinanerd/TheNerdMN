@@ -1,0 +1,153 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Materialists: Comédia romântica com Chris Evans chega ao streaming em novembro",
+      "conteudo_final": "<p>O filme <b>Materialists</b>, estrelado por Dakota Johnson, Chris Evans e Pedro Pascal, que arrecadou US$ 104 milhões mundialmente neste ano, está prestes a chegar ao streaming. Dirigido e escrito por Celine Song, conhecida por <em>Past Lives</em>, o longa-metragem da A24 estreia exclusivamente na HBO Max em 7 de novembro.</p><p>Após seu lançamento em VOD, a chegada de <em>Materialists</em> à plataforma de streaming visa consolidar ainda mais o filme como uma entrada moderna e não convencional no gênero de comédia romântica, demonstrando a contínua influência de Celine Song no cinema.</p><figure><picture><source srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/01717507_poster_w780.jpg?q=49&amp;fit=contain&amp;w=300&amp;dpr=2\" media=\"(max-width: 480px)\"/><source srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/01717507_poster_w780.jpg?q=70&amp;fit=contain&amp;w=400&amp;dpr=1\" media=\"(max-width: 767px)\"/><source srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/01717507_poster_w780.jpg?q=49&amp;fit=contain&amp;w=320&amp;dpr=2\" media=\"(max-width: 1023px)\"/><img alt=\"Pôster do filme Materialists com Dakota Johnson e Chris Evans.\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/01717507_poster_w780.jpg?q=70&amp;fit=contain&amp;w=480&amp;dpr=1\"/></picture><figcaption>Pôster do filme Materialists.</figcaption></figure><p>O filme recebeu uma classificação R e se enquadra nos gêneros de romance e drama. A produção conta com Dakota Johnson interpretando Lucy e Chris Evans como John.</p>",
+      "meta_description": "Materialists, com Chris Evans e Dakota Johnson, chega à HBO Max em novembro após sucesso de bilheteria. Saiba mais sobre o novo romance.",
+      "focus_keyphrase": "Materialists Chris Evans streaming",
+      "related_keyphrases": [
+        "Materialists HBO Max",
+        "Dakota Johnson filme novo",
+        "comédia romântica 2025"
+      ],
+      "slug": "materialists-chris-evans-streaming-novembro",
+      "categorias": [
+        {
+          "nome": "Materialists",
+          "grupo": "obras",
+          "evidence": "<strong><em>Materialists</em></strong>, starring Dakota Johnson, Chris Evans, and Pedro Pascal, grossed $104 million at the worldwide box office this year and is the second directorial feature from writer-director Celine Song, of <em>Past Lives</em> fame."
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "editorias",
+          "evidence": "<strong>A24 has announced that <em>Materialists</em> will be available to stream exclusively on HBO Max from November 7.</strong>"
+        },
+        {
+          "nome": "Romance",
+          "grupo": "generos",
+          "evidence": "<a class=\"dc-movie-genre no-bg\" href=\"/tag/romance/\" target=\"_blank\">\n<div class=\"dc-movie-genre-text\">\n\t\t\t\t\tRomance\n\t\t\t\t</div>\n</a>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Materialists",
+        "Chris Evans",
+        "Dakota Johnson",
+        "Celine Song",
+        "HBO Max",
+        "A24"
+      ],
+      "image_alt_texts": {
+        "01717507_poster_w780.jpg": "Pôster do filme Materialists com Dakota Johnson e Chris Evans."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Materialists: Chris Evans em streaming na HBO Max em novembro | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Materialists, com Chris Evans e Dakota Johnson, chega à HBO Max em novembro após sucesso de bilheteria. Saiba mais sobre o novo romance.",
+        "_yoast_wpseo_focuskw": "Materialists Chris Evans streaming",
+        "_yoast_news_keywords": "Materialists, Chris Evans, Dakota Johnson, Celine Song, HBO Max, A24, Romance",
+        "_yoast_wpseo_opengraph-title": "Materialists: Chris Evans em streaming na HBO Max em novembro",
+        "_yoast_wpseo_opengraph-description": "O filme estrelado por Chris Evans e Dakota Johnson chega à HBO Max em novembro, após um bom desempenho nas bilheterias.",
+        "_yoast_wpseo_twitter-title": "Materialists: Chris Evans em streaming na HBO Max em novembro",
+        "_yoast_wpseo_twitter-description": "O filme estrelado por Chris Evans e Dakota Johnson chega à HBO Max em novembro, após um bom desempenho nas bilheterias."
+      }
+    },
+    {
+      "titulo_final": "Constantine 2: James Gunn revela novidades sobre a sequência aguardada",
+      "conteudo_final": "<p>O futuro de <b>Constantine 2</b> parece cada vez mais promissor. Novas declarações de James Gunn, chefe da DC Studios, indicam que o projeto está mais próximo de se concretizar, animando os fãs do icônico anti-herói.</p><p>Embora o novo DCU esteja focado em sua linha principal, projetos alternativos, como <em>The Batman 2</em>, continuam em desenvolvimento. <em>Constantine 2</em> se encaixa nessa categoria de filmes que exploram universos paralelos, mas sua produção enfrentou um longo período de incertezas.</p><div class=\"body-img landscape mobile-optimized\"><div class=\"responsive-img image-expandable img-article-item\" data-img-caption='\"\"' data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/keanu-reeves-constantine-saving-someone-in-the-dc-movie.jpg\" data-modal-container-id=\"single-image-modal-container\" data-modal-id=\"single-image-modal\" style=\"padding-bottom:50%\"><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/keanu-reeves-constantine-saving-someone-in-the-dc-movie.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/keanu-reeves-constantine-saving-someone-in-the-dc-movie.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/keanu-reeves-constantine-saving-someone-in-the-dc-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\"/><img alt=\"Keanu Reeves como Constantine em cena de ação no filme da DC.\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/keanu-reeves-constantine-saving-someone-in-the-dc-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"826\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/keanu-reeves-constantine-saving-someone-in-the-dc-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Keanu Reeves como Constantine em cena de ação.</figcaption></figure></div></div><h2>James Gunn confirma conversas com Keanu Reeves</h2><p>Em entrevista, James Gunn revelou ter discutido o projeto com Keanu Reeves, destacando o talento da equipe envolvida. Embora ainda não haja um roteiro finalizado, a declaração sugere um avanço significativo, com a possibilidade de o roteiro ser o último passo para a aprovação.</p><blockquote><p>“Eu discuti isso com Keanu. Então, sim – acho que eles são um ótimo grupo de caras, gosto muito de todas essas pessoas. Acho que eles são talentosos, mas ainda não li um roteiro.”</p></blockquote><p>Essa proximidade indica que <em>Constantine 2</em> pode estar mais perto do que se imaginava, dependendo agora da qualidade do roteiro apresentado.</p><h2>Produção de Constantine 2 enfrenta longo desenvolvimento</h2><p>O filme original de 2005, <em>Constantine</em>, conquistou um público fiel, mas sua recepção inicial não o colocou em destaque. O longo período de desenvolvimento da sequência, que pode chegar mais de duas décadas após o original, é atribuído a diversas mudanças no cenário da DC e a fatores externos, como a pandemia e greves de roteiristas.</p><div class=\"body-img landscape mobile-optimized\"><div class=\"responsive-img image-expandable img-article-item\" data-img-caption='\"Image via Warner Bros.\"' data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/keanu-reeves-as-constantine.jpg\" data-modal-container-id=\"single-image-modal-container\" data-modal-id=\"single-image-modal\" style=\"padding-bottom:50%\"><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/keanu-reeves-as-constantine.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/keanu-reeves-as-constantine.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/keanu-reeves-as-constantine.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\"/><img alt=\"Keanu Reeves como Constantine em ambiente sombrio.\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/keanu-reeves-as-constantine.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"826\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/keanu-reeves-as-constantine.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Keanu Reeves em cena como Constantine.</figcaption><small class=\"body-img-caption\">Image via Warner Bros.</small></figure></div></div><p>Apesar das dificuldades, o retorno de Keanu Reeves como John Constantine pode ser ainda mais emocionante devido ao longo caminho percorrido.</p>",
+      "meta_description": "James Gunn traz novidades sobre Constantine 2, indicando que o filme está mais perto de sair. Saiba mais sobre o futuro do anti-herói da DC.",
+      "focus_keyphrase": "Constantine 2 James Gunn DCU",
+      "related_keyphrases": [
+        "Keanu Reeves Constantine",
+        "DC Studios novidades",
+        "filmes DC Elseworlds"
+      ],
+      "slug": "constantine-2-james-gunn-dcu",
+      "categorias": [
+        {
+          "nome": "Constantine 2",
+          "grupo": "obras",
+          "evidence": "<strong><em>Constantine 2</em></strong>, since this is one of the most exciting Elseworlds prospects project-wise."
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "James Gunn's latest update about Constantine 2 means The Movie Is Just One Solid Script Away From Success"
+        },
+        {
+          "nome": "Keanu Reeves",
+          "grupo": "pessoas",
+          "evidence": "James Gunn delved into the landscape of the DCU and its alternate universe Elseworlds releases - which naturally included a discussion about <em>Constantine 2</em>, since this is one of the most exciting Elseworlds prospects project-wise."
+        }
+      ],
+      "tags_sugeridas": [
+        "Constantine 2",
+        "James Gunn",
+        "DC Studios",
+        "Keanu Reeves",
+        "DCU",
+        "Elseworlds"
+      ],
+      "image_alt_texts": {
+        "keanu-reeves-constantine-saving-someone-in-the-dc-movie.jpg": "Keanu Reeves como Constantine em cena de ação no filme da DC.",
+        "keanu-reeves-as-constantine.jpg": "Keanu Reeves como Constantine em ambiente sombrio."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Constantine 2: James Gunn revela novidades sobre sequência aguardada | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "James Gunn traz novidades sobre Constantine 2, indicando que o filme está mais perto de sair. Saiba mais sobre o futuro do anti-herói da DC.",
+        "_yoast_wpseo_focuskw": "Constantine 2 James Gunn DCU",
+        "_yoast_news_keywords": "Constantine 2, James Gunn, DC Studios, Keanu Reeves, DCU, Elseworlds",
+        "_yoast_wpseo_opengraph-title": "Constantine 2: James Gunn revela novidades sobre sequência aguardada",
+        "_yoast_wpseo_opengraph-description": "Novas declarações de James Gunn sobre Constantine 2 indicam que o filme está mais perto de se tornar realidade.",
+        "_yoast_wpseo_twitter-title": "Constantine 2: James Gunn revela novidades sobre sequência aguardada",
+        "_yoast_wpseo_twitter-description": "Novas declarações de James Gunn sobre Constantine 2 indicam que o filme está mais perto de se tornar realidade."
+      }
+    },
+    {
+      "titulo_final": "Kyle Chandler e Diane Lane desconfiam da namorada do filho em clipe",
+      "conteudo_final": "<p>Um novo clipe do filme <em>Anniversary</em> revela a tensão familiar que marca a trama. Estrelado por Diane Lane, Kyle Chandler, Phoebe Dynevor e Dylan O'Brien, o thriller promete explorar as complexidades dos relacionamentos em meio a situações de suspense.</p><p>Na cena apresentada, Chandler e Lane, pais do personagem de O'Brien, expressam preocupação com a namorada do filho, interpretada por Dynevor. A dinâmica sugere conflitos e segredos que podem vir à tona.</p>",
+      "meta_description": "Clipe exclusivo de Anniversary mostra Kyle Chandler e Diane Lane desconfiados da namorada do filho. Saiba mais sobre o novo thriller.",
+      "focus_keyphrase": "Anniversary Kyle Chandler Diane Lane",
+      "related_keyphrases": [
+        "filme Anniversary clipe",
+        "Diane Lane Kyle Chandler filme",
+        "thriller familiar 2025"
+      ],
+      "slug": "anniversary-chandler-lane-clipe",
+      "categorias": [
+        {
+          "nome": "Anniversary",
+          "grupo": "obras",
+          "evidence": "Exclusive: ScreenRant presents a clip from Anniversary, a timely thriller starring Diane Lane, Kyle Chandler, Phoebe Dynevor, and Dylan O'Brien."
+        },
+        {
+          "nome": "Diane Lane",
+          "grupo": "pessoas",
+          "evidence": "Exclusive: ScreenRant presents a clip from Anniversary, a timely thriller starring Diane Lane, Kyle Chandler, Phoebe Dynevor, and Dylan O'Brien."
+        },
+        {
+          "nome": "Kyle Chandler",
+          "grupo": "pessoas",
+          "evidence": "Exclusive: ScreenRant presents a clip from Anniversary, a timely thriller starring Diane Lane, Kyle Chandler, Phoebe Dynevor, and Dylan O'Brien."
+        }
+      ],
+      "tags_sugeridas": [
+        "Anniversary",
+        "Kyle Chandler",
+        "Diane Lane",
+        "Phoebe Dynevor",
+        "Dylan O'Brien",
+        "thriller"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Anniversary: Kyle Chandler e Diane Lane desconfiam da namorada do filho | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Clipe exclusivo de Anniversary mostra Kyle Chandler e Diane Lane desconfiados da namorada do filho. Saiba mais sobre o novo thriller.",
+        "_yoast_wpseo_focuskw": "Anniversary Kyle Chandler Diane Lane",
+        "_yoast_news_keywords": "Anniversary, Kyle Chandler, Diane Lane, Phoebe Dynevor, Dylan O'Brien, Thriller",
+        "_yoast_wpseo_opengraph-title": "Anniversary: Kyle Chandler e Diane Lane desconfiam da namorada do filho",
+        "_yoast_wpseo_opengraph-description": "Um clipe exclusivo do filme Anniversary revela a tensão entre Kyle Chandler, Diane Lane e a namorada do filho.",
+        "_yoast_wpseo_twitter-title": "Anniversary: Kyle Chandler e Diane Lane desconfiam da namorada do filho",
+        "_yoast_wpseo_twitter-description": "Um clipe exclusivo do filme Anniversary revela a tensão entre Kyle Chandler, Diane Lane e a namorada do filho."
+      }
+    }
+  ]
+}

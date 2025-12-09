@@ -1,0 +1,96 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "John Carpenter anuncia nova série de terror antológica para a TV",
+      "conteudo_final": "<p>O lendário cineasta de terror <b>John Carpenter</b> está retornando ao gênero com uma nova série antológica intitulada <i>John Carpenter Presents</i>. A produção, criada por Michael Amo e Will Pascoe, promete trazer o icônico diretor de volta ao universo do horror.</p><h2>Sinopse e Ambientação da Série</h2><p>A primeira temporada de <i>John Carpenter Presents</i> terá sua ambientação nas paisagens remotas do Alasca. A trama acompanhará um grupo diversificado de personagens enquanto enfrentam uma mistura aterrorizante de perigos sobrenaturais e existencial. A promessa é de um suspense crescente e terrores que desafiam a compreensão.</p><h2>A Contínua Presença de Carpenter no Horror</h2><p>Embora o último longa-metragem dirigido por John Carpenter tenha sido <i>The Ward</i> em 2010, o mestre do terror não deixou de se envolver com o gênero. Recentemente, ele colaborou na composição das trilhas sonoras para a trilogia de filmes <i>Halloween</i> da Blumhouse, que foi lançada entre 2018 e 2022. Além disso, ele dirigiu o episódio final da série <i>John Carpenter's Suburban Screams</i>, em 2023, onde também atuou como produtor executivo.</p><p>A nova série antológica marca mais um capítulo na prolífica carreira de Carpenter, consolidando seu legado como um dos maiores nomes do cinema de terror.</p>",
+      "meta_description": "John Carpenter, mestre do terror, retorna com nova série antológica 'John Carpenter Presents'. Saiba mais sobre a produção e suas primeiras informações.",
+      "focus_keyphrase": "John Carpenter nova série de terror",
+      "related_keyphrases": [
+        "John Carpenter Presents",
+        "série antológica de terror",
+        "John Carpenter TV series"
+      ],
+      "slug": "john-carpenter-nova-serie-terror",
+      "categorias": [
+        {
+          "nome": "John Carpenter",
+          "grupo": "franquias",
+          "evidence": "<strong>John Carpenter</strong> is returning to the horror genre."
+        },
+        {
+          "nome": "Halloween",
+          "grupo": "franquias",
+          "evidence": "composer the iconic score for 1978's <em>Halloween</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "John Carpenter",
+        "Terror",
+        "Série de TV",
+        "Série Antológica",
+        "Halloween"
+      ],
+      "image_alt_texts": {
+        "marie-moreau-in-gen-v-season-2.jpg": "John Carpenter em uma imagem promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "John Carpenter anuncia nova série de terror antológica para a TV",
+        "_yoast_wpseo_metadesc": "John Carpenter, mestre do terror, retorna com nova série antológica 'John Carpenter Presents'. Saiba mais sobre a produção e suas primeiras informações.",
+        "_yoast_wpseo_focuskw": "John Carpenter nova série de terror",
+        "_yoast_news_keywords": "John Carpenter, Nova Série, Terror, Série Antológica, Halloween",
+        "_yoast_wpseo_opengraph-title": "John Carpenter anuncia nova série de terror antológica para a TV",
+        "_yoast_wpseo_opengraph-description": "John Carpenter, mestre do terror, retorna com nova série antológica 'John Carpenter Presents'. Saiba mais sobre a produção e suas primeiras informações.",
+        "_yoast_wpseo_twitter-title": "John Carpenter anuncia nova série de terror antológica para a TV",
+        "_yoast_wpseo_twitter-description": "John Carpenter, mestre do terror, retorna com nova série antológica 'John Carpenter Presents'. Saiba mais sobre a produção e suas primeiras informações."
+      }
+    },
+    {
+      "titulo_final": "The Boys: A reviravolta de Marie em Gen V pode prejudicar a franquia",
+      "conteudo_final": "<p>A segunda temporada de <i>Gen V</i> está introduzindo uma guinada sombria para a personagem <b>Marie Moreau</b>. Embora a trajetória atual possa cumprir uma promessa feita pela série, ela representa um risco considerável para o universo de <i>The Boys</i>.</p><h2>O Potencial Sombrio de Marie Moreau</h2><p>Desde o início, Marie se destacou como a protagonista de <i>Gen V</i>, com seus poderes de controle de sangue se mostrando cada vez mais perigosos, comparáveis aos de Victoria Neuman. Após descobrir que foi a única sobrevivente do Projeto Odessa além do próprio Homelander, Marie desvendou uma habilidade de cura que até trouxe sua irmã de volta dos mortos. No entanto, essa jornada a está conduzindo por um caminho preocupante antes do final da temporada.</p><div class=\"body-img landscape mobile-optimized\">\n<div class=\"responsive-img image-expandable img-article-item\" data-img-caption='\"\"' data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg\" data-modal-container-id=\"single-image-modal-container\" data-modal-id=\"single-image-modal\" style=\"padding-bottom:50%\">\n<figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Marie Moreau com expressão séria em Gen V Temporada 2\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"826\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/marie-moreau-in-gen-v-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption style=\"display: none;\">Marie Moreau com expressão séria em Gen V Temporada 2</figcaption></figure>\n</div>\n</div>", "A série <i>Gen V</i> introduziu um lado sombrio em Marie, mostrando-a manipulando os poderes de seus amigos para se impor. Embora ela tenha defendido os supes contra a Vought na primeira temporada, essa nova atitude levanta preocupações sobre seu futuro e sua possível aliança com os 'Boys' na luta contra o Homelander.</p><h2>Impacto na Saga 'The Boys'</h2><p>Se Marie for morta ou corrompida pela escuridão, isso eliminaria sua chance de enfrentar o Homelander na temporada final de <i>The Boys</i>. Embora a derrota do vilão principal possa caber a personagens como Billy Butcher ou Hughie, a participação de Marie como uma aliada poderosa seria crucial. Sua jornada em <i>Gen V</i> a estabeleceu como uma potencial arma secreta contra o líder dos Sete.</p><p>A série <i>Gen V</i> foi criada com a promessa de não ser essencial para entender <i>The Boys</i>, apesar das conexões. Uma guinada sombria ou a morte de Marie poderia ajudar a manter essa promessa, evitando que a temporada final de <i>The Boys</i> dependa excessivamente do spin-off. No entanto, isso também seria decepcionante para os fãs que acompanharam o desenvolvimento da personagem.</p><div class=\"body-img landscape mobile-optimized\">\n<div class=\"responsive-img image-expandable img-article-item\" data-img-caption='\"\"' data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg\" data-modal-container-id=\"single-image-modal-container\" data-modal-id=\"single-image-modal\" style=\"padding-bottom:50%\">\n<figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Anthony Starr como Homelander em The Boys\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"826\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/anthony-starr-as-homelander.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption style=\"display: none;\">Anthony Starr como Homelander em The Boys</figcaption></figure>\n</div>\n</div>", "A reviravolta sombria na jornada de Marie, seja por morte ou corrupção, seria uma forma de manter a promessa original de <i>Gen V</i> sobre sua independência narrativa. Contudo, seria frustrante para os espectadores que acompanharam seu desenvolvimento e esperavam vê-la desempenhar um papel crucial no conflito final da franquia <i>The Boys</i>.</p>",
+      "meta_description": "Descubra como a trajetória sombria de Marie em Gen V pode afetar o futuro de The Boys, levantando questões sobre seu papel no confronto final contra Homelander.",
+      "focus_keyphrase": "Marie Moreau Gen V The Boys",
+      "related_keyphrases": [
+        "Gen V Marie sombria",
+        "The Boys temporada 5",
+        "Marie Moreau Homelander"
+      ],
+      "slug": "marie-moreau-gen-v-the-boys",
+      "categorias": [
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "for <em>The Boys</em>' final season."
+        },
+        {
+          "nome": "Gen V",
+          "grupo": "obras",
+          "evidence": "<em>Gen V</em> season 2 story began to take a dark turn"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Boys",
+        "Gen V",
+        "Marie Moreau",
+        "Homelander",
+        "Vought",
+        "Supers"
+      ],
+      "image_alt_texts": {
+        "marie-moreau-in-gen-v-season-2.jpg": "Marie Moreau com expressão séria em Gen V Temporada 2.",
+        "anthony-starr-as-homelander.jpg": "Anthony Starr como Homelander em The Boys.",
+        "jaz-sinclair-as-marie-in-gen-v.jpg": "Jaz Sinclair como Marie em Gen V, com uma expressão preocupada e coberta de sangue.",
+        "marie-moreau-looking-confused-in-gen-v-1.jpg": "Jaz Sinclair como Marie Moreau com uma expressão confusa em Gen V."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Boys: Reviravolta de Marie em Gen V pode prejudicar a franquia",
+        "_yoast_wpseo_metadesc": "Descubra como a trajetória sombria de Marie em Gen V pode afetar o futuro de The Boys, levantando questões sobre seu papel no confronto final contra Homelander.",
+        "_yoast_wpseo_focuskw": "Marie Moreau Gen V The Boys",
+        "_yoast_news_keywords": "Marie Moreau, Gen V, The Boys, Homelander, Vought, Supers, Jaz Sinclair, Antony Starr",
+        "_yoast_wpseo_opengraph-title": "The Boys: Reviravolta de Marie em Gen V pode prejudicar a franquia",
+        "_yoast_wpseo_opengraph-description": "Descubra como a trajetória sombria de Marie em Gen V pode afetar o futuro de The Boys, levantando questões sobre seu papel no confronto final contra Homelander.",
+        "_yoast_wpseo_twitter-title": "The Boys: Reviravolta de Marie em Gen V pode prejudicar a franquia",
+        "_yoast_wpseo_twitter-description": "Descubra como a trajetória sombria de Marie em Gen V pode afetar o futuro de The Boys, levantando questões sobre seu papel no confronto final contra Homelander."
+      }
+    }
+  ]
+}

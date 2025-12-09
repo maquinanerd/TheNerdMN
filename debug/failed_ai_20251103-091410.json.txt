@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Godzilla Minus One 2: Sequência ganha título e teaser oficial",
+      "conteudo_final": "<p>A aguardada sequência de <b>Godzilla Minus One</b>, aclamado filme de monstro de 2023, finalmente revelou seu título oficial e um primeiro vislumbre do teaser. A produção, que conquistou o público e a crítica, promete continuar a saga do icônico kaiju.</p><h2>Godzilla Minus One: O Sucesso Inesperado</h2><p>Lançado em 2023, <b>Godzilla Minus One</b> surpreendeu ao trazer uma abordagem mais dramática e focada nas consequências da Segunda Guerra Mundial no Japão, com o Godzilla servindo como uma metáfora para os traumas da nação. O filme não só foi um sucesso de bilheteria, arrecadando mais de US$ 100 milhões mundialmente com um orçamento modesto, mas também conquistou o Oscar de Melhores Efeitos Visuais, superando produções de grandes estúdios de Hollywood.</p><p>A história acompanha Kōichi Shikishima, um piloto kamikaze que, após sobreviver a um ataque Godzilla, precisa lidar com o peso de suas ações e a devastação deixada pelo monstro em um Japão já fragilizado pela guerra. A narrativa humanizada e os efeitos visuais impressionantes foram pontos altos que ressoaram com o público.</p><h2>O Título da Sequência: Um Presságio Perfeito</h2><p>O novo filme, que ainda não teve seu título divulgado em português, foi anunciado com o título provisório <b>Godzilla Minus Two</b>. Essa escolha de nome sugere uma continuação direta dos eventos do filme anterior, indicando que o Japão, que já estava em uma situação crítica (o "menos um"), pode enfrentar novos desafios ainda mais devastadores. A expectativa é que a nova produção explore ainda mais o impacto do Godzilla na sociedade e na reconstrução do país.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/MjEuaNINye0\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Teaser oficial da sequência de Godzilla Minus One.</figcaption></figure><h2>Expectativas para o Futuro</h2><p>Embora os detalhes sobre a trama e o elenco da sequência ainda sejam escassos, o lançamento do teaser e do título já gerou grande expectativa entre os fãs. A equipe criativa por trás de <b>Godzilla Minus One</b>, incluindo o diretor Takashi Yamazaki, deve retornar para dar continuidade a essa visão única do Rei dos Monstros. A nova produção tem o desafio de manter o alto nível de qualidade e a profundidade emocional que consagraram o filme anterior, solidificando ainda mais o legado de Godzilla no cinema.</p>",
+      "meta_description": "Sequência de Godzilla Minus One ganha título oficial, Godzilla Minus Two, e teaser. Filme de 2023 vencedor do Oscar promete novas ameaças.",
+      "focus_keyphrase": "Godzilla Minus One",
+      "related_keyphrases": [
+        "Godzilla Minus Two",
+        "filme de monstro",
+        "Takashi Yamazaki"
+      ],
+      "slug": "godzilla-minus-one-sequencia-titulo-teaser",
+      "categorias": [
+        {
+          "nome": "Godzilla Minus One",
+          "grupo": "obras",
+          "evidence": "Godzilla Minus One Finally Drops First Look Teaser for Sequel (And It Has the Perfect Title)"
+        },
+        {
+          "nome": "Movies",
+          "grupo": "editorias",
+          "evidence": "Movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "godzilla",
+        "godzilla minus one",
+        "godzilla minus two",
+        "kaiju",
+        "takashi yamazaki",
+        "filmes de monstro",
+        "cinema japonês"
+      ],
+      "image_alt_texts": {
+        "MjEuaNINye0": "Teaser oficial da sequência de Godzilla Minus One, mostrando o monstro e o título Godzilla Minus Two."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Godzilla Minus One 2: Sequência ganha título e teaser oficial | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Sequência de Godzilla Minus One ganha título oficial, Godzilla Minus Two, e teaser. Filme de 2023 vencedor do Oscar promete novas ameaças.",
+        "_yoast_wpseo_focuskw": "Godzilla Minus One",
+        "_yoast_news_keywords": "Godzilla Minus One, Godzilla Minus Two, Takashi Yamazaki, Toho, Kaiju, Filmes de Monstro, Cinema Japonês",
+        "_yoast_wpseo_opengraph-title": "Godzilla Minus One 2: Sequência ganha título e teaser oficial",
+        "_yoast_wpseo_opengraph-description": "Sequência de Godzilla Minus One ganha título oficial, Godzilla Minus Two, e teaser. Filme de 2023 vencedor do Oscar promete novas ameaças.",
+        "_yoast_wpseo_twitter-title": "Godzilla Minus One 2: Sequência ganha título e teaser oficial",
+        "_yoast_wpseo_twitter-description": "Sequência de Godzilla Minus One ganha título oficial, Godzilla Minus Two, e teaser. Filme de 2023 vencedor do Oscar promete novas ameaças."
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "titulo_final": "A Thousand Blows: Trailer da 2ª Temporada Mostra Stephen Graham em Perigo",
+  "conteudo_final": "<p>O trailer da segunda temporada de <strong><em>A Thousand Blows</em></strong> sugere uma provação de fogo para Sugar Goodson, personagem de Stephen Graham. A nova temporada da série, que substitui <strong><a href=\"https:
+  "meta_description": "Assista ao trailer da 2ª temporada de A Thousand Blows e veja Stephen Graham em perigo. A substituta de Peaky Blinders na Hulu promete muita ação.",
+  "focus_keyphrase": "A Thousand Blows 2ª temporada trailer",
+  "related_keyphrases": [
+    "A Thousand Blows Stephen Graham",
+    "Série substituta Peaky Blinders",
+    "Hulu novas séries"
+  ],
+  "slug": "a-thousand-blows-trailer-temporada-2",
+  "categorias": [
+    {
+      "nome": "A Thousand Blows",
+      "grupo": "obras",
+      "evidence": "<em>A Thousand Blows</em> season 2 teaser trailer hints at a fiery ordeal for Stephen Graham's Sugar Goodson."
+    },
+    {
+      "nome": "Peaky Blinders",
+      "grupo": "obras",
+      "evidence": "Per Hulu, the teaser sees the East End's illegal bare-knuckle boxing kingpin seemingly gathering friends and enemies alike, and trying to unite them against a common danger. Meanwhile, Hezekiah Moscow and Forty Elephants leader Mary Carr appear to have plans of their own, with the former starting a fire that could have devastating consequences."
+    }
+  ],
+  "tags_sugeridas": [
+    "A Thousand Blows",
+    "Stephen Graham",
+    "Steven Knight",
+    "Peaky Blinders",
+    "Hulu",
+    "Séries de TV"
+  ],
+  "image_alt_texts": {
+    "original-image-name.jpg": "Stephen Graham como Sugar Goodson em cena de perigo na 2ª temporada de A Thousand Blows."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "A Thousand Blows: Trailer da 2ª Temporada Revela Perigo para Stephen Graham",
+    "_yoast_wpseo_metadesc": "Assista ao trailer da 2ª temporada de A Thousand Blows e veja Stephen Graham em perigo. A substituta de Peaky Blinders na Hulu promete muita ação.",
+    "_yoast_wpseo_focuskw": "A Thousand Blows 2ª temporada trailer",
+    "_yoast_news_keywords": "A Thousand Blows, Stephen Graham, Sugar Goodson, Steven Knight, Peaky Blinders, Hulu, Séries de TV, Boxe",
+    "_yoast_wpseo_opengraph-title": "A Thousand Blows: Trailer da 2ª Temporada Revela Perigo para Stephen Graham",
+    "_yoast_wpseo_opengraph-description": "A segunda temporada de A Thousand Blows chega com um trailer eletrizante que mostra Stephen Graham em uma situação de risco, confirmando a promessa de ação intensa.",
+    "_yoast_wpseo_twitter-title": "A Thousand Blows: Trailer da 2ª Temporada Revela Perigo para Stephen Graham",
+    "_yoast_wpseo_twitter-description": "A série que substitui Peaky Blinders na Hulu ganha novo trailer com Stephen Graham em apuros. Confira os detalhes!"
+  }
+}

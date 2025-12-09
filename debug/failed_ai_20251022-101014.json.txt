@@ -1,0 +1,91 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Harry Potter: Bill Nighy e mais estrelas se juntam à nova adaptação de áudio",
+      "conteudo_final": "<p>Fãs de <b>Harry Potter</b> recebem novidades com o anúncio de novas adições ao elenco de mais de 200 nomes da adaptação completa em áudio, <b>Harry Potter: The Full-Cast Audio Editions</b>. Produzida pela Pottermore Publishing e Audible, a série promete uma experiência sonora imersiva.</p><h2>Novos Talentos na Adaptação de Harry Potter</h2><p>Entre os novos nomes confirmados estão <b>Bill Nighy</b>, que dará voz ao Professor Slughorn, um retorno ao universo bruxo após interpretar Rufus Scrimgeour nos filmes. <b>Ṣọpẹ́ Dìrísù</b> será Sirius Black, <b>Anna Maxwell Martin</b> assume como Rita Skeeter, e <b>Saoirse-Monica Jackson</b> interpretará a Professora Trelawney. <b>Mackenzie Crook</b> será Dobby, <b>Stephen Mangan</b> dará vida a Nick Quase Sem Cabeça, e <b>Tracy-Ann Oberman</b> será a Professora Hooch. Um detalhe especial é David Holmes, dublê de Harry Potter nos filmes, que agora emprestará sua voz a Stan Shunpike, o condutor do Nôitibus Andante.</p><p>Bill Nighy expressou sua satisfação em retornar ao universo de Harry Potter, comentando sobre a novidade: “Fiquei feliz com o convite para interpretar o Professor, depois de já ter sido um Ministro da Magia. Será que sou o único ator que pode reivindicar essa conquista? Isso significa que minha carreira continua tendo significado para as próximas gerações.”</p><p>David Holmes descreveu a experiência como um momento de “círculo completo”, afirmando: “Estou incrivelmente feliz e honrado em dar voz a Stan Shunpike no vindouro audiolivro de Harry Potter com elenco completo da Pottermore e Audible. Fazer parte disso é um verdadeiro círculo completo para mim, considerando que fui o dublê de Harry no Nôitibus Andante… Espero que todos gostem da minha performance – ingressos, por favor!”</p><h2>Elenco Completo da Nova Adaptação de Harry Potter</h2><p>O novo elenco se soma a nomes já anunciados, como <b>Hugh Laurie</b> como Alvo Dumbledore, <b>Matthew Macfadyen</b> como Lord Voldemort, <b>Riz Ahmed</b> como Professor Snape, e <b>Cush Jumbo</b> como narradora. <b>Kit Harington</b> dará vida a Gilderoy Lockhart, <b>Keira Knightley</b> interpretará Dolores Umbridge, <b>Iwan Rheon</b> será Remus Lupin, e <b>Ruth Wilson</b> viverá Bellatrix Lestrange. Completam a lista <b>Gemma Whelan</b> como Professora Sprout e <b>Mark Addy</b> como Hagrid.</p><p>Estrelas em ascensão como Frankie Treadaway, Max Lester e Arabella Stanton darão vida a Harry, Ron e Hermione nos três primeiros audiolivros. Jaxon Knopf, Rhys Mulligan e Nina Barker-Francis assumirão os papéis nos quatro livros seguintes. A produção também anunciou Millie Gubby como Luna Lovegood, Jude Farrant e Maximus Evans dividindo o papel de Draco Malfoy, e Jake Sigsworth e Archie Mountain alternando como Neville Longbottom nas sete adaptações.</p><h2>Calendário de Lançamento dos Audiolivros de Harry Potter</h2><p>A série completa em áudio de <b>Harry Potter</b> começa com <b>Harry Potter e a Pedra Filosofal</b>, com lançamento previsto para 4 de novembro de 2025. Os lançamentos seguintes ocorrerão mensalmente:</p><ul><li>Câmara Secreta — 16 de dezembro de 2025</li><li>Prisioneiro de Azkaban — 13 de janeiro de 2026</li><li>Cálice de Fogo — 10 de fevereiro de 2026</li><li>Ordem da Fênix — 10 de março de 2026</li><li>Enigma do Príncipe — 14 de abril de 2026</li><li>Relíquias da Morte — 12 de maio de 2026</li></ul><p>A produção visa proporcionar uma experiência auditiva inédita para os fãs, combinando vozes conhecidas e novos talentos para reviver a magia do universo de J.K. Rowling. As pré-vendas para <b>Harry Potter: The Full-Cast Audio Editions</b> já estão disponíveis na Audible.</p><figure><img src="https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/harry-potter-updated-2026-tv-show-teaser-poster.jpg" alt="Pôster da série de TV de Harry Potter com lançamento previsto para 2026"><figcaption>Pôster teaser de uma nova adaptação de Harry Potter.</figcaption></figure>",
+      "meta_description": "Bill Nighy, Saoirse-Monica Jackson e mais astros se juntam à adaptação completa em áudio de Harry Potter. Confira o elenco e o calendário de lançamentos.",
+      "focus_keyphrase": "adaptação de áudio Harry Potter",
+      "related_keyphrases": [
+        "Harry Potter audiolivro",
+        "Bill Nighy Harry Potter",
+        "Pottermore Publishing"
+      ],
+      "slug": "harry-potter-adaptacao-audio-elenco",
+      "categorias": [
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "Harry Potter fans are in for a treat as Pottermore Publishing and Audible have revealed new additions to the massive 200+ member cast of Harry Potter: The Full-Cast Audio Editions."
+        }
+      ],
+      "tags_sugeridas": [
+        "Harry Potter",
+        "Audiolivro",
+        "Bill Nighy",
+        "Saoirse-Monica Jackson",
+        "Pottermore Publishing",
+        "Audible"
+      ],
+      "image_alt_texts": {
+        "harry-potter-updated-2026-tv-show-teaser-poster.jpg": "Pôster teaser de uma nova adaptação de Harry Potter com lançamento previsto para 2026."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Harry Potter: Bill Nighy e mais astros em nova adaptação de áudio",
+        "_yoast_wpseo_metadesc": "Bill Nighy, Saoirse-Monica Jackson e mais astros se juntam à adaptação completa em áudio de Harry Potter. Confira o elenco e o calendário de lançamentos.",
+        "_yoast_wpseo_focuskw": "adaptação de áudio Harry Potter",
+        "_yoast_news_keywords": "Harry Potter, Audiolivro, Bill Nighy, Saoirse-Monica Jackson, Pottermore Publishing, Audible, J.K. Rowling",
+        "_yoast_wpseo_opengraph-title": "Harry Potter: Bill Nighy e mais astros se juntam à nova adaptação de áudio",
+        "_yoast_wpseo_opengraph-description": "Fãs de Harry Potter recebem novidades com o anúncio de novas adições ao elenco de mais de 200 nomes da adaptação completa em áudio, Harry Potter: The Full-Cast Audio Editions. Produzida pela Pottermore Publishing e Audible, a série promete uma experiência sonora imersiva.",
+        "_yoast_wpseo_twitter-title": "Harry Potter: Bill Nighy e mais astros em nova adaptação de áudio",
+        "_yoast_wpseo_twitter-description": "Fãs de Harry Potter recebem novidades com o anúncio de novas adições ao elenco de mais de 200 nomes da adaptação completa em áudio, Harry Potter: The Full-Cast Audio Editions. Produzida pela Pottermore Publishing e Audible, a série promete uma experiência sonora imersiva."
+      }
+    },
+    {
+      "titulo_final": "Ip Man: Franquia de ação completa chega ao streaming do Hulu",
+      "conteudo_final": "<p>A aclamada franquia de ação <b>Ip Man</b>, estrelada por <b>Donnie Yen</b>, aterrissou no catálogo do Hulu, disponibilizando todos os cinco filmes para os assinantes. A saga do mestre de artes marciais que treinou Bruce Lee se consolidou como uma das séries de ação mais bem-sucedidas, com uma bilheteria global superior a US$ 426 milhões.</p><h2>Ip Man Completa a Lista de Ação do Hulu</h2><p>A partir de outubro, o Hulu adicionou integralmente a saga <b>Ip Man</b>, incluindo os quatro filmes principais e o spin-off de 2018, <b>Master Z: The Ip Man Legacy</b>. Os assinantes agora podem maratonar <b>Ip Man</b>, <b>Ip Man 2</b>, <b>Ip Man 3</b>, <b>Master Z: The Ip Man Legacy</b> e <b>Ip Man 4: The Finale</b>, preferencialmente na ordem de lançamento.</p><p>Donnie Yen, conhecido por seus papéis em <b>Rogue One</b> e <b>John Wick 4</b>, retorna como o icônico personagem. A chegada da franquia ao serviço de streaming é uma oportunidade imperdível para os fãs de ação que ainda não exploraram essa aclamada série cinematográfica.</p><h2>Mais Filmes de Ip Man Estão a Caminho</h2><p>Apesar de <b>Ip Man 4: The Finale</b> ter sido apresentado como o encerramento da história principal, o universo <b>Ip Man</b> continua a expandir. Relatos indicam o desenvolvimento de um novo filme prequel de <b>Master Z</b>, com a possível volta de Max Zhang, estrela do primeiro filme.</p><p>Mais concretamente, uma quinta instalação da franquia principal com <b>Donnie Yen</b> está confirmada. A Mandarin Motion Pictures anunciou <b>Ip Man 5</b> no Festival de Cannes em 2023, e o próprio Yen confirmou seu envolvimento no projeto, garantindo a continuidade da saga para os fãs.</p><h2>Outras Novidades no Hulu</h2><p>Além da adição da franquia <b>Ip Man</b>, o Hulu reforça seu catálogo em novembro com diversos títulos populares. Entre os lançamentos, destacam-se:</p><ul><li><b>13 Going on 30</b></li><li><b>A Knight's Tale</b></li><li><b>Casino</b></li><li><b>The Color Purple (2023)</b></li><li><b>Eragon</b></li><li><b>Love Actually</b></li><li><b>The Princess Bride</b></li></ul><p>A lista completa de novidades do Hulu para novembro inclui também séries e outros filmes, oferecendo um leque variado de opções de entretenimento para seus assinantes.</p><figure><img src="https://comicbook.com/wp-content/uploads/sites/4/2025/09/The-Sims-4-Laundry-List-Image-for-Quality-of-Life-Roadmap.jpg?w=300" alt="Imagem promocional de The Sims 4 com a temática de Lista de Tarefas."><figcaption>O Hulu adicionou a franquia Ip Man e diversos outros filmes em outubro.</figcaption></figure><figure><img src="https://comicbook.com/wp-content/uploads/sites/4/2025/10/Army-in-Dune-Part-Two.jpg?w=300" alt="Arte conceitual de exército em cena do filme Duna: Parte Dois."><figcaption>O catálogo do Hulu foi atualizado com novos filmes de ação e outros gêneros.</figcaption></figure><figure><img src="https://comicbook.com/wp-content/uploads/sites/4/2025/10/Battlestar-Galactica-33.jpg?w=300" alt="Imagem promocional da série Battlestar Galactica 33."><figcaption>Fãs de artes marciais celebram a chegada da saga Ip Man ao Hulu.</figcaption></figure>",
+      "meta_description": "A franquia completa de Ip Man, com Donnie Yen, está agora disponível no Hulu. Saiba mais sobre a chegada dos filmes e as novidades futuras.",
+      "focus_keyphrase": "franquia Ip Man Hulu",
+      "related_keyphrases": [
+        "Donnie Yen filmes",
+        "streaming de ação",
+        "Ip Man 5"
+      ],
+      "slug": "ip-man-franquia-hulu-streaming",
+      "categorias": [
+        {
+          "nome": "Ip Man",
+          "grupo": "franquias",
+          "evidence": "The Ip Man franchise, starring screen legend Donnie Yen"
+        },
+        {
+          "nome": "Hulu",
+          "grupo": "editorias",
+          "evidence": "Hulu added all five entries in that iconic action saga to its streaming lineup"
+        }
+      ],
+      "tags_sugeridas": [
+        "Ip Man",
+        "Donnie Yen",
+        "Hulu",
+        "Artes Marciais",
+        "Filmes de Ação",
+        "Streaming"
+      ],
+      "image_alt_texts": {
+        "The-Sims-4-Laundry-List-Image-for-Quality-of-Life-Roadmap.jpg": "Imagem promocional de The Sims 4 com a temática de Lista de Tarefas.",
+        "Army-in-Dune-Part-Two.jpg": "Arte conceitual de exército em cena do filme Duna: Parte Dois.",
+        "Battlestar-Galactica-33.jpg": "Imagem promocional da série Battlestar Galactica 33."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ip Man: Franquia completa de ação chega ao streaming do Hulu",
+        "_yoast_wpseo_metadesc": "A franquia completa de Ip Man, com Donnie Yen, está agora disponível no Hulu. Saiba mais sobre a chegada dos filmes e as novidades futuras.",
+        "_yoast_wpseo_focuskw": "franquia Ip Man Hulu",
+        "_yoast_news_keywords": "Ip Man, Donnie Yen, Hulu, Artes Marciais, Filmes de Ação, Streaming, Master Z",
+        "_yoast_wpseo_opengraph-title": "Ip Man: Franquia de ação completa chega ao streaming do Hulu",
+        "_yoast_wpseo_opengraph-description": "A franquia de ação Ip Man, estrelada por Donnie Yen, agora está disponível no Hulu. Saiba mais sobre os filmes já lançados e as futuras continuações.",
+        "_yoast_wpseo_twitter-title": "Ip Man: Franquia de ação completa chega ao streaming do Hulu",
+        "_yoast_wpseo_twitter-description": "A franquia de ação Ip Man, estrelada por Donnie Yen, agora está disponível no Hulu. Saiba mais sobre os filmes já lançados e as futuras continuações."
+      }
+    }
+  ]
+}

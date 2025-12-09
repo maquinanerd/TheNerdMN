@@ -1,0 +1,75 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Romances de TV mais cativantes que Nobody Wants This",
+      "conteudo_final": "<p>A segunda temporada de <em>Nobody Wants This</em> gerou reações mistas, diferente do burburinho da primeira. Muitas vezes, os melhores romances de comédia romântica são filmes, não séries, pois manter um relacionamento fictício com poucos obstáculos pode se tornar tedioso, enquanto barreiras excessivas afastam o espectador.</p><p>A química entre Joanne e Noah foi inconstante, e o final da segunda temporada de <em>Nobody Wants This</em> foi um eco do final da primeira, com os mesmos pontos e conclusões. Se a comédia de Kristen Bell decepcionou, felizmente existem outras séries com relacionamentos mais fortes e satisfatórios.</p><h2>Fleabag (2016-2019): O Padre e Fleabag</h2><p>O relacionamento de <em>Fleabag</em> com o Padre Sedutor captura a mesma química intensa que Noah e Joanne tiveram na primeira temporada de <em>Nobody Wants That</em>, mas é ainda mais envolvente por ser definido pelo desejo e não pela realização. As apostas parecem mais altas: um padre não pode namorar, tornando cada olhar, toque e confissão carregados de uma tensão impossível.</p><div class=\"body-img landscape mobile-optimized\"><figure><img alt=\"O Padre olhando para Fleabag\" src=\"https:
+      "meta_description": "Descubra 10 séries com romances mais envolventes e bem construídos do que Nobody Wants This, que cativam o público com suas dinâmicas.",
+      "focus_keyphrase": "séries com romances melhores",
+      "related_keyphrases": [
+        "romance em séries",
+        "melhores relacionamentos de TV",
+        "comédias românticas séries"
+      ],
+      "slug": "series-romances-melhores-nobody-wants-this",
+      "categorias": [
+        {
+          "nome": "Nobody Wants This",
+          "grupo": "obras",
+          "evidence": "<em>Nobody Wants This</em> season 2 was met with much more mixed reactions than the fanfare surrounding season 1."
+        },
+        {
+          "nome": "Fleabag",
+          "grupo": "obras",
+          "evidence": "Fleabag’s relationship with the Hot Priest captures the same sizzling chemistry that Noah and Joanne had in season 1 of <em>Nobody Wants That</em>"
+        },
+        {
+          "nome": "Lovesick",
+          "grupo": "obras",
+          "evidence": "<em>Lovesick</em> (originally <em>Scrotal Recall</em>) delivers more fulfilling romantic arcs than season 2 of <em>Nobody Wants This</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Nobody Wants This",
+        "Fleabag",
+        "Lovesick",
+        "This Is Us",
+        "Sex And The City",
+        "Catastrophe",
+        "The Mindy Project",
+        "Shrill",
+        "Normal People",
+        "Love",
+        "Insecure"
+      ],
+      "image_alt_texts": {
+        "fleabag-hot-priest.jpg": "Fleabag e o Padre Sedutor em uma cena intensa da série.",
+        "lovesick-edited.jpg": "Personagens da série Lovesick em um momento de reflexão.",
+        "this-is-us_en39kk.jpg": "Mandy Moore e Milo Ventimiglia em uma cena emocionante de This Is Us.",
+        "carrie-with-her-hand-on-bigs-cheek-as-she-says-goodbye-in-the-sex-and-the-city-episode-ex-in-the-city.jpg": "Carrie Bradshaw e Mr. Big em uma cena de despedida em Sex and the City.",
+        "rob-delaney-and-sharon-horgan-in-catastrophe.jpg": "Rob Delaney e Sharon Horgan em uma cena de Catastrophe.",
+        "mindy-and-danny-laughing-in-the-mindy-project.jpg": "Mindy Kaling e Chris Messina rindo em The Mindy Project.",
+        "Aidy-Bryant-and-Lolly-Adefope-in-Shrill-Hulu.jpg": "Aidy Bryant e Lolly Adefope em uma cena de Shrill.",
+        "normal-people-connell-marianne-laughing.jpg": "Paul Mescal e Daisy Edgar-Jones como Connell e Marianne em Normal People.",
+        "love.jpg": "Gillian Jacobs e Paul Rust como Mickey e Gus em Love.",
+        "insecure-issa-lawrence.jpg": "Issa Rae e Jay Ellis como Issa e Lawrence em Insecure.",
+        "03222889_poster_w780.jpg": "Pôster da série Nobody Wants This, com os atores principais.",
+        "adam-brody-as-noah-in-nobody-wants-this-season-2.jpg": "Adam Brody como Noah em uma cena da 2ª temporada de Nobody Wants This.",
+        "adam-brody-and-kristen-bell-as-noah-and-joanne-in-nobody-wants-this-season-2.jpg": "Adam Brody e Kristen Bell como Noah e Joanne em Nobody Wants This.",
+        "nobody-wants-this.jpg": "Noah e Joanne em um momento íntimo na série Nobody Wants This.",
+        "nobody-wants-this_mr8g56.jpg": "Adam Brody e Kristen Bell prestes a se beijar em Nobody Wants This.",
+        "kristen-bell-s-joanne-smiling-while-playing-a-card-game-in-nobody-wants-this-season-2.jpg": "Kristen Bell como Joanne em Nobody Wants This, jogando cartas.",
+        "nobody-wants-this-adam-brody-as-noah.jpg": "Adam Brody como Noah em uma cena da série Nobody Wants This."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "10 Séries com Romances Melhores Que Nobody Wants This",
+        "_yoast_wpseo_metadesc": "Descubra 10 séries com romances mais envolventes e bem construídos do que Nobody Wants This, que cativam o público com suas dinâmicas.",
+        "_yoast_wpseo_focuskw": "séries com romances melhores",
+        "_yoast_news_keywords": "Nobody Wants This, Fleabag, Lovesick, This Is Us, Sex And The City, Catastrophe, The Mindy Project, Shrill, Normal People, Love, Insecure, romances de TV, melhores relacionamentos",
+        "_yoast_wpseo_opengraph-title": "10 Séries com Romances Melhores Que Nobody Wants This",
+        "_yoast_wpseo_opengraph-description": "Descubra 10 séries com romances mais envolventes e bem construídos do que Nobody Wants This, que cativam o público com suas dinâmicas.",
+        "_yoast_wpseo_twitter-title": "10 Séries com Romances Melhores Que Nobody Wants This",
+        "_yoast_wpseo_twitter-description": "Descubra 10 séries com romances mais envolventes e bem construídos do que Nobody Wants This, que cativam o público com suas dinâmicas."
+      }
+    }
+  ]
+}

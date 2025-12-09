@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Teen Wolf: Série retorna para a Netflix em 1º de dezembro",
+      "conteudo_final": "<p>O dia 1º de dezembro marca um reencontro emocionante para os fãs de <b>Teen Wolf</b>, que terão uma nova oportunidade de assistir à série. Desenvolvida por Jeff Davis, a produção é uma releitura do filme de mesmo nome de 1985, estrelado por Michael J. Fox.</p><p>A trama acompanha o estudante Scott McCall (Tyler Posey) na fictícia Beacon Hills, Califórnia. Após ser mordido por um lobisomem alfa, Scott se transforma no adolescente lobisomem que dá nome à série. Acompanhado por seu melhor amigo, Stiles Stilinski (Dylan O’Brien), Scott luta para equilibrar sua vida adolescente com as mudanças trazidas pela licantropia.</p><p><i>Teen Wolf</i> fez grande sucesso durante sua exibição e, agora, retorna ao catálogo da Netflix. A série esteve disponível no serviço de streaming no início dos anos 2010, mas foi removida em 2015. Agora, todas as seis temporadas estarão acessíveis novamente a partir de 1º de dezembro.</p><h2>Teen Wolf retorna à Netflix após dez anos</h2><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Scott McCall em uma cena da série Teen Wolf." decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Scott McCall em uma cena da série Teen Wolf.</figcaption></figure><p>Antes de seu retorno à Netflix, as seis temporadas de <i>Teen Wolf</i> estiveram disponíveis no Hulu, com quatro temporadas no Prime Video. A decisão de trazer a série de volta à plataforma após uma década, e as razões para sua remoção anterior, não foram detalhadas, mas é provável que estejam relacionadas a acordos de licenciamento de streaming.</p><h2>O filme Teen Wolf chega à Netflix? Onde assistir</h2><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Tyler Posey como Scott se transformando em Teen Wolf: O Filme." decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Tyler Posey como Scott se transformando em Teen Wolf: O Filme.</figcaption></figure><p>A série <i>Teen Wolf</i> foi exibida de 2011 a 2017. Em 2023, o elenco original se reuniu para <i>Teen Wolf: O Filme</i>, uma continuação direta da série. No longa, Scott McCall gerencia um abrigo de animais em Los Angeles, mas precisa retornar a Beacon Hills para enfrentar uma ameaça antiga.</p><p><i>Teen Wolf: O Filme</i> estreou no Paramount+ em janeiro de 2023. No momento, não há informações sobre a disponibilidade do filme na Netflix. Portanto, para assistir à série, aguarde até 1º de dezembro na Netflix.</p>",
+      "meta_description": "A série Teen Wolf retorna à Netflix em 1º de dezembro, após dez anos. Todas as seis temporadas estarão disponíveis para os fãs.",
+      "focus_keyphrase": "Teen Wolf Netflix",
+      "related_keyphrases": [
+        "Teen Wolf série",
+        "Teen Wolf 2023",
+        "Teen Wolf Paramount+"
+      ],
+      "slug": "teen-wolf-serie-netflix-dezembro",
+      "categorias": [
+        {
+          "nome": "Teen Wolf",
+          "grupo": "obras",
+          "evidence": "o título de mesmo nome"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix em 1º de dezembro"
+        }
+      ],
+      "tags_sugeridas": [
+        "Teen Wolf",
+        "Netflix",
+        "Tyler Posey",
+        "Dylan O’Brien",
+        "Jeff Davis",
+        "lobisomens",
+        "séries teen"
+      ],
+      "image_alt_texts": {
+        "scott-in-teen-wolf.jpg": "Scott McCall em uma cena da série Teen Wolf.",
+        "tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg": "Tyler Posey como Scott se transformando em Teen Wolf: O Filme."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Teen Wolf: Série retorna para a Netflix em 1º de dezembro",
+        "_yoast_wpseo_metadesc": "A série Teen Wolf retorna à Netflix em 1º de dezembro, após dez anos. Todas as seis temporadas estarão disponíveis para os fãs.",
+        "_yoast_wpseo_focuskw": "Teen Wolf Netflix",
+        "_yoast_news_keywords": "Teen Wolf, Netflix, série, streaming, lobisomens, Tyler Posey, Dylan O’Brien, Jeff Davis",
+        "_yoast_wpseo_opengraph-title": "Teen Wolf: Série retorna para a Netflix em 1º de dezembro",
+        "_yoast_wpseo_opengraph-description": "A série Teen Wolf retorna à Netflix em 1º de dezembro, após dez anos. Todas as seis temporadas estarão disponíveis para os fãs.",
+        "_yoast_wpseo_twitter-title": "Teen Wolf: Série retorna para a Netflix em 1º de dezembro",
+        "_yoast_wpseo_twitter-description": "A série Teen Wolf retorna à Netflix em 1º de dezembro, após dez anos. Todas as seis temporadas estarão disponíveis para os fãs."
+      }
+    }
+  ]
+}

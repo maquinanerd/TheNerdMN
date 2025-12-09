@@ -1,0 +1,146 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ben Affleck quase perdeu papel em Mallrats por palavrões",
+      "conteudo_final": "<p><strong>Ben Affleck</strong> quase teve sua carreira em filmes de Kevin Smith interrompida antes mesmo de começar. O ator, conhecido por seus papéis em <em>O Demolidor</em> e como Batman no Universo Estendido da DC, teve um início turbulento com o cineasta.</p><h2>O Produtor e a Linguagem de Affleck</h2><p>Durante uma entrevista, Smith revelou que o produtor James Jacks inicialmente se opôs a escalar Affleck para o papel de Shannon Hamilton em <em>Mallrats</em> (1995). A preocupação de Jacks era com a linguagem explícita que Affleck usava, especialmente após sua participação em <em>Movimentando o Destino</em> (1993).</p><blockquote><p>Ele tem uma boca suja. Ele está sempre xingando. Nós o tivemos em Dazed and Confused. Houve apenas alguns usos da palavra 'f---' em Dazed and Confused, mas quando Affleck chegou, ele aumentou. Cada cena em que ele está jogando 'f----' como um louco.</p><p>Nós não o queremos neste filme. Você já tem palavrões suficientes no filme.</p></blockquote><p>Apesar da resistência inicial, a performance de Affleck na audição convenceu Jacks. O ator se encaixou perfeitamente no personagem, mudando a opinião do produtor.</p><h2>O Início de uma Colaboração Duradoura</h2><p><em>Mallrats</em> marcou a primeira colaboração entre Affleck e Smith, abrindo caminho para futuras parcerias. Durante as filmagens, Smith desenvolveu uma forte admiração por Affleck, reconhecendo seu potencial como ator principal.</p><blockquote><p>Trabalhar com ele no set durante o mês e pouco em que fizemos Mallrats em Minnesota, foi onde me apaixonei por Ben Affleck e descobri quem ele era. Ele é tão incrivelmente engraçado, tão inteligente, tão charmoso. E aqui ele estava interpretando valentões em filmes, incluindo os meus.</p></blockquote><p>Smith chegou a escrever o papel principal de <em>O Balconista 2</em> (1997) para Affleck, consolidando a parceria entre os dois artistas.</p><h2>Carreira de Ben Affleck</h2><p>Após <em>Mallrats</em>, Ben Affleck construiu uma carreira de sucesso em Hollywood, estrelando e dirigindo filmes aclamados como <em>Gênio Indomável</em> (vencedor do Oscar de Melhor Roteiro Original), <em>Argo</em> (vencedor do Oscar de Melhor Filme) e interpretando Batman em diversas produções da DC.</p>",
+      "meta_description": "Ben Affleck quase foi vetado de Mallrats por causa de sua linguagem explícita. Saiba os detalhes da decisão de Kevin Smith e o início da parceria.",
+      "focus_keyphrase": "Ben Affleck Mallrats Kevin Smith",
+      "related_keyphrases": [
+        "Ben Affleck palavrões",
+        "Kevin Smith Mallrats",
+        "Shannon Hamilton Mallrats"
+      ],
+      "slug": "ben-affleck-mallrats-palavroes",
+      "categorias": [
+        {
+          "nome": "Mallrats",
+          "grupo": "obras",
+          "evidence": "Shannon Hamilton in Mallrats"
+        },
+        {
+          "nome": "Kevin Smith",
+          "grupo": "diretores",
+          "evidence": "Smith reveals that producer James Jacks"
+        },
+        {
+          "nome": "Ben Affleck",
+          "grupo": "atores",
+          "evidence": "Ben Affleck having a \"potty mouth\""
+        }
+      ],
+      "tags_sugeridas": [
+        "Ben Affleck",
+        "Kevin Smith",
+        "Mallrats",
+        "Movimentando o Destino",
+        "DC Studios"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ben Affleck quase perdeu papel em Mallrats por palavrões",
+        "_yoast_wpseo_metadesc": "Ben Affleck quase foi vetado de Mallrats por causa de sua linguagem explícita. Saiba os detalhes da decisão de Kevin Smith e o início da parceria.",
+        "_yoast_wpseo_focuskw": "Ben Affleck Mallrats Kevin Smith",
+        "_yoast_news_keywords": "Ben Affleck, Kevin Smith, Mallrats, Movimentando o Destino, DC Studios, Shannon Hamilton",
+        "_yoast_wpseo_opengraph-title": "Ben Affleck quase perdeu papel em Mallrats por palavrões",
+        "_yoast_wpseo_opengraph-description": "Ben Affleck quase foi vetado de Mallrats por causa de sua linguagem explícita. Saiba os detalhes da decisão de Kevin Smith e o início da parceria.",
+        "_yoast_wpseo_twitter-title": "Ben Affleck quase perdeu papel em Mallrats por palavrões",
+        "_yoast_wpseo_twitter-description": "Ben Affleck quase foi vetado de Mallrats por causa de sua linguagem explícita. Saiba os detalhes da decisão de Kevin Smith e o início da parceria."
+      }
+    },
+    {
+      "titulo_final": "Star Wars: Personagens que voltaram após a morte",
+      "conteudo_final": "<p>A saga <em>Star Wars</em> é conhecida por reviravoltas surpreendentes, e muitos personagens que pareciam ter morrido retornaram à trama. Essa prática, que já gerou debates entre fãs, se tornou uma marca registrada do universo criado por George Lucas.</p><h2>Darth Maul: Do Ódio à Sobrevivência</h2>\n<p>Um dos retornos mais notáveis é o de Darth Maul. Após ser supostamente morto por Obi-Wan Kenobi em <em>A Ameaça Fantasma</em>, o vilão Sith ressurgiu em <em>Star Wars: The Clone Wars</em>. Movido pelo ódio e pela força do lado sombrio, Maul sobreviveu e ganhou pernas cibernéticas, tornando-se uma figura proeminente no submundo galáctico até seu confronto final com Kenobi em <em>Star Wars Rebels</em>.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/10/darth-maul-the-clone-wars-_brothers_.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Darth Maul em Star Wars: The Clone Wars\" loading=\"lazy\"/></figure>\n<h2>Imperador Palpatine: O Retorno Divisivo</h2>\n<p>A ressurreição do Imperador Palpatine em <em>Star Wars: A Ascensão Skywalker</em> foi um dos pontos mais controversos da saga. Apesar de ter morrido em <em>O Retorno de Jedi</em>, Palpatine retornou através do Projeto Necromancer. Embora projetos posteriores tenham tentado explicar os detalhes, a execução no filme gerou opiniões divididas entre os fãs.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/palpatine-mask-comic-3.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Imperador Palpatine em Star Wars: A Ascensão Skywalker\" loading=\"lazy\"/></figure>\n<h2>Boba Fett: O Caçador de Recompensas Sobrevivente</h2>\n<p>A queda de Boba Fett no poço de Sarlacc em <em>O Retorno de Jedi</em> era considerada uma das mortes mais infames de <em>Star Wars</em>. No entanto, <em>The Mandalorian</em> confirmou sua sobrevivência. Fett conseguiu escapar do Sarlacc, recuperar sua armadura e até estrelar sua própria série, <em>O Livro de Boba Fett</em>.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/bobaep1.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Boba Fett escapando do poço de Sarlacc\" loading=\"lazy\"/></figure>\n<h2>Fennec Shand: De Traidora a Aliada</h2>\n<p>Deixada para morrer em Tatooine em <em>The Mandalorian</em>, Fennec Shand foi salva e aprimorada com implantes cibernéticos por Boba Fett. Ela se tornou sua aliada de confiança, aparecendo em <em>The Mandalorian</em> e <em>O Livro de Boba Fett</em>, onde sua sobrevivência foi explicada.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/ming-na-wen-as-fennec-shand-in-the-book-of-boba-fett-episode-2-1.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Fennec Shand em O Livro de Boba Fett\" loading=\"lazy\"/></figure>\n<h2>Outros Retornos Notáveis</h2>\n<p>A lista de personagens que retornaram em <em>Star Wars</em> inclui Aurra Sing, que sobreviveu a um acidente em <em>The Clone Wars</em>; Ahsoka Tano, resgatada do colapso em Malachor através do Mundo Entre Mundos em <em>Rebels</em>; Echo, que foi capturado e ciberneticamente aprimorado pelos Separatistas; o Grande Inquisidor, que retornou em <em>Obi-Wan Kenobi</em> após ser aparentemente morto; Asajj Ventress, revivida por magia das Nightsisters; e Cobb Vanth, que sobreviveu a um ataque de Cad Bane e foi colocado em um tanque de bacta.</p>",
+      "meta_description": "Descubra quais personagens de Star Wars pareciam mortos, mas foram revividos ou trazidos de volta à trama, como Darth Maul, Palpatine e Boba Fett.",
+      "focus_keyphrase": "Star Wars personagens revividos",
+      "related_keyphrases": [
+        "retorno personagens Star Wars",
+        "personagens mortos Star Wars",
+        "ressurreição Star Wars"
+      ],
+      "slug": "star-wars-personagens-retornam",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars characters"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Darth Maul",
+        "Palpatine",
+        "Boba Fett",
+        "Ahsoka Tano"
+      ],
+      "image_alt_texts": {
+        "darth-maul-the-clone-wars-_brothers_.jpg": "Darth Maul em Star Wars: The Clone Wars",
+        "palpatine-mask-comic-3.jpg": "Imperador Palpatine em Star Wars: A Ascensão Skywalker",
+        "bobaep1.jpg": "Boba Fett escapando do poço de Sarlacc",
+        "ming-na-wen-as-fennec-shand-in-the-book-of-boba-fett-episode-2-1.jpg": "Fennec Shand em O Livro de Boba Fett",
+        "Aurra-Sing.jpg": "Aurra Sing em Star Wars: The Clone Wars",
+        "star-wars-world-between-world-and-ahsoka.jpg": "Ahsoka Tano no Mundo Entre Mundos",
+        "47-episodes-of-star-wars-the-bad-batch-ranked.jpg": "Echo em Star Wars: The Bad Batch",
+        "rupert-friend-as-the-grand-inquisitor-in-obi-wan-kenobi.jpg": "O Grande Inquisidor em Obi-Wan Kenobi",
+        "asajj-ventress-in-tales-of-the-underworld.jpg": "Asajj Ventress em Tales of the Underworld",
+        "timothy-olyphant-as-cobb-vanth-in-the-mandalorian.jpg": "Cobb Vanth em The Mandalorian"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Personagens que voltaram após a morte",
+        "_yoast_wpseo_metadesc": "Descubra quais personagens de Star Wars pareciam mortos, mas foram revividos ou trazidos de volta à trama, como Darth Maul, Palpatine e Boba Fett.",
+        "_yoast_wpseo_focuskw": "Star Wars personagens revividos",
+        "_yoast_news_keywords": "Star Wars, Darth Maul, Palpatine, Boba Fett, Ahsoka Tano, Asajj Ventress, Grande Inquisidor, Fennec Shand, Echo, Cobb Vanth",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Personagens que voltaram após a morte",
+        "_yoast_wpseo_opengraph-description": "Descubra quais personagens de Star Wars pareciam mortos, mas foram revividos ou trazidos de volta à trama, como Darth Maul, Palpatine e Boba Fett.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Personagens que voltaram após a morte",
+        "_yoast_wpseo_twitter-description": "Descubra quais personagens de Star Wars pareciam mortos, mas foram revividos ou trazidos de volta à trama, como Darth Maul, Palpatine e Boba Fett."
+      }
+    },
+    {
+      "titulo_final": "Simu Liu foi mordido por cachorro antes de foto viral",
+      "conteudo_final": "<p><strong>Simu Liu</strong>, astro de <em>Shang-Chi e a Lenda dos Dez Anéis</em>, revelou um incidente inusitado que ocorreu na véspera de uma sessão de fotos para imagens de banco de imagens. O ator foi mordido por um cachorro, o que deixou uma cicatriz em seu rosto.</p><h2>O Incidente Inesperado</h2><p>Liu contou que estava visitando um amigo que cuidava de dois cães. Durante a visita, um dos animais ficou ciumento e o mordeu no rosto. A mordida causou perfurações e sangramento considerável, deixando o ator preocupado com a sessão de fotos agendada para o dia seguinte.</p><blockquote><p>Você quer saber algo? Na noite anterior àquela sessão de fotos de banco de imagens, fui mordido por um cachorro no rosto. Eu estava com minha namorada na época, e estávamos visitando um amigo que estava cuidando de cachorros. Havia dois cachorros que eu não conhecia e que se odiavam. Acho que eu estava acariciando os dois, mas estava acariciando os dois em lados opostos de mim. Acho que um dos cachorros ficou com ciúmes do outro e avançou para aquele cachorro, mas então pegou meu rosto no meio disso. Então meu rosto inteiro ficou - não rasgado - mas definitivamente houve algumas perfurações e muito sangue. E eu me lembro de estar tão preocupado porque tinha a sessão de fotos de banco de imagens no dia seguinte.</p></blockquote><p>Apesar do ferimento, Liu compareceu à sessão de fotos. Como todas as imagens foram tiradas no mesmo dia, a cicatriz resultante da mordida é visível em algumas das fotos, adicionando um "lore" peculiar às imagens virais.</p><h2>Carreira de Simu Liu</h2><p>Desde o incidente, Simu Liu alcançou grande sucesso em sua carreira. Além de seu papel como Shang-Chi no Universo Cinematográfico Marvel (MCU), ele interpretou um dos Kens em <em>Barbie</em>, Jung Kim na série <em>Kim's Convenience</em> e dublou Multi-Paul em <em>Invincible</em>.</p><p>O futuro de Shang-Chi no MCU inclui a sequência <em>Shang-Chi 2</em>, ainda em desenvolvimento, e sua participação em <em>Avengers: Doomsday</em>, com lançamento previsto para 2026. Antes disso, Liu pode ser visto dublando o pai na animação da Netflix <em>In Your Dreams</em>, que estreia em 14 de novembro.</p>",
+      "meta_description": "Simu Liu revela que foi mordido por um cachorro na noite anterior a uma sessão de fotos viral. Saiba como o incidente deixou uma cicatriz em seu rosto.",
+      "focus_keyphrase": "Simu Liu mordido por cachorro",
+      "related_keyphrases": [
+        "Simu Liu cicatriz rosto",
+        "Simu Liu banco de imagens",
+        "Shang-Chi mordida cachorro"
+      ],
+      "slug": "simu-liu-cachorro-mordida",
+      "categorias": [
+        {
+          "nome": "Shang-Chi",
+          "grupo": "obras",
+          "evidence": "Shang-Chi and the Legend of the Ten Rings"
+        },
+        {
+          "nome": "Simu Liu",
+          "grupo": "atores",
+          "evidence": "Simu Liu reveals"
+        },
+        {
+          "nome": "MCU",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Simu Liu",
+        "Shang-Chi",
+        "MCU",
+        "Barbie",
+        "Banco de Imagens"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Simu Liu foi mordido por cachorro antes de foto viral",
+        "_yoast_wpseo_metadesc": "Simu Liu revela que foi mordido por um cachorro na noite anterior a uma sessão de fotos viral. Saiba como o incidente deixou uma cicatriz em seu rosto.",
+        "_yoast_wpseo_focuskw": "Simu Liu mordido por cachorro",
+        "_yoast_news_keywords": "Simu Liu, Shang-Chi, MCU, Barbie, Banco de Imagens, In Your Dreams",
+        "_yoast_wpseo_opengraph-title": "Simu Liu foi mordido por cachorro antes de foto viral",
+        "_yoast_wpseo_opengraph-description": "Simu Liu revela que foi mordido por um cachorro na noite anterior a uma sessão de fotos viral. Saiba como o incidente deixou uma cicatriz em seu rosto.",
+        "_yoast_wpseo_twitter-title": "Simu Liu foi mordido por cachorro antes de foto viral",
+        "_yoast_wpseo_twitter-description": "Simu Liu revela que foi mordido por um cachorro na noite anterior a uma sessão de fotos viral. Saiba como o incidente deixou uma cicatriz em seu rosto."
+      }
+    }
+  ]
+}

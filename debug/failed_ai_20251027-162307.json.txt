@@ -1,0 +1,142 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Sequência de Quentin Tarantino com Brad Pitt chega no verão de 2026",
+      "conteudo_final": "<p>Uma novidade empolgante para os fãs de cinema: <strong><em>The Adventures of Cliff Booth</em></strong>, o aguardado filme derivado de <em>Once Upon a Time in Hollywood</em>, de Quentin Tarantino, com Brad Pitt reprisando seu papel vencedor do Oscar como o dublê Cliff Booth, tem sua janela de lançamento prevista para o verão de 2026.</p><h2>Novo Filme de Quentin Tarantino com Brad Pitt Previsto para 2026</h2><p>De acordo com informações divulgadas, a Netflix planeja um lançamento mais robusto para o longa. A expectativa é que o filme chegue às telonas em meados de 2026. Este projeto promete explorar mais a fundo o personagem Cliff Booth, que conquistou o público e a crítica no filme original.</p><h2><em>Once Upon a Time in Hollywood</em> e o Legado de Tarantino</h2><p>O filme de 2019, <em>Once Upon a Time in Hollywood</em>, foi um marco na carreira de Quentin Tarantino, recebendo aclamação da crítica e diversos prêmios, incluindo o Oscar de Melhor Ator Coadjuvante para Brad Pitt. A trama se passa na indústria cinematográfica de Los Angeles em 1969, acompanhando a jornada de um ator de TV em declínio e seu dublê.</p><p>A expansão deste universo através de <em>The Adventures of Cliff Booth</em> indica o interesse contínuo dos estúdios em explorar personagens e narrativas que ressoaram com o público, oferecendo novas histórias dentro de cenários já estabelecidos e amados.</p>",
+      "meta_description": "Sequência de 'Once Upon a Time in Hollywood', com Brad Pitt no papel de Cliff Booth, tem lançamento previsto pela Netflix para o verão de 2026.",
+      "focus_keyphrase": "The Adventures of Cliff Booth",
+      "related_keyphrases": [
+        "Cliff Booth filme",
+        "Quentin Tarantino Brad Pitt",
+        "Netflix verão 2026"
+      ],
+      "slug": "cliff-booth-sequencia-lancamento-2026",
+      "categorias": [
+        {
+          "nome": "Once Upon a Time in Hollywood",
+          "grupo": "obras",
+          "evidence": "Once Upon a Time in Hollywood"
+        },
+        {
+          "nome": "The Adventures of Cliff Booth",
+          "grupo": "obras",
+          "evidence": "The Adventures of Cliff Booth"
+        }
+      ],
+      "tags_sugeridas": [
+        "Quentin Tarantino",
+        "Brad Pitt",
+        "Netflix",
+        "Once Upon a Time in Hollywood",
+        "The Adventures of Cliff Booth",
+        "Cinema"
+      ],
+      "image_alt_texts": {
+        "Once-Upon-A-Time-In-Hollywood-Poster.jpg": "Pôster do filme Once Upon a Time in Hollywood, com Leonardo DiCaprio e Brad Pitt."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Sequência de Quentin Tarantino com Brad Pitt chega no verão de 2026 | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Sequência de 'Once Upon a Time in Hollywood', com Brad Pitt no papel de Cliff Booth, tem lançamento previsto pela Netflix para o verão de 2026.",
+        "_yoast_wpseo_focuskw": "The Adventures of Cliff Booth",
+        "_yoast_news_keywords": "The Adventures of Cliff Booth, Once Upon a Time in Hollywood, Quentin Tarantino, Brad Pitt, Netflix, Cinema, Verão 2026",
+        "_yoast_wpseo_opengraph-title": "Sequência de Quentin Tarantino com Brad Pitt chega no verão de 2026",
+        "_yoast_wpseo_opengraph-description": "Sequência de 'Once Upon a Time in Hollywood', com Brad Pitt no papel de Cliff Booth, tem lançamento previsto pela Netflix para o verão de 2026.",
+        "_yoast_wpseo_twitter-title": "Sequência de Quentin Tarantino com Brad Pitt chega no verão de 2026",
+        "_yoast_wpseo_twitter-description": "Sequência de 'Once Upon a Time in Hollywood', com Brad Pitt no papel de Cliff Booth, tem lançamento previsto pela Netflix para o verão de 2026."
+      }
+    },
+    {
+      "titulo_final": "Star Wars: Fãs de Ben Solo realizam campanha para salvar filme cancelado",
+      "conteudo_final": "<p>Uma campanha de fãs dedicada a Adam Driver e ao personagem Ben Solo está em andamento. O objetivo é reverter o cancelamento do filme <strong><em>Star Wars: The Hunt for Ben Solo</em></strong>, que deveria acontecer após os eventos de <em>The Rise of Skywalker</em>. O projeto, que contou com a colaboração de Driver e Steven Soderbergh, foi interrompido pela Disney.</p><h2>Campanha de Fãs em Times Square por Ben Solo</h2><p>No último fim de semana, a mobilização ganhou destaque com a exibição de um outdoor em Times Square, em Nova York. A mensagem, que incluía as frases \"<em>Ninguém jamais se vai realmente</em>\" e \"<em>A esperança vive. Ben está vivo!</em>\", buscou resgatar o personagem e seu arco narrativo.</p><script>\n                    window.arrayOfEmbeds[\"1982130961211854857\"] = {'twitter' : '&quot;\\n&lt;blockquote class=\\\"twitter-tweet\\\"&gt;billboard in Times Square thanks to &lt;a href=\\\"https:\\/\\/twitter.com\\/BD_Neagle_?ref_src=twsrc%5Etfw\\\"&gt;@BD_Neagle_&lt;\\/a&gt; &amp;eth;&amp;Yuml;&amp;yen;&amp;sup2;&lt;a href=\\\"https:\\/\\/twitter.com\\/hashtag\\/TheHuntForBenSolo?src=hash&amp;amp;ref_src=twsrc%5Etfw\\\"&gt;#TheHuntForBenSolo&lt;\\/a&gt; &lt;a href=\\\"https:\\/\\/t.co\\/z9NEZXAuoD\\\"&gt;https:\\/\\/t.co\\/z9NEZXAuoD&lt;\\/a&gt; &lt;a href=\\\"https:\\/\\/t.co\\/0gWNyqwCXE\\\"&gt;pic.twitter.com\\/0gWNyqwCXE&lt;\\/a&gt;\\n&amp;mdash; Hammie (@balancedpadawan) &lt;a href=\\\"https:\\/\\/twitter.com\\/balancedpadawan\\/status\\/1982130961211854857?ref_src=twsrc%5Etfw\\\"&gt;October 25, 2025&lt;\\/a&gt;&lt;\\/blockquote&gt;\\n&lt;script src=\\\"https:\\/\\/platform.twitter.com\\/widgets.js\\\" charset=\\\"utf-8\\\" defer=\\\"\\\"&gt;&lt;\\/script&gt;\\n&quot;'};\n            \n                            window.arrayOfEmbedScripts[\"twitter\"] = \"&quot;&lt;script src=\\\"https:\\/\\/platform.twitter.com\\/widgets.js\\\" charset=\\\"utf-8\\\" defer&gt;&lt;\\/script&gt;&quot;";\n                        </script>\n<div class="w-rich w-twitter" id="1982130961211854857" style="min-height:925px;"></div><p>O outdoor foi exibido em intervalos regulares em Times Square. A iniciativa busca não apenas homenagear o personagem, mas também pressionar a Disney a reconsiderar o projeto.</p><h2>Protestos Planejados Durante Reunião de Acionistas</h2><p>A mobilização dos fãs não para por aí. Planos para um protesto durante a reunião trimestral de acionistas da Disney estão em andamento. O evento está previsto para a primeira quinzena de novembro de 2025 e visa levar a demanda por <em>The Hunt for Ben Solo</em> diretamente aos executivos do estúdio. Manifestações também estão planejadas nas sedes da Disney em Burbank e Nova York.</p><p>O filme, que deveria explorar o arco de redenção de Ben Solo após sua sobrevivência em <em>The Rise of Skywalker</em>, foi cancelado em 2021. Apesar disso, a paixão dos fãs continua a impulsionar esforços para trazer a história de volta à vida.</p>",
+      "meta_description": "Fãs de Star Wars lançam campanha e protestos para salvar o filme cancelado 'The Hunt for Ben Solo', com Adam Driver.",
+      "focus_keyphrase": "Star Wars Ben Solo",
+      "related_keyphrases": [
+        "The Hunt for Ben Solo",
+        "Adam Driver Star Wars",
+        "Campanha de fãs Star Wars"
+      ],
+      "slug": "star-wars-ben-solo-campanha-fans",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars"
+        },
+        {
+          "nome": "Ben Solo",
+          "grupo": "personagens",
+          "evidence": "Ben Solo"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Ben Solo",
+        "Adam Driver",
+        "The Hunt for Ben Solo",
+        "Disney",
+        "Fãs"
+      ],
+      "image_alt_texts": {
+        "ben-solo-as-kylo-ren-in-star-wars.jpg": "Ben Solo, também conhecido como Kylo Ren, em uma cena de Star Wars."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Fãs de Ben Solo realizam campanha para salvar filme cancelado | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Fãs de Star Wars lançam campanha e protestos para salvar o filme cancelado 'The Hunt for Ben Solo', com Adam Driver.",
+        "_yoast_wpseo_focuskw": "Star Wars Ben Solo",
+        "_yoast_news_keywords": "Star Wars, Ben Solo, Adam Driver, The Hunt for Ben Solo, Disney, Fãs, Cinema",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Fãs de Ben Solo realizam campanha para salvar filme cancelado",
+        "_yoast_wpseo_opengraph-description": "Fãs de Star Wars lançam campanha e protestos para salvar o filme cancelado 'The Hunt for Ben Solo', com Adam Driver.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Fãs de Ben Solo realizam campanha para salvar filme cancelado",
+        "_yoast_wpseo_twitter-description": "Fãs de Star Wars lançam campanha e protestos para salvar o filme cancelado 'The Hunt for Ben Solo', com Adam Driver."
+      }
+    },
+    {
+      "titulo_final": "Evil Dead: Teoria de fã explica 'confusão' na linha do tempo da franquia",
+      "conteudo_final": "<p>A franquia <strong><em>Evil Dead</em></strong>, um marco no cinema de terror, é conhecida por sua mistura de sustos e humor. No entanto, uma teoria de fã intrigante propõe uma nova perspectiva sobre a continuidade entre <em>Evil Dead II</em> e o original, lançados em 1987 e 1981, respectivamente.</p><h2>Teoria de Fã: Evil Dead 2 como a Versão de Ash</h2><p>A teoria, disseminada no Reddit pelo usuário DeltaStarship, sugere que <em>Evil Dead II</em> não é apenas uma sequência ou remake, mas sim a narrativa de Ash Williams (interpretado por Bruce Campbell) sobre os eventos do primeiro filme. Segundo essa visão, Ash teria exagerado e modificado os acontecimentos para se apresentar como um herói mais \"cool\".</p><p>Essa interpretação se baseia na percepção de que Ash, como narrador, seria pouco confiável. As diferenças notáveis entre sua versão no primeiro filme e na sequência alimentariam essa ideia, com <em>Evil Dead II</em> sendo uma versão empolada de sua própria história de sobrevivência.</p><h2>Army of Darkness e a Continuidade da Narrativa</h2><p>A teoria se estende a <em>Army of Darkness</em>, o terceiro filme da trilogia original. O usuário propõe que o livro recapitulado no final de <em>Army of Darkness</em> também englobaria os eventos de <em>Evil Dead II</em>. Isso significaria que tanto a segunda quanto a terceira parte da saga seriam contadas por Ash a um comprador de loja.</p><p>Essa hipótese explica as inconsistências de continuidade entre os filmes, atribuindo-as às tendências de Ash de embelezar a verdade para satisfazer seu próprio ego. A natureza não confiável do narrador se tornaria a chave para desvendar os mistérios da linha do tempo da franquia.</p><h2>Ash Vs. Evil Dead e a Credibilidade da Teoria</h2><p>Embora não haja confirmação oficial, a série <em>Ash vs. Evil Dead</em> adiciona camadas à teoria. Em sua narrativa, Ash, ao contar sua história, descreve seu primeiro encontro com os deadites de uma forma que se alinha mais com os eventos do filme original <em>The Evil Dead</em>, mencionando um grupo de amigos em vez de apenas Linda.</p><p>É importante notar que o próprio Bruce Campbell afirmou que as cenas de abertura de <em>Evil Dead II</em> foram criadas como um resumo devido a questões de direitos autorais com o primeiro filme. Essa informação, embora não desminta a teoria, sugere que a continuidade entre os dois primeiros filmes pode ser mais direta do que se pensava. Independentemente disso, a ideia de Ash como um narrador não confiável adiciona um charme peculiar ao personagem e à mitologia de <em>Evil Dead</em>.</p><h2>O Legado de Evil Dead</h2><p>Apesar das complexidades em sua linha do tempo, a franquia <em>Evil Dead</em> continua a ser celebrada por sua combinação única de terror, humor e desenvolvimento de personagens. Filmes posteriores, como o reboot de 2013 e <em>Evil Dead Rise</em> (2023), mantiveram a qualidade e trouxeram nova vida à série, solidificando seu lugar como um pilar do cinema de horror.</p>",
+      "meta_description": "Uma teoria de fã sugere que 'Evil Dead II' é a versão exagerada de Ash Williams dos eventos do primeiro filme, explicando inconsistências na franquia.",
+      "focus_keyphrase": "Evil Dead franquia",
+      "related_keyphrases": [
+        "Evil Dead 2 teoria",
+        "Ash Williams narrador",
+        "Sam Raimi Evil Dead"
+      ],
+      "slug": "evil-dead-teoria-linha-do-tempo",
+      "categorias": [
+        {
+          "nome": "Evil Dead",
+          "grupo": "franquias",
+          "evidence": "Evil Dead"
+        },
+        {
+          "nome": "Ash Williams",
+          "grupo": "personagens",
+          "evidence": "Ash Williams"
+        }
+      ],
+      "tags_sugeridas": [
+        "Evil Dead",
+        "Ash Williams",
+        "Bruce Campbell",
+        "Sam Raimi",
+        "Terror",
+        "Teoria de fã"
+      ],
+      "image_alt_texts": {
+        "evil-dead-ii-ash-and-heroes.jpg": "Ash e outros personagens unidos em medo no filme Evil Dead 2.",
+        "ash-vs-the-evil-dead-chainsaw.jpg": "Ash segura sua motosserra em uma cena da série Ash vs. the Evil Dead.",
+        "evil-dead-ii-evil-ash.jpg": "O Ash maligno aponta para fora da tela em Evil Dead II.",
+        "the-evil-dead-franchise-poster.jpg": "Pôster da franquia Evil Dead com os principais personagens e filmes."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Evil Dead: Teoria de fã explica 'confusão' na linha do tempo da franquia | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Uma teoria de fã sugere que 'Evil Dead II' é a versão exagerada de Ash Williams dos eventos do primeiro filme, explicando inconsistências na franquia.",
+        "_yoast_wpseo_focuskw": "Evil Dead franquia",
+        "_yoast_news_keywords": "Evil Dead, Ash Williams, Bruce Campbell, Sam Raimi, Terror, Teoria de fã, Cinema de Horror",
+        "_yoast_wpseo_opengraph-title": "Evil Dead: Teoria de fã explica 'confusão' na linha do tempo da franquia",
+        "_yoast_wpseo_opengraph-description": "Uma teoria de fã sugere que 'Evil Dead II' é a versão exagerada de Ash Williams dos eventos do primeiro filme, explicando inconsistências na franquia.",
+        "_yoast_wpseo_twitter-title": "Evil Dead: Teoria de fã explica 'confusão' na linha do tempo da franquia",
+        "_yoast_wpseo_twitter-description": "Uma teoria de fã sugere que 'Evil Dead II' é a versão exagerada de Ash Williams dos eventos do primeiro filme, explicando inconsistências na franquia."
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Filmes Vencedores do Oscar para Assistir de Graça Online",
+      "conteudo_final": "<p>Com o aumento dos custos de streaming, há muitos <strong>vencedores do Oscar</strong> que podem ser assistidos gratuitamente. A cerimônia do Academy Awards é o padrão de qualidade cinematográfica, e um Oscar é como um selo permanente de aprovação para o legado de um filme. Embora as grandes premiações às vezes errem, elas são frequentemente adeptas de coroar clássicos.</p>\n<h2>Filmes Vencedores do Oscar Disponíveis Gratuitamente</h2>\n<p>O streaming revolucionou completamente a forma como a mídia é consumida e permitiu que novos públicos descobrissem filmes que poderiam ter perdido no passado. Até mesmo filmes premiados com o Oscar podem, às vezes, desaparecer, mas muitos ganharam um impulso com os serviços de streaming. Infelizmente, esses serviços são caros e estão cada vez mais custosos.</p>\n<p>Felizmente, existem serviços de streaming gratuitos que entregam a mesma qualidade sem custo. Se você estiver disposto a assistir a alguns anúncios, há uma riqueza de filmes clássicos disponíveis com o toque de um botão. Muitos filmes vencedores do Academy Award encontraram seu caminho para o streaming gratuito, e seus legados crescem a cada nova geração que os descobre.</p>\n\n<h3>O Poderoso Chefão (1972) - Pluto TV</h3>\n<figure class=\"video-container\"><img alt=\"Um conselheiro conversa com Don Corleone em O Poderoso Chefão\" src=\"https:
+      "meta_description": "Descubra filmes aclamados pelo Oscar que você pode assistir gratuitamente em plataformas de streaming como Pluto TV e Tubi. Veja a lista completa!",
+      "focus_keyphrase": "Filmes Vencedores do Oscar para Assistir de Graça",
+      "related_keyphrases": [
+        "Filmes Oscar grátis",
+        "Streaming gratuito filmes premiados",
+        "Onde assistir filmes vencedores do Oscar"
+      ],
+      "slug": "filmes-oscar-assistir-gratis-streaming",
+      "categorias": [
+        {
+          "nome": "O Poderoso Chefão",
+          "grupo": "obras",
+          "evidence": "The Godfather (1972) - Pluto TV"
+        },
+        {
+          "nome": "No Calor das Noites",
+          "grupo": "obras",
+          "evidence": "In The Heat Of The Night (1967) - Tubi"
+        },
+        {
+          "nome": "Filadélfia",
+          "grupo": "obras",
+          "evidence": "Philadelphia (1993) - The Roku Channel"
+        }
+      ],
+      "tags_sugeridas": [
+        "Oscar",
+        "Pluto TV",
+        "Tubi",
+        "The Roku Channel",
+        "Filmes Clássicos",
+        "Streaming Gratuito",
+        "Melhor Filme"
+      ],
+      "image_alt_texts": {
+        "the-godfather-1972.jpg": "Cena de 'O Poderoso Chefão' com Marlon Brando como Don Corleone.",
+        "in-the-heat-of-the-night-1967.jpg": "Sidney Poitier e Rod Steiger em uma cena icônica de 'No Calor das Noites'.",
+        "philadelphia-1993-1.jpg": "Tom Hanks e Denzel Washington em uma cena de tribunal de 'Filadélfia'.",
+        "pans-labyrinth-pale-man.jpg": "O assustador Homem Pálido em uma cena memorável de 'O Labirinto do Fauno'.",
+        "ex-machina-faces.jpg": "Alicia Vikander como a androide Ava em 'Ex Machina: Instinto Artificial'.",
+        "moonstruck.jpg": "Cher e Nicolas Cage em uma cena romântica de 'Feitiço de Lua'.",
+        "platoon-sheen.jpg": "Charlie Sheen em uma cena tensa de 'Platoon'.",
+        "good-will-hunting-office.jpg": "Matt Damon e Robin Williams em uma cena emocionante de 'Gênio Indomável'.",
+        "whiplash-drums.jpg": "Miles Teller tocando bateria em 'Whiplash: Sobre o Ritmo'.",
+        "apocalypse-now-kurtz.jpg": "Marlon Brando como Coronel Kurtz em 'Apocalypse Now'."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Filmes Vencedores do Oscar para Assistir de Graça Online | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra filmes aclamados pelo Oscar que você pode assistir gratuitamente em plataformas de streaming como Pluto TV e Tubi. Veja a lista completa!",
+        "_yoast_wpseo_focuskw": "Filmes Vencedores do Oscar para Assistir de Graça",
+        "_yoast_news_keywords": "Oscar, Pluto TV, Tubi, The Roku Channel, Filmes Clássicos, Streaming Gratuito, Melhor Filme, O Poderoso Chefão, Gênio Indomável",
+        "_yoast_wpseo_opengraph-title": "Filmes Vencedores do Oscar para Assistir de Graça Online",
+        "_yoast_wpseo_opengraph-description": "Com o aumento dos custos de streaming, há muitos vencedores do Oscar que podem ser assistidos gratuitamente. A cerimônia do Academy Awards é o padrão de qualidade cinematográfica, e um Oscar é como um selo permanente de aprovação para o legado de um filme.",
+        "_yoast_wpseo_twitter-title": "Filmes Vencedores do Oscar para Assistir de Graça Online",
+        "_yoast_wpseo_twitter-description": "Com o aumento dos custos de streaming, há muitos vencedores do Oscar que podem ser assistidos gratuitamente. A cerimônia do Academy Awards é o padrão de qualidade cinematográfica, e um Oscar é como um selo permanente de aprovação para o legado de um filme."
+      }
+    }
+  ]
+}

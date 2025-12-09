@@ -1,0 +1,64 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Battlefield 6: Passe de Batalha Pro oferece servidores com 100 jogadores no Portal",
+      "conteudo_final": "<p>Menos de três semanas após o lançamento, <b>Battlefield 6</b> recebeu sua primeira grande atualização. A Electronic Arts (EA) e a DICE introduziram um novo Passe de Batalha Pro, que traz benefícios significativos para os fãs do modo Portal do jogo. Essa novidade opera de forma semelhante ao Passe de Batalha BlackCell de Call of Duty, permitindo que jogadores de <b>Battlefield 6</b> desbloqueiem recompensas exclusivas e benefícios adicionais, separados da versão padrão do Passe de Batalha da temporada.</p><p>A Temporada 1 de <b>Battlefield 6</b> iniciou em 28 de outubro, adicionando um novo mapa, um novo modo, uma vasta quantidade de armas e mais conteúdos. Além disso, a DICE surpreendeu os fãs com o lançamento de um novo título de Battle Royale, o <b>Battlefield REDSEC</b>. Embora a progressão esteja diretamente ligada a <b>Battlefield 6</b>, REDSEC é um título autônomo e gratuito para jogar, assim como Call of Duty: Warzone.</p><h2>Battlefield 6: Passe de Batalha Pro libera servidores para 100 jogadores no Portal</h2><p>Seja em <b>Battlefield REDSEC</b> ou em <b>Battlefield 6</b>, os jogadores que buscam itens cosméticos, moeda do jogo, impulsionadores de XP e outros conteúdos, provavelmente vão querer adquirir o Passe de Batalha da Temporada 1. No entanto, existe uma versão Pro que pode ser comprada por US$ 24,99. Esta edição premium oferece uma variedade de benefícios, incluindo um ponto crucial para os fãs de Portal: os proprietários do passe Pro agora podem hospedar servidores com até 100 jogadores, algo que os outros jogadores não conseguem fazer. Aqueles que possuíam a <a href=\"https:
+      "meta_description": "Battlefield 6 lança Passe de Batalha Pro com servidor de 100 jogadores no Portal, além de outros benefícios exclusivos. Conheça os detalhes.",
+      "focus_keyphrase": "Battlefield 6 Passe de Batalha Pro",
+      "related_keyphrases": [
+        "Battlefield 6 Portal",
+        "Passe de Batalha Battlefield 6",
+        "Servidores 100 jogadores Battlefield"
+      ],
+      "slug": "battlefield-6-passe-batalha-pro-servidor-portal",
+      "categorias": [
+        {
+          "nome": "Battlefield 6",
+          "grupo": "obras",
+          "evidence": "Battlefield 6's Pro Battle Pass Gives Players a Massive Portal Benefit and More"
+        },
+        {
+          "nome": "Battlefield REDSEC",
+          "grupo": "obras",
+          "evidence": "Battlefield 6's Pro Battle Pass Gives Players a Massive Portal Benefit and More"
+        },
+        {
+          "nome": "EA",
+          "grupo": "editorias",
+          "evidence": "Publisher(s)\nEA"
+        }
+      ],
+      "tags_sugeridas": [
+        "Battlefield 6",
+        "Battlefield Portal",
+        "Passe de Batalha",
+        "EA",
+        "DICE",
+        "Battlefield REDSEC",
+        "Battlefield Phantom Edition"
+      ],
+      "image_alt_texts": {
+        "battlefield-6-press-image-1.jpg": "Battlefield 6: Jogadores com Passe de Batalha Pro podem hospedar servidores com mais capacidade.",
+        "battlefield-6-press-image-2.jpg": "Battlefield 6: Novo conteúdo da Temporada 1 inclui mapas e modos inéditos.",
+        "battlefield-6-press-image-3.jpg": "Battlefield 6: O Passe de Batalha Pro desbloqueia itens cosméticos exclusivos.",
+        "battlefield-6-press-image-4.jpg": "Battlefield 6: O modo Portal recebe um upgrade com servidores maiores para donos do Passe Pro.",
+        "battlefield-6-press-image-5.jpg": "Battlefield 6: Battlefield REDSEC é um título gratuito e autônomo.",
+        "battlefield-6-press-image-6.jpg": "Battlefield 6: A popularidade dos passes de batalha em jogos online.",
+        "battlefield-6-press-image-7.jpg": "Battlefield 6: Jogadores podem obter o Passe Pro com dinheiro real.",
+        "battlefield-6-tag-page-cover-art.jpg": "Battlefield 6: Capa do jogo ou arte promocional.",
+        "featured-image-1-14.jpg": "Battlefield 6: Imagem de jogo em destaque.",
+        "featured-image-23.jpg": "Battlefield 6: Outra imagem de gameplay ou promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Battlefield 6: Passe de Batalha Pro libera servidores 100 jogadores no Portal",
+        "_yoast_wpseo_metadesc": "Battlefield 6 lança Passe de Batalha Pro com servidor de 100 jogadores no Portal, além de outros benefícios exclusivos. Conheça os detalhes.",
+        "_yoast_wpseo_focuskw": "Battlefield 6 Passe de Batalha Pro",
+        "_yoast_news_keywords": "Battlefield 6, Battlefield Portal, Passe de Batalha, EA, DICE, Battlefield REDSEC",
+        "_yoast_wpseo_opengraph-title": "Battlefield 6: Passe de Batalha Pro libera servidores 100 jogadores no Portal",
+        "_yoast_wpseo_opengraph-description": "Battlefield 6 lança Passe de Batalha Pro com servidor de 100 jogadores no Portal, além de outros benefícios exclusivos. Conheça os detalhes.",
+        "_yoast_wpseo_twitter-title": "Battlefield 6: Passe de Batalha Pro libera servidores 100 jogadores no Portal",
+        "_yoast_wpseo_twitter-description": "Battlefield 6 lança Passe de Batalha Pro com servidor de 100 jogadores no Portal, além de outros benefícios exclusivos. Conheça os detalhes."
+      }
+    }
+  ]
+}

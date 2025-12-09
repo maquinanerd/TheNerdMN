@@ -1,0 +1,94 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Line of Duty: Série de crime da BBC retorna para 7ª temporada",
+      "conteudo_final": "<p>Após anos de rumores e especulações, a BBC confirmou oficialmente que a aclamada série de drama policial <strong><em>Line of Duty</em></strong>, de Jed Mercurio, retornará para sua sétima temporada. Na trama, os oficiais da Unidade de Anticorrupção 12 (AC-12), incluindo o trio inabalável Steve Arnott (Martin Compston), Kate Flemming (Vicky McClure) e Ted Hastings (Adrian Dunbar), foram encarregados de descobrir e erradicar a corrupção policial dentro da Polícia Central.</p><p>Em 2021, durante o auge da pandemia de COVID-19, o final da sexta temporada de <em>Line of Duty</em> se tornou um dos eventos televisivos britânicos mais assistidos de todos os tempos. A revelação do mestre do crime corrupto \"H\" dividiu o público, com alguns interpretando como uma crítica social mordaz em vez de um vilão digno de James Bond.</p><p>Apesar da divisão, <em>Line of Duty</em> impulsionou as carreiras de Compston, McClure e Dunbar ao estrelato e consolidou Jed Mercurio (conhecido por <em>Bodyguard</em>) como um dos roteiristas britânicos de maior sucesso da atualidade. Não é surpresa, portanto, que na terça-feira, 18 de novembro, a BBC tenha anunciado o retorno dos três atores principais e de Mercurio para uma nova temporada de seis episódios, com filmagens previstas para a primavera do próximo ano em Belfast.</p><p>O entusiasmo da BBC por <em>Line of Duty</em> é justificável. A emissora informou que o final da sexta temporada acumulou 17 milhões de espectadores em 28 dias, o maior número para um episódio de drama não-novela desde o início dos registros modernos em 2002. A série também conquistou uma audiência internacional considerável, estando disponível em plataformas de streaming como BritBox e Acorn TV.</p><p>O final da sexta temporada de <em>Line of Duty</em> apresentou uma mensagem sombria, porém realista: \"Os poderes da AC-12 para conter irregularidades em cargos públicos nunca foram tão fracos.\" A BBC revelou que, neste \"clima desafiador\", Steve, Kate e Ted receberão seu \"caso mais sensível até agora\", investigando um detetive de alta patente, carismático e amado, acusado de ser um predador sexual.</p><p>A sinopse da BBC sugere que o caso da Inspetora Gough pode ser uma distração deliberada de uma ameaça maior que ainda opera nas sombras, aludindo à presença de uma conspiração de corrupção contínua.</p><p>Detalhes adicionais sobre o elenco da sétima temporada de <em>Line of Duty</em> ainda serão anunciados. No entanto, considerando o impressionante leque de estrelas convidadas que a série já apresentou, como Lennie James, Keeley Hawes, Thandiwe Newton e Stephen Graham, o próximo retorno pode contar com talentos britânicos de peso.</p><p>Em resposta à notícia do retorno de <em>Line of Duty</em> para a sétima temporada, o criador, roteirista e produtor Jed Mercurio declarou: \"Temos o privilégio de ter tido tantos de vocês acompanhando os altos e baixos da AC-12 ao longo de seis temporadas anteriores e não poderíamos estar mais felizes em retornar para uma sétima.\"</p><p>O indicado ao BAFTA e Emmy brincou: \"A corrupção neste país supostamente acabou enquanto <em>Line of Duty</em> estava fora do ar, então fui forçado a usar minha imaginação.\" Independentemente do que acontecer a seguir e das manchetes da vida real que inspiraram Mercurio, o retorno de <strong><em>Line of Duty</em></strong> é uma perspectiva emocionante.</p>",
+      "meta_description": "A BBC confirma o retorno de Line of Duty para a 7ª temporada com o elenco principal e Jed Mercurio. Saiba os detalhes do novo caso da AC-12.",
+      "focus_keyphrase": "Line of Duty temporada 7",
+      "related_keyphrases": [
+        "Line of Duty BBC",
+        "AC-12 retorno",
+        "Jed Mercurio série"
+      ],
+      "slug": "line-of-duty-temporada-7-confirmada",
+      "categorias": [
+        {
+          "nome": "Line of Duty",
+          "grupo": "obras",
+          "evidence": "Jed Mercurio's hit crime drama, Line of Duty"
+        },
+        {
+          "nome": "BBC",
+          "grupo": "plataformas",
+          "evidence": "the BBC has officially confirmed"
+        }
+      ],
+      "tags_sugeridas": [
+        "Line of Duty",
+        "BBC",
+        "Jed Mercurio",
+        "Martin Compston",
+        "Vicky McClure",
+        "Adrian Dunbar",
+        "AC-12"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Line of Duty: Série de crime da BBC retorna para 7ª temporada",
+        "_yoast_wpseo_metadesc": "A BBC confirma o retorno de Line of Duty para a 7ª temporada com o elenco principal e Jed Mercurio. Saiba os detalhes do novo caso da AC-12.",
+        "_yoast_wpseo_focuskw": "Line of Duty temporada 7",
+        "_yoast_news_keywords": "Line of Duty, BBC, Jed Mercurio, Martin Compston, Vicky McClure, Adrian Dunbar, AC-12, série de crime",
+        "_yoast_wpseo_opengraph-title": "Line of Duty: Série de crime da BBC retorna para 7ª temporada",
+        "_yoast_wpseo_opengraph-description": "Após anos de especulações, a BBC confirma oficialmente a sétima temporada de Line of Duty, com o retorno do elenco principal e de Jed Mercurio. Saiba mais sobre o novo caso da AC-12.",
+        "_yoast_wpseo_twitter-title": "Line of Duty: Série de crime da BBC retorna para 7ª temporada",
+        "_yoast_wpseo_twitter-description": "Após anos de especulações, a BBC confirma oficialmente a sétima temporada de Line of Duty, com o retorno do elenco principal e de Jed Mercurio. Saiba mais sobre o novo caso da AC-12."
+      }
+    },
+    {
+      "titulo_final": "Marvel: Spidey and His Amazing Friends volta com 4ª temporada na Disney+",
+      "conteudo_final": "<p>O <strong>Homem-Aranha</strong> retorna em uma nova produção da Marvel em apenas uma semana, ajudando a preencher a lacuna até a próxima grande aventura do herói. Os filmes do <em>Homem-Aranha</em> de Tom Holland estão entre os projetos de maior sucesso do MCU, com uma nova entrada prevista para 2026. <em>Spider-Man: Brand New Day</em> marca uma nova era para o Homem-Aranha de Holland, com o Hulk e o Justiceiro também aparecendo.</p><p>O Homem-Aranha do MCU também pode estar em <em>Avengers: Doomsday</em>, embora a Marvel ainda não tenha anunciado o envolvimento de Holland no filme. Dito isso, os filmes do MCU não são os únicos projetos futuros do Homem-Aranha. A série live-action de Nicolas Cage como Spider-Man Noir, <em>Spider-Noir</em>, estreia no Prime Video em 2026, e a animação <em>Spider-Man: Beyond the Spider-Verse</em> chega aos cinemas em 2027.</p><p>Antes de todos esses lançamentos, o <strong>Homem-Aranha aparecerá em um projeto de 2025 que pode estar passando despercebido por muitos fãs da Marvel.</strong> No entanto, a série do Peter Parker já exibiu várias temporadas e seu retorno oferece mais conteúdo do Homem-Aranha para famílias antes de <em>Spider-Man: Brand New Day</em>.</p><h2>Homem-Aranha retorna em série animada na próxima semana</h2><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/ca-timesbrightspotcdn-Cropped.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/ca-timesbrightspotcdn-Cropped.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/ca-timesbrightspotcdn-Cropped.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/ca-timesbrightspotcdn-Cropped.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/ca-timesbrightspotcdn-Cropped.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/ca-timesbrightspotcdn-Cropped.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/><img alt=\"Ghost, Homem-Aranha e Spin pulando no ar na série animada da Disney Spidey and His Amazing Friends\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/ca-timesbrightspotcdn-Cropped.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" decoding=\"async\" height=\"413\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/ca-timesbrightspotcdn-Cropped.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" width=\"825\"/></picture><figcaption>Personagens da série animada Spidey and His Amazing Friends.</figcaption></figure><p>Enquanto o Homem-Aranha de Tom Holland só retornará em 2026, na próxima semana veremos o retorno de outro Homem-Aranha consolidado. <strong><em>Marvel's Spidey and His Amazing Friends</em>, 4ª temporada, chegará ao Disney+ em 26 de novembro.</strong> A série animada já lançou 168 episódios ao longo de três temporadas, com cada episódio apresentando duas histórias. O Homem-Aranha é dublado por Benjamin Valic.</p><figure class="video-container"><iframe src="https://www.youtube.com/embed/EPgEtFmTxpU" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></figure><p>A série animada é voltada para o público jovem, mas é uma ótima opção para famílias que gostam do Homem-Aranha. Peter não está sozinho como protagonista da série, com <em>Spidey and His Amazing Friends</em> <strong>também estrelando Jakari Fraser/Carter Young como Miles Morales e Lily Sanfelippo/Audrey Bennett como Gwen Stacy.</strong> A versão animada de Gwen também tem poderes, atendendo pelo nome de Ghost-Spider.</p><h2>Série Marvel's Spider-Man marca um ponto de virada</h2><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mixcollage-08-aug-2025-10-37-am-7841.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mixcollage-08-aug-2025-10-37-am-7841.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mixcollage-08-aug-2025-10-37-am-7841.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mixcollage-08-aug-2025-10-37-am-7841.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mixcollage-08-aug-2025-10-37-am-7841.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mixcollage-08-aug-2025-10-37-am-7841.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"O logo do Disney+\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mixcollage-08-aug-2025-10-37-am-7841.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"826\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mixcollage-08-aug-2025-10-37-am-7841.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>O logo do Disney+.</figcaption></figure><p><em>Marvel's Spidey and His Amazing Friends</em>, 4ª temporada, será o último lançamento da Marvel no Disney+ em 2025. Recentemente, <em>The Fantastic Four: First Steps</em> estreou na plataforma em 5 de novembro, servindo como o último lançamento do MCU no Disney+ este ano. Em seguida, veio <em>Marvel's Iron Man and His Awesome Friends</em> em 12 de novembro, seguido por dois lançamentos em 14 de novembro.</p><p>Esses foram os novos episódios da série Avengers, o especial de duas partes <em>LEGO Marvel Avengers: Strange Tails</em>, e <em>Madame Web</em> da Sony, que saiu da Netflix para o Disney+. Inicialmente, a série <em>Wonder Man</em> do MCU teria sido lançada em dezembro, mas foi adiada para 27 de janeiro de 2026. Assim, o retorno da série do <strong>Homem-Aranha</strong> encerra os lançamentos da Marvel em 2025 no Disney+, e vale a pena assistir para as famílias.</p>",
+      "meta_description": "A 4ª temporada de Marvel's Spidey and His Amazing Friends estreia em 26 de novembro no Disney+. Saiba mais sobre o retorno do Homem-Aranha e outros projetos.",
+      "focus_keyphrase": "Spidey and His Amazing Friends temporada 4",
+      "related_keyphrases": [
+        "Homem-Aranha Disney+",
+        "Marvel séries animadas",
+        "Próximos lançamentos Marvel"
+      ],
+      "slug": "spidey-amazing-friends-temporada-4-disney-plus",
+      "categorias": [
+        {
+          "nome": "Homem-Aranha",
+          "grupo": "franquias",
+          "evidence": "Spider-Man returns"
+        },
+        {
+          "nome": "Marvel",
+          "grupo": "editorias",
+          "evidence": "Marvel release"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "Disney+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Homem-Aranha",
+        "Spidey and His Amazing Friends",
+        "Disney+",
+        "Marvel",
+        "Séries animadas",
+        "MCU"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Marvel: Spidey and His Amazing Friends volta com 4ª temporada na Disney+",
+        "_yoast_wpseo_metadesc": "A 4ª temporada de Marvel's Spidey and His Amazing Friends estreia em 26 de novembro no Disney+. Saiba mais sobre o retorno do Homem-Aranha e outros projetos.",
+        "_yoast_wpseo_focuskw": "Spidey and His Amazing Friends temporada 4",
+        "_yoast_news_keywords": "Homem-Aranha, Spidey and His Amazing Friends, Disney+, Marvel, Séries animadas, MCU, Tom Holland",
+        "_yoast_wpseo_opengraph-title": "Marvel: Spidey and His Amazing Friends volta com 4ª temporada na Disney+",
+        "_yoast_wpseo_opengraph-description": "A 4ª temporada de Marvel's Spidey and His Amazing Friends estreia em 26 de novembro no Disney+. Saiba mais sobre o retorno do Homem-Aranha e outros projetos da Marvel.",
+        "_yoast_wpseo_twitter-title": "Marvel: Spidey and His Amazing Friends volta com 4ª temporada na Disney+",
+        "_yoast_wpseo_twitter-description": "A 4ª temporada de Marvel's Spidey and His Amazing Friends estreia em 26 de novembro no Disney+. Saiba mais sobre o retorno do Homem-Aranha e outros projetos da Marvel."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Buffy: O vilão Der Kindestod é o mais assustador da série",
+      "conteudo_final": "<p>Ao longo de suas sete temporadas, <b>Buffy, a Caça-Vampiros</b> apresentou uma galeria de vilões memoráveis, mas um em particular se destaca como o mais aterrorizante. A Caça-Vampiros <b>Buffy Summers</b> (Sarah Michelle Gellar) enfrentou inúmeras criaturas assustadoras, como é seu dever.</p>\n\n<h2>Der Kindestod: O Confronto Mais Assustador</h2>\n<p>Nem todos os monstros são criados iguais. Enquanto alguns vilões, como adolescentes possuídos por um deus hiena, podem ser mais cômicos, outros reúnem elementos de puro terror. Um desses monstros, que parece assustador demais até mesmo para o universo de <b>Buffy</b>, surge na segunda temporada da série.</p>\n\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Descubra por que Der Kindestod, o monstro da segunda temporada de Buffy, a Caça-Vampiros, é considerado o vilão mais assustador da série. Detalhes do episódio.",
+      "focus_keyphrase": "Der Kindestod Buffy",
+      "related_keyphrases": [
+        "Buffy a Caça-Vampiros vilões",
+        "episódio Killed by Death",
+        "monstros Buffy"
+      ],
+      "slug": "buffy-der-kindestod-vilao-assustador",
+      "categorias": [
+        {
+          "nome": "Buffy, a Caça-Vampiros",
+          "grupo": "franquias",
+          "evidence": "Buffy Summers (Sarah Michelle Gellar)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Buffy",
+        "Buffy a Caça-Vampiros",
+        "Der Kindestod",
+        "Sarah Michelle Gellar",
+        "Joss Whedon",
+        "TV",
+        "terror"
+      ],
+      "image_alt_texts": {
+        "der-kindestod-extending-its-eyeballs-in-buffy-the-vampire-slayer.jpg": "Der Kindestod com seus globos oculares se abrindo em Buffy, a Caça-Vampiros",
+        "der-kindestod-buffy.jpg": "O vilão Der Kindestod em cena"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Buffy: Der Kindestod é o vilão mais assustador da série | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra por que Der Kindestod, o monstro da segunda temporada de Buffy, a Caça-Vampiros, é considerado o vilão mais assustador da série. Detalhes do episódio.",
+        "_yoast_wpseo_focuskw": "Der Kindestod Buffy",
+        "_yoast_news_keywords": "Buffy, Buffy a Caça-Vampiros, Der Kindestod, Sarah Michelle Gellar, Joss Whedon, TV, terror",
+        "_yoast_wpseo_opengraph-title": "Buffy: Der Kindestod é o vilão mais assustador da série",
+        "_yoast_wpseo_opengraph-description": "O monstro Der Kindestod, introduzido na segunda temporada de Buffy, a Caça-Vampiros, é frequentemente citado como o mais aterrorizante da série.",
+        "_yoast_wpseo_twitter-title": "Buffy: Der Kindestod é o vilão mais assustador da série",
+        "_yoast_wpseo_twitter-description": "O monstro Der Kindestod, introduzido na segunda temporada de Buffy, a Caça-Vampiros, é frequentemente citado como o mais aterrorizante da série."
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Spidey and Iron Man: Produtor Detalha Futuro dos Jovens Vingadores",
+      "conteudo_final": "<p>A <a href=\"https://www.maquinanerd.com.br/tag/marvel\">Marvel</a> uniu seus universos de séries animadas para o público infantil com o crossover inédito de <b>Spidey and His Amazing Friends</b> e <b>Iron Man and His Awesome Friends</b>, disponível no Disney+. A animação <b>Spidey and Iron Man: Avengers Team Up</b> apresenta a primeira grande história dos Vingadores para estas séries voltadas para pré-escolares, contando com participações de personagens como Capitão América (Sam Wilson), Pantera Negra, Ms. Marvel e Hulk.</p><h2>A Jornada dos Jovens Heróis</h2><p>Este é o primeiro encontro desses Vingadores no Disney Junior, servindo como um pilar para expandir a versão jovem desses heróis. Novas aventuras de <b>Spidey and Iron Man</b> estão a caminho, juntamente com uma série completa dos Vingadores prevista para 2027. Um clipe exclusivo da produção já pode ser conferido.</p><p>Em entrevista, o produtor-executivo Harrison Wilcox abordou a possível confusão entre as versões de Spidey e Homem de Ferro, já que Peter Parker já teve interações com um Tony Stark mais velho em <b>Amazing Friends</b>. John Stamos dubla ambos os personagens, dando voz a um Tony adulto em uma série e ao pai Howard Stark na outra.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2024/12/jim-carrey-dr-robotnik-sonic.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><p>“A coisa mais importante para nós é contar histórias que sejam relacionáveis para pré-escolares”, explicou Wilcox. “A melhor forma de fazer isso é ter personagens que são crianças como eles, mas que ainda incorporam o espírito dos personagens da Marvel que todos amamos. Narrativas conectadas de longa duração, com toda a diversão e emoção que isso traz para nossos fãs mais velhos da Marvel, ainda não são relevantes para nosso público mais jovem.”</p><p>Wilcox também afirmou que este especial não terá impacto significativo nas séries solo de <b>Spidey</b> ou <b>Iron Man</b>, pois a abordagem para este público é intencionalmente episódica.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/02/f-i-n-a-l-f-a-n-t-a-s-y.png?w=300\" alt=\"\"><figcaption></figcaption></figure><p>“Nossa narrativa para pré-escolares é episódica para que, não importa onde comecem a assistir, as crianças possam aproveitar o primeiro episódio tanto quanto o centésimo”, disse ele. “Da mesma forma, este especial não afetará a narrativa mais ampla de nenhum dos shows, mas é uma celebração de todos esses personagens se unindo. E ajuda a preparar o palco para nossa próxima série, <b>Marvel’s Avengers: Mightiest Friends</b>, com estreia em 2027, que evoluirá da série <b>Iron Man</b> e apresentará ainda mais personagens dos Vingadores para os pré-escolares se apaixonarem.”</p><p>Para os fãs que buscam mais aventuras desses heróis queridos, há muito o que esperar sobre o futuro desta jovem franquia. Tanto <b>Spidey</b> quanto <b>Iron Man</b> terão novos episódios a caminho, juntamente com os crossovers dos Vingadores. Além disso, segundo Wilcox, outro herói popular está prestes a fazer sua estreia.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Demon-Slayer-1.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><p>“Um novo lote de episódios de <b>Marvel’s Iron Man and his Awesome Friends</b> será lançado no Disney+ em novembro”, disse Wilcox. “E logo depois disso, outro herói querido da Marvel fará sua estreia na série.”</p><p><b>Spidey and Iron Man: Avengers Team Up</b> já está disponível no Disney+, ao lado de <b>Spidey and His Amazing Friends</b> e <b>Iron Man and His Awesome Friends</b>.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/King-of-the-Hill-Hank-Angry.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/MixCollage-15-Oct-2025-10-55-AM-2775.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/blazing-saddles-movie-streaming-prime-video.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://img.youtube.com/vi/3cDYoMGKbNA/hqdefault.jpg\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://img.youtube.com/vi/3cDYoMGKbNA/maxresdefault.jpg\" alt=\"\"><figcaption></figcaption></figure>",
+      "meta_description": "Produtor de Spidey and Iron Man detalha o futuro dos desenhos animados da Marvel para crianças, incluindo novos episódios e a série Avengers: Mightiest Friends.",
+      "focus_keyphrase": "Spidey and Iron Man: Avengers Team Up",
+      "related_keyphrases": [
+        "Spidey and His Amazing Friends",
+        "Marvel Preschool",
+        "Avengers Mightiest Friends"
+      ],
+      "slug": "spidey-iron-man-futuro-avengers",
+      "categorias": [
+        {
+          "nome": "Spidey and His Amazing Friends",
+          "grupo": "obras",
+          "evidence": "Spidey and His Amazing Friends"
+        },
+        {
+          "nome": "Iron Man and His Awesome Friends",
+          "grupo": "obras",
+          "evidence": "Iron Man and His Awesome Friends"
+        },
+        {
+          "nome": "Marvel",
+          "grupo": "franquias",
+          "evidence": "Marvel"
+        }
+      ],
+      "tags_sugeridas": [
+        "Spidey and His Amazing Friends",
+        "Iron Man and His Awesome Friends",
+        "Marvel Preschool",
+        "Avengers Mightiest Friends",
+        "Disney Junior"
+      ],
+      "image_alt_texts": {
+        "jim-carrey-dr-robotnik-sonic.jpg": "Cena de Spidey and Iron Man: Avengers Team Up com os personagens da Marvel.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Imagem promocional de Spidey and Iron Man: Avengers Team Up.",
+        "Demon-Slayer-1.jpg": "Personagens de Spidey and Iron Man: Avengers Team Up em ação.",
+        "King-of-the-Hill-Hank-Angry.jpg": "Cena animada de Spidey and Iron Man: Avengers Team Up.",
+        "MixCollage-15-Oct-2025-10-55-AM-2775.jpg": "Montagem de personagens de Spidey and Iron Man: Avengers Team Up.",
+        "blazing-saddles-movie-streaming-prime-video.jpg": "Arte conceitual de Spidey and Iron Man: Avengers Team Up.",
+        "hqdefault.jpg": "Imagem de destaque de Spidey and Iron Man: Avengers Team Up.",
+        "maxresdefault.jpg": "Capa do especial Spidey and Iron Man: Avengers Team Up."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Spidey and Iron Man: Produtor Detalha Futuro dos Jovens Vingadores | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Produtor de Spidey and Iron Man detalha o futuro dos desenhos animados da Marvel para crianças, incluindo novos episódios e a série Avengers: Mightiest Friends.",
+        "_yoast_wpseo_focuskw": "Spidey and Iron Man: Avengers Team Up",
+        "_yoast_news_keywords": "Spidey and Iron Man, Marvel Preschool, Disney Junior, Avengers Mightiest Friends, Harrison Wilcox",
+        "_yoast_wpseo_opengraph-title": "Spidey and Iron Man: Produtor Detalha Futuro dos Jovens Vingadores",
+        "_yoast_wpseo_opengraph-description": "Produtor de Spidey and Iron Man detalha o futuro dos desenhos animados da Marvel para crianças, incluindo novos episódios e a série Avengers: Mightiest Friends.",
+        "_yoast_wpseo_twitter-title": "Spidey and Iron Man: Produtor Detalha Futuro dos Jovens Vingadores",
+        "_yoast_wpseo_twitter-description": "Produtor de Spidey and Iron Man detalha o futuro dos desenhos animados da Marvel para crianças, incluindo novos episódios e a série Avengers: Mightiest Friends."
+      }
+    },
+    {
+      "titulo_final": "Os Simpsons: Novo Look do Treehouse of Horror Revela Springfield Alterada",
+      "conteudo_final": "<p>A temporada de Halloween não estaria completa sem <b>Os Simpsons</b> parodiando a cultura pop de terror com seu especial anual <b>Treehouse of Horror</b>. Desta vez, Homer, Bart, Lisa, Marge e Maggie planejam satirizar obras de terror recentes. Uma nova prévia do 36º <b>Treehouse of Horror</b> não só apresenta os personagens em cenários inusitados, mas também sugere uma radical transformação em Springfield, preparando os fãs para o Halloween.</p><h2>O Treehouse of Horror e Suas Inovações</h2><p>A 36ª edição de <b>The Simpsons</b>' Treehouse of Horror parece homenagear filmes como <b>The Stuff</b>, <b>Mad Max: Fury Road</b> e <b>Late Night With The Devil</b>. Além dessas paródias, um novo pôster revelou que os cidadãos de Springfield serão substituídos por figuras de ação. Anteriormente, a série animada da FOX já explorou novas animações para apresentar visões únicas da família Simpson. O estilo de figuras de ação promete trazer uma história envolvente para este conto assustador.</p><p>A FOX descreve a mais recente edição de <b>Treehouse of Horror</b>: “Neste installment anual de sustos, a cidade é ameaçada por um misterioso monstro assassino vindo dos esgotos, Krusty tem um convidado demoníaco especial em seu especial de Halloween, e viajamos mil anos para o futuro pós-apocalíptico e de plástico de Springfield no novíssimo episódio 'Treehouse of Horror XXXVI' de THE SIMPSONS, exibido no domingo, 19 de outubro, das 20h às 20h31 (ET/PT) na FOX.”</p><p>Quanto ao futuro de <b>Treehouse of Horror</b>, é provável que vejamos mais algumas edições deste especial de Halloween. <b>The Simpsons</b> foi renovado pela FOX até a trigésima sexta temporada, o que significa que provavelmente receberemos mais três novas instalações assustadoras. Além do especial de Halloween, esta temporada também planeja lançar o 800º episódio da série, que certamente trará grandes surpresas.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2024/12/jim-carrey-dr-robotnik-sonic.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><p>Juntamente com as aventuras na TV em Springfield, <b>The Simpsons</b> também planeja retornar às telonas com <b>The Simpsons Movie 2</b>. Previsto para julho de 2027, o enredo do filme ainda é um mistério, mas é provável que, assim como o primeiro, explore novos horizontes para os melhores de Springfield.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/02/f-i-n-a-l-f-a-n-t-a-s-y.png?w=300\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Demon-Slayer-1.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/King-of-the-Hill-Hank-Angry.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/MixCollage-15-Oct-2025-10-55-AM-2775.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Treehouse.jpg?w=691\" alt=\"\"><figcaption></figcaption></figure><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/blazing-saddles-movie-streaming-prime-video.jpg?w=300\" alt=\"\"><figcaption></figcaption></figure>",
+      "meta_description": "Os Simpsons revelam o visual do próximo Treehouse of Horror, com Springfield apresentando uma nova e surpreendente transformação, além de paródias.",
+      "focus_keyphrase": "The Simpsons Treehouse of Horror",
+      "related_keyphrases": [
+        "Os Simpsons",
+        "Especial de Halloween Simpsons",
+        "Novidades The Simpsons"
+      ],
+      "slug": "simpsons-treehouse-horror-springfield-mudanca",
+      "categorias": [
+        {
+          "nome": "The Simpsons",
+          "grupo": "obras",
+          "evidence": "The Simpsons"
+        },
+        {
+          "nome": "Treehouse of Horror",
+          "grupo": "obras",
+          "evidence": "Treehouse of Horror"
+        }
+      ],
+      "tags_sugeridas": [
+        "Os Simpsons",
+        "Treehouse of Horror",
+        "FOX",
+        "Animação",
+        "Halloween"
+      ],
+      "image_alt_texts": {
+        "jim-carrey-dr-robotnik-sonic.jpg": "Imagem de Os Simpsons: Novo Treehouse of Horror com visual alterado de Springfield.",
+        "f-i-n-a-l-f-a-n-t-a-s-y.png": "Prévia do especial Treehouse of Horror XXXVI de Os Simpsons.",
+        "Demon-Slayer-1.jpg": "Cena de paródia em Os Simpsons Treehouse of Horror.",
+        "King-of-the-Hill-Hank-Angry.jpg": "Personagens de Os Simpsons em novo estilo de animação.",
+        "MixCollage-15-Oct-2025-10-55-AM-2775.jpg": "Montagem com cenas de Os Simpsons Treehouse of Horror.",
+        "Treehouse.jpg": "Pôster de Os Simpsons: Treehouse of Horror XXXVI com Springfield transformada.",
+        "blazing-saddles-movie-streaming-prime-video.jpg": "Arte conceitual de Os Simpsons Treehouse of Horror."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Os Simpsons: Novo Look do Treehouse of Horror Revela Springfield Alterada | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Os Simpsons revelam o visual do próximo Treehouse of Horror, com Springfield apresentando uma nova e surpreendente transformação, além de paródias.",
+        "_yoast_wpseo_focuskw": "The Simpsons Treehouse of Horror",
+        "_yoast_news_keywords": "Os Simpsons, Treehouse of Horror, FOX, Animação, Halloween",
+        "_yoast_wpseo_opengraph-title": "Os Simpsons: Novo Look do Treehouse of Horror Revela Springfield Alterada",
+        "_yoast_wpseo_opengraph-description": "Os Simpsons revelam o visual do próximo Treehouse of Horror, com Springfield apresentando uma nova e surpreendente transformação, além de paródias.",
+        "_yoast_wpseo_twitter-title": "Os Simpsons: Novo Look do Treehouse of Horror Revela Springfield Alterada",
+        "_yoast_wpseo_twitter-description": "Os Simpsons revelam o visual do próximo Treehouse of Horror, com Springfield apresentando uma nova e surpreendente transformação, além de paródias."
+      }
+    },
+    {
+      "titulo_final": "Borderlands 4: Criador Confirma Funcionamento Fixo dos Drops Dedicados",
+      "conteudo_final": "<p>O diretor criativo de <b>Borderlands 4</b>, Graeme Timmins, esclareceu definitivamente como funcionam os <b>Dedicated Drops</b>, após gerar considerável confusão e \"desinformação\" entre os jogadores.</p><p>Desde o início da franquia <b>Borderlands</b>, um dos principais atrativos tem sido a vasta quantidade de armas que os jogadores podem obter através do grind, buscando as melhores para empunhar. A quantidade de armas e o potencial de grind só aumentaram a cada jogo, com <b>Borderlands 4</b> prometendo \"bilhões\" de armas únicas para descobrir.</p><p>Como parte divertida do gênero looter-shooter, os jogadores de <b>Borderlands</b> podem contar com os <b>Dedicated Drops</b>, presentes desde o primeiro jogo. Como o nome sugere, <b>Dedicated Drops</b> são armas dropadas especificamente por certos chefes, oferecendo aos jogadores a chance de obter loot de diversas raridades ao enfrentar o mesmo inimigo repetidamente.</p><h2>Drops Dedicados em Borderlands 4 Não Mudam com a Dificuldade</h2><p><b>Borderlands 4</b> mantém os <b>Dedicated Drops</b>, garantindo que armas únicas sejam dropadas de forma confiável após encontros com chefes específicos. Embora isso pareça simples, alguns fãs ficaram confusos sobre como exatamente eles funcionam no jogo e se os <b>Dedicated Drops</b> mudam com o nível de dificuldade.</p><p>Conforme noticiado por outros sites, o usuário do Twitter Ki11ersix perguntou diretamente a Graeme Timmins, diretor criativo de <b>Borderlands 4</b>, para esclarecer o funcionamento dos <b>Dedicated Drops</b> e confirmar como são implementados no jogo. Timmins respondeu explicando que os <b>Dedicated Drops</b> são completamente fixos e \"não são influenciados pela dificuldade\".</p><p>\"Não queríamos 'forçar' os jogadores a dificuldades mais altas se não estivessem prontos, então qualquer um pode farmar dedicados e aproveitar o jogo\", afirmou Graeme Timmins.</p><p>Timmins apontou que essa decisão foi tomada para que os jogadores não se sintam obrigados a jogar em modos de dificuldade mais elevados, como o Ultimate Vault Hunter, se não estiverem preparados, e para que qualquer um possa simplesmente \"aproveitar o jogo\". Quanto aos que jogam no Ultimate Vault Hunter, Timmins diz que a XP, moedas, um leve aumento nos drops globais e Firmware são recompensas suficientes.</p><p>Portanto, se você ainda está jogando <b>Borderlands 4</b> e se perguntando se precisa aumentar a dificuldade para obter <b>Dedicated Drops</b>, agora você sabe a verdade. Embora você possa não obter tanta XP e drops globais quanto no UVH, você tem a garantia de algumas armas boas.</p>",
+      "meta_description": "Diretor criativo de Borderlands 4 confirma que os drops dedicados são fixos e não dependem da dificuldade, permitindo que todos os jogadores aproveitem o loot.",
+      "focus_keyphrase": "Borderlands 4 Dedicated Drops",
+      "related_keyphrases": [
+        "Borderlands 4",
+        "Loot Borderlands",
+        "Gearbox Software"
+      ],
+      "slug": "borderlands-4-drops-dedicados-dificuldade",
+      "categorias": [
+        {
+          "nome": "Borderlands 4",
+          "grupo": "obras",
+          "evidence": "Borderlands 4"
+        },
+        {
+          "nome": "Gearbox Software",
+          "grupo": "franquias",
+          "evidence": "Gearbox Software"
+        }
+      ],
+      "tags_sugeridas": [
+        "Borderlands 4",
+        "Dedicated Drops",
+        "Gearbox Software",
+        "Loot",
+        "Graeme Timmins"
+      ],
+      "image_alt_texts": {
+        "borderlands-4-tag-page-cover-art.jpg": "Arte da capa de Borderlands 4, destacando a palavra-chave Dedicated Drops."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Borderlands 4: Criador Confirma Funcionamento Fixo dos Drops Dedicados | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Diretor criativo de Borderlands 4 confirma que os drops dedicados são fixos e não dependem da dificuldade, permitindo que todos os jogadores aproveitem o loot.",
+        "_yoast_wpseo_focuskw": "Borderlands 4 Dedicated Drops",
+        "_yoast_news_keywords": "Borderlands 4, Dedicated Drops, Gearbox Software, Loot, Graeme Timmins",
+        "_yoast_wpseo_opengraph-title": "Borderlands 4: Criador Confirma Funcionamento Fixo dos Drops Dedicados",
+        "_yoast_wpseo_opengraph-description": "Diretor criativo de Borderlands 4 confirma que os drops dedicados são fixos e não dependem da dificuldade, permitindo que todos os jogadores aproveitem o loot.",
+        "_yoast_wpseo_twitter-title": "Borderlands 4: Criador Confirma Funcionamento Fixo dos Drops Dedicados",
+        "_yoast_wpseo_twitter-description": "Diretor criativo de Borderlands 4 confirma que os drops dedicados são fixos e não dependem da dificuldade, permitindo que todos os jogadores aproveitem o loot."
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Neo-Noir: Os 10 Melhores Filmes de Suspense que Redefiniram o Gênero",
+      "conteudo_final": "<p>A lista dos <strong>melhores filmes neo-noir</strong> apresenta produções brilhantes que subvertem os clássicos do Film Noir. O gênero surgiu nos anos 1940, com histórias de crime e suspense em um estilo visual inspirado no expressionismo alemão. O movimento neo-noir adaptou essas ideias para o público contemporâneo, introduzindo tramas mais violentas e sensuais, com uma cinematografia atualizada.</p><p>No entanto, as narrativas sombrias e os dramas criminais, que exploram o lado mais obscuro da vida, permaneceram. Os melhores filmes neo-noir expandiram os limites do que foi visto anteriormente.</p><h2>The Naked Kiss (1964)</h2><figure><img src=\"https:
+      "meta_description": "Descubra os 10 melhores filmes neo-noir que redefiniram o gênero com suas tramas sombrias, personagens complexos e atmosferas de suspense.",
+      "focus_keyphrase": "melhores filmes neo-noir",
+      "related_keyphrases": [
+        "filmes de suspense neo-noir",
+        "cinema neo-noir",
+        "clássicos do neo-noir"
+      ],
+      "slug": "melhores-filmes-neo-noir",
+      "categorias": [
+        {
+          "nome": "Neo-Noir",
+          "grupo": "gêneros",
+          "evidence": "O movimento neo-noir drew on the ideas of Film Noir"
+        },
+        {
+          "nome": "Film Noir",
+          "grupo": "gêneros",
+          "evidence": "The best neo-noir films include some brilliant releases that subvert the classic Film Noir films of the past."
+        },
+        {
+          "nome": "Suspense",
+          "grupo": "gêneros",
+          "evidence": "subvert the classic Film Noir films of the past. In the 1940s, film noir exploded, offering stories that were often hard-boiled or crime fiction"
+        }
+      ],
+      "tags_sugeridas": [
+        "neo-noir",
+        "film noir",
+        "suspense",
+        "cinema",
+        "filmes clássicos",
+        "Martin Scorsese",
+        "Akira Kurosawa"
+      ],
+      "image_alt_texts": {
+        "constance-towers-as-kelly-praying-over-a-child-in-the-naked-kiss.jpg": "Constance Towers como Kelly rezando em The Naked Kiss, um dos melhores filmes neo-noir.",
+        "angela-lansbury-as-mrs-eleanor-shaw-iselin-with-a-playing-card-in-the-manchurian-candidate.jpg": "Angela Lansbury em The Manchurian Candidate, um clássico do suspense neo-noir.",
+        "robert-de-niro-as-travis-bickel-looking-in-the-mirror-in-taxi-driver.jpg": "Robert De Niro como Travis Bickle em Taxi Driver, um icônico filme neo-noir.",
+        "lee-marvin-as-charlie-strom-shooting-a-gun-in-the-killers.jpg": "Lee Marvin em The Killers, um violento filme neo-noir.",
+        "gene-hackman-as-harry-r-caul-in-the-conversation.jpg": "Gene Hackman como Harry Caul em The Conversation, um suspense psicológico neo-noir.",
+        "alain-delon-as-jef-costello-standing-outside-in-le-samourai.jpg": "Alain Delon como Jef Costello em Le Samourai, um minimalista neo-noir.",
+        "toshiro-mifune-as-k-ichi-nishi-in-the-bad-sleep-well.jpg": "Toshiro Mifune em The Bad Sleep Well, um neo-noir de Akira Kurosawa.",
+        "gene-hackman-as-popeye-doyle-standing-in-the-street-in-french-connection.jpg": "Gene Hackman como Popeye Doyle em The French Connection, um thriller neo-noir.",
+        "guy-pearce-with-la-confidential-costars-russell-crowe-and-kevin-spacey.jpg": "Guy Pearce, Russell Crowe e Kevin Spacey em L.A. Confidential, um aclamado neo-noir.",
+        "roman-polanski-cuts-jack-nicholson-as-jake-gittes-nose-in-chinatown.jpg": "Jack Nicholson como Jake Gittes em Chinatown, considerado o melhor neo-noir."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Neo-Noir: Os 10 Melhores Filmes de Suspense que Redefiniram o Gênero",
+        "_yoast_wpseo_metadesc": "Descubra os 10 melhores filmes neo-noir que redefiniram o gênero com suas tramas sombrias, personagens complexos e atmosferas de suspense.",
+        "_yoast_wpseo_focuskw": "melhores filmes neo-noir",
+        "_yoast_news_keywords": "neo-noir, film noir, suspense, cinema, filmes clássicos, Martin Scorsese, Akira Kurosawa, The Naked Kiss, The Manchurian Candidate, Taxi Driver",
+        "_yoast_wpseo_opengraph-title": "Neo-Noir: Os 10 Melhores Filmes de Suspense que Redefiniram o Gênero",
+        "_yoast_wpseo_opengraph-description": "Descubra os 10 melhores filmes neo-noir que redefiniram o gênero com suas tramas sombrias, personagens complexos e atmosferas de suspense.",
+        "_yoast_wpseo_twitter-title": "Neo-Noir: Os 10 Melhores Filmes de Suspense que Redefiniram o Gênero",
+        "_yoast_wpseo_twitter-description": "Descubra os 10 melhores filmes neo-noir que redefiniram o gênero com suas tramas sombrias, personagens complexos e atmosferas de suspense."
+      }
+    }
+  ]
+}

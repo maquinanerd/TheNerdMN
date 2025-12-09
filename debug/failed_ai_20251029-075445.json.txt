@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pokémon TCG Pocket: Ingresso VIP se torna loteria para jogadores",
+      "conteudo_final": "<p>Jogadores de <b>Pokémon TCG Pocket</b> aguardavam há um ano para descobrir o destino do misterioso Ingresso VIP (Advance Ticket). Uma atualização recente confirmou o uso do ingresso, e para a maioria, ele se mostra praticamente inútil.</p>\n<h2>Ingresso VIP de Pokémon TCG Pocket: Chance de ganhar 1.200 Horas de Pacotes</h2>\n<p>A equipe de Pokémon TCG Pocket divulgou um comunicado oficial sobre o Ingresso VIP, revelando seu propósito. Essencialmente, o ingresso funciona como uma <b>sorte</b><b> de loteria</b>. Um sorteio será realizado para celebrar o primeiro aniversário de Pocket, oferecendo diversas recompensas em \"Horas de Pacotes\" (Pack Hourglasses).</p>\n<p>Os ingressos VIP foram adicionados automaticamente ao inventário dos jogadores que começaram a usar o Pocket nos seus primeiros três meses de lançamento. O sorteio acontecerá nas primeiras horas do dia 30 de outubro de 2025, primeiro aniversário do jogo. Serão selecionados <b>100 jogadores</b> com Ingresso VIP para receberem 1.200 Horas de Pacotes cada. Outros 10.000 nomes serão sorteados para o segundo prêmio: 120 Horas de Pacotes.</p>\n<p>No entanto, o prêmio de terceiro lugar é o que mais desagradou os jogadores, levando-os a considerar todo o processo como inútil. O terceiro prêmio consiste em 24 Horas de Pacotes para <b>todos os outros jogadores</b>, independentemente de terem ou não um Ingresso VIP ou de quando começaram a jogar.</p>\n<p>Isso significa que, após um ano de especulação, a maioria dos jogadores entregará seu Ingresso VIP e receberá apenas 24 Horas de Pacotes, que serão distribuídas para todos. Isso <b>inutiliza o propósito do ingresso VIP</b>.</p>\n<p>Ainda há esperança para os jogadores de serem sorteados com 120 ou até 1.200 Horas de Pacotes. Contudo, as <b><a href=\"https:
+      "meta_description": "Pokémon TCG Pocket revela o uso do Ingresso VIP: uma loteria com chances mínimas de grandes prêmios, frustrando jogadores.",
+      "focus_keyphrase": "Pokémon TCG Pocket",
+      "related_keyphrases": [
+        "Ingresso VIP Pokémon TCG Pocket",
+        "Pokémon TCG Pocket loteria",
+        "Pokémon TCG Pocket recompensas"
+      ],
+      "slug": "pokemon-tcg-pocket-ingresso-loteria",
+      "categorias": [
+        {
+          "nome": "Pokémon TCG Pocket",
+          "grupo": "obras",
+          "evidence": "Pokemon TCG Pocket players have been waiting"
+        },
+        {
+          "nome": "Pokémon",
+          "grupo": "franquias",
+          "evidence": "Pokemon TCG Pocket"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokémon TCG Pocket",
+        "The Pokémon Company",
+        "DeNA",
+        "Creatures Inc.",
+        "Colecionáveis digitais",
+        "Jogos mobile"
+      ],
+      "image_alt_texts": {
+        "pokemon-tcg-pocket-1.jpg": "Tela do jogo Pokémon TCG Pocket com cartas digitais e interface de usuário.",
+        "pokemon-tcg-pocket-2.jpg": "Ilustração detalhada de cartas digitais do Pokémon TCG Pocket, com foco no item Ingresso VIP.",
+        "pokemon-tcg-pocket-3.jpg": "Interface do jogo Pokémon TCG Pocket exibindo a quantidade de Horas de Pacotes disponíveis para o jogador."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon TCG Pocket: Ingresso VIP é revelado como loteria",
+        "_yoast_wpseo_metadesc": "Pokémon TCG Pocket revela o uso do Ingresso VIP: uma loteria com chances mínimas de grandes prêmios, frustrando jogadores.",
+        "_yoast_wpseo_focuskw": "Pokémon TCG Pocket",
+        "_yoast_news_keywords": "Pokémon TCG Pocket, Pokémon, The Pokémon Company, DeNA, Creatures Inc., Ingresso VIP, Jogo mobile, Loterias",
+        "_yoast_wpseo_opengraph-title": "Pokémon TCG Pocket: Ingresso VIP vira loteria para jogadores",
+        "_yoast_wpseo_opengraph-description": "A aguardada revelação sobre o uso do Ingresso VIP em Pokémon TCG Pocket decepciona a maioria dos jogadores, transformando-o em uma loteria com chances mínimas de recompensas significativas.",
+        "_yoast_wpseo_twitter-title": "Pokémon TCG Pocket: Ingresso VIP é revelado como loteria",
+        "_yoast_wpseo_twitter-description": "A aguardada revelação sobre o uso do Ingresso VIP em Pokémon TCG Pocket decepciona a maioria dos jogadores, transformando-o em uma loteria com chances mínimas de recompensas significativas."
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "X-Men: Série Animada tem episódios que superam os filmes",
+      "conteudo_final": "<p>A série animada <b>X-Men: The Animated Series</b> apresenta episódios que se mostram adaptações superiores a qualquer um dos filmes live-action dos X-Men. Embora existam alguns episódios que podem ser pulados, a maioria possui grande mérito e definiu a equipe titular para uma geração inteira.</p><p>Mesmo com os diversos filmes de sucesso lançados nas décadas de 2000 e 2010, a série animada permaneceu como o padrão ouro para muitos fãs. Ao rever a série, fica claro que isso não se deve apenas à nostalgia. Muitos episódios de <b>X-Men: The Animated Series</b> ainda se sustentam hoje e adaptam histórias dos quadrinhos dos mutantes de forma mais eficaz do que qualquer filme.</p><p>Considerando também os melhores episódios de <b>X-Men '97</b>, a sequência da série original, vários capítulos se destacam acima dos 14 filmes principais dos X-Men.</p><h2>Time Fugitives: Part 1</h2><figure><img src=\"https:
+      "meta_description": "Descubra quais episódios de X-Men: The Animated Series e X-Men '97 superam os filmes live-action em adaptação e profundidade.",
+      "focus_keyphrase": "X-Men: The Animated Series",
+      "related_keyphrases": [
+        "X-Men '97",
+        "melhores episódios X-Men",
+        "adaptações X-Men"
+      ],
+      "slug": "x-men-serie-animada-episodios-superiores-filmes",
+      "categorias": [
+        {
+          "nome": "X-Men: The Animated Series",
+          "grupo": "obras",
+          "evidence": "<em>X-Men: The Animated Series</em>"
+        },
+        {
+          "nome": "X-Men '97",
+          "grupo": "obras",
+          "evidence": "<em>X-Men '97</em>"
+        },
+        {
+          "nome": "X-Men",
+          "grupo": "franquias",
+          "evidence": "X-Men movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "X-Men: The Animated Series",
+        "X-Men '97",
+        "Marvel",
+        "Animação",
+        "Super-heróis",
+        "Magneto",
+        "Jean Grey"
+      ],
+      "image_alt_texts": {
+        "bishop-fighting-the-x-men-in-x-men-the-animated-series-days-of-future-past.jpg": "Bishop lutando contra os X-Men em X-Men: The Animated Series.",
+        "cable-with-beast-in-x-men-the-animated-series.jpg": "Cable com Fera em X-Men: The Animated Series.",
+        "charles-xavier-walking-outdoors-in-x-men-the-animated-series-one-man-s-worth.jpg": "Charles Xavier caminhando ao ar livre em X-Men: The Animated Series.",
+        "magneto-standing-with-his-cape-billowing-in-x-men-the-animated-series.jpg": "Magneto em pé com sua capa esvoaçando em X-Men: The Animated Series.",
+        "jean-grey-with-the-phoenix-force-in-x-men-the-animated-series.jpg": "Jean Grey com a Força Fênix em X-Men: The Animated Series.",
+        "dark-phoenix-on-fire-in-x-men-the-animated-series.jpg": "Dark Phoenix em chamas em X-Men: The Animated Series.",
+        "bastion-with-his-dead-mother-in-x-men-97-episode-8.jpg": "Bastion com sua mãe morta no episódio 8 de X-Men '97.",
+        "magneto-trapped-in-x-men-97-episode-8.jpg": "Magneto preso no episódio 8 de X-Men '97.",
+        "x-men-97-magneto-giving-a-speech-will-surrounded-by-magnetic-energy.jpg": "Magneto discursando cercado por energia magnética em X-Men '97.",
+        "gambit-sacrificing-himself-in-x-men-97.jpg": "Gambit se sacrificando em X-Men '97.",
+        "x-men-the-animated-series-tv-poster.jpg": "Poster da série X-Men: The Animated Series."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "X-Men: Série Animada tem episódios que superam os filmes",
+        "_yoast_wpseo_metadesc": "Descubra quais episódios de X-Men: The Animated Series e X-Men '97 superam os filmes live-action em adaptação e profundidade.",
+        "_yoast_wpseo_focuskw": "X-Men: The Animated Series",
+        "_yoast_news_keywords": "X-Men: The Animated Series, X-Men '97, Marvel, Animação, Super-heróis, Magneto, Jean Grey",
+        "_yoast_wpseo_opengraph-title": "X-Men: Série Animada tem episódios que superam os filmes",
+        "_yoast_wpseo_opengraph-description": "Descubra quais episódios de X-Men: The Animated Series e X-Men '97 superam os filmes live-action em adaptação e profundidade.",
+        "_yoast_wpseo_twitter-title": "X-Men: Série Animada tem episódios que superam os filmes",
+        "_yoast_wpseo_twitter-description": "Descubra quais episódios de X-Men: The Animated Series e X-Men '97 superam os filmes live-action em adaptação e profundidade."
+      }
+    }
+  ]
+}

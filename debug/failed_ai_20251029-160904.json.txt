@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Tom Cruise se irritou com Colin Farrell em Minority Report por 46 takes",
+  "conteudo_final": "<p>Colin Farrell, estrela de <b>Minority Report</b>, relembrou um momento em que deixou Tom Cruise insatisfeito após ter dificuldades em gravar uma única linha do clássico de ficção científica de 2002. Dirigido por Steven Spielberg, o filme traz Cruise como John Anderton, um oficial da divisão PreCrime que entra em conflito com o agente do Departamento de Justiça Danny Witver, interpretado por Farrell.</p><figure><img src=\"https:
+  "meta_description": "Colin Farrell relembra cena de Minority Report onde Tom Cruise ficou insatisfeito após 46 tentativas para gravar uma única linha. Saiba mais!",
+  "focus_keyphrase": "Minority Report Tom Cruise Colin Farrell",
+  "related_keyphrases": [
+    "Colin Farrell Minority Report",
+    "Tom Cruise Minority Report",
+    "Minority Report bastidores"
+  ],
+  "slug": "minority-report-tom-cruise-colin-farrell-takes",
+  "categorias": [
+    {
+      "nome": "Minority Report",
+      "grupo": "obras",
+      "evidence": "Minority Report star Colin Farrell recalls upsetting Tom Cruise after struggling to say one line"
+    },
+    {
+      "nome": "Tom Cruise",
+      "grupo": "pessoas",
+      "evidence": "Tom Cruise Was \"Not Happy\" With Minority Report Star For Taking 46 Takes On One Line"
+    },
+    {
+      "nome": "Colin Farrell",
+      "grupo": "pessoas",
+      "evidence": "Minority Report star Colin Farrell recalls upsetting Tom Cruise"
+    }
+  ],
+  "tags_sugeridas": [
+    "minority report",
+    "tom cruise",
+    "colin farrell",
+    "steven spielberg",
+    "ficção científica",
+    "bastidores",
+    "cinema"
+  ],
+  "image_alt_texts": {
+    "Minority-Report-Movie-Poster.jpg": "Pôster do filme Minority Report com Tom Cruise e Colin Farrell, destacando o elenco principal."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Tom Cruise se irritou com Colin Farrell em Minority Report por 46 takes",
+    "_yoast_wpseo_metadesc": "Colin Farrell relembra cena de Minority Report onde Tom Cruise ficou insatisfeito após 46 tentativas para gravar uma única linha. Saiba mais!",
+    "_yoast_wpseo_focuskw": "Minority Report Tom Cruise Colin Farrell",
+    "_yoast_news_keywords": "Minority Report, Tom Cruise, Colin Farrell, Steven Spielberg, ficção científica, bastidores, cinema",
+    "_yoast_wpseo_opengraph-title": "Tom Cruise se irritou com Colin Farrell em Minority Report por 46 takes",
+    "_yoast_wpseo_opengraph-description": "Colin Farrell relembra cena de Minority Report onde Tom Cruise ficou insatisfeito após 46 tentativas para gravar uma única linha. Saiba mais!",
+    "_yoast_wpseo_twitter-title": "Tom Cruise se irritou com Colin Farrell em Minority Report por 46 takes",
+    "_yoast_wpseo_twitter-description": "Colin Farrell relembra cena de Minority Report onde Tom Cruise ficou insatisfeito após 46 tentativas para gravar uma única linha. Saiba mais!"
+  }
+}

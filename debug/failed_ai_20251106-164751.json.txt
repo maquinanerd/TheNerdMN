@@ -1,0 +1,145 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "A Múmia 4: Brendan Fraser e Rachel Weisz retornam em nova aventura",
+      "conteudo_final": "<p>Após 26 anos, Brendan Fraser e Rachel Weisz reprisam seus papéis como Rick O'Connell e Evelyn Carnahan na franquia <strong><em>A Múmia</em></strong>. A notícia do retorno da dupla para <em>A Múmia 4</em> gerou grande expectativa, pois o filme de 1999 é lembrado por sua ação, aventura, romance e o carisma dos protagonistas.</p><p>A química entre Fraser e Weisz é um dos principais motivos para os fãs clamarem por um novo filme. Agora, com a confirmação, a esperança é que a nova produção consiga recapturar o encanto dos dois primeiros filmes. A atriz não participou do terceiro longa, <em>A Múmia: Tumba do Imperador Dragão</em>, devido a problemas com o roteiro e o nascimento de seu filho, o que levou à substituição de sua personagem.</p><p>A volta de Weisz é um passo importante, especialmente porque <em>A Múmia 4</em> planeja ignorar os eventos do terceiro filme. Essa abordagem, que já foi bem-sucedida em outras franquias como <em>Halloween</em> e <em>O Exterminador do Futuro</em>, permite o retorno de estrelas originais sem se prender a sequências menos aclamadas.</p><p>A Universal também acertou ao escalar a dupla Matt Bettinelli-Olpin e Tyler Gillett, conhecida como Radio Silence, para a direção. Embora não tenham experiência prévia com o gênero de ação e aventura, eles demonstraram talento em filmes como <em>Pânico</em> e <em>Casamento Sangrento</em>, podendo trazer novos elementos de terror e suspense à série.</p><h2>Novas decisões e desafios para A Múmia 4</h2><p>A contratação do Radio Silence para revitalizar a franquia é uma decisão promissora. A expectativa é que eles infundam a série com elementos de terror e sobrenatural, evitando decepções.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/rachel-weisz-and-brendan-fraser-in-the-mummy.jpg?q=49&fit=crop&w=825&dpr=2" alt="Rachel Weisz e Brendan Fraser em A Múmia"/><figcaption>Brendan Fraser e Rachel Weisz retornam como Rick O'Connell e Evelyn Carnahan.</figcaption></figure><p>Apesar do entusiasmo, o sucesso de <em>A Múmia 4</em> não é garantido. Hollywood tem um histórico misto com sequências lançadas décadas após os originais. Filmes como <em>Star Wars: O Despertar da Força</em> e <em>Top Gun: Maverick</em> foram grandes sucessos, mas outros, como <em>Zoolander 2</em> e <em>Space Jam: Um Novo Legado</em>, falharam em atingir as expectativas.</p><p>Franquias maiores como <em>Independence Day</em>, <em>Tron</em>, <em>Gladiador</em>, <em>O Exterminador do Futuro</em>, <em>Matrix</em> e <em>Indiana Jones</em> enfrentaram dificuldades em reviver o interesse do público. Se a franquia <em>Indiana Jones</em> lutou para reconquistar audiências com Harrison Ford, é um desafio ainda maior para <em>A Múmia</em>.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/brendan-fraser-s-rick-and-rachel-weisz-s-evie-looking-off-into-the-sky-in-the-mummy.jpg?q=49&fit=crop&w=825&dpr=2" alt="Brendan Fraser e Rachel Weisz em A Múmia"/><figcaption>Rick e Evelyn em uma nova aventura.</figcaption></figure><p>Cada filme da trilogia original de <em>A Múmia</em> ultrapassou os US$ 400 milhões mundialmente, e o reboot de 2017 com Tom Cruise alcançou o mesmo feito. No entanto, é improvável que <em>A Múmia 4</em> atinja tais números, especialmente com a má gestão da propriedade intelectual ao longo dos anos.</p><p>Espera-se que a Universal ajuste o orçamento para dar ao filme uma chance de sucesso. O retorno de Fraser e Weisz pode revitalizar a franquia, mas o interesse do público é incerto. Se o filme enfrentar problemas semelhantes a outras sequências aguardadas, pode ser um erro de cálculo da Universal.</p>",
+      "meta_description": "Brendan Fraser e Rachel Weisz retornam em A Múmia 4, que ignora o terceiro filme e aposta na direção do Radio Silence. Saiba mais sobre as expectativas.",
+      "focus_keyphrase": "A Múmia 4 Brendan Fraser Rachel Weisz",
+      "related_keyphrases": [
+        "A Múmia 4",
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "Universal Pictures"
+      ],
+      "slug": "a-mumia-4-brendan-fraser-rachel-weisz-retornam",
+      "categorias": [
+        {
+          "nome": "A Múmia",
+          "grupo": "franquias",
+          "evidence": "Brendan Fraser and Rachel Weisz are returning as Rick O'Connell and Evelyn Carnahan."
+        },
+        {
+          "nome": "Universal Pictures",
+          "grupo": "editorias",
+          "evidence": "Universal's interest in reigniting the franchise"
+        }
+      ],
+      "tags_sugeridas": [
+        "A Múmia",
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "Universal Pictures",
+        "Radio Silence"
+      ],
+      "image_alt_texts": {
+        "rachel-weisz-and-brendan-fraser-in-the-mummy.jpg": "Rachel Weisz e Brendan Fraser em A Múmia, com Brendan Fraser como Rick O'Connell e Rachel Weisz como Evelyn Carnahan.",
+        "brendan-fraser-s-rick-and-rachel-weisz-s-evie-looking-off-into-the-sky-in-the-mummy.jpg": "Brendan Fraser e Rachel Weisz em A Múmia, com Rick e Evelyn olhando para o céu em uma nova aventura."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Múmia 4: Brendan Fraser e Rachel Weisz retornam em nova aventura",
+        "_yoast_wpseo_metadesc": "Brendan Fraser e Rachel Weisz retornam em A Múmia 4, que ignora o terceiro filme e aposta na direção do Radio Silence. Saiba mais sobre as expectativas.",
+        "_yoast_wpseo_focuskw": "A Múmia 4 Brendan Fraser Rachel Weisz",
+        "_yoast_news_keywords": "A Múmia, A Múmia 4, Brendan Fraser, Rachel Weisz, Universal Pictures, Radio Silence",
+        "_yoast_wpseo_opengraph-title": "A Múmia 4: Brendan Fraser e Rachel Weisz retornam em nova aventura",
+        "_yoast_wpseo_opengraph-description": "Brendan Fraser e Rachel Weisz retornam em A Múmia 4, que ignora o terceiro filme e aposta na direção do Radio Silence. Saiba mais sobre as expectativas.",
+        "_yoast_wpseo_twitter-title": "A Múmia 4: Brendan Fraser e Rachel Weisz retornam em nova aventura",
+        "_yoast_wpseo_twitter-description": "Brendan Fraser e Rachel Weisz retornam em A Múmia 4, que ignora o terceiro filme e aposta na direção do Radio Silence. Saiba mais sobre as expectativas."
+      }
+    },
+    {
+      "titulo_final": "Zootopia 2: animação da Disney projeta R$ 650 milhões na estreia",
+      "conteudo_final": "<p>A animação <strong><em>Zootopia 2</em></strong>, sequência do sucesso da Disney de 2016, tem projeções animadoras para sua estreia. O primeiro filme arrecadou mais de US$ 1 bilhão globalmente, conquistou 98% de aprovação no Rotten Tomatoes e diversos prêmios, consolidando-se como um marco lucrativo para o estúdio.</p><p>O lançamento de <em>Zootopia 2</em> está previsto para 26 de novembro, véspera do Dia de Ação de Graças nos Estados Unidos. Com a data se aproximando, as projeções de bilheteria indicam um forte desempenho. Segundo o <em>The Hollywood Reporter</em>, o filme deve arrecadar US$ 125 milhões em seu fim de semana de estreia prolongado (cinco dias), com vendas de ingressos antecipados comparáveis às de <em>Divertida Mente 2</em>.</p><p>Em comparação, o primeiro <em>Zootopia</em> abriu com US$ 75,1 milhões em março de 2016. A escolha do período de Ação de Graças para o lançamento de <em>Zootopia 2</em> é uma vantagem estratégica que deve impulsionar ainda mais os números.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/zootopia-2-final-trailer-4k-ultra-hd-2025-1-36-screenshot-cropped.jpg?q=70&fit=crop&w=825&dpr=1" alt="Nick Wilde e Judy Hopps em Zootopia 2"/><figcaption>Nick Wilde e Judy Hopps retornam em Zootopia 2.</figcaption></figure><p>O elenco original, que inclui nomes como Ginnifer Goodwin, Jason Bateman, Idris Elba e Shakira, retorna para a sequência. Eles serão acompanhados por novos talentos como Ke Huy Quan, Fortune Feimster e Quinta Brunson. A trama de <em>Zootopia 2</em> trará a dupla de policiais Judy Hopps e Nick Wilde novamente unida para enfrentar o vilão Gary De'Snake.</p><p>A música \"Zoo\", interpretada por Shakira, já foi indicada ao Hollywood Music in Media Awards. Para manter o público engajado, a Disney lançou a série <em>Zootopia+</em> em 2022, com seis curtas focados em personagens do filme original.</p><h2>Zootopia 2 impulsiona bilheteria em novembro</h2><p>Nove anos após o sucesso do primeiro filme, <em>Zootopia 2</em> chega para revitalizar as bilheterias de 2025. O mês de outubro registrou uma baixa histórica na arrecadação de filmes, com produções como <em>Tron: Ares</em> tendo desempenho abaixo do esperado.</p><p>Estúdios esperam uma recuperação em novembro, com <em>Wicked: For Good</em> e <em>Zootopia 2</em> liderando as expectativas. Outros lançamentos do mês incluem <em>Predator: Badlands</em> e <em>Now You See Me: Now You Don't</em>. Dezembro trará o retorno da franquia <em>Avatar</em>.</p><p><em>Zootopia 2</em> estreia nos cinemas em 26 de novembro de 2025.</p>",
+      "meta_description": "Zootopia 2, sequência do sucesso da Disney, tem projeções de US$ 125 milhões para o fim de semana de estreia. Saiba mais sobre as expectativas.",
+      "focus_keyphrase": "Zootopia 2 bilheteria",
+      "related_keyphrases": [
+        "Zootopia 2 estreia",
+        "Disney animação",
+        "bilheteria Zootopia 2",
+        "projeções Zootopia 2"
+      ],
+      "slug": "zootopia-2-bilheteria-estreia-disney",
+      "categorias": [
+        {
+          "nome": "Zootopia",
+          "grupo": "franquias",
+          "evidence": "Zootopia 2 is expected to be a huge success on opening weekend."
+        },
+        {
+          "nome": "Disney",
+          "grupo": "editorias",
+          "evidence": "lucrative achievement for Disney."
+        }
+      ],
+      "tags_sugeridas": [
+        "Zootopia",
+        "Zootopia 2",
+        "Disney",
+        "Animação",
+        "Bilheteria"
+      ],
+      "image_alt_texts": {
+        "zootopia-2-final-trailer-4k-ultra-hd-2025-1-36-screenshot-cropped.jpg": "Nick Wilde e Judy Hopps em Zootopia 2, com os personagens segurando um peixe."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Zootopia 2: animação da Disney projeta R$ 650 milhões na estreia",
+        "_yoast_wpseo_metadesc": "Zootopia 2, sequência do sucesso da Disney, tem projeções de US$ 125 milhões para o fim de semana de estreia. Saiba mais sobre as expectativas.",
+        "_yoast_wpseo_focuskw": "Zootopia 2 bilheteria",
+        "_yoast_news_keywords": "Zootopia, Zootopia 2, Disney, Animação, Bilheteria, Byron Howard, Rich Moore",
+        "_yoast_wpseo_opengraph-title": "Zootopia 2: animação da Disney projeta R$ 650 milhões na estreia",
+        "_yoast_wpseo_opengraph-description": "Zootopia 2, sequência do sucesso da Disney, tem projeções de US$ 125 milhões para o fim de semana de estreia. Saiba mais sobre as expectativas.",
+        "_yoast_wpseo_twitter-title": "Zootopia 2: animação da Disney projeta R$ 650 milhões na estreia",
+        "_yoast_wpseo_twitter-description": "Zootopia 2, sequência do sucesso da Disney, tem projeções de US$ 125 milhões para o fim de semana de estreia. Saiba mais sobre as expectativas."
+      }
+    },
+    {
+      "titulo_final": "Emilia Clarke estrela comédia romântica Next Life; veja primeira imagem",
+      "conteudo_final": "<p>Emilia Clarke, conhecida por seu papel em <em>Game of Thrones</em>, aparece em uma nova imagem de sua próxima comédia romântica, <strong><em>Next Life</em></strong>. Na produção, ela contracena com Edgar Ramírez. Clarke tem diversificado sua carreira após o fim da série de fantasia, com papéis em <em>The Twits</em> e <em>Invasão Secreta</em>.</p><p>A primeira imagem de <em>Next Life</em> foi divulgada, mostrando Clarke e Ramírez juntos em um trem. No filme, Clarke interpreta Ivy, uma mulher que vivencia diferentes vidas em universos paralelos, ao lado de Diego (Ramírez) e Noah (Jack Farthing).</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/emilia-clarke-and-edgar-rami-rez-in-next-life.jpg?q=70&fit=crop&w=681&dpr=1" alt="Emilia Clarke e Edgar Ramírez em Next Life"/><figcaption>Emilia Clarke e Edgar Ramírez em uma cena de Next Life.</figcaption></figure><p>Em <em>Next Life</em>, os universos paralelos exploram as decisões de vida de Ivy. Em uma das realidades, ela está com Diego, que apoia seus sonhos e ambições. Em outra, ela se reconecta com Noah, um antigo amor.</p><p>O filme ainda não tem data de lançamento oficial, mas está sendo apresentado a potenciais compradores. A produtora Rocket Science descreve o longa como um \"<em>agradável filme sobre seguir suas paixões</em>\", destacando a ambientação em Londres, a influência musical e a atuação de Clarke.</p><h2>Próximos projetos de Emilia Clarke</h2><p>A declaração de Thorsten Schumacher, CEO da Rocket Science, sugere que <em>Next Life</em> será um papel importante para Clarke após <em>Game of Thrones</em>. O filme também marca a estreia de Femi Koleoso, líder do premiado grupo de jazz Ezra Collective, como ator. A trilha sonora é de Dan Romer.</p><p>Além de <em>Next Life</em>, Clarke tem outros projetos em andamento. Ela terá um papel principal no drama policial <em>Criminal</em>, do Prime Video, e será a protagonista do thriller de espionagem <em>Ponies</em>, da Peacock.</p><p><em>Next Life</em> se destaca por sua abordagem única do tempo e elementos cômicos. A primeira imagem revela o progresso da jornada de Ivy sem entregar detalhes cruciais da trama. Mais informações devem surgir à medida que o filme busca distribuição.</p>",
+      "meta_description": "Emilia Clarke estrela a comédia romântica Next Life, com Edgar Ramírez. Veja a primeira imagem do filme que explora vidas paralelas e decisões.",
+      "focus_keyphrase": "Emilia Clarke Next Life",
+      "related_keyphrases": [
+        "Emilia Clarke novo filme",
+        "Next Life comédia romântica",
+        "Edgar Ramírez",
+        "Game of Thrones"
+      ],
+      "slug": "emilia-clarke-next-life-comedia-romantica",
+      "categorias": [
+        {
+          "nome": "Next Life",
+          "grupo": "obras",
+          "evidence": "her new rom-com, Next Life"
+        },
+        {
+          "nome": "Emilia Clarke",
+          "grupo": "atores",
+          "evidence": "Emilia Clarke has been revealed in a first look"
+        },
+        {
+          "nome": "Game of Thrones",
+          "grupo": "franquias",
+          "evidence": "Game of Thrones star Emilia Clarke"
+        }
+      ],
+      "tags_sugeridas": [
+        "Emilia Clarke",
+        "Next Life",
+        "Edgar Ramírez",
+        "Game of Thrones",
+        "Comédia Romântica"
+      ],
+      "image_alt_texts": {
+        "emilia-clarke-and-edgar-rami-rez-in-next-life.jpg": "Emilia Clarke e Edgar Ramírez em Next Life, sentados em um trem."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Emilia Clarke estrela comédia romântica Next Life; veja primeira imagem",
+        "_yoast_wpseo_metadesc": "Emilia Clarke estrela a comédia romântica Next Life, com Edgar Ramírez. Veja a primeira imagem do filme que explora vidas paralelas e decisões.",
+        "_yoast_wpseo_focuskw": "Emilia Clarke Next Life",
+        "_yoast_news_keywords": "Emilia Clarke, Next Life, Edgar Ramírez, Game of Thrones, Comédia Romântica, Prime Video, Peacock",
+        "_yoast_wpseo_opengraph-title": "Emilia Clarke estrela comédia romântica Next Life; veja primeira imagem",
+        "_yoast_wpseo_opengraph-description": "Emilia Clarke estrela a comédia romântica Next Life, com Edgar Ramírez. Veja a primeira imagem do filme que explora vidas paralelas e decisões.",
+        "_yoast_wpseo_twitter-title": "Emilia Clarke estrela comédia romântica Next Life; veja primeira imagem",
+        "_yoast_wpseo_twitter-description": "Emilia Clarke estrela a comédia romântica Next Life, com Edgar Ramírez. Veja a primeira imagem do filme que explora vidas paralelas e decisões."
+      }
+    }
+  ]
+}

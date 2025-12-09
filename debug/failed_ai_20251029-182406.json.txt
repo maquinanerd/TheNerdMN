@@ -1,0 +1,64 @@
+{
+  "titulo_final": "4 Séries da Netflix Ideais para Assistir com os Pais",
+  "conteudo_final": "<p>Encontrar uma série que agrade a todas as gerações pode ser um desafio, mas a Netflix oferece opções que combinam entretenimento e adequação para assistir com os pais. Evitando cenas de nudez explícita, violência gráfica excessiva ou tramas complexas demais, estas quatro séries são escolhas seguras para momentos de relaxamento em família.</p><h2>Unbreakable Kimmy Schmidt (2015-2020)</h2><figure><img src=\"https:
+  "meta_description": "Descubra 4 séries da Netflix perfeitas para assistir com os pais, combinando humor, suspense e drama histórico sem conteúdo inadequado.",
+  "focus_keyphrase": "Séries Netflix para assistir com os pais",
+  "related_keyphrases": [
+    "Netflix séries familiares",
+    "Melhores séries para assistir em família",
+    "Opções de streaming para pais e filhos"
+  ],
+  "slug": "series-netflix-assistir-pais",
+  "categorias": [
+    {
+      "nome": "Unbreakable Kimmy Schmidt",
+      "grupo": "obras",
+      "evidence": "Unbreakable Kimmy Schmidt (2015-2020)"
+    },
+    {
+      "nome": "Ripley",
+      "grupo": "obras",
+      "evidence": "Ripley (2024)"
+    },
+    {
+      "nome": "The Crown",
+      "grupo": "obras",
+      "evidence": "The Crown (2016-2023)"
+    },
+    {
+      "nome": "Kingdom",
+      "grupo": "obras",
+      "evidence": "Kingdom (2019-2021)"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "franquias",
+      "evidence": "Netflix"
+    }
+  ],
+  "tags_sugeridas": [
+    "unbreakable kimmy schmidt",
+    "ripley",
+    "the crown",
+    "kingdom",
+    "netflix",
+    "series",
+    "streaming"
+  ],
+  "image_alt_texts": {
+    "unbreakable-kimmy-schmidt.jpg": "Kimmy (Ellie Kemper) e Jacqueline (Jane Krakowski) em cena de Unbreakable Kimmy Schmidt.",
+    "andrew-scott-as-tom-ripley-in-a-car-in-ripley-series.jpg": "Andrew Scott como Tom Ripley em uma cena de Ripley.",
+    "the-crown-season-6-cast.jpg": "Elenco principal da 6ª temporada de The Crown.",
+    "kingdom-2019-tv-series-poster.jpg": "Pôster da série Kingdom."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "4 Séries Netflix Ideais para Assistir com os Pais | Maquina Nerd",
+    "_yoast_wpseo_metadesc": "Descubra 4 séries da Netflix perfeitas para assistir com os pais, combinando humor, suspense e drama histórico sem conteúdo inadequado.",
+    "_yoast_wpseo_focuskw": "Séries Netflix para assistir com os pais",
+    "_yoast_news_keywords": "Unbreakable Kimmy Schmidt, Ripley, The Crown, Kingdom, Netflix, séries, streaming, família",
+    "_yoast_wpseo_opengraph-title": "4 Séries Netflix Ideais para Assistir com os Pais",
+    "_yoast_wpseo_opengraph-description": "Descubra 4 séries da Netflix perfeitas para assistir com os pais, combinando humor, suspense e drama histórico sem conteúdo inadequado.",
+    "_yoast_wpseo_twitter-title": "4 Séries Netflix Ideais para Assistir com os Pais",
+    "_yoast_wpseo_twitter-description": "Descubra 4 séries da Netflix perfeitas para assistir com os pais, combinando humor, suspense e drama histórico sem conteúdo inadequado."
+  }
+}

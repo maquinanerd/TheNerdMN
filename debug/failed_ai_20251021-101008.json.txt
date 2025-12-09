@@ -1,0 +1,110 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Twits: Nova animação da Netflix se torna sucesso instantâneo",
+      "conteudo_final": "<p>A Netflix lançou <b><i>The Twits</i></b>, uma nova animação de fantasia baseada no livro homônimo de Roald Dahl, que rapidamente conquistou as paradas de streaming desde sua estreia em 17 de outubro. A produção está entre os 10 filmes mais assistidos na plataforma globalmente.</p>\n\n<h2>Sinopse e Elenco Estelar</h2>\n\n<p><i>The Twits</i> acompanha as travessuras do Sr. e Sra. Twit, que inspiram um par de órfãos e um bando de animais mágicos a se unirem para salvar sua cidade. O filme conta com um elenco de voz impressionante, incluindo nomes como Natalie Portman, Emilia Clarke, Maitreyi Ramakrishnan, Ryan Lopez, Jason Mantzoukas, Timothy Simons, Alan Tudyk e Nicole Byer. Johnny Vegas e Margo Martindale dublam os personagens principais, Sr. e Sra. Twit.</p>\n\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/your_video_id_here\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n\n<h2>Desempenho nas Bilheterias e Recepção</h2>\n\n<p>Apesar de ter recebido críticas mistas, com uma pontuação moderada no Rotten Tomatoes, <i>The Twits</i> tem se destacado no streaming. A animação alcançou a 3ª posição no Top 10 global de filmes da Netflix. Críticos como Gregory Nussen, do ScreenRant, descreveram o filme como uma experiência "divertida e nojenta", o que sugere que ele ressoa bem com o público de plataformas de streaming.</p>\n\n<p>O legado de Roald Dahl atrai atenção significativa, especialmente porque <i>The Twits</i> é uma de suas obras inéditas em adaptação para as telas. O filme incorpora elementos característicos das narrativas de Dahl, mantendo a atmosfera selvagem que agrada aos fãs de longa data.</p>\n\n<figure>\n<img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the_twits_u_00_45_30_21-copy.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Duas crianças observando algo em The Twits\"/>\n<figcaption>As crianças personagens de The Twits.</figcaption>\n</figure>\n\n<h2>Equipe Criativa e Futuro</h2>\n\n<p>A direção de <i>The Twits</i> é de Phil Johnston, conhecido por seu trabalho em roteiros de animações como <i>Zootopia</i> e <i>Detona Ralph</i>. Ele também co-roteirizou o filme com Meg Favreau. A produção, realizada por Maggie Malone e Daisy May West, busca solidificar seu lugar no competitivo mercado de animações.</p>\n\n<p>Embora <i>The Twits</i> possa não ser um forte concorrente em premiações, seu sucesso nas paradas de streaming indica uma forte conexão com o público. A capacidade de manter essa popularidade será crucial para seu sucesso a longo prazo.</p>\n\n<figure>\n<img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/01901595_poster_w780.jpg?q=70&amp;fit=contain&amp;w=480&amp;dpr=1\" alt=\"Pôster do filme The Twits\"/>\n<figcaption>Pôster oficial de The Twits.</figcaption>\n</figure>",
+      "meta_description": "A animação \"The Twits\", baseada em Roald Dahl, se torna um sucesso global instantâneo na Netflix, conquistando o Top 10 em poucos dias após o lançamento.",
+      "focus_keyphrase": "The Twits animação Netflix",
+      "related_keyphrases": [
+        "The Twits Roald Dahl",
+        "Sucesso The Twits Netflix",
+        "Animação infantil Netflix"
+      ],
+      "slug": "the-twits-animacao-netflix-sucesso",
+      "categorias": [
+        {
+          "nome": "The Twits",
+          "grupo": "obras",
+          "evidence": "<strong><i>The Twits</i></strong>, based on famed children's author Roald Dahl's 1980 book of the same name"
+        },
+        {
+          "nome": "Roald Dahl",
+          "grupo": "obras",
+          "evidence": "Roald Dahl's name understandably draws a lot of attention"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix isn't recreating the all-time success of <em>KPop Demon Hunters</em> anytime soon, but <strong>the streamer's newest fantasy animation is still becoming a hit.</strong>"
+        }
+      ],
+      "tags_sugeridas": [
+        "the-twits",
+        "roald-dahl",
+        "netflix",
+        "animação",
+        "streaming",
+        "natalie-portman",
+        "emilia-clarke"
+      ],
+      "image_alt_texts": {
+        "the_twits_u_00_45_30_21-copy.jpg": "Duas crianças personagens de The Twits observando algo.",
+        "01901595_poster_w780.jpg": "Pôster oficial do filme de animação The Twits."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Twits: Nova animação da Netflix se torna sucesso instantâneo | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "A animação \"The Twits\", baseada em Roald Dahl, se torna um sucesso global instantâneo na Netflix, conquistando o Top 10 em poucos dias após o lançamento.",
+        "_yoast_wpseo_focuskw": "The Twits animação Netflix",
+        "_yoast_news_keywords": "The Twits, Roald Dahl, Netflix, animação, streaming, Natalie Portman, Emilia Clarke",
+        "_yoast_wpseo_opengraph-title": "The Twits: Nova animação da Netflix se torna sucesso instantâneo",
+        "_yoast_wpseo_opengraph-description": "A animação \"The Twits\", baseada em Roald Dahl, se torna um sucesso global instantâneo na Netflix, conquistando o Top 10 em poucos dias após o lançamento.",
+        "_yoast_wpseo_twitter-title": "The Twits: Nova animação da Netflix se torna sucesso instantâneo",
+        "_yoast_wpseo_twitter-description": "A animação \"The Twits\", baseada em Roald Dahl, se torna um sucesso global instantâneo na Netflix, conquistando o Top 10 em poucos dias após o lançamento."
+      }
+    },
+    {
+      "titulo_final": "Conjuring 4: Logan inspirou o final sombrio e emocionante",
+      "conteudo_final": "<p><strong><i>Invocação do Mal 4: O Despertar dos Mortos</i></strong>, que marca o possível fim da saga principal, busca inspiração inesperada em outro gênero para seu desfecho. O diretor Michael Chaves revelou que o filme de 2025, estrelado por Patrick Wilson e Vera Farmiga, foi influenciado pela abordagem de <b><i>Logan</i></b>, filme de 2017.</p>\n\n<h2>Logan como Inspiração para o Final</h2>\n\n<p>Chaves afirmou que <i>Logan</i> serviu como referência crucial para o tom e a narrativa do final de <i>O Despertar dos Mortos</i>. A intenção era criar um encerramento que, embora agridoce, transmitisse esperança e um senso de conclusão para os personagens, especialmente para Judy Warren, filha do casal Ed e Lorraine. A história de <i>Logan</i>, que retrata a jornada final do personagem e a saída de sua protegida para uma nova vida, ofereceu um modelo para essa abordagem.</p>\n\n<p>\"<i>Logan é um dos meus filmes favoritos, e o que eu amei nele é que você pode imaginar a filha seguindo em frente em aventuras no Canadá e tendo essa vida de jovem mutante</i>\", explicou Chaves. \"<i>Isso te dá esperança só de pensar nisso. Mas acho que também há algo maravilhoso em sentir essa conclusão; sentir o fim dessa história. É isso que queríamos entregar aqui.</i>\"</p>\n\n<figure>\n<img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/the-conjuring-last-rites-judy-warren-at-dinner.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Judy Warren sentada em um restaurante em O Despertar dos Mortos\"/>\n<figcaption>Judy Warren em uma cena de O Despertar dos Mortos.</figcaption>\n</figure>\n\n<h2>O Começo Sombrio e o Futuro da Franquia</h2>\n\n<p>Para estabelecer o tom sombrio de <i>O Despertar dos Mortos</i>, Chaves destacou a importância da cena de abertura, que retrata um encontro com um demônio poderoso e um momento de crise para Lorraine Warren. Essa sequência serviu como um \"soco no estômago\" para o público, sinalizando a intensidade da história, que foi promovida como \"o capítulo mais sombrio\" da franquia. A cena inicial, onde Judy Warren é momentaneamente dada como natimorta, foi crucial para comunicar a escuridão que seria explorada no filme.</p>\n\n<p>Apesar de <i>O Despertar dos Mortos</i> ser apresentado como um final para a série principal, o futuro do universo <i>Invocação do Mal</i> parece garantido. Relatos indicam o desenvolvimento de um prelúdio focado nos jovens Ed e Lorraine Warren, além de um spin-off para a HBO Max. Chaves ressaltou que a equipe está sendo \"muito cuidadosa\" sobre como expandir a franquia, garantindo que cada novo projeto respeite o legado estabelecido.</p>\n\n<figure>\n<img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/the-conjuring-last-rites-lorraine-warren-in-blood.jpg?q=70&amp;fit=crop&amp;w=750&amp;dpr=1\" alt=\"Lorraine Warren em uma cena intensa de O Despertar dos Mortos\"/>\n<figcaption>Lorraine Warren em uma cena impactante de O Despertar dos Mortos.</figcaption>\n</figure>\n\n<p>O diretor também comentou sobre a possibilidade de sequências para os spin-offs <i>Annabelle</i> e <i>A Freira</i>, afirmando que, embora esses personagens possam continuar suas aventuras, <i>Invocação do Mal</i>, como série principal, chega ao seu fim. A franquia busca agora novas formas de evoluir, mantendo a qualidade e o apelo junto aos fãs de terror.</p>",
+      "meta_description": "Diretor de \"Invocação do Mal 4: O Despertar dos Mortos\" revela que o filme \"Logan\" inspirou o final agridoce e esperançoso da saga dos Warren.",
+      "focus_keyphrase": "Invocação do Mal 4 Logan",
+      "related_keyphrases": [
+        "O Despertar dos Mortos Michael Chaves",
+        "Invocação do Mal futuro",
+        "Logan influência cinema"
+      ],
+      "slug": "invocacao-mal-4-logan-inspiracao",
+      "categorias": [
+        {
+          "nome": "The Conjuring: Last Rites",
+          "grupo": "obras",
+          "evidence": "The biggest modern horror franchise has said farewell for the time being with <strong><i>The Conjuring: Last Rites</i></strong>"
+        },
+        {
+          "nome": "Logan",
+          "grupo": "obras",
+          "evidence": "Hugh Jackman's <em>Logan</em> served as a key inspiration for the movie's story and tone"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "The biggest modern horror franchise"
+        }
+      ],
+      "tags_sugeridas": [
+        "invocacao-do-mal-4",
+        "logan",
+        "michael-chaves",
+        "terror",
+        "patrick-wilson",
+        "vera-farmiga",
+        "warren"
+      ],
+      "image_alt_texts": {
+        "the_conjuring_last_rites_judy_warren_at_dinner.jpg": "Judy Warren sentada em um restaurante em O Despertar dos Mortos.",
+        "the_conjuring_last_rites_lorraine_warren_in_blood.jpg": "Lorraine Warren em uma cena impactante de O Despertar dos Mortos.",
+        "young_ed_and_lorraine_warren_in_the_conjuring_last_rites.jpg": "Jovens Ed e Lorraine Warren em O Despertar dos Mortos.",
+        "lorraine_looking_suspiciously_at_a_bed_in_the_conjuring_last_rites.jpg": "Lorraine Warren investigando um quarto em O Despertar dos Mortos."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Conjuring 4: Logan inspirou o final sombrio e emocionante | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Diretor de \"Invocação do Mal 4: O Despertar dos Mortos\" revela que o filme \"Logan\" inspirou o final agridoce e esperançoso da saga dos Warren.",
+        "_yoast_wpseo_focuskw": "Invocação do Mal 4 Logan",
+        "_yoast_news_keywords": "Invocação do Mal 4, O Despertar dos Mortos, Logan, Michael Chaves, Terror, Patrick Wilson, Vera Farmiga, Warren",
+        "_yoast_wpseo_opengraph-title": "Conjuring 4: Logan inspirou o final sombrio e emocionante",
+        "_yoast_wpseo_opengraph-description": "Diretor de \"Invocação do Mal 4: O Despertar dos Mortos\" revela que o filme \"Logan\" inspirou o final agridoce e esperançoso da saga dos Warren.",
+        "_yoast_wpseo_twitter-title": "Conjuring 4: Logan inspirou o final sombrio e emocionante",
+        "_yoast_wpseo_twitter-description": "Diretor de \"Invocação do Mal 4: O Despertar dos Mortos\" revela que o filme \"Logan\" inspirou o final agridoce e esperançoso da saga dos Warren."
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Filme de terror 'Weapons' vira sucesso inesperado no streaming da HBO Max",
+      "conteudo_final": "<p>O ano de 2025 se consolida como um dos maiores para o gênero de terror, especialmente para a Warner Bros. Discovery, que lançou diversos sucessos de bilheteria. Um desses filmes, agora disponível na HBO Max, rapidamente se tornou um fenômeno de streaming.</p><h2>'Weapons' domina os charts da HBO Max</h2><p><em>Weapons</em>, o suspense sobrenatural de Zach Cregger sobre o desaparecimento de crianças, estreou na HBO Max na sexta-feira, 24 de outubro de 2025. O filme de 2025 já figura entre os títulos mais populares da plataforma de streaming da Warner Bros. Discovery, ocupando o posto de número 1 nos Estados Unidos.</p><p>O longa, estrelado por Julia Garner, arrecadou impressionantes US$ 267,5 milhões mundialmente, com US$ 151,5 milhões vindos do mercado doméstico e US$ 116 milhões do internacional. Produzido com um orçamento estimado de US$ 38 milhões, o filme representa um grande triunfo para a Warner Bros. Discovery.</p><p>O elenco de <em>Weapons</em> inclui também Josh Brolin, Alden Ehrenreich, Austin Abrams, Benedict Wong, Cary Christopher e Amy Madigan. Outros títulos que figuram no Top 10 da HBO Max incluem <em>The Substance</em> em 2º lugar, <em>Bring Her Back</em> em 3º, e <em>Superman</em> (2025) da DC Studios em 4º.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/children-running-away-in-weapons.jpg\" alt=\"Crianças correndo em 'Weapons'\"></figure>\n<p>O sucesso instantâneo de <em>Weapons</em> na HBO Max ocorre em um momento estratégico para a Warner Bros. Discovery, que se prepara para a temporada de premiações. O estúdio está considerando o filme para diversas categorias do Oscar, incluindo Melhor Filme, Melhor Atriz para Julia Garner e Melhor Diretor para Zach Cregger.</p>\n<h2>Indicado a Premiações e Potencial de Sequências</h2>\n<p>Em crítica publicada, destacou-se que <em>Weapons</em> \"nunca para de ser um filme de terror, mais <em>Pânico</em> do que <em>O Segredo da Cabana</em>\", mantendo a tensão mesmo com momentos de humor. O filme ostenta 93% de aprovação da crítica e 85% do público em avaliações agregadas.</p><p>Em entrevista recente, Zach Cregger revelou ter ideias para potenciais sequências no universo de <em>Weapons</em>. \"Definitivamente. Na verdade… é engraçado que você pergunte isso. Não consigo evitar: tenho outra ideia para algo neste mundo que me deixa um pouco animado\", comentou o diretor. No entanto, ele ressaltou que não pretende desenvolvê-las imediatamente, mas que tem planos para elas no futuro.</p>",
+      "meta_description": "O filme de terror 'Weapons' surpreende e se torna um sucesso de bilheteria e agora lidera o streaming na HBO Max, com potencial para indicações ao Oscar.",
+      "focus_keyphrase": "Filme de terror Weapons",
+      "related_keyphrases": [
+        "Weapons HBO Max",
+        "Zach Cregger",
+        "Julia Garner filme"
+      ],
+      "slug": "filme-terror-weapons-sucesso-hbo-max",
+      "categorias": [
+        {
+          "nome": "Weapons",
+          "grupo": "obras",
+          "evidence": "Zach Cregger's Weapons"
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "editorias",
+          "evidence": "HBO Max"
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "franquias",
+          "evidence": "Superman from DC Studios"
+        }
+      ],
+      "tags_sugeridas": [
+        "Weapons",
+        "Zach Cregger",
+        "Julia Garner",
+        "Josh Brolin",
+        "HBO Max",
+        "Warner Bros Discovery",
+        "Terror"
+      ],
+      "image_alt_texts": {
+        "children-running-away-in-weapons.jpg": "Crianças correndo assustadas em uma cena do filme de terror 'Weapons'."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Weapons: Filme de Terror Vira Hit Inesperado na HBO Max e Busca Oscar",
+        "_yoast_wpseo_metadesc": "O filme de terror 'Weapons' surpreende e se torna um sucesso de bilheteria e agora lidera o streaming na HBO Max, com potencial para indicações ao Oscar.",
+        "_yoast_wpseo_focuskw": "Filme de terror Weapons",
+        "_yoast_news_keywords": "Weapons, Zach Cregger, Julia Garner, Josh Brolin, HBO Max, Warner Bros Discovery, Terror, Filme de terror",
+        "_yoast_wpseo_opengraph-title": "Weapons: Filme de Terror Vira Hit Inesperado na HBO Max e Busca Oscar",
+        "_yoast_wpseo_opengraph-description": "O filme de terror 'Weapons' surpreende e se torna um sucesso de bilheteria e agora lidera o streaming na HBO Max, com potencial para indicações ao Oscar.",
+        "_yoast_wpseo_twitter-title": "Weapons: Filme de Terror Vira Hit Inesperado na HBO Max e Busca Oscar",
+        "_yoast_wpseo_twitter-description": "O filme de terror 'Weapons' surpreende e se torna um sucesso de bilheteria e agora lidera o streaming na HBO Max, com potencial para indicações ao Oscar."
+      }
+    },
+    {
+      "titulo_final": "Antony Starr irreconhecível como Andy Warhol em novas fotos de 'Samo Lives'",
+      "conteudo_final": "<p><strong>Antony Starr</strong>, conhecido por seu papel como o vilão <strong>Homelander</strong> em <em>The Boys</em>, da Prime Video, está gerando burburinho com seu visual irreconhecível em novas imagens de bastidores do filme <em>Samo Lives</em>. Starr, que integra o elenco de <em>The Boys</em> desde a primeira temporada e também participou de <em>Diabolical</em> e <em>Gen V</em>, se transforma completamente para viver o icônico artista Andy Warhol.</p>\n<p>Enquanto a quinta temporada de <em>The Boys</em>, com filmagens já concluídas e previsão de estreia para 2026, se aproxima, Starr mergulha em seu novo projeto. <em>Samo Lives</em> é uma cinebiografia sobre o artista Jean-Michel Basquiat, famoso por sua arte de rua e pinturas neo-expressionistas. No filme, Kelvin Harrison Jr. interpreta Basquiat, e Antony Starr assume o papel de Andy Warhol.</p>\n<h2>O visual de Andy Warhol em 'Samo Lives'</h2>\n<p>As primeiras imagens de Starr como Warhol revelam um artista com cabelos grisalhos, ondulados e volumosos, óculos grandes e vestindo um suéter azul de gola alta, jaqueta preta e jeans. Em uma das cenas, ele aparece sorridente, passeando por um parque, com um álbum em mãos e uma câmera a tiracolo, capturando a essência do artista.</p>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/andy-warhol-image-1.jpg\" alt=\"Antony Starr como Andy Warhol em 'Samo Lives'\"></figure>\n<p>A caracterização de Starr remete diretamente ao visual do verdadeiro Andy Warhol, distanciando-se drasticamente de sua persona como Homelander. A interpretação de um artista real, influente e excêntrico marca um contraste notável com o supervilão de <em>The Boys</em>, demonstrando a versatilidade do ator.</p>\n<h2>Elenco e Direção de 'Samo Lives'</h2>\n<p>Além de Starr e Harrison Jr., o elenco de <em>Samo Lives</em> conta com nomes como Jeffrey Wright (<em>Westworld</em>), Danny Ramirez (<em>Capitão América: Admirável Mundo Novo</em>), Kathryn Newton (<em>The Society</em>), Dane DeHaan (<em>O Espetacular Homem-Aranha 2</em>), Thomas Kretschmann (<em>O Pianista</em>), Lukas Gage (<em>The White Lotus</em>), Chase Sui Wonders (<em>The Studio</em>) e Priah Ferguson (<em>Stranger Things</em>). A direção e o roteiro ficam a cargo de Julius Onah, conhecido por seus trabalhos em <em>Captain America: Brave New World</em> e <em>The Cloverfield Paradox</em>.</p><p>O título do filme, <em>Samo Lives</em>, é uma referência à tag de grafite utilizada por Basquiat e Al Diaz. A produção promete explorar não apenas a genialidade artística e o comentário social de Basquiat e Warhol, mas também a forte amizade que os unia.</p><p>Para os fãs de Antony Starr, <em>Samo Lives</em> representa uma oportunidade de acompanhar a carreira do ator após o fim de <em>The Boys</em>. O filme oferece um mergulho no universo de dois dos maiores nomes da arte moderna, suas obras e a profunda conexão entre eles.</p>",
+      "meta_description": "Antony Starr, de 'The Boys', surge irreconhecível como Andy Warhol em novas fotos de bastidores do filme 'Samo Lives', cinebiografia de Jean-Michel Basquiat.",
+      "focus_keyphrase": "Antony Starr Andy Warhol",
+      "related_keyphrases": [
+        "Samo Lives filme",
+        "Homelander The Boys",
+        "Jean-Michel Basquiat"
+      ],
+      "slug": "antony-starr-andy-warhol-samo-lives",
+      "categorias": [
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "Antony Starr, best known for his role as Homelander in Prime Video's The Boys"
+        },
+        {
+          "nome": "Samo Lives",
+          "grupo": "obras",
+          "evidence": "Starr is now filming for Samo Lives."
+        },
+        {
+          "nome": "Andy Warhol",
+          "grupo": "obras",
+          "evidence": "Starr plays another iconic artist, Andy Warhol."
+        }
+      ],
+      "tags_sugeridas": [
+        "Antony Starr",
+        "Andy Warhol",
+        "Samo Lives",
+        "The Boys",
+        "Homelander",
+        "Jean-Michel Basquiat",
+        "Cinebiografia"
+      ],
+      "image_alt_texts": {
+        "andy-warhol-image-1.jpg": "Antony Starr caracterizado como Andy Warhol com peruca grisalha e óculos em set de filmagem."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Antony Starr como Andy Warhol: Veja fotos irreconhecíveis de 'Samo Lives'",
+        "_yoast_wpseo_metadesc": "Antony Starr, de 'The Boys', surge irreconhecível como Andy Warhol em novas fotos de bastidores do filme 'Samo Lives', cinebiografia de Jean-Michel Basquiat.",
+        "_yoast_wpseo_focuskw": "Antony Starr Andy Warhol",
+        "_yoast_news_keywords": "Antony Starr, Andy Warhol, Samo Lives, The Boys, Homelander, Jean-Michel Basquiat, Cinebiografia, Kelvin Harrison Jr.",
+        "_yoast_wpseo_opengraph-title": "Antony Starr como Andy Warhol: Veja fotos irreconhecíveis de 'Samo Lives'",
+        "_yoast_wpseo_opengraph-description": "Antony Starr, de 'The Boys', surge irreconhecível como Andy Warhol em novas fotos de bastidores do filme 'Samo Lives', cinebiografia de Jean-Michel Basquiat.",
+        "_yoast_wpseo_twitter-title": "Antony Starr como Andy Warhol: Veja fotos irreconhecíveis de 'Samo Lives'",
+        "_yoast_wpseo_twitter-description": "Antony Starr, de 'The Boys', surge irreconhecível como Andy Warhol em novas fotos de bastidores do filme 'Samo Lives', cinebiografia de Jean-Michel Basquiat."
+      }
+    },
+    {
+      "titulo_final": "Guillermo del Toro critica IA: 'Prefiro morrer a usá-la em filmes'",
+      "conteudo_final": "<p>Em meio ao avanço da inteligência artificial (IA), o renomado cineasta <strong>Guillermo del Toro</strong> declarou sua forte oposição ao uso da tecnologia na sétima arte. Em declarações durante a divulgação de seu novo projeto, <em>Frankenstein</em>, o diretor vencedor do Oscar comparou a ambição da IA à busca da imortalidade do Dr. Frankenstein.</p>\n<h2>Aversão à IA e a Lição de 'Frankenstein'</h2>\n<p>Em entrevista à <em>NPR</em>, Del Toro expressou sua preocupação não com a IA em si, mas com a \"estupidez natural\" que, segundo ele, impulsiona as piores ações no mundo. O diretor observou que essa característica humana, a cegueira diante das consequências de suas criações, ecoa a arrogância de Victor Frankenstein em sua obra.</p>\n<p>\"Eu queria que a arrogância de Victor se assemelhasse, de certa forma, aos 'tech bros'\", afirmou Del Toro. \"Ele está cego, criando algo sem considerar as consequências, e acho que precisamos fazer uma pausa e refletir para onde estamos indo.\"</p>\n<p>Del Toro reiterou sua forte rejeição à inteligência artificial generativa, declarando que \"não tenho interesse, nem nunca terei, em usá-la\". Ele afirmou com veemência: \"Tenho 61 anos e espero poder permanecer desinteressado em usá-la até o dia em que eu morrer.\"</p>\n<blockquote>\n<p>“Outro dia, alguém me escreveu um e-mail, dizendo: 'Qual é a sua posição sobre IA?' E minha resposta foi muito curta. Eu disse: 'Prefiro morrer'\", revelou o cineasta.</p>\n</blockquote>\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/guillermo-del-toro-and-oscar-isaac-filming-frankenstein.jpg\" alt=\"Guillermo del Toro e Oscar Isaac filmando Frankenstein\"></figure>\n<p>Del Toro sempre foi um defensor da criatividade autoral no cinema, com suas obras frequentemente apresentando uma originalidade ímpar. Essa paixão pela criação artesanal se estende desde sua admiração pela adaptação de <em>Frankenstein</em> de 1931.</p>\n<p>Ele descreveu sua conexão com o filme clássico: \"Vi a ressurreição da carne, a concepção imaculada, o êxtase, os estigmas. Tudo fez sentido. Entendi minha fé ou meus dogmas melhor através de <em>Frankenstein</em> do que através da missa de domingo.\"</p>\n<p>Essa forte ligação com o cinema clássico ajuda a contextualizar sua aversão ao uso da IA na indústria. As declarações de Del Toro surgem em um momento em que a IA já começa a impactar significativamente o setor cinematográfico, com figuras como os irmãos Russo abraçando a tecnologia e a controversa atriz de IA, Tilly Norwood, gerando debates intensos.</p>",
+      "meta_description": "Guillermo del Toro expressa forte aversão à inteligência artificial em cinema, afirmando que 'prefere morrer' a utilizá-la em seus filmes.",
+      "focus_keyphrase": "Guillermo del Toro IA",
+      "related_keyphrases": [
+        "Inteligência Artificial cinema",
+        "Frankenstein filme",
+        "Guillermo del Toro Frankenstein"
+      ],
+      "slug": "guillermo-del-toro-critica-ia",
+      "categorias": [
+        {
+          "nome": "Frankenstein",
+          "grupo": "obras",
+          "evidence": "Frankenstein"
+        },
+        {
+          "nome": "Guillermo del Toro",
+          "grupo": "obras",
+          "evidence": "Guillermo del Toro"
+        },
+        {
+          "nome": "Inteligência Artificial",
+          "grupo": "editorias",
+          "evidence": "As artificial intelligence (AI) continues to reshape modern society"
+        }
+      ],
+      "tags_sugeridas": [
+        "Guillermo del Toro",
+        "Inteligência Artificial",
+        "IA em filmes",
+        "Frankenstein",
+        "Cinema",
+        "Tecnologia"
+      ],
+      "image_alt_texts": {
+        "guillermo-del-toro-and-oscar-isaac-filming-frankenstein.jpg": "Guillermo del Toro e Oscar Isaac em filmagens do filme Frankenstein."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Guillermo del Toro Crítico da IA: 'Prefiro Morrer a Usá-la em Filmes'",
+        "_yoast_wpseo_metadesc": "Guillermo del Toro expressa forte aversão à inteligência artificial em cinema, afirmando que 'prefere morrer' a utilizá-la em seus filmes.",
+        "_yoast_wpseo_focuskw": "Guillermo del Toro IA",
+        "_yoast_news_keywords": "Guillermo del Toro, Inteligência Artificial, IA em filmes, Frankenstein, Cinema, Tecnologia, Oscar Isaac",
+        "_yoast_wpseo_opengraph-title": "Guillermo del Toro Crítico da IA: 'Prefiro Morrer a Usá-la em Filmes'",
+        "_yoast_wpseo_opengraph-description": "Guillermo del Toro expressa forte aversão à inteligência artificial em cinema, afirmando que 'prefere morrer' a utilizá-la em seus filmes.",
+        "_yoast_wpseo_twitter-title": "Guillermo del Toro Crítico da IA: 'Prefiro Morrer a Usá-la em Filmes'",
+        "_yoast_wpseo_twitter-description": "Guillermo del Toro expressa forte aversão à inteligência artificial em cinema, afirmando que 'prefere morrer' a utilizá-la em seus filmes."
+      }
+    }
+  ]
+}

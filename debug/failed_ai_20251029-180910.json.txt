@@ -1,0 +1,61 @@
+{
+  "titulo_final": "Todos os Filmes de Sexta-Feira 13: Ranking do Pior ao Melhor",
+  "conteudo_final": "<p>A franquia <b>Sexta-Feira 13</b> é um marco no cinema de terror, conhecida por sua longevidade e pelo icônico vilão Jason Voorhees. Apesar de críticas negativas ao longo dos anos, a série conquistou fãs com elementos como a trilha sonora de Harry Manfredini e a máscara de Jason, mantendo-se relevante e até mesmo em processo de reboot.</p><h2>O Pior ao Melhor: Ranking dos Filmes de Sexta-Feira 13</h2><p>Apesar de algumas opiniões controversas, como a de Roger Ebert, os filmes de Sexta-Feira 13 estão longe de ser o ponto baixo da história cinematográfica. Muitos deles são genuinamente excelentes e disputam o primeiro lugar em qualidade.</p><h2>12) Jason X (2001)</h2><p>Considerado por muitos como o capítulo \"tão ruim que é bom\" da saga, <b>Jason X</b> é, na verdade, mais um filme arrastado do que divertido. Seus poucos pontos positivos incluem a cena da destruição facial com nitrogênio líquido, a atuação de Lexa Doig e uma fala memorável de Peter Mensah. Embora o filme tente ter humor, ele falha visualmente e sofre com atuações fracas, características que não conseguem replicar o charme das entradas anteriores da franquia.</p><figure><img src=\"https:
+  "meta_description": "Descubra o ranking completo de todos os filmes da franquia Sexta-Feira 13, do pior ao melhor. Conheça a ordem oficial dos filmes de Jason Voorhees.",
+  "focus_keyphrase": "Sexta-Feira 13 filmes",
+  "related_keyphrases": [
+    "Jason Voorhees",
+    "ranking Sexta-Feira 13",
+    "melhores filmes de terror"
+  ],
+  "slug": "ranking-filmes-sexta-feira-13",
+  "categorias": [
+    {
+      "nome": "Sexta-Feira 13",
+      "grupo": "franquias",
+      "evidence": "Friday the 13th"
+    },
+    {
+      "nome": "Jason Voorhees",
+      "grupo": "personagens",
+      "evidence": "Jason Voorhees"
+    },
+    {
+      "nome": "Terror",
+      "grupo": "gêneros",
+      "evidence": "top-tier horror"
+    }
+  ],
+  "tags_sugeridas": [
+    "sexta-feira-13",
+    "jason-voorhees",
+    "terror",
+    "ranking",
+    "filmes-slasher",
+    "anos-80",
+    "cinema"
+  ],
+  "image_alt_texts": {
+    "jason-x.jpg": "Jason Voorhees em Jason X, com seu visual futurista.",
+    "jason-goes-to-hell.jpg": "Cena de Jason Goes to Hell: The Final Friday com Jason Voorhees.",
+    "freddy-vs-jason-fight.jpg": "Confronto épico entre Freddy Krueger e Jason Voorhees em Freddy vs. Jason.",
+    "friday-the-13th-the-final-chapter.jpg": "Jason Voorhees em Sexta-Feira 13 - O Final, um dos favoritos dos fãs.",
+    "friday-the-13th-the-new-blood.jpg": "Jason Voorhees com seu design marcante em Sexta-Feira 13 Parte VII: A Nova Sangue.",
+    "friday-the-13th-a-new-beginning.jpg": "Jason Voorhees em Sexta-Feira 13: Um Novo Começo.",
+    "jason-takes-manhattan.jpg": "Jason Voorhees em Sexta-Feira 13 Parte VIII: Jason Ataca Nova York.",
+    "friday-the-13th-part-III.jpg": "Jason Voorhees com sua máscara icônica em Sexta-Feira 13 Parte III.",
+    "friday-the-13th-part-2.jpg": "Jason Voorhees com a máscara de saco em Sexta-Feira 13 Parte 2.",
+    "jason-lives.jpg": "Jason Voorhees em Sexta-Feira 13 - Parte VI: Jason Vive.",
+    "jack-friday-the-13th.jpg": "Cena clássica do filme original Sexta-Feira 13 (1980)."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Todos os Filmes de Sexta-Feira 13: Ranking do Pior ao Melhor",
+    "_yoast_wpseo_metadesc": "Descubra o ranking completo de todos os filmes da franquia Sexta-Feira 13, do pior ao melhor. Conheça a ordem oficial dos filmes de Jason Voorhees.",
+    "_yoast_wpseo_focuskw": "Sexta-Feira 13 filmes",
+    "_yoast_news_keywords": "Sexta-Feira 13, Jason Voorhees, terror, slasher, ranking, filmes, Paramount, New Line Cinema",
+    "_yoast_wpseo_opengraph-title": "Todos os Filmes de Sexta-Feira 13: Ranking do Pior ao Melhor",
+    "_yoast_wpseo_opengraph-description": "Descubra o ranking completo de todos os filmes da franquia Sexta-Feira 13, do pior ao melhor. Conheça a ordem oficial dos filmes de Jason Voorhees.",
+    "_yoast_wpseo_twitter-title": "Todos os Filmes de Sexta-Feira 13: Ranking do Pior ao Melhor",
+    "_yoast_wpseo_twitter-description": "Descubra o ranking completo de todos os filmes da franquia Sexta-Feira 13, do pior ao melhor. Conheça a ordem oficial dos filmes de Jason Voorhees."
+  }
+}

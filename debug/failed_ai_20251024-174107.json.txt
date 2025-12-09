@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Halo: Campaign Evolved chega ao PlayStation em remake de Combat Evolved",
+  "conteudo_final": "<p>A próxima aventura da <b>Halo Studios</b>, anteriormente conhecida como 343 Industries, será um remake do icônico jogo de campanha de <b>Halo: Combat Evolved</b>, que chega em 2026 com o título <b>Halo: Campaign Evolved</b>. Este lançamento promete celebrar o 25º aniversário da franquia e marca uma novidade histórica: pela primeira vez, <b>Halo</b>, tradicionalmente um exclusivo do Xbox, estará disponível para <b>PlayStation</b>. O trailer de um minuto revelou a logo do PlayStation ao lado da familiar logo do Xbox da Microsoft.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/10/screenshot-2025-10-24-at-1-24-53-pm.png\" alt=\"Cena do jogo Halo: Campaign Evolved com Master Chief\"><figcaption>Master Chief em ação em Halo: Campaign Evolved.</figcaption></figure><p>Apesar da empolgação de um novo título da série, o jogo terá um foco exclusivo na campanha, o que significa que o aclamado modo multiplayer de <b>Halo</b> não estará presente no lançamento. Contudo, o título apresentará três novas missões prequeis que expandem a narrativa antes dos eventos de <b>Halo: Combat Evolved</b>. Essas novas missões prometem introduzir novos ambientes, jogabilidade, personagens e inimigos, com a participação do <b>Master Chief</b> e do Sargento Johnson.</p><h2>Novo conteúdo e expectativas para Halo: Campaign Evolved</h2><p>O trailer de anúncio ofereceu um vislumbre do visual renovado do jogo, e especula-se que o <b>Halo World Championships</b> possa apresentar uma demo para os participantes. Este remake de <b>Halo: Combat Evolved</b> não é a primeira vez que o título de 2001 recebe uma nova roupagem. Em 2011, o jogo foi remasterizado para comemorar seu 10º aniversário, sendo este o primeiro projeto da então 343 Industries, estúdio encarregado de dar continuidade à saga <b>Halo</b> após a saída da Bungie.</p><h2>O Legado de Halo e a Saga Reclaimer</h2><p><b>Halo: Campaign Evolved</b> será o primeiro jogo da franquia desde <b>Halo: Infinite</b>, lançado em 2021, que faz parte da "Saga Reclaimer". Ele dá sequência a títulos anteriores como <b>Halo 4</b> e <b>Halo 5: Guardians</b>. O anúncio, que ocorreu após especulações sobre a chegada da <b>Master Chief Collection</b> ao PlayStation e rumores de um novo jogo, concretiza as expectativas dos fãs.</p>",
+  "meta_description": "Halo: Campaign Evolved, remake de Halo: Combat Evolved, chega ao PlayStation em 2026 com campanha expandida e novas missões.",
+  "focus_keyphrase": "Halo: Campaign Evolved",
+  "related_keyphrases": [
+    "Halo Combat Evolved remake",
+    "Halo no PlayStation",
+    "novo jogo Halo"
+  ],
+  "slug": "halo-campaign-evolved-chega-playstation",
+  "categorias": [
+    {
+      "nome": "Halo",
+      "grupo": "franquias",
+      "evidence": "The next Halo game from Halo Studios"
+    },
+    {
+      "nome": "Halo: Combat Evolved",
+      "grupo": "obras",
+      "evidence": "remake of Halo: Combat Evolved"
+    },
+    {
+      "nome": "PlayStation",
+      "grupo": "franquias",
+      "evidence": "will be on PlayStation"
+    }
+  ],
+  "tags_sugeridas": [
+    "Halo",
+    "Halo Combat Evolved",
+    "Halo Campaign Evolved",
+    "343 Industries",
+    "Master Chief",
+    "PlayStation",
+    "Xbox"
+  ],
+  "image_alt_texts": {
+    "screenshot-2025-10-24-at-1-24-53-pm.png": "Master Chief em ação em Halo: Campaign Evolved, com elementos gráficos modernizados."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Halo: Campaign Evolved chega ao PlayStation em remake de Combat Evolved",
+    "_yoast_wpseo_metadesc": "Halo: Campaign Evolved, remake de Halo: Combat Evolved, chega ao PlayStation em 2026 com campanha expandida e novas missões.",
+    "_yoast_wpseo_focuskw": "Halo: Campaign Evolved",
+    "_yoast_news_keywords": "Halo, Halo Combat Evolved, Halo Campaign Evolved, 343 Industries, Master Chief, PlayStation, Xbox",
+    "_yoast_wpseo_opengraph-title": "Halo: Campaign Evolved chega ao PlayStation em remake de Combat Evolved",
+    "_yoast_wpseo_opengraph-description": "Halo: Campaign Evolved, remake de Halo: Combat Evolved, chega ao PlayStation em 2026 com campanha expandida e novas missões.",
+    "_yoast_wpseo_twitter-title": "Halo: Campaign Evolved chega ao PlayStation em remake de Combat Evolved",
+    "_yoast_wpseo_twitter-description": "Halo: Campaign Evolved, remake de Halo: Combat Evolved, chega ao PlayStation em 2026 com campanha expandida e novas missões."
+  }
+}

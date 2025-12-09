@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Landman: 2ª Temporada Traz Personagens Polêmicos de Volta em Novas Imagens",
+  "conteudo_final": "<p>A série <b>Landman</b>, criada por Taylor Sheridan, está de volta em destaque com novas imagens para a segunda temporada. Antecipando a estreia em 16 de novembro, a Paramount+ divulgou fotos que mostram o que esperar dos personagens mais controversos da trama: Angela Norris (Ali Larter) e Ainsley (Michelle Randolph). As postagens, compartilhadas nas redes sociais oficiais da série, geraram especulações entre os fãs sobre o futuro de suas personagens, que trazem momentos de leveza e caos ao drama de Sheridan ambientado no Texas.</p><p>A pergunta \"O que elas vão aprontar na 2ª temporada?\", publicada na conta oficial de <b>Landman</b> no Instagram, provocou uma enxurrada de teorias e comentários apaixonados dos espectadores, divididos entre amar ou odiar a dupla.</p><p>A série acompanha Tommy Norris (Billy Bob Thornton), um negociador experiente que navega pelo competitivo mundo do petróleo no Texas. No entanto, Ainsley e Angela adicionam um toque de luz e humor à narrativa sombria.</p><h2>O Que Esperar de Landman 2ª Temporada?</h2><p>Em um festival de TV, Ali Larter compartilhou detalhes sobre a evolução de sua personagem, Angela, na nova temporada. A atriz destacou a complexidade de Angela como um dos aspectos mais interessantes de interpretá-la.</p><blockquote><p>“As pessoas continuam perguntando sobre a química entre nós. Como atores, você precisa encontrá-la se não a tiver, mas quando ela surge naturalmente e você dedica tempo ao trabalho, é simplesmente mágico. Pegamos essas duas personagens, Tommy e Angela, e encontramos essa história de amor incrível, complicada e bagunçada. Adoramos para onde ela está indo na segunda temporada.”</p></blockquote><p>Larter também respondeu às críticas que rotulam Angela como \"exagerada\", explicando que as falhas e a volatilidade da personagem refletem o custo emocional da vida no setor petrolífero.</p><blockquote><p>“Eu acho que o mais interessante é que você começa com Angela, mas então, quando vê o custo do negócio do petróleo pelos olhos dela, você o entende de uma perspectiva diferente”, explicou Larter. “As pessoas nem sempre querem investigar isso e entender a profundidade de quão perigoso é esse mundo, mas essa é a realidade de trabalhar com petróleo no Oeste do Texas. Para Angela, estou dedicando meu tempo a tentar nos colocar de volta nos trilhos. Ela demonstra seu amor através da comida, criando momentos para seus filhos e tentando se reconectar com o ex-marido. Então, este é um momento complicado. É complexo — e por isso essa personagem é incrivelmente multifacetada.”</p></blockquote><p>A nova temporada de <b>Landman</b> chega ao Paramount+ em 16 de novembro.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/12/landman-paramount-tv-show-updated-poster.jpg\" alt=\"Poster da segunda temporada de Landman com Ali Larter e Michelle Randolph.\"><figcaption>Novas imagens de Landman destacam personagens centrais na segunda temporada.</figcaption></figure>",
+  "meta_description": "Novas imagens de Landman revelam o retorno de personagens polêmicos como Angela e Ainsley na 2ª temporada, que estreia em novembro no Paramount+.",
+  "focus_keyphrase": "Landman 2ª temporada",
+  "related_keyphrases": [
+    "Taylor Sheridan Landman",
+    "Ali Larter Landman",
+    "Paramount+ Landman"
+  ],
+  "slug": "landman-2a-temporada-novas-imagens",
+  "categorias": [
+    {
+      "nome": "Landman",
+      "grupo": "obras",
+      "evidence": "Landman Season 2"
+    },
+    {
+      "nome": "Paramount+",
+      "grupo": "editorias",
+      "evidence": "Paramount+"
+    },
+    {
+      "nome": "Taylor Sheridan",
+      "grupo": "franquias",
+      "evidence": "Taylor Sheridan’s ‘Landman"
+    }
+  ],
+  "tags_sugeridas": [
+    "landman",
+    "taylor sheridan",
+    "paramount+",
+    "ali larter",
+    "michelle randolph",
+    "billy bob thornton",
+    "drama de petróleo"
+  ],
+  "image_alt_texts": {
+    "landman-paramount-tv-show-updated-poster.jpg": "Poster da segunda temporada de Landman com Ali Larter e Michelle Randolph."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Landman: 2ª Temporada Traz Personagens Polêmicos de Volta em Novas Imagens | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Novas imagens de Landman revelam o retorno de personagens polêmicos como Angela e Ainsley na 2ª temporada, que estreia em novembro no Paramount+.",
+    "_yoast_wpseo_focuskw": "Landman 2ª temporada",
+    "_yoast_news_keywords": "Landman, Taylor Sheridan, Paramount+, Ali Larter, Michelle Randolph, Billy Bob Thornton, drama",
+    "_yoast_wpseo_opengraph-title": "Landman: 2ª Temporada Traz Personagens Polêmicos de Volta em Novas Imagens",
+    "_yoast_wpseo_opengraph-description": "Novas imagens de Landman revelam o retorno de personagens polêmicos como Angela e Ainsley na 2ª temporada, que estreia em novembro no Paramount+.",
+    "_yoast_wpseo_twitter-title": "Landman: 2ª Temporada Traz Personagens Polêmicos de Volta em Novas Imagens",
+    "_yoast_wpseo_twitter-description": "Novas imagens de Landman revelam o retorno de personagens polêmicos como Angela e Ainsley na 2ª temporada, que estreia em novembro no Paramount+."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "titulo_final": "Star Cops: Série cult de ficção científica retorna 40 anos após cancelamento",
+  "conteudo_final": "<p>Em 1987, um roteirista de <b>Doctor Who</b> e do clássico de ficção científica <b>Blake's 7</b> criou sua própria série, que, apesar de ter durado apenas 9 episódios, alcançou o status de cult. A década de 80 foi um período desafiador para os fãs de ficção científica, com até mesmo o sucesso de Doctor Who enfrentando hiatos e um cancelamento final em 1989. No entanto, a ficção científica nunca morre, e fãs modernos trouxeram nova atenção a alguns dos melhores lançamentos da era, incluindo a subestimada joia que foi <b>Space Cops</b>.</p>\n\n<h2>Star Cops: Um Clássico de Ficção Científica Injustamente Cancelado Recebe Nova Vida</h2>\n\n<p>Desenvolvida por Chris Boucher, a série de 1987 se passava em 2027 e foi exibida na BBC, mesma emissora de Doctor Who, por apenas uma temporada. Originalmente planejada para 10 episódios, o nono (“Death on Mars”) foi perdido devido a problemas de desenvolvimento, e a produção foi encerrada de forma abrupta. Desde então, a Big Finish, empresa conhecida por seus lançamentos em áudio de Doctor Who, produziu diversas minisséries de continuação, começando em 2018. Agora, <b>Star Cops</b> está de volta com uma nova minissérie de seis episódios, estrelada pelos membros originais do elenco da TV: David Calder como Comandante Nathan Spring, Linda Newton como Chefe Superintendente Pal Kenzy, e Trevor Cooper como Inspetor Colin Devis. A série, intitulada <b>Star Cops: Conflict</b>, promete colocar a equipe na linha de frente de uma crise que arrisca se transformar em guerra total.</p>\n\n<figure>\n<img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Star-Cops-Revival.jpg?w=1024\" alt=\"Elenco de Star Cops em novo revival\">\n<figcaption>Elenco original retorna para nova minissérie de Star Cops.</figcaption>\n</figure>\n\n<p><b>Star Cops: Conflict</b> é a primeira nova história de Star Cops desde o fim de <i>Blood Moon</i> em 2024. Para quem é novo na franquia, a série pode ser comparada a um cruzamento entre os primórdios de <b>Star Trek</b> e os procedimentos policiais, com crimes futuros baseados principalmente nos desafios da nova tecnologia. Soa assustadoramente apropriado para os dias atuais. Levou décadas para que a série ganhasse novo interesse, mas a passagem do tempo adicionou um brilho aos 9 episódios originais, assim como aconteceu com os primeiros episódios de Doctor Who, e os problemas que eram evidentes no início se tornaram peculiaridades. Infelizmente, a BBC a programou em um horário péssimo, garantindo virtualmente que ela nunca seria um sucesso. Agora, é uma raridade encantadora para os fãs de ficção científica dos anos 80, e os personagens justificam totalmente o reencontro em formato de áudio.</p>\n\n<p>O elenco principal será complementado por Philip Olivier e Lynsey Murrell, que reprisam seus papéis como Inspetores Paul Bailey e Alice Okoro de áudios anteriores de Star Cops. Novos convidados incluem Ben Miles (Andor), Jessica Martin (Spitting Image) e Hannah Bristow (The Man Who Fell to Earth). Os episódios serão lançados de janeiro a março, começando com <i>Suspicion and Sabotage</i> de Andrew Smith, e retornarão com mais três episódios entre setembro e novembro de 2026. Infelizmente, no momento, esta é a melhor forma de curtir a série, já que o original não está disponível em nenhuma plataforma de streaming nos EUA. Algo que deveria ser corrigido!</p>\n\n<h2>Sinopse de Suspicion and Sabotage</h2>\n\n<p>Com os recursos minerais vitais da Terra em declínio e a suspeita mundial sobre o verdadeiro propósito de uma missão para minerar o cinturão de asteroides, as tensões internacionais estão altas. Uma série de incidentes de sabotagem suspeita no polo sul da Lua e uma tentativa de assassinato na Terra ameaçam provocar tensões ao ponto de guerra. Os oficiais da Força Policial Espacial Internacional conseguirão evitar uma catástrofe crescente?</p>\n\n<figure>\n<img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Demon-Slayer-1.jpg?w=300\" alt=\"Personagem de Demon Slayer\">\n<figcaption>Cena inspirada em animação japonesa.</figcaption>\n</figure>\n\n<figure>\n<img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/MixCollage-15-Oct-2025-10-55-AM-2775.jpg?w=300\" alt=\"Montagem de cenas de filmes\">\n<figcaption>Diversidade de obras em destaque.</figcaption>\n</figure>",
+  "meta_description": "A série cult de ficção científica Star Cops, cancelada em 1987, retorna com novos episódios e elenco original 40 anos depois. Saiba mais!",
+  "focus_keyphrase": "Star Cops",
+  "related_keyphrases": [
+    "Série cult de ficção científica",
+    "Chris Boucher",
+    "Big Finish"
+  ],
+  "slug": "star-cops-retorna-apos-40-anos",
+  "categorias": [
+    {
+      "nome": "Star Cops",
+      "grupo": "obras",
+      "evidence": "incluindo a subestimada joia que foi Space Cops"
+    },
+    {
+      "nome": "Doctor Who",
+      "grupo": "franquias",
+      "evidence": "um roteirista por trás de Doctor Who"
+    },
+    {
+      "nome": "Blake's 7",
+      "grupo": "franquias",
+      "evidence": "e do clássico sci-fi Blake’s 7"
+    }
+  ],
+  "tags_sugeridas": [
+    "star cops",
+    "ficcao cientifica",
+    "chris boucher",
+    "big finish",
+    "doctor who",
+    "blakes 7"
+  ],
+  "image_alt_texts": {
+    "jim-carrey-dr-robotnik-sonic.jpg": "Jim Carrey como Dr. Robotnik no filme Sonic.",
+    "s-t-e-a-m.png": "Imagem promocional da série s.t.e.a.m.",
+    "Demon-Slayer-1.jpg": "Personagem de Demon Slayer em cena de ação.",
+    "MixCollage-15-Oct-2025-10-55-AM-2775.jpg": "Montagem de imagens de diferentes produções.",
+    "Star-Cops-Revival.jpg": "Elenco reunido para o revival de Star Cops.",
+    "blazing-saddles-movie-streaming-prime-video.jpg": "Pôster do filme Blazing Saddles.",
+    "dont-breathe-2016.jpg": "Pôster do filme Don't Breathe (O Homem nas Trevas)."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Star Cops: Série cult de ficção científica retorna 40 anos após cancelamento | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "A série cult de ficção científica Star Cops, cancelada em 1987, retorna com novos episódios e elenco original 40 anos depois. Saiba mais!",
+    "_yoast_wpseo_focuskw": "Star Cops",
+    "_yoast_news_keywords": "Star Cops, ficção científica, cult, Doctor Who, Blake's 7, Chris Boucher, Big Finish, série de TV",
+    "_yoast_wpseo_opengraph-title": "Star Cops: Série cult de ficção científica retorna 40 anos após cancelamento",
+    "_yoast_wpseo_opengraph-description": "A série cult de ficção científica Star Cops, cancelada em 1987, retorna com novos episódios e elenco original 40 anos depois. Saiba mais!",
+    "_yoast_wpseo_twitter-title": "Star Cops: Série cult de ficção científica retorna 40 anos após cancelamento",
+    "_yoast_wpseo_twitter-description": "A série cult de ficção científica Star Cops, cancelada em 1987, retorna com novos episódios e elenco original 40 anos depois. Saiba mais!"
+  }
+}

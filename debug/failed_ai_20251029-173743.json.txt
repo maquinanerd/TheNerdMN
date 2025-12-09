@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Batman Ninja: Animação DC que Mistura Ação e Fantasia no Japão Feudal",
+  "conteudo_final": "<p>Para os fãs de fantasia, a <strong>HBO Max</strong> oferece uma joia escondida: o filme de animação <strong>Batman Ninja</strong>. Lançado em 2018, este longa-metragem da DC Comics, com impressionantes 83% de aprovação no Rotten Tomatoes, reimagina o icônico herói de Gotham em um cenário completamente inesperado: o Japão feudal.</p><h2>Batman Ninja: Uma Aventura Fantástica no Japão Feudal</h2><p>A premissa de <em>Batman Ninja</em> é cativante: após serem atingidos pelo motor Quake de Gorilla Grodd, Batman, seus vilões e aliados da Bat-Família são transportados através do tempo e espaço para o Japão feudal. No entanto, o que se desenrola é uma versão fantástica e estilizada do período histórico, com os personagens da DC interagindo em um mundo que mistura samurais, ninjas e elementos sobrenaturais.</p><p>O estilo de animação do filme é um dos seus maiores trunfos. Utilizando uma animação 3D estilizada, <em>Batman Ninja</em> ganha vida com visuais vibrantes que realçam a natureza fantástica da aventura. A fusão do universo de Batman com o gênero <em>isekai</em> (um subgênero de anime onde o protagonista é transportado para outro mundo) oferece uma perspectiva única e refrescante para os fãs de super-heróis e de animes.</p><p>Além do próprio Batman, o filme apresenta um elenco diversificado de personagens conhecidos, incluindo Asa Noturna, Mulher-Gato, Coringa, Arlequina, Capuz Vermelho, Capuz Vermelho, Damian Wayne e muitos outros. A combinação da mitologia do Cavaleiro das Trevas com o cenário do Japão feudal e castelos robóticos torna <em>Batman Ninja</em> um dos conceitos mais intrigantes da DC, ideal para quem busca algo diferente em plataformas de streaming.</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "Descubra Batman Ninja, animação da DC na HBO Max que transporta o herói para o Japão feudal em uma aventura fantástica com 83% no Rotten Tomatoes.",
+  "focus_keyphrase": "Batman Ninja",
+  "related_keyphrases": [
+    "Animação DC",
+    "Filme de fantasia",
+    "HBO Max"
+  ],
+  "slug": "batman-ninja-animacao-dc-fantasia-japao",
+  "categorias": [
+    {
+      "nome": "Batman Ninja",
+      "grupo": "obras",
+      "evidence": "2018's Batman Ninja movie"
+    },
+    {
+      "nome": "DC",
+      "grupo": "franquias",
+      "evidence": "DC film"
+    },
+    {
+      "nome": "HBO Max",
+      "grupo": "obras",
+      "evidence": "HBO Max is the home"
+    }
+  ],
+  "tags_sugeridas": [
+    "Batman Ninja",
+    "DC Comics",
+    "Animação",
+    "Japão Feudal",
+    "HBO Max",
+    "Filme de Fantasia",
+    "Rotten Tomatoes"
+  ],
+  "image_alt_texts": {
+    "batman-ninja-vs-yakuza-league.jpg": "Batman e seus aliados enfrentando a Liga Yakuza em Batman Ninja vs. Yakuza League.",
+    "batman-ninja-poster.jpg": "Pôster oficial do filme de animação Batman Ninja, com o herói em destaque."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Batman Ninja: Animação DC que Mistura Ação e Fantasia no Japão Feudal | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Descubra Batman Ninja, animação da DC na HBO Max que transporta o herói para o Japão feudal em uma aventura fantástica com 83% no Rotten Tomatoes.",
+    "_yoast_wpseo_focuskw": "Batman Ninja",
+    "_yoast_news_keywords": "Batman Ninja, DC Comics, Animação, Japão Feudal, HBO Max, Filme de Fantasia, Rotten Tomatoes",
+    "_yoast_wpseo_opengraph-title": "Batman Ninja: Animação DC que Mistura Ação e Fantasia no Japão Feudal",
+    "_yoast_wpseo_opengraph-description": "Descubra Batman Ninja, animação da DC na HBO Max que transporta o herói para o Japão feudal em uma aventura fantástica com 83% no Rotten Tomatoes.",
+    "_yoast_wpseo_twitter-title": "Batman Ninja: Animação DC que Mistura Ação e Fantasia no Japão Feudal",
+    "_yoast_wpseo_twitter-description": "Descubra Batman Ninja, animação da DC na HBO Max que transporta o herói para o Japão feudal em uma aventura fantástica com 83% no Rotten Tomatoes."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Wonder Man: Trailer revela poderes do novo herói do MCU",
+      "conteudo_final": "<p>Um novo trailer de <em>Wonder Man</em> anuncia a chegada do próximo super-herói do Universo Cinematográfico Marvel. Após seu papel como Black Manta na franquia DCEU, Yahya Abdul-Mateen II entra para o MCU, dando vida a um dos heróis menos conhecidos da Marvel no Disney+.</p><h2>Simon Williams chega ao MCU</h2><p>À medida que 2025 se aproxima do fim, a Marvel Studios lança um trailer de <em>Wonder Man</em>, mostrando mais da entrada de Simon Williams na franquia do MCU. O material finalmente oferece um vislumbre dos poderes do herói titular.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/KwXeoGi7nH0\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>Abdul-Mateen II foi escalado como o herói titular em 31 de outubro de 2022, com o diretor de <em>Shang-Chi e a Lenda dos Dez Anéis</em>, Destin Daniel Cretton, como produtor executivo. Andrew Guest, produtor de <em>Gavião Arqueiro</em>, é o showrunner.</p><h2>Uma sátira de Hollywood</h2><p>A série do MCU foca em Williams, um ator que busca o papel principal no reboot de <em>Wonder Man</em>, em desenvolvimento pelo cineasta Von Kovak. A série é descrita como uma sátira de Hollywood e contará com o retorno de Sir Ben Kingsley como Trevor Slattery.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/yahya-abdul-mateen-ii-auditioning-in-mcu-s-wonder-man.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Yahya Abdul-Mateen II em cena de audição na série Wonder Man do MCU.\"><figcaption>Yahya Abdul-Mateen II em cena de audição na série Wonder Man do MCU.</figcaption></figure><p>Embora <em>Wonder Man</em> esteja em desenvolvimento há vários anos, reestruturações na Marvel Television atrasaram a série. Inicialmente prevista para estrear em dezembro de 2025, a data foi adiada para o próximo ano.</p><h2>Elenco e próximos lançamentos</h2><p>O elenco de <em>Wonder Man</em> inclui Demetrius Grosse, que interpretará Eric Williams, irmão de Simon, conhecido como Grim Reaper. Arian Moayed reprisa seu papel como o agente do Departamento de Controle de Danos, P. Cleary.</p><p>Esta é uma das últimas séries de TV live-action do MCU para a Saga do Multiverso. Após <em>Wonder Man</em>, com oito episódios, <em>Daredevil: Born Again</em> chega em março de 2026, seguida pela série <em>VisionQuest</em> ainda no mesmo ano.</p><p>A última série do MCU para a Saga do Multiverso na Fase 6 será <em>Daredevil: Born Again </em>temporada 3, prevista para 2027. <em>Wonder Man</em> tem estreia oficial marcada para terça-feira, 27 de janeiro de 2026, exclusivamente no Disney+.</p>",
+      "meta_description": "Trailer de Wonder Man revela os poderes do novo herói do MCU. Yahya Abdul-Mateen II estrela a série de Hollywood que chega ao Disney+ em 2026.",
+      "focus_keyphrase": "Wonder Man poderes MCU",
+      "related_keyphrases": [
+        "Yahya Abdul-Mateen II Wonder Man",
+        "Série Wonder Man Disney+",
+        "Novo herói Marvel"
+      ],
+      "slug": "wonder-man-trailer-poderes-mcu",
+      "categorias": [
+        {
+          "nome": "Wonder Man",
+          "grupo": "obras",
+          "evidence": "<em>Wonder Man</em> trailer sets up the arrival of the next Marvel Cinematic Universe superhero."
+        },
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "next Marvel Cinematic Universe superhero."
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "on Disney+."
+        }
+      ],
+      "tags_sugeridas": [
+        "Wonder Man",
+        "MCU",
+        "Disney+",
+        "Yahya Abdul-Mateen II",
+        "Marvel Studios"
+      ],
+      "image_alt_texts": {
+        "yahya-abdul-mateen-ii-auditioning-in-mcu-s-wonder-man.jpg": "Yahya Abdul-Mateen II em cena de audição na série Wonder Man do MCU."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wonder Man: Trailer revela poderes do novo herói do MCU",
+        "_yoast_wpseo_metadesc": "Trailer de Wonder Man revela os poderes do novo herói do MCU. Yahya Abdul-Mateen II estrela a série de Hollywood que chega ao Disney+ em 2026.",
+        "_yoast_wpseo_focuskw": "Wonder Man poderes MCU",
+        "_yoast_news_keywords": "Wonder Man, MCU, Disney+, Yahya Abdul-Mateen II, Marvel Studios, Simon Williams",
+        "_yoast_wpseo_opengraph-title": "Wonder Man: Trailer revela poderes do novo herói do MCU",
+        "_yoast_wpseo_opengraph-description": "Trailer de Wonder Man revela os poderes do novo herói do MCU. Yahya Abdul-Mateen II estrela a série de Hollywood que chega ao Disney+ em 2026.",
+        "_yoast_wpseo_twitter-title": "Wonder Man: Trailer revela poderes do novo herói do MCU",
+        "_yoast_wpseo_twitter-description": "Trailer de Wonder Man revela os poderes do novo herói do MCU. Yahya Abdul-Mateen II estrela a série de Hollywood que chega ao Disney+ em 2026."
+      }
+    },
+    {
+      "titulo_final": "All's Fair: Série de Ryan Murphy recebe críticas negativas",
+      "conteudo_final": "<p>A nova série de drama legal de Ryan Murphy, <em>All's Fair</em>, tem recebido críticas negativas, com os críticos unânimes em vários aspectos do show. A série do Hulu estrela Kim Kardashian, Naomi Watts e Niecy Nash-Betts como Allura Grant, Dina Standish e Liberty Ronson, três mulheres que administram um escritório de advocacia de divórcio.</p><h2>Tom inconsistente</h2><p>Sarah Paulson interpreta Carrington Lane, que trabalha na mesma indústria, mas não se dá bem com as outras. Com base na premissa, esperaríamos um show divertido e dramático para escapar da realidade. No entanto, esse não é o caso.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/allra-grant-kim-kardashian-smiling-on-a-private-plane-in-all-s-fair.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Kim Kardashian como Allura Grant sorrindo em um avião particular na série All's Fair.\"><figcaption>Kim Kardashian como Allura Grant sorrindo em um avião particular na série All's Fair.</figcaption></figure><p>Embora Murphy tenha criado várias séries de sucesso, incluindo o drama <em>Doctor Odyssey</em> e a franquia de terror <em>American Horror Story</em>, <em>All's Fair</em> obteve uma surpreendente nota 0% no Rotten Tomatoes em sua estreia. Após assistir aos três primeiros episódios, lançados em 4 de novembro de 2025, os críticos não ficaram impressionados.</p><p>Ryan Murphy é conhecido por séries <em>campy</em> como <em>Scream Queens</em>. Você também pode apreciar o drama médico <em>Doctor Odyssey</em>, que durou uma temporada, e <em>Nip/Tuck</em>, que mergulha no mundo da cirurgia plástica.</p><p>Conforme observado por <em>The Guardian</em>, <em>All's Fair</em> não tem um tom consistente e forte, o que torna impossível aproveitar a jornada. Se o show tivesse abraçado seu lado <em>campy</em>, como outras séries de Murphy, seria uma história completamente diferente. Mas como não o faz, não se sabe se é para ser engraçado ou sério.</p><blockquote>"Se tudo isso fizesse parte de um drama <em>campy</em>, interpretado com entusiasmo por todos e recheado de surpresas narrativas, Murphy poderia ter conseguido. Mas ninguém parece saber o que está fazendo; as atuações parecem responder a cerca de nove ideias diferentes sobre o que é o show e as tramas são sombrias." - The Guardian</blockquote><p>Este é um dos aspectos mais decepcionantes de <em>All's Fair</em>, pois a premissa de advogadas de divórcio poderosas parecia ótima. E, como notado por muitos críticos, Murphy criou muito conteúdo para TV, então esperávamos que o tom fosse claro desde o início.</p><h2>Tramas sem brilho</h2><p>Se você vai fazer um drama legal após tantos outros fantásticos já terem ido ao ar, precisa garantir que as tramas sejam convincentes, novas e originais. E se você vai fazer um show sobre direito de família, os casais que estão se separando precisam ser particularmente dinâmicos.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/milan-teyana-taylor-leaning-forward-intently-talking-to-another-woman-in-all-s-fair-2500.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Teyana Taylor como Milan em cena da série All's Fair.\"><figcaption>Teyana Taylor como Milan em cena da série All's Fair.</figcaption></figure><p>Os críticos concordam que as tramas de <em>All's Fair</em> não são nada interessantes. A crítica da <em>Variety</em> afirma que o show se torna rapidamente formulaico, o que é uma pena, já que apenas três episódios estão disponíveis no Hulu até o momento.</p><p>A <em>Variety</em> observou que as clientes são todas mulheres que querem se vingar de seus maridos que as magoaram. Isso é definitivamente decepcionante e reforça estereótipos sexistas. A crítica aponta duas personagens especialmente perturbadoras: Lee-Ann (Jessica Simpson), que joga ácido sulfúrico em seu ex, e Deandre Barber (Elizabeth Berkley), que tira a própria vida.</p><blockquote>"Cada cliente em 'All's Fair' é uma variação da mesma história superficial: um homem rico, uma mulher traída e doce vingança." - Variety</blockquote><p>Se o resto do show for assim, é difícil imaginar alguém se interessando pela narrativa. Ver mulheres querendo se divorciar de seus maridos e garantir que eles tenham um tempo ruim vai cansar rapidamente.</p><h2>Atuação de Kim Kardashian deixa a desejar</h2><p>Vários críticos concordam que a atuação de Kim Kardashian não é muito boa em <em>All's Fair</em>, com <em>The Hollywood Reporter</em> notando o quão \"rígida\" ela é. Embora ela seja famosa por sua experiência em reality shows após estrelar <em>Keeping Up With the Kardashians</em> e <em>The Kardashians</em> do Hulu com sua família igualmente famosa, Kardashian estrelou <em>American Horror Story</em> temporada 12 como uma relações-públicas chamada Siobhan Corbyn.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/untitled-4.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Kim Kardashian como Allura Grant na série All's Fair.\"><figcaption>Kim Kardashian como Allura Grant na série All's Fair.</figcaption></figure><p>Embora seja justo dizer que Kardashian não teve uma performance incrível em <em>AHS</em>, a temporada da série de antologia de terror era bastante <em>campy</em>, e ela se encaixou. Os críticos não tiveram coisas positivas a dizer sobre assistir Kardashian em <em>All's Fair</em> e acharam que ela não expressa emoções ou traz algo especial para o show.</p><blockquote>"Mas a performance de Kardashian, rígida e sem afeto, sem uma única nota autêntica, é exatamente o que a escrita, também rígida e sem afeto, sem uma única nota autêntica, merece. Sua própria presença, que gera burburinho e pouco mais, parece adequada para um show que parece querer não ser assistido tanto quanto ser explorado por trechos virais." - The Hollywood Reporter</blockquote><p>Embora seja sempre impressionante assistir Glenn Close e Sarah Paulson, não há dúvida de que a má atuação de Kardashian é distrativa. E como ela é suposta ser a personagem principal e o burburinho em torno do show era que ela estava estrelando um drama legal de Murphy, sua atuação deveria ser mais forte.</p><h2>Roteiro fraco</h2><p>Um ótimo roteiro faz muita diferença na TV, seja compensando atuações fracas ou garantindo que certas falas ou monólogos fiquem com você muito tempo depois de terminar de assistir. Infelizmente, o roteiro não é ótimo em <em>All's Fair</em>, como notado por <em>USA Today</em>.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/all-s-fair.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Niecy Nash e Sharif Poston em All's Fair.\"><figcaption>Niecy Nash e Sharif Poston em All's Fair.</figcaption></figure><p>A publicação o chamou de \"travado, artificial e estranho\", que definitivamente não são palavras que você quer ver aplicadas ao roteiro de um programa de TV. A crítica chega a se referir a ele como \"o pior programa de TV do ano\". A crítica de <em>The Guardian</em> também mencionou o diálogo terrível, incluindo Liberty dizendo: \"Meu voo foi turbulento e meu humor também.\"</p><blockquote>"Um show embaraçosamente terrível com roteiros piores do que o ChatGPT estava cuspindo dois anos atrás e atuações piores do que o seu presépio de Natal local, 'Fair' é um desastre não mitigado de proporções tão exageradas que é uma maravilha que nenhuma pessoa no processo de produção parou e perguntou 'O que estamos fazendo aqui?' aos seus colegas." - USA Today</blockquote><p>Os críticos concordam que não há falas inteligentes ou hilárias em <em>All's Fair</em>. Se é assim que os três primeiros episódios são, é difícil imaginar que o roteiro do show vá melhorar. E, novamente, dado o histórico de Murphy na TV, é surpreendente que tantos críticos considerem o diálogo tão ruim.</p><h2>Personagens pouco cativantes</h2><p>Como mencionado na crítica da <em>Vulture</em>, os personagens de <em>All's Fair</em> são claramente bons em seus trabalhos, o que não dá muito o que pensar ao assisti-los. Não há nada nos três primeiros episódios do show que faria você querer aprender mais sobre eles e torcer por eles enquanto continuam em suas carreiras.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/dina-standish-glenn-close-standing-in-office-and-smiling-confidently-in-all-s-fair.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Glenn Close como Dina Standish em cena da série All's Fair.\"><figcaption>Glenn Close como Dina Standish em cena da série All's Fair.</figcaption></figure><p>Um programa de TV não pode ter sucesso sem personagens fantásticos e cativantes, e como as mulheres do show são advogadas, você quer sentir que há altos e baixos em suas vidas profissionais. <em>Vulture</em> observou que a melhor e mais intrigante personagem é Carrington, que é apresentada como uma pessoa má que você não deveria gostar.</p><p>Os críticos também concordam que, em vez de uma representação de personagens femininas complicadas e fascinantes, <em>All's Fair</em> é sobre ser uma \"girlboss\" estereotipada. As personagens soam bobas em vez de brilhantes, e o consenso é que é difícil imaginar querer passar muito tempo com elas.</p><blockquote>"Mas nos importamos? Nem um pouco. O show ainda não nos apresentou a esses personagens de forma significativa além da superfície brilhante. Então, por que torceríamos por elas? Nosso trio de advogadas é infinitamente bem-sucedido, super rico, lindo..." - Vulture</blockquote><p>Isso é decepcionante, considerando o quão inspiradores os personagens poderiam ser. Como são advogadas representando outras mulheres, havia muito potencial aqui, e o show poderia mergulhar nos desafios do casamento e no impacto da saúde mental que o divórcio pode ter. Isso não seria apenas envolvente de assistir, mas também diferenciaria <em>All's Fair</em> de outros dramas legais.</p><p>Dadas todas as críticas negativas e a pontuação 0% no Rotten Tomatoes para o novo show de Murphy, é difícil dizer que <em>All's Fair</em> durará além da primeira temporada, e provavelmente não terá o mesmo sucesso que os shows de longa duração de Murphy, como <em>9-1-1</em>, que atualmente está na nona temporada.</p>",
+      "meta_description": "Críticas negativas para All's Fair, nova série de Ryan Murphy com Kim Kardashian. Show é criticado pelo tom, roteiro e atuações fracas.",
+      "focus_keyphrase": "All's Fair críticas negativas",
+      "related_keyphrases": [
+        "Ryan Murphy série Kim Kardashian",
+        "All's Fair Rotten Tomatoes",
+        "Avaliação All's Fair"
+      ],
+      "slug": "alls-fair-criticas-negativas-ryan-murphy",
+      "categorias": [
+        {
+          "nome": "All's Fair",
+          "grupo": "obras",
+          "evidence": "Ryan Murphy's new legal drama <em>All's Fair</em> has gotten negative reviews"
+        },
+        {
+          "nome": "Ryan Murphy",
+          "grupo": "criadores",
+          "evidence": "Ryan Murphy's new legal drama"
+        },
+        {
+          "nome": "Hulu",
+          "grupo": "plataformas",
+          "evidence": "The Hulu series stars Kim Kardashian"
+        }
+      ],
+      "tags_sugeridas": [
+        "All's Fair",
+        "Ryan Murphy",
+        "Kim Kardashian",
+        "Hulu",
+        "Críticas de TV",
+        "Rotten Tomatoes"
+      ],
+      "image_alt_texts": {
+        "allra-grant-kim-kardashian-smiling-on-a-private-plane-in-all-s-fair.jpg": "Kim Kardashian como Allura Grant sorrindo em um avião particular na série All's Fair.",
+        "milan-teyana-taylor-leaning-forward-intently-talking-to-another-woman-in-all-s-fair-2500.jpg": "Teyana Taylor como Milan em cena da série All's Fair.",
+        "untitled-4.jpg": "Kim Kardashian como Allura Grant na série All's Fair.",
+        "all-s-fair.jpg": "Niecy Nash e Sharif Poston em All's Fair.",
+        "dina-standish-glenn-close-standing-in-office-and-smiling-confidently-in-all-s-fair.jpg": "Glenn Close como Dina Standish em cena da série All's Fair."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "All's Fair: Série de Ryan Murphy recebe críticas negativas",
+        "_yoast_wpseo_metadesc": "Críticas negativas para All's Fair, nova série de Ryan Murphy com Kim Kardashian. Show é criticado pelo tom, roteiro e atuações fracas.",
+        "_yoast_wpseo_focuskw": "All's Fair críticas negativas",
+        "_yoast_news_keywords": "All's Fair, Ryan Murphy, Kim Kardashian, Hulu, Críticas de TV, Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-title": "All's Fair: Série de Ryan Murphy recebe críticas negativas",
+        "_yoast_wpseo_opengraph-description": "Críticas negativas para All's Fair, nova série de Ryan Murphy com Kim Kardashian. Show é criticado pelo tom, roteiro e atuações fracas.",
+        "_yoast_wpseo_twitter-title": "All's Fair: Série de Ryan Murphy recebe críticas negativas",
+        "_yoast_wpseo_twitter-description": "Críticas negativas para All's Fair, nova série de Ryan Murphy com Kim Kardashian. Show é criticado pelo tom, roteiro e atuações fracas."
+      }
+    },
+    {
+      "titulo_final": "Welcome to Derry: Série referencia Terrifier 3 em cena chocante",
+      "conteudo_final": "<p>Enquanto <em>Welcome to Derry</em>, episódio 1, apresenta uma sutil referência a <em>Terrifier 3</em>, fãs atentos de horror provavelmente notaram a divertida homenagem. A série, precursora de <em>It</em>, oferece uma vasta coleção de referências a Stephen King.</p><h2>Nod para Terrifier 3</h2><p>Desde o motivo da tartaruga em <em>Welcome to Derry</em> até as referências oblíquas a <em>O Iluminado</em> e <em>Um Sonho de Liberdade</em>, a série se esforça para ancorar sua história no universo de outros livros e filmes de King. No entanto, <em>Welcome to Derry</em> também inclui referências a outras franquias de horror.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/paul-bunyan-sign-welcome-to-derry.png?q=49&fit=crop&w=825&dpr=2\" alt=\"Placa de Paul Bunyan em Welcome to Derry.\"><figcaption>Placa de Paul Bunyan em Welcome to Derry.</figcaption></figure><p>Por exemplo, o bebê demoníaco de <em>Welcome to Derry</em> foi uma surpresa genuinamente assustadora na abertura do episódio piloto, mas sutilmente remeteu a um filme de horror famoso do ano passado. Para espectadores que se lembram bem de <em>Terrifier 3</em>, a visão de um nascimento bizarro envolvendo um palhaço assassino será familiar.</p><p>A abertura do episódio 1 de <em>Welcome to Derry</em> começou com uma criança local infeliz sendo acolhida por uma família aparentemente doce enquanto pegava carona para sair da cidade titular. Inicialmente, a família parecia apenas um pouco excêntrica, mas logo as coisas tomaram um rumo grotesco, com <em>Welcome to Derry</em> resgatando uma tendência controversa da HBO.</p><h2>Cena de nascimento traumático</h2><p>Assim como o piloto de <em>House of the Dragon</em>, o primeiro episódio de <em>Welcome to Derry</em> apresentou uma cena chocante de trauma de parto, onde a mãe da família dá à luz um bebê demoníaco bizarro. A série da HBO foi criticada por apresentar inúmeras cenas de parto traumáticas, incluindo a representação gráfica da morte da mãe de Rhaenyra no piloto.</p><p>No entanto, a cena de parto de <em>Welcome to Derry</em> provou ser menos controversa do que a do piloto de <em>House of the Dragon</em>, pois a abertura foi uma sequência de horror exagerada e fantástica, não uma realista. É provável que seja a única cena de trauma de parto da série, enquanto <em>House of the Dragon</em> apresentou quatro cenas de trauma de parto apenas na primeira temporada.</p><p>Dito isso, o spin-off de <em>Game of Thrones</em> não foi a única obra controversa que a cena de abertura referenciou. Enquanto uma personagem feminina vilanesca dá à luz uma das formas demoníacas de um palhaço assassino, rindo histericamente, a primeira cena de <em>Welcome to Derry</em> sutilmente referenciou o primeiro ato de <em>Terrifier 3</em> de 2024.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/screenrant-sandbox-2025-09-02t175509-622.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Art, o Palhaço de Terrifier 2.\"><figcaption>Art, o Palhaço de Terrifier 2.</figcaption></figure><p>Embora as mortes mais brutais de <em>Terrifier 3</em> cheguem mais tarde no blockbuster de 2024, um dos choques mais impressionantes do filme não é uma cena de morte, mas sim um nascimento não convencional. Em <em>Terrifier 3</em> (em uma sequência previamente vislumbrada na cena pós-créditos de <em>Terrifier 2</em>), a psicótica Victoria dá à luz a cabeça decepada e senciente do Art the Clown.</p><h2>Referência sutil</h2><p>É difícil chamar <em>Terrifier 3</em> ou <em>Welcome to Derry</em> de \"sutis\", mas a referência da abertura ao filme de terror slasher é relativamente bem disfarçada. Por um lado, o demônio que a mãe na série dá à luz é um bebê gárgula alado, enquanto Victoria dá à luz uma cabeça humana sorridente e contorcida em <em>Terrifier 3</em>.</p><p>Por outro lado, o bebê demônio nasce dentro de um carro em movimento, enquanto Victoria dá à luz dentro das paredes acolchoadas de um sanatório. Dito isso, há semelhanças entre as duas cenas. Ambos os monstros, seja o bebê demônio ou a cabeça do Art the Clown, logo reivindicam suas primeiras vítimas após seus nascimentos grotescos.</p><p>Além disso, a cena serve ao mesmo propósito temático e narrativo para o prelúdio de <em>It</em> e a sequência de <em>Terrifier 2</em>. Tanto em <em>Welcome to Derry</em> quanto em <em>Terrifier 3</em>, os nascimentos sangrentos sinalizam o retorno dos formidáveis palhaços assassinos de ambas as franquias, Art e Pennywise.</p><h2>Conexão entre franquias</h2><p>Os filmes de <em>Terrifier</em> nunca esconderam sua dívida de inspiração com <em>It</em>, tanto o romance original de Stephen King quanto sua adaptação em minissérie de TV de 1990. Assim, embora Pennywise não apareça no piloto de <em>Welcome to Derry</em>, faz sentido que o retorno do demônio seja anunciado por esta referência assustadora a <em>Terrifier 3</em>.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bill-skarsg-rd-as-pennywise-in-it-welcome-to-derry.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Bill Skarsgård como Pennywise em It Welcome to Derry.\"><figcaption>Bill Skarsgård como Pennywise em It Welcome to Derry.</figcaption></figure><p>Os filmes de <em>Terrifier</em> apresentam inúmeras referências lúdicas a <em>It</em>, e <em>Welcome to Derry</em> episódio 1 permite que a franquia retribua o favor. A sequência de abertura de pesadelo da série deve muito a inúmeros filmes e programas de terror clássicos, de <em>Carnival of Souls</em> a <em>It's Alive</em>.</p><p>Assim, incluir uma referência sutil a <em>Terrifier 3</em> é uma maneira divertida para <em>Welcome to Derry</em> reconhecer a popularidade da franquia <em>Terrifier</em>, ao mesmo tempo em que mantém Pennywise escondido dos espectadores por mais tempo. O infame vilão de Bill Skarsgard aparecerá em <em>Welcome to Derry</em> temporada 1 eventualmente, mas o show está levando seu tempo para trazer de volta o palhaço icônico.</p><p>Enquanto os espectadores esperam pela primeira aparição de Pennywise em sua maquiagem clássica de palhaço, a referência do show a <em>Terrifier 3</em> é uma homenagem sutil a outro dos palhaços assassinos mais infames do cinema. Pennywise e Art the Clown podem ser muito diferentes, mas a referência de <em>Welcome to Derry</em> a <em>Terrifier 3</em> prova que eles ainda podem influenciar um ao outro.</p>",
+      "meta_description": "Welcome to Derry, série do universo de It, faz referência sutil a Terrifier 3 em cena de nascimento chocante, conectando os universos do horror.",
+      "focus_keyphrase": "Welcome to Derry referencia Terrifier 3",
+      "related_keyphrases": [
+        "It série Pennywise",
+        "Terrifier 3 cena nascimento",
+        "Palhaços assassinos cinema"
+      ],
+      "slug": "welcome-to-derry-referencia-terrifier-3",
+      "categorias": [
+        {
+          "nome": "Welcome to Derry",
+          "grupo": "obras",
+          "evidence": "While <em>Welcome to Derry</em> episode 1’s nod"
+        },
+        {
+          "nome": "Terrifier 3",
+          "grupo": "obras",
+          "evidence": "nod to <em>Terrifier 3</em>"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "autores",
+          "evidence": "Stephen King Easter eggs"
+        }
+      ],
+      "tags_sugeridas": [
+        "Welcome to Derry",
+        "Terrifier 3",
+        "It",
+        "Pennywise",
+        "Art the Clown",
+        "Stephen King",
+        "Horror"
+      ],
+      "image_alt_texts": {
+        "paul-bunyan-sign-welcome-to-derry.png": "Placa de Paul Bunyan em Welcome to Derry.",
+        "screenrant-sandbox-2025-09-02t175509-622.jpg": "Art, o Palhaço de Terrifier 2.",
+        "bill-skarsg-rd-as-pennywise-in-it-welcome-to-derry.jpg": "Bill Skarsgård como Pennywise em It Welcome to Derry."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Welcome to Derry: Série referencia Terrifier 3 em cena chocante",
+        "_yoast_wpseo_metadesc": "Welcome to Derry, série do universo de It, faz referência sutil a Terrifier 3 em cena de nascimento chocante, conectando os universos do horror.",
+        "_yoast_wpseo_focuskw": "Welcome to Derry referencia Terrifier 3",
+        "_yoast_news_keywords": "Welcome to Derry, Terrifier 3, It, Pennywise, Art the Clown, Stephen King, Horror",
+        "_yoast_wpseo_opengraph-title": "Welcome to Derry: Série referencia Terrifier 3 em cena chocante",
+        "_yoast_wpseo_opengraph-description": "Welcome to Derry, série do universo de It, faz referência sutil a Terrifier 3 em cena de nascimento chocante, conectando os universos do horror.",
+        "_yoast_wpseo_twitter-title": "Welcome to Derry: Série referencia Terrifier 3 em cena chocante",
+        "_yoast_wpseo_twitter-description": "Welcome to Derry, série do universo de It, faz referência sutil a Terrifier 3 em cena de nascimento chocante, conectando os universos do horror."
+      }
+    }
+  ]
+}

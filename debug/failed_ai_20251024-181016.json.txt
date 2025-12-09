@@ -1,0 +1,158 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Todos os filmes Star Wars da Disney: Ranking de Lucratividade Revelado",
+      "conteudo_final": "<p>Todos os filmes de <b>Star Wars</b> da Disney, exceto um, geraram lucro para o estúdio, segundo um relatório. Para filmes produzidos no Reino Unido, onde todos os longas de Star Wars da Disney foram filmados, os estúdios recebem um reembolso de até 25,5%. O lucro para o estúdio geralmente requer que um filme gere pelo menos três vezes seu orçamento, incluindo custos de produção e marketing.</p><h2>Análise de Lucratividade dos Filmes Star Wars da Disney</h2><p>Considerando um orçamento básico de US$ 100 milhões e sem crédito fiscal, um filme precisaria arrecadar US$ 300 milhões mundialmente para cobrir os custos. Cerca de 49% dessa receita vai para os cinemas, deixando US$ 150 milhões para o estúdio. Subtraindo o orçamento, o lucro seria de US$ 50 milhões. Essa é uma base para entender a lucratividade dos filmes da saga.</p><h2>5) Solo: Uma História Star Wars (-US$ 103,3 milhões)</h2><p>Lançado em maio de 2018, <b>Solo: Uma História Star Wars</b> custou US$ 365,7 milhões, com um crédito fiscal de US$ 65,9 milhões, resultando em um custo final de US$ 299,8 milhões. O filme arrecadou pouco menos de US$ 400 milhões mundialmente, tornando-se o único filme de Star Wars da Disney a não estrear em dezembro. Isso resultou em uma perda de US$ 103,3 milhões para o estúdio. A falta de interesse do público e a impossibilidade de substituir Harrison Ford no papel principal contribuíram para seu desempenho.</p><h2>4) Star Wars: A Ascensão Skywalker (US$ 48,3 milhões)</h2><p>Com um custo de US$ 490,2 milhões (após um crédito fiscal de US$ 103,5 milhões), <b>Star Wars: A Ascensão Skywalker</b> arrecadou US$ 538,5 milhões mundialmente. A recepção dividida após <b>Star Wars: Os Últimos Jedi</b>, o retorno de Darth Sidious e o falecimento de Carrie Fisher impactaram a expectativa. Apesar de ter cruzado a marca de US$ 1 bilhão, seu lucro foi de apenas US$ 48,3 milhões, considerado negligenciável para o capítulo final da saga Skywalker.</p><h2>3) Rogue One: Uma História Star Wars (US$ 258,4 milhões)</h2><p>Um ano após a estreia de Star Wars sob a Disney, <b>Rogue One: Uma História Star Wars</b> encantou o público. O boca a boca positivo ajudou o filme, que é amplamente considerado por muitos fãs como o melhor filme de Star Wars da era Disney. Com um retorno sobre investimento (ROI) de 95,4%, o filme teve um orçamento de US$ 327,5 milhões, reduzido para US$ 271 milhões com crédito fiscal. A arrecadação de US$ 529,3 milhões gerou um lucro excepcional de US$ 258,4 milhões.</p><h2>2) Star Wars: Os Últimos Jedi (US$ 324 milhões)</h2><p><b>Star Wars: Os Últimos Jedi</b> teve a maior queda de bilheteria no segundo fim de semana da trilogia de sequências. O filme custou mais de US$ 200 milhões a menos que <b>O Despertar da Força</b>. Recebeu um crédito fiscal de US$ 71,4 milhões, reduzindo seu orçamento para US$ 343,2 milhões. Com uma arrecadação mundial de US$ 1,33 bilhão, o estúdio obteve um lucro de US$ 324 milhões, apesar de sua recepção divisiva.</p><h2>1) Star Wars: O Despertar da Força (US$ 500,2 milhões)</h2><p><b>Star Wars: O Despertar da Força</b> foi um fenômeno de bilheteria, quebrando recordes e se tornando o filme mais rápido a atingir várias marcas. É o único filme a ultrapassar US$ 900 milhões domesticamente (sem ajuste de inflação). Com um custo de US$ 535,5 milhões (após crédito fiscal de US$ 103,4 milhões), o filme arrecadou mais de US$ 1 bilhão em sua metade da bilheteria mundial, resultando em um lucro para o estúdio de pouco mais de US$ 500 milhões, o maior para a Disney no universo Star Wars.</p>",
+      "meta_description": "Descubra o ranking de lucratividade dos filmes Star Wars da Disney, revelando quais longas geraram mais e menos lucro para o estúdio.",
+      "focus_keyphrase": "filmes Star Wars Disney lucratividade",
+      "related_keyphrases": [
+        "lucro filmes Star Wars",
+        "bilheteria Star Wars Disney",
+        "ranking filmes Star Wars"
+      ],
+      "slug": "ranking-filmes-star-wars-lucratividade",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Disney’s Star Wars movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Disney",
+        "Lucasfilm",
+        "bilheteria",
+        "Solo: Uma História Star Wars"
+      ],
+      "image_alt_texts": {
+        "hbo-max-binge-dramas.jpg": "Imagem ilustrativa de séries em streaming.",
+        "netflix-scifi.jpg": "Imagem ilustrativa de filmes de ficção científica.",
+        "Army-in-Dune-Part-Two.jpg": "Imagem do filme Duna: Parte Dois.",
+        "IT-Welcome-to-derry-rotten-tomatoes-score.jpg": "Imagem promocional de IT: Bem-Vindo a Derry.",
+        "The-Division.jpg": "Imagem do jogo The Division.",
+        "mitchells-vs-the-machines-2.jpg": "Imagem do filme A Família Mitchell e a Revolta das Máquinas.",
+        "rogue-one.jpg": "Imagem do filme Rogue One: Uma História Star Wars.",
+        "solo-a-star-wars-story.jpg": "Imagem do filme Solo: Uma História Star Wars.",
+        "star-wars-the-force-awakens.jpg": "Imagem do filme Star Wars: O Despertar da Força.",
+        "star-wars-the-last-jedi.jpg": "Imagem do filme Star Wars: Os Últimos Jedi.",
+        "star-wars-the-rise-of-skywalker.jpg": "Imagem do filme Star Wars: A Ascensão Skywalker.",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Imagem ilustrativa de filmes de vampiro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Filmes Star Wars Disney: Ranking Completo de Lucratividade Revelado",
+        "_yoast_wpseo_metadesc": "Descubra o ranking de lucratividade dos filmes Star Wars da Disney, revelando quais longas geraram mais e menos lucro para o estúdio.",
+        "_yoast_wpseo_focuskw": "filmes Star Wars Disney lucratividade",
+        "_yoast_news_keywords": "Star Wars, Disney, Lucasfilm, bilheteria, Solo: Uma História Star Wars, Rogue One: Uma História Star Wars, Star Wars: O Despertar da Força, Star Wars: Os Últimos Jedi, Star Wars: A Ascensão Skywalker",
+        "_yoast_wpseo_opengraph-title": "Filmes Star Wars Disney: Ranking Completo de Lucratividade Revelado",
+        "_yoast_wpseo_opengraph-description": "Descubra o ranking de lucratividade dos filmes Star Wars da Disney, revelando quais longas geraram mais e menos lucro para o estúdio.",
+        "_yoast_wpseo_twitter-title": "Filmes Star Wars Disney: Ranking Completo de Lucratividade Revelado",
+        "_yoast_wpseo_twitter-description": "Descubra o ranking de lucratividade dos filmes Star Wars da Disney, revelando quais longas geraram mais e menos lucro para o estúdio."
+      }
+    },
+    {
+      "titulo_final": "Jennifer's Body: Sequência em Desenvolvimento Ativo, Confirma Diretora",
+      "conteudo_final": "<p>Um dos filmes de terror cult dos anos 2000, <b>Jennifer's Body</b>, estrelado por Megan Fox, está oficialmente em processo de desenvolvimento para uma sequência. A diretora Karyn Kusama confirmou que a roteirista Diablo Cody está trabalhando ativamente no roteiro do novo filme, prometendo uma continuação tão divertida e "louca" quanto o original.</p><h2>Diablo Cody Escreve Roteiro para Sequência de Jennifer's Body</h2><p>Em entrevista, Kusama expressou seu entusiasmo com o projeto: “Sei que ela [Diablo Cody] está trabalhando nisso agora, e estou muito animada para ouvir o que virá disso. Sei alguns dos pilares dela, então não vou entregar nada, mas soa divertido e louco como o primeiro filme. E não tenho dúvidas de que Diablo fará algo absolutamente incrível com isso”.</p><p>A diretora também comentou sobre o status de cult classic do filme, algo inesperado considerando seu desempenho modesto nas bilheterias na época de seu lançamento. A recepção positiva ao longo dos anos transformou <i>Jennifer's Body</i> em um marco do cinema feminista, com análises destacando sua commentary sobre raiva e vingança feminina, além de uma forte narrativa sobre amizade entre mulheres.</p><h2>Anos de Espera por uma Nova História</h2><p>Estrelado por Megan Fox e Amanda Seyfried, <i>Jennifer's Body</i> acompanha uma líder de torcida possuída por um demônio após uma noite de azar, que passa a caçar seus colegas de classe. Sua melhor amiga, Needy Lesnicki (Seyfried), se vê envolvida na tentativa de parar os assassinatos. Apesar de ter falhado nas bilheterias e não ter conquistado a crítica inicialmente, o filme ganhou um novo apreço com o tempo.</p><p>Anteriormente, a atriz Seyfried já havia mencionado planos para uma sequência, e a roteirista Diablo Cody expressou seu desejo de revisitar o universo. Os comentários de Kusama indicam que Cody encontrou o apoio necessário para dar seguimento à história. Atualmente, o filme original está disponível para streaming gratuito em plataformas como Tubi.</p>",
+      "meta_description": "A diretora Karyn Kusama confirmou que Diablo Cody está desenvolvendo ativamente o roteiro para uma sequência do cultuado filme de terror Jennifer's Body.",
+      "focus_keyphrase": "Jennifer's Body sequência",
+      "related_keyphrases": [
+        "Diablo Cody Jennifer's Body",
+        "filme cult Jennifer's Body",
+        "sequência Jennifer's Body"
+      ],
+      "slug": "jennifers-body-sequencia-desenvolvimento",
+      "categorias": [
+        {
+          "nome": "Jennifer's Body",
+          "grupo": "obras",
+          "evidence": "Jennifer’s Body opened in theaters"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "horror film"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jennifer's Body",
+        "Diablo Cody",
+        "Karyn Kusama",
+        "Megan Fox",
+        "Amanda Seyfried",
+        "terror cult"
+      ],
+      "image_alt_texts": {
+        "Jennifers-Body.jpg": "Megan Fox como Jennifer no filme Jennifer's Body.",
+        "hbo-max-binge-dramas.jpg": "Imagem ilustrativa de séries em streaming.",
+        "netflix-scifi.jpg": "Imagem ilustrativa de filmes de ficção científica.",
+        "Army-in-Dune-Part-Two.jpg": "Imagem do filme Duna: Parte Dois.",
+        "IT-Welcome-to-derry-rotten-tomatoes-score.jpg": "Imagem promocional de IT: Bem-Vindo a Derry.",
+        "The-Division.jpg": "Imagem do jogo The Division.",
+        "mitchells-vs-the-machines-2.jpg": "Imagem do filme A Família Mitchell e a Revolta das Máquinas.",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Imagem ilustrativa de filmes de vampiro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jennifer's Body: Sequência em Desenvolvimento Ativo, Confirma Diretora",
+        "_yoast_wpseo_metadesc": "A diretora Karyn Kusama confirmou que Diablo Cody está desenvolvendo ativamente o roteiro para uma sequência do cultuado filme de terror Jennifer's Body.",
+        "_yoast_wpseo_focuskw": "Jennifer's Body sequência",
+        "_yoast_news_keywords": "Jennifer's Body, Diablo Cody, Karyn Kusama, Megan Fox, Amanda Seyfried, terror cult",
+        "_yoast_wpseo_opengraph-title": "Jennifer's Body: Sequência em Desenvolvimento Ativo, Confirma Diretora",
+        "_yoast_wpseo_opengraph-description": "A diretora Karyn Kusama confirmou que Diablo Cody está desenvolvendo ativamente o roteiro para uma sequência do cultuado filme de terror Jennifer's Body.",
+        "_yoast_wpseo_twitter-title": "Jennifer's Body: Sequência em Desenvolvimento Ativo, Confirma Diretora",
+        "_yoast_wpseo_twitter-description": "A diretora Karyn Kusama confirmou que Diablo Cody está desenvolvendo ativamente o roteiro para uma sequência do cultuado filme de terror Jennifer's Body."
+      }
+    },
+    {
+      "titulo_final": "Star Wars: Filme Cancelado de Kylo Ren Avançou Mais Que Outras Propostas",
+      "conteudo_final": "<p>Um projeto de filme de <b>Star Wars</b> centrado em <b>Kylo Ren</b> (Adam Driver), intitulado <i>The Hunt for Ben Solo</i>, chegou a ter um roteiro completo desenvolvido, mas foi rejeitado pela Disney. O diretor Steven Soderbergh revelou que esta proposta avançou mais do que qualquer outro projeto cancelado de Star Wars, estabelecendo um marco na história de propostas descartadas da Lucasfilm.</p><h2>O Roteiro Completo de \"The Hunt for Ben Solo\"</h2><p>Steven Soderbergh compartilhou que, ao perguntar a Kathleen Kennedy se a Lucasfilm já havia submetido um roteiro de filme completo para aprovação da Disney e recebido uma rejeição, a resposta foi negativa. Isso indica que <i>The Hunt for Ben Solo</i> foi a primeira proposta a atingir essa etapa e ser rejeitada. Essa situação é surpreendente, considerando o histórico da Lucasfilm em desenvolver roteiros para projetos que acabam não se concretizando, como o filme <i>New Jedi Order</i>, que já passou por múltiplos roteiristas.</p><p>Enquanto isso, o filme de Taika Waititi, anunciado há mais de cinco anos, ainda aguarda um roteiro. A Disney, após a recepção mista de <b>Star Wars: A Ascensão Skywalker</b>, reduziu o ritmo de lançamentos cinematográficos, mas o hiato tem se mostrado mais longo do que o esperado. A rejeição de <i>The Hunt for Ben Solo</i> é intrigante, especialmente porque a Lucasfilm parecia entusiasmada com a ideia.</p><h2>Motivos para a Rejeição e Potencial Futuro</h2><p>Adam Driver explicou que a executivos da Disney questionaram \"como Ben Solo estaria vivo\" após sua morte no final da trilogia sequela. Embora os detalhes específicos do roteiro não tenham sido divulgados, a questão da sobrevivência do personagem pode ter sido o principal impedimento. Contudo, mortes fictícias são comuns em grandes franquias, e Soderbergh, como diretor experiente, provavelmente teria incluído uma explicação lógica em seu roteiro.</p><p>Ben Solo/Kylo Ren foi um dos personagens mais populares da trilogia sequela, impulsionado pela performance de Adam Driver. Um filme solo focado nele, com um diretor renomado como Soderbergh, seria uma proposta comercialmente viável. Embora o futuro de Driver na franquia pareça encerrado, uma campanha para \"salvar <i>The Hunt for Ben Solo</i>\" poderia levar a Disney a reconsiderar sua decisão, especialmente dada a popularidade do personagem.</p>",
+      "meta_description": "Descubra como o filme cancelado de Kylo Ren, \"The Hunt for Ben Solo\", com roteiro completo, avançou mais que outras propostas rejeitadas pela Disney.",
+      "focus_keyphrase": "Star Wars Kylo Ren filme cancelado",
+      "related_keyphrases": [
+        "The Hunt for Ben Solo roteiro",
+        "filme Kylo Ren Disney",
+        "projetos cancelados Star Wars"
+      ],
+      "slug": "star-wars-filme-kylo-ren-cancelado",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Disney’s Star Wars movies"
+        },
+        {
+          "nome": "Kylo Ren",
+          "grupo": "personagens",
+          "evidence": "Kylo Ren (Adam Driver)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Kylo Ren",
+        "Ben Solo",
+        "Adam Driver",
+        "Steven Soderbergh",
+        "Lucasfilm"
+      ],
+      "image_alt_texts": {
+        "hbo-max-binge-dramas.jpg": "Imagem ilustrativa de séries em streaming.",
+        "netflix-scifi.jpg": "Imagem ilustrativa de filmes de ficção científica.",
+        "Army-in-Dune-Part-Two.jpg": "Imagem do filme Duna: Parte Dois.",
+        "Ben-Solo-thinking-in-Star-Wars-The-Rise-of-Skywalker.jpg": "Ben Solo pensativo em Star Wars: A Ascensão Skywalker.",
+        "IT-Welcome-to-derry-rotten-tomatoes-score.jpg": "Imagem promocional de IT: Bem-Vindo a Derry.",
+        "The-Division.jpg": "Imagem do jogo The Division.",
+        "mitchells-vs-the-machines-2.jpg": "Imagem do filme A Família Mitchell e a Revolta das Máquinas.",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Imagem ilustrativa de filmes de vampiro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Filme Cancelado de Kylo Ren Avançou Mais Que Outras Propostas",
+        "_yoast_wpseo_metadesc": "Descubra como o filme cancelado de Kylo Ren, \"The Hunt for Ben Solo\", com roteiro completo, avançou mais que outras propostas rejeitadas pela Disney.",
+        "_yoast_wpseo_focuskw": "Star Wars Kylo Ren filme cancelado",
+        "_yoast_news_keywords": "Star Wars, Kylo Ren, Ben Solo, Adam Driver, Steven Soderbergh, Lucasfilm, The Hunt for Ben Solo",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Filme Cancelado de Kylo Ren Avançou Mais Que Outras Propostas",
+        "_yoast_wpseo_opengraph-description": "Descubra como o filme cancelado de Kylo Ren, \"The Hunt for Ben Solo\", com roteiro completo, avançou mais que outras propostas rejeitadas pela Disney.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Filme Cancelado de Kylo Ren Avançou Mais Que Outras Propostas",
+        "_yoast_wpseo_twitter-description": "Descubra como o filme cancelado de Kylo Ren, \"The Hunt for Ben Solo\", com roteiro completo, avançou mais que outras propostas rejeitadas pela Disney."
+      }
+    }
+  ]
+}

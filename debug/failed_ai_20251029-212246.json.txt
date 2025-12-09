@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Guillermo del Toro e Nosferatu: Um Contraste Trágico no Terror",
+  "conteudo_final": "<p>A nova adaptação de <b>Frankenstein</b>, dirigida por Guillermo del Toro, estabelece uma conexão temática poderosa com a reimaginação gótica de <b>Nosferatu</b>, lançada em 2024. Ambos os filmes exploram a complexidade do amor e da atração sexual, condenando a sociedade que impede tais relacionamentos.</p><h2>Frankenstein e Nosferatu: Exploração da Frustração Sexual e Amor Impedido</h2><p>Tanto <b>Frankenstein</b> quanto <b>Nosferatu</b> utilizam o terror clássico para abordar a frustração sexual e o amor não correspondido. As obras, embora ambientadas no passado, apresentam visões modernas sobre como as mulheres podem ser limitadas por expectativas sociais, tendo seus desejos genuínos negados.</p><p>Em <b>Frankenstein</b>, Elizabeth desenvolve uma forte ligação com a Criatura, um sentimento que contrasta com sua relação com Victor. Sua morte nos braços da Criatura, após ser acidentalmente ferida por Victor, ressalta a tragédia de um amor impossível e a impossibilidade de reencontro após a morte.</p><p>De forma semelhante, <b>Nosferatu</b> narra a história de Ellen, cuja obsessão por um homem com quem não é casada leva à corrupção e morte. O filme retrata o romance e o amor como formas de propriedade, onde Ellen se vê presa entre o afeto de Hutter e a possessão de Orlok. Apesar de reconhecer o perigo, Ellen sente-se atraída pelo vampiro, um desejo que ela não nega.</p><p>O sacrifício de Ellen para deter Orlok a consagra como heroína, ao mesmo tempo em que realiza seu desejo de estar com ele. Ambas as obras são romances góticos que expõem a natureza efêmera do amor e a força da atração sexual, criticando a sociedade que condena mulheres por se sentirem atraídas pela pessoa "errada", levando-as, em ambos os casos, à morte.</p><figure><img src=\"https:
+  "meta_description": "Guillermo del Toro's Frankenstein e Nosferatu (2024) exploram romances trágicos e a crítica social, conectando terror gótico com temas modernos.",
+  "focus_keyphrase": "Frankenstein e Nosferatu",
+  "related_keyphrases": [
+    "Guillermo del Toro",
+    "Robert Eggers",
+    "terror gótico"
+  ],
+  "slug": "frankenstein-nosferatu-contraste-terror",
+  "categorias": [
+    {
+      "nome": "Frankenstein",
+      "grupo": "obras",
+      "evidence": "Guillermo del Toro's Frankenstein"
+    },
+    {
+      "nome": "Nosferatu",
+      "grupo": "obras",
+      "evidence": "Nosferatu, released in 2024"
+    },
+    {
+      "nome": "Guillermo del Toro",
+      "grupo": "diretores",
+      "evidence": "Directed by Guillermo del Toro"
+    }
+  ],
+  "tags_sugeridas": [
+    "Frankenstein",
+    "Nosferatu",
+    "Guillermo del Toro",
+    "Robert Eggers",
+    "Terror",
+    "Romance Gótico",
+    "Cinema"
+  ],
+  "image_alt_texts": {
+    "frankenstein-elizabeth-2025-2.jpg": "Elizabeth em Frankenstein (2025)",
+    "nosferatu-ellen-1.jpg": "Ellen em Nosferatu (2024)",
+    "frankenstein-mia-goth-3.jpg": "Mia Goth em Frankenstein (2025)",
+    "frankenstein-netflix-2025-movie-poster.jpg": "Pôster de Frankenstein (2025)"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Frankenstein e Nosferatu: Contraste Trágico no Terror Gótico | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Guillermo del Toro's Frankenstein e Nosferatu (2024) exploram romances trágicos e a crítica social, conectando terror gótico com temas modernos.",
+    "_yoast_wpseo_focuskw": "Frankenstein e Nosferatu",
+    "_yoast_news_keywords": "Frankenstein, Nosferatu, Guillermo del Toro, Robert Eggers, Terror, Cinema, Obras",
+    "_yoast_wpseo_opengraph-title": "Frankenstein e Nosferatu: Um Contraste Trágico no Terror",
+    "_yoast_wpseo_opengraph-description": "Guillermo del Toro's Frankenstein e Nosferatu (2024) exploram romances trágicos e a crítica social, conectando terror gótico com temas modernos.",
+    "_yoast_wpseo_twitter-title": "Frankenstein e Nosferatu: Um Contraste Trágico no Terror",
+    "_yoast_wpseo_twitter-description": "Guillermo del Toro's Frankenstein e Nosferatu (2024) exploram romances trágicos e a crítica social, conectando terror gótico com temas modernos."
+  }
+}

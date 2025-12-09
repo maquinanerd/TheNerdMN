@@ -1,0 +1,46 @@
+{
+  "titulo_final": "Magic: The Gathering adia coleção Monster Hunter após críticas de fãs",
+  "conteudo_final": "<p>A Wizards of the Coast anunciou que a coleção especial <b>Magic: The Gathering</b> x <b>Monster Hunter</b>, parte do Superdrop Secret Lair, será completamente redesenhada. A decisão vem após uma forte reação negativa dos fãs, que consideraram a seleção de monstros e a integração com o universo do jogo insatisfatória.</p><p>Originalmente prevista para 1º de dezembro, a coleção apresentaria monstros icônicos da franquia da Capcom. No entanto, jogadores apontaram que as cartas reveladas não capturavam a essência de <b>Monster Hunter</b>, com muitos monstros genéricos que se assemelhavam a dragões, sem a fidelidade esperada pelos fãs do game.</p><h2>Redesenho Completo da Coleção Monster Hunter</h2><p>Em um comunicado oficial, a Wizards of the Coast admitiu que a coleção "ficou aquém das expectativas" e que ouviram o feedback dos jogadores. A empresa declarou que a seleção de cartas e a integração do mundo e mecânicas de <b>Monster Hunter</b> não atingiram o padrão esperado.</p><p>A decisão de adiar e redesenhar toda a coleção é inédita para a linha Secret Lair. A empresa afirmou que, em sua empolgação, "perderam o alvo" em elementos cruciais. A Capcom também está ciente e apoia a mudança, com uma nova revelação prevista para o próximo ano.</p><h2>Impacto do Feedback dos Fãs</h2><p>A forte reação negativa nas redes sociais, especialmente em fóruns como o Reddit, demonstrou a insatisfação da comunidade. Jogadores expressaram decepção com a falta de representatividade de monstros mais distintos e com a pouca conexão com as mecânicas centrais de <b>Monster Hunter</b>.</p><p>A Wizards of the Coast se comprometeu a usar o tempo adicional para garantir que a nova versão da coleção honre adequadamente a franquia <b>Monster Hunter</b>. Este movimento inédito reforça a importância do feedback da comunidade para a empresa.</p>",
+  "meta_description": "Magic: The Gathering adia coleção Monster Hunter após críticas de fãs. A Wizards of the Coast redesenhará as cartas para melhor integrar o universo do game.",
+  "focus_keyphrase": "Magic The Gathering Monster Hunter",
+  "related_keyphrases": [
+    "coleção Magic Monster Hunter",
+    "Secret Lair Monster Hunter",
+    "Wizards of the Coast Monster Hunter"
+  ],
+  "slug": "magic-gathering-adia-colecao-monster-hunter",
+  "categorias": [
+    {
+      "nome": "Magic: The Gathering",
+      "grupo": "franquias",
+      "evidence": "Magic: the Gathering"
+    },
+    {
+      "nome": "Monster Hunter",
+      "grupo": "franquias",
+      "evidence": "Monster Hunter"
+    }
+  ],
+  "tags_sugeridas": [
+    "Magic The Gathering",
+    "Monster Hunter",
+    "Secret Lair",
+    "Wizards of the Coast",
+    "Capcom",
+    "coleção de cartas"
+  ],
+  "image_alt_texts": {
+    "magic-the-gathering-cover.jpg": "Capa do jogo Magic: The Gathering, destacando o universo de fantasia.",
+    "untitled-design-2025-11-19t150441-039.jpg": "Ilustração de cartas de Magic: The Gathering com temática de fantasia."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Magic: The Gathering adia coleção Monster Hunter após críticas de fãs",
+    "_yoast_wpseo_metadesc": "Magic: The Gathering adia coleção Monster Hunter após críticas de fãs. A Wizards of the Coast redesenhará as cartas para melhor integrar o universo do game.",
+    "_yoast_wpseo_focuskw": "Magic The Gathering Monster Hunter",
+    "_yoast_news_keywords": "Magic The Gathering, Monster Hunter, Secret Lair, Wizards of the Coast, Capcom, coleção de cartas, TCG",
+    "_yoast_wpseo_opengraph-title": "Magic: The Gathering adia coleção Monster Hunter após críticas de fãs",
+    "_yoast_wpseo_opengraph-description": "Magic: The Gathering adia coleção Monster Hunter após críticas de fãs. A Wizards of the Coast redesenhará as cartas para melhor integrar o universo do game.",
+    "_yoast_wpseo_twitter-title": "Magic: The Gathering adia coleção Monster Hunter após críticas de fãs",
+    "_yoast_wpseo_twitter-description": "Magic: The Gathering adia coleção Monster Hunter após críticas de fãs. A Wizards of the Coast redesenhará as cartas para melhor integrar o universo do game."
+  }
+}

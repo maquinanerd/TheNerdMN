@@ -1,0 +1,150 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Dark Winds: Série de George R.R. Martin atinge 100% no Rotten Tomatoes",
+      "conteudo_final": "<p>A série de mistério e suspense da AMC, <em><strong>Dark Winds</strong></em>, tem conquistado aclamação crítica, com todas as suas temporadas mantendo uma pontuação perfeita de 100% no Rotten Tomatoes. Antes da estreia da nova temporada no próximo ano, as temporadas passadas estão novamente cativando o público nos EUA e na Nova Zelândia, segundo o FlixPatrol. Disponível no AMC+ desde sua estreia em 2022, a série também encontrou um novo lar na Netflix, onde atualmente é a oitava série mais assistida.</p><h2>Elenco e Produção de Destaque</h2><p>O sucesso de <em>Dark Winds</em> é amplamente atribuído à sua talentosa equipe de atores e produtores executivos. Nomes como <strong>George R. R. Martin</strong>, <strong>Robert Redford</strong>, Tina Elmo, Vince Gerardis, Vince Calandra, Chris Eyre, <strong>Graham Roland</strong> e <strong>Zahn McClarnon</strong> figuram como produtores executivos. O elenco principal conta com McClarnon, Kiowa Gordon, Jessica Matten, Deanna Allison, Elva Guerra e Nicholas Logan. A próxima quarta temporada contará com a participação de <strong>Titus Welliver</strong>, conhecido por <em>Bosch</em>, interpretando um implacável chefe do crime.</p><h2>Trama da Quarta Temporada</h2><p>Embora detalhes sobre a quarta temporada de <em>Dark Winds</em> ainda não estejam disponíveis, o showrunner <strong>John Wirth</strong> revelou que o mistério levará os personagens principais a Los Angeles em busca de uma garota desaparecida. Wirth explicou que a temporada envolverá a investigação do desaparecimento de uma adolescente Navajo que fugiu de um internato, uma tarefa que se torna cada vez mais perigosa.</p><h2>Presença na Netflix e Próximos Passos</h2><p>A lista de séries mais populares da Netflix tem sido dominada por produções originais, mas <em>Dark Winds</em> conseguiu se destacar entre elas. A série de suspense, que também inclui outros títulos como <em>Nobody Wants This</em> e <em>The Diplomat</em>, demonstra a força do conteúdo licenciado em plataformas de streaming. Os fãs podem maratonar todas as temporadas na Netflix antes da estreia da quarta temporada em 15 de fevereiro de 2026.</p>",
+      "meta_description": "Dark Winds, série aclamada com 100% no Rotten Tomatoes e produção de George R.R. Martin, ganha destaque na Netflix antes da 4ª temporada.",
+      "focus_keyphrase": "Dark Winds série",
+      "related_keyphrases": [
+        "George R.R. Martin",
+        "AMC+",
+        "Netflix"
+      ],
+      "slug": "dark-winds-serie-rottentomatoes",
+      "categorias": [
+        {
+          "nome": "Dark Winds",
+          "grupo": "obras",
+          "evidence": "AMC's mystery-thriller <em><strong>Dark Winds</strong></em>"
+        },
+        {
+          "nome": "George R. R. Martin",
+          "grupo": "pessoas",
+          "evidence": "<strong>George R. R. Martin</strong>"
+        },
+        {
+          "nome": "AMC",
+          "grupo": "editorias",
+          "evidence": "<a href=\"https://collider.com/tag/amc/\" target=\"_self\">AMC</a>'s"
+        }
+      ],
+      "tags_sugeridas": [
+        "Dark Winds",
+        "George R.R. Martin",
+        "Robert Redford",
+        "Zahn McClarnon",
+        "AMC",
+        "Netflix",
+        "Série de Suspense"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Dark Winds: Série de George R.R. Martin atinge 100% no Rotten Tomatoes",
+        "_yoast_wpseo_metadesc": "Dark Winds, série aclamada com 100% no Rotten Tomatoes e produção de George R.R. Martin, ganha destaque na Netflix antes da 4ª temporada.",
+        "_yoast_wpseo_focuskw": "Dark Winds série",
+        "_yoast_news_keywords": "Dark Winds, George R.R. Martin, Robert Redford, Zahn McClarnon, AMC, Netflix, Série de Suspense",
+        "_yoast_wpseo_opengraph-title": "Dark Winds: Série de George R.R. Martin atinge 100% no Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-description": "Dark Winds, série aclamada com 100% no Rotten Tomatoes e produção de George R.R. Martin, ganha destaque na Netflix antes da 4ª temporada.",
+        "_yoast_wpseo_twitter-title": "Dark Winds: Série de George R.R. Martin atinge 100% no Rotten Tomatoes",
+        "_yoast_wpseo_twitter-description": "Dark Winds, série aclamada com 100% no Rotten Tomatoes e produção de George R.R. Martin, ganha destaque na Netflix antes da 4ª temporada."
+      }
+    },
+    {
+      "titulo_final": "Wicked: For Good é projetado para uma das maiores aberturas de bilheteria",
+      "conteudo_final": "<p>O mercado cinematográfico de outubro de 2025 não foi um dos mais fortes, com exceção de eventos limitados. No entanto, a esperança se volta para novembro e dezembro para encerrar o ano em alta. Um dos lançamentos mais aguardados é <em><strong>Wicked: For Good</strong></em>, que promete impulsionar a bilheteria. Projeções iniciais indicam que o filme pode arrecadar entre US$ 112 e US$ 115 milhões em seu fim de semana de estreia nos Estados Unidos, um valor que o colocaria entre as cinco maiores aberturas do ano.</p><h2>Projeções e Comparativos de Bilheteria</h2><p>A expectativa para <em>Wicked: For Good</em> é de uma performance similar à do primeiro filme, que estreou com US$ 112,5 milhões. Caso as projeções se confirmem, o musical de fantasia se juntará a títulos como <em>A Minecraft Movie</em> (US$ 162,7 milhões), <em>Lilo & Stitch</em> (US$ 146 milhões), <em>Superman</em> (US$ 125 milhões) e <em>The Fantastic Four: First Steps</em> (US$ 117,6 milhões) no ranking das maiores aberturas de 2025.</p><h2>Potencial de Superar Expectativas</h2><p>A previsão da bilheteria de filmes tem se mostrado desafiadora no cenário pós-pandemia, com muitos títulos superando as estimativas iniciais. <em>Wicked: For Good</em> tem potencial para seguir essa tendência, especialmente por ser a conclusão de uma história amada e um grande evento cinematográfico para a temporada de festas. O boca a boca positivo sobre as atuações de Cynthia Erivo e Ariana Grande, e a direção de Jon M. Chu, já indicam um forte desempenho.</p><h2>Concorrência e Calendário de Lançamentos</h2><p>Diferente do primeiro filme, que teve a concorrência de <em>Gladiator II</em>, <em>Wicked: For Good</em> não enfrenta um rival de grande porte em seu lançamento. Títulos como <em>Rental Family</em> e <em>Sisu: Road to Revenge</em> são considerados contraprogramação. Embora <em>Zootopia 2</em> também estreie em novembro, a coexistência de <em>Wicked</em> com <em>Moana 2</em> no ano anterior sugere que ambos os filmes podem ter sucesso. O mês de novembro também trará outros lançamentos aguardados como <em>Predator: Badlands</em> e <em>The Running Man</em>, prometendo um cenário mais positivo para os cinemas.</p>",
+      "meta_description": "Wicked: For Good tem projeção de abertura de bilheteria entre US$ 112-115 milhões, visando um dos maiores desempenhos do ano nos cinemas.",
+      "focus_keyphrase": "Wicked: For Good bilheteria",
+      "related_keyphrases": [
+        "Wicked",
+        "Bilheteria de filmes",
+        "Musical de fantasia"
+      ],
+      "slug": "wicked-for-good-bilheteria-projeccao",
+      "categorias": [
+        {
+          "nome": "Wicked: For Good",
+          "grupo": "obras",
+          "evidence": "<em><a href=\"https://comicbook.com/tag/wicked-for-good/\">Wicked: For Good</a></em>"
+        },
+        {
+          "nome": "Movies",
+          "grupo": "editorias",
+          "evidence": "<a href=\"https://comicbook.com/category/movies/\">\n\t\t\tMovies\t\t</a>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Wicked: For Good",
+        "Bilheteria",
+        "Projeções",
+        "Musical",
+        "Cinema",
+        "Estreia"
+      ],
+      "image_alt_texts": {
+        "Glinda-and-Elphaba-in-Wicked-For-Good.jpg": "Glinda e Elphaba em cena do filme Wicked: For Good."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wicked: For Good é projetado para uma das maiores aberturas de bilheteria",
+        "_yoast_wpseo_metadesc": "Wicked: For Good tem projeção de abertura de bilheteria entre US$ 112-115 milhões, visando um dos maiores desempenhos do ano nos cinemas.",
+        "_yoast_wpseo_focuskw": "Wicked: For Good bilheteria",
+        "_yoast_news_keywords": "Wicked: For Good, Bilheteria, Projeções, Musical, Cinema, Estreia",
+        "_yoast_wpseo_opengraph-title": "Wicked: For Good é projetado para uma das maiores aberturas de bilheteria",
+        "_yoast_wpseo_opengraph-description": "Wicked: For Good tem projeção de abertura de bilheteria entre US$ 112-115 milhões, visando um dos maiores desempenhos do ano nos cinemas.",
+        "_yoast_wpseo_twitter-title": "Wicked: For Good é projetado para uma das maiores aberturas de bilheteria",
+        "_yoast_wpseo_twitter-description": "Wicked: For Good tem projeção de abertura de bilheteria entre US$ 112-115 milhões, visando um dos maiores desempenhos do ano nos cinemas."
+      }
+    },
+    {
+      "titulo_final": "Scream 7: Trailer sugere retorno de Stu Macher com voz sinistra",
+      "conteudo_final": "<p>O trailer de <em><strong>Scream 7</strong></em> está gerando burburinho entre os fãs, com o retorno de Neve Campbell como Sidney Prescott. Na trama, Sidney agora é mãe e se torna um novo alvo para Ghostface, que mira em Tatum, sua filha. A grande questão que paira é: quem está por trás da máscara desta vez? Suspeitos como Matthew Lillard (Stu Macher) e Scott Foley (Roman Bridger), vilões de filmes anteriores, são especulados, mas não aparecem no trailer.</p><h2>O Retorno Sutil de Stu Macher</h2><p>No final do trailer de <em>Scream 7</em>, uma voz sinistra diz: \"Isso vai ser divertido\". Essa fala pertence a Matthew Lillard, reprisando seu papel como Stu Macher, o icônico assassino de 1996. A participação vocal de Stu adiciona uma camada de mistério e ameaça à nova sequência.</p><figure class="video-container"><iframe src="https://comicbook.com/wp-content/uploads/sites/4/2025/10/Scream-7-Trailer-Matthew-Lillard-Stu-Macher-Voice.jpg?w=1024" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>Paramount</figcaption></figure><h2>Meta-Comentário e Evolução da Franquia</h2><p>A franquia <em>Scream</em> sempre se destacou por seu meta-comentário sobre os clichês do gênero slasher. <em>Scream 7</em>, posicionado entre a era clássica e a nova fase da série, continua essa tradição. Os filmes recentes (<em>Scream</em> de 2022 e <em>Scream VI</em> de 2023) exploraram a ideia de Ghostface como um manto cobiçado por cultos e indivíduos conectados a assassinos anteriores. A possibilidade de um desfecho épico para a saga de Sidney Prescott, reunindo elementos do passado, incluindo Billy Loomis, é uma forte aposta.</p><h2>Lançamento e Expectativas</h2><p><em>Scream 7</em> tem estreia prevista para 27 de fevereiro de 2026. A expectativa é que o filme feche o ciclo de Sidney Prescott, possivelmente com a participação de outros veteranos da franquia, consolidando seu legado no universo do terror.</p>",
+      "meta_description": "Trailer de Scream 7 traz de volta a voz de Stu Macher, interpretado por Matthew Lillard, aumentando o mistério sobre a identidade do novo Ghostface.",
+      "focus_keyphrase": "Scream 7 trailer",
+      "related_keyphrases": [
+        "Stu Macher",
+        "Matthew Lillard",
+        "Ghostface",
+        "Neve Campbell"
+      ],
+      "slug": "scream-7-trailer-stu-macher",
+      "categorias": [
+        {
+          "nome": "Scream 7",
+          "grupo": "obras",
+          "evidence": "<em><a href=\"https://comicbook.com/tag/scream-7/\">Scream 7</a></em>"
+        },
+        {
+          "nome": "Movies",
+          "grupo": "editorias",
+          "evidence": "<a href=\"https://comicbook.com/category/movies/\">\n\t\t\tMovies\t\t</a>"
+        },
+        {
+          "nome": "Matthew Lillard",
+          "grupo": "pessoas",
+          "evidence": "Matthew Lillard"
+        }
+      ],
+      "tags_sugeridas": [
+        "Scream 7",
+        "Trailer",
+        "Stu Macher",
+        "Matthew Lillard",
+        "Ghostface",
+        "Neve Campbell",
+        "Terror"
+      ],
+      "image_alt_texts": {
+        "Scream-7-Trailer-Matthew-Lillard-Stu-Macher-Voice.jpg": "Matthew Lillard como Stu Macher em Scream 7, com sua voz sendo ouvida no trailer."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Scream 7: Trailer sugere retorno de Stu Macher com voz sinistra",
+        "_yoast_wpseo_metadesc": "Trailer de Scream 7 traz de volta a voz de Stu Macher, interpretado por Matthew Lillard, aumentando o mistério sobre a identidade do novo Ghostface.",
+        "_yoast_wpseo_focuskw": "Scream 7 trailer",
+        "_yoast_news_keywords": "Scream 7, Trailer, Stu Macher, Matthew Lillard, Ghostface, Neve Campbell, Terror",
+        "_yoast_wpseo_opengraph-title": "Scream 7: Trailer sugere retorno de Stu Macher com voz sinistra",
+        "_yoast_wpseo_opengraph-description": "Trailer de Scream 7 traz de volta a voz de Stu Macher, interpretado por Matthew Lillard, aumentando o mistério sobre a identidade do novo Ghostface.",
+        "_yoast_wpseo_twitter-title": "Scream 7: Trailer sugere retorno de Stu Macher com voz sinistra",
+        "_yoast_wpseo_twitter-description": "Trailer de Scream 7 traz de volta a voz de Stu Macher, interpretado por Matthew Lillard, aumentando o mistério sobre a identidade do novo Ghostface."
+      }
+    }
+  ]
+}

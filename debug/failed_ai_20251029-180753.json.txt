@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Hulk: Marvel Zumbis pode inspirar versão selvagem em novo filme do Aranha",
+  "conteudo_final": "<p>A aparição do <b>Hulk</b> no universo cinematográfico da Marvel (MCU) no último lançamento do ano promete ser impactante. O retorno do personagem em 2026, com Mark Ruffalo no elenco de <i>Spider-Man: Brand New Day</i>, levanta expectativas. Após o recente uso do Hulk em uma história multiversal, a esperança é que a versão <b>Savage Hulk</b>, teorizada para o novo filme do Aranha, se concretize no universo principal.</p><h2><i>Marvel Zombies</i>: O Hulk em seu ápice de poder</h2><p>A série animada <i>Marvel Zombies</i>, que não poupou sangue e violência, explorou a força do Hulk de maneira impressionante. No decorrer da primeira temporada, diversos heróis do MCU foram vítimas de um surto zumbi. Diante de ameaças como um Thanos zumbificado, a liberação da energia das Joias do Infinito poderia ter devastado a Terra.</p><p>Foi nesse cenário que o <b>Hulk</b> realizou um ato de sacrifício, servindo como âncora para a Tempestade do Infinito. O capítulo final de <i>Marvel Zombies</i> evidenciou a resistência do personagem e como a energia infinita o tornou mais poderoso do que nunca. Ele enfrentou sozinho o exército zumbi da Feiticeira Escarlate, protegendo sua posição e derrotando milhares antes de sucumbir.</p><p>A série demonstrou o quão empolgante pode ser um Hulk lutando com força total, revigorando o personagem para futuras aparições no MCU.</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "A participação do Hulk em Marvel Zombies revela o potencial de uma versão selvagem. Entenda por que Spider-Man: Brand New Day precisa do Savage Hulk.",
+  "focus_keyphrase": "Hulk",
+  "related_keyphrases": [
+    "Savage Hulk",
+    "Spider-Man: Brand New Day",
+    "Marvel Zombies"
+  ],
+  "slug": "hulk-marvel-zumbis-spider-man-brand-new-day",
+  "categorias": [
+    {
+      "nome": "Marvel Zombies",
+      "grupo": "obras",
+      "evidence": "Marvel Zombies"
+    },
+    {
+      "nome": "Spider-Man: Brand New Day",
+      "grupo": "obras",
+      "evidence": "Spider-Man: Brand New Day"
+    },
+    {
+      "nome": "Hulk",
+      "grupo": "personagens",
+      "evidence": "Hulk"
+    }
+  ],
+  "tags_sugeridas": [
+    "hulk",
+    "marvel zombies",
+    "spider-man: brand new day",
+    "mcu",
+    "mark ruffalo",
+    "savage hulk",
+    "filmes marvel"
+  ],
+  "image_alt_texts": {
+    "the-hulk-being-savage-in-avengers-age-of-ultron.jpg": "O Hulk de Mark Ruffalo em uma cena de fúria em Vingadores: Era de Ultron.",
+    "spider-man-brand-new-day-logo-poster.jpg": "O futuro filme do Aranha, Spider-Man: Brand New Day, pode trazer de volta o Savage Hulk."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Hulk: Marvel Zumbis inspira versão selvagem para filme do Aranha",
+    "_yoast_wpseo_metadesc": "A participação do Hulk em Marvel Zombies revela o potencial de uma versão selvagem. Entenda por que Spider-Man: Brand New Day precisa do Savage Hulk.",
+    "_yoast_wpseo_focuskw": "Hulk",
+    "_yoast_news_keywords": "Hulk, Marvel Zombies, Spider-Man: Brand New Day, MCU, Mark Ruffalo, Savage Hulk, Filmes Marvel, Bruce Banner",
+    "_yoast_wpseo_opengraph-title": "Hulk: Marvel Zumbis inspira versão selvagem para filme do Aranha",
+    "_yoast_wpseo_opengraph-description": "A participação do Hulk em Marvel Zombies revela o potencial de uma versão selvagem. Entenda por que Spider-Man: Brand New Day precisa do Savage Hulk.",
+    "_yoast_wpseo_twitter-title": "Hulk: Marvel Zumbis inspira versão selvagem para filme do Aranha",
+    "_yoast_wpseo_twitter-description": "A participação do Hulk em Marvel Zombies revela o potencial de uma versão selvagem. Entenda por que Spider-Man: Brand New Day precisa do Savage Hulk."
+  }
+}

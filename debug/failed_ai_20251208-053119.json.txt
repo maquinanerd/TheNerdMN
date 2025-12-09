@@ -1,0 +1,136 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Prime Video adiciona franquia de animação da DreamWorks; um filme está ausente",
+      "conteudo_final": "<p>O Prime Video expandiu seu catálogo com uma aclamada franquia de animação da DreamWorks. No entanto, um dos filmes da série não está disponível na plataforma.</p><h2>Franquia de Animação da DreamWorks Chega ao Prime Video</h2><p>Uma popular franquia de animação da DreamWorks foi adicionada ao catálogo do Prime Video. A adição traz consigo uma série de filmes que conquistaram o público e a crítica ao longo dos anos, conhecidos por sua qualidade visual e narrativas envolventes.</p><h2>Filme Ausente na Coleção</h2><p>Apesar da chegada da maior parte da franquia, um título específico está faltando. A ausência deste filme pode ser frustrante para os fãs que esperavam ter acesso a toda a coleção na plataforma de streaming. Detalhes sobre o motivo da exclusão não foram divulgados.</p><h2>Impacto no Catálogo do Prime Video</h2><p>A inclusão desta franquia reforça a estratégia do Prime Video de diversificar seu conteúdo com animações de alta qualidade, buscando atrair e reter assinantes. A expectativa é que a plataforma continue a expandir seu acervo com títulos relevantes para diferentes públicos.</p>",
+      "meta_description": "O Prime Video adicionou uma franquia de animação da DreamWorks, mas um filme está ausente. Descubra qual título não está disponível na plataforma.",
+      "focus_keyphrase": "franquia de animação da DreamWorks no Prime Video",
+      "related_keyphrases": [
+        "Prime Video catálogo DreamWorks",
+        "filmes de animação Prime Video",
+        "DreamWorks ausente no Prime Video"
+      ],
+      "slug": "prime-video-adiciona-franquia-dreamworks",
+      "categorias": [
+        {
+          "nome": "Prime Video",
+          "grupo": "plataformas",
+          "evidence": "O Prime Video expandiu seu catálogo"
+        },
+        {
+          "nome": "DreamWorks",
+          "grupo": "franquias",
+          "evidence": "uma aclamada franquia de animação da DreamWorks"
+        }
+      ],
+      "tags_sugeridas": [
+        "Prime Video",
+        "DreamWorks",
+        "animação",
+        "streaming",
+        "filmes"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Prime Video adiciona franquia de animação da DreamWorks; um filme está ausente",
+        "_yoast_wpseo_metadesc": "O Prime Video adicionou uma franquia de animação da DreamWorks, mas um filme está ausente. Descubra qual título não está disponível na plataforma.",
+        "_yoast_wpseo_focuskw": "franquia de animação da DreamWorks no Prime Video",
+        "_yoast_news_keywords": "Prime Video, DreamWorks, animação, streaming, filmes, catálogo",
+        "_yoast_wpseo_opengraph-title": "Prime Video adiciona franquia de animação da DreamWorks; um filme está ausente",
+        "_yoast_wpseo_opengraph-description": "O Prime Video adicionou uma franquia de animação da DreamWorks, mas um filme está ausente. Descubra qual título não está disponível na plataforma.",
+        "_yoast_wpseo_twitter-title": "Prime Video adiciona franquia de animação da DreamWorks; um filme está ausente",
+        "_yoast_wpseo_twitter-description": "O Prime Video adicionou uma franquia de animação da DreamWorks, mas um filme está ausente. Descubra qual título não está disponível na plataforma."
+      }
+    },
+    {
+      "titulo_final": "Arquivo X: Episódio de Natal de 1996 surpreende fãs com reviravoltas",
+      "conteudo_final": "<p>Há 28 anos, em 7 de dezembro de 1996, a série <b>Arquivo X</b> (The X-Files) apresentou seu primeiro episódio temático de Natal, intitulado \"3" de dezembro. O capítulo trouxe surpresas significativas para a personagem Dana Scully.</p><h2>O Primeiro Especial de Natal de Arquivo X</h2><p>O episódio, exibido originalmente em 1996, marcou a primeira vez que a série explorou o clima natalino. Diferente de outros programas, <b>Arquivo X</b> abordou o tema com seu característico tom sombrio e misterioso, integrando elementos de suspense à atmosfera festiva.</p><h2>Reviravoltas com Dana Scully</h2><p>O destaque do episódio foram as duas grandes surpresas envolvendo a Agente Dana Scully. Sem revelar os detalhes específicos para não estragar a experiência de quem ainda não assistiu, o capítulo apresentou desenvolvimentos importantes para a personagem, que impactaram sua trajetória na série.</p><h2>Legado do Episódio</h2><p>Mesmo após tantos anos, o episódio de Natal de <b>Arquivo X</b> de 1996 é lembrado por sua originalidade e pela forma como conseguiu mesclar o suspense sobrenatural com a temática natalina. As surpresas reservadas para Scully solidificaram o capítulo como um momento marcante na história da série.</p>",
+      "meta_description": "Relembre o primeiro episódio de Natal de Arquivo X, exibido em 1996, e as duas grandes surpresas que ele reservou para Dana Scully.",
+      "focus_keyphrase": "Episódio de Natal Arquivo X",
+      "related_keyphrases": [
+        "Arquivo X Dana Scully",
+        "The X-Files episódio natalino",
+        "série Arquivo X surpresas"
+      ],
+      "slug": "episodio-natal-arquivo-x-dana-scully",
+      "categorias": [
+        {
+          "nome": "Arquivo X",
+          "grupo": "obras",
+          "evidence": "a série Arquivo X (The X-Files) apresentou seu primeiro episódio"
+        },
+        {
+          "nome": "Dana Scully",
+          "grupo": "personagens",
+          "evidence": "envolvendo a Agente Dana Scully"
+        }
+      ],
+      "tags_sugeridas": [
+        "Arquivo X",
+        "The X-Files",
+        "Dana Scully",
+        "episódio de Natal",
+        "séries de TV"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Arquivo X: Episódio de Natal de 1996 surpreende fãs com reviravoltas",
+        "_yoast_wpseo_metadesc": "Relembre o primeiro episódio de Natal de Arquivo X, exibido em 1996, e as duas grandes surpresas que ele reservou para Dana Scully.",
+        "_yoast_wpseo_focuskw": "Episódio de Natal Arquivo X",
+        "_yoast_news_keywords": "Arquivo X, The X-Files, Dana Scully, episódio de Natal, séries de TV, Fox Mulder",
+        "_yoast_wpseo_opengraph-title": "Arquivo X: Episódio de Natal de 1996 surpreende fãs com reviravoltas",
+        "_yoast_wpseo_opengraph-description": "Relembre o primeiro episódio de Natal de Arquivo X, exibido em 1996, e as duas grandes surpresas que ele reservou para Dana Scully.",
+        "_yoast_wpseo_twitter-title": "Arquivo X: Episódio de Natal de 1996 surpreende fãs com reviravoltas",
+        "_yoast_wpseo_twitter-description": "Relembre o primeiro episódio de Natal de Arquivo X, exibido em 1996, e as duas grandes surpresas que ele reservou para Dana Scully."
+      }
+    },
+    {
+      "titulo_final": "Xbox fica em quarto lugar nas vendas de hardware nos EUA na Black Friday",
+      "conteudo_final": "<p>A semana da Black Friday nos Estados Unidos revelou um cenário de vendas de hardware de games onde o <b>Xbox Series X|S</b> não conseguiu alcançar o terceiro lugar. O PlayStation 5 liderou as vendas, seguido pelo Nintendo Switch 2 e pelo NEX Playground.</p><h2>PlayStation 5 Domina Vendas de Hardware</h2><p>O PlayStation 5 da Sony se destacou como o console mais vendido durante a semana da Black Friday nos EUA, respondendo por 47% das unidades comercializadas. A estratégia agressiva de descontos da Sony contribuiu significativamente para este resultado expressivo.</p><h2>Nintendo Switch 2 e NEX Playground em Destaque</h2><p>O Nintendo Switch 2 garantiu a segunda posição, com 24% das vendas. Surpreendentemente, o NEX Playground, um dispositivo de fitness com apelo para jogos, conquistou o terceiro lugar, representando 14% do mercado. Este aparelho, que combina exercícios com diversão, demonstrou um desempenho notável.</p><h2>Xbox Series X|S em Quarto Lugar</h2><p>O Xbox Series X|S, por sua vez, ficou em quarto lugar, com uma fatia de mercado estimada em menos de 10%. Este resultado indica uma dificuldade contínua para a linha de consoles da Microsoft em competir no mercado americano, especialmente em períodos de alta demanda como a Black Friday. A performance do NEX Playground superando o Xbox ressalta os desafios enfrentados pela marca.</p>",
+      "meta_description": "O Xbox Series X|S ficou em quarto lugar nas vendas de hardware nos EUA durante a Black Friday, atrás de PS5, Switch 2 e NEX Playground.",
+      "focus_keyphrase": "Xbox vendas Black Friday EUA",
+      "related_keyphrases": [
+        "vendas de consoles Black Friday",
+        "Xbox Series X|S desempenho",
+        "PlayStation 5 lidera vendas"
+      ],
+      "slug": "xbox-quarto-lugar-vendas-black-friday-eua",
+      "categorias": [
+        {
+          "nome": "Xbox",
+          "grupo": "franquias",
+          "evidence": "o Xbox Series X|S não conseguiu alcançar o terceiro lugar"
+        },
+        {
+          "nome": "PlayStation 5",
+          "grupo": "franquias",
+          "evidence": "O PlayStation 5 da Sony se destacou"
+        },
+        {
+          "nome": "Nintendo Switch 2",
+          "grupo": "franquias",
+          "evidence": "O Nintendo Switch 2 garantiu a segunda posição"
+        }
+      ],
+      "tags_sugeridas": [
+        "Xbox",
+        "PlayStation 5",
+        "Nintendo Switch 2",
+        "Black Friday",
+        "vendas de consoles",
+        "hardware gamer"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Xbox fica em quarto lugar nas vendas de hardware nos EUA na Black Friday",
+        "_yoast_wpseo_metadesc": "O Xbox Series X|S ficou em quarto lugar nas vendas de hardware nos EUA durante a Black Friday, atrás de PS5, Switch 2 e NEX Playground.",
+        "_yoast_wpseo_focuskw": "Xbox vendas Black Friday EUA",
+        "_yoast_news_keywords": "Xbox, PlayStation 5, Nintendo Switch 2, Black Friday, vendas de consoles, hardware gamer, NEX Playground",
+        "_yoast_wpseo_opengraph-title": "Xbox fica em quarto lugar nas vendas de hardware nos EUA na Black Friday",
+        "_yoast_wpseo_opengraph-description": "O Xbox Series X|S ficou em quarto lugar nas vendas de hardware nos EUA durante a Black Friday, atrás de PS5, Switch 2 e NEX Playground.",
+        "_yoast_wpseo_twitter-title": "Xbox fica em quarto lugar nas vendas de hardware nos EUA na Black Friday",
+        "_yoast_wpseo_twitter-description": "O Xbox Series X|S ficou em quarto lugar nas vendas de hardware nos EUA durante a Black Friday, atrás de PS5, Switch 2 e NEX Playground."
+      }
+    }
+  ]
+}

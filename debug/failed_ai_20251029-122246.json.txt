@@ -1,0 +1,45 @@
+{
+  "titulo_final": "Billy Bob Thornton elogia participação de bilionário em 'Landman' antes da 2ª temporada",
+  "conteudo_final": "<p>O dono do Dallas Cowboys, Jerry Jones, causou repercussão no início do ano por algo além do futebol: sua atuação. O magnata do esporte surpreendeu os espectadores com uma participação emocionante na série de sucesso da Paramount, <b>Landman</b>. Agora, a estrela <b>Billy Bob Thornton</b> elogia a performance do bilionário.</p><h2>Participação de Jerry Jones em Landman</h2><p>Em uma aparição recente no programa Manningcast da ESPN, Thornton comentou sobre o breve, mas memorável papel de Jones. O empresário apareceu como ele mesmo no Episódio 9 da primeira temporada da série. Jones visitou o personagem de Jon Hamm, Monty Miller, no hospital após um ataque cardíaco. Na cena, Jones fez um discurso sincero sobre sua família, seu legado e o que realmente importa além dos negócios ou do futebol.</p><p>“Agora, não estou dizendo que fiz algo certo, mas decidi há muito tempo que trabalharia com meus filhos”, disse Jones. “Eles estão envolvidos em tudo. Estão envolvidos em meu arrendamento, petróleo e gás, imóveis. E então, quando consegui os Cowboys, fiz isso para que pudéssemos trabalhar juntos. Achei que estava fazendo isso por eles, mas quem mais se beneficiou fui eu.”</p><h2>Por que Jerry Jones se saiu tão bem em 'Landman'?</h2><p>Thornton explicou que a atuação de Jones funcionou precisamente porque ele não estava tentando atuar, mas sim falando do coração. Foi um momento surpreendentemente vulnerável para Jones na câmera, exibindo um lado mais suave de um homem frequentemente considerado um magnata implacável dos negócios. A cena deixou os espectadores emocionados.</p><p>“Ele estava contando sua própria história”, disse Thornton. “E quando alguém está apenas sendo ele mesmo, muitas vezes é mais poderoso do que qualquer coisa que um roteiro possa fazer.”</p><p><b>Landman</b>, criada por Taylor Sheridan, foi renovada para uma segunda temporada com estreia prevista para 16 de novembro na Paramount. Fique ligado para mais atualizações sobre a série.</p><figure><img src=\"https:
+  "meta_description": "Billy Bob Thornton elogia a participação de Jerry Jones em 'Landman', destacando a autenticidade do bilionário em sua atuação antes da 2ª temporada.",
+  "focus_keyphrase": "Jerry Jones Landman",
+  "related_keyphrases": [
+    "Billy Bob Thornton Landman",
+    "Taylor Sheridan Landman",
+    "Participação especial Landman"
+  ],
+  "slug": "jerry-jones-landman-participacao",
+  "categorias": [
+    {
+      "nome": "Landman",
+      "grupo": "obras",
+      "evidence": "Paramount series Landman"
+    },
+    {
+      "nome": "Taylor Sheridan",
+      "grupo": "franquias",
+      "evidence": "Landman, created by Taylor Sheridan"
+    }
+  ],
+  "tags_sugeridas": [
+    "Landman",
+    "Jerry Jones",
+    "Billy Bob Thornton",
+    "Taylor Sheridan",
+    "Paramount+",
+    "Dallas Cowboys"
+  ],
+  "image_alt_texts": {
+    "landman-paramount-tv-show-updated-poster.jpg": "Poster da série Landman com Billy Bob Thornton e Taylor Sheridan"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Landman: Billy Bob Thornton elogia participação de Jerry Jones antes da 2ª temporada",
+    "_yoast_wpseo_metadesc": "Billy Bob Thornton elogia a participação de Jerry Jones em 'Landman', destacando a autenticidade do bilionário em sua atuação antes da 2ª temporada.",
+    "_yoast_wpseo_focuskw": "Jerry Jones Landman",
+    "_yoast_news_keywords": "Landman, Jerry Jones, Billy Bob Thornton, Taylor Sheridan, Paramount+, Dallas Cowboys",
+    "_yoast_wpseo_opengraph-title": "Landman: Billy Bob Thornton elogia participação de Jerry Jones antes da 2ª temporada",
+    "_yoast_wpseo_opengraph-description": "Billy Bob Thornton elogia a participação de Jerry Jones em 'Landman', destacando a autenticidade do bilionário em sua atuação antes da 2ª temporada.",
+    "_yoast_wpseo_twitter-title": "Landman: Billy Bob Thornton elogia participação de Jerry Jones antes da 2ª temporada",
+    "_yoast_wpseo_twitter-description": "Billy Bob Thornton elogia a participação de Jerry Jones em 'Landman', destacando a autenticidade do bilionário em sua atuação antes da 2ª temporada."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Bill Nighy Retorna ao Mundo Mágico de Harry Potter em Nova Adaptação",
+      "conteudo_final": "<p>O universo de <b>Harry Potter</b> se expande com múltiplas adaptações, incluindo um remake da série pela HBO, que já tem fotos e vídeos de sua produção circulando. Paralelamente, uma nova versão em áudio, <b>Harry Potter: The Full-Cast Audio Editions</b>, traz de volta rostos familiares em papéis inéditos, adicionando uma camada de nostalgia e novidade para os fãs.</p><h2>Bill Nighy em Novo Papel no Mundo Mágico</h2><p>O ator Bill Nighy, conhecido por seu papel como Rufus Scrimgeour nos filmes de Harry Potter, foi confirmado para emprestar sua voz a uma nova personagem na adaptação em áudio. Desta vez, Nighy interpretará o Professor Slughorn, uma figura central nos livros posteriores da saga. Slughorn é lembrado por ter revelado a Tom Riddle, o futuro Voldemort, a existência e o funcionamento das horcruxes.</p><p>“Fiquei satisfeito por ter sido convidado para interpretar o professor, depois de já ter feito um Ministro da Magia”, comentou Nighy. “É possível que eu seja o único ator a reivindicar essa conquista? Significa que minha carreira continua a ter sentido para as próximas gerações. Sou sempre grato quando me pedem para interpretar acadêmicos, pois eu mesmo não tive mais educação. Espero ser parte integrante de algo que manterá as crianças entretidas no carro nas longas viagens ao exterior ou apenas a caminho da escola.”</p><h2>Outros Retornos e Novidades no Elenco de Vozes</h2><p>Bill Nighy é, até o momento, o único ator dos filmes a retornar para as <b>Harry Potter: The Full-Cast Audio Editions</b>. No entanto, outros nomes do cinema também se juntarão a este projeto. A adaptação em áudio contará com um elenco de peso, incluindo Hugh Laurie como Albus Dumbledore, Matthew Macfadyen como Lord Voldemort, Riz Ahmed como Professor Snape, Michelle Gomez como Professora McGonagall, e Kit Harington como Professor Lockhart, entre outros.</p><p>A nova série em áudio tem previsão de lançamento em breve. <b>Harry Potter e a Pedra Filosofal</b> tem estreia marcada para 4 de novembro, seguido por <b>Harry Potter e a Câmara Secreta</b> em 16 de dezembro. Os demais livros da série serão lançados em 2026, prometendo reviver a magia para uma nova geração e relembrar os fãs da amada franquia.</p>",
+      "meta_description": "Bill Nighy, de Harry Potter, volta ao mundo mágico em nova adaptação de áudio. Conheça o elenco completo e datas de lançamento.",
+      "focus_keyphrase": "Bill Nighy Harry Potter",
+      "related_keyphrases": [
+        "Harry Potter The Full-Cast Audio Editions",
+        "Professor Slughorn",
+        "Mundo Mágico"
+      ],
+      "slug": "bill-nighy-harry-potter-adaptacao-audio",
+      "categorias": [
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "The Harry Potter franchise is in a weird place as multiple different adaptations of the classic fantasy series are happening."
+        },
+        {
+          "nome": "Professor Slughorn",
+          "grupo": "personagens",
+          "evidence": "Now, he’s taking on a new role. As revealed in today’s announcement, Nighy will take on a very different character, this time playing the part of Professor Slughorn"
+        }
+      ],
+      "tags_sugeridas": [
+        "Harry Potter",
+        "Bill Nighy",
+        "Adaptação em Áudio",
+        "Professor Slughorn",
+        "Mundo Mágico"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Imagem ilustrativa do universo Harry Potter.",
+        "Army-in-Dune-Part-Two.jpg": "Imagem genérica.",
+        "Battlestar-Galactica-33.jpg": "Imagem genérica.",
+        "Gargoyles.jpg": "Imagem genérica.",
+        "bill-nighty-harry-potter-2.jpg": "Bill Nighy em uma foto promocional.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Imagem genérica.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem genérica."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bill Nighy Retorna ao Mundo Mágico de Harry Potter em Nova Adaptação",
+        "_yoast_wpseo_metadesc": "Bill Nighy, de Harry Potter, volta ao mundo mágico em nova adaptação de áudio. Conheça o elenco completo e datas de lançamento.",
+        "_yoast_wpseo_focuskw": "Bill Nighy Harry Potter",
+        "_yoast_news_keywords": "Bill Nighy, Harry Potter, The Full-Cast Audio Editions, Professor Slughorn, Mundo Mágico",
+        "_yoast_wpseo_opengraph-title": "Bill Nighy Retorna ao Mundo Mágico de Harry Potter em Nova Adaptação",
+        "_yoast_wpseo_opengraph-description": "Bill Nighy, que interpretou Rufus Scrimgeour nos filmes, retorna ao universo de Harry Potter em uma nova adaptação de áudio como Professor Slughorn.",
+        "_yoast_wpseo_twitter-title": "Bill Nighy Retorna ao Mundo Mágico de Harry Potter em Nova Adaptação",
+        "_yoast_wpseo_twitter-description": "Bill Nighy, de Harry Potter, volta ao mundo mágico em nova adaptação de áudio. Conheça o elenco completo e datas de lançamento."
+      }
+    },
+    {
+      "titulo_final": "Star Trek: Species 8472 Retorna em HQ de Voyager - Homecoming",
+      "conteudo_final": "<p>Após mais de duas décadas, os fãs de <b>Star Trek: Voyager</b> terão um reencontro com uma das raças alienígenas mais formidáveis e subutilizadas da franquia. A IDW Publishing lança a HQ <b>Star Trek: Voyager – Homecoming</b>, com a segunda edição celebrando o 30º aniversário da série e servindo como uma sequência aguardada para o final do programa, presenteando a Capitã Janeway e sua tripulação com uma última missão.</p><h2>A Ameaça que Nem os Borg Conseguiram Assimilar</h2><p>O destaque desta nova aventura são os <b>Undine</b>, mais conhecidos como <b>Espécie 8472</b>. Essa raça, originária de um universo conhecido como Espaço Fluídico, é biologicamente única e visualmente impressionante. Sua capacidade de evoluir em um ambiente tão distinto conferiu-lhes uma força extraordinária, tornando-os um dos poucos inimigos que o Borg temeu. Em sua única aparição significativa, a Espécie 8472 demonstrou ser capaz de devastar frotas Borg, provando ser uma ameaça sem precedentes.</p><p>A habilidade da Espécie 8472 de resistir à assimilação Borg é um testemunho de sua evolução e poder. Eles não apenas ofereceram uma luta digna, mas também retaliaram com ferocidade, destruindo naves Borg e até planetas. Seven of Nine descreveu a espécie como o \"ápice da evolução biológica\" e a primeira a oferecer \"verdadeira resistência ao Borg\", uma declaração impactante vinda de uma ex-membro do coletivo.</p><h2>Voyager e a Aliança Inesperada</h2><p>Em um momento crítico, quando a Espécie 8472 voltou sua atenção para a USS Voyager, a Capitã Janeway (Kate Mulgrew) tomou uma decisão ousada: formar uma aliança temporária com os Borg para combater o inimigo comum. Utilizando tecnologia Borg modificada, a tripulação conseguiu neutralizar a ameaça, mas a trégua foi breve, pois os Borg logo voltaram a ser um obstáculo para a Voyager.</p><p>Apesar de seu impacto, a Espécie 8472 apareceu em apenas mais dois episódios de Voyager, \"Prey\" e \"In the Flesh\". Nesta última aparição, foi revelado que a espécie planejava infiltrar o Quadrante Alfa através de engenharia genética avançada, criando até mesmo uma falsa Sede da Frota Estelar para seus planos. Embora Janeway tenha conseguido evitar um conflito imediato através da diplomacia, a espécie desapareceu da série, deixando fãs questionando seu destino.</p><h2>Homecoming Resgata o Potencial dos Vilões</h2><p>A série de quadrinhos <b>Star Trek: Voyager – Homecoming</b> finalmente dá à Espécie 8472 o destaque que merecem. A edição #2, escrita por Susan e Tilly Bridges e ilustrada por Ángel Hernández, se passa logo após o final de Voyager. A primeira edição já retomou a história com a tripulação de volta ao Quadrante Alfa, mas a celebração foi interrompida pela invasão da Espécie 8472, que tomou a Voyager e declarou guerra à Federação.</p><p>Na edição #2, a Espécie 8472 ataca a Federação, acreditando que a tecnologia avançada dada à Voyager por uma Janeway do futuro representa um perigo. Janeway precisa reunir sua antiga tripulação para enfrentar um inimigo aterrador. A publicação promete entregar o confronto de alta intensidade e desenvolvimento de personagem que <b>Star Trek: Voyager</b> sempre fez bem, trazendo de volta vilões negligenciados para um confronto épico.</p><p><b>Star Trek: Voyager – Homecoming #2</b> já está disponível pela IDW Publishing, prometendo resolver pontas soltas do final da série e trazer o encerramento que os fãs sonham há quase 25 anos.</p>",
+      "meta_description": "Star Trek: Voyager ganha sequência em HQ com o retorno dos subutilizados e temíveis Espécie 8472 (Undine). Saiba mais sobre Homecoming #2.",
+      "focus_keyphrase": "Star Trek Species 8472",
+      "related_keyphrases": [
+        "Star Trek Voyager",
+        "Espécie 8472",
+        "Star Trek Homecoming"
+      ],
+      "slug": "star-trek-species-8472-hq",
+      "categorias": [
+        {
+          "nome": "Star Trek: Voyager",
+          "grupo": "franquias",
+          "evidence": "Star Trek: Voyager fans will finally get to enjoy the return of one of the most fearsome but badly underused alien races"
+        },
+        {
+          "nome": "Espécie 8472",
+          "grupo": "personagens",
+          "evidence": "None other than the Undine, or, as they’re better known Species 8472."
+        },
+        {
+          "nome": "Star Trek: Homecoming",
+          "grupo": "obras",
+          "evidence": "IDW Publishing’s comic series, Star Trek: Voyager – Homecoming, issue #2 of which is being released to mark the show’s 30th anniversary"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Trek",
+        "Voyager",
+        "Species 8472",
+        "Undine",
+        "HQ",
+        "IDW Publishing"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Imagem genérica.",
+        "Army-in-Dune-Part-Two.jpg": "Imagem genérica.",
+        "Battlestar-Galactica-33.jpg": "Imagem genérica.",
+        "Borg-vs-the-undine.jpg": "Borg enfrentando a Espécie 8472 em Star Trek.",
+        "Doctor_and_Seven_test_nanoprobes.jpg": "Doutor e Seven de Nove testando nanoprobes em Star Trek.",
+        "Gargoyles.jpg": "Imagem genérica.",
+        "star-trek-voyager-homecoming-2.jpg": "Capa da HQ Star Trek: Voyager - Homecoming #2.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Imagem genérica.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem genérica."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Trek: Species 8472 Retorna em HQ de Voyager - Homecoming",
+        "_yoast_wpseo_metadesc": "Star Trek: Voyager ganha sequência em HQ com o retorno dos subutilizados e temíveis Espécie 8472 (Undine). Saiba mais sobre Homecoming #2.",
+        "_yoast_wpseo_focuskw": "Star Trek Species 8472",
+        "_yoast_news_keywords": "Star Trek, Voyager, Species 8472, Undine, Homecoming, IDW Publishing",
+        "_yoast_wpseo_opengraph-title": "Star Trek: Species 8472 Retorna em HQ de Voyager - Homecoming",
+        "_yoast_wpseo_opengraph-description": "Os temíveis e subutilizados Espécie 8472 retornam em Star Trek: Voyager - Homecoming, quadrinho que expande o universo da série.",
+        "_yoast_wpseo_twitter-title": "Star Trek: Species 8472 Retorna em HQ de Voyager - Homecoming",
+        "_yoast_wpseo_twitter-description": "Star Trek: Voyager ganha sequência em HQ com o retorno dos subutilizados e temíveis Espécie 8472 (Undine). Saiba mais sobre Homecoming #2."
+      }
+    }
+  ]
+}

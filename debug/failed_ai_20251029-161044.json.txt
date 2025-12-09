@@ -1,0 +1,150 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Will Trent: Trailer da 4ª temporada confirma mudança crucial para personagem",
+      "conteudo_final": "<p>A quarta temporada de <em>Will Trent</em> está chegando, e um primeiro olhar sobre os novos episódios revela um grande desenvolvimento para o protagonista. A série retorna no início de 2026, após um longo hiato, para dar continuidade aos eventos chocantes do final da terceira temporada.</p><h2>Will Continua na Terapia em Will Trent Temporada 4</h2><p>O personagem de Ramón Rodríguez, Will Trent, passou por muitas provações na terceira temporada. Ele acidentalmente atirou e matou um adolescente, o que o traumatizou profundamente. Além disso, Will reencontrou seu pai biológico e descobriu que Angie estava grávida de outro homem. Diante desses eventos, é seguro dizer que Will não está em um bom momento.</p><figure><img src=\"https:
+      "meta_description": "Trailer da 4ª temporada de Will Trent revela que o protagonista continuará em terapia com a Dra. Roach, buscando lidar com os traumas da temporada anterior.",
+      "focus_keyphrase": "Will Trent 4ª temporada",
+      "related_keyphrases": [
+        "Will Trent terapia",
+        "Ramón Rodríguez Will Trent",
+        "Dra. Roach Will Trent"
+      ],
+      "slug": "will-trent-4-temporada-terapia",
+      "categorias": [
+        {
+          "nome": "Will Trent",
+          "grupo": "obras",
+          "evidence": "Will Trent season 4"
+        },
+        {
+          "nome": "ABC",
+          "grupo": "editorias",
+          "evidence": "ABC"
+        }
+      ],
+      "tags_sugeridas": [
+        "Will Trent",
+        "Ramón Rodríguez",
+        "Margaret Cho",
+        "ABC",
+        "Série de TV"
+      ],
+      "image_alt_texts": {
+        "ramon-rodriguez-as-will-trent-and-margaret-cho-as-dr-roach-in-will-trent-season-3-epsiode-16.jpg": "Will Trent e Dra. Roach em cena da 3ª temporada de Will Trent",
+        "ramon-rodriguez-as-will-trent-in-will-trent-season-3-episode-4.jpg": "Ramón Rodríguez como Will Trent na 3ª temporada de Will Trent",
+        "03188343_poster_w780-1.jpg": "Pôster da série Will Trent"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Will Trent 4ª Temporada: Trailer Confirma Mudança Crucial para Personagem | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Trailer da 4ª temporada de Will Trent revela que o protagonista continuará em terapia com a Dra. Roach, buscando lidar com os traumas da temporada anterior.",
+        "_yoast_wpseo_focuskw": "Will Trent 4ª temporada",
+        "_yoast_news_keywords": "Will Trent, Ramón Rodríguez, Margaret Cho, ABC, Série de TV, Terapia",
+        "_yoast_wpseo_opengraph-title": "Will Trent 4ª Temporada: Trailer Confirma Mudança Crucial para Personagem",
+        "_yoast_wpseo_opengraph-description": "Trailer da 4ª temporada de Will Trent revela que o protagonista continuará em terapia com a Dra. Roach, buscando lidar com os traumas da temporada anterior.",
+        "_yoast_wpseo_twitter-title": "Will Trent 4ª Temporada: Trailer Confirma Mudança Crucial para Personagem",
+        "_yoast_wpseo_twitter-description": "Trailer da 4ª temporada de Will Trent revela que o protagonista continuará em terapia com a Dra. Roach, buscando lidar com os traumas da temporada anterior."
+      }
+    },
+    {
+      "titulo_final": "Star Wars: Visions tem estreia perfeita na 3ª temporada no Disney+",
+      "conteudo_final": "<p>Após um hiato de dois anos, <em>Star Wars: Visions</em> retorna ao Disney+ com uma impressionante pontuação no Rotten Tomatoes. A série animada, que estreou em 2021, segue um padrão de lançamento de novas temporadas a cada dois anos. A terceira temporada de <em>Star Wars: Visions</em> foi lançada na quarta-feira, 29 de outubro, com todos os nove episódios curtos disponíveis de uma vez.</p><h2>Star Wars: Visions Temporada 3 Alcança 100% no Rotten Tomatoes</h2><p>No dia de seu lançamento no Disney+, <em>Star Wars: Visions</em> temporada 3 ostenta uma pontuação perfeita de 100% no Rotten Tomatoes. Críticos elogiam a nova temporada por sua animação impressionante e narrativa envolvente, repleta de reviravoltas chocantes. Um crítico chegou a descrever um dos episódios como uma obra-prima.</p><p>Essa pontuação perfeita se alinha com a recepção das duas primeiras temporadas. A primeira temporada de <em>Star Wars: Visions</em> obteve 96%, enquanto a segunda temporada mantém uma pontuação de 100%.</p><figure><img src=\"https:
+      "meta_description": "Star Wars: Visions estreia sua 3ª temporada no Disney+ com pontuação perfeita de 100% no Rotten Tomatoes, elogiada pela animação e narrativa.",
+      "focus_keyphrase": "Star Wars: Visions 3ª temporada",
+      "related_keyphrases": [
+        "Star Wars: Visions Rotten Tomatoes",
+        "Disney+ Star Wars",
+        "Série animada Star Wars"
+      ],
+      "slug": "star-wars-visions-3-temporada-rotten-tomatoes",
+      "categorias": [
+        {
+          "nome": "Star Wars: Visions",
+          "grupo": "obras",
+          "evidence": "Star Wars: Visions"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "editorias",
+          "evidence": "Disney+"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars: Visions",
+        "Disney+",
+        "Star Wars",
+        "Série animada",
+        "Rotten Tomatoes"
+      ],
+      "image_alt_texts": {
+        "star_wars_visions_2_tv_poster.jpg": "Pôster da 2ª temporada de Star Wars: Visions"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Visions 3ª Temporada: Estreia Perfeita no Disney+ | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Star Wars: Visions estreia sua 3ª temporada no Disney+ com pontuação perfeita de 100% no Rotten Tomatoes, elogiada pela animação e narrativa.",
+        "_yoast_wpseo_focuskw": "Star Wars: Visions 3ª temporada",
+        "_yoast_news_keywords": "Star Wars: Visions, Disney+, Star Wars, Série animada, Rotten Tomatoes, Animação",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Visions 3ª Temporada: Estreia Perfeita no Disney+",
+        "_yoast_wpseo_opengraph-description": "Star Wars: Visions estreia sua 3ª temporada no Disney+ com pontuação perfeita de 100% no Rotten Tomatoes, elogiada pela animação e narrativa.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Visions 3ª Temporada: Estreia Perfeita no Disney+",
+        "_yoast_wpseo_twitter-description": "Star Wars: Visions estreia sua 3ª temporada no Disney+ com pontuação perfeita de 100% no Rotten Tomatoes, elogiada pela animação e narrativa."
+      }
+    },
+    {
+      "titulo_final": "BRZRKR: Diretor de Velozes e Furiosos atualiza sobre filme de Keanu Reeves",
+      "conteudo_final": "<p>Boas notícias para os fãs de <em>BRZRKR</em>: o projeto de <strong>Keanu Reeves</strong>, baseado na HQ que ele co-criou, parece estar avançando. O filme, que está em desenvolvimento há algum tempo, ganhou um novo diretor, <strong>Justin Lin</strong>, conhecido por seu trabalho na franquia <em>Velozes e Furiosos</em>.</p><h2>Atualização Promissora de Justin Lin para BRZRKR</h2><p>Em entrevista recente, Lin compartilhou uma atualização encorajadora sobre o desenvolvimento do filme <em>BRZRKR</em>. Ele descreveu o projeto como um de seus favoritos e expressou sua sorte em poder trabalhar com Reeves e o roteirista Mattson Tomlin para dar vida à visão do personagem.</p><p>\"Posso dizer que estou em um ponto da minha carreira em que tempo e eficiência impulsionam todas as minhas decisões e as pessoas com quem quero trabalhar, e este é um dos meus projetos favoritos\", declarou Lin.</p><figure><img src=\"https:
+      "meta_description": "Justin Lin, diretor de Velozes e Furiosos, atualiza sobre o filme BRZRKR de Keanu Reeves, prometendo honrar o espírito da HQ original.",
+      "focus_keyphrase": "BRZRKR filme Keanu Reeves",
+      "related_keyphrases": [
+        "Justin Lin BRZRKR",
+        "filme BRZRKR Netflix",
+        "Keanu Reeves HQ"
+      ],
+      "slug": "brzrkr-filme-keanu-reeves-justin-lin",
+      "categorias": [
+        {
+          "nome": "BRZRKR",
+          "grupo": "obras",
+          "evidence": "BRZRKR"
+        },
+        {
+          "nome": "Keanu Reeves",
+          "grupo": "atores",
+          "evidence": "Keanu Reeves"
+        },
+        {
+          "nome": "Justin Lin",
+          "grupo": "diretores",
+          "evidence": "Justin Lin"
+        }
+      ],
+      "tags_sugeridas": [
+        "BRZRKR",
+        "Keanu Reeves",
+        "Justin Lin",
+        "Netflix",
+        "HQ",
+        "Filme de Ação"
+      ],
+      "image_alt_texts": {
+        "brzrkr-social-featured.jpg": "Keanu Reeves em BRZRKR",
+        "brzrkr.jpg": "Arte promocional de BRZRKR"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "BRZRKR: Diretor de Velozes e Furiosos Atualiza Filme de Keanu Reeves | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Justin Lin, diretor de Velozes e Furiosos, atualiza sobre o filme BRZRKR de Keanu Reeves, prometendo honrar o espírito da HQ original.",
+        "_yoast_wpseo_focuskw": "BRZRKR filme Keanu Reeves",
+        "_yoast_news_keywords": "BRZRKR, Keanu Reeves, Justin Lin, Netflix, HQ, Filme de Ação, Velozes e Furiosos",
+        "_yoast_wpseo_opengraph-title": "BRZRKR: Diretor de Velozes e Furiosos Atualiza Filme de Keanu Reeves",
+        "_yoast_wpseo_opengraph-description": "Justin Lin, diretor de Velozes e Furiosos, atualiza sobre o filme BRZRKR de Keanu Reeves, prometendo honrar o espírito da HQ original.",
+        "_yoast_wpseo_twitter-title": "BRZRKR: Diretor de Velozes e Furiosos Atualiza Filme de Keanu Reeves",
+        "_yoast_wpseo_twitter-description": "Justin Lin, diretor de Velozes e Furiosos, atualiza sobre o filme BRZRKR de Keanu Reeves, prometendo honrar o espírito da HQ original."
+      }
+    }
+  ]
+}

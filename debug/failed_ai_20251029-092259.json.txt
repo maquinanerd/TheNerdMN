@@ -1,0 +1,61 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Monster Hunter Wilds: Vendas estagnam após 10 milhões no lançamento",
+      "conteudo_final": "<p>Apesar de um lançamento extremamente bem-sucedido, <b>Monster Hunter Wilds</b> tem enfrentado dificuldades. Os números de vendas atualizados da Capcom destacam o quão problemático tem sido o desempenho do mais recente título da franquia, com poucas alterações desde março.</p><p>Lançado no final de fevereiro, <b>Monster Hunter Wilds</b> teve um desempenho notável em seu início, impulsionado pela antecipação e por <a href=\"https:
+      "meta_description": "Monster Hunter Wilds atingiu 10 milhões de cópias no lançamento, mas vendas estagnaram. Capcom revela números preocupantes.",
+      "focus_keyphrase": "Monster Hunter Wilds vendas",
+      "related_keyphrases": [
+        "Monster Hunter Wilds desempenho",
+        "Capcom Monster Hunter",
+        "vendas de jogos"
+      ],
+      "slug": "monster-hunter-wilds-vendas-estagnam",
+      "categorias": [
+        {
+          "nome": "Monster Hunter Wilds",
+          "grupo": "franquias",
+          "evidence": "Monster Hunter Wilds"
+        },
+        {
+          "nome": "Capcom",
+          "grupo": "editorias",
+          "evidence": "Capcom"
+        }
+      ],
+      "tags_sugeridas": [
+        "Monster Hunter Wilds",
+        "Capcom",
+        "Monster Hunter",
+        "PlayStation",
+        "Steam",
+        "Vendas de Jogos"
+      ],
+      "image_alt_texts": {
+        "monster-hunter-wilds-press-image-1.jpg": "Capa oficial de Monster Hunter Wilds com o logo do jogo.",
+        "mixcollage-06-oct-2025-02-01-pm-6645.jpg": "Montagem de artes conceituais de monstros de Monster Hunter Wilds.",
+        "monster-hunter-wilds-tag-page-cover-art.jpg": "Arte principal de Monster Hunter Wilds exibindo paisagens e criaturas.",
+        "wm-2025-06-monsterhunterwildshunter.jpg": "Hunter em ação no mundo de Monster Hunter Wilds com um monstro ao fundo.",
+        "monster-hunter-wilds-press-image-10.jpg": "Personagem de Monster Hunter Wilds interagindo com o ambiente.",
+        "monster-hunter-wilds-press-image-2.jpg": "Um dos monstros de Monster Hunter Wilds em destaque.",
+        "monster-hunter-wilds-press-image-3.jpg": "Cena de combate em Monster Hunter Wilds com múltiplos jogadores.",
+        "monster-hunter-wilds-press-image-4.jpg": "Visual do mundo aberto de Monster Hunter Wilds.",
+        "monster-hunter-wilds-press-image-5.jpg": "Detalhe de uma criatura de Monster Hunter Wilds.",
+        "monster-hunter-wilds-press-image-6.jpg": "Um caçador usando equipamento em Monster Hunter Wilds.",
+        "monster-hunter-wilds-press-image-7.jpg": "Combate intenso contra um grande monstro em Monster Hunter Wilds.",
+        "monster-hunter-wilds-press-image-8.jpg": "Exploração em Monster Hunter Wilds.",
+        "monster-hunter-wilds-press-image-9.jpg": "Arte promocional de Monster Hunter Wilds com foco em personagens."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Monster Hunter Wilds: Vendas estagnam após 10 milhões no lançamento",
+        "_yoast_wpseo_metadesc": "Monster Hunter Wilds atingiu 10 milhões de cópias no lançamento, mas vendas estagnaram. Capcom revela números preocupantes.",
+        "_yoast_wpseo_focuskw": "Monster Hunter Wilds vendas",
+        "_yoast_news_keywords": "Monster Hunter Wilds, Capcom, Monster Hunter, Vendas de Jogos, PlayStation, Steam",
+        "_yoast_wpseo_opengraph-title": "Monster Hunter Wilds: Vendas estagnam após 10 milhões no lançamento",
+        "_yoast_wpseo_opengraph-description": "Apesar de um lançamento impressionante, Monster Hunter Wilds enfrenta uma queda significativa nas vendas. Números da Capcom revelam estagnação.",
+        "_yoast_wpseo_twitter-title": "Monster Hunter Wilds: Vendas estagnam após 10 milhões no lançamento",
+        "_yoast_wpseo_twitter-description": "Apesar de um lançamento impressionante, Monster Hunter Wilds enfrenta uma queda significativa nas vendas. Números da Capcom revelam estagnação."
+      }
+    }
+  ]
+}

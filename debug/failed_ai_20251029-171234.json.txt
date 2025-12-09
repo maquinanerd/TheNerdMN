@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pokémon TCG Pocket Revela Uso de Ingressos de Aniversário",
+      "conteudo_final": "<p>O <b>Pokémon TCG Pocket</b> finalmente revelou o propósito dos <b>Advance Tickets</b> (Ingressos de Avanço) dentro do popular jogo mobile de cartas colecionáveis. Em celebração ao seu primeiro aniversário, o game anunciou um sorteio especial que utilizará esses itens misteriosos.</p><h2>Uso Revelado dos Advance Tickets</h2><p>Desde o seu lançamento, o <b>Pokémon TCG Pocket</b> ofereceu aos jogadores que iniciaram o jogo nos primeiros três meses um item chamado \"Advance Ticket\". Por muito tempo, seu uso permaneceu incerto, gerando especulações entre os fãs sobre sua finalidade. Contudo, um anúncio recente nas redes sociais oficiais do jogo esclareceu a situação.</p><p>Os <b>Advance Tickets</b> serão a chave para participar de um sorteio comemorativo do primeiro aniversário do <b>Pokémon TCG Pocket</b>. O evento ocorrerá em 29 de outubro, às 23:00 (horário de Brasília). Os 100 jogadores com Advance Tickets receberão o prêmio principal de 1.200 <b>Pack Hourglasses</b> (Ampulhetas de Pacotes), enquanto 10.000 jogadores receberão 120 Pack Hourglasses. Como um bônus para todos os jogadores, incluindo aqueles sem Advance Tickets, serão distribuídos 24 Pack Hourglasses como parte das celebrações.</p><figure><img src=\"https:
+      "meta_description": "Pokémon TCG Pocket revela o uso dos Advance Tickets para um sorteio de aniversário com prêmios em Pack Hourglasses e novos conteúdos.",
+      "focus_keyphrase": "Pokémon TCG Pocket Advance Tickets",
+      "related_keyphrases": [
+        "Pokémon TCG Pocket aniversário",
+        "Advance Tickets Pokémon TCG",
+        "jogos de cartas colecionáveis mobile"
+      ],
+      "slug": "pokemon-tcg-pocket-ingressos-aniversario",
+      "categorias": [
+        {
+          "nome": "Pokémon TCG Pocket",
+          "grupo": "franquias",
+          "evidence": "Pokemon TCG Pocket"
+        },
+        {
+          "nome": "Pokémon",
+          "grupo": "franquias",
+          "evidence": "Pokemon TCG Pocket"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokémon TCG Pocket",
+        "Advance Ticket",
+        "DeNA",
+        "The Pokémon Company",
+        "jogos mobile",
+        "cartas colecionáveis",
+        "Mega Rising"
+      ],
+      "image_alt_texts": {
+        "pokemon-tcg-pocket-1.jpg": "Tela de Jogo do Pokémon TCG Pocket com cartas e itens.",
+        "pokemon-tcg-pocket-2.jpg": "Imagem ilustrativa do aplicativo Pokémon TCG Pocket.",
+        "pokemon-tcg-pocket-3.jpg": "Card de Pokémon em destaque no Pokémon TCG Pocket.",
+        "pokemon-tcg-pocket-4.jpg": "Interface do usuário do Pokémon TCG Pocket mostrando pacotes.",
+        "pokemon-tcg-pocket-5.jpg": "Detalhe da tela de coleção de cartas no Pokémon TCG Pocket.",
+        "pokemon-tcg-cover.jpg": "Capa do jogo Pokémon TCG Pocket.",
+        "pokemon-tcg-pocket-mega-altaria.jpg": "Card da Mega Altaria no Pokémon TCG Pocket.",
+        "pokemon-tcg-pocket-mega-rising-video-thumb.jpg": "Card promocional da expansão Mega Rising do Pokémon TCG Pocket."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon TCG Pocket: Advance Tickets Revelam Uso em Sorteio de Aniversário",
+        "_yoast_wpseo_metadesc": "Pokémon TCG Pocket revela o uso dos Advance Tickets para um sorteio de aniversário com prêmios em Pack Hourglasses e novos conteúdos.",
+        "_yoast_wpseo_focuskw": "Pokémon TCG Pocket Advance Tickets",
+        "_yoast_news_keywords": "Pokémon TCG Pocket,Advance Ticket,Pokémon,DeNA,The Pokémon Company,jogos mobile,cartas colecionáveis",
+        "_yoast_wpseo_opengraph-title": "Pokémon TCG Pocket: Advance Tickets Revelam Uso em Sorteio de Aniversário",
+        "_yoast_wpseo_opengraph-description": "Pokémon TCG Pocket revela o uso dos Advance Tickets para um sorteio de aniversário com prêmios em Pack Hourglasses e novos conteúdos.",
+        "_yoast_wpseo_twitter-title": "Pokémon TCG Pocket: Advance Tickets Revelam Uso em Sorteio de Aniversário",
+        "_yoast_wpseo_twitter-description": "Pokémon TCG Pocket revela o uso dos Advance Tickets para um sorteio de aniversário com prêmios em Pack Hourglasses e novos conteúdos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pokémon Legends: Z-A: Novas recompensas nas Batalhas Ranqueadas da 2ª Temporada",
+      "conteudo_final": "<p>A <b>Nintendo</b> anunciou novidades sobre as Batalhas Ranqueadas da 2ª Temporada de <b>Pokemon Legends: Z-A</b>, que ocorrerá entre 5 de novembro e 25 de novembro. A nova temporada trará recompensas exclusivas, incluindo um item especial para usar a Mega Delphox.</p>\n<p>Lançado em 16 de outubro, <b>Pokemon Legends: Z-A</b> rapidamente se tornou um sucesso, vendendo 5,8 milhões de unidades globalmente em sua primeira semana. No Japão, o jogo registrou cerca de 1,48 milhão de cópias.</p>\n<h2>Detalhes da 2ª Temporada de Batalhas Ranqueadas de Pokemon Legends: Z-A</h2>\n<p>A segunda temporada de Batalhas Ranqueadas de <b>Pokemon Legends: Z-A</b> começa em 5 de novembro. Durante o período, os jogadores poderão participar de batalhas em tempo real para quatro jogadores, acumulando pontos e subindo nos rankings. Ao atingir o Rank K, os treinadores receberão o <b>Delphoxite</b>, item necessário para a Mega Evolução de Delphox.</p>\n<p>Cada rank oferecerá recompensas únicas, com itens de menor valor para as patentes mais baixas:</p>\n<ul>\n<li><b>Rank K</b>: Delphoxite</li>\n<li><b>Rank A</b>: 3 Dream Ball, 1 Gold Bottle Cap, 3 Bottle Cap, 3 Seed of Mastery, 1 Big Nugget</li>\n<li><b>Rank B a E</b>: 2 Dream Ball, 1 Gold Bottle Cap, 2 Bottle Cap, 2 Seed of Mastery, 2 Nugget</li>\n<li><b>Rank F a K</b>: 1 Bottle Cap, 1 Seed of Mastery, 2 Nugget</li>\n<li><b>Rank L a R</b>: 1 Seed of Mastery, 1 Nugget</li>\n<li><b>Rank S e abaixo</b>: 1 Nugget</li>\n</ul>\n<p>Até 5 de novembro, os jogadores ainda podem participar da primeira temporada de Batalhas Ranqueadas, uma oportunidade de obter o <b>Greninjite</b>, item necessário para a Mega Evolução de Greninja. Embora não haja garantia, itens sazonais podem retornar no futuro, como já ocorreu em outros jogos da franquia.</p>\n<p>Para participar das Batalhas Ranqueadas, os jogadores devem iniciar o jogo, pressionar o botão X, selecionar \"Link Play\" e, em seguida, \"Ranked Battles\". Todos começam no Rank Z e podem subir de classificação ao derrotar oponentes. Todos os Pokémon do Pokedex de Lumiose (nº 001 a 229) são elegíveis e serão automaticamente ajustados para o Nível 50.</p>\n<p>As temporadas de Batalhas Ranqueadas prometem manter o jogo popular, oferecendo acesso a novas Mega Evoluções e itens valiosos. <b>Pokemon Legends: Z-A</b> recebeu críticas positivas, embora alguns observadores tenham notado o tamanho reduzido do mapa do jogo. O modo multiplayer é visto como uma excelente forma de prolongar o interesse no título.</p>\n<figure><img src=\"https:
+      "meta_description": "Descubra os detalhes da 2ª Temporada de Batalhas Ranqueadas de Pokémon Legends: Z-A, incluindo datas, recompensas e como obter o Delphoxite para Mega Delphox.",
+      "focus_keyphrase": "Pokemon Legends Z-A Batalhas Ranqueadas",
+      "related_keyphrases": [
+        "Pokemon Legends Z-A Mega Evolução",
+        "Nintendo Batalhas Ranqueadas",
+        "Mega Delphox Pokemon Legends Z-A"
+      ],
+      "slug": "pokemon-legends-z-a-batalhas-ranqueadas-temporada-2",
+      "categorias": [
+        {
+          "nome": "Pokemon Legends: Z-A",
+          "grupo": "obras",
+          "evidence": "Pokemon Legends: Z-A"
+        },
+        {
+          "nome": "Nintendo",
+          "grupo": "editorias",
+          "evidence": "Nintendo"
+        },
+        {
+          "nome": "Mega Evolução",
+          "grupo": "franquias",
+          "evidence": "Mega Delphox"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokemon Legends: Z-A",
+        "Nintendo",
+        "Batalhas Ranqueadas",
+        "Mega Evolução",
+        "Delphoxite",
+        "Delphox",
+        "Game Freak"
+      ],
+      "image_alt_texts": {
+        "pokemon-z-a-cover-art-1.jpg": "Capa de Pokemon Legends: Z-A com os personagens principais em destaque.",
+        "pokemon-legends-z-a-press-image-1.jpg": "Treinador de Pokemon Legends: Z-A em batalha.",
+        "pokemon-legends-z-a-mega-evolution.jpg": "Mega Delphox em Pokemon Legends: Z-A."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon Legends: Z-A: Novas recompensas nas Batalhas Ranqueadas",
+        "_yoast_wpseo_metadesc": "Descubra os detalhes da 2ª Temporada de Batalhas Ranqueadas de Pokémon Legends: Z-A, incluindo datas, recompensas e como obter o Delphoxite para Mega Delphox.",
+        "_yoast_wpseo_focuskw": "Pokemon Legends Z-A Batalhas Ranqueadas",
+        "_yoast_news_keywords": "Pokemon Legends Z-A, Nintendo, Batalhas Ranqueadas, Mega Evolução, Delphox, Delphoxite, Game Freak",
+        "_yoast_wpseo_opengraph-title": "Pokémon Legends: Z-A: Novas recompensas nas Batalhas Ranqueadas",
+        "_yoast_wpseo_opengraph-description": "Descubra os detalhes da 2ª Temporada de Batalhas Ranqueadas de Pokémon Legends: Z-A, incluindo datas, recompensas e como obter o Delphoxite para Mega Delphox.",
+        "_yoast_wpseo_twitter-title": "Pokémon Legends: Z-A: Novas recompensas nas Batalhas Ranqueadas",
+        "_yoast_wpseo_twitter-description": "Descubra os detalhes da 2ª Temporada de Batalhas Ranqueadas de Pokémon Legends: Z-A, incluindo datas, recompensas e como obter o Delphoxite para Mega Delphox."
+      }
+    }
+  ]
+}

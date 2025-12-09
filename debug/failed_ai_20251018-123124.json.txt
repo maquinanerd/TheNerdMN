@@ -1,0 +1,156 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Tom Felton: Ator de Harry Potter brilha em thriller psicológico na Netflix",
+      "conteudo_final": "<p>Estrela da saga <b>Harry Potter</b>, Tom Felton, que interpretou Draco Malfoy, está novamente em destaque. Após a notícia do reboot da série de TV pela HBO e sua participação na adaptação teatral de <i>Harry Potter and the Cursed Child</i>, um de seus projetos menos conhecidos se tornou um sucesso surpreendente no streaming.</p><p>O thriller psicológico <b>Some Other Woman</b>, lançado em 2023 e dirigido por Joel David Moore, estrela Felton como um marido cuja vida conjugal perfeita desmorona durante um refúgio em uma ilha remota. O que começa como um escape idílico se transforma em um pesadelo surreal quando uma mulher misteriosa ameaça tudo o que o casal possui.</p><p>Apesar de ter recebido críticas mistas a negativas em seu lançamento, <b>Some Other Woman</b> agora vive um renascimento inesperado. Recentemente adicionado ao catálogo da Netflix, o filme alcançou o Top 10, competindo com outros títulos de suspense como <i>The Woman in Cabin 10</i> e <i>Monster: The Ed Gein Story</i>.</p><p>O filme acumulou uma pontuação de 43% no Rotten Tomatoes entre os críticos, com uma nota ainda menor de 39% do público. Críticos apontaram que, apesar de possuir todos os elementos para um thriller instigante, o roteiro falha em conectar as peças de forma coesa. No entanto, a popularidade atual na Netflix sugere que muitos espectadores concordam com a visão de que o filme poderia ter se beneficiado de um desenvolvimento mais aprofundado.</p><h2>Tom Felton Retorna ao Mundo de Harry Potter</h2><p>Felton é o primeiro ator da série original de <b>Harry Potter</b> a ser confirmado para a produção teatral de <i>Harry Potter and the Cursed Child</i>. A peça terá estreia na Broadway em 11 de novembro de 2025, com uma temporada limitada até 22 de março de 2026. O ator expressou entusiasmo em retornar à franquia:</p><blockquote><p>“Fazer parte dos filmes de Harry Potter tem sido uma das maiores honras da minha vida. Entrar nesta produção será um momento de encerramento para mim, pois quando eu começar as apresentações em 'Cursed Child' neste outono, terei a mesma idade de Draco na peça.”</p></blockquote><p>Ele acrescentou:</p><blockquote><p>“É surreal voltar a interpretar este personagem, e claro, seu icônico cabelo loiro platinado. Estou animado para ver sua história se completar e compartilhá-la com a maior comunidade de fãs do mundo. Mal posso esperar para me juntar a esta incrível companhia e fazer parte da comunidade da Broadway.”</p></blockquote><p>O público pode assistir a Tom Felton em <b>Some Other Woman</b> na Netflix.</p><figure><img src="https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/12/01650162_poster_w780.jpg" alt="Poster do filme Some Other Woman com Tom Felton"><figcaption>Tom Felton estrela o thriller psicológico Some Other Woman, agora em alta na Netflix.</figcaption></figure>",
+      "meta_description": "Ator de Harry Potter, Tom Felton, ganha destaque com o thriller psicológico 'Some Other Woman', que se torna um sucesso inesperado na Netflix.",
+      "focus_keyphrase": "Tom Felton Some Other Woman Netflix",
+      "related_keyphrases": [
+        "Some Other Woman streaming",
+        "Thriller psicológico Tom Felton",
+        "Harry Potter ator Netflix"
+      ],
+      "slug": "tom-felton-some-other-woman-netflix",
+      "categorias": [
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "Tom Felton rose to international fame through the Harry Potter franchise"
+        },
+        {
+          "nome": "Some Other Woman",
+          "grupo": "obras",
+          "evidence": "Released in 2023, Some Other Woman is a psychological thriller"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Recently added to Netflix’s catalog"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tom Felton",
+        "Harry Potter",
+        "Some Other Woman",
+        "Netflix",
+        "Thriller psicológico",
+        "Draco Malfoy"
+      ],
+      "image_alt_texts": {
+        "01650162_poster_w780.jpg": "Poster do filme Some Other Woman com Tom Felton"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tom Felton: Ator de Harry Potter brilha em thriller psicológico na Netflix",
+        "_yoast_wpseo_metadesc": "Ator de Harry Potter, Tom Felton, ganha destaque com o thriller psicológico 'Some Other Woman', que se torna um sucesso inesperado na Netflix.",
+        "_yoast_wpseo_focuskw": "Tom Felton Some Other Woman Netflix",
+        "_yoast_news_keywords": "Tom Felton, Harry Potter, Some Other Woman, Netflix, Thriller psicológico, Draco Malfoy",
+        "_yoast_wpseo_opengraph-title": "Tom Felton: Ator de Harry Potter brilha em thriller psicológico na Netflix",
+        "_yoast_wpseo_opengraph-description": "Ator de Harry Potter, Tom Felton, ganha destaque com o thriller psicológico 'Some Other Woman', que se torna um sucesso inesperado na Netflix.",
+        "_yoast_wpseo_twitter-title": "Tom Felton: Ator de Harry Potter brilha em thriller psicológico na Netflix",
+        "_yoast_wpseo_twitter-description": "Ator de Harry Potter, Tom Felton, ganha destaque com o thriller psicológico 'Some Other Woman', que se torna um sucesso inesperado na Netflix."
+      }
+    },
+    {
+      "titulo_final": "Keira Knightley: Thriller 'The Woman in Cabin 10' domina charts da Netflix",
+      "conteudo_final": "<p>Em um ano com altos e baixos para os originais da Netflix, o suspense <b>The Woman in Cabin 10</b>, estrelado por <b>Keira Knightley</b>, emergiu como um sucesso inesperado. O filme conquistou o primeiro lugar no ranking global da plataforma de streaming, superando até mesmo produções de grande orçamento.</p><p>Baseado no bestseller de Ruth Ware, <i>The Woman in Cabin 10</i> manteve a liderança nas paradas globais da Netflix por mais de uma semana. O sucesso ocorre apesar da recepção negativa da crítica especializada, que concedeu ao filme uma pontuação de 28% no Rotten Tomatoes. A atuação de Knightley como uma jornalista traumatizada que testemunha um desaparecimento em um iate de luxo é o ponto central da trama.</p><h2>Inspirações e Semelhanças de The Woman in Cabin 10</h2><p>A premissa do filme evoca clássicos do suspense como <i>The Lady Vanishes</i> (1930s) de Alfred Hitchcock e <i>Garota Exemplar</i> (2014) de David Fincher. <i>Garota Exemplar</i>, estrelado por Rosamund Pike e Ben Affleck, foi um grande sucesso comercial para Fincher, arrecadando quase US$ 370 milhões mundialmente. Além disso, <i>The Woman in Cabin 10</i> apresenta semelhanças com a série de mistério da FX, <i>A Murder at the End of the World</i>.</p><p>Em sua crítica para o site, Tania Hussain descreveu o filme como um suspense que “se apoia demais na atmosfera e de menos na profundidade”. O elenco de apoio inclui talentos como Guy Pearce, Hannah Waddingham, Art Malik e Gugu Mbatha-Raw.</p><blockquote><p>“Embora seja adaptado do romance best-seller, o roteiro muitas vezes se inclina um pouco demais para a atmosfera e de menos para a profundidade.”</p></blockquote><p>O filme acompanha uma jornalista que, após presenciar um incidente misterioso em um iate de luxo, embarca em uma perigosa busca pela verdade, desafiando quem está a bordo e colocando sua própria segurança em risco para desvendar segredos obscuros.</p><p>A jornalista Laura Blacklock é a personagem central da trama, que busca desvendar um mistério em alto mar. A produção, prevista para 2025, promete manter os espectadores apreensivos até o último momento.</p><figure><img src="https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/01823218_poster_w780.jpg" alt="Poster do filme The Woman in Cabin 10 com Keira Knightley"><figcaption>Keira Knightley estrela o suspense The Woman in Cabin 10, que lidera o streaming da Netflix.</figcaption></figure>",
+      "meta_description": "Thriller 'The Woman in Cabin 10', com Keira Knightley, surpreende ao dominar charts da Netflix, apesar de críticas negativas. Saiba mais!",
+      "focus_keyphrase": "The Woman in Cabin 10 Netflix",
+      "related_keyphrases": [
+        "Keira Knightley filme",
+        "Suspense Netflix",
+        "The Woman in Cabin 10 crítica"
+      ],
+      "slug": "the-woman-in-cabin-10-netflix",
+      "categorias": [
+        {
+          "nome": "The Woman in Cabin 10",
+          "grupo": "obras",
+          "evidence": "the streamer is witnessing some much-needed success with its latest big-ticket offering, The Woman in Cabin 10."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix has had a rather uneven year as far as its originals are concerned."
+        },
+        {
+          "nome": "Keira Knightley",
+          "grupo": "atores",
+          "evidence": "Starring Keira Knightley as a traumatized reporter"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Woman in Cabin 10",
+        "Keira Knightley",
+        "Netflix",
+        "Suspense",
+        "Thriller",
+        "Ruth Ware"
+      ],
+      "image_alt_texts": {
+        "01823218_poster_w780.jpg": "Poster do filme The Woman in Cabin 10 com Keira Knightley"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Keira Knightley: Thriller 'The Woman in Cabin 10' domina charts da Netflix",
+        "_yoast_wpseo_metadesc": "Thriller 'The Woman in Cabin 10', com Keira Knightley, surpreende ao dominar charts da Netflix, apesar de críticas negativas. Saiba mais!",
+        "_yoast_wpseo_focuskw": "The Woman in Cabin 10 Netflix",
+        "_yoast_news_keywords": "The Woman in Cabin 10, Keira Knightley, Netflix, Suspense, Thriller, Ruth Ware",
+        "_yoast_wpseo_opengraph-title": "Keira Knightley: Thriller 'The Woman in Cabin 10' domina charts da Netflix",
+        "_yoast_wpseo_opengraph-description": "Thriller 'The Woman in Cabin 10', com Keira Knightley, surpreende ao dominar charts da Netflix, apesar de críticas negativas. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Keira Knightley: Thriller 'The Woman in Cabin 10' domina charts da Netflix",
+        "_yoast_wpseo_twitter-description": "Thriller 'The Woman in Cabin 10', com Keira Knightley, surpreende ao dominar charts da Netflix, apesar de críticas negativas. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Remakes de terror de 2006 no Hulu: 'The Omen' e 'The Hills Have Eyes'",
+      "conteudo_final": "<p>Dois remakes de filmes de terror aclamados de 2006, <b>O Presságio</b> (The Omen) e <b>Viagem Maldita</b> (The Hills Have Eyes), estão agora disponíveis para streaming na Hulu. Ambos revisitam clássicos do gênero, mas com abordagens distintas sobre o que constitui um remake de sucesso.</p><h2>O Legado dos Remakes de Terror</h2><p>Remakes de filmes de terror são uma constante em Hollywood, com resultados que variam de homenagens fiéis a novas interpretações ousadas. Enquanto alguns, como <i>A Mosca</i> e <i>Nosferatu</i>, são celebrados por sua qualidade, outros reforçam a ideia de que certos clássicos não devem ser tocados.</p><p>Em 2006, Hollywood lançou duas novas versões de filmes icônicos de terror dos anos 70. <i>O Presságio</i>, remake do clássico de Richard Donner de 1976, foca na história do Anticristo. Já <i>Viagem Maldita</i>, baseado no filme de Wes Craven de 1977, narra o terror de uma família suburbana atacada por mutantes canibais no deserto de Nevada.</p><h2>'O Presságio': Uma Recriação Fiel, Mas Dispensável</h2><p>O diretor John Moore e o roteirista David Seltzer optaram por uma abordagem conservadora em seu remake de <i>O Presságio</i>. O resultado é uma recriação quase idêntica ao original de 1976, mantendo o roteiro, os pontos-chave da trama e a estrutura narrativa. Apesar de não ser um filme ruim, a falta de originalidade o torna uma adição desnecessária ao catálogo de remakes.</p><p>O filme se passa em tempos contemporâneos, tentando modernizar a história. No entanto, as poucas alterações não foram suficientes para justificar a sua existência como uma nova versão. O público que procura fidelidade ao original encontrará o que busca, mas sem a adição de novas perspectivas.</p><h2>'Viagem Maldita': Uma Nova Visão Brutal e Aclamada</h2><p>Alexandre Aja, por outro lado, tomou um caminho mais ousado e bem-sucedido com o remake de <i>Viagem Maldita</i>. Em vez de uma cópia cena a cena, o filme preservou os elementos centrais do original, mas expandiu a mitologia e o tom da história. Aja aprofundou a origem dos vilões, apresentando-os como produtos da era da Guerra Fria, o que ressoou com as ansiedades pós-11 de setembro e adicionou uma camada extra de horror.</p><p>A versão de Aja é conhecida por sua brutalidade explícita, com mortes e gore mais gráficos do que o filme original. Essa abordagem, aliada a uma narrativa mais sombria e envolvente, rendeu a <i>Viagem Maldita</i> uma recepção melhor do que <i>O Presságio</i> e o consagrou como um dos remakes de terror mais bem-sucedidos e aprimorados da última década.</p><h2>Outros Filmes de Terror Disponíveis na Hulu</h2><p>Os remakes de <i>O Presságio</i> e <i>Viagem Maldita</i> se juntam a uma crescente biblioteca de títulos de terror na Hulu. A plataforma também oferece filmes como <i>Noites Brutais</i>, <i>Halloween (2018)</i>, <i>Sobrenatural</i> e <i>O Sexto Sentido</i>, além de franquias como <i>Pânico</i> e <i>Jogos Mortais</i>.</p><figure><img src="https://comicbook.com/wp-content/uploads/sites/4/2024/12/jim-carrey-dr-robotnik-sonic.jpg?w=300" alt="Cena do filme O Presságio (2006)"><figcaption>O Presságio (2006), um remake fiel, está disponível na Hulu.</figcaption></figure><figure><img src="https://comicbook.com/wp-content/uploads/sites/4/2025/03/h-o-g-w-a-r-t-s-l-e-g-a-c-y.png?w=300" alt="Cena do filme Viagem Maldita (2006)"><figcaption>Viagem Maldita (2006), remake aclamado e brutal, também está na Hulu.</figcaption></figure>",
+      "meta_description": "Dois remakes de terror de 2006, 'O Presságio' e 'Viagem Maldita', chegam à Hulu. Um é fiel, o outro é uma obra-prima subestimada do gênero.",
+      "focus_keyphrase": "Remakes de terror 2006 Hulu",
+      "related_keyphrases": [
+        "O Presságio 2006",
+        "Viagem Maldita remake",
+        "Filmes de terror Hulu"
+      ],
+      "slug": "remakes-terror-hulu-2006",
+      "categorias": [
+        {
+          "nome": "O Presságio",
+          "grupo": "obras",
+          "evidence": "The Omen and The Hills Have Eyes remakes"
+        },
+        {
+          "nome": "Viagem Maldita",
+          "grupo": "obras",
+          "evidence": "The Omen and The Hills Have Eyes remakes"
+        },
+        {
+          "nome": "Hulu",
+          "grupo": "editorias",
+          "evidence": "are available to stream on Hulu."
+        }
+      ],
+      "tags_sugeridas": [
+        "O Presságio",
+        "Viagem Maldita",
+        "Remake",
+        "Terror",
+        "Hulu",
+        "Richard Donner",
+        "Wes Craven"
+      ],
+      "image_alt_texts": {
+        "jim-carrey-dr-robotnik-sonic.jpg": "Cena do filme O Presságio (2006)",
+        "h-o-g-w-a-r-t-s-l-e-g-a-c-y.png": "Cena do filme Viagem Maldita (2006)"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Remakes de terror de 2006 no Hulu: 'O Presságio' e 'Viagem Maldita'",
+        "_yoast_wpseo_metadesc": "Dois remakes de terror de 2006, 'O Presságio' e 'Viagem Maldita', chegam à Hulu. Um é fiel, o outro é uma obra-prima subestimada do gênero.",
+        "_yoast_wpseo_focuskw": "Remakes de terror 2006 Hulu",
+        "_yoast_news_keywords": "O Presságio, Viagem Maldita, Remake, Terror, Hulu, Richard Donner, Wes Craven",
+        "_yoast_wpseo_opengraph-title": "Remakes de terror de 2006 no Hulu: 'O Presságio' e 'Viagem Maldita'",
+        "_yoast_wpseo_opengraph-description": "Dois remakes de terror de 2006, 'O Presságio' e 'Viagem Maldita', chegam à Hulu. Um é fiel, o outro é uma obra-prima subestimada do gênero.",
+        "_yoast_wpseo_twitter-title": "Remakes de terror de 2006 no Hulu: 'O Presságio' e 'Viagem Maldita'",
+        "_yoast_wpseo_twitter-description": "Dois remakes de terror de 2006, 'O Presságio' e 'Viagem Maldita', chegam à Hulu. Um é fiel, o outro é uma obra-prima subestimada do gênero."
+      }
+    }
+  ]
+}

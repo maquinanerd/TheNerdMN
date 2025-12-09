@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Epic Games: CEO defende uso de IA sem necessidade de divulgação",
+      "conteudo_final": "<p>Tim Sweeney, CEO da Epic Games, questiona a obrigatoriedade de divulgar o uso de inteligência artificial (IA) na produção de jogos na Steam. Segundo ele, a exigência imposta pela plataforma não faz sentido, pois a IA estará presente em quase todas as produções futuras.</p><h2>IA e a Divulgação na Steam</h2><p>A Steam implementou recentemente regras que exigem que desenvolvedores informem se a IA generativa foi utilizada na criação de seus jogos. A medida visa abordar preocupações sobre como a tecnologia utiliza o trabalho de artistas sem permissão, o impacto ambiental e a redução de custos em detrimento da criatividade humana.</p><p>A controvérsia em torno da IA em jogos já se manifestou em títulos como <b>Black Ops 7</b>, com seus cartões de chamada gerados por IA, e <b>Arc Raiders</b>, que utiliza dublagem artificial. Muitos jogadores usam essas divulgações para evitar jogos considerados "sem alma".</p><h2>Críticas à Posição da Epic Games</h2><p>A declaração de Sweeney gerou reações negativas. O compositor Joris de Man comparou a situação com a necessidade de avisos sobre \"gameplay não real\" em trailers, argumentando que os jogadores têm o direito de saber sobre o uso de IA, assim como foram enganados por CGI em excesso no passado.</p><p>Um desenvolvedor de <b>Fortnite</b>, conhecido como @KiriBuilds, questionou se um videogame não seria, em essência, uma \"exibição de arte digital interativa\", onde os jogadores buscam experiências imersivas e bem elaboradas. Ele sugere que o último desejo dos jogadores é ter histórias ou experiências criadas por IA.</p><p>Em fóruns como o r/Steam, jogadores debatem o argumento de Sweeney. Um usuário comentou: \"Se não importa mais, por que é um problema? Você não tem nada a esconder. Conte-nos como a IA está envolvida na produção do seu jogo.\" Outro acrescentou: \"Se você acha que a IA é o futuro, use a tag 'usamos IA para fazer isso' com orgulho e veja suas vendas despencarem.\"</p><p>Alguns jogadores, como u/Vald-Tegor, interpretaram a fala de Sweeney como uma declaração de que os jogos produzidos pela Epic \"NÃO são arte\", uma afirmação que muitos desenvolvedores certamente contestariam.</p><p>Em resposta às críticas, Sweeney usou uma analogia questionável: \"Por que parar no uso de IA? Poderíamos ter divulgações obrigatórias sobre a marca de shampoo que o desenvolvedor usa. Os clientes merecem saber.\" Essa comparação foi vista por um comentarista como mais um motivo para \"ficar longe da Epic\".</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2020/02/Epic-Games-Tim-Sweeney.jpg\" alt=\"Tim Sweeney, CEO da Epic Games, em evento.\"><figcaption>Tim Sweeney, CEO da Epic Games, expressa sua opinião sobre a divulgação de IA em jogos.</figcaption></figure><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/mixcollage-11-nov-2025-02-13-pm-4735.jpg\" alt=\"Tela da plataforma Steam com destaque para a seção de informações de jogos.\"><figcaption>A Steam exige que desenvolvedores informem o uso de IA na produção de seus jogos.</figcaption></figure><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/steamcompanytagpageheader.png\" alt=\"Logo da Steam.\"><figcaption>A política de divulgação de IA da Steam visa aumentar a transparência para os consumidores.</figcaption></figure>",
+      "meta_description": "CEO da Epic Games, Tim Sweeney, critica a obrigatoriedade de divulgar uso de IA na Steam, argumentando que a tecnologia será onipresente na produção de jogos.",
+      "focus_keyphrase": "CEO da Epic Games sobre IA na Steam",
+      "related_keyphrases": [
+        "Tim Sweeney inteligência artificial",
+        "divulgação de IA em jogos",
+        "política da Steam sobre IA"
+      ],
+      "slug": "epic-games-ceo-ia-steam",
+      "categorias": [
+        {
+          "nome": "Inteligência Artificial",
+          "grupo": "tecnologia",
+          "evidence": "IA generativa foi utilizada na criação de seus jogos"
+        },
+        {
+          "nome": "Steam",
+          "grupo": "plataformas",
+          "evidence": "A plataforma Steam"
+        },
+        {
+          "nome": "Epic Games",
+          "grupo": "empresas",
+          "evidence": "Epic Games CEO Tim Sweeney"
+        }
+      ],
+      "tags_sugeridas": [
+        "IA",
+        "Inteligência Artificial",
+        "Epic Games",
+        "Tim Sweeney",
+        "Steam",
+        "Desenvolvimento de Jogos",
+        "Tecnologia"
+      ],
+      "image_alt_texts": {
+        "Epic-Games-Tim-Sweeney.jpg": "Tim Sweeney, CEO da Epic Games, em evento.",
+        "mixcollage-11-nov-2025-02-13-pm-4735.jpg": "Tela da plataforma Steam com destaque para a seção de informações de jogos.",
+        "steamcompanytagpageheader.png": "Logo da Steam."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Epic Games: CEO defende uso de IA sem necessidade de divulgação na Steam",
+        "_yoast_wpseo_metadesc": "CEO da Epic Games, Tim Sweeney, critica a obrigatoriedade de divulgar uso de IA na Steam, argumentando que a tecnologia será onipresente na produção de jogos.",
+        "_yoast_wpseo_focuskw": "CEO da Epic Games sobre IA na Steam",
+        "_yoast_news_keywords": "Epic Games, Tim Sweeney, Steam, Inteligência Artificial, IA, Desenvolvimento de Jogos, Tecnologia",
+        "_yoast_wpseo_opengraph-title": "Epic Games: CEO defende uso de IA sem necessidade de divulgação na Steam",
+        "_yoast_wpseo_opengraph-description": "CEO da Epic Games, Tim Sweeney, critica a obrigatoriedade de divulgar uso de IA na Steam, argumentando que a tecnologia será onipresente na produção de jogos.",
+        "_yoast_wpseo_twitter-title": "Epic Games: CEO defende uso de IA sem necessidade de divulgação na Steam",
+        "_yoast_wpseo_twitter-description": "CEO da Epic Games, Tim Sweeney, critica a obrigatoriedade de divulgar uso de IA na Steam, argumentando que a tecnologia será onipresente na produção de jogos."
+      }
+    }
+  ]
+}

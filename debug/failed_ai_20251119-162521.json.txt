@@ -1,0 +1,151 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Tulsa King: Produção da 4ª temporada começa com mudanças na equipe",
+      "conteudo_final": "<p>A quarta temporada de <b>Tulsa King</b> já iniciou sua produção, mas a série criada por Taylor Sheridan passou por significativas alterações em sua equipe criativa. Lançada em 2022, a produção do Paramount+ estrela Sylvester Stallone como Dwight \"The General\" Manfredi, um ex-condenado que constrói um novo império criminoso em Tulsa, Oklahoma.</p><h2>Mudanças na Equipe de Produção</h2><p>Apesar do sucesso da série, a produção da quarta temporada começou com uma grande reformulação em sua equipe. Cerca de 26 membros da equipe foram demitidos e substituídos uma semana antes do início das filmagens em Atlanta. A produção iniciou sem um showrunner formal.</p><p>A série já teve um histórico instável com showrunners. Diferente de outras produções do Paramount, Sheridan criou <b>Tulsa King</b>, mas nunca atuou como showrunner. Terrence Winter ocupou o cargo na primeira temporada, mas deixou a série antes da segunda. Na ausência de um showrunner oficial na segunda temporada, o produtor e diretor Craig Zisk assumiu grande parte dessas responsabilidades.</p><h2>Showrunner e Conflitos Criativos</h2><p>Dave Erickson assumiu como showrunner na terceira temporada de <b>Tulsa King</b>. No entanto, relatos indicam atritos criativos entre Erickson e Stallone. Agora, Erickson deixou o posto de showrunner, e Winter retorna, mas apenas como roteirista principal e produtor executivo.</p><p>Freddie Poole, coordenador de dublês que foi demitido junto com outros 25 membros da equipe, informou que o estúdio 101 Studios está, na prática, atuando como showrunner. \"Scott Stone [executivo da 101 Studios] disse: 'Não teremos um showrunner. A 101 é a showrunner'. Levantei uma sobrancelha. Foi o sinal para mim. Sabia que era hora de cuidar de mim\", relatou Poole.</p><h2>Impacto das Demissões</h2><p>Os mais de vinte membros da equipe demitidos para a quarta temporada de <b>Tulsa King</b> atuavam em diversos departamentos, incluindo som, transporte, dublês, cabelo e maquiagem. Nenhum dos demitidos possuía contratos para retornar na nova temporada.</p><p>Segundo Poole, a forma como as demissões foram comunicadas poderia ter sido mais profissional. \"A maneira como isso foi feito foi simplesmente não profissional e desnecessária\", comentou. \"Algumas dessas pessoas... foram instruídas a deixar seus equipamentos nos estúdios [após a 3ª temporada] e, uma semana antes das filmagens, foram informadas que não tinham mais emprego. Acho que foi muito desanimador\".</p><h2>Incertezas para a Nova Temporada</h2><p>Embora mudanças na equipe entre temporadas não sejam incomuns, é raro que um executivo de estúdio assuma essencialmente o papel de showrunner. Os motivos por trás dessa reformulação ainda não foram esclarecidos.</p><p>Resta saber como essas mudanças afetarão a quarta temporada de <b>Tulsa King</b>. Um showrunner é fundamental para moldar a direção criativa e a produção diária de uma série, e a ausência dessa figura central levanta questões sobre o futuro dos novos episódios.</p>",
+      "meta_description": "A produção da 4ª temporada de Tulsa King, série com Sylvester Stallone, começa com demissões em massa e mudanças na liderança criativa. Saiba mais.",
+      "focus_keyphrase": "Tulsa King 4ª temporada produção mudanças",
+      "related_keyphrases": [
+        "Taylor Sheridan Tulsa King",
+        "Sylvester Stallone série",
+        "mudanças equipe Tulsa King"
+      ],
+      "slug": "tulsa-king-4-temporada-mudancas-producao",
+      "categorias": [
+        {
+          "nome": "Tulsa King",
+          "grupo": "obras",
+          "evidence": "Tulsa King"
+        },
+        {
+          "nome": "Sylvester Stallone",
+          "grupo": "atores",
+          "evidence": "Sylvester Stallone"
+        },
+        {
+          "nome": "Taylor Sheridan",
+          "grupo": "roteiristas",
+          "evidence": "Taylor Sheridan"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tulsa King",
+        "Sylvester Stallone",
+        "Taylor Sheridan",
+        "Paramount+",
+        "séries de TV"
+      ],
+      "image_alt_texts": {
+        "sylvester-stallone-as-dwight-manfredi-in-tulsa-king-episode-10-season-3.jpg": "Sylvester Stallone como Dwight Manfredi em Tulsa King, com foco na produção da 4ª temporada e mudanças na equipe."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tulsa King: Produção da 4ª temporada começa com mudanças na equipe",
+        "_yoast_wpseo_metadesc": "A produção da 4ª temporada de Tulsa King, série com Sylvester Stallone, começa com demissões em massa e mudanças na liderança criativa. Saiba mais.",
+        "_yoast_wpseo_focuskw": "Tulsa King 4ª temporada produção mudanças",
+        "_yoast_news_keywords": "Tulsa King, Sylvester Stallone, Taylor Sheridan, Paramount+, séries de TV, produção, temporada 4, mudanças equipe",
+        "_yoast_wpseo_opengraph-title": "Tulsa King: Produção da 4ª temporada começa com mudanças na equipe",
+        "_yoast_wpseo_opengraph-description": "A produção da 4ª temporada de Tulsa King, série com Sylvester Stallone, começa com demissões em massa e mudanças na liderança criativa. Saiba mais.",
+        "_yoast_wpseo_twitter-title": "Tulsa King: Produção da 4ª temporada começa com mudanças na equipe",
+        "_yoast_wpseo_twitter-description": "A produção da 4ª temporada de Tulsa King, série com Sylvester Stallone, começa com demissões em massa e mudanças na liderança criativa. Saiba mais."
+      }
+    },
+    {
+      "titulo_final": "Chicago Fire, PD e Med: Nova temporada não tem episódio hoje (19/11)",
+      "conteudo_final": "<p>Os fãs das séries <b>Chicago Fire</b>, <b>Chicago PD</b> e <b>Chicago Med</b> não terão novos episódios nesta terça-feira, 19 de novembro de 2025. As produções do universo One Chicago estão em hiato e não apresentarão capítulos inéditos.</p><h2>Quando Retornam as Séries do One Chicago?</h2><p>A pausa nas exibições é comum nesta época do ano, especialmente em novembro, devido a feriados e à necessidade de produção dos próximos episódios. A expectativa é que as séries retornem com novos capítulos em breve.</p><p>A data exata para o retorno de <b>Chicago Fire</b>, <b>Chicago PD</b> e <b>Chicago Med</b> ainda não foi oficialmente confirmada pela emissora. No entanto, é provável que as séries voltem à programação regular no início de dezembro, seguindo o padrão de anos anteriores.</p><h2>O Que Esperar dos Próximos Episódios?</h2><p>Enquanto aguardam o retorno, os fãs podem rever os episódios anteriores das temporadas atuais. As tramas das três séries prometem continuar a desenvolver os arcos dos personagens e apresentar novos desafios para os bombeiros, policiais e médicos de Chicago.</p><p>A série <b>Chicago Fire</b>, que acompanha o dia a dia dos bombeiros da estação 51, deve explorar ainda mais as relações interpessoais e os dilemas profissionais da equipe. Já <b>Chicago PD</b> tende a focar em investigações complexas e nos conflitos éticos da unidade de inteligência. Por fim, <b>Chicago Med</b> deve apresentar novos casos médicos desafiadores e o desenvolvimento dos personagens no hospital.</p><p>Acompanhe as atualizações para saber quando os novos episódios de <b>Chicago Fire</b>, <b>Chicago PD</b> e <b>Chicago Med</b> serão exibidos.</p>",
+      "meta_description": "Chicago Fire, Chicago PD e Chicago Med não terão episódios inéditos em 19 de novembro de 2025. Saiba quando as séries do universo One Chicago retornam.",
+      "focus_keyphrase": "Chicago Fire PD Med sem episódio hoje",
+      "related_keyphrases": [
+        "One Chicago hiato",
+        "retorno séries Chicago",
+        "episódios Chicago Fire"
+      ],
+      "slug": "chicago-fire-pd-med-hiato-novembro-2025",
+      "categorias": [
+        {
+          "nome": "Chicago Fire",
+          "grupo": "obras",
+          "evidence": "Chicago Fire"
+        },
+        {
+          "nome": "Chicago PD",
+          "grupo": "obras",
+          "evidence": "Chicago PD"
+        },
+        {
+          "nome": "Chicago Med",
+          "grupo": "obras",
+          "evidence": "Chicago Med"
+        }
+      ],
+      "tags_sugeridas": [
+        "Chicago Fire",
+        "Chicago PD",
+        "Chicago Med",
+        "One Chicago",
+        "hiato séries"
+      ],
+      "image_alt_texts": {
+        "placeholder.jpg": "Imagem de divulgação das séries Chicago Fire, Chicago PD e Chicago Med, indicando a pausa na exibição."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Chicago Fire, PD e Med: Nova temporada não tem episódio hoje (19/11)",
+        "_yoast_wpseo_metadesc": "Chicago Fire, Chicago PD e Chicago Med não terão episódios inéditos em 19 de novembro de 2025. Saiba quando as séries do universo One Chicago retornam.",
+        "_yoast_wpseo_focuskw": "Chicago Fire PD Med sem episódio hoje",
+        "_yoast_news_keywords": "Chicago Fire, Chicago PD, Chicago Med, One Chicago, hiato séries, televisão, séries de TV",
+        "_yoast_wpseo_opengraph-title": "Chicago Fire, PD e Med: Nova temporada não tem episódio hoje (19/11)",
+        "_yoast_wpseo_opengraph-description": "Chicago Fire, Chicago PD e Chicago Med não terão episódios inéditos em 19 de novembro de 2025. Saiba quando as séries do universo One Chicago retornam.",
+        "_yoast_wpseo_twitter-title": "Chicago Fire, PD e Med: Nova temporada não tem episódio hoje (19/11)",
+        "_yoast_wpseo_twitter-description": "Chicago Fire, Chicago PD e Chicago Med não terão episódios inéditos em 19 de novembro de 2025. Saiba quando as séries do universo One Chicago retornam."
+      }
+    },
+    {
+      "titulo_final": "Bridgerton 4: Sophie Baek surge como criada em novo teaser",
+      "conteudo_final": "<p>Um novo vislumbre da quarta temporada de <b>Bridgerton</b> revelou Sophie Baek, interesse amoroso de Benedict, vestida como criada. As novas cenas chegam com a aproximação dos próximos episódios, que focarão na história de Benedict, baseada no livro <em>An Offer from a Gentleman</em> de Julia Quinn. A trama explora o romance entre ele e Sophie.</p><h2>Sophie Baek em Novo Teaser</h2><p>A Netflix divulgou um vídeo curto mostrando Sophie em trajes de criada, posicionada entre dois grandes vasos de rosas. O teaser destaca a importância da personagem para os próximos capítulos, mas sem revelar detalhes sobre o desenrolar de sua história com Benedict. O vídeo também reitera as datas de lançamento das duas partes da quarta temporada.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/Hao793pNwg4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><h2>Yerin Ha se Junta ao Elenco</h2><p>Yerin Ha ingressa no elenco de <b>Bridgerton</b> para a quarta temporada, interpretando o interesse amoroso de Benedict ao longo dos oito episódios. Assim como no livro, o casal se conhece em um baile de máscaras, onde Sophie aparece como a Dama de Prata. Sua presença cativa o protagonista, que busca descobrir sua identidade após a conexão.</p><p>Quando Sophie reaparece em seu uniforme de criada, Benedict não a reconhece como a mulher do baile. Isso introduz o conflito central da trama, pois sua busca amorosa, sem que ele saiba, está bem diante de seus olhos. A cena com ela em trajes de criada enfatiza o papel crucial que essa identidade alternativa terá na história da quarta temporada.</p>",
+      "meta_description": "Bridgerton 4: Novo teaser da Netflix revela Sophie Baek, interesse amoroso de Benedict, vestida como criada. Saiba mais sobre a nova temporada.",
+      "focus_keyphrase": "Bridgerton 4 Sophie Baek criada",
+      "related_keyphrases": [
+        "Bridgerton Benedict",
+        "Netflix Bridgerton",
+        "Yerin Ha Bridgerton"
+      ],
+      "slug": "bridgerton-4-sophie-baek-criada-teaser",
+      "categorias": [
+        {
+          "nome": "Bridgerton",
+          "grupo": "obras",
+          "evidence": "Bridgerton"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "Yerin Ha",
+          "grupo": "atores",
+          "evidence": "Yerin Ha"
+        }
+      ],
+      "tags_sugeridas": [
+        "Bridgerton",
+        "Netflix",
+        "Yerin Ha",
+        "Benedict Bridgerton",
+        "séries de época"
+      ],
+      "image_alt_texts": {
+        "placeholder.jpg": "Sophie Baek, interpretada por Yerin Ha, em Bridgerton 4, vestida como criada em novo teaser."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bridgerton 4: Sophie Baek surge como criada em novo teaser",
+        "_yoast_wpseo_metadesc": "Bridgerton 4: Novo teaser da Netflix revela Sophie Baek, interesse amoroso de Benedict, vestida como criada. Saiba mais sobre a nova temporada.",
+        "_yoast_wpseo_focuskw": "Bridgerton 4 Sophie Baek criada",
+        "_yoast_news_keywords": "Bridgerton, Netflix, Yerin Ha, Benedict Bridgerton, séries de época, temporada 4, Sophie Baek",
+        "_yoast_wpseo_opengraph-title": "Bridgerton 4: Sophie Baek surge como criada em novo teaser",
+        "_yoast_wpseo_opengraph-description": "Bridgerton 4: Novo teaser da Netflix revela Sophie Baek, interesse amoroso de Benedict, vestida como criada. Saiba mais sobre a nova temporada.",
+        "_yoast_wpseo_twitter-title": "Bridgerton 4: Sophie Baek surge como criada em novo teaser",
+        "_yoast_wpseo_twitter-description": "Bridgerton 4: Novo teaser da Netflix revela Sophie Baek, interesse amoroso de Benedict, vestida como criada. Saiba mais sobre a nova temporada."
+      }
+    }
+  ]
+}

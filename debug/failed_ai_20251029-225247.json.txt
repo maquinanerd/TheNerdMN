@@ -1,0 +1,46 @@
+{
+  "titulo_final": "Netflix: Comédia 'Nobody Wants This' divide público na 2ª temporada",
+  "conteudo_final": "<p>Quando uma série de televisão de sucesso é renovada, é quase uma garantia de que a nova temporada será um sucesso. Os espectadores estão ansiosos para descobrir o que vem a seguir, e isso geralmente significa que os fãs sintonizarão quando a nova temporada estrear. No entanto, esse entusiasmo nem sempre significa que os fãs estão felizes — e é algo que a <a href=\"https:
+  "meta_description": "A 2ª temporada de Nobody Wants This, comédia da Netflix, é sucesso de audiência, mas divide opiniões do público com críticas mistas sobre o desenvolvimento da trama.",
+  "focus_keyphrase": "Nobody Wants This",
+  "related_keyphrases": [
+    "Nobody Wants This Netflix",
+    "Nobody Wants This 2ª temporada",
+    "Comédia Netflix"
+  ],
+  "slug": "nobody-wants-this-netflix-divisao-publico",
+  "categorias": [
+    {
+      "nome": "Nobody Wants This",
+      "grupo": "obras",
+      "evidence": "A plataforma de streaming Netflix está descobrindo. A comédia Nobody Wants This fez sua estreia para a 2ª temporada na semana passada"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "editorias",
+      "evidence": "Netflix’s Returning Comedy Is an Instant Streaming Success"
+    }
+  ],
+  "tags_sugeridas": [
+    "Nobody Wants This",
+    "Netflix",
+    "Adam Brody",
+    "Kristen Bell",
+    "Comédia Romântica",
+    "Séries Netflix"
+  ],
+  "image_alt_texts": {
+    "netflix-nobody-wants-this.jpg": "Kristen Bell e Adam Brody em Nobody Wants This, série da Netflix.",
+    "nobody-wants-this-netflix.jpg": "Adam Brody e Kristen Bell em cena de Nobody Wants This."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Netflix: Comédia 'Nobody Wants This' divide público na 2ª temporada",
+    "_yoast_wpseo_metadesc": "A 2ª temporada de Nobody Wants This, comédia da Netflix, é sucesso de audiência, mas divide opiniões do público com críticas mistas sobre o desenvolvimento da trama.",
+    "_yoast_wpseo_focuskw": "Nobody Wants This",
+    "_yoast_news_keywords": "Nobody Wants This, Netflix, Adam Brody, Kristen Bell, Comédia Romântica, Séries Netflix",
+    "_yoast_wpseo_opengraph-title": "Netflix: Comédia 'Nobody Wants This' divide público na 2ª temporada",
+    "_yoast_wpseo_opengraph-description": "A 2ª temporada de Nobody Wants This, comédia da Netflix, é sucesso de audiência, mas divide opiniões do público com críticas mistas sobre o desenvolvimento da trama.",
+    "_yoast_wpseo_twitter-title": "Netflix: Comédia 'Nobody Wants This' divide público na 2ª temporada",
+    "_yoast_wpseo_twitter-description": "A 2ª temporada de Nobody Wants This, comédia da Netflix, é sucesso de audiência, mas divide opiniões do público com críticas mistas sobre o desenvolvimento da trama."
+  }
+}

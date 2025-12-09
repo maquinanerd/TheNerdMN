@@ -1,0 +1,61 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Keeper: Exclusivo Xbox tem baixo número de jogadores no Steam",
+      "conteudo_final": "<p>O novo título exclusivo do Xbox, <b>Keeper</b>, desenvolvido pela <b>Double Fine</b>, estúdio responsável por <b>Psychonauts 2</b>, registrou um número modesto de jogadores em seu lançamento no Steam. Menos de 200 jogadores simultâneos foram contabilizados nas primeiras 24 horas.</p>\n\n<h2>Baixa Adoção Inicial no Steam</h2>\n<p>Dados do SteamDB indicam que <b>Keeper</b> atingiu um pico de apenas 191 jogadores simultâneos, com a marca mais baixa caindo para a casa das oitenta. Antes de resetar seu pico, o número anterior girava em torno de 160 jogadores. O jogo está disponível por US$ 29,99, um valor significativamente menor que os padrões atuais de mercado.</p>\n\n<h2>Recepção Positiva, Mas Pouca Visibilidade</h2>\n<p>Apesar da baixa contagem de jogadores, <b>Keeper</b> alcançou uma avaliação "Muito Positiva" no Steam, com 65 reviews. A recepção da crítica também é favorável, com uma média de 78 no Metacritic, baseada em 42 avaliações, indicando um título sólido.</p>\n\n<p>É provável que o jogo tenha uma base de jogadores maior no Xbox Game Pass, onde foi lançado simultaneamente. No entanto, considerando o recente aumento de preços e o cancelamento de assinaturas após a reformulação da marca, o impacto dessa plataforma pode não ser tão expressivo quanto o esperado.</p>\n\n<p>A baixa performance no Steam, somada à aparente falta de marketing por parte da Microsoft, levanta questões sobre a estratégia de lançamento. Resta saber se essa recepção influenciará a <b>Double Fine</b> a reconsiderar sua abordagem de priorizar novas propriedades intelectuais em detrimento de sequências.</p>\n\n<h2>Detalhes do Jogo</h2>\n<p><b>Keeper</b> foi lançado em 17 de outubro de 2025 e é classificado como E para Todos os 10+ (violência fantástica, sangue animado). O jogo é um título single-player, publicado pela <b>Xbox Game Studios</b>.</p>\n\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/10/screenshot-2025-10-18-at-1-27-04-pm.png\" alt=\"Tela do jogo Keeper com ambiente explorável.\"><figcaption>Gameplay de Keeper, mostrando um dos cenários do jogo.</figcaption></figure>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/keeper-double-fine-press-image-4.jpg\" alt=\"Imagem promocional do jogo Keeper, com personagem principal em destaque.\"><figcaption>Personagem principal de Keeper em arte promocional.</figcaption></figure>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/keeper-landscape-cropped-1.jpg\" alt=\"Cenário amplo do jogo Keeper.\"><figcaption>Paisagem de Keeper com elementos visuais atmosféricos.</figcaption></figure>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/keeper-lighthouse-bird-cropped.jpg\" alt=\"Cena específica do jogo Keeper com pássaro.\"><figcaption>Um dos cenários de Keeper com elementos de natureza.</figcaption></figure>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/keeper-lighthouse-cave-cropped.jpg\" alt=\"Interior de uma caverna no jogo Keeper.\"><figcaption>Exploração em uma caverna em Keeper.</figcaption></figure>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/keeper-lighthouse-cropped.jpg\" alt=\"Farol em destaque no jogo Keeper.\"><figcaption>Elemento de cenário de Keeper: um farol.</figcaption></figure>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/keeper-tag-page-cover-art.jpg\" alt=\"Arte da capa do jogo Keeper.\"><figcaption>Arte oficial de capa do jogo Keeper.</figcaption></figure>",
+      "meta_description": "O exclusivo Xbox Keeper, da Double Fine, estreia no Steam com menos de 200 jogadores simultâneos, apesar de avaliações positivas.",
+      "focus_keyphrase": "Keeper Xbox exclusivo Steam",
+      "related_keyphrases": [
+        "Keeper Double Fine",
+        "jogadores Keeper Steam",
+        "lançamento Keeper Xbox"
+      ],
+      "slug": "keeper-exclusivo-xbox-baixo-steam",
+      "categorias": [
+        {
+          "nome": "Keeper",
+          "grupo": "obras",
+          "evidence": "It's called Keeper."
+        },
+        {
+          "nome": "Xbox",
+          "grupo": "franquias",
+          "evidence": "another Xbox exclusive on the market."
+        },
+        {
+          "nome": "Double Fine",
+          "grupo": "editorias",
+          "evidence": "It's developed by Double Fine"
+        }
+      ],
+      "tags_sugeridas": [
+        "Keeper",
+        "Xbox",
+        "Double Fine",
+        "Steam",
+        "Game Pass",
+        "Jogos Exclusivos",
+        "Microsoft"
+      ],
+      "image_alt_texts": {
+        "screenshot-2025-10-18-at-1-27-04-pm.png": "Tela do jogo Keeper com ambiente explorável.",
+        "keeper-double-fine-press-image-4.jpg": "Imagem promocional do jogo Keeper, com personagem principal em destaque.",
+        "keeper-landscape-cropped-1.jpg": "Cenário amplo do jogo Keeper.",
+        "keeper-lighthouse-bird-cropped.jpg": "Cena específica do jogo Keeper com pássaro.",
+        "keeper-lighthouse-cave-cropped.jpg": "Interior de uma caverna no jogo Keeper.",
+        "keeper-lighthouse-cropped.jpg": "Farol em destaque no jogo Keeper.",
+        "keeper-tag-page-cover-art.jpg": "Arte da capa do jogo Keeper."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Keeper: Exclusivo Xbox tem baixo número de jogadores no Steam",
+        "_yoast_wpseo_metadesc": "O exclusivo Xbox Keeper, da Double Fine, estreia no Steam com menos de 200 jogadores simultâneos, apesar de avaliações positivas.",
+        "_yoast_wpseo_focuskw": "Keeper Xbox exclusivo Steam",
+        "_yoast_news_keywords": "Keeper, Xbox, Double Fine, Steam, Game Pass, Microsoft, Jogos",
+        "_yoast_wpseo_opengraph-title": "Keeper: Exclusivo Xbox tem baixo número de jogadores no Steam",
+        "_yoast_wpseo_opengraph-description": "O exclusivo Xbox Keeper, da Double Fine, estreia no Steam com menos de 200 jogadores simultâneos, apesar de avaliações positivas.",
+        "_yoast_wpseo_twitter-title": "Keeper: Exclusivo Xbox tem baixo número de jogadores no Steam",
+        "_yoast_wpseo_twitter-description": "O exclusivo Xbox Keeper, da Double Fine, estreia no Steam com menos de 200 jogadores simultâneos, apesar de avaliações positivas."
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Station Eleven: Minissérie da HBO com 98% no Rotten Tomatoes para assistir",
+      "conteudo_final": "<p>O cenário de streaming está repleto de séries de ficção científica de prestígio, e devido a essa saturação, poucas conseguem realmente penetrar o zeitgeist. No entanto, se você procurar, encontrará muitas séries excelentes que passaram despercebidas. Uma dessas joias escondidas da HBO parece ter sido amplamente ignorada na conversa cultural, apesar de ter obtido uma pontuação quase perfeita no Rotten Tomatoes.</p><h2>HBO Max: 'Station Eleven' é uma joia esquecida</h2><p><i>Station Eleven</i> é baseada no romance de Emily St. John Mandel de 2014. Adaptada por Patrick Somerville, a minissérie de ficção científica estreou na HBO Max com uma temporada limitada de 10 episódios em dezembro de 2021. No agregador de críticas <a href=\"https:
+      "meta_description": "Descubra Station Eleven, a minissérie de ficção científica da HBO Max com 98% de aprovação no Rotten Tomatoes que você não pode perder.",
+      "focus_keyphrase": "Station Eleven",
+      "related_keyphrases": [
+        "Minissérie HBO Max",
+        "Ficção científica pós-apocalíptica",
+        "Station Eleven Rotten Tomatoes"
+      ],
+      "slug": "station-eleven-hbo-max-miniserie",
+      "categorias": [
+        {
+          "nome": "Station Eleven",
+          "grupo": "obras",
+          "evidence": "Station Eleven é baseada no romance de Emily St. John Mandel de 2014."
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "editorias",
+          "evidence": "A minissérie estreou na HBO Max"
+        }
+      ],
+      "tags_sugeridas": [
+        "Station Eleven",
+        "HBO Max",
+        "Ficção Científica",
+        "Minissérie",
+        "Patrick Somerville",
+        "Mackenzie Davis",
+        "Himesh Patel"
+      ],
+      "image_alt_texts": {
+        "Mackenzie-Davis-in-Station-Eleven.jpg": "Mackenzie Davis como Kirsten Raymonde na minissérie Station Eleven da HBO Max.",
+        "Ex-Machina.jpg": "Cena da minissérie Station Eleven, focando em um grupo de sobreviventes.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Grupo de sobreviventes em uma paisagem pós-apocalíptica da série Station Eleven.",
+        "PlayStation-Plus-Stray.jpg": "Representação artística da Traveling Symphony em Station Eleven.",
+        "netflix-a-house-of-dynamite.jpg": "Uma das apresentações da Traveling Symphony em Station Eleven.",
+        "nightfall-movie.jpg": "Cena de confronto em Station Eleven.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_45a3c5.png": "Os protagonistas de Station Eleven interagindo em um assentamento."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Station Eleven: Minissérie da HBO com 98% no Rotten Tomatoes para assistir",
+        "_yoast_wpseo_metadesc": "Descubra Station Eleven, a minissérie de ficção científica da HBO Max com 98% de aprovação no Rotten Tomatoes que você não pode perder.",
+        "_yoast_wpseo_focuskw": "Station Eleven",
+        "_yoast_news_keywords": "Station Eleven, HBO Max, Minissérie, Ficção Científica, Patrick Somerville, Mackenzie Davis, Himesh Patel, Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-title": "Station Eleven: Minissérie da HBO com 98% no Rotten Tomatoes para assistir",
+        "_yoast_wpseo_opengraph-description": "Descubra Station Eleven, a minissérie de ficção científica da HBO Max com 98% de aprovação no Rotten Tomatoes que você não pode perder.",
+        "_yoast_wpseo_twitter-title": "Station Eleven: Minissérie da HBO com 98% no Rotten Tomatoes para assistir",
+        "_yoast_wpseo_twitter-description": "Descubra Station Eleven, a minissérie de ficção científica da HBO Max com 98% de aprovação no Rotten Tomatoes que você não pode perder."
+      }
+    }
+  ]
+}

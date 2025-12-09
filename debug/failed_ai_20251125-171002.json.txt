@@ -1,0 +1,112 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Heated Rivalry: Série de romance queer chega à HBO Max em novembro",
+      "conteudo_final": "<p>A nova série da HBO, <strong><em>Heated Rivalry</em></strong>, adapta a obra de Rachel Reid e segue uma tendência crescente em dramas de prestígio. A produção canadense acompanha Hudson Williams como Shane Hollander e Connor Storrie como Ilya Rozanov, dois jogadores de hóquei rivais no gelo, que desenvolvem um romance fora das quadras. A série de romance promete explorar o universo dos livros de uma maneira inovadora.</p><p>Apesar de algumas críticas aos romances de Reid, o burburinho em torno de <em>Heated Rivalry</em> tem sido imenso desde o início do projeto. Com a série retratando uma rivalidade fictícia entre jogadores russos e canadenses, os espectadores esperam que a produção traga a rica história do hóquei para a tela, ao mesmo tempo em que explora os elementos românticos da popular série de livros.</p><p>Ao trazer um romance queer com temática esportiva para o centro das atenções, <em>Heated Rivalry</em> gera altas expectativas. A escolha da HBO Max para exibir a série marca mais uma vitória para aqueles que acompanham a crescente presença de romances queer no mainstream. Explorando um relacionamento encantadoramente complexo, <em>Heated Rivalry</em> promete entregar uma experiência envolvente.</p><h2>HBO Max exibirá romance esportivo canadense Heated Rivalry nos EUA</h2><h3>A série é uma produção canadense</h3><p>Embora <em>Heated Rivalry</em> vá ao ar no Crave, no Canadá, a série não parecia ter um plano de distribuição nos EUA até as últimas semanas. Com o crescente interesse em torno da produção, especialmente na comunidade do hóquei, e a proximidade de seu lançamento em 30 de novembro, o anúncio de que <em>Heated Rivalry</em> seria exibida na HBO Max nos EUA e Austrália, juntamente com o lançamento no Crave, foi recebido com entusiasmo.</p><p>A história, desenvolvida para a tela por Jacob Tierney, criador de <em>Letterkenny</em>, tem todos os elementos para ser um romance épico, um drama esportivo e um comentário sobre a fama, tudo em um pacote empolgante. Com os espectadores americanos agora tendo a chance de mergulhar na série junto com os canadenses, <em>Heated Rivalry</em> poderá alcançar seu público em escala global.</p><h2>Plataformas de prestígio buscam histórias de gênero com elementos queer</h2><h3>Plataformas focam em conteúdo de gênero com elementos queer</h3><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/heated-rivalry.jpg?q=49&fit=crop&w=825&dpr=2" alt="Heated Rivalry"/><figcaption>A série Heated Rivalry explora um romance queer no mundo do hóquei.</figcaption></figure><p>À medida que os espectadores se preparam para um romance queer arrebatador em <em>Heated Rivalry</em>, fica claro que as plataformas de streaming estão concentrando seus esforços no desenvolvimento de conteúdo de gênero de todos os estilos, apresentando relacionamentos queer, em vez de priorizar os próprios relacionamentos. Embora <em>Heated Rivalry</em> seja um romance em sua essência, o cenário do hóquei que envolve a história é uma peça importante do quebra-cabeça.</p><p><em>Heated Rivalry</em> é apenas uma das várias séries que optaram por construir um romance queer dentro de uma peça de gênero, em vez de fazer do romance queer o aspecto mais importante da narrativa de uma série. Normalizar relacionamentos queer na mídia significa escolher histórias que tenham múltiplos pontos de conexão. <em>Heated Rivalry</em> será um romance em primeiro lugar, sim, mas seu pano de fundo no hóquei servirá a um propósito maior.</p>",
+      "meta_description": "Heated Rivalry, série de romance queer baseada em livros, chega à HBO Max em novembro, prometendo uma mistura de esporte e drama.",
+      "focus_keyphrase": "Heated Rivalry série HBO Max",
+      "related_keyphrases": [
+        "romance queer esportivo",
+        "série de TV Heated Rivalry",
+        "drama esportivo HBO"
+      ],
+      "slug": "heated-rivalry-serie-hbo-max",
+      "categorias": [
+        {
+          "nome": "Heated Rivalry",
+          "grupo": "obras",
+          "evidence": "HBO's newest series, <strong><em>Heated Rivalry</em></strong>, will adapt the <em>Game Changers</em> series by Rachel Reid"
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "plataformas",
+          "evidence": "HBO Max's choice to pick up the series marks another win"
+        },
+        {
+          "nome": "Crave",
+          "grupo": "plataformas",
+          "evidence": "While <em>Heated Rivalry</em> will air on Crave in Canada"
+        }
+      ],
+      "tags_sugeridas": [
+        "Heated Rivalry",
+        "HBO Max",
+        "Crave",
+        "Rachel Reid",
+        "romance queer",
+        "série de TV"
+      ],
+      "image_alt_texts": {
+        "heated-rivalry.jpg": "Imagem promocional da série Heated Rivalry, mostrando um dos protagonistas."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Heated Rivalry: Série de romance queer chega à HBO Max em novembro",
+        "_yoast_wpseo_metadesc": "Heated Rivalry, série de romance queer baseada em livros, chega à HBO Max em novembro, prometendo uma mistura de esporte e drama.",
+        "_yoast_wpseo_focuskw": "Heated Rivalry série HBO Max",
+        "_yoast_news_keywords": "Heated Rivalry, HBO Max, Crave, Rachel Reid, romance queer, série de TV, drama esportivo",
+        "_yoast_wpseo_opengraph-title": "Heated Rivalry: Série de romance queer chega à HBO Max em novembro",
+        "_yoast_wpseo_opengraph-description": "Heated Rivalry, série de romance queer baseada em livros, chega à HBO Max em novembro, prometendo uma mistura de esporte e drama.",
+        "_yoast_wpseo_twitter-title": "Heated Rivalry: Série de romance queer chega à HBO Max em novembro",
+        "_yoast_wpseo_twitter-description": "Heated Rivalry, série de romance queer baseada em livros, chega à HBO Max em novembro, prometendo uma mistura de esporte e drama."
+      }
+    },
+    {
+      "titulo_final": "Prime Video: Os 8 melhores thrillers de suspense disponíveis",
+      "conteudo_final": "<p>Embora o Prime Video nem sempre tenha sido a primeira opção para thrillers, o serviço de streaming provou seu valor com sucessos como a adaptação de Lee Child, <strong><em>Reacher</em></strong>. Algumas das melhores séries de suspense do Prime Video foram esquecidas logo após seu lançamento, apesar das críticas estelares. No entanto, isso não impediu o serviço de streaming de continuar investindo no gênero.</p><p>O Prime Video lançou uma ampla gama de thrillers desde o início do serviço, desde adaptações procedurais de séries de romances policiais cult até thrillers psicológicos. Muitas das melhores séries de suspense do serviço de streaming são adaptadas de livros, mas algumas são títulos originais, como o subestimado thriller psicológico de Donald Glover em 2023, <em>Swarm</em>.</p><p>Apesar de suas diferenças tonais, uma coisa que todos esses programas têm em comum é a capacidade de prender o espectador. Imprevisíveis, inteligentes e envolventes, esses oito thrillers representam o melhor que o Prime Video tem a oferecer no gênero. O Netflix pode ter adaptações de obras-primas como <em>Ripley</em> (2024), mas o Prime Video compete com seus próprios clássicos do suspense.</p><h2>8. The Girlfriend</h2><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/olivia-cooke-s-character-looks-perturbed-in-a-bedroom-from-the-girlfriend.jpeg?q=49&fit=crop&w=825&dpr=2" alt="Olivia Cooke's character looks perturbed in a bedroom from The Girlfriend"/><figcaption>Olivia Cooke em uma cena de The Girlfriend.</figcaption></figure><p>Baseado no romance homônimo de Michelle Frances de 2018, <em>The Girlfriend</em> (2025) estrela Olivia Cooke como Cherry, uma jovem que se vê envolvida em mais do que esperava ao começar a namorar um homem rico e privilegiado. Apesar da relação desarmadoramente próxima dele com a mãe, ele parece ser o par perfeito para Cherry.</p><p>No entanto, à medida que a personagem de Cooke começa a investigar, ela desenterra verdades sombrias entre o filho e a mãe, enquanto a mãe do namorado também obtém informações indesejadas sobre o passado de Cherry. Cooke, estrela de <em>House of the Dragon</em>, se destaca perfeitamente neste thriller melodramático e divertido, onde as reviravoltas acontecem de forma rápida e frequente.</p><p>Ao final de <em>The Girlfriend</em>, seria difícil para até mesmo o fã de suspense mais experiente afirmar que previu a reviravolta final. Exagerado, inventivo e puramente divertido, <em>The Girlfriend</em> está entre os clássicos de suspense psicológico, como <em>The Hunting Wives</em> do Netflix e os filmes de <em>A Simple Favor</em>.</p><h2>7. The Rig</h2><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/emily-hampshire-as-rose-in-the-rig-season-2-episode-6-2.jpg?q=70&fit=crop&w=825&dpr=1" alt="Emily Hampshire as Rose in The Rig season 2 episode 6-2"/><figcaption>Emily Hampshire em uma cena da série The Rig.</figcaption></figure><p>Enquanto <em>The Girlfriend</em> é leve e um pouco bobo, <em>The Rig</em> é um thriller muito mais sombrio e sério. Estrelado por Emily Hampshire, de <em>Schitt’s Creek</em>, e Iain Glen, ator coadjuvante de <em>Game of Thrones</em>, <em>The Rig</em> se passa na plataforma de petróleo offshore que dá nome à série, onde um grupo de trabalhadores adoece após uma névoa misteriosa descer sobre seu lar remoto.</p><p>Antes que os espectadores possam dizer “O Nevoeiro de John Carpenter” ou “O Nevoeiro de Stephen King”, esses azarados trabalhadores percebem que desenterraram acidentalmente algo indizível durante sua perfuração. O que se segue é um thriller sobrenatural desconcertante que mistura horror, suspense e drama de personagens enquanto os heróis tentam conter o mal antigo que seu trabalho desencadeou.</p><h2>6. We Were Liars</h2><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/hbo-s-canceled-teen-drama-is-even-more-disappointing-after-watching-prime-video-s-new-summer-thriller.jpg?q=49&fit=crop&w=825&dpr=2" alt="Emily Alyn Lind holding an envelope in We Were Liars"/><figcaption>Emily Alyn Lind em We Were Liars.</figcaption></figure><p>Se o final de <em>The Girlfriend</em> é surpreendente, então a reviravolta de partir o coração de <em>We Were Liars</em> é verdadeiramente deslumbrante. O romance de E. Lockhart, que serve de base para esta série, quebrou o coração de milhões quando <em>We Were Liars</em> foi publicado pela primeira vez em 2014.</p><p>No entanto, levou uma década inteira para que essa história cheia de reviravoltas sobre mágoa, privilégio e engano chegasse à pequena tela. <em>We Were Liars</em> foca na ensolarada e aparentemente perfeita família Sinclair e em suas férias anuais em uma ilha particular. Cadence é sua filha adolescente desiludida que anseia por mais do que essa existência protegida e privilegiada.</p><p>As amigas de Cady parecem oferecer uma fuga, mas a verdade da história se revela muito mais complicada e trágica na chocante reviravolta final de <em>We Were Liars</em>. Engenhosa em seu enredo, <em>We Were Liars</em> é mais do que apenas um ótimo final. No entanto, a série de suspense é merecidamente famosa por sua audaciosa revelação de última hora.</p><h2>5. Swarm</h2><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/03/dominique-fishback-as-andrea-dre-greene-in-swarm-episode-1.jpg?q=70&fit=crop&w=825&dpr=1" alt="Dominique Fishback as Andrea “Dre” Greene in Swarm episode 1"/><figcaption>Dominique Fishback como Dre em Swarm.</figcaption></figure><p>Lançado em 2023, <em>Swarm</em> nunca recebeu o mesmo reconhecimento que a série anterior do criador Donald Glover, <em>Atlanta</em>. Isso foi uma pena, pois a sátira afiada da cultura de fãs obsessivos foi ao mesmo tempo oportuna e cortante, e a estrela Dominique Fishback entregou o melhor trabalho de sua carreira como a anti-heroína desiludida da série, Dre. Uma fã obcecada por uma estrela pop, Dre é fria e aterrorizante.</p><p>No entanto, ela também é surpreendentemente humana e, à medida que a história de Swarm se torna mais absurda e sombria, ocasionalmente simpática. Dre pode ter sido a responsável por arruinar sua própria vida em busca de algum reconhecimento de sua ídola, mas Fishback resiste à tentação de transformá-la em uma caricatura e, em vez disso, encontra a patologia enterrada em sua personagem.</p><h2>4. Ballard</h2><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/maggie-q-in-ballard-on-the-beach.jpg?q=70&fit=crop&w=825&dpr=1" alt="Ballard (Maggie Q) in Ballard on the beach"/><figcaption>Maggie Q como a detetive Ballard.</figcaption></figure><p>Pode parecer um pouco cedo para chamar <em>Ballard</em> de um dos melhores thrillers do Prime Video, já que a série estreou apenas em julho de 2025. No entanto, fica claro que o serviço de streaming tem um sucesso em mãos com esta produção e, ao contrário do final surreal de <em>Swarm</em>, a primeira temporada de <em>Ballard</em> deixou os espectadores sem dúvidas sobre o futuro da série.</p><p>Estrelado por Maggie Q como a detetive titular, <em>Ballard</em> é baseado nos livros de Renee Ballard por Michael Connelly. Um spin-off de <em>Bosch</em> e <em>Bosch: Legacy</em>, este drama policial acompanha as tentativas de Ballard de reformar a divisão de casos arquivados do LAPD. Inteligente, ágil e cheia de reviravoltas, esta é uma série imperdível para fãs de procedurais.</p><h2>3. Cross</h2><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/aldis-hodge-s-alex-looking-upset-when-stepping-out-of-a-moving-truck-in-cross-season-2.jpg?q=49&fit=crop&w=825&dpr=2" alt="Aldis Hodge's Alex looking upset when stepping out of a moving truck in Cross season 2"/><figcaption>Aldis Hodge como Alex em Cross.</figcaption></figure><p>Baseado nos romances de Alex Cross, de James Patterson, <em>Cross</em> estrela Aldis Hodge como o detetive de homicídios titular. Atormentado pelo assassinato de sua esposa, Cross passa a primeira temporada lutando para equilibrar sua vida profissional e pessoal e manter seu temperamento famoso sob controle.</p><p>Embora o final da primeira temporada de <em>Cross</em> tenha sido uma conclusão satisfatória, os fãs ficarão aliviados ao saber que este procedural receberá uma segunda temporada em 2026. A chegada da segunda temporada de <em>Cross</em> será emocionante para os fãs de Patterson, que estão ansiosos para ver o detetive de Hodge de volta à ação.</p><h2>2. The Devil’s Hour</h2><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/04/gideon-peter-capaldi-looking-shocked-in-the-devil-s-hour.jpg?q=70&fit=crop&w=825&dpr=1" alt="Gideon (Peter Capaldi) looking shocked in The Devil's Hour."/><figcaption>Peter Capaldi em The Devil's Hour.</figcaption></figure><p>Escrito por Tom Moran, <em>The Devil’s Hour</em> estrela o ex-Doctor Who Peter Capaldi como Gideon Shepherd, um criminoso com um dom sombrio. Alegando que pode prever o futuro, Shepherd ajuda a assistente social Lucy Chambers a rastrear o culpado por trás de uma série de assassinatos brutais que assolaram sua cidade natal.</p><p>Cheia de reviravoltas, original e imbuída de um sutil senso de pavor sobrenatural, <em>The Devil’s Hour</em> é o título mais perturbador desta lista. No entanto, ainda é um thriller que os espectadores precisam ver pelo menos duas vezes, uma para absorver sua atmosfera arrepiante e outra para ver como os fios engenhosos de seu enredo se unem quando a verdade é finalmente revelada em seu final cheio de reviravoltas.</p><h2>1. Reacher</h2><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/alan-ritchson-as-reacher-looking-unimpressed.jpg?q=49&fit=crop&w=825&dpr=2" alt="Alan Ritchson as Reacher looking unimpressed"/><figcaption>Alan Ritchson como Reacher.</figcaption></figure><p><em>Reacher</em>, <em>Ballard</em> e <em>Cross</em> são baseados em diferentes séries de livros, e os thrillers do Prime Video provam que procedurais podem ter sucesso no streaming, desde que adaptem uma série de romances de longa data de um autor best-seller. Dito isso, <em>Reacher</em> é o destaque claro entre esses títulos populares, tão amado quanto <em>Ballard</em> e <em>Cross</em>.</p><p>Enquanto o maior fracasso de suspense do Prime Video, <em>Citadel</em>, foi um desastre, o caro thriller de espionagem prova que apostar em uma propriedade cult existente pode ser uma decisão mais inteligente do que financiar uma série de suspense original. Afinal, o <em>Reacher</em>, com orçamento mais modesto, provou ser um sucesso no mesmo ano. 2022 provou que um orçamento limitado não prejudicou a audiência massiva de <em>Reacher</em>.</p><p><em>Citadel</em> também foi um raro thriller do Prime Video que não foi baseado em uma série de livros já popular, ao contrário de <em>Ballard</em>, <em>Cross</em> e <em>Reacher</em>. Em contraste, a adaptação do Prime Video da série de romances fenomenalmente popular de Lee Child conseguiu o impressionante feito de manter os fãs de livros existentes felizes e atrair novos seguidores para a franquia, tornando <em><strong>Reacher</strong></em> o thriller mais popular do serviço de streaming até hoje.</p>",
+      "meta_description": "Descubra os 8 melhores thrillers disponíveis no Prime Video, incluindo Reacher, The Devil's Hour e Swarm. Veja a lista completa!",
+      "focus_keyphrase": "melhores thrillers Prime Video",
+      "related_keyphrases": [
+        "séries de suspense Prime Video",
+        "Reacher Prime Video",
+        "thrillers psicológicos Amazon"
+      ],
+      "slug": "melhores-thrillers-prime-video",
+      "categorias": [
+        {
+          "nome": "Prime Video",
+          "grupo": "plataformas",
+          "evidence": "While Prime Video hasn’t always been the first port of call for thrillers"
+        },
+        {
+          "nome": "Reacher",
+          "grupo": "obras",
+          "evidence": "the Lee Child adaptation <a href=\"https://screenrant.com/db/tv-show/reacher/\" target=\"_blank\"><em><strong>Reacher</strong></em></a>."
+        },
+        {
+          "nome": "Swarm",
+          "grupo": "obras",
+          "evidence": "Donald Glover’s underrated 2023 psychological thriller <em>Swarm</em>."
+        }
+      ],
+      "tags_sugeridas": [
+        "Prime Video",
+        "Reacher",
+        "The Devil's Hour",
+        "Swarm",
+        "Ballard",
+        "Cross",
+        "thriller"
+      ],
+      "image_alt_texts": {
+        "olivia-cooke-s-character-looks-perturbed-in-a-bedroom-from-the-girlfriend.jpeg": "Olivia Cooke em The Girlfriend, série de suspense do Prime Video.",
+        "emily-hampshire-as-rose-in-the-rig-season-2-episode-6-2.jpg": "Emily Hampshire em The Rig, série de suspense do Prime Video.",
+        "hbo-s-canceled-teen-drama-is-even-more-disappointing-after-watching-prime-video-s-new-summer-thriller.jpg": "Emily Alyn Lind em We Were Liars, série de suspense do Prime Video.",
+        "dominique-fishback-as-andrea-dre-greene-in-swarm-episode-1.jpg": "Dominique Fishback como Dre em Swarm, série de suspense do Prime Video.",
+        "maggie-q-in-ballard-on-the-beach.jpg": "Maggie Q como Ballard em Ballard, série de suspense do Prime Video.",
+        "aldis-hodge-s-alex-looking-upset-when-stepping-out-of-a-moving-truck-in-cross-season-2.jpg": "Aldis Hodge como Alex em Cross, série de suspense do Prime Video.",
+        "gideon-peter-capaldi-looking-shocked-in-the-devil-s-hour.jpg": "Peter Capaldi em The Devil's Hour, série de suspense do Prime Video.",
+        "alan-ritchson-as-reacher-looking-unimpressed.jpg": "Alan Ritchson como Reacher em Reacher, série de suspense do Prime Video."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Prime Video: Os 8 melhores thrillers de suspense disponíveis",
+        "_yoast_wpseo_metadesc": "Descubra os 8 melhores thrillers disponíveis no Prime Video, incluindo Reacher, The Devil's Hour e Swarm. Veja a lista completa!",
+        "_yoast_wpseo_focuskw": "melhores thrillers Prime Video",
+        "_yoast_news_keywords": "Prime Video, Reacher, The Devil's Hour, Swarm, Ballard, Cross, thriller, séries de suspense, suspense psicológico",
+        "_yoast_wpseo_opengraph-title": "Prime Video: Os 8 melhores thrillers de suspense disponíveis",
+        "_yoast_wpseo_opengraph-description": "Descubra os 8 melhores thrillers disponíveis no Prime Video, incluindo Reacher, The Devil's Hour e Swarm. Veja a lista completa!",
+        "_yoast_wpseo_twitter-title": "Prime Video: Os 8 melhores thrillers de suspense disponíveis",
+        "_yoast_wpseo_twitter-description": "Descubra os 8 melhores thrillers disponíveis no Prime Video, incluindo Reacher, The Devil's Hour e Swarm. Veja a lista completa!"
+      }
+    }
+  ]
+}

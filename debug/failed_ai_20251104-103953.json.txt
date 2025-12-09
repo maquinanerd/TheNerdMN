@@ -1,0 +1,105 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "We Were Liars: Autora revela detalhes da 2ª temporada e spin-off",
+      "conteudo_final": "<p>A adaptação de <em><strong>We Were Liars</strong></em>, do Prime Video, foi confirmada para a segunda temporada. A autora E. Lockhart revelou detalhes sobre a produção e um spin-off em desenvolvimento.</p><h2>Novo Livro e Expansão do Universo</h2><p>O livro <em>We Fell Apart: A We Were Liars Novel</em>, com novos personagens e mistérios, será lançado hoje (4 de novembro). Inicialmente concebido como um livro independente, Lockhart explicou que a imersão no universo da série de TV levou à sua integração:</p><blockquote><p>\"Eu estava realmente imersa no mundo de <em>We Were Liars</em>. Estávamos escalando atores e filmando enquanto eu finalizava este livro, e cada vez mais, <strong>o mundo de <em>We Were Liars</em> estava se infiltrando em <em>We Fell Apart</em>, a ponto de eu pensar: 'Oh, este é realmente um livro no mesmo universo'</strong>. Então, começou como um livro independente e se tornou um livro no mesmo universo.\"</p></blockquote><p><em>We Were Liars</em>, lançado originalmente em 2014, tornou-se um fenômeno viral e foi posteriormente adaptado para o Prime Video.</p><h2>Enredo e Personagens da Série</h2><p>A série de TV, lançada este ano, acompanha <strong>Cadence Sinclair (interpretada por Emily Alyn Lind) enquanto ela enfrenta a realidade de um acidente que despedaçou os Sinclairs</strong>. Todos, incluindo seus amigos Johnny (Joseph Zada), Gat (Shubham Maheshwari) e Mirren (Esther McGregor), parecem esconder algo mais profundo.</p><p>A segunda temporada de <em>We Were Liars</em> deve adaptar o romance prequel, <em>Family of Liars</em>, além de <em>We Fell Apart</em>, focando mais nas irmãs Sinclair, especialmente em seus papéis como mães.</p><p>No final da primeira temporada, vimos a mãe de Johnny, Carrie (Mamie Gummer), se dirigir ao fantasma dele, de forma semelhante a como Cadence foi vista ao longo da temporada. Isso pode sugerir o retorno de Johnny e um olhar mais aprofundado sobre como o trágico acidente impactou cada um deles.</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Bess, Carrie, and Penny in the kitchen in We Were Liars" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Prime Video's We Were Liars</figcaption></figure><h2>Produção e Elenco da Segunda Temporada</h2><p>Lockhart confirmou que não pode revelar muito sobre o progresso da produção da segunda temporada, mas afirmou que "<em>a nova temporada incorporará a história de Family of Liars, e ao mesmo tempo, sei que os showrunners têm várias cartas na manga para que as pessoas que leram Family of Liars ainda se surpreendam</em>".</p> <p>A autora também confirmou o retorno de Caitlin Fitzgerald, Candice King, Mamie Gummer, David Morse, Joseph Zada e Emily Alyn Lind para a segunda temporada. A primeira temporada de <em>We Were Liars</em> recebeu 60% no Rotten Tomatoes, mas permaneceu entre as 10 séries de TV mais populares nos EUA por vários meses após seu lançamento.</p>",
+      "meta_description": "A série We Were Liars do Prime Video ganha segunda temporada. Autora E. Lockhart revela detalhes sobre o spin-off e o futuro da trama.",
+      "focus_keyphrase": "We Were Liars segunda temporada",
+      "related_keyphrases": [
+        "We Were Liars spin-off",
+        "E. Lockhart We Were Liars",
+        "Prime Video We Were Liars"
+      ],
+      "slug": "we-were-liars-temporada-2-spin-off",
+      "categorias": [
+        {
+          "nome": "We Were Liars",
+          "grupo": "obras",
+          "evidence": "Prime Video’s We Were Liars YA adaptation has been greenlit for season 2"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "plataformas",
+          "evidence": "Prime Video’s We Were Liars YA adaptation has been greenlit for season 2"
+        }
+      ],
+      "tags_sugeridas": [
+        "We Were Liars",
+        "Prime Video",
+        "E. Lockhart",
+        "We Fell Apart",
+        "Cadence Sinclair"
+      ],
+      "image_alt_texts": {
+        "bess-carrie-and-penny-in-the-kitchen-in-we-were-liars.jpg": "Bess, Carrie e Penny na cozinha da série We Were Liars do Prime Video."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "We Were Liars: Autora revela detalhes da 2ª temporada e spin-off",
+        "_yoast_wpseo_metadesc": "A série We Were Liars do Prime Video ganha segunda temporada. Autora E. Lockhart revela detalhes sobre o spin-off e o futuro da trama.",
+        "_yoast_wpseo_focuskw": "We Were Liars segunda temporada",
+        "_yoast_news_keywords": "We Were Liars, Prime Video, E. Lockhart, We Fell Apart, Cadence Sinclair, série de TV",
+        "_yoast_wpseo_opengraph-title": "We Were Liars: Autora revela detalhes da 2ª temporada e spin-off",
+        "_yoast_wpseo_opengraph-description": "A série We Were Liars do Prime Video ganha segunda temporada. Autora E. Lockhart revela detalhes sobre o spin-off e o futuro da trama.",
+        "_yoast_wpseo_twitter-title": "We Were Liars: Autora revela detalhes da 2ª temporada e spin-off",
+        "_yoast_wpseo_twitter-description": "A série We Were Liars do Prime Video ganha segunda temporada. Autora E. Lockhart revela detalhes sobre o spin-off e o futuro da trama."
+      }
+    },
+    {
+      "titulo_final": "Netflix: Dark, obra-prima de ficção científica, inspira série de Stephen King",
+      "conteudo_final": "<p>A <strong>Netflix</strong> possui uma série de ficção científica quase perfeita, com nota 95% no Rotten Tomatoes, que foi surpreendentemente inspirada pelo livro que uma nova série de <strong>Stephen King</strong> adapta.</p><h2>Stephen King e a Influência em Dark</h2><p>Stephen King, conhecido como o Rei do Terror, publicou uma vasta obra que transcende o gênero. Sua influência literária se estende por diversos meios e gêneros. Seja em ficção científica ou dramas coming-of-age, traços da narrativa de King podem ser encontrados em muitos lugares.</p><p>Curiosamente, uma das séries de ficção científica de alto conceito mais aclamadas da Netflix também foi profundamente inspirada por um brilhante livro de Stephen King. O livro sempre foi imensamente popular e adaptado diversas vezes, servindo agora como material para uma série de terror da HBO.</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Jonas e Martha no episódio final de Dark na Netflix" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Jonas e Martha no episódio final de Dark na Netflix.</figcaption></figure><h2>Paralelos entre Dark e IT</h2><p>Embora quase oito anos tenham se passado desde sua estreia na Netflix, <em>Dark</em> inegavelmente permanece a melhor e mais completa série de ficção científica do serviço de streaming. Com sua abordagem à viagem no tempo, <em>Dark</em> trouxe algo incrivelmente único e impactante. Curiosamente, <em>IT</em> de Stephen King foi uma das maiores inspirações por trás de sua história.</p> <p>Como revelou o criador de <em>Dark</em>, Baran bo Odar, em entrevista, eles foram profundamente inspirados pelos anos 80, e <em>IT</em> de Stephen King teve um impacto profundo neles. Além do livro de King, eles também citaram <em>Twin Peaks</em> como uma influência chave. Enquanto a influência de <em>Twin Peaks</em> em <em>Dark</em> faz sentido, <em>IT</em> de Stephen King não parece ter muito em comum com a série de ficção científica da Netflix, pelo menos superficialmente.</p> <p><em>IT</em> tem pouca relação com viagens complexas no tempo, enquanto <em>Dark</em> é um drama de ficção científica de alto conceito. No entanto, uma análise mais aprofundada de ambos revela várias sobreposições. Por exemplo, as histórias em ambos começam com o desaparecimento misterioso de uma criança em uma cidade pequena e pitoresca. As cidades em ambas as histórias parecem pacíficas e seguras à primeira vista, mas escondem um segredo sombrio e sinistro que muitos escolhem ignorar ou são impotentes para expor.</p>
+<section class="emaki-custom-block emaki-custom-note" data-nosnippet="">
+<div class="emaki-custom note" id="custom_block_8">
+<div class="custom_block-content note"><p>Ambas, <em>Dark</em> e <em>IT</em>, também utilizam um local específico como um dispositivo narrativo crucial. Enquanto os esgotos de Derry servem como símbolos do medo e da negligência que consomem a cidade em <em>IT</em>, as cavernas de Winden se tornam portais metafóricos e literais para o tempo em <em>Dark</em>.</p> </div>
+</div>
+</section><p>Ambas as narrativas também se estendem por várias gerações, destacando a natureza cíclica de suas forças malignas e os ciclos de trauma que seus personagens precisam suportar. Os elementos existenciais em <em>Dark</em> também lembram os terrores cósmicos em <em>IT</em> de Stephen King, destacando como os criadores da série da Netflix podem ter se inspirado fortemente no romance.</p><h2>Por que fãs de Dark devem conferir IT: Welcome to Derry</h2>
+<figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Lilly assustada com os olhos marejados em Welcome to Derry, episódio 2" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Lilly assustada com os olhos marejados em Welcome to Derry, episódio 2.</figcaption></figure><p><em>IT</em> de Stephen King já foi adaptado duas vezes para as telonas. Enquanto o primeiro filme recebeu aclamação imensa, o segundo obteve uma resposta relativamente mais mista. <em>IT: Welcome to Derry</em>, da HBO, serve como prelúdio para os dois filmes, explorando as origens de Pennywise na cidade titular de Derry.</p> <p>Assim como o romance original de Stephen King, a série explora temas de racismo, perda da inocência e a lenta e aterrorizante decadência da moralidade humana. Semelhante a <em>Dark</em>, também destaca como o único antídoto da humanidade contra terrores antigos e inexplicáveis é a conexão. Assim como a aclamada série de ficção científica da Netflix, <em>IT: Welcome to Derry</em> também adota um tom sombrio e melancólico que combina pavor com nostalgia.</p> <p>Embora a série de <strong>Stephen King</strong> não tenha nada a ver com viagem no tempo, os fãs de <em><strong>Dark</strong></em> da Netflix certamente irão gostar.</p>",
+      "meta_description": "A série Dark da Netflix, aclamada pela crítica, teve inspirações em IT de Stephen King. Descubra os paralelos entre as obras.",
+      "focus_keyphrase": "Dark Netflix Stephen King",
+      "related_keyphrases": [
+        "Dark série Netflix",
+        "Stephen King IT",
+        "inspiração Dark série"
+      ],
+      "slug": "dark-netflix-stephen-king-inspiracao",
+      "categorias": [
+        {
+          "nome": "Dark",
+          "grupo": "obras",
+          "evidence": "Netflix has a nearly perfect sci-fi show, with a Rotten Tomatoes score of 95%"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix has a nearly perfect sci-fi show, with a Rotten Tomatoes score of 95%"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "autores",
+          "evidence": "Stephen King has published a vast number of books and short stories in the genre."
+        }
+      ],
+      "tags_sugeridas": [
+        "Dark",
+        "Netflix",
+        "Stephen King",
+        "IT",
+        "ficção científica",
+        "terror"
+      ],
+      "image_alt_texts": {
+        "jonas-and-martha-in-the-final-episode-of-dark-on-netflix.jpg": "Jonas e Martha no episódio final de Dark na Netflix.",
+        "lilly-scared-with-watery-eyes-in-welcome-to-derry-episode-2.jpg": "Lilly assustada com os olhos marejados em Welcome to Derry, episódio 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: Dark, obra-prima de ficção científica, inspira série de Stephen King",
+        "_yoast_wpseo_metadesc": "A série Dark da Netflix, aclamada pela crítica, teve inspirações em IT de Stephen King. Descubra os paralelos entre as obras.",
+        "_yoast_wpseo_focuskw": "Dark Netflix Stephen King",
+        "_yoast_news_keywords": "Dark, Netflix, Stephen King, IT, ficção científica, terror, série de TV",
+        "_yoast_wpseo_opengraph-title": "Netflix: Dark, obra-prima de ficção científica, inspira série de Stephen King",
+        "_yoast_wpseo_opengraph-description": "A série Dark da Netflix, aclamada pela crítica, teve inspirações em IT de Stephen King. Descubra os paralelos entre as obras.",
+        "_yoast_wpseo_twitter-title": "Netflix: Dark, obra-prima de ficção científica, inspira série de Stephen King",
+        "_yoast_wpseo_twitter-description": "A série Dark da Netflix, aclamada pela crítica, teve inspirações em IT de Stephen King. Descubra os paralelos entre as obras."
+      }
+    }
+  ]
+}

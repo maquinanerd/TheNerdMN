@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Michael J. Fox relembra episódio chocante do SNL após 33 anos",
+      "conteudo_final": "<p>Michael J. Fox abriu o jogo sobre um episódio de <em>Saturday Night Live</em> (<em>SNL</em>) em 1991, do qual ele foi apresentador, revelando o momento que mais o chocou.</p>\n<h2>O Episódio Marcante do SNL</h2>\n<p>Em entrevista à <em>E! News</em>, o ator revisitou a época e discutiu como foi o clima nos bastidores do <em>SNL</em>. Ele relembrou o icônico monólogo de abertura, quando Dana Carvey e David Spade o surpreenderam no palco em uma imitação.</p>\n<figure class=\"video-container\"><img alt=\"Michael J Fox em SNL em 1991\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/michael-j-fox-on-snl-in-1991-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"><figcaption>Michael J. Fox durante sua participação no SNL em 1991.</figcaption></figure>\n<p>Fox comentou que a imitação foi fantástica e que ficou fascinado com a capacidade deles de encontrar os traços que os inspiraram. Ele apresentou o programa em 16 de março de 1991, pouco depois do lançamento de dois filmes consecutivos da saga <b><a href=\"https://www.maquinanerd.com.br/tag/de-volta-para-o-futuro\">De Volta para o Futuro</a></b>. Na ocasião, ele dividiu o palco com o saudoso Chris Farley e apresentou a banda The Black Crowes.</p>\n<h2>A Imitação de Dana Carvey e David Spade</h2>\n<p>Durante o monólogo, Spade e Kevin Nealon apareceram vestidos como Marty McFly e Doc Brown, respectivamente, personagens icônicos da franquia <b><a href=\"https://www.maquinanerd.com.br/tag/de-volta-para-o-futuro\">De Volta para o Futuro</a></b>. Spade trocou algumas falas com Fox, brincando: \"Eu sou você! Eu sou Michael J. Fox! Acabei de vir de 90 minutos no futuro. O show é um fracasso total!\".</p>\n<figure class=\"video-container\"><img alt=\"Marty McFly (Michael J. Fox) com uma expressão preocupada em De Volta para o Futuro\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/back-to-the-future_b12527-cropped.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"><figcaption>Marty McFly, interpretado por Michael J. Fox, em um momento do filme De Volta para o Futuro.</figcaption></figure>\n<p>Fox relembrou a cena com carinho, descrevendo o esquete como \"muito bom\". Ele sentiu que sua própria performance era \"bastante genérica e sem graça\". A imitação de Carvey, em particular, deixou uma marca profunda em Fox.</p>\n<p>\"Eu nunca imaginei que ele faria isso, mas ele conseguiu, ele acertou em cheio. Ele realmente acertou. Eu gosto muito do Dave [Spade], mas eu realmente amei a imitação do Dana [Carvey]\", acrescentou o ator.</p>\n<h2>Carreira e Legado de Michael J. Fox</h2>\n<p>O ator é amplamente conhecido por seu papel na franquia <b><a href=\"https://www.maquinanerd.com.br/tag/de-volta-para-o-futuro\">De Volta para o Futuro</a></b>, sucesso que o consagrou há 40 anos. Sua carreira também inclui outros trabalhos notáveis, como <em>Teen Wolf</em>, <em>Family Ties</em>, <em>Stuart Little</em> e <em>Atlantis: The Lost Empire</em>.</p>\n<figure class=\"video-container\"><img alt=\"Foto de Michael J. Fox\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/09/instar53277936.jpg?q=70&amp;fit=contain&amp;w=280&amp;dpr=1\"><figcaption>Michael J. Fox em uma foto recente.</figcaption></figure>\n<p>Fox foi diagnosticado com a doença de Parkinson em 1991, aos 29 anos, mas só tornou pública a informação em 1998. Desde então, ele lançou uma autobiografia intitulada <em>Future Boy</em> e tem se dedicado a causas relacionadas à pesquisa da doença, afastando-se gradualmente da atuação em 2020 devido a questões de saúde. Apesar disso, ele fez algumas aparições em projetos recentes e é um defensor ativo da <b>Fundação Michael J. Fox</b>.</p>\n<p>Em reconhecimento à sua dedicação, ele recebeu o Jean Hersholt Humanitarian Award da Academia de Artes e Ciências Cinematográficas em 2022 e a Presidential Medal of Freedom em 2024. Sua carreira de ator foi agraciada com cinco prêmios Emmy, quatro Globos de Ouro, dois Screen Actors Guild Awards e um Grammy Award.</p>",
+      "meta_description": "Michael J. Fox relembra episódio marcante do SNL de 1991, onde foi imitador por Dana Carvey. Conheça os detalhes e o legado do ator.",
+      "focus_keyphrase": "Michael J. Fox SNL",
+      "related_keyphrases": [
+        "Michael J. Fox De Volta para o Futuro",
+        "Dana Carvey imitação",
+        "Saturday Night Live"
+      ],
+      "slug": "michael-j-fox-snl-episodio-chocante",
+      "categorias": [
+        {
+          "nome": "Michael J. Fox",
+          "grupo": "pessoas",
+          "evidence": "Michael J. Fox Opens Up About His “Shocking” SNL Episode 33 Years Later"
+        },
+        {
+          "nome": "Saturday Night Live",
+          "grupo": "obras",
+          "evidence": "episode of SNL in 1991"
+        },
+        {
+          "nome": "De Volta para o Futuro",
+          "grupo": "franquias",
+          "evidence": "Back to the Future franchise"
+        }
+      ],
+      "tags_sugeridas": [
+        "michael-j-fox",
+        "snl",
+        "saturday-night-live",
+        "de-volta-para-o-futuro",
+        "dana-carvey",
+        "david-spade",
+        "parkinson"
+      ],
+      "image_alt_texts": {
+        "michael-j-fox-on-snl-in-1991-1.jpg": "Michael J. Fox no palco do Saturday Night Live em 1991.",
+        "back-to-the-future_b12527-cropped.jpg": "Michael J. Fox como Marty McFly na franquia De Volta para o Futuro.",
+        "instar53277936.jpg": "Foto de perfil de Michael J. Fox, ator conhecido por De Volta para o Futuro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Michael J. Fox relembra episódio chocante do SNL após 33 anos | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Michael J. Fox abre o jogo sobre um momento chocante no SNL de 1991. Detalhes sobre a imitação de Dana Carvey e seu legado.",
+        "_yoast_wpseo_focuskw": "Michael J. Fox SNL",
+        "_yoast_news_keywords": "Michael J. Fox, SNL, Saturday Night Live, De Volta para o Futuro, Dana Carvey, David Spade, Parkinson, Michael J. Fox Foundation",
+        "_yoast_wpseo_opengraph-title": "Michael J. Fox relembra episódio chocante do SNL após 33 anos",
+        "_yoast_wpseo_opengraph-description": "O ator Michael J. Fox compartilhou detalhes sobre um momento que o chocou durante sua participação no Saturday Night Live em 1991.",
+        "_yoast_wpseo_twitter-title": "Michael J. Fox relembra episódio chocante do SNL após 33 anos",
+        "_yoast_wpseo_twitter-description": "O ator Michael J. Fox compartilhou detalhes sobre um momento que o chocou durante sua participação no Saturday Night Live em 1991."
+      }
+    }
+  ]
+}

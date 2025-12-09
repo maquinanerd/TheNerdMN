@@ -1,0 +1,91 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Produtor de Doctor Who critica escritor por chamar série de 'morta'",
+      "conteudo_final": "<p>Jane Tranter, produtora executiva de <b>Doctor Who</b>, criticou veementemente as recentes declarações de Robert Shearman, um dos roteiristas da série, que afirmou que a produção está <em>\"morta como nunca vimos\"</em>. Shearman, que escreveu o episódio \"Dalek\" para o revival de 2005 e contribuiu com diversas novelas da franquia, expressou sua opinião em entrevista à <em>Doctor Who Magazine</em>.</p>\n<h2>Opinião de Robert Shearman sobre o estado atual de Doctor Who</h2>\n<p>Shearman levantou preocupações sobre o futuro da série, especialmente após a aparição de Billie Piper no final da temporada mais recente. Ele comentou:</p>\n<blockquote>\n<p>É estranho porque a série provavelmente está tão morta quanto já vimos. Depois de 1989, tivemos, por anos, um Doutor atual. Agora, tudo o que será produzido em termos de <b>Doctor Who</b> parecerá retrógrado... Ninguém vai começar a escrever livros de <b>Doctor Who</b> com uma Doutora interpretada por Billie Piper, porque ninguém sabe o que isso significa. De certa forma, os momentos finais de \"The Reality War\" parecem colocar um ponto final nas coisas. Não tínhamos isso antes.</p>\n</blockquote>\n<p>A natureza da aparição de Billie Piper – se seria a 16ª Doutora oficial, uma personagem transitória como David Tennant como o 14º Doutor, ou algo totalmente diferente – adiciona à confusão do público. Essa incerteza, somada ao acordo de produção e distribuição entre a BBC e a Disney para o futuro spin-off <em>The War Between the Land and the Sea</em>, tem gerado debates sobre o rumo da franquia.</p>\n<h2>Resposta da BBC e defesa da série</h2>\n<p>Em resposta direta aos comentários de Shearman, Jane Tranter classificou as declarações de <em>\"realmente rudes\"</em> e <em>\"realmente falsas\"</em> em uma entrevista à BBC Radio Wales. Tranter defendeu a necessidade de mudança na série, que completa 60 anos:</p>\n<p>\"É uma franquia de 60 anos. Está no ar há 20 anos sem parar desde que a trouxemos de volta em 2005 [quando eu trabalhava na BBC]. Você esperaria que ela mudasse, não é? Nada continua sempre igual, ou não deveria. Então, ela mudará de alguma forma. Mas a única coisa que todos nós podemos ter certeza é que o Doutor voltará e todos, incluindo eu, incluindo todos nós, apenas temos que esperar pacientemente para ver quando – e quem.\""</p>\n<p>A produtora assegurou aos fãs que a série continuará, independentemente das mudanças.</p>",
+      "meta_description": "Produtora executiva de Doctor Who rebate Robert Shearman por chamar a série de 'morta', defendendo a necessidade de mudanças e a continuidade do Doutor.",
+      "focus_keyphrase": "Doctor Who",
+      "related_keyphrases": [
+        "Doctor Who série",
+        "futuro Doctor Who",
+        "Robert Shearman Doctor Who"
+      ],
+      "slug": "doctor-who-produtora-critica-roteirista",
+      "categorias": [
+        {
+          "nome": "Doctor Who",
+          "grupo": "franquias",
+          "evidence": "Doctor Who writer"
+        },
+        {
+          "nome": "BBC",
+          "grupo": "editorias",
+          "evidence": "BBC producer"
+        }
+      ],
+      "tags_sugeridas": [
+        "Doctor Who",
+        "Robert Shearman",
+        "Jane Tranter",
+        "BBC",
+        "Billie Piper"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Doctor Who: Produtora defende série após críticas de roteirista",
+        "_yoast_wpseo_metadesc": "Jane Tranter rebate Robert Shearman, que classificou Doctor Who como 'morta'. A produtora executiva da BBC defende a evolução da série e garante seu retorno.",
+        "_yoast_wpseo_focuskw": "Doctor Who",
+        "_yoast_news_keywords": "Doctor Who, BBC, Robert Shearman, Jane Tranter, série de TV",
+        "_yoast_wpseo_opengraph-title": "Doctor Who: Produtora executiva rebate críticas de roteirista sobre a série",
+        "_yoast_wpseo_opengraph-description": "Jane Tranter, produtora executiva de Doctor Who, contesta a declaração de Robert Shearman de que a série está 'morta', afirmando que ela continuará e se transformará.",
+        "_yoast_wpseo_twitter-title": "Doctor Who: Produtora rebate roteirista sobre futuro da série",
+        "_yoast_wpseo_twitter-description": "Após Robert Shearman declarar que Doctor Who está 'morta', a produtora Jane Tranter defende a franquia, garantindo sua continuidade e evolução."
+      }
+    },
+    {
+      "titulo_final": "The Mandalorian: Atriz de Katy O'Brian levanta dúvidas sobre 4ª temporada",
+      "conteudo_final": "<p>O futuro de <b>The Mandalorian</b> e sua potencial 4ª temporada parecem cada vez mais incertos. Katy O'Brian, que interpreta Elia Kane na série de <b>Star Wars</b>, expressou recentemente que não tem informações sobre o desenvolvimento de novos episódios ou sua participação neles.</p>\n<h2>Opinião de Katy O'Brian sobre The Mandalorian</h2>\n<p>Em entrevista ao <em>Polygon</em>, O'Brian foi questionada sobre seu retorno tanto para a série quanto para o filme que está em desenvolvimento. A atriz confessou que não ouviu nada a respeito e lançou dúvidas sobre a continuação da série:</p>\n<blockquote>\n<p>Eu não sei se eles farão uma 4ª temporada. Sei que o filme está saindo. Sei que não estou nele.</p>\n</blockquote>\n<p>As declarações de O'Brian surgem em um momento de especulação sobre os planos futuros de <b>Star Wars</b> para o Disney+. Anteriormente, foi planejado que a série continuaria com uma 4ª temporada, que serviria como ponte para o filme <em>The Mandalorian & Grogu</em>. No entanto, o anúncio do longa, dirigido por Jon Favreau, gerou incertezas sobre a necessidade de mais episódios para desenvolver a história.</p>\n<h2>Futuro de Star Wars e The Mandalorian</h2>\n<p>A franquia <b>Star Wars</b> tem expandido seu universo com diversas séries e filmes, mas o foco parece estar se voltando para projetos cinematográficos, como o anúncio recente de um novo filme dirigido por Dave Filoni, que conectará as séries <b>The Mandalorian</b>, <b>The Book of Boba Fett</b>, <b>Ahsoka</b> e <b>Andor</b>.</p>\n<p>Diante da falta de confirmação oficial sobre a 4ª temporada de <b>The Mandalorian</b> e as declarações da atriz, os fãs ficam em expectativa. A única certeza é o lançamento do filme <em>The Mandalorian & Grogu</em>, que promete continuar a saga do mandaloriano e sua conexão com a Força.</p>",
+      "meta_description": "Atriz Katy O'Brian expressa incerteza sobre a 4ª temporada de The Mandalorian e sua participação no filme derivado. Fãs aguardam novidades sobre o futuro da série de Star Wars.",
+      "focus_keyphrase": "The Mandalorian",
+      "related_keyphrases": [
+        "Temporada 4 The Mandalorian",
+        "Star Wars",
+        "filme The Mandalorian"
+      ],
+      "slug": "the-mandalorian-temporada-4-incerta",
+      "categorias": [
+        {
+          "nome": "The Mandalorian",
+          "grupo": "franquias",
+          "evidence": "The Mandalorian"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Mandalorian",
+        "Star Wars",
+        "Katy O'Brian",
+        "Disney+",
+        "Jon Favreau",
+        "Grogu"
+      ],
+      "image_alt_texts": {
+        "03153801_poster_w780.jpg": "Pôster do filme The Mandalorian & Grogu, com os personagens Din Djarin e Grogu em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Mandalorian: Atriz de Katy O'Brian levanta dúvidas sobre 4ª temporada",
+        "_yoast_wpseo_metadesc": "Katy O'Brian, de The Mandalorian, afirma não ter informações sobre a 4ª temporada e o filme derivado, aumentando as dúvidas sobre o futuro da série de Star Wars.",
+        "_yoast_wpseo_focuskw": "The Mandalorian",
+        "_yoast_news_keywords": "The Mandalorian, Star Wars, Disney+, Katy O'Brian, Jon Favreau",
+        "_yoast_wpseo_opengraph-title": "The Mandalorian: Futuro incerto para a 4ª temporada, segundo atriz",
+        "_yoast_wpseo_opengraph-description": "Katy O'Brian, que interpreta Elia Kane em The Mandalorian, expressou incerteza sobre a continuidade da série e sua própria participação, alimentando especulações sobre o futuro.",
+        "_yoast_wpseo_twitter-title": "The Mandalorian: 4ª temporada em dúvida após fala de atriz",
+        "_yoast_wpseo_twitter-description": "Atriz Katy O'Brian revela falta de informações sobre a 4ª temporada de The Mandalorian e o futuro da série de Star Wars."
+      }
+    }
+  ]
+}

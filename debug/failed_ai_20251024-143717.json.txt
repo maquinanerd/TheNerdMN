@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Queens of the Dead: Comédia de zumbis perde força em elementos cruciais",
+  "conteudo_final": "<p>Seguindo os passos de seu pai, o lendário George A. Romero, conhecido por clássicos como <em>A Noite dos Mortos-Vivos</em>, a diretora e co-roteirista Tina Romero explora o universo zumbi em <strong>Queens of the Dead</strong>. O filme se apresenta como uma comédia de horror, mas falha em ser consistentemente um ou outro. A produção se destaca pelo elenco dedicado, liderado por Katy O’Brian, e um espírito de boa vontade.</p><h2>Um Horror com Estilo, mas com Desenvolvimento Fraco</h2>\n<figure class=\"video-container\"><img alt=\"Queens of the Dead - Still 4 (1)\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/queens-of-the-dead-still-4-1.jpg?q=49&fit=crop&w=825&dpr=2\"><figcaption>Cena de 'Queens of the Dead' mostra os personagens em meio ao apocalipse zumbi.</figcaption></figure>\n<p>Em <strong>Queens of the Dead</strong>, Romero, que assina o roteiro com Erin Judge, não se aprofunda em como os mortos voltaram à vida para aterrorizar Nova York. Embora a origem dos zumbis raramente seja o foco principal em filmes do gênero, a trama se concentra na luta dos personagens para sobreviver. A direção é competente e o ritmo é bom, mas as dinâmicas entre os personagens poderiam ter sido mais exploradas.</p>\n<p>O filme começa com uma drag queen sendo atacada por um zumbi em uma igreja após sua apresentação. Os mortos-vivos na trama ostentam uma pele cinza profunda e olhos famintos, uma característica distintiva que confere um certo charme visual a criaturas que precisam se destacar para manter o interesse do público.</p>\n<p>A história acompanha um grupo de personagens: Dre (O’Brian), uma gerente de palco em dificuldades; Sam (Jaquel Spivey), um enfermeiro e ex-drag queen que desistiu de uma grande performance; Lizzy (Riki Lindhome), colega de trabalho de Sam e esposa de Dre; e Nina West, uma drag queen estrela. A principal fonte de tensão, no entanto, reside na relação entre Dre e Sam (também conhecido como Samoncé).</p>\n<p>A quantidade de elementos em jogo dificulta o envolvimento emocional com o filme, que parece depender mais da atmosfera e do "vibe" do que de um arco narrativo claro. <strong>Queens of the Dead</strong> não se leva a sério, o que pode ser tanto um ponto positivo quanto negativo. A falta de profundidade nas ameaças e na tensão entre os personagens diminui a sensação de perigo real.</p>\n<p>Desde a cena de abertura, as interações com os zumbis parecem descoladas. Romero busca a comédia, mas talvez se perca ao esquecer de ancorar a história em elementos mais palpáveis, e até assustadores. O aspecto de horror é notoriamente fraco, sem sustos ou momentos de tensão. Mesmo contando com o humor para sustentar a narrativa, o filme raramente é engraçado, parecendo mais uma lista de tarefas cumpridas do que um engajamento autêntico com o material.</p>\n<p>Isso se deve, em parte, aos personagens superficialmente construídos, ainda que divertidos. Suas dinâmicas sugerem uma riqueza que não se concretiza na tela. Da decepção de Dre com Sam à redenção de Sam como drag queen, a trama não dedica o foco necessário, ocupada demais em transitar entre os momentos. O resultado é um caos que poderia ser excitante, mas que soa um tanto quanto monótono.</p>\n<p>O que o filme possui é um senso de estilo e a capacidade de manter o espectador engajado através de um elenco vibrante que claramente se diverte. <strong>Queens of the Dead</strong> exibe uma energia frenética que o impulsiona apesar das suas falhas. Parece movido por força de vontade, estilo e um espírito empolgante que o mantém à tona. Se o objetivo é ver um grupo de drag queens lutando contra zumbis, o filme pode valer a pena, desde que se esteja disposto a perdoar seus tropeços e seguir o fluxo.</p>\n<figure class=\"video-container\"><img alt=\"Pôster de Queens of the Dead\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/01842332_poster_w780.jpg?q=70&fit=contain&w=480&dpr=1\"><figcaption>Pôster oficial de 'Queens of the Dead'.</figcaption></figure>",
+  "meta_description": "Crítica de Queens of the Dead: Comédia de zumbis com drag queens tem estilo, mas falha em desenvolver personagens e entregar sustos ou humor genuíno.",
+  "focus_keyphrase": "Queens of the Dead",
+  "related_keyphrases": [
+    "Comédia de zumbis",
+    "Filme de terror com drag queens",
+    "Tina Romero"
+  ],
+  "slug": "queens-of-the-dead-critica",
+  "categorias": [
+    {
+      "nome": "Queens of the Dead",
+      "grupo": "obras",
+      "evidence": "Queens of the Dead"
+    },
+    {
+      "nome": "George A. Romero",
+      "grupo": "pessoas",
+      "evidence": "seguindo os passos de seu pai, o lendário George A. Romero"
+    },
+    {
+      "nome": "Drag Queen",
+      "grupo": "temas",
+      "evidence": "drag queen"
+    }
+  ],
+  "tags_sugeridas": [
+    "queens of the dead",
+    "george a. romero",
+    "tina romero",
+    "katy o'brian",
+    "jaquel spivey",
+    "comédia de terror",
+    "filmes de zumbi"
+  ],
+  "image_alt_texts": {
+    "queens-of-the-dead-still-4-1.jpg": "Cena de 'Queens of the Dead' mostra os personagens em meio ao apocalipse zumbi.",
+    "01842332_poster_w780.jpg": "Pôster oficial de 'Queens of the Dead'."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Queens of the Dead: Crítica da Comédia de Zumbis com Drag Queens",
+    "_yoast_wpseo_metadesc": "Crítica de Queens of the Dead: Comédia de zumbis com drag queens tem estilo, mas falha em desenvolver personagens e entregar sustos ou humor genuíno.",
+    "_yoast_wpseo_focuskw": "Queens of the Dead",
+    "_yoast_news_keywords": "Queens of the Dead, George A. Romero, Tina Romero, Katy O'Brian, Jaquel Spivey, comédia de terror, filmes de zumbi, drag queen",
+    "_yoast_wpseo_opengraph-title": "Queens of the Dead: Crítica da Comédia de Zumbis com Drag Queens",
+    "_yoast_wpseo_opengraph-description": "Crítica de Queens of the Dead: Comédia de zumbis com drag queens tem estilo, mas falha em desenvolver personagens e entregar sustos ou humor genuíno.",
+    "_yoast_wpseo_twitter-title": "Queens of the Dead: Crítica da Comédia de Zumbis com Drag Queens",
+    "_yoast_wpseo_twitter-description": "Crítica de Queens of the Dead: Comédia de zumbis com drag queens tem estilo, mas falha em desenvolver personagens e entregar sustos ou humor genuíno."
+  }
+}

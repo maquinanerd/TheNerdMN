@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Asset: Nova série da Netflix vira hit global de suspense",
+      "conteudo_final": "<p>A nova minissérie de suspense da <b>Netflix</b>, <b>The Asset</b>, surpreendeu ao se tornar o título mais assistido globalmente na plataforma em outubro de 2025. Lançada no dia 27, a produção dinamarquesa de 6 episódios alcançou o topo das paradas de streaming em todo o mundo em poucas horas, consolidando-se como uma das melhores séries para maratonar no momento.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Conheça The Asset, a nova série dinamarquesa que se tornou o maior hit global da Netflix em outubro de 2025, conquistando o Top 10 mundial.",
+      "focus_keyphrase": "The Asset série Netflix",
+      "related_keyphrases": [
+        "the asset netflix suspense",
+        "nova série the asset",
+        "thriller netflix 2025"
+      ],
+      "slug": "the-asset-serie-netflix-hit-global",
+      "categorias": [
+        {
+          "nome": "The Asset",
+          "grupo": "obras",
+          "evidence": "the crime thriller series The Asset"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix miniseries"
+        }
+      ],
+      "tags_sugeridas": [
+        "the asset",
+        "netflix",
+        "suspense",
+        "thriller",
+        "série internacional",
+        "crime drama",
+        "outubro 2025"
+      ],
+      "image_alt_texts": {
+        "tcdasse_zx007-1.jpg": "Ashley (Maria Cordsen) em uma cena de suspense da série The Asset.",
+        "03234629_poster_w780.jpg": "Pôster oficial da série de suspense da Netflix, The Asset."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Asset: Nova série da Netflix vira hit global de suspense | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Conheça The Asset, a nova série dinamarquesa que se tornou o maior hit global da Netflix em outubro de 2025, conquistando o Top 10 mundial.",
+        "_yoast_wpseo_focuskw": "The Asset série Netflix",
+        "_yoast_news_keywords": "The Asset, Netflix, suspense, thriller, série internacional, crime drama, outubro 2025, Clara Dessau, Maria Cordsen",
+        "_yoast_wpseo_opengraph-title": "The Asset: Nova série da Netflix vira hit global de suspense",
+        "_yoast_wpseo_opengraph-description": "Conheça The Asset, a nova série dinamarquesa que se tornou o maior hit global da Netflix em outubro de 2025, conquistando o Top 10 mundial.",
+        "_yoast_wpseo_twitter-title": "The Asset: Nova série da Netflix vira hit global de suspense",
+        "_yoast_wpseo_twitter-description": "Conheça The Asset, a nova série dinamarquesa que se tornou o maior hit global da Netflix em outubro de 2025, conquistando o Top 10 mundial."
+      }
+    }
+  ]
+}

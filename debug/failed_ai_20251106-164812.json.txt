@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Zootopia 2: Sequência de sucesso bilionário chega aos cinemas em novembro",
+      "conteudo_final": "<p>A sequência de <em><strong>Zootopia</strong></em>, sucesso de bilheteria da Disney, tem estreia prevista para 26 de novembro, véspera de Ação de Graças, e as projeções indicam um forte desempenho nas bilheterias.</p><p>O primeiro filme, lançado em 2016, arrecadou mais de US$ 1 bilhão globalmente, conquistando 98% de aprovação no Rotten Tomatoes e diversos prêmios. A expectativa é que <em><strong>Zootopia 2</strong></em> repita o sucesso.</p><h2>Projeções de Bilheteria para Zootopia 2</h2><p>Com o lançamento a apenas três semanas de distância, projeções de bilheteria para <em>Zootopia 2</em> apontam para uma arrecadação de US$ 125 milhões no mercado doméstico durante o feriado prolongado de Ação de Graças, que se estende por cinco dias. As vendas de ingressos antecipados já demonstram um forte interesse do público, comparáveis às de <em>Divertida Mente 2</em>.</p><figure class="video-container"><img alt='Nick Wilde e Judy Hopps em cena de Zootopia 2' src='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/zootopia-2-final-trailer-4k-ultra-hd-2025-1-36-screenshot-cropped.jpg?q=70&fit=crop&w=825&dpr=1'><figcaption>Judy Hopps e Nick Wilde retornam em Zootopia 2.</figcaption></figure><p>Em comparação, o primeiro <em>Zootopia</em> abriu com US$ 75,1 milhões em seu fim de semana de estreia em março de 2016. A vantagem de <em>Zootopia 2</em> é o período de lançamento, o fim de semana de Ação de Graças, que historicamente impulsiona os números de bilheteria.</p><h2>Elenco e Novidades na Trama</h2><p>O elenco original, que incluía Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Bonnie Hunt, Tommy Chong, J. K. Simmons, Octavia Spencer, Kristen Bell e Shakira, conta com o retorno da maioria. Novas adições ao elenco incluem Ke Huy Quan, Fortune Feimster e Quinta Brunson.</p><p>Na trama, a policial Judy Hopps e o vigarista Nick Wilde unem forças novamente para desvendar o desaparecimento de predadores na cidade. A sequência apresentará uma nova aventura para a dupla, que enfrentará um novo desafio.</p><p>A música \"Zoo\", interpretada por Shakira, já foi indicada a prêmios. Para manter o público engajado, a Disney lançou a série <a href='https://www.maquinanerd.com.br/tag/disney-plus'><em>Zootopia+</em></a> em 2022 no Disney+, com seis curtas focados em personagens do primeiro filme.</p><h2>Zootopia 2 como Impulsionador para o Cinema em 2025</h2><p>Nove anos após o lançamento do filme original, <em><strong>Zootopia 2</strong></em> chega para revigorar a experiência cinematográfica de 2025. O mês de outubro apresentou uma receita de bilheteria significativamente baixa, com alguns filmes não atingindo as expectativas. A expectativa é que novembro traga um alívio para os estúdios com a estreia de grandes títulos.</p><p>Ao lado de <em>Wicked: For Good</em>, <em>Zootopia 2</em> é aguardado para dominar as bilheterias. Outros lançamentos de novembro incluem <em>Predator: Badlands</em> e <em>Now You See Me: Now You Don't</em>. Dezembro promete mais um grande lançamento com a franquia <em>Avatar</em>.</p><p><em><strong>Zootopia 2</strong></em> estreia nos cinemas em 26 de novembro de 2025.</p>",
+      "meta_description": "Zootopia 2, sequência de sucesso bilionário da Disney, estreia em novembro e projeções indicam forte arrecadação, competindo com outros grandes lançamentos.",
+      "focus_keyphrase": "Zootopia 2",
+      "related_keyphrases": [
+        "sequência Zootopia",
+        "bilheteria Zootopia 2",
+        "filmes Disney novembro 2025"
+      ],
+      "slug": "zootopia-2-sequencia-bilionaria-previsao-bilheteria",
+      "categorias": [
+        {
+          "nome": "Zootopia",
+          "grupo": "franquias",
+          "evidence": "Zootopia 2"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "estudios",
+          "evidence": "Disney"
+        }
+      ],
+      "tags_sugeridas": [
+        "Zootopia 2",
+        "Disney",
+        "Animação",
+        "Bilheteria",
+        "Ação de Graças",
+        "Nick Wilde",
+        "Judy Hopps"
+      ],
+      "image_alt_texts": {
+        "zootopia-2-final-trailer-4k-ultra-hd-2025-1-36-screenshot-cropped.jpg?q=70&fit=crop&w=825&dpr=1": "Nick Wilde e Judy Hopps em cena de Zootopia 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Zootopia 2: Sequência de Sucesso Bilionário Chega aos Cinemas em Novembro",
+        "_yoast_wpseo_metadesc": "Zootopia 2, sequência de sucesso bilionário da Disney, estreia em novembro e projeções indicam forte arrecadação, competindo com outros grandes lançamentos.",
+        "_yoast_wpseo_focuskw": "Zootopia 2",
+        "_yoast_news_keywords": "Zootopia 2, Disney, Animação, Bilheteria, Ação de Graças, Nick Wilde, Judy Hopps",
+        "_yoast_wpseo_opengraph-title": "Zootopia 2: Sequência de Sucesso Bilionário Chega aos Cinemas em Novembro",
+        "_yoast_wpseo_opengraph-description": "Zootopia 2, sequência de sucesso bilionário da Disney, estreia em novembro e projeções indicam forte arrecadação, competindo com outros grandes lançamentos.",
+        "_yoast_wpseo_twitter-title": "Zootopia 2: Sequência de Sucesso Bilionário Chega aos Cinemas em Novembro",
+        "_yoast_wpseo_twitter-description": "Zootopia 2, sequência de sucesso bilionário da Disney, estreia em novembro e projeções indicam forte arrecadação, competindo com outros grandes lançamentos."
+      }
+    }
+  ]
+}

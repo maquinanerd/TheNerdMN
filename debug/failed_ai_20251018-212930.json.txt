@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Fire Country: Gabriela voltará? Showrunner dá pistas sobre futuro da personagem",
+  "conteudo_final": "<p>O início da quarta temporada de <b>Fire Country</b> trouxe novidades impactantes para os fãs. No primeiro episódio, os personagens lidam com as consequências do incêndio de Zabel Ridge, que resultou na morte do pai de Bode Leone (Max Thieriot), Vince Leone (Billy Burke). No entanto, a perda não parou por aí.</p><p>Gabriela Perez (Stephanie Arcila) também se despediu do elenco. Sua saída de Edgewater se deve a uma nova oportunidade de trabalho como recrutadora viajante para a Cal Fire. Em uma conversa emocionante com Bode, Gabriela deixou a entender que sua ausência não será permanente.</p><h2>O futuro de Gabriela em Fire Country</h2><p>Em entrevista à <em>Deadline</em>, a produtora executiva e showrunner de <b>Fire Country</b>, Tia Napolitano, confirmou que o título do episódio, <em>Goodbye For Now</em> (Adeus por enquanto), reflete a intenção de que a personagem retorne. Napolitano explicou que a despedida foi pensada mais como uma homenagem à história de amor de Bode e Gabriela do que como um adeus definitivo.</p><blockquote><p>“Parecia que a jornada de Bode e Gabriela sempre esteve enraizada inicialmente em anseio e um amor proibido. Ele estava preso, há muita angústia e anseio, e é lindo, mas queríamos vê-los literalmente saindo juntos de pijama, como vimos, queríamos dar a eles um pouco de felicidade doméstica onde eles pudessem apenas ser. E sim, Vince morreu, mas ela está alimentando-o, e eles estão adormecendo no sofá. Foi realmente uma carta de amor para Gabriela e para Bode. Nós apenas queríamos aproveitar um pouco deles antes de dizer o nome do episódio, 'Adeus por enquanto'. Não é um adeus para sempre para Gabriela.”</p></blockquote><p><b>Fire Country</b> é um drama televisivo da CBS que acompanha a vida de Bode, um ex-condenado que busca redenção ao se juntar ao programa de reingresso prisional da Cal Fire. Criada por Max Thieriot, Tony Phelan e Joan Rater, a série conta com um elenco que inclui Kevin Alejandro, Jordan Calloway, Jules Latimer e Diane Farr.</p><p>A quarta temporada de <b>Fire Country</b> estreou em 17 de outubro de 2025, às 20h ET. A partir de 24 de outubro de 2025, os novos episódios serão exibidos em seu horário regular, às sextas-feiras, às 21h ET, na CBS.</p>",
+  "meta_description": "Gabriela Perez deixa Fire Country na 4ª temporada, mas showrunner garante que não é um adeus definitivo para a personagem. Entenda os detalhes.",
+  "focus_keyphrase": "Gabriela Fire Country",
+  "related_keyphrases": [
+    "Futuro de Gabriela em Fire Country",
+    "Fire Country 4ª temporada",
+    "Tia Napolitano Fire Country"
+  ],
+  "slug": "fire-country-gabriela-futuro",
+  "categorias": [
+    {
+      "nome": "Fire Country",
+      "grupo": "obras",
+      "evidence": "Fire Country season 4"
+    },
+    {
+      "nome": "CBS",
+      "grupo": "editorias",
+      "evidence": "on CBS"
+    },
+    {
+      "nome": "Drama",
+      "grupo": "editorias",
+      "evidence": "Drama TV series"
+    }
+  ],
+  "tags_sugeridas": [
+    "Fire Country",
+    "Gabriela Perez",
+    "Bode Leone",
+    "Stephanie Arcila",
+    "Tia Napolitano",
+    "Max Thieriot",
+    "CBS"
+  ],
+  "image_alt_texts": {
+    "03185573_poster_w780.jpg": "Pôster da série Fire Country com os personagens principais em destaque.",
+    "instar53702069.jpg": "Foto de Max Thieriot, ator que interpreta Bode Leone em Fire Country.",
+    "instar53701984.jpg": "Foto de Kevin Alejandro, ator do elenco de Fire Country."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Fire Country: Gabriela voltará? Showrunner dá pistas sobre futuro da personagem",
+    "_yoast_wpseo_metadesc": "Gabriela Perez deixa Fire Country na 4ª temporada, mas showrunner garante que não é um adeus definitivo para a personagem. Entenda os detalhes.",
+    "_yoast_wpseo_focuskw": "Gabriela Fire Country",
+    "_yoast_news_keywords": "Fire Country, Gabriela Perez, Bode Leone, Stephanie Arcila, Tia Napolitano, Max Thieriot, CBS",
+    "_yoast_wpseo_opengraph-title": "Fire Country: Gabriela voltará? Showrunner dá pistas sobre futuro da personagem",
+    "_yoast_wpseo_opengraph-description": "Gabriela Perez deixa Fire Country na 4ª temporada, mas showrunner garante que não é um adeus definitivo para a personagem. Entenda os detalhes.",
+    "_yoast_wpseo_twitter-title": "Fire Country: Gabriela voltará? Showrunner dá pistas sobre futuro da personagem",
+    "_yoast_wpseo_twitter-description": "Gabriela Perez deixa Fire Country na 4ª temporada, mas showrunner garante que não é um adeus definitivo para a personagem. Entenda os detalhes."
+  }
+}

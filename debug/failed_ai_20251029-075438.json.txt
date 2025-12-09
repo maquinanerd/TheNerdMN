@@ -1,0 +1,165 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pokémon TCG Pocket: Ingresso Avançado vira loteria e frustra jogadores",
+      "conteudo_final": "<p>Jogadores de <b>Pokémon TCG Pocket</b> aguardavam há um ano para descobrir o propósito do misterioso Ingresso Avançado. Uma atualização recente confirmou que o ingresso funciona como uma loteria, com prêmios de itens virtuais, gerando frustração na comunidade.</p>\n\n<h2>Ingresso Avançado de Pokémon TCG Pocket: Uma Chance de Ganhar, Mas com Poucas Probabilidades</h2>\n<p>O Ingresso Avançado, concedido aos jogadores que iniciaram <b>Pokémon TCG Pocket</b> nos primeiros três meses após o lançamento, será utilizado em um sorteio especial para celebrar o primeiro aniversário do jogo. A atualização, divulgada na manhã de quarta-feira, detalhou os prêmios.</p>\n\n<p>Cem jogadores serão sorteados aleatoriamente no dia 30 de outubro de 2025, data do primeiro aniversário de <b>Pokémon Pocket</b>, e receberão 1.200 Hourglasses de Pacote cada. Outros 10.000 jogadores serão contemplados com 120 Hourglasses de Pacote.</p>\n\n<p>O ponto de discórdia para os jogadores é o prêmio de terceiro lugar: 24 Hourglasses de Pacote para todos os demais jogadores de <b>Pokémon Pocket</b>, independentemente de possuírem ou não o Ingresso Avançado. Isso torna o ingresso, após um ano de espera, essencialmente inútil para a maioria, que receberá a mesma recompensa que quem não participou do evento inicial.</p>\n\n<p>A probabilidade de ganhar os prêmios maiores é extremamente baixa. Com pelo menos 60 milhões de jogadores elegíveis para receber um Ingresso Avançado, as chances de ganhar o segundo prêmio são de aproximadamente uma em 6.000, e a chance de obter o prêmio máximo é de uma em 600.000.</p>\n\n<p>Apesar da popularidade contínua de <b>Pokémon TCG Pocket</b>, esta é a segunda decisão impopular da desenvolvedora em pouco tempo. Recentemente, planos para corrigir problemas com o pacote Deluxe: ex foram anunciados, mas só serão implementados após o verão de 2026.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Jogadores de Pokémon TCG Pocket reagem com frustração à revelação do uso do Ingresso Avançado, que se tornou uma loteria com baixas chances de prêmios significativos.",
+      "focus_keyphrase": "Pokémon TCG Pocket Ingresso Avançado",
+      "related_keyphrases": [
+        "Pokémon Pocket",
+        "Ingresso Avançado",
+        "Hourglasses de Pacote"
+      ],
+      "slug": "pokemon-tcg-pocket-ingresso-avancado-loteria",
+      "categorias": [
+        {
+          "nome": "Pokémon TCG Pocket",
+          "grupo": "obras",
+          "evidence": "Pokemon TCG Pocket players have been waiting"
+        },
+        {
+          "nome": "Pokémon",
+          "grupo": "franquias",
+          "evidence": "Pokemon TCG Pocket"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokémon TCG Pocket",
+        "Pokémon",
+        "Jogos Mobile",
+        "DeNA",
+        "The Pokémon Company"
+      ],
+      "image_alt_texts": {
+        "pokemon-tcg-pocket-1.jpg": "Tela do jogo Pokémon TCG Pocket mostrando elementos de interface.",
+        "pokemon-tcg-pocket-2.jpg": "Detalhe da interface de Pokémon TCG Pocket com itens virtuais.",
+        "pokemon-tcg-pocket-3.jpg": "Imagem de personagens de Pokémon TCG Pocket.",
+        "pokemon-tcg-pocket-4.jpg": "Interface de Pokémon TCG Pocket com foco em recompensas.",
+        "pokemon-tcg-pocket-5.jpg": "Captura de tela de Pokémon TCG Pocket com elementos de jogo.",
+        "pokemon-tcg-cover.jpg": "Capa do jogo Pokémon TCG Pocket.",
+        "new-project-2025-10-24t145753-089.jpg": "Arte promocional de Pokémon TCG Pocket."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon TCG Pocket: Ingresso Avançado vira loteria e frustra jogadores",
+        "_yoast_wpseo_metadesc": "Jogadores de Pokémon TCG Pocket reagem com frustração à revelação do uso do Ingresso Avançado, que se tornou uma loteria com baixas chances de prêmios significativos.",
+        "_yoast_wpseo_focuskw": "Pokémon TCG Pocket Ingresso Avançado",
+        "_yoast_news_keywords": "Pokémon TCG Pocket, Pokémon, Jogos Mobile, Ingresso Avançado, DeNA, The Pokémon Company",
+        "_yoast_wpseo_opengraph-title": "Pokémon TCG Pocket: Ingresso Avançado vira loteria e frustra jogadores",
+        "_yoast_wpseo_opengraph-description": "Jogadores de Pokémon TCG Pocket reagem com frustração à revelação do uso do Ingresso Avançado, que se tornou uma loteria com baixas chances de prêmios significativos.",
+        "_yoast_wpseo_twitter-title": "Pokémon TCG Pocket: Ingresso Avançado vira loteria e frustra jogadores",
+        "_yoast_wpseo_twitter-description": "Jogadores de Pokémon TCG Pocket reagem com frustração à revelação do uso do Ingresso Avançado, que se tornou uma loteria com baixas chances de prêmios significativos."
+      }
+    },
+    {
+      "titulo_final": "Super Mario 3D All-Stars recebe 3ª atualização para Nintendo Switch 2",
+      "conteudo_final": "<p>A coleção <b>Super Mario 3D All-Stars</b>, lançada em 2020 e indisponível para compra desde março de 2021, recebeu uma terceira atualização focada em melhorias de desempenho para o futuro <b>Nintendo Switch 2</b>. A novidade gerou surpresa e questionamentos na comunidade.</p>\n\n<h2>Mario 3D All-Stars: Atualização Misteriosa para o Nintendo Switch 2</h2>\n<p>A atualização 1.1.4 para <b>Super Mario 3D All-Stars</b> foi lançada nesta manhã e é a terceira a abordar especificamente o desempenho no futuro console da Nintendo. As notas da atualização são genéricas, indicando que \"vários problemas foram abordados para melhorar a jogabilidade no Nintendo Switch 2\".</p>\n\n<p>A falta de detalhes sobre as melhorias específicas deixa os jogadores curiosos, especialmente considerando que o jogo não está mais disponível para compra. A coleção inclui títulos clássicos como <b>Super Mario 64</b>, <b>Super Mario Sunshine</b> e <b>Super Mario Galaxy</b>.</p>\n\n<p>A decisão da Nintendo de continuar atualizando um jogo de tempo limitado, que se tornou caro no mercado de revenda (entre US$ 80 e US$ 150), levanta questões sobre a estratégia da empresa. Para novos jogadores ou aqueles que não adquiriram o título original, as atualizações para um console futuro parecem inacessíveis.</p>\n\n<p>A Nintendo parece ter criado uma situação delicada ao tornar <b>Super Mario 3D All-Stars</b> um item de colecionador. Embora uma nova reedição pudesse desagradar os compradores originais, a continuidade das atualizações para o Switch 2 sugere um possível interesse em manter o jogo relevante, mesmo com sua disponibilidade limitada.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Super Mario 3D All-Stars recebe sua terceira atualização focada no Nintendo Switch 2, gerando surpresa e questionamentos sobre a estratégia da Nintendo para o jogo indisponível.",
+      "focus_keyphrase": "Super Mario 3D All-Stars atualização Switch 2",
+      "related_keyphrases": [
+        "Nintendo Switch 2",
+        "Super Mario 64",
+        "Super Mario Sunshine",
+        "Super Mario Galaxy"
+      ],
+      "slug": "super-mario-3d-all-stars-atualizacao-switch-2",
+      "categorias": [
+        {
+          "nome": "Super Mario 3D All-Stars",
+          "grupo": "obras",
+          "evidence": "Super Mario 3D All-Stars"
+        },
+        {
+          "nome": "Nintendo Switch 2",
+          "grupo": "franquias",
+          "evidence": "Nintendo Switch 2"
+        },
+        {
+          "nome": "Super Mario",
+          "grupo": "franquias",
+          "evidence": "Super Mario Bros."
+        }
+      ],
+      "tags_sugeridas": [
+        "Super Mario 3D All-Stars",
+        "Nintendo Switch 2",
+        "Nintendo",
+        "Super Mario 64",
+        "Super Mario Sunshine",
+        "Super Mario Galaxy"
+      ],
+      "image_alt_texts": {
+        "super-mario-sunshine.jpg": "Cena do jogo Super Mario Sunshine, parte da coleção Super Mario 3D All-Stars.",
+        "mixcollage-25-dec-2024-02-28-pm-2032.jpg": "Montagem de imagens promocionais de Super Mario 3D All-Stars."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Super Mario 3D All-Stars recebe 3ª atualização para Nintendo Switch 2",
+        "_yoast_wpseo_metadesc": "Super Mario 3D All-Stars recebe sua terceira atualização focada no Nintendo Switch 2, gerando surpresa e questionamentos sobre a estratégia da Nintendo para o jogo indisponível.",
+        "_yoast_wpseo_focuskw": "Super Mario 3D All-Stars atualização Switch 2",
+        "_yoast_news_keywords": "Super Mario 3D All-Stars, Nintendo Switch 2, Nintendo, Super Mario 64, Super Mario Sunshine, Super Mario Galaxy",
+        "_yoast_wpseo_opengraph-title": "Super Mario 3D All-Stars recebe 3ª atualização para Nintendo Switch 2",
+        "_yoast_wpseo_opengraph-description": "Super Mario 3D All-Stars recebe sua terceira atualização focada no Nintendo Switch 2, gerando surpresa e questionamentos sobre a estratégia da Nintendo para o jogo indisponível.",
+        "_yoast_wpseo_twitter-title": "Super Mario 3D All-Stars recebe 3ª atualização para Nintendo Switch 2",
+        "_yoast_wpseo_twitter-description": "Super Mario 3D All-Stars recebe sua terceira atualização focada no Nintendo Switch 2, gerando surpresa e questionamentos sobre a estratégia da Nintendo para o jogo indisponível."
+      }
+    },
+    {
+      "titulo_final": "Battlefield 6: Jogadores criticam excesso de microtransações na Temporada 1",
+      "conteudo_final": "<p>A atualização da Temporada 1 de <b>Battlefield 6</b> introduziu uma quantidade significativa de microtransações, gerando forte insatisfação entre os jogadores. O que antes era prometido como uma experiência diferente da concorrência, agora parece seguir o modelo de monetização agressivo da EA.</p>\n\n<h2>Battlefield 6: Temporada 1 Traz Onda de Microtransações</h2>\n<p>Após o lançamento elogiado e a promessa de uma experiência renovada, <b>Battlefield 6</b> agora enfrenta críticas devido à avalanche de microtransações apresentadas na Temporada 1. Itens como skins de armas, trajes e até desafios foram adicionados, transformando o jogo em uma \"máquina de monetização\", segundo relatos.</p>\n\n<p>Comunidades online, como o Reddit, estão repletas de reclamações sobre os menus e prompts que incentivam gastos adicionais. A preocupação anterior dos fãs com a adoção de skins coloridas, similar a outros títulos, foi superada pela forma como as microtransações foram implementadas, levando muitos a crer que o jogo já \"caiu\" nesse modelo.</p>\n\n<p>A ausência dessas práticas durante o beta e antes da Temporada 1 alimentou a percepção de que <b>Battlefield 6</b> seria diferente. No entanto, após o lançamento e as vendas expressivas, a EA parece ter retornado às suas táticas de monetização agressiva.</p>\n\n<p>Um jogador descreveu a situação como \"literalmente sem palavras com a quantidade de m*erda de MTX (microtransações) enfiada neste jogo\". As críticas mencionam moedas virtuais, passes, atalhos, skins não imersivas (incluindo para veículos), armas e acessórios com bloqueio de tempo, dicas constantes sobre aspectos de monetização e desafios que forçam a jogar modos específicos.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Jogadores de Battlefield 6 criticam o excesso de microtransações introduzidas na Temporada 1, acusando a EA de adotar práticas agressivas de monetização após o lançamento.",
+      "focus_keyphrase": "Battlefield 6 microtransações Temporada 1",
+      "related_keyphrases": [
+        "Battlefield 6",
+        "EA",
+        "Monetização em jogos",
+        "Battlefield Studios"
+      ],
+      "slug": "battlefield-6-microtransacoes-temporada-1",
+      "categorias": [
+        {
+          "nome": "Battlefield 6",
+          "grupo": "obras",
+          "evidence": "Battlefield 6"
+        },
+        {
+          "nome": "EA",
+          "grupo": "editorias",
+          "evidence": "EA"
+        },
+        {
+          "nome": "Jogos de Tiro",
+          "grupo": "editorias",
+          "evidence": "shooter"
+        }
+      ],
+      "tags_sugeridas": [
+        "Battlefield 6",
+        "EA",
+        "Microtransações",
+        "Jogos de Tiro",
+        "Battlefield Studios",
+        "Monetização"
+      ],
+      "image_alt_texts": {
+        "ss_b6a6910670a262c2564ed7ee2547b6aa1213daa0.jpg": "Captura de tela de Battlefield 6 mostrando elementos de interface e skins.",
+        "battlefield-6-press-image-1.jpg": "Imagem promocional de Battlefield 6 com foco em ação.",
+        "battlefield-6-press-image-2.jpg": "Cena de jogo de Battlefield 6 com veículos em combate.",
+        "battlefield-6-press-image-3.jpg": "Personagens de Battlefield 6 com skins.",
+        "battlefield-6-press-image-4.jpg": "Interface de Battlefield 6 mostrando opções de personalização.",
+        "battlefield-6-press-image-5.jpg": "Veículos em ação em Battlefield 6.",
+        "battlefield-6-press-image-6.jpg": "Cena de combate em Battlefield 6.",
+        "battlefield-6-press-image-7.jpg": "Detalhe de armas em Battlefield 6.",
+        "battlefield-6-tag-page-cover-art.jpg": "Arte da capa de Battlefield 6."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Battlefield 6: Jogadores criticam excesso de microtransações na Temporada 1",
+        "_yoast_wpseo_metadesc": "Jogadores de Battlefield 6 criticam o excesso de microtransações introduzidas na Temporada 1, acusando a EA de adotar práticas agressivas de monetização após o lançamento.",
+        "_yoast_wpseo_focuskw": "Battlefield 6 microtransações Temporada 1",
+        "_yoast_news_keywords": "Battlefield 6, EA, Microtransações, Jogos de Tiro, Battlefield Studios, Monetização",
+        "_yoast_wpseo_opengraph-title": "Battlefield 6: Jogadores criticam excesso de microtransações na Temporada 1",
+        "_yoast_wpseo_opengraph-description": "Jogadores de Battlefield 6 criticam o excesso de microtransações introduzidas na Temporada 1, acusando a EA de adotar práticas agressivas de monetização após o lançamento.",
+        "_yoast_wpseo_twitter-title": "Battlefield 6: Jogadores criticam excesso de microtransações na Temporada 1",
+        "_yoast_wpseo_twitter-description": "Jogadores de Battlefield 6 criticam o excesso de microtransações introduzidas na Temporada 1, acusando a EA de adotar práticas agressivas de monetização após o lançamento."
+      }
+    }
+  ]
+}

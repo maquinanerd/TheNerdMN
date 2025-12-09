@@ -1,0 +1,93 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "De Volta Para o Futuro: A Recast Secreta de Marty McFly",
+      "conteudo_final": "<p>A substituição de Marty McFly em <b>De Volta Para o Futuro</b> é um fato agora conhecido, mas a produção original tentou manter a mudança em segredo. O papel de Marty foi originalmente interpretado por Eric Stoltz, que chegou a filmar por semanas antes de ser demitido e substituído por Michael J. Fox.</p><p>Fox, em entrevista sobre seu livro <em>Future Boy: Back to the Future and My Journey Through the Space-Time Continuum</em>, revelou que foi apressado para assumir o papel. Na época, ele também estava filmando a terceira temporada da sitcom <em>Family Ties</em> e o público não estava ciente da troca.</p><p>“Eu não tive tempo de pensar sobre isso. Acho que o público não sabia até estarmos fazendo. Fui apressado, seis semanas depois [do início das filmagens], e não tive tempo de falar sobre isso”, comentou Fox.</p><h2>A Produção de De Volta Para o Futuro</h2><p>Nelle Fortenberry, coautora do livro de Fox, compartilhou que a equipe criativa, incluindo o diretor Robert Zemeckis e o produtor Bob Gale, se esforçou para manter a saída de Stoltz e a chegada de Fox em sigilo. O objetivo era evitar o impacto negativo da notícia.</p><p>“Eles conseguiram manter o fato de que Eric tinha deixado o filme e Michael estava vindo como um segredo até Michael começar”, explicou Fortenberry. No entanto, uma manchete de jornal acabou vazando a informação, descrevendo a produção como “problemática”.</p><p>Essa percepção de um filme “problemático” gerou preocupação na indústria cinematográfica. A experiência foi intensa para Fox, que relembrou com humor não ter conhecido Christopher Lloyd até o colega “sair da van” de repente. A primeira interação com Lloyd, que interpreta Doc Brown, foi inesperada, mas o jovem ator reconheceu o potencial do filme.</p><h2>Desafios e Transição</h2><p>Fox explicou que a permanência de Stoltz por semanas, mesmo com a equipe querendo uma mudança, foi uma estratégia para garantir a continuidade do projeto. Os produtores temiam que uma paralisação na produção, caso Stoltz fosse dispensado prematuramente, pudesse inviabilizar o filme.</p><p>“Até que meu contrato estivesse travado, Bob Zemeckis e seu coautor e produtor, Bob Gale, continuaram filmando com Eric Stoltz, que não sabia da mudança iminente”, disse Fox. “[O produtor Steven Spielberg] tinha medo de que, se o dispensassem prematuramente e a produção parasse, o filme inteiro poderia implodir. A Universal precisava de garantia de que um plano estava em vigor para uma transição tranquila para um novo ator principal.”</p><p>Apesar das incertezas e da percepção de uma produção conturbada, <b>De Volta Para o Futuro</b> conquistou um legado duradouro. As críticas positivas e a atuação icônica de Fox como Marty McFly provaram que a escolha certa havia sido feita. Manter a troca de atores em segredo, embora pareça desnecessário em retrospecto, foi uma medida calculada para assegurar o sucesso do filme.</p>",
+      "meta_description": "Descubra como a troca de Michael J. Fox por Eric Stoltz em De Volta Para o Futuro foi mantida em segredo pela produção.",
+      "focus_keyphrase": "De Volta Para o Futuro Marty McFly",
+      "related_keyphrases": [
+        "Michael J. Fox",
+        "Eric Stoltz",
+        "rec cast De Volta Para o Futuro"
+      ],
+      "slug": "de-volta-para-o-futuro-recast-secreta",
+      "categorias": [
+        {
+          "nome": "De Volta Para o Futuro",
+          "grupo": "obras",
+          "evidence": "<em><strong>Back to the Future</strong></em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "de-volta-para-o-futuro",
+        "michael-j-fox",
+        "eric-stoltz",
+        "robert-zemeckis",
+        "bob-gale",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "0140257_poster_w780-2.jpg": "Pôster do filme De Volta Para o Futuro com Marty McFly e Doc Brown."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "De Volta Para o Futuro: A Recast Secreta de Marty McFly",
+        "_yoast_wpseo_metadesc": "Descubra como a troca de Michael J. Fox por Eric Stoltz em De Volta Para o Futuro foi mantida em segredo pela produção.",
+        "_yoast_wpseo_focuskw": "De Volta Para o Futuro Marty McFly",
+        "_yoast_news_keywords": "De Volta Para o Futuro, Michael J. Fox, Eric Stoltz, Marty McFly, Robert Zemeckis, Bob Gale, cinema",
+        "_yoast_wpseo_opengraph-title": "De Volta Para o Futuro: A Recast Secreta de Marty McFly",
+        "_yoast_wpseo_opengraph-description": "Descubra como a troca de Michael J. Fox por Eric Stoltz em De Volta Para o Futuro foi mantida em segredo pela produção.",
+        "_yoast_wpseo_twitter-title": "De Volta Para o Futuro: A Recast Secreta de Marty McFly",
+        "_yoast_wpseo_twitter-description": "Descubra como a troca de Michael J. Fox por Eric Stoltz em De Volta Para o Futuro foi mantida em segredo pela produção."
+      }
+    },
+    {
+      "titulo_final": "5 Filmes de Terror Gratuitos para Maratona de Halloween",
+      "conteudo_final": "<p>Para celebrar o Halloween, não é preciso gastar com assinaturas de streaming. A plataforma gratuita Tubi oferece uma seleção de ótimos filmes de terror, ideais para quem busca sustos sem custo adicional. Com a proximidade do feriado, a disponibilidade de longas com fantasmas, lobisomens, vampiros e outras ameaças sobrenaturais é perfeita.</p><p>A variedade de opções na Tubi inclui desde filmes ambientados no próprio Halloween até casas mal-assombradas, clássicos em preto e branco e joias esquecidas dos anos 80. A plataforma se destaca como uma alternativa acessível aos gigantes do streaming.</p><h2>Terror Clássico e Contemporâneo</h2><p>Um dos destaques é <b>O Grito</b>, aclamado como um dos melhores filmes de terror do século XXI. Estrelado por Sarah Michelle Gellar, o filme acompanha uma enfermeira americana em Tóquio que descobre uma casa assombrada por fantasmas vingativos. A icônica figura de Kayako, com seu visual perturbador e gemido assustador, consolidou-se como um dos vilões mais memoráveis do gênero.</p><p>O filme não se limita apenas a Kayako; seu filho também contribui para os momentos de susto, em uma trama que desvenda a história por trás de suas mortes e da maldição. Além do primeiro filme, a Tubi também disponibiliza <b>O Grito 3</b>.</p><h2>Lendas do Cinema de Terror</h2><p>Outra opção imperdível é <b>Horror de Drácula</b> (1958), que marcou a primeira aparição de Christopher Lee como o Conde Drácula e a estreia de Peter Cushing como Van Helsing. Produzido pela Hammer, o filme apresenta desvios interessantes da fórmula clássica, mantendo o suspense em torno da caçada de Van Helsing ao vampiro.</p><p><b>O Uivo</b>, cultuado clássico de Joe Dante, também está disponível. A trama acompanha uma repórter que, ao se mudar para um resort, descobre que ele é habitado por lobisomens. O filme é repleto de transformações assustadoras, ação e um humor peculiar que o torna uma ótima pedida para o Halloween.</p><p>A franquia <b>O Uivo</b> gerou oito filmes, todos acessíveis na Tubi. Outro clássico da década de 1980 é <b>Pumpkinhead</b>, uma história sobre vingança demoníaca. A Tubi também oferece os filmes <em>Pumpkinhead: Ashes to Ashes</em> e <em>Pumpkinhead 4: Blood Feud</em>.</p><h2>Tesouros Internacionais e Sobrenaturais</h2><p>A plataforma Tubi é um celeiro de filmes de terror internacionais, e <b>A Mulher da Neve</b> (1968) é um exemplo notável. Este drama de época japonês apresenta uma assombração em uma região nevada, com uma entidade feminina de poderes gelados. A narrativa explora o mistério e o suspense quando um homem se vê envolvido com uma mulher idêntica à assombração que o ameaçou.</p><p>A atmosfera e a representação da vilã criam momentos genuinamente assustadores, demonstrando uma abordagem moderna para o terror. Esses títulos, gratuitos e acessíveis, garantem uma maratona de Halloween inesquecível.</p>",
+      "meta_description": "Celebre o Halloween com 5 filmes de terror gratuitos disponíveis na Tubi, incluindo clássicos como O Grito e Horror de Drácula.",
+      "focus_keyphrase": "filmes de terror gratuitos Halloween",
+      "related_keyphrases": [
+        "streaming Halloween",
+        "Tubi filmes terror",
+        "maratona de terror"
+      ],
+      "slug": "filmes-terror-gratuitos-halloween-tubi",
+      "categorias": [
+        {
+          "nome": "Halloween",
+          "grupo": "eventos",
+          "evidence": "Halloween"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "gêneros",
+          "evidence": "horror"
+        }
+      ],
+      "tags_sugeridas": [
+        "halloween",
+        "terror",
+        "filmes gratuitos",
+        "tubi",
+        "o-grito",
+        "horror-de-dracula"
+      ],
+      "image_alt_texts": {
+        "The-Grudge-Sarah-Michelle-Gellar-Horror-Remakes.jpg": "Sarah Michelle Gellar em uma cena do filme de terror O Grito.",
+        "202001-Horror-of-Dracula.jpg": "Christopher Lee como Conde Drácula no filme Horror de Drácula.",
+        "werewolf-in-the-howling.jpg": "Lobisomem em uma cena do filme de terror O Uivo.",
+        "pumpkinhead-glowers-down-at-his-next-victim-as-they-stare-up-at-him.jpg": "O monstro Pumpkinhead em uma cena do filme de terror Pumpkinhead.",
+        "The-Woman-of-Snow-Japanese-Horror-Movie.jpg": "Uma mulher fantasmagórica no filme de terror japonês A Mulher da Neve."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "5 Filmes de Terror Gratuitos Para Maratona de Halloween na Tubi",
+        "_yoast_wpseo_metadesc": "Celebre o Halloween com 5 filmes de terror gratuitos disponíveis na Tubi, incluindo clássicos como O Grito e Horror de Drácula.",
+        "_yoast_wpseo_focuskw": "filmes de terror gratuitos Halloween",
+        "_yoast_news_keywords": "Halloween, Terror, Filmes Gratuitos, Tubi, O Grito, Horror de Drácula, O Uivo, Pumpkinhead, A Mulher da Neve",
+        "_yoast_wpseo_opengraph-title": "5 Filmes de Terror Gratuitos Para Maratona de Halloween na Tubi",
+        "_yoast_wpseo_opengraph-description": "Celebre o Halloween com 5 filmes de terror gratuitos disponíveis na Tubi, incluindo clássicos como O Grito e Horror de Drácula.",
+        "_yoast_wpseo_twitter-title": "5 Filmes de Terror Gratuitos Para Maratona de Halloween na Tubi",
+        "_yoast_wpseo_twitter-description": "Celebre o Halloween com 5 filmes de terror gratuitos disponíveis na Tubi, incluindo clássicos como O Grito e Horror de Drácula."
+      }
+    }
+  ]
+}

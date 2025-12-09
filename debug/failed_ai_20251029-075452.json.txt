@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Super Mario 3D All-Stars: Nova Atualização Chega ao Nintendo Switch 2",
+  "conteudo_final": "<p>Jogos do <b>Nintendo Switch</b> têm recebido atualizações para otimizar seu desempenho no <b>Nintendo Switch 2</b> desde o lançamento do console atual. A notícia de que <b>Super Mario 3D All-Stars</b> também recebeu essa atualização foi uma surpresa, e agora a Nintendo lançou mais um patch para uma coleção que não está disponível para compra enquanto o Switch 2 existir.</p><h2>Terceira Atualização do Switch 2 para Mario 3D All-Stars Corrige Mais Problemas Desconhecidos</h2><p>A atualização 1.1.4 para <b>3D All-Stars</b> é, na verdade, o terceiro patch específico para o Switch 2 que a coleção recebe. O mais recente update foi liberado pela manhã e já está disponível. No entanto, os detalhes exatos sobre as correções e melhorias permanecem um mistério.</p><p>As notas da atualização são praticamente idênticas às das duas anteriores: \"Vários problemas foram abordados para melhorar a jogabilidade no Nintendo Switch 2. A atualização do software é necessária para jogar no Nintendo Switch 2.\" Se você encontrou algum problema ao jogar a coleção no Switch 2, é provável que ele tenha sido resolvido.</p><p>Embora atualizações gratuitas sejam sempre bem-vindas, o trabalho contínuo da Nintendo em <b>Mario 3D All-Stars</b> é um tanto peculiar, e talvez até frustrante para alguns. A coleção, que inclui <b>Super Mario 64</b>, <b>Super Mario Sunshine</b> e <b>Super Mario Galaxy</b>, foi lançada em 2020, mas teve sua disponibilidade limitada, sendo removida das lojas digitais e físicas em 31 de março de 2021.</p><p>Isso significa que para novos jogadores no ecossistema Nintendo ou para aqueles cujo Switch 2 é o primeiro console da marca, as notícias sobre atualizações para um jogo inacessível podem ser desanimadoras. A coleção não pode ser comprada na eShop do Switch 2 (ou do Switch normal), e cópias físicas de segunda mão podem se tornar o jogo mais caro do seu console, superando até mesmo um exemplar de <b>Mario Kart World</b>.</p><p>Listagens de revenda para <b>3D All-Stars</b> atualmente custam entre $80 e $150, evidenciando sua raridade e valor de mercado.</p><p>A Nintendo criou uma situação delicada com <b>3D All-Stars</b>. O jogo certamente continuaria a vender milhões se não fosse por sua janela de lançamento restrita, especialmente agora com a série de atualizações para o Switch 2. No entanto, um relançamento agora poderia decepcionar aqueles que compraram a versão limitada, pois exigiria que a Nintendo voltasse atrás em sua palavra. Felizmente, parece que o mesmo erro não foi cometido com a <a href=\"https:
+  "meta_description": "Super Mario 3D All-Stars recebe mais uma atualização para o Nintendo Switch 2, apesar de não estar mais à venda. Veja os detalhes.",
+  "focus_keyphrase": "Super Mario 3D All-Stars",
+  "related_keyphrases": [
+    "Nintendo Switch 2",
+    "Atualização Mario 3D All-Stars",
+    "Coleção Mario Nintendo"
+  ],
+  "slug": "super-mario-3d-all-stars-atualizacao-switch-2",
+  "categorias": [
+    {
+      "nome": "Super Mario 3D All-Stars",
+      "grupo": "obras",
+      "evidence": "3D All-Stars"
+    },
+    {
+      "nome": "Nintendo Switch 2",
+      "grupo": "franquias",
+      "evidence": "Nintendo Switch 2"
+    },
+    {
+      "nome": "Nintendo",
+      "grupo": "editorias",
+      "evidence": "Nintendo"
+    }
+  ],
+  "tags_sugeridas": [
+    "Super Mario 3D All-Stars",
+    "Nintendo Switch 2",
+    "Nintendo",
+    "Super Mario 64",
+    "Super Mario Sunshine",
+    "Super Mario Galaxy"
+  ],
+  "image_alt_texts": {
+    "super-mario-sunshine.jpg": "Super Mario Sunshine em uma imagem de Super Mario 3D All-Stars.",
+    "mixcollage-25-dec-2024-02-28-pm-2032.jpg": "Montagem de personagens de Super Mario 3D All-Stars, incluindo Mario, Luigi e Peach."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Super Mario 3D All-Stars: Nova Atualização Chega ao Nintendo Switch 2",
+    "_yoast_wpseo_metadesc": "Super Mario 3D All-Stars recebe mais uma atualização para o Nintendo Switch 2, apesar de não estar mais à venda. Veja os detalhes.",
+    "_yoast_wpseo_focuskw": "Super Mario 3D All-Stars",
+    "_yoast_news_keywords": "Super Mario 3D All-Stars, Nintendo Switch 2, Nintendo, Super Mario 64, Super Mario Sunshine, Super Mario Galaxy",
+    "_yoast_wpseo_opengraph-title": "Super Mario 3D All-Stars: Nova Atualização Chega ao Nintendo Switch 2",
+    "_yoast_wpseo_opengraph-description": "Super Mario 3D All-Stars recebe mais uma atualização para o Nintendo Switch 2, apesar de não estar mais à venda. Veja os detalhes.",
+    "_yoast_wpseo_twitter-title": "Super Mario 3D All-Stars: Nova Atualização Chega ao Nintendo Switch 2",
+    "_yoast_wpseo_twitter-description": "Super Mario 3D All-Stars recebe mais uma atualização para o Nintendo Switch 2, apesar de não estar mais à venda. Veja os detalhes."
+  }
+}

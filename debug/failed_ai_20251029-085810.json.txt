@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hazbin Hotel: Todas as Músicas das Temporadas 1 e 2 Confirmadas",
+      "conteudo_final": "<p>As músicas originais de <b>Hazbin Hotel</b> nas temporadas 1 e 2 são tão cativantes que você vai querer ouvi-las repetidamente. Criada por Vivienne Medrano (conhecida no YouTube como Vivziepop), a série se destaca pela animação única, personagens distintos e uma trilha sonora fantástica.</p>\n\n<h2>Toda a Música de Hazbin Hotel Temporada 1</h2>\n<p>A primeira temporada de <i>Hazbin Hotel</i> acompanha Charlie Morningstar, filha de Lúcifer, que sonha em criar um hotel para redimir pecadores com a ajuda de sua namorada e equipe. Seu objetivo de longo prazo é acabar com as extermínios anuais realizados pelo exército celestial.</p>\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Confira a lista completa de músicas das temporadas 1 e 2 de Hazbin Hotel, incluindo detalhes sobre cantores e episódios. Ouça a trilha sonora!",
+      "focus_keyphrase": "Hazbin Hotel músicas",
+      "related_keyphrases": [
+        "trilha sonora Hazbin Hotel",
+        "músicas Hazbin Hotel temporada 1",
+        "músicas Hazbin Hotel temporada 2"
+      ],
+      "slug": "hazbin-hotel-musicas-temporadas-1-e-2",
+      "categorias": [
+        {
+          "nome": "Hazbin Hotel",
+          "grupo": "obras",
+          "evidence": "<em>Hazbin Hotel</em> seasons 1 and 2"
+        },
+        {
+          "nome": "Música",
+          "grupo": "editorias",
+          "evidence": "original songs"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hazbin Hotel",
+        "Vivienne Medrano",
+        "trilha sonora",
+        "música",
+        "animação",
+        "série animada"
+      ],
+      "image_alt_texts": {
+        "hazbin-hotel-season-2.png": "Charlie em Hell na segunda temporada de Hazbin Hotel.",
+        "hazbin-hotel-season-2-poster-cropped.jpg": "Pôster oficial da segunda temporada de Hazbin Hotel.",
+        "vox-hugging-the-vees-as-they-look-standoffish-in-hazbin-hotel-season-2.jpg": "Vox abraça os Vees, que parecem distantes, na segunda temporada de Hazbin Hotel.",
+        "hazbin-hotel-tv-show-poster.jpeg": "Pôster da série Hazbin Hotel."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hazbin Hotel: Todas as Músicas das Temporadas 1 e 2 Confirmadas",
+        "_yoast_wpseo_metadesc": "Confira a lista completa de músicas das temporadas 1 e 2 de Hazbin Hotel, incluindo detalhes sobre cantores e episódios. Ouça a trilha sonora!",
+        "_yoast_wpseo_focuskw": "Hazbin Hotel músicas",
+        "_yoast_news_keywords": "Hazbin Hotel, música, trilha sonora, temporada 1, temporada 2, série animada, animação",
+        "_yoast_wpseo_opengraph-title": "Hazbin Hotel: Todas as Músicas das Temporadas 1 e 2 Confirmadas",
+        "_yoast_wpseo_opengraph-description": "Confira a lista completa de músicas das temporadas 1 e 2 de Hazbin Hotel, incluindo detalhes sobre cantores e episódios. Ouça a trilha sonora!",
+        "_yoast_wpseo_twitter-title": "Hazbin Hotel: Todas as Músicas das Temporadas 1 e 2 Confirmadas",
+        "_yoast_wpseo_twitter-description": "Confira a lista completa de músicas das temporadas 1 e 2 de Hazbin Hotel, incluindo detalhes sobre cantores e episódios. Ouça a trilha sonora!"
+      }
+    }
+  ]
+}

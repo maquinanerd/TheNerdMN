@@ -1,0 +1,187 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Brave and the Bold: Filme do Batman ganha novidades em breve",
+      "conteudo_final": "<p>O novo <b>Universo DC (DCU)</b> deu um passo importante com <b>Superman</b>, um filme elogiado por crítica e público, que se tornou a maior bilheteria de filmes de super-heróis do ano. Com uma arrecadação mundial superior a US$ 614 milhões, o DCU está com um início poderoso. No entanto, a franquia só atingirá sua velocidade máxima com a conclusão de sua Trindade fundamental. Tanto <b>Batman</b> quanto <b>Mulher-Maravilha</b> ainda precisam de seus filmes solo para estabelecer verdadeiramente o núcleo do universo, e o co-CEO da DC Studios, James Gunn, tem enfatizado que a introdução desses heróis é uma prioridade máxima. Notícias concretas sobre seus respectivos projetos, porém, foram quase inexistentes. Felizmente, para os fãs do <b>Cavaleiro das Trevas</b>, parece que a longa espera por informações está prestes a terminar.</p>\n<h2>Novidades sobre Batman no DCU</h2>\n<p>Em uma nova entrevista à Variety, para promover sua futura série de terror <i>IT: Welcome to Derry</i>, o diretor Andy Muschietti e sua irmã e parceira de produção, Barbara Muschietti, foram questionados sobre o andamento de <b>The Brave and the Bold</b>. Barbara deu uma resposta evasiva: “A intenção [de Andy dirigir] é sim, mas não podemos falar sobre isso.” Seu irmão, então, elaborou com um cronograma mais revelador. “Precisamos esperar alguns, um par de meses para começar a falar sobre isso”, acrescentou Andy Muschietti, antes de perceber rapidamente seu erro e admitir: “Eu já estraguei tudo.”</p>\n<h2>Andy Muschietti revela detalhes do projeto do Batman</h2>\n<p>Ao confirmar que as novidades chegarão em poucos meses, Andy Muschietti revelou inadvertidamente que o desenvolvimento de <b>The Brave and the Bold</b> cruzou vários marcos importantes nos bastidores. Para que a DC Studios se prepare para uma discussão pública em tão curto prazo, é altamente provável que um roteiro finalizado já esteja em andamento. Gunn tem sido firme ao afirmar que nenhum projeto do DCU avança antes que o roteiro esteja completo, então o comentário de Muschietti sugere fortemente que essa fase crucial foi finalizada. Com um roteiro aprovado, o estúdio provavelmente está se preparando para adicionar oficialmente o filme ao seu calendário de produção, o que viria com uma data de lançamento firme. Isso marca um avanço significativo para um filme que, até agora, estava apenas listado como “em desenvolvimento”.</p>\n<p>O momento da revelação também se alinha perfeitamente com a estratégia mais ampla da Warner Bros. Discovery. Os Muschiettis estão profundamente envolvidos com <i>IT: Welcome to Derry</i>, um dos lançamentos televisivos de terror mais aguardados do ano pela HBO. É lógico que a empresa queira que seu diretor esteja totalmente focado na promoção da série de terror sem distrações. Como a série estreia neste domingo e exibirá seu episódio final em aproximadamente dois meses, o prazo fornecido por Muschietti se encaixa perfeitamente. Assim que a série concluir sua exibição, o ciclo promocional poderá mudar suavemente para seu próximo grande projeto, <b>The Brave and the Bold</b>.</p>\n<p>Para o DCU em geral, encaixar <b>Batman</b> no cronograma faz todo o sentido para um lançamento em 2027. O ano anterior verá o lançamento de <i>Clayface</i> em 11 de setembro de 2026, um filme que começará a construir o canto da cidade de Gotham no novo universo. Após isso, um lançamento em 2027 para <b>Batman</b> o colocaria ao lado da já anunciada sequência de <b>Superman</b>, <i>Man of Tomorrow</i>, programada para 9 de julho de 2027. Isso estabeleceria os dois heróis mais icônicos da franquia como os pilares definitivos do DCU em um único ano de sucesso.</p>",
+      "meta_description": "Diretor Andy Muschietti deu uma atualização promissora sobre o cronograma de 'The Brave and the Bold', o novo filme solo do Batman no DCU.",
+      "focus_keyphrase": "Filme do Batman no DCU",
+      "related_keyphrases": [
+        "The Brave and the Bold",
+        "DC Studios",
+        "Andy Muschietti"
+      ],
+      "slug": "filme-batman-dcu-cronograma",
+      "categorias": [
+        {
+          "nome": "The Brave and the Bold",
+          "grupo": "obras",
+          "evidence": "the progress of The Brave and the Bold"
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "DC Studios co-CEO James Gunn"
+        },
+        {
+          "nome": "DCU",
+          "grupo": "franquias",
+          "evidence": "The new DC Universe"
+        }
+      ],
+      "tags_sugeridas": [
+        "Batman",
+        "DC Studios",
+        "DCU",
+        "The Brave and the Bold",
+        "Andy Muschietti",
+        "James Gunn"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Logo da PlayStation Store, um item promocional.",
+        "Army-in-Dune-Part-Two.jpg": "Soldados em cena do filme Duna: Parte Dois.",
+        "Battlestar-Galactica-33.jpg": "Cena da série Battlestar Galactica.",
+        "Gargoyles.jpg": "Imagem da série animada Gargoyles.",
+        "batman-dc.png": "Logo do Batman em uma arte promocional da DC Comics.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Calendário do Advento de Sabre de Luz de Star Wars.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Logo do Xbox Game Pass."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Brave and the Bold: Filme do Batman ganha novidades em breve",
+        "_yoast_wpseo_metadesc": "Diretor Andy Muschietti deu uma atualização promissora sobre o cronograma de 'The Brave and the Bold', o novo filme solo do Batman no DCU.",
+        "_yoast_wpseo_focuskw": "Filme do Batman no DCU",
+        "_yoast_news_keywords": "Batman, DC Studios, DCU, The Brave and the Bold, Andy Muschietti, James Gunn",
+        "_yoast_wpseo_opengraph-title": null,
+        "_yoast_wpseo_opengraph-description": null,
+        "_yoast_wpseo_twitter-title": null,
+        "_yoast_wpseo_twitter-description": null
+      }
+    },
+    {
+      "titulo_final": "The Boys: Morte de vilão impede teoria e favorece 5ª temporada",
+      "conteudo_final": "<p>Uma teoria para a <b>5ª temporada de The Boys</b> acaba de ser destruída de forma épica. A quinta temporada será a última da série de super-heróis e promete ser uma conclusão dramática e explosiva, com uma iminente guerra total entre os 'Supes', onde <b>Homelander</b> e os Sete enfrentarão uma resistência liderada por <b>Starlight</b> e <b>A-Train</b>. Existem muitas teorias sobre o que acontecerá, especialmente sobre quem será o responsável por matar <b>Homelander</b> (Ryan? Butcher? Black Noir? Outro?), mas uma ideia radical que mudaria a série foi descartada por <i>Gen V</i>. Aviso: Contém SPOILERS da 2ª temporada de <i>Gen V</i>.</p>\n<h2>Thomas Godolkin morre em Gen V e impede teoria para The Boys</h2>\n<p>O spin-off ambientado na faculdade revelou anteriormente que Thomas Godolkin, o fundador da God U, não só estava vivo, mas tinha seus próprios planos para o domínio dos Supes. Com incríveis habilidades de controle mental, dizia-se que ele poderia controlar <b>Homelander</b>. Assim, especulou-se que a série o estava preparando como mais um grande antagonista para a 5ª temporada, seja ao lado de <b>Homelander</b>, com os dois em conflito, ou ele pelo menos tentando assumir o controle da Vought (e dos EUA) junto com a Irmã Sage. No entanto, isso foi encerrado no final da 2ª temporada de <i>Gen V</i>, com Marie Moreau usando suas habilidades de manipulação de sangue para estourar a cabeça de Godolkin de uma forma que Victoria Neuman aprovaria.</p>\n<h2>Por que a ausência de Godolkin é boa para The Boys</h2>\n<p>A reviravolta com Godolkin foi convincente para <i>Gen V</i>, dando a essa série um novo e poderoso antagonista que exigiu a união de vários Supes para ser derrotado. Dada sua longa ligação com a Vought e o desenvolvimento do Composto V, haveria alguma lógica em ele ser o vilão final de <b>The Boys</b>: ele é uma das pessoas que ajudou a iniciar tudo isso, então haveria um senso de que as coisas voltariam ao início. Ao mesmo tempo, o que não faria sentido seria ter um novo vilão importante em <b>The Boys</b> após tantos anos construindo <b>Homelander</b> como a maior ameaça.</p>\n<p>Godolkin/Cipher foi um vilão perfeito para <i>Gen V</i>, já que ele fundou a God U, mas ele não tem uma conexão forte com os personagens principais de <b>The Boys</b>. Da mesma forma, ele é um vilão que se originou em um spin-off, e nem todos que assistiram a <b>The Boys</b> – e retornarão para a 5ª temporada – assistem a <i>Gen V</i>, então pareceria uma traição àquele público principal tê-lo de repente se tornando o verdadeiro vilão da saga, mesmo que ele tivesse o nível de poder adequado para isso.</p>\n<p>Esta é uma questão que, de forma mais ampla, <b>The Boys</b> precisa abordar com cuidado. O final da 2ª temporada de <i>Gen V</i> mostra vários personagens do show – Marie, Emma, Cate, Sam e Annabeth – se juntando a <b>Starlight</b> e <b>A-Train</b>, e é diretamente referenciado que eles estão se juntando à luta contra <b>Homelander</b>. Isso não é uma coisa ruim, mas precisa encontrar o equilíbrio certo com suas histórias e garantir que o foco permaneça nos heróis pelos quais torcemos desde o início.</p>\n<p>Anteriormente, <i>Gen V</i> revelou que Marie é “igual” a <b>Homelander</b>: ambos foram os únicos sobreviventes de um experimento da Vought conhecido como Projeto Odessa, e ela foi construída para ser tão poderosa quanto ele. Isso levou a teorias de que Marie será a responsável por derrotar <b>Homelander</b> na 5ª temporada – o que é ainda mais plausível após ela matar Godolkin – mas isso seria um grande erro. Ela é uma ótima personagem e inegavelmente forte, mas essa não é a história dela, e assim como com Godolkin, não pareceria fiel a <b>The Boys</b>.</p>\n<p>Existem muitas opções intrigantes para quem vai derrubar <b>Homelander</b> – como as que mencionei no início deste artigo – e você pode encontrar argumentos e evidências convincentes a favor delas. Mas, desde que seja sobre a história daquele show, e não de <i>Gen V</i>, será melhor para a série.</p>\n<p><b>The Boys</b> (temporadas 1-4) e <i>Gen V</i> (temporadas 1-2) estão disponíveis no Prime Video. A 5ª temporada de <b>The Boys</b> está prevista para ser lançada em 2026.</p>",
+      "meta_description": "A morte de Thomas Godolkin em Gen V encerra teorias sobre um novo vilão em The Boys 5, focando a atenção no confronto final contra Homelander.",
+      "focus_keyphrase": "The Boys 5ª temporada",
+      "related_keyphrases": [
+        "Homelander",
+        "Gen V",
+        "Thomas Godolkin"
+      ],
+      "slug": "the-boys-temporada-5-vilao",
+      "categorias": [
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "The Boys Season 5"
+        },
+        {
+          "nome": "Gen V",
+          "grupo": "obras",
+          "evidence": "Gen V"
+        },
+        {
+          "nome": "Homelander",
+          "grupo": "personagens",
+          "evidence": "Homelander"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Boys",
+        "Gen V",
+        "Homelander",
+        "Thomas Godolkin",
+        "Marie Moreau",
+        "5ª temporada"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Logo da PlayStation Store, um item promocional.",
+        "Army-in-Dune-Part-Two.jpg": "Soldados em cena do filme Duna: Parte Dois.",
+        "Battlestar-Galactica-33.jpg": "Cena da série Battlestar Galactica.",
+        "Gargoyles.jpg": "Imagem da série animada Gargoyles.",
+        "Thomas-Godolkin-in-Gen-V-Season-2-Episode-8.jpg": "Thomas Godolkin em cena da 2ª temporada de Gen V.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Calendário do Advento de Sabre de Luz de Star Wars.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Logo do Xbox Game Pass."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Boys: Morte de vilão impede teoria e favorece 5ª temporada",
+        "_yoast_wpseo_metadesc": "A morte de Thomas Godolkin em Gen V encerra teorias sobre um novo vilão em The Boys 5, focando a atenção no confronto final contra Homelander.",
+        "_yoast_wpseo_focuskw": "The Boys 5ª temporada",
+        "_yoast_news_keywords": "The Boys, Gen V, Homelander, Thomas Godolkin, Marie Moreau, 5ª temporada",
+        "_yoast_wpseo_opengraph-title": null,
+        "_yoast_wpseo_opengraph-description": null,
+        "_yoast_wpseo_twitter-title": null,
+        "_yoast_wpseo_twitter-description": null
+      }
+    },
+    {
+      "titulo_final": "5 Animações dos Anos 90 Pouco Lembradas que Merecem Atenção",
+      "conteudo_final": "<p>Os anos 90 foram uma década verdadeiramente inesquecível por inúmeras razões, e isso inclui sua contribuição para o mundo da animação. Uma infinidade de séries icônicas foram produzidas nessa era, incluindo amados programas como <b>Batman: A Série Animada</b>, <i>Gargoyles</i>, <i>Animaniacs</i>, <i>Doug</i>, <i>Darkwing Duck</i>, <i>Beavis and Butt-Head</i>, <i>Space Ghost Coast to Coast</i>, <i>The Tick</i>, e muitos outros. Encontrar fãs de qualquer um desses e outros não é difícil, mas com tantos shows em jogo, às vezes é fácil ignorar outros ótimos programas que não receberam os grandes holofotes por algum motivo. É por isso que estamos dando os holofotes para 5 animações incríveis dos anos 90 que poucas pessoas lembram, mas absolutamente deveriam.</p>\n<h2>5. Swat Kats: The Radical Squadron</h2>\n<p>Você verá o ano de 1993 surgir novamente mais adiante nesta lista, e acontece que foi um ótimo ano para conceitos fora do comum. Um exemplo disso é a série animada <i>Swat Kats: The Radical Squadron</i>, que acompanhava dois pilotos de caça chamados Razor e T-Bone. Razor e T-Bone faziam originalmente parte da agência Enforcer da Megakat City, mas acabaram do lado errado de seu líder corrupto e tiveram que assumir a defesa da cidade em suas próprias mãos.</p>\n<p>Isso os levou a projetar seu jato de última geração, conhecido como Turbokat, e eles o usam para defender Megakat City como os Swat Kats. Foi uma premissa divertida que imediatamente ganhou popularidade e gerou uma linha de brinquedos de sucesso e um videogame. As batalhas eram diferentes da maioria das outras na TV devido à natureza do Turbokat e a tudo que ele podia fazer, e havia uma quantidade impressionante de estilo, velocidade e movimento nas lutas que se destacou imediatamente.</p>\n<p>Na verdade, a única razão pela qual o programa foi cancelado foi que o chefe da emissora achou o programa muito violento. Havia até episódios inacabados já em produção quando ele foi cancelado, o que mostra o quão inesperada foi a decisão. <i>Swat Kats</i> nunca foi excessivamente pesado, sempre divertido e oferecia ação estilizada de sobra, e seria ótimo vê-lo retornar em algum momento.</p>\n<h2>4. The Animals of Farthing Wood</h2>\n<p>Às vezes, as imagens mais reconfortantes podem esconder os momentos mais comoventes, e é o caso de <i>The Animals of Farthing Wood</i>. A série animada britânica é baseada nos livros originais de Colin Dann, e embora tenham ocorrido várias mudanças nas cores e espécies de animais, a história principal permanece a mesma, pelo menos na primeira série.</p>\n<p>Aqueles que assistiram à série quando ela estreou em 1993 foram recebidos por um mundo de animais adoráveis cujas personalidades eram maiores que a vida, apesar de algumas de suas pequenas estaturas. Raposas, sapos, tritões, corujas, doninhas e musaranhos se uniram enquanto tentavam escapar de Farthing Wood, pois seu lar continuava a ser destruído por humanos. Eles partiram em busca de uma reserva natural conhecida como White Deer Park, onde estariam protegidos, e a jornada incluiria vários momentos verdadeiramente chocantes.</p>\n<p>Ao longo do caminho, houve várias mortes no programa, e cada vez, você sentia o impacto de uma forma verdadeiramente visceral e inesperada, especialmente para um programa infantil. A maioria dessas mortes não teve truques criativos aplicados para desfazê-las (exceto pelo sapo no primeiro episódio), e isso criou uma verdadeira sensação de tensão ao longo da série. Este não é um programa infantil comum, mas é por isso que ele facilmente garante um lugar nesta lista.</p>\n<h2>3. Biker Mice from Mars</h2>\n<p>Em 1993, os fãs foram apresentados a Vinnie, Modo e Throttle, mais conhecidos como os <b>Biker Mice from Mars</b>, e se você consegue pensar em uma premissa mais 'anos 90' do que ratos marcianos que ajudam a proteger a Terra enquanto andam de motocicleta, você merece todos os elogios. O programa durou 3 temporadas e acompanhava os três ratos principais e sua aliada mais confiável, Charley, enquanto eles lutavam contra os Plutarkianos, liderados pelo sinistro Lawrence Limburger.</p>\n<p>Os Biker Mice buscavam impedir que a Terra sofresse o mesmo destino de Marte nas mãos dos Plutarkianos, e o programa certamente aproveitou suas origens cósmicas e alienígenas para seu benefício. As motos permitiram que as cenas de ação se destacassem na tela, e a equipe encontrava continuamente novas maneiras de enquadrar sequências de perseguição e batalhas épicas utilizando as motos e as armas alienígenas da tripulação, mas a diversão estava realmente na capacidade do programa de não se levar muito a sério.</p>\n<p>Um elenco de voz estelar deu a cada um dos personagens uma personalidade clara, e suas várias interações eram sempre divertidas. O programa se tornou mais um clássico cult nos anos seguintes e agora tem uma nova série a caminho, mas ainda não é falado o suficiente, e por isso ocupa o segundo lugar.</p>\n<h2>2. The Pirates of Dark Water</h2>\n<p>Este é provavelmente o maior cenário de \"e se\" nesta lista, e tudo começou em 1991. Foi quando <i>The Pirates of Dark Water</i> apresentou aos fãs sua aventura épica no mundo de Mer, que acompanhava a tripulação de Red, Tula, Los e Niddler enquanto eles tentavam coletar os 13 tesouros do reino para salvar o mundo.</p>\n<p>O programa causou uma impressão imediata com um mundo que tece elementos clássicos de fantasia e aventura, ao mesmo tempo em que oferece seu próprio estilo visual e estilístico único. Também foi incrivelmente impressionante para a época em termos de animação, embora isso tenha sido uma faca de dois gumes, pois o custo incrível de cada episódio ajudou a causar seu cancelamento. Você podia ver para onde o dinheiro foi, e a ação era intensa, vibrante e maior que a vida, com todos os tipos de personagens peculiares para a tripulação interagir ao longo do caminho.</p>\n<p>Infelizmente, a combinação de um custo alto e atrasos na produção de vários episódios da segunda temporada levaram ao seu cancelamento, e a maior decepção é que a história estava claramente inacabada. Quando o programa terminou, a tripulação havia encontrado apenas 8 tesouros, deixando 5 para serem descobertos. Desde então, tornou-se mais um clássico cult, e seria uma pena se ninguém nunca tentasse recriar esse mundo de uma nova maneira no futuro.</p>\n<h2>1. Life with Louie</h2>\n<p><i>Life with Louie</i> claramente não é a série mais fantástica ou épica desta lista, mas é facilmente aquela com a maior mistura de charme, profundidade e humor, e merece estar no primeiro lugar. <i>Life with Louie</i> foi uma série baseada na infância real do comediante Louie Anderson e em sua comédia stand-up, e Anderson também narrou a série inteira e dublou sua versão mais jovem, bem como seu pai, Andy, que por acaso foi um dos personagens mais engraçados e bizarros do programa.</p>\n<p>A série acompanhava Louie enquanto ele crescia com sua mãe, pai e seus 10 irmãos em Wisconsin. A voz distinta de Anderson dá a tudo no show algo um pouco diferente, e também dá aos momentos hilários ainda mais impacto, especialmente quando envolve Andy. A série também não tinha medo de abordar tópicos mais pesados, mas sempre com seu charme cômico característico, e independentemente da situação, você não podia deixar de torcer por Louie, apenas tentando dar sentido a todo o caos ao seu redor.</p>\n<p>O programa ainda se mantém firme até hoje, e se você nunca assistiu a um episódio, eu não poderia recomendar mais. Poucas pessoas dão o devido crédito a <i>Life with Louie</i>, mas em meio a uma enxurrada de programas que apresentavam criaturas mágicas e ação total, o programa não só foi um sucesso, mas um grande sucesso para a Fox na época, e ainda ganhou dois prêmios Daytime Emmy. É o programa que mais claramente resistiu ao teste do tempo, e é por isso que está no topo.</p>",
+      "meta_description": "Descubra 5 animações incríveis dos anos 90 que marcaram época, mas que hoje são pouco lembradas pelo público em geral.",
+      "focus_keyphrase": "Animações dos anos 90",
+      "related_keyphrases": [
+        "Séries animadas dos anos 90",
+        "Desenhos animados antigos",
+        "Programas infantis dos anos 90"
+      ],
+      "slug": "animacoes-anos-90-pouco-lembradas",
+      "categorias": [
+        {
+          "nome": "Swat Kats: The Radical Squadron",
+          "grupo": "obras",
+          "evidence": "Swat Kats: The Radical Squadron"
+        },
+        {
+          "nome": "The Animals of Farthing Wood",
+          "grupo": "obras",
+          "evidence": "The Animals of Farthing Wood"
+        },
+        {
+          "nome": "Biker Mice from Mars",
+          "grupo": "obras",
+          "evidence": "Biker Mice from Mars"
+        },
+        {
+          "nome": "The Pirates of Dark Water",
+          "grupo": "obras",
+          "evidence": "The Pirates of Dark Water"
+        },
+        {
+          "nome": "Life with Louie",
+          "grupo": "obras",
+          "evidence": "Life with Louie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Animação anos 90",
+        "Swat Kats",
+        "Biker Mice from Mars",
+        "The Pirates of Dark Water",
+        "Life with Louie",
+        "Desenhos animados",
+        "Nostalgia"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Logo da PlayStation Store, um item promocional.",
+        "Animals-Farthing-Wood.jpg": "Cena da série animada 'The Animals of Farthing Wood'.",
+        "Army-in-Dune-Part-Two.jpg": "Soldados em cena do filme Duna: Parte Dois.",
+        "Battlestar-Galactica-33.jpg": "Cena da série Battlestar Galactica.",
+        "Biker-Mice-from-Mars.jpg": "Imagem promocional dos 'Biker Mice from Mars'.",
+        "Life-with-Louie.jpg": "Imagem promocional da série 'Life with Louie'.",
+        "Pirates-of-Dark-Water.jpg": "Imagem promocional da série 'The Pirates of Dark Water'.",
+        "Swat-Kats.jpg": "Imagem promocional da série 'Swat Kats'.",
+        "prime-video-our-fault-culpa-nuestra_786c1f.jpg": "Poster do filme 'Culpa Nossa' do Prime Video.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Calendário do Advento de Sabre de Luz de Star Wars.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Logo do Xbox Game Pass."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "5 Animações dos Anos 90 Pouco Lembradas que Merecem Atenção",
+        "_yoast_wpseo_metadesc": "Descubra 5 animações incríveis dos anos 90 que marcaram época, mas que hoje são pouco lembradas pelo público em geral.",
+        "_yoast_wpseo_focuskw": "Animações dos anos 90",
+        "_yoast_news_keywords": "Animação anos 90, Swat Kats, Biker Mice from Mars, The Pirates of Dark Water, Life with Louie, Desenhos animados, Nostalgia",
+        "_yoast_wpseo_opengraph-title": null,
+        "_yoast_wpseo_opengraph-description": null,
+        "_yoast_wpseo_twitter-title": null,
+        "_yoast_wpseo_twitter-description": null
+      }
+    }
+  ]
+}

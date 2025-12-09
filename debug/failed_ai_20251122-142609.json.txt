@@ -1,0 +1,133 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Landman: Paulina Chavez reflete sobre cena marcante na 2ª temporada",
+      "conteudo_final": "<p>A segunda temporada de <em>Landman</em> estreou, e a atriz Paulina Chavez comentou sobre o desenvolvimento de sua personagem, Ariana. Na primeira temporada, a jovem viúva lidou com o luto pela perda do marido em um acidente de trabalho e iniciou um novo relacionamento com Cooper (Jacob Lofland).</p><p>A nova temporada começa com um tom otimista para Cooper e seu pai, Tommy (Billy Bob Thornton). Enquanto Tommy ascende a presidente da M-Tex, o poço de petróleo de Cooper começa a produzir em larga escala. No entanto, Ariana demonstra pouca empolgação com a notícia, levantando dúvidas sobre o futuro do casal.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/1IiSTTBIfA4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>Chavez evitou spoilers diretos sobre o futuro de Ariana em <em>Landman</em>, mas adiantou detalhes sobre sua jornada na segunda temporada. A atriz também compartilhou sua cena favorita da primeira temporada e sua playlist musical para entrar no personagem.</p><h2>Yelling At Billy Bob Thornton Was One Of Her Most Terrifying (And Rewarding) Landman Moments</h2><p>Chavez expressou orgulho pela atmosfera leve nos bastos de <em>Landman</em>, apesar das cenas dramáticas. Uma cena que se destacou foi a do jantar com Tommy (Billy Bob Thornton). A atriz descreveu como "intimidador" ter que confrontar o personagem de Thornton, mas ressaltou que amava o que sua personagem representava ao expressar seus pensamentos.</p><p>Ela elogiou a colaboração com Billy Bob Thornton, descrevendo-o como humilde e divertido. Um detalhe curioso revelado foi que o ensopado servido na cena era picante, a pedido do próprio Thornton. Chavez relembrou com emoção o momento em que teve que expulsar Tommy de casa, e o elogio de Thornton após uma das tomadas: \"Suas reações são tão bonitas\".</p><h2>Landman Season 2 Lets Ariana Be A “Badass”</h2><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/ariana-in-landman-episode-8.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Ariana em cena de Landman\" loading=\"lazy\"/><figcaption>Ariana em cena de Landman.</figcaption></figure><p>Chavez descreveu Ariana como uma personagem resiliente, forte e ousada. Ela adiantou que a segunda temporada mostrará mais desse lado \"badass\" da personagem. Na primeira temporada, Ariana estava imersa em seu luto, e Cooper a ajudou a processar a perda do marido.</p><p>Agora, com o período de luto mais superado, Ariana se dedicará a descobrir seus próprios desejos e necessidades, independentemente de seu relacionamento. A jornada de autodescoberta e resiliência da personagem continua a crescer.</p><h2>Paulina Chavez Reveals Her Landman Playlist</h2><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ariana-and-cooper-in-landman-season-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Ariana e Cooper em cena de Landman\" loading=\"lazy\"/><figcaption>Ariana e Cooper em cena de Landman.</figcaption></figure><p>A atriz revelou que a cantora Selena Quintanilla influenciou sua interpretação de Ariana, especialmente a música \"Dreaming of You\", que a emocionava e a ajudava nas cenas de choro. Ela também mencionou o álbum \"My 21st Century Blues\" de Raye como inspiração.</p><p>Para a segunda temporada, o álbum escolhido foi o mais recente de Bad Bunny, \"DeBÍ TiRAR MáS FOToS\", que a acompanhou diariamente nos sets. Chavez também comentou sobre a performance da IA, que gerou conteúdo surpreendente e assustadoramente preciso sobre seus pensamentos.</p><p>Novos episódios de <em>Landman</em> temporada 2 estreiam aos domingos no Paramount+.</p>",
+      "meta_description": "Paulina Chavez, estrela de Landman, compartilha detalhes sobre a jornada de Ariana na 2ª temporada e reflete sobre cenas marcantes com Billy Bob Thornton.",
+      "focus_keyphrase": "Paulina Chavez Landman temporada 2",
+      "related_keyphrases": [
+        "Landman Ariana desenvolvimento",
+        "Billy Bob Thornton Landman",
+        "Paulina Chavez entrevista"
+      ],
+      "slug": "paulina-chavez-landman-temporada-2",
+      "categorias": [
+        {
+          "nome": "Landman",
+          "grupo": "obras",
+          "evidence": "<em>Landman</em> season 2 has premiered"
+        },
+        {
+          "nome": "Paulina Chavez",
+          "grupo": "atores",
+          "evidence": "while star Paulina Chavez is staying mum"
+        }
+      ],
+      "tags_sugeridas": [
+        "Landman",
+        "Paulina Chavez",
+        "Billy Bob Thornton",
+        "Paramount+",
+        "Séries de TV"
+      ],
+      "image_alt_texts": {
+        "ariana-in-landman-episode-8.jpg": "Ariana em cena de Landman, mostrando sua força e determinação.",
+        "ariana-and-cooper-in-landman-season-1.jpg": "Ariana e Cooper em cena de Landman, refletindo sobre o relacionamento."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Landman: Paulina Chavez reflete sobre cena marcante na 2ª temporada",
+        "_yoast_wpseo_metadesc": "Paulina Chavez, estrela de Landman, compartilha detalhes sobre a jornada de Ariana na 2ª temporada e reflete sobre cenas marcantes com Billy Bob Thornton.",
+        "_yoast_wpseo_focuskw": "Paulina Chavez Landman temporada 2",
+        "_yoast_news_keywords": "Landman, Paulina Chavez, Billy Bob Thornton, Paramount+, Séries de TV, Ariana",
+        "_yoast_wpseo_opengraph-title": "Landman: Paulina Chavez reflete sobre cena marcante na 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Paulina Chavez, estrela de Landman, compartilha detalhes sobre a jornada de Ariana na 2ª temporada e reflete sobre cenas marcantes com Billy Bob Thornton.",
+        "_yoast_wpseo_twitter-title": "Landman: Paulina Chavez reflete sobre cena marcante na 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Paulina Chavez, estrela de Landman, compartilha detalhes sobre a jornada de Ariana na 2ª temporada e reflete sobre cenas marcantes com Billy Bob Thornton."
+      }
+    },
+    {
+      "titulo_final": "Akira: Clássico anime supera filmes de 'F1' e 'Jurassic World' no streaming",
+      "conteudo_final": "<p>O aclamado filme de anime <em>Akira</em> alcançou uma notável posição no streaming, superando produções como <em>F1</em> e <em>Jurassic World Rebirth</em> em popularidade. O longa, considerado um marco na animação japonesa, demonstra sua relevância contínua entre o público.</p><p>Lançado originalmente em 1988, <em>Akira</em> é conhecido por sua animação revolucionária, narrativa complexa e temas futuristas que continuam a influenciar a cultura pop. A história se passa em Neo-Tóquio, uma metrópole distópica, e acompanha um grupo de jovens envolvidos em experimentos psíquicos e conflitos urbanos.</p><h2>Akira: Um Marco da Animação Japonesa</h2><p>A obra de Katsuhiro Otomo é frequentemente citada como um dos maiores filmes de anime já feitos. Sua influência pode ser vista em inúmeras obras de ficção científica e animação ocidentais. A complexidade de sua trama e a qualidade visual estabeleceram um novo padrão para o gênero.</p><h2>Impacto Cultural e Temático</h2><p><em>Akira</em> aborda temas como poder, corrupção, tecnologia e a natureza humana, ressoando com audiências de diferentes gerações. A representação de uma sociedade pós-apocalíptica e os dilemas morais apresentados garantem sua atemporalidade.</p><h2>Recepção e Legado no Streaming</h2><p>A recente ascensão de <em>Akira</em> nas plataformas de streaming evidencia seu apelo duradouro. O filme continua a atrair novos fãs e a ser redescoberto por espectadores que buscam por obras de animação com profundidade e impacto visual.</p>",
+      "meta_description": "O clássico anime Akira alcança o topo das paradas de streaming, superando títulos como F1 e Jurassic World Rebirth, e reafirma seu status icônico.",
+      "focus_keyphrase": "Akira filme anime streaming",
+      "related_keyphrases": [
+        "Akira popularidade streaming",
+        "Melhores filmes de anime",
+        "Akira Katsuhiro Otomo"
+      ],
+      "slug": "akira-anime-streaming-sucesso",
+      "categorias": [
+        {
+          "nome": "Akira",
+          "grupo": "obras",
+          "evidence": "O aclamado filme de anime Akira"
+        },
+        {
+          "nome": "Anime",
+          "grupo": "editorias",
+          "evidence": "O aclamado filme de anime Akira"
+        }
+      ],
+      "tags_sugeridas": [
+        "Akira",
+        "Anime",
+        "Filmes de Anime",
+        "Streaming",
+        "Animação Japonesa"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Akira: Clássico anime supera filmes de 'F1' e 'Jurassic World' no streaming",
+        "_yoast_wpseo_metadesc": "O clássico anime Akira alcança o topo das paradas de streaming, superando títulos como F1 e Jurassic World Rebirth, e reafirma seu status icônico.",
+        "_yoast_wpseo_focuskw": "Akira filme anime streaming",
+        "_yoast_news_keywords": "Akira, Anime, Filmes de Anime, Streaming, Animação Japonesa, Katsuhiro Otomo",
+        "_yoast_wpseo_opengraph-title": "Akira: Clássico anime supera filmes de 'F1' e 'Jurassic World' no streaming",
+        "_yoast_wpseo_opengraph-description": "O clássico anime Akira alcança o topo das paradas de streaming, superando títulos como F1 e Jurassic World Rebirth, e reafirma seu status icônico.",
+        "_yoast_wpseo_twitter-title": "Akira: Clássico anime supera filmes de 'F1' e 'Jurassic World' no streaming",
+        "_yoast_wpseo_twitter-description": "O clássico anime Akira alcança o topo das paradas de streaming, superando títulos como F1 e Jurassic World Rebirth, e reafirma seu status icônico."
+      }
+    },
+    {
+      "titulo_final": "The Hunger Games: Trailer de novo filme quebra recordes de visualizações",
+      "conteudo_final": "<p>O trailer de <em>The Hunger Games: Sunrise on the Reaping</em>, novo filme da franquia Jogos Vorazes, registrou um número impressionante de visualizações em sua estreia. A prévia superou recordes anteriores da saga, indicando grande expectativa do público.</p><p>A franquia <em>The Hunger Games</em>, baseada nos livros de Suzanne Collins, narra a história de Katniss Everdeen e a luta contra um regime opressor. O novo filme promete expandir o universo da saga, explorando novas histórias e personagens.</p><h2>Sunrise on the Reaping: Expectativa do Público</h2><p>O lançamento do trailer gerou um grande burburinho nas redes sociais e plataformas de vídeo. A marca de visualizações em tão pouco tempo demonstra o forte apelo da franquia e o interesse dos fãs em retornar ao mundo de Panem.</p><h2>O Legado de The Hunger Games</h2><p>Desde seu primeiro filme em 2012, <em>The Hunger Games</em> se consolidou como um fenômeno cultural. A saga aborda temas como desigualdade social, rebelião e sobrevivência, conquistando uma base de fãs fiel ao redor do mundo.</p><h2>Recorde de Visualizações</h2><p>O sucesso do trailer de <em>Sunrise on the Reaping</em> reflete a força da marca <em>The Hunger Games</em>. A alta performance em plataformas de vídeo, superando até mesmo grandes lançamentos musicais como Michael Jackson, destaca o impacto da franquia no cenário do entretenimento.</p>",
+      "meta_description": "O trailer de The Hunger Games: Sunrise on the Reaping quebra recordes de visualizações em sua estreia, superando grandes lançamentos e mostrando a força da franquia.",
+      "focus_keyphrase": "The Hunger Games trailer recorde",
+      "related_keyphrases": [
+        "Sunrise on the Reaping trailer",
+        "Jogos Vorazes novo filme",
+        "The Hunger Games visualizações"
+      ],
+      "slug": "hunger-games-trailer-recorde",
+      "categorias": [
+        {
+          "nome": "The Hunger Games",
+          "grupo": "franquias",
+          "evidence": "The trailer of <em>The Hunger Games: Sunrise on the Reaping</em>"
+        },
+        {
+          "nome": "Jogos Vorazes",
+          "grupo": "obras",
+          "evidence": "A franquia <em>The Hunger Games</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Hunger Games",
+        "Jogos Vorazes",
+        "Sunrise on the Reaping",
+        "Trailers",
+        "Cinema"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Hunger Games: Trailer de novo filme quebra recordes de visualizações",
+        "_yoast_wpseo_metadesc": "O trailer de The Hunger Games: Sunrise on the Reaping quebra recordes de visualizações em sua estreia, superando grandes lançamentos e mostrando a força da franquia.",
+        "_yoast_wpseo_focuskw": "The Hunger Games trailer recorde",
+        "_yoast_news_keywords": "The Hunger Games, Jogos Vorazes, Sunrise on the Reaping, Trailers, Cinema, Suzanne Collins",
+        "_yoast_wpseo_opengraph-title": "The Hunger Games: Trailer de novo filme quebra recordes de visualizações",
+        "_yoast_wpseo_opengraph-description": "O trailer de The Hunger Games: Sunrise on the Reaping quebra recordes de visualizações em sua estreia, superando grandes lançamentos e mostrando a força da franquia.",
+        "_yoast_wpseo_twitter-title": "The Hunger Games: Trailer de novo filme quebra recordes de visualizações",
+        "_yoast_wpseo_twitter-description": "O trailer de The Hunger Games: Sunrise on the Reaping quebra recordes de visualizações em sua estreia, superando grandes lançamentos e mostrando a força da franquia."
+      }
+    }
+  ]
+}

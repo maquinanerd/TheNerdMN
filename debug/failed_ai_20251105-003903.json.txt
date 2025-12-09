@@ -1,0 +1,90 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jonathan Bailey comenta rumores de Batman no DCU de James Gunn",
+      "conteudo_final": "<p>O futuro do Batman no Universo DC está em desenvolvimento, com o filme <em><strong>The Brave and The Bold</strong></em> ainda em produção pela DC Studios.</p><p>Durante sua participação no programa <em>The Tonight Show starring Jimmy Fallon</em>, Jonathan Bailey foi questionado sobre os rumores que o apontam como o próximo Batman no DCU. O ator britânico respondeu:</p><blockquote><p>“Eu cresci com Val Kilmer, George Clooney, obviamente Christian Bale e Robert Pattinson. É um legado e acho que James Gunn é incrível. Quem sabe.”</p></blockquote>",
+      "meta_description": "Jonathan Bailey, conhecido por seu papel em Bridgerton, aborda os rumores de que ele poderia interpretar o Batman no novo DCU de James Gunn.",
+      "focus_keyphrase": "Jonathan Bailey Batman DCU",
+      "related_keyphrases": [
+        "Jonathan Bailey James Gunn",
+        "The Brave and The Bold",
+        "rumores escalação Batman"
+      ],
+      "slug": "jonathan-bailey-batman-dcu",
+      "categorias": [
+        {
+          "nome": "Batman",
+          "grupo": "franquias",
+          "evidence": "<em><strong>The Brave and The Bold</strong></em>"
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "DC Studios"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jonathan Bailey",
+        "Batman",
+        "DCU",
+        "James Gunn",
+        "The Brave and The Bold",
+        "DC Studios"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jonathan Bailey comenta rumores de Batman no DCU de James Gunn",
+        "_yoast_wpseo_metadesc": "Jonathan Bailey, conhecido por seu papel em Bridgerton, aborda os rumores de que ele poderia interpretar o Batman no novo DCU de James Gunn.",
+        "_yoast_wpseo_focuskw": "Jonathan Bailey Batman DCU",
+        "_yoast_news_keywords": "Jonathan Bailey, Batman, DCU, James Gunn, The Brave and The Bold, DC Studios",
+        "_yoast_wpseo_opengraph-title": "Jonathan Bailey comenta rumores de Batman no DCU de James Gunn",
+        "_yoast_wpseo_opengraph-description": "Jonathan Bailey, conhecido por seu papel em Bridgerton, aborda os rumores de que ele poderia interpretar o Batman no novo DCU de James Gunn.",
+        "_yoast_wpseo_twitter-title": "Jonathan Bailey comenta rumores de Batman no DCU de James Gunn",
+        "_yoast_wpseo_twitter-description": "Jonathan Bailey, conhecido por seu papel em Bridgerton, aborda os rumores de que ele poderia interpretar o Batman no novo DCU de James Gunn."
+      }
+    },
+    {
+      "titulo_final": "Paramount adota lista negra de atores com discursos controversos",
+      "conteudo_final": "<p>O estúdio <strong>Paramount</strong>, sob a liderança de David Ellison, implementa uma lista de atores com os quais não pretende trabalhar. Essa medida surge em meio a mudanças significativas na empresa, incluindo demissões e especulações sobre uma possível fusão com a Warner Bros. Discovery.</p><p>Segundo um relatório da <em>Variety</em>, a Paramount agora possui um cadastro de artistas considerados inadequados para colaborações futuras. Os critérios incluem comportamentos <em>"excessivamente antissemitas", "xenófobos"</em> ou <em>"homofóbicos"</em>.</p><p>Em setembro, a Paramount foi a primeira grande produtora a se posicionar contra uma carta aberta que pedia o boicote a instituições cinematográficas israelenses, citadas por envolvimento em genocídio e apartheid contra o povo palestino. </p><p>Nomes como Emma Stone, Javier Bardem, Mark Ruffalo, Joaquin Phoenix, Ayo Edebiri, Ebon Moss-Bachrach, Tilda Swinton, Emma D'Arcy e Elliot Page estavam entre os signatários da carta. No entanto, não há confirmação oficial se algum desses artistas está na lista negra do estúdio.</p><p>A proximidade de David Ellison com Israel é um fator relevante, visto que seu pai, Larry Ellison, cofundador da Oracle, é um amigo próximo do Primeiro-Ministro israelense Benjamin Netanyahu e um importante doador para a organização Friends of the IDF.</p><p>A influência de Larry Ellison também se estende à política, com seu apoio ao ex-presidente Donald Trump, cuja administração aprovou a fusão entre Paramount e Skydance. Trump já mencionou o apoio de David e Larry Ellison a ele.</p><p>Outro desenvolvimento notável foi a saída do aclamado criador de TV Taylor Sheridan, que assinou um acordo com a NBCUniversal. Sheridan é responsável por sucessos da Paramount+ como <em>Yellowstone</em>, <em>1923</em>, <em>Tulsa King</em>, <em>Mayor of Kingstown</em> e <em>Lioness</em>.</p><p>Embora o acordo de Sheridan com a Paramount vá até 2028, sua saída representa uma perda considerável para o estúdio e um ganho para a NBCUniversal e seu serviço de streaming, Peacock. Relatos indicam que a relação de Sheridan com a nova liderança da Paramount já estava desgastada antes mesmo da fusão com a Skydance.</p><p>Apesar das incertezas, como a lista negra de atores e a saída de Sheridan, o futuro da Paramount permanece em observação. O estúdio ainda conta com diversas séries populares no Paramount+ e teve sucessos recentes, como a migração dos criadores de <em>Stranger Things</em>, Matt e Ross Duffer, da Netflix para a Paramount.</p>",
+      "meta_description": "Paramount adota lista negra de atores com discursos antissemitas, xenófobos ou homofóbicos, em meio a mudanças na liderança e saída de Taylor Sheridan.",
+      "focus_keyphrase": "Paramount lista negra atores",
+      "related_keyphrases": [
+        "Paramount Taylor Sheridan",
+        "David Ellison Paramount",
+        "atores controversos Hollywood"
+      ],
+      "slug": "paramount-lista-negra-atores",
+      "categorias": [
+        {
+          "nome": "Paramount",
+          "grupo": "editorias",
+          "evidence": "Paramount"
+        },
+        {
+          "nome": "Taylor Sheridan",
+          "grupo": "franquias",
+          "evidence": "Taylor Sheridan"
+        }
+      ],
+      "tags_sugeridas": [
+        "Paramount",
+        "David Ellison",
+        "Taylor Sheridan",
+        "Variety",
+        "Lista Negra",
+        "Hollywood"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Paramount adota lista negra de atores com discursos controversos",
+        "_yoast_wpseo_metadesc": "Paramount adota lista negra de atores com discursos antissemitas, xenófobos ou homofóbicos, em meio a mudanças na liderança e saída de Taylor Sheridan.",
+        "_yoast_wpseo_focuskw": "Paramount lista negra atores",
+        "_yoast_news_keywords": "Paramount, David Ellison, Taylor Sheridan, Variety, Lista Negra, Hollywood, Warner Bros. Discovery",
+        "_yoast_wpseo_opengraph-title": "Paramount adota lista negra de atores com discursos controversos",
+        "_yoast_wpseo_opengraph-description": "Paramount adota lista negra de atores com discursos antissemitas, xenófobos ou homofóbicos, em meio a mudanças na liderança e saída de Taylor Sheridan.",
+        "_yoast_wpseo_twitter-title": "Paramount adota lista negra de atores com discursos controversos",
+        "_yoast_wpseo_twitter-description": "Paramount adota lista negra de atores com discursos antissemitas, xenófobos ou homofóbicos, em meio a mudanças na liderança e saída de Taylor Sheridan."
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Round 6: Jogadores Reagem à Estratégia Controversa de Eric",
+      "conteudo_final": "<p>A segunda temporada de <strong><em>Squid Game: The Challenge</em></strong> chegou à reta final, com apenas cinco competidores restantes. Vanessa Clements (017), Dajah Graham (302), Perla Figuereo (072), Trinity Parriman (398) e Steven Jones (183) refletem sobre suas experiências no jogo, que incluiu desafios icônicos como \"Catch\" e \"Cobras e Escadas\", inspirados na série original <em>Squid Game</em>.</p><h2>Reação à Estratégia de Eric (415)</h2><p>Durante uma entrevista, os finalistas foram questionados sobre Eric Eldredge (415), que conquistou a simpatia de outros jogadores ao alegar que era seu aniversário e que tinha uma namorada grávida. No entanto, mais tarde foi revelado que ambas as informações eram falsas, parte de sua estratégia para evitar ser eliminado.</p><p>Trinity Parriman expressou que ainda se sente \"<em>chateada</em>\" com a estratégia de Eric, especialmente porque seu próprio aniversário foi no dia anterior. Ele explicou que não queria \"<em>ter um alvo nas costas</em>\", mas ficou surpreso ao ver que 415 usou essa informação para construir confiança.</p><p>Dajah Graham também comentou sobre o apoio que Eric recebeu de fãs e outros jogadores, considerando que ele \"<em>receberia muito feedback negativo</em>\", principalmente por mentir sobre ter uma namorada grávida. Ela, que tem um filho, descreveu o assunto como \"<em>tópico sensível</em>\", ainda mais para ser usado como tática de jogo.</p><p>Perla Figuereo e Steven Jones compartilharam opiniões semelhantes. Figuereo considerou a estratégia de Eric \"<em>desnecessária</em>\", enquanto Jones lamentou que a tática tenha funcionado a favor do jogador controverso. Figuereo destacou a diferença entre as ações de Eric e as de pais de verdade no jogo, que tinham uma mentalidade e personalidade distintas.</p><blockquote><p>Perla Figuereo: Eu pensei, \"Cara, a culpa parental era demais.\" Sinto que todos que trabalharam na minha aliança e tinham filhos não o fizeram para fazer você se sentir mal sobre nada. Então, eu pensei, \"Ótimo, agora temos que salvá-lo, porque ele tem um filho a caminho.\"</p></blockquote><h2>Experiências e Reflexões dos Finalistas</h2><p>Apesar das frustrações, os finalistas admitiram que um ponto positivo da experiência com Eric em <em>Squid Game: The Challenge</em> foi que ele \"<em>era muito engraçado</em>\". Graham também reconheceu que a edição do programa amplifica o humor vindo do ex-competidor. Clements riu, dizendo que, embora as estratégias de Eric fossem \"<em>um pouco demais</em>\", ele ficaria \"<em>extremamente feliz por estarmos falando dele agora</em>\".</p><p>Questionados sobre o que mais os surpreendeu psicologicamente no jogo, Graham mencionou o tempo de espera. \"<em>Atrás das câmeras, o quanto tudo demorava, meu Deus</em>\", disse ela, explicando que desafios que pareciam curtos na tela podiam levar oito horas ou mais.</p><p>Steven Jones citou o Pentatlo, que durou dois dias, como algo \"<em>insano</em>\". Trinity Parriman ficou surpresa com o volume do alarme de despertar, e Perla Figuereo mencionou os chuveiros como algo desagradável, necessitando de sapatos próprios e toalhas no chão.</p><h2>Votos para Retorno e Momentos Marcantes</h2><p>Sobre a possibilidade de um jogador eliminado retornar na próxima temporada, Clements indicou Mark (100) como um favorito dos fãs. Graham mencionou Carol (Player 95), a \"mãe do grupo\", que se sacrificou para não atrapalhar a equipe. Parriman gostaria de ver sua amiga Holland retornar, pois não teve uma \"<em>história</em>\" destacada no programa.</p><p>Parriman também refletiu sobre o momento em que foi impedida de sair para ajudar um amigo durante o desafio \"Mingle\". Ela reconheceu que, ao assistir novamente, percebeu que outros jogadores também a seguravam, algo que não viu claramente na hora. Ela e Leon conversaram e estão bem, assim como ela e Kelly.</p><p>Ao serem perguntados sobre arrependimentos ou negócios inacabados antes da final, Graham lamentou não ter dito o nome de Steven na \"Círculo de Confiança\" para sua amiga Faith. Figuereo gostaria de ter insistido mais com Melissa para seguir seu conselho. Jones se arrependeu de divulgar muitos detalhes sobre seu jogo de pôquer, pois não foi bem recebido por seus aliados.</p><p>Clements, por outro lado, não tem arrependimentos, pois chegou até o final com sorte e determinação. A final de <em>Squid Game: The Challenge</em> temporada 2 foi exibida na Netflix.</p>",
+      "meta_description": "Finalistas de Squid Game: The Challenge 2 reagem à estratégia controversa de Eric e compartilham reflexões sobre suas experiências no reality show da Netflix.",
+      "focus_keyphrase": "Squid Game The Challenge Eric estratégia",
+      "related_keyphrases": [
+        "Squid Game The Challenge jogadores",
+        "Eric Eldredge mentiras",
+        "reality show Netflix"
+      ],
+      "slug": "squid-game-the-challenge-eric-controversia",
+      "categorias": [
+        {
+          "nome": "Squid Game: The Challenge",
+          "grupo": "obras",
+          "evidence": "Squid Game: The Challenge season 2"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "Squid Game The Challenge",
+        "Netflix",
+        "Reality Show",
+        "Eric Eldredge",
+        "Trinity Parriman"
+      ],
+      "image_alt_texts": {
+        "eric-415-smiling-smugly-while-sitting-down-in-squid-game-the-challenge-season-2.jpg": "Eric (415) sorri com superioridade sentado em Squid Game: The Challenge temporada 2.",
+        "numerous-contestants-looking-upset-and-shocked-up-at-a-screen-in-squid-game-the-challenge-season-2.jpg": "Competidores de Squid Game: The Challenge temporada 2 reagem com choque e chateação a uma tela."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Squid Game: The Challenge 2 - Jogadores Reagem à Estratégia Controversa de Eric",
+        "_yoast_wpseo_metadesc": "Finalistas de Squid Game: The Challenge 2 reagem à estratégia controversa de Eric e compartilham reflexões sobre suas experiências no reality show da Netflix.",
+        "_yoast_wpseo_focuskw": "Squid Game The Challenge Eric estratégia",
+        "_yoast_news_keywords": "Squid Game The Challenge, Netflix, Reality Show, Eric Eldredge, Trinity Parriman, Dajah Graham, Perla Figuereo, Vanessa Clements, Steven Jones",
+        "_yoast_wpseo_opengraph-title": "Squid Game: The Challenge 2 - Jogadores Reagem à Estratégia Controversa de Eric",
+        "_yoast_wpseo_opengraph-description": "Finalistas de Squid Game: The Challenge 2 reagem à estratégia controversa de Eric e compartilham reflexões sobre suas experiências no reality show da Netflix.",
+        "_yoast_wpseo_twitter-title": "Squid Game: The Challenge 2 - Jogadores Reagem à Estratégia Controversa de Eric",
+        "_yoast_wpseo_twitter-description": "Finalistas de Squid Game: The Challenge 2 reagem à estratégia controversa de Eric e compartilham reflexões sobre suas experiências no reality show da Netflix."
+      }
+    },
+    {
+      "titulo_final": "Star Trek TOS: A Falta de Empatia de Bones com Pacientes em \"The Enemy Within\"",
+      "conteudo_final": "<p>O Dr. Leonard \"Bones\" McCoy (DeForest Kelley) demonstra uma notável falta de empatia com seus pacientes em um episódio clássico de <em><strong>Star Trek: The Original Series</strong></em>, \"The Enemy Within\". Como Chefe do Departamento Médico da USS Enterprise, McCoy é central para a série, mas seu comportamento neste episódio específico levanta questionamentos.</p><h2>O Acidente do Transportador e a Divisão de Kirk</h2><p>Em \"The Enemy Within\", um acidente com o transportador divide o Capitão James T. Kirk (William Shatner) em duas versões: uma \"boa\", fraca e indecisa, e uma \"má\", perigosa e descontrolada. O episódio explora a dualidade de Kirk, mostrando como ambos os lados são essenciais, mas precisam de equilíbrio.</p><p>Apesar de explorar a complexidade de Kirk, o episódio também apresenta elementos datados e perturbadores, como a agressão sexual do \"Kirk mau\" à Yeoman Janice Rand (Grace Lee Whitney), que é difícil de assistir.</p><h2>A Indiferença de Bones com Sulu e a Tripulação</h2><p>No final do episódio, corpos congelados do Tenente Hikaru Sulu (George Takei) e tripulantes da Enterprise, resgatados de Alfa 177, são levados para a nave. Dr. McCoy faz um diagnóstico rápido: \"<em>Exposição severa a queimaduras de frio, mas acho que eles vão sobreviver.</em>\"</p><div class="body-img landscape mobile-optimized">
+<div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:56.25%">
+<figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/>
+<source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/>
+<source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/>
+<img alt="Bones e Kirk em Star Trek: The Original Series" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-and-kirk-in-star-trek.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/>
+</picture>
+<figcaption>Bones e Kirk em Star Trek: The Original Series</figcaption></figure>
+</div>
+<p>O tom dismissivo de McCoy é chocante. Queimaduras de frio são condições que ameaçam a vida, mas Bones demonstra pouca urgência ou preocupação com Sulu e os outros. Embora Kirk seja o capitão e amigo de Bones, após sua restauração, McCoy deveria ter priorizado o gerenciamento da crise médica.</p> <p>A atenção total do Chefe Médico deveria estar nos tripulantes feridos. Em vez disso, Bones não demonstrou pressa em cuidar dos homens à beira da morte. Seu diagnóstico rápido de \"<em>acho que eles vão sobreviver</em>\" deveria ter sido seguido por uma ação imediata, com Kirk ordenando que ele cuidasse dos pacientes.</p><h2>O Melhor Momento de Bones como Médico</h2><p>Apesar de sua frieza em \"The Enemy Within\", Dr. McCoy é lembrado como um médico exemplar e um modelo para outros médicos em <em>Star Trek</em>. No entanto, seu momento mais compassivo ocorreu em <em>Star Trek IV: The Voyage Home</em>.</p><div class="body-img landscape mobile-optimized">
+<div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:56.25%">
+<figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/>
+<source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/>
+<source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/>
+<img alt="Bones com uma senhora doente em Star Trek IV: The Voyage Home" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/bones-with-sick-lady-in-star-trek-iv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/>
+</picture>
+<figcaption>Bones com uma senhora doente em Star Trek IV: The Voyage Home</figcaption></figure>
+</div>
+<p>Em uma missão para resgatar o Comandante Pavel Chekov (Walter Koenig) de um hospital em São Francisco em 1986, Dr. McCoy encontra uma senhora idosa morrendo de insuficiência renal. Indignado com os cuidados médicos primitivos da época, Bones lhe dá uma pílula.</p> <p>Momentos depois, a senhora, agora recuperada, expressa gratidão a McCoy. Ele não buscou reconhecimento, mas cumpriu seu juramento hipocrático, oferecendo uma nova chance de vida. Este ato de compaixão contrasta fortemente com a sua aparente falta de preocupação com Sulu e a tripulação em \"The Enemy Within\", destacando um dos momentos mais memoráveis de McCoy como médico.</p>",
+      "meta_description": "Análise crítica do comportamento do Dr. Bones McCoy em \"The Enemy Within\" de Star Trek: TOS, contrastando sua frieza com sua compaixão em \"The Voyage Home\".",
+      "focus_keyphrase": "Star Trek Bones The Enemy Within",
+      "related_keyphrases": [
+        "Dr. McCoy Star Trek TOS",
+        "episódio The Enemy Within",
+        "comportamento médico Star Trek"
+      ],
+      "slug": "star-trek-bones-the-enemy-within-critica",
+      "categorias": [
+        {
+          "nome": "Star Trek: The Original Series",
+          "grupo": "obras",
+          "evidence": "Star Trek: The Original Series"
+        },
+        {
+          "nome": "Star Trek",
+          "grupo": "franquias",
+          "evidence": "Star Trek"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Trek TOS",
+        "Dr. Bones McCoy",
+        "DeForest Kelley",
+        "The Enemy Within",
+        "Star Trek IV"
+      ],
+      "image_alt_texts": {
+        "bones-and-kirk-in-star-trek.jpg": "Dr. Bones McCoy e Capitão Kirk em cena de Star Trek: The Original Series.",
+        "bones-with-sick-lady-in-star-trek-iv.jpg": "Dr. Bones McCoy administra medicamento a uma senhora doente em Star Trek IV: The Voyage Home."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Trek TOS: A Falta de Empatia de Bones em \"The Enemy Within\"",
+        "_yoast_wpseo_metadesc": "Análise crítica do comportamento do Dr. Bones McCoy em \"The Enemy Within\" de Star Trek: TOS, contrastando sua frieza com sua compaixão em \"The Voyage Home\".",
+        "_yoast_wpseo_focuskw": "Star Trek Bones The Enemy Within",
+        "_yoast_news_keywords": "Star Trek TOS, Dr. Bones McCoy, DeForest Kelley, The Enemy Within, Star Trek IV, Hikaru Sulu, James T. Kirk, William Shatner, George Takei",
+        "_yoast_wpseo_opengraph-title": "Star Trek TOS: A Falta de Empatia de Bones em \"The Enemy Within\"",
+        "_yoast_wpseo_opengraph-description": "Análise crítica do comportamento do Dr. Bones McCoy em \"The Enemy Within\" de Star Trek: TOS, contrastando sua frieza com sua compaixão em \"The Voyage Home\".",
+        "_yoast_wpseo_twitter-title": "Star Trek TOS: A Falta de Empatia de Bones em \"The Enemy Within\"",
+        "_yoast_wpseo_twitter-description": "Análise crítica do comportamento do Dr. Bones McCoy em \"The Enemy Within\" de Star Trek: TOS, contrastando sua frieza com sua compaixão em \"The Voyage Home\"."
+      }
+    },
+    {
+      "titulo_final": "The Mighty Nein: Toya, Nova Personagem em Clipe Exclusivo",
+      "conteudo_final": "<p>A expansão do universo de <em>Critical Role</em> pela Prime Video ganha um novo capítulo com <em><strong>The Mighty Nein</strong></em>. Uma prévia exclusiva revelada pelo <em>ScreenRant</em> apresenta Toya, uma personagem coadjuvante que ganha destaque na adaptação animada da segunda campanha de <em>Dungeons &amp; Dragons</em> do grupo.</p><h2>A Chegada de Toya ao Circo Itinerante</h2><p>Toya, dublada por Auli'i Cravalho (conhecida por <em>Moana</em>), é uma nova integrante do \"Fletching and Moondrop Traveling Carnival of Curiosities\". Na prévia, Molly (dublada por Taliesin Jaffe) a apresenta como \"<em>Toya, a voz vívida</em>\", acompanhada por um \"Devil-Toad\".</p><div class="body-img landscape mobile-optimized">
+<div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:56.25%">
+<figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/>
+<source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/>
+<source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/>
+<img alt="Toya e o Devil-Toad em clipe de The Mighty Nein" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/critical-role-the-mighty-nein-toya-clip.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/>
+</picture>
+<figcaption>Toya e o Devil-Toad em clipe de The Mighty Nein</figcaption></figure>
+</div>
+<p>Após uma introdução teatral de Gustav Fletching, o dono do circo, a situação se torna tensa quando uma mãe e seu filho se aproximam da carroça com o Devil-Toad. Toya os adverte sobre a sede de sangue da criatura por crianças e a necessidade de guardar os besouros lumino que a saciam \"<em>a qualquer momento</em>\".</p><h2>Origens e Adaptação da Campanha</h2><p>Originalmente interpretada por Matthew Mercer, um dos criadores de <em>Critical Role</em>, as origens de Toya são um mistério. A única informação é que ela se juntou ao circo cerca de dois anos antes do encontro do grupo. Na campanha original, ela é apresentada no primeiro episódio de <em>The Mighty Nein</em>, onde o grupo a vê pela primeira vez se apresentando com o Devil-Toad.</p> <p>Assim como em <em>The Legend of Vox Machina</em>, a equipe de <em>Critical Role</em> já confirmou que a série fará algumas adaptações em relação à campanha original. O objetivo é evitar uma recriação exata e manter os fãs engajados. O clipe exclusivo de <em>The Mighty Nein</em> demonstra esse equilíbrio.</p> <p>A forma como Gustav elogia a confiança de Molly em ter Toya no circo sugere que ele pode ter encontrado a jovem cantora, em vez de Gustav. Essa mudança na origem poderia evoluir a dinâmica entre Molly e Toya em <em><strong>The Mighty Nein</strong></em>, em comparação com a campanha. Na história original, Toya não apenas foi crucial para Molly se juntar ao circo, mas também o ajudou a se curar de feridas de seu passado misterioso.</p> <p>Inverter o início de suas origens pode permitir que a showrunner Tasha Huo e a equipe de <em>Critical Role</em> explorem mais a fundo a história deles juntos, dando a Toya um papel mais proeminente do que na campanha. Os três primeiros episódios de <em>The Mighty Nein</em> estreiam em 19 de novembro no Prime Video, com novos episódios toda quarta-feira.</p>",
+      "meta_description": "Um clipe exclusivo de The Mighty Nein revela Toya, personagem coadjuvante de Critical Role, com a voz de Auli'i Cravalho, antes da estreia na Prime Video.",
+      "focus_keyphrase": "The Mighty Nein Toya personagem",
+      "related_keyphrases": [
+        "Critical Role adaptação",
+        "Prime Video The Mighty Nein",
+        "Auli'i Cravalho dublagem"
+      ],
+      "slug": "the-mighty-nein-toya-clip-exclusivo",
+      "categorias": [
+        {
+          "nome": "The Mighty Nein",
+          "grupo": "obras",
+          "evidence": "The Mighty Nein"
+        },
+        {
+          "nome": "Critical Role",
+          "grupo": "franquias",
+          "evidence": "Critical Role"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "plataformas",
+          "evidence": "Prime Video"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Mighty Nein",
+        "Critical Role",
+        "Prime Video",
+        "Auli'i Cravalho",
+        "Toya",
+        "Dungeons & Dragons"
+      ],
+      "image_alt_texts": {
+        "critical-role-the-mighty-nein-toya-clip.jpg": "Toya, a personagem de Critical Role, ao lado de um Devil-Toad em clipe de The Mighty Nein."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Mighty Nein: Toya, Nova Personagem em Clipe Exclusivo da Prime Video",
+        "_yoast_wpseo_metadesc": "Um clipe exclusivo de The Mighty Nein revela Toya, personagem coadjuvante de Critical Role, com a voz de Auli'i Cravalho, antes da estreia na Prime Video.",
+        "_yoast_wpseo_focuskw": "The Mighty Nein Toya personagem",
+        "_yoast_news_keywords": "The Mighty Nein, Critical Role, Prime Video, Auli'i Cravalho, Toya, Dungeons & Dragons, Tasha Huo, Matthew Mercer",
+        "_yoast_wpseo_opengraph-title": "The Mighty Nein: Toya, Nova Personagem em Clipe Exclusivo da Prime Video",
+        "_yoast_wpseo_opengraph-description": "Um clipe exclusivo de The Mighty Nein revela Toya, personagem coadjuvante de Critical Role, com a voz de Auli'i Cravalho, antes da estreia na Prime Video.",
+        "_yoast_wpseo_twitter-title": "The Mighty Nein: Toya, Nova Personagem em Clipe Exclusivo da Prime Video",
+        "_yoast_wpseo_twitter-description": "Um clipe exclusivo de The Mighty Nein revela Toya, personagem coadjuvante de Critical Role, com a voz de Auli'i Cravalho, antes da estreia na Prime Video."
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix: Série de suspense policial 'Absentia' viraliza mundialmente",
+      "conteudo_final": "<p>A série de suspense policial mais popular da Netflix no momento não é uma produção original. Na verdade, este show viral foi produzido e distribuído por um dos rivais de streaming da Netflix.</p><p>Embora a série tenha sido lançada em 2017 e concluída em 2020, com 3 temporadas e 30 episódios, ela encontrou uma nova vida na Netflix, sendo atualmente a 4ª série mais assistida no mundo na plataforma.</p><p>A série em questão, <em>Absentia</em>, é um suspense policial que estreou originalmente no Prime Video em 2017. Ela conquistou o público com sua trama envolvente.</p><p>A sinopse oficial de <em>Absentia</em> descreve: \"Após ser declarada morta <em>in absentia</em>, uma agente do FBI deve recuperar sua família, identidade e inocência quando se vê como a principal suspeita em uma série de assassinatos\".</p><h2><em>Absentia</em> se torna um suspense policial viral na Netflix</h2><p>Desde seu lançamento na Netflix em 14 de novembro, <em>Absentia</em> não apenas disparou para o topo das paradas globais de streaming da plataforma, mas também manteve sua popularidade durante todo o mês. Dado o grande número de lançamentos de sucesso na Netflix neste outono, este é um feito surpreendente e raro para uma série já concluída.</p><p>Normalmente, a maioria das maiores séries de sucesso da Netflix são produzidas e distribuídas exclusivamente pela própria plataforma. Títulos aclamados e populares são feitos pela Netflix, para a Netflix e seus assinantes.</p><p>No entanto, ocasionalmente, a Netflix adquire os direitos de outra série e a transforma em um sucesso de streaming sem alterar o material original. Este é o caso de <em>Absentia</em>.</p><h2><em>Absentia</em> foi cancelada pelo Prime Video antes de se tornar um sucesso na Netflix</h2><div class="body-img landscape"><div class="responsive-img image-expandable img-article-item" data-img-caption='"Elena Nenkova / &amp;copy;Amazon / Courtesy Everett Collection"' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:56.266666666667%"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Stania Katic struggles against a man holding her at gunpoint on an airport tarmac in a scene from Absentia season 2." data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/stania-katic-in-absentia-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption style="display: none;"></figcaption><small class="body-img-caption">Elena Nenkova / ©Amazon / Courtesy Everett Collection</small></figure></div></div><p>Após o Prime Video cancelar <em>Absentia</em> após três temporadas, a Netflix adquiriu os direitos cerca de cinco anos depois, transformando a série esquecida em um sucesso. Isso se provou um grande acerto para a plataforma e até gerou discussões sobre a possibilidade de uma quarta temporada.</p><p>O mais interessante é que <em>Absentia</em> não foi aclamada universalmente em sua estreia, recebendo apenas 47% de aprovação no Rotten Tomatoes para sua primeira temporada. Isso demonstra que, no cenário atual de streaming, nunca se sabe qual série negligenciada pode se tornar um sucesso viral.</p>",
+      "meta_description": "Descubra por que a série de suspense policial 'Absentia', originalmente do Prime Video, se tornou um sucesso viral e está entre as mais assistidas da Netflix mundialmente.",
+      "focus_keyphrase": "Série Absentia Netflix",
+      "related_keyphrases": [
+        "Absentia suspense policial",
+        "Absentia Prime Video",
+        "Séries de suspense Netflix"
+      ],
+      "slug": "netflix-absentia-sucesso-viral",
+      "categorias": [
+        {
+          "nome": "Absentia",
+          "grupo": "obras",
+          "evidence": "Absentia Has Become A Viral Crime Thriller On Netflix This Month"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "The most popular crime thriller series on Netflix right now"
+        }
+      ],
+      "tags_sugeridas": [
+        "Absentia",
+        "Netflix",
+        "Prime Video",
+        "Séries de suspense",
+        "Stana Katic"
+      ],
+      "image_alt_texts": {
+        "stania-katic-in-absentia-season-2.jpg": "Stana Katic em cena de suspense na segunda temporada de Absentia."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: Série de suspense policial 'Absentia' viraliza mundialmente",
+        "_yoast_wpseo_metadesc": "Descubra por que a série de suspense policial 'Absentia', originalmente do Prime Video, se tornou um sucesso viral e está entre as mais assistidas da Netflix mundialmente.",
+        "_yoast_wpseo_focuskw": "Série Absentia Netflix",
+        "_yoast_news_keywords": "Absentia, Netflix, Prime Video, Stana Katic, séries de suspense",
+        "_yoast_wpseo_opengraph-title": "Netflix: Série de suspense policial 'Absentia' viraliza mundialmente",
+        "_yoast_wpseo_opengraph-description": "Descubra por que a série de suspense policial 'Absentia', originalmente do Prime Video, se tornou um sucesso viral e está entre as mais assistidas da Netflix mundialmente.",
+        "_yoast_wpseo_twitter-title": "Netflix: Série de suspense policial 'Absentia' viraliza mundialmente",
+        "_yoast_wpseo_twitter-description": "Descubra por que a série de suspense policial 'Absentia', originalmente do Prime Video, se tornou um sucesso viral e está entre as mais assistidas da Netflix mundialmente."
+      }
+    },
+    {
+      "titulo_final": "Teen Wolf retorna à Netflix em dezembro após 10 anos de ausência",
+      "conteudo_final": "<p>Fãs de <em>Teen Wolf</em> terão uma nova oportunidade de assistir à série a partir de 1º de dezembro. A produção, que se encaixa tanto em dramas adolescentes quanto em séries de fantasia, retorna à plataforma de streaming.</p><p>Desenvolvida por Jeff Davis, <em>Teen Wolf</em> é uma releitura do filme homônimo de 1985, estrelado por Michael J. Fox. A série acompanha o estudante Scott McCall (Tyler Posey) na fictícia Beacon Hills, Califórnia. Após ser mordido por um lobisomem alfa, Scott se torna o lobisomem adolescente do título.</p><p>Acompanhado por seu melhor amigo, Stiles Stilinski (Dylan O’Brien), Scott luta para equilibrar sua vida adolescente com as mudanças trazidas pela sua nova condição. A série foi muito popular durante sua exibição e agora estará disponível novamente na Netflix.</p><h2><em>Teen Wolf</em> chega à Netflix em 1º de dezembro</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:56.25%"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Scott in Teen Wolf" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/scott-in-teen-wolf.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption style="display: none;"></figcaption></figure></div></div><p>Ao contrário de outras séries populares que não estavam disponíveis para streaming, todas as temporadas de <em>Teen Wolf</em> estiveram disponíveis no Hulu, com o Prime Video oferecendo quatro temporadas. Agora, a série ganha um novo lar em dezembro, onde já esteve antes.</p><p>A Netflix confirmou que <em>Teen Wolf</em> estará em seu catálogo a partir de 1º de dezembro, após uma longa ausência de dez anos. Todas as seis temporadas estarão disponíveis para streaming.</p><p>Não se sabe o motivo da remoção de <em>Teen Wolf</em> da Netflix há uma década, mas é possível que a plataforma não possuísse mais os direitos de streaming.</p><h2>O filme <em>Teen Wolf</em> também chega à Netflix?</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:56.25%"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Tyler Posey as Scott transforming in Teen Wolf The Movie" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption style="display: none;"></figcaption></figure></div></div><p><em>Teen Wolf</em> foi exibida de 2011 a 2017. Em 2023, os fãs se reuniram com a maior parte do elenco original em <em>Teen Wolf: The Movie</em>, que continua a história da série, com Scott administrando um abrigo de animais em Los Angeles e precisando proteger sua antiga cidade de uma ameaça.</p><p>O filme foi lançado no Paramount+ em 26 de janeiro de 2023. No momento, não há informações se ele também será adicionado à Netflix. Para quem deseja rever <em>Teen Wolf</em> ou assistir pela primeira vez, basta aguardar até 1º de dezembro para conferir na Netflix.</p>",
+      "meta_description": "A série Teen Wolf retorna à Netflix em 1º de dezembro após uma década. Todas as seis temporadas estarão disponíveis para streaming.",
+      "focus_keyphrase": "Teen Wolf Netflix",
+      "related_keyphrases": [
+        "Teen Wolf série",
+        "Teen Wolf 2023",
+        "Teen Wolf Paramount+"
+      ],
+      "slug": "teen-wolf-netflix-dezembro",
+      "categorias": [
+        {
+          "nome": "Teen Wolf",
+          "grupo": "obras",
+          "evidence": "Teen Wolf fans, who will have a new chance to (re)watch their favorite TV show."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix has confirmed that Teen Wolf is coming to its catalog on December 1st"
+        }
+      ],
+      "tags_sugeridas": [
+        "Teen Wolf",
+        "Netflix",
+        "Séries adolescentes",
+        "Dylan O'Brien",
+        "Tyler Posey",
+        "Lobisomens"
+      ],
+      "image_alt_texts": {
+        "scott-in-teen-wolf.jpg": "Scott McCall em cena da série Teen Wolf.",
+        "tyler-posey-as-scott-transforming-in-teen-wolf-the-movie.jpg": "Tyler Posey como Scott se transformando em Teen Wolf: The Movie."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Teen Wolf retorna à Netflix em dezembro após 10 anos de ausência",
+        "_yoast_wpseo_metadesc": "A série Teen Wolf retorna à Netflix em 1º de dezembro após uma década. Todas as seis temporadas estarão disponíveis para streaming.",
+        "_yoast_wpseo_focuskw": "Teen Wolf Netflix",
+        "_yoast_news_keywords": "Teen Wolf, Netflix, séries adolescentes, Dylan O'Brien, Tyler Posey, lobisomens, Paramount+",
+        "_yoast_wpseo_opengraph-title": "Teen Wolf retorna à Netflix em dezembro após 10 anos de ausência",
+        "_yoast_wpseo_opengraph-description": "A série Teen Wolf retorna à Netflix em 1º de dezembro após uma década. Todas as seis temporadas estarão disponíveis para streaming.",
+        "_yoast_wpseo_twitter-title": "Teen Wolf retorna à Netflix em dezembro após 10 anos de ausência",
+        "_yoast_wpseo_twitter-description": "A série Teen Wolf retorna à Netflix em 1º de dezembro após uma década. Todas as seis temporadas estarão disponíveis para streaming."
+      }
+    },
+    {
+      "titulo_final": "Harry Potter: Cena 'cringe' de filme ganha nova perspectiva após 15 anos",
+      "conteudo_final": "<p>Uma cena específica da franquia <em>Harry Potter</em>, considerada por muitos como a mais constrangedora, está sendo reavaliada após 15 anos. A cena em questão, do filme <em>Harry Potter e o Enigma do Príncipe</em>, envolve o personagem Harry Potter e a Professora Slughorn.</p><p>Na cena, Harry tenta obter uma memória crucial de Slughorn usando a Poção Polissuco para se disfarçar como uma garota. A tentativa resulta em um momento de humor forçado e desconforto, que marcou muitos espectadores na época.</p><p>No entanto, uma nova análise sugere que a cena pode ter um propósito narrativo mais profundo do que apenas o constrangimento. A perspectiva muda ao considerar o contexto do desenvolvimento de Harry e sua luta contra as forças das trevas.</p><h2>A cena em questão em <em>Harry Potter e o Enigma do Príncipe</em></h2><div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-c35747d5 wp-block-group-is-layout-flex"><p class="wp-block-savage-platform-post-byline">Por James Hunt</p><div class="wp-block-post-date"><time data-format="F j, Y, g:ia" datetime="2025-11-29T11:30:00-05:00">29 de novembro de 2025, 11:30</time></div></div><p>A cena em que Harry, disfarçado de \"педи\" (uma garota), tenta obter uma memória de Slughorn, é frequentemente citada como um dos momentos mais embaraçosos da saga cinematográfica. O humor da situação, com Harry em um corpo feminino e interagindo de forma desajeitada com Slughorn, gerou reações mistas.</p><p>Na época do lançamento, muitos espectadores acharam a cena desnecessária e um desvio do tom mais sombrio que o filme buscava estabelecer. A tentativa de humor pareceu deslocada em meio à crescente ameaça de Voldemort.</p><h2>Uma nova perspectiva sobre a cena</h2><figure class="video-container"><iframe allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.youtube.com/embed/ejQDwjP_LVU"></iframe></figure><p>Contudo, ao revisitar a cena anos depois, é possível interpretá-la de outra forma. A vulnerabilidade de Harry, forçado a usar um disfarce para obter informações vitais, pode ser vista como um reflexo de sua própria jornada. Ele está disposto a se colocar em situações desconfortáveis para alcançar seus objetivos.</p><p>Além disso, a cena pode ser interpretada como uma forma de mostrar a complexidade das relações e a manipulação de memórias. Slughorn, com sua natureza ambígua, é um personagem que guarda segredos, e a tentativa de Harry de extrair a verdade, mesmo que de maneira cômica, é central para o enredo.</p><p>A mudança de perspectiva sobre essa cena demonstra como o tempo e a maturidade podem alterar a percepção de uma obra. O que antes parecia apenas constrangedor, agora pode ser visto como um elemento que contribui para a complexidade dos personagens e da narrativa de <em>Harry Potter e o Enigma do Príncipe</em>.</p>",
+      "meta_description": "Reavalie a cena mais 'cringe' de Harry Potter e o Enigma do Príncipe. Uma nova perspectiva após 15 anos revela o propósito narrativo por trás do momento constrangedor.",
+      "focus_keyphrase": "Cena cringe Harry Potter",
+      "related_keyphrases": [
+        "Harry Potter e o Enigma do Príncipe",
+        "Cenas constrangedoras Harry Potter",
+        "Análise Harry Potter"
+      ],
+      "slug": "harry-potter-cena-cringe-reavaliada",
+      "categorias": [
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "Harry Potter’s Cringiest Scene"
+        },
+        {
+          "nome": "Harry Potter e o Enigma do Príncipe",
+          "grupo": "obras",
+          "evidence": "Harry Potter’s Cringiest Scene, 15 Years Later"
+        },
+        {
+          "nome": "Filmes",
+          "grupo": "editorias",
+          "evidence": "Movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "Harry Potter",
+        "Enigma do Príncipe",
+        "Cenas de filmes",
+        "Análise de cinema",
+        "James Hunt"
+      ],
+      "image_alt_texts": {
+        "ejqd-wjpp_lvu.jpg": "Cena de Harry Potter e o Enigma do Príncipe com Harry disfarçado."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Harry Potter: Cena 'cringe' de filme ganha nova perspectiva após 15 anos",
+        "_yoast_wpseo_metadesc": "Reavalie a cena mais 'cringe' de Harry Potter e o Enigma do Príncipe. Uma nova perspectiva após 15 anos revela o propósito narrativo por trás do momento constrangedor.",
+        "_yoast_wpseo_focuskw": "Cena cringe Harry Potter",
+        "_yoast_news_keywords": "Harry Potter, Enigma do Príncipe, cenas de filmes, análise de cinema, James Hunt, Slughorn",
+        "_yoast_wpseo_opengraph-title": "Harry Potter: Cena 'cringe' de filme ganha nova perspectiva após 15 anos",
+        "_yoast_wpseo_opengraph-description": "Reavalie a cena mais 'cringe' de Harry Potter e o Enigma do Príncipe. Uma nova perspectiva após 15 anos revela o propósito narrativo por trás do momento constrangedor.",
+        "_yoast_wpseo_twitter-title": "Harry Potter: Cena 'cringe' de filme ganha nova perspectiva após 15 anos",
+        "_yoast_wpseo_twitter-description": "Reavalie a cena mais 'cringe' de Harry Potter e o Enigma do Príncipe. Uma nova perspectiva após 15 anos revela o propósito narrativo por trás do momento constrangedor."
+      }
+    }
+  ]
+}

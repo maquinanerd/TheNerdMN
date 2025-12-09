@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Mad Men: Fim da série trouxe mudanças estéticas para 1970",
+      "conteudo_final": "<p>A série <b>Mad Men</b>, premiada com múltiplos Emmy Awards, acompanhou a ascensão e queda da agência de publicidade Sterling Cooper em suas diversas encarnações ao longo de sete temporadas na AMC. Exibida entre março de 1960 e novembro de 1970, a trama centralizou-se em <b>Donald Draper (Jon Hamm)</b>, o Diretor Criativo que personificava o estilo elegante e cool da época, com seus ternos impecáveis e o uso constante de cigarros e bebidas.</p><p>Acompanhar <b>Mad Men</b> é como vislumbrar um universo alternativo, onde o tabagismo e o consumo de álcool no ambiente de trabalho eram a norma, e comportamentos hoje inaceitáveis eram corriqueiros. Apesar disso, muitos aspectos da estética dos anos 60 na série permanecem cativantes e clássicos.</p><p>No entanto, assim como os anos 60 deram lugar aos anos 70, a própria série começou a mudar para pior em suas temporadas finais.</p><h2>Mad Men: A estética da série reflete a chegada dos anos 70</h2><figure class=\"video-container\"><img src=\"https:
+      "meta_description": "As temporadas finais de Mad Men retrataram uma mudança visual chocante, refletindo a chegada dos anos 70 e o declínio da agência Sterling Cooper.",
+      "focus_keyphrase": "Mad Men",
+      "related_keyphrases": [
+        "final de Mad Men",
+        "Don Draper",
+        "anos 70 na TV"
+      ],
+      "slug": "mad-men-fim-anos-70",
+      "categorias": [
+        {
+          "nome": "Mad Men",
+          "grupo": "obras",
+          "evidence": "<em><strong>Mad Men</strong></em>'s final two seasons got ugly as the series headed towards its end."
+        },
+        {
+          "nome": "AMC",
+          "grupo": "editorias",
+          "evidence": "aired for 7 seasons on AMC"
+        },
+        {
+          "nome": "Donald Draper",
+          "grupo": "personagens",
+          "evidence": "<em>Mad Men </em>centered on Donald Draper (Jon Hamm)"
+        }
+      ],
+      "tags_sugeridas": [
+        "mad men",
+        "donald draper",
+        "jon hamm",
+        "anos 70",
+        "amc",
+        "série de TV",
+        "drama"
+      ],
+      "image_alt_texts": {
+        "roger-sterling-with-ladies-in-mad-men-1.jpg": "Roger Sterling em uma cena de Mad Men com um visual característico dos anos 70.",
+        "peggy-and-ginsberg-in-mad-men-1.jpg": "Personagens Peggy Olson e Michael Ginsberg de Mad Men exibindo o estilo da década de 1970.",
+        "0373995_poster_w780.jpg": "Pôster oficial da série de TV Mad Men com os personagens principais."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Mad Men: Fim da série trouxe mudanças estéticas para 1970 | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "As temporadas finais de Mad Men retrataram uma mudança visual chocante, refletindo a chegada dos anos 70 e o declínio da agência Sterling Cooper.",
+        "_yoast_wpseo_focuskw": "Mad Men",
+        "_yoast_news_keywords": "Mad Men, Donald Draper, Jon Hamm, AMC, anos 70, série de TV, drama, Sterling Cooper",
+        "_yoast_wpseo_opengraph-title": "Mad Men: Fim da série trouxe mudanças estéticas para 1970",
+        "_yoast_wpseo_opengraph-description": "As temporadas finais de Mad Men retrataram uma mudança visual chocante, refletindo a chegada dos anos 70 e o declínio da agência Sterling Cooper.",
+        "_yoast_wpseo_twitter-title": "Mad Men: Fim da série trouxe mudanças estéticas para 1970",
+        "_yoast_wpseo_twitter-description": "As temporadas finais de Mad Men retrataram uma mudança visual chocante, refletindo a chegada dos anos 70 e o declínio da agência Sterling Cooper."
+      }
+    }
+  ]
+}

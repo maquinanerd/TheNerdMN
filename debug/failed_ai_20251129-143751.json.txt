@@ -1,0 +1,46 @@
+{
+  "titulo_final": "Meninas Malvadas (2024) chega à Netflix em dezembro com nova adaptação",
+  "conteudo_final": "<p>A adaptação cinematográfica de 2024 do clássico cult de meados dos anos 2000, <em>Meninas Malvadas</em>, chega à Netflix em 5 de dezembro. O filme, que recebeu críticas mistas e comparações com o original de 2004, busca conquistar novos públicos na plataforma de streaming.</p><h2>Críticas e Recepção do Musical</h2><p>A nova versão de <em>Meninas Malvadas</em>, com um toque musical, foi recebida com controvérsia. Apesar de ter conquistado o público com performances fortes e números musicais cativantes, o filme enfrentou críticas por não atingir o alto padrão estabelecido pela obra original. Contudo, a produção conseguiu um desempenho financeiro notável, arrecadando mais de US$ 100 milhões mundialmente, quase triplicando seu orçamento de produção de US$ 36 milhões.</p><p>A sinopse oficial descreve a trama: \"A nova aluna Cady Heron (Angourie Rice) é acolhida no topo da cadeia social pelo grupo de garotas populares chamado 'As Plásticas', liderado pela ardilosa abelha-rainha Regina George (Reneé Rapp) e suas subordinadas Gretchen (Bebe Wood) e Karen (Avantika). No entanto, Cady comete o grave erro de se apaixonar pelo ex-namorado de Regina, Aaron Samuels (Christopher Briney), e se torna presa na mira de Regina. Ao planejar derrubar a predadora do grupo com a ajuda de seus amigos desajustados Janis (Auli'i Cravalho) e Damian (Jaquel Spivey), Cady precisa aprender a permanecer fiel a si mesma enquanto navega pela selva mais selvagem de todas: o ensino médio.\""</p><h2>Bilheteria: Original vs. Reboot</h2><p>Apesar da inflação dos ingressos ao longo de duas décadas, <em>Meninas Malvadas</em> (2024) ainda ficou atrás de seu predecessor em receita total de bilheteria. O reboot recente arrecadou pouco mais de US$ 100 milhões em receita global, cerca de US$ 30 milhões a menos que o original de 2004. O filme de 2004, com US$ 86 milhões em receita doméstica e outros US$ 44 milhões de mercados internacionais, alcançou US$ 130 milhões, garantindo seu lugar no legado cinematográfico.</p><p>O filme <em>Meninas Malvadas</em> (2024) estará disponível para streaming na Netflix a partir de 5 de dezembro.</p>",
+  "meta_description": "Meninas Malvadas (2024), a controversa adaptação musical do clássico cult, estreia na Netflix em 5 de dezembro após arrecadar US$ 100 milhões.",
+  "focus_keyphrase": "Meninas Malvadas 2024 Netflix",
+  "related_keyphrases": [
+    "Meninas Malvadas musical",
+    "reboot Meninas Malvadas",
+    "Angourie Rice Reneé Rapp"
+  ],
+  "slug": "meninas-malvadas-2024-netflix-dezembro",
+  "categorias": [
+    {
+      "nome": "Meninas Malvadas",
+      "grupo": "franquias",
+      "evidence": "2024's <em>Mean Girls</em>, an adaptation of the mid-noughties chick flick classic"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "plataformas",
+      "evidence": "officially joins Netflix this December 5"
+    }
+  ],
+  "tags_sugeridas": [
+    "meninas malvadas",
+    "mean girls",
+    "netflix",
+    "Angourie Rice",
+    "Reneé Rapp",
+    "comédia musical",
+    "cinema 2024"
+  ],
+  "image_alt_texts": {
+    "mean_girls_2024_netflix_collage.jpg": "Imagem promocional de Meninas Malvadas 2024 com Angourie Rice e Reneé Rapp em destaque."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Meninas Malvadas (2024) chega à Netflix em dezembro com nova adaptação",
+    "_yoast_wpseo_metadesc": "Meninas Malvadas (2024), a controversa adaptação musical do clássico cult, estreia na Netflix em 5 de dezembro após arrecadar US$ 100 milhões.",
+    "_yoast_wpseo_focuskw": "Meninas Malvadas 2024 Netflix",
+    "_yoast_news_keywords": "Meninas Malvadas, Mean Girls, Netflix, Angourie Rice, Reneé Rapp, musical, filme 2024, comédia",
+    "_yoast_wpseo_opengraph-title": "Meninas Malvadas (2024) chega à Netflix em dezembro com nova adaptação",
+    "_yoast_wpseo_opengraph-description": "Meninas Malvadas (2024), a controversa adaptação musical do clássico cult, estreia na Netflix em 5 de dezembro após arrecadar US$ 100 milhões.",
+    "_yoast_wpseo_twitter-title": "Meninas Malvadas (2024) chega à Netflix em dezembro",
+    "_yoast_wpseo_twitter-description": "O filme Meninas Malvadas (2024) estreia na Netflix em 5 de dezembro. A adaptação musical do clássico cult recebeu críticas mistas."
+  }
+}

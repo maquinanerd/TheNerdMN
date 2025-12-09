@@ -1,0 +1,104 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ubisoft demite funcionários em estúdio de Star Wars Outlaws e Avatar",
+      "conteudo_final": "<p>A <b>Ubisoft</b> está reduzindo suas operações no estúdio <b>Massive Entertainment</b>, implementando um programa de demissão voluntária. Em comunicado, a empresa descreve a ação como parte de uma 'transição' focada na franquia <b>The Division</b>, o que aparentemente envolve a diminuição de suas atividades.</p><p>Esta decisão ocorre após os lançamentos dos jogos single-player <b>Avatar: Frontiers of Pandora</b> e <b>Star Wars Outlaws</b>. Anteriormente, foi reportado que <b>Star Wars Outlaws não atingiu as expectativas de vendas</b>, o que pode indicar que futuras atualizações e uma possível versão para o Nintendo Switch 2 não foram suficientes para impulsionar o título.</p><h2>Estúdio de Star Wars Outlaws oferece demissão voluntária</h2><p>A Massive Entertainment divulgou uma declaração informando que realinhou suas equipes e recursos. Não há clareza sobre o número de funcionários afetados.</p><p>\"Como parte da nossa evolução contínua e planejamento de longo prazo, recentemente realinhamos nossas equipes e recursos para fortalecer nosso roteiro, garantindo nosso foco contínuo na franquia <b>The Division</b> e nas tecnologias que impulsionam nossos jogos, incluindo Snowdrop e Ubisoft Connect\", afirma o comunicado.</p><p>\"Para apoiar essa transição de forma responsável, introduzimos um programa voluntário de transição de carreira, oferecendo aos membros elegíveis a oportunidade de dar o próximo passo em suas carreiras em seus próprios termos, com o suporte de um pacote abrangente que inclui assistência financeira e profissional.\"</p><p>A declaração também menciona projetos da Massive como <b>The Division 2</b>, <b>The Division 2: Survivors</b>, <b>The Division Resurgence</b> e <b>The Division 3</b>. Note a ausência de menções a projetos de <b>Avatar</b> ou <b>Star Wars</b>, ou a outros empreendimentos single-player.</p><p>Todas as informações disponíveis, especialmente as vindas de fontes francesas, sugerem que o programa de demissão voluntária é uma iniciativa para encorajar os desenvolvedores a se desligarem da empresa com um pacote de indenização. Resta saber quanto tempo essa abordagem será mantida e se a empresa recorrerá a cortes compulsórios caso não haja adesão suficiente à oferta.</p><p>A situação na Ubisoft tem sido instável há algum tempo. No início desta semana, o chefe da franquia <b>Assassin's Creed</b>, Marc-Alexis Côté, alegou ter sido afastado da empresa, apesar de relatos iniciais indicarem que ele havia se afastado voluntariamente.</p>",
+      "meta_description": "Ubisoft promove demissão voluntária no estúdio Massive Entertainment após lançamentos de Star Wars Outlaws e Avatar, focando em The Division.",
+      "focus_keyphrase": "Ubisoft demite funcionários",
+      "related_keyphrases": [
+        "Massive Entertainment",
+        "Star Wars Outlaws",
+        "Avatar: Frontiers of Pandora"
+      ],
+      "slug": "ubisoft-demite-funcionarios-estudio",
+      "categorias": [
+        {
+          "nome": "Ubisoft",
+          "grupo": "franquias",
+          "evidence": "Ubisoft"
+        },
+        {
+          "nome": "Star Wars Outlaws",
+          "grupo": "obras",
+          "evidence": "Star Wars Outlaws"
+        },
+        {
+          "nome": "Avatar: Frontiers of Pandora",
+          "grupo": "obras",
+          "evidence": "Avatar: Frontiers of Pandora"
+        }
+      ],
+      "tags_sugeridas": [
+        "Ubisoft",
+        "Massive Entertainment",
+        "Star Wars Outlaws",
+        "Avatar",
+        "The Division"
+      ],
+      "image_alt_texts": {
+        "ubisoft.jpg": "Logo da Ubisoft em destaque, representando a empresa em questão."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ubisoft demite funcionários em estúdio de Star Wars Outlaws e Avatar",
+        "_yoast_wpseo_metadesc": "Ubisoft promove demissão voluntária no estúdio Massive Entertainment após lançamentos de Star Wars Outlaws e Avatar, focando em The Division.",
+        "_yoast_wpseo_focuskw": "Ubisoft demite funcionários",
+        "_yoast_news_keywords": "Ubisoft, Massive Entertainment, Star Wars Outlaws, Avatar: Frontiers of Pandora, The Division",
+        "_yoast_wpseo_opengraph-title": "Ubisoft demite funcionários em estúdio de Star Wars Outlaws e Avatar",
+        "_yoast_wpseo_opengraph-description": "Ubisoft promove demissão voluntária no estúdio Massive Entertainment após lançamentos de Star Wars Outlaws e Avatar, focando em The Division.",
+        "_yoast_wpseo_twitter-title": "Ubisoft demite funcionários em estúdio de Star Wars Outlaws e Avatar",
+        "_yoast_wpseo_twitter-description": "Ubisoft promove demissão voluntária no estúdio Massive Entertainment após lançamentos de Star Wars Outlaws e Avatar, focando em The Division."
+      }
+    },
+    {
+      "titulo_final": "Pokémon Legends: Z-A: Magikarp Alpha aprende Hidrobomba e assusta jogadores",
+      "conteudo_final": "<p>Após quase três décadas, o <b>Magikarp</b> continua sendo uma das criaturas menos respeitadas na série <b>Pokémon</b>. Contudo, parece que um Magikarp em específico está determinado a se vingar, atacando treinadores desprevenidos em <b>Pokémon Legends: Z-A</b> com um poder surpreendente.</p><p>Em <b>Pokémon Legends: Z-A</b>, é possível encontrar e capturar uma grande quantidade de Magikarp logo no início do jogo. Eles aparecem na Zona Selvagem 2, que pode ser acessada nas primeiras horas de gameplay. Como a maioria dos outros Pokémon no jogo, Magikarp tentará atacar você, mas seus ataques geralmente se limitam a saltar em terra e se debater, sem causar dano.</p><h2>Cuidado com o Magikarp Alpha na Zona Selvagem 2</h2><p>Isso não se aplica, porém, ao Magikarp alpha que espreita na Zona Selvagem 2. Enquanto a maioria dos Magikarp conhece apenas o movimento 'Splash', que não tem efeito algum, um Magikarp incomum aprendeu o poderoso ataque <b>Hydropump</b> (Hidrobomba). Este indivíduo reside em um parque aparentemente tranquilo perto do centro de Lumiose City.</p><p>Um jogador identificado como 638Knightslash alertou outros treinadores no Twitter sobre o perigo do Magikarp alpha na Zona Selvagem 2. Ele não apenas afirmou que o Magikarp conhece Hidrobomba, mas também que parece ser inteligente o suficiente para mirar diretamente no treinador, e não em seu Pokémon parceiro.</p><p>Inicialmente, não houve filmagens deste Magikarp. No entanto, Mizuki, o treinador que foi alvo do aviso de Knightslash, decidiu investigar e encontrou o Magikarp que usa Hidrobomba. Ao que tudo indica, não é difícil localizá-lo, pois o jogador o encontrou quase imediatamente e capturou imagens como prova.</p><p>No vídeo, o treinador passa rapidamente por um Magikarp na terra, na tentativa de identificar aquele capaz de mais do que apenas Splash. Ele descobre da maneira mais difícil que o Pokémon que acabou de ultrapassar é, de fato, o Magikarp alpha sobre o qual foi alertado. Mesmo com o aviso de que o Magikarp estava prestes a usar Hidrobomba, a parte final do poderoso golpe o atinge, apesar de ele não parar de correr.</p><p>Ainda não está claro se o Magikarp mantém o conhecimento de Hidrobomba caso seja capturado. Seria uma adição valiosa para uma equipe no início do jogo se isso fosse possível. No entanto, boa sorte para se aproximar dele sem ser atingido por seu ataque. Mantenham-se seguros, treinadores!</p><figure><img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/02/pokemon-magikarp.jpg" alt="Um Magikarp Alpha em Pokémon Legends: Z-A, conhecido por usar Hidrobomba."><figcaption>Um Magikarp Alpha em Pokémon Legends: Z-A, conhecido por usar Hidrobomba.</figcaption></figure><figure><img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/08/pokemon-z-a-cover-art-1.jpg" alt="Capa do jogo Pokémon Legends: Z-A, com destaque para a região de Kalos."><figcaption>Capa do jogo Pokémon Legends: Z-A, com destaque para a região de Kalos.</figcaption></figure><figure><img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/pokemon-legends-z-a-press-image-1.jpg" alt="Cena de combate em Pokémon Legends: Z-A, mostrando treinadores e Pokémon."><figcaption>Cena de combate em Pokémon Legends: Z-A, mostrando treinadores e Pokémon.</figcaption></figure>",
+      "meta_description": "Um Magikarp Alpha em Pokémon Legends: Z-A surpreende jogadores ao aprender e usar o poderoso ataque Hidrobomba, tornando-se uma ameaça.",
+      "focus_keyphrase": "Magikarp Alpha aprende Hidrobomba",
+      "related_keyphrases": [
+        "Pokémon Legends: Z-A",
+        "Magikarp poderoso",
+        "ataque Hidrobomba"
+      ],
+      "slug": "magikarp-alpha-hidrobomba-z-a",
+      "categorias": [
+        {
+          "nome": "Pokémon Legends: Z-A",
+          "grupo": "obras",
+          "evidence": "Pokemon Legends: Z-A"
+        },
+        {
+          "nome": "Pokémon",
+          "grupo": "franquias",
+          "evidence": "Pokemon"
+        },
+        {
+          "nome": "Game Freak",
+          "grupo": "desenvolvedores",
+          "evidence": "Game Freak"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokémon Legends: Z-A",
+        "Magikarp",
+        "Hidrobomba",
+        "Game Freak",
+        "Nintendo"
+      ],
+      "image_alt_texts": {
+        "pokemon-magikarp.jpg": "Magikarp Alfa em Pokémon Legends: Z-A, com o movimento Hidrobomba pronto para ser usado.",
+        "pokemon-z-a-cover-art-1.jpg": "Capa do jogo Pokémon Legends: Z-A, exibindo a região de Kalos e seus Pokémon.",
+        "pokemon-legends-z-a-press-image-1.jpg": "Cena de batalha em Pokémon Legends: Z-A, com personagens e criaturas."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon Legends: Z-A: Magikarp Alpha aprende Hidrobomba e assusta jogadores",
+        "_yoast_wpseo_metadesc": "Um Magikarp Alpha em Pokémon Legends: Z-A surpreende jogadores ao aprender e usar o poderoso ataque Hidrobomba, tornando-se uma ameaça.",
+        "_yoast_wpseo_focuskw": "Magikarp Alpha aprende Hidrobomba",
+        "_yoast_news_keywords": "Pokémon Legends: Z-A, Magikarp, Hidrobomba, Game Freak, Nintendo, The Pokemon Company",
+        "_yoast_wpseo_opengraph-title": "Pokémon Legends: Z-A: Magikarp Alpha aprende Hidrobomba e assusta jogadores",
+        "_yoast_wpseo_opengraph-description": "Um Magikarp Alpha em Pokémon Legends: Z-A surpreende jogadores ao aprender e usar o poderoso ataque Hidrobomba, tornando-se uma ameaça.",
+        "_yoast_wpseo_twitter-title": "Pokémon Legends: Z-A: Magikarp Alpha aprende Hidrobomba e assusta jogadores",
+        "_yoast_wpseo_twitter-description": "Um Magikarp Alpha em Pokémon Legends: Z-A surpreende jogadores ao aprender e usar o poderoso ataque Hidrobomba, tornando-se uma ameaça."
+      }
+    }
+  ]
+}

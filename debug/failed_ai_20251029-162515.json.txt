@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Wes Bentley: Estrela de Yellowstone estreia nova série após o fim da 5ª temporada",
+  "conteudo_final": "<p>Após cinco temporadas dedicadas à série de sucesso <i>Yellowstone</i>, o ator Wes Bentley finalmente confirmou seu próximo projeto televisivo. Bentley integrou o elenco principal de <i>Yellowstone</i> interpretando Jamie Dutton, o filho adotivo do patriarca John Dutton, vivido por Kevin Costner.</p><h2>Próximos Passos na Carreira de Wes Bentley</h2><p>Ao contrário de seus irmãos na ficção, o futuro de Bentley na franquia Sheridan não apontava para um novo spin-off após o desfecho da quinta temporada de <i>Yellowstone</i>. Jamie é morto por sua irmã adotiva, Beth, no final da série, em um ato de vingança pelo assassinato de seu pai. Portanto, enquanto estrelas como Luke Grimes, Kelly Reilly e Cole Hauser já embarcaram em seus próprios spin-offs, o futuro televisivo de Bentley permaneceu em aberto.</p><p>Conforme noticiado, Wes Bentley agora tem seu primeiro projeto após <i>Yellowstone</i>, pois <strong>estreará na nova série da FX, <i>The Shards</i>, produzida por Ryan Murphy</strong>. Bentley interpretará Terry, pai da personagem Debbie, vivida por Hayes Warner. O ator se junta ao elenco já anunciado, que inclui Evan Rachel Wood, Kaia Gerber, Graham Campbell, Igby Rigney, Homer Gere e Warner.</p><figure class=\"video-container\"><img src=\"https:
+  "meta_description": "Wes Bentley, conhecido como Jamie Dutton em Yellowstone, confirmou seu próximo projeto: a série 'The Shards' da FX, produzida por Ryan Murphy.",
+  "focus_keyphrase": "Wes Bentley nova série",
+  "related_keyphrases": [
+    "Wes Bentley The Shards",
+    "Yellowstone Wes Bentley",
+    "Ryan Murphy nova série"
+  ],
+  "slug": "wes-bentley-nova-serie-yellowstone",
+  "categorias": [
+    {
+      "nome": "Yellowstone",
+      "grupo": "franquias",
+      "evidence": "After spending five seasons on Taylor Sheridan's hit Western series Yellowstone"
+    },
+    {
+      "nome": "The Shards",
+      "grupo": "obras",
+      "evidence": "set to star in Ryan Murphy's upcoming FX series The Shards"
+    },
+    {
+      "nome": "American Horror Story",
+      "grupo": "obras",
+      "evidence": "Bentley previously starred in Murphy's American Horror Story seasons 4, 5, and 6"
+    }
+  ],
+  "tags_sugeridas": [
+    "Wes Bentley",
+    "Yellowstone",
+    "Jamie Dutton",
+    "The Shards",
+    "Ryan Murphy",
+    "FX",
+    "Séries de TV"
+  ],
+  "image_alt_texts": {
+    "john-kevin-costner-standing-over-jamie-wes-bentley-as-he-holds-a-gun-in-yellowstone.jpg": "John Dutton (Kevin Costner) observa Jamie Dutton (Wes Bentley) em uma cena tensa de Yellowstone.",
+    "03146271_poster_w780.jpg": "Pôster da série Yellowstone com o elenco principal."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Wes Bentley: Estrela de Yellowstone estreia nova série após o fim da 5ª temporada",
+    "_yoast_wpseo_metadesc": "Wes Bentley, conhecido como Jamie Dutton em Yellowstone, confirmou seu próximo projeto: a série 'The Shards' da FX, produzida por Ryan Murphy.",
+    "_yoast_wpseo_focuskw": "Wes Bentley nova série",
+    "_yoast_news_keywords": "Wes Bentley, Yellowstone, The Shards, Ryan Murphy, FX, Jamie Dutton, Kevin Costner, Taylor Sheridan, séries de TV",
+    "_yoast_wpseo_opengraph-title": "Wes Bentley: Estrela de Yellowstone estreia nova série após o fim da 5ª temporada",
+    "_yoast_wpseo_opengraph-description": "Wes Bentley, conhecido como Jamie Dutton em Yellowstone, confirmou seu próximo projeto: a série 'The Shards' da FX, produzida por Ryan Murphy.",
+    "_yoast_wpseo_twitter-title": "Wes Bentley: Estrela de Yellowstone estreia nova série após o fim da 5ª temporada",
+    "_yoast_wpseo_twitter-description": "Wes Bentley, conhecido como Jamie Dutton em Yellowstone, confirmou seu próximo projeto: a série 'The Shards' da FX, produzida por Ryan Murphy."
+  }
+}

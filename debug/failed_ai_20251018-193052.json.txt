@@ -1,0 +1,68 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "7 Vilões da Marvel Fora do MCU Que Merecem uma Chance",
+      "conteudo_final": "<p>O Universo Cinematográfico Marvel (MCU) expandiu seu panteão de vilões com figuras icônicas como Thanos, Caveira Vermelha, Loki, Ultron, Feiticeira Escarlate e Killmonger. No entanto, muitas décadas de filmes baseados em quadrinhos da Marvel apresentaram antagonistas memoráveis que ainda não fizeram sua estreia no MCU. Com a Marvel Studios recuperando os direitos de muitos de seus personagens, há uma oportunidade de trazer esses vilões formidáveis para o universo principal.</p><h2>Vilões Notáveis de Outros Universos Marvel</h2><p>Estúdios como a 20th Century Fox, Sony Pictures e New Line Cinema já exploraram personagens da Marvel em seus próprios filmes. Essas produções nos apresentaram a vilões que, embora impressionantes em suas respectivas obras, ainda aguardam sua chance no MCU. A expectativa é alta para que essas figuras ganhem vida novamente, desta vez integradas à narrativa coesa do MCU.</p><h2>Deacon Frost: O Vampiro Carismático</h2><p>Stephen Dorff interpretou Deacon Frost em <i>Blade</i> (1998), um líder de vampiros que buscava incitar uma guerra contra humanos e despertar o “deus do sangue”, La Magra. A performance carismática de Dorff, combinada com a teatralidade sinistra do personagem, o tornou um antagonista cativante. Com a chegada de Mahershala Ali como Blade no MCU, seria empolgante ver um Deacon Frost mais fiel aos quadrinhos confrontando o Caçador de Vampiros.</p><h2>Blackheart: O Filho do Demônio</h2><p>Apesar de a performance de Wes Bentley como Blackheart em <i>Motoqueiro Fantasma</i> (2007) ser considerada por muitos como fraca, o personagem possui potencial para o MCU. Sendo filho de um vilão demoníaco, Blackheart almejava trazer o inferno à Terra. Seus efeitos visuais demoníacos, embora datados, poderiam ser aprimorados pela tecnologia atual da Marvel Studios para criar um vilão verdadeiramente assustador.</p><h2>Harry Osborn / Duende Verde: O Amigo Que Se Torna Inimigo</h2><p>A evolução de Harry Osborn (James Franco) de melhor amigo de Peter Parker a seu arqui-inimigo em <i>Homem-Aranha 3</i> o solidifica como um vilão marcante. Sua batalha interna, motivações compreensíveis e conexão com o Homem-Aranha o tornam um adversário memorável. Seria interessante ver o Peter Parker de Tom Holland desenvolver essa relação complexa, enfrentando eventualmente o Harry Osborn como o Duende Verde no MCU.</p><h2>Cletus Kasady / Carnificina: A Fúria Simbiótica</h2><p>A interpretação de Woody Harrelson como Cletus Kasady, o hospedeiro do Carnificina em <i>Venom: Tempo de Carnificina</i>, elevou o filme. A raiva desenfreada e a maldade pura de Carnificina o tornaram um vilão fantástico, com uma conexão pessoal com Venom que adiciona profundidade ao personagem. A exploração dessa rivalidade no MCU seria um grande atrativo, especialmente com o Venom programado para aparecer em <a href=\"https://www.maquinanerd.com.br/tag/your-friendly-neighborhood-spider-man\">Your Friendly Neighborhood Spider-Man</a> e com a possibilidade de sua aparição em live-action.</p><h2>Bolivar Trask: O Criador dos Sentinelas</h2><p>Embora uma versão anterior tenha aparecido em <i>X-Men: O Confronto Final</i>, <i>X-Men: Dias de um Futuro Esquecido</i> (2014) apresentou uma versão mais sinistra e influente de Bolivar Trask. Interpretado por Peter Dinklage, Trask foi o criador dos Sentinelas, robôs que visavam subjugar mutantes. Seu fascínio e ódio por mutantes o tornam um antagonista humano intrigante, ideal para um futuro confronto no <a href=\"https://www.maquinanerd.com.br/tag/x-men\">reboot dos X-Men no MCU</a>.</p><h2>Knull: O Deus dos Simbiontes</h2><p>Knull, uma figura cósmica poderosa e aterrorizante, teve sua presença antecipada em <i>Venom: O Último Concerto</i>, mas permaneceu contido. Como um dos vilões mais perigosos da Marvel Comics, Knull representa uma ameaça significativa que poderia expandir o escopo do MCU. Uma adaptação cinematográfica, possivelmente com Andy Serkis reprisando o papel, traria um novo nível de perigo para as histórias do Homem-Aranha e do Venom.</p><h2>Erik Lehnsherr / Magneto: O Mestre do Magnetismo</h2><p>Erik Lehnsherr, o Magneto, é indiscutivelmente o vilão mais impressionante e memorável de filmes da Marvel fora do MCU. As performances de Ian McKellen na trilogia original dos X-Men e Michael Fassbender nos filmes seguintes solidificaram Magneto como um personagem complexo e poderoso. Há expectativas de que Ian McKellen possa reprisar seu papel como Magneto em <a href=\"https://www.maquinanerd.com.br/tag/avengers\">Vingadores: O Confronto Final</a>, marcando potencialmente o fim de sua jornada e sua aguardada introdução ao MCU.</p>",
+      "meta_description": "Descubra 7 vilões icônicos da Marvel, de filmes fora do MCU, como Magneto e Carnificina, que merecem uma chance no Universo Cinematográfico Marvel.",
+      "focus_keyphrase": "Vilões da Marvel fora do MCU",
+      "related_keyphrases": [
+        "Vilões do MCU",
+        "Magneto no MCU",
+        "Carnificina no MCU"
+      ],
+      "slug": "viloes-marvel-fora-mcu",
+      "categorias": [
+        {
+          "nome": "Marvel",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        },
+        {
+          "nome": "MCU",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        },
+        {
+          "nome": "X-Men",
+          "grupo": "franquias",
+          "evidence": "X-Men movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "Marvel",
+        "MCU",
+        "Vilões",
+        "Magneto",
+        "Carnificina",
+        "X-Men",
+        "Blade"
+      ],
+      "image_alt_texts": {
+        "jim-carrey-dr-robotnik-sonic.jpg": "Dr. Robotnik, vilão dos filmes do Sonic, com expressão ameaçadora.",
+        "companion-movie-3.jpg": "Personagens não identificados em uma cena de filme.",
+        "pax-dei.png": "Imagem promocional do jogo Pax Dei.",
+        "Battlestar-Galactica-33.jpg": "Cena da série Battlestar Galactica 33 com naves espaciais.",
+        "Blackheart-in-the-shadows-in-Ghost-Rider.jpg": "Blackheart, vilão de Motoqueiro Fantasma, emergindo das sombras.",
+        "Bolivar-Trask-in-the-1970s-in-X-Men-Days-of-Future-Past.jpg": "Bolivar Trask (Peter Dinklage) nos anos 70 em X-Men: Dias de um Futuro Esquecido.",
+        "Cletus-Kasadys-Carnage-attacking-in-Venom-Let-There-Be-Carnage.jpg": "Carnificina atacando em Venom: Tempo de Carnificina.",
+        "Deacon-Frost-covered-in-blood-in-Blade.jpg": "Deacon Frost coberto de sangue em Blade.",
+        "Harry-Osborn-with-a-knife-in-Spider-Man-3.jpg": "Harry Osborn com uma faca em Homem-Aranha 3.",
+        "Knull-snarling-in-Venom-The-Last-Dance.jpg": "Knull rosnando em Venom: O Último Concerto.",
+        "Magneto-on-the-bridge-in-X-Men-The-Last-Stand.jpg": "Magneto sobre uma ponte em X-Men: O Confronto Final.",
+        "MixCollage-15-Oct-2025-01-29-PM-1471.jpg": "Montagem de imagens de entretenimento.",
+        "p-s-2.png": "Personagem não identificado em um cenário de fantasia.",
+        "p-s-5_aed69f.png": "Imagem promocional com personagens diversos."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "7 Vilões da Marvel Fora do MCU Que Merecem Uma Chance",
+        "_yoast_wpseo_metadesc": "Descubra 7 vilões icônicos da Marvel, de filmes fora do MCU, como Magneto e Carnificina, que merecem uma chance no Universo Cinematográfico Marvel.",
+        "_yoast_wpseo_focuskw": "Vilões da Marvel fora do MCU",
+        "_yoast_news_keywords": "Marvel, MCU, Vilões, Magneto, Carnificina, X-Men, Blade, Deacon Frost, Blackheart, Harry Osborn, Cletus Kasady, Bolivar Trask, Knull",
+        "_yoast_wpseo_opengraph-title": "7 Vilões da Marvel Fora do MCU Que Merecem Uma Chance",
+        "_yoast_wpseo_opengraph-description": "O Universo Cinematográfico Marvel (MCU) expandiu seu panteão de vilões com figuras icônicas como Thanos, Caveira Vermelha, Loki, Ultron, Feiticeira Escarlate e Killmonger. No entanto, muitas décadas de filmes baseados em quadrinhos da Marvel apresentaram antagonistas memoráveis que ainda não fizeram sua estreia no MCU.",
+        "_yoast_wpseo_twitter-title": "7 Vilões da Marvel Fora do MCU Que Merecem Uma Chance",
+        "_yoast_wpseo_twitter-description": "O Universo Cinematográfico Marvel (MCU) expandiu seu panteão de vilões com figuras icônicas como Thanos, Caveira Vermelha, Loki, Ultron, Feiticeira Escarlate e Killmonger. No entanto, muitas décadas de filmes baseados em quadrinhos da Marvel apresentaram antagonistas memoráveis que ainda não fizeram sua estreia no MCU."
+      }
+    }
+  ]
+}

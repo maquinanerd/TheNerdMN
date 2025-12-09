@@ -1,0 +1,147 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Robin Hood: Ator Jack Patten comenta esperanças para a 2ª temporada",
+      "conteudo_final": "<p>As chances de uma segunda temporada de <em>Robin Hood</em> receberam um retorno do ator principal Jack Patten. A série, que estreou no MGM+ no início de novembro, reimagina a lenda clássica com uma exploração mais profunda de seus personagens. O foco recai sobre a relação entre Rob (Patten) e Marian (Lauren McQueen) enquanto trabalham para conter a corrupção real.</p><p>Com um elenco que inclui Sean Bean como o Xerife de Nottingham, Lydia Peckham como Priscilla de Nottingham, Steven Waddington como o Conde de Huntingdon e Connie Nielsen como Rainha Eleanor da Aquitânia, o drama de aventura de dez episódios tem recebido uma recepção geralmente positiva. Atualmente, ostenta 73% no Rotten Tomatoes, com a pontuação da audiência subindo para 80%.</p><h2>Esperanças para a 2ª temporada de Robin Hood</h2><p>Em entrevista ao <em>The Manchester Evening News</em>, Patten abordou entusiasticamente a possibilidade de uma segunda temporada. O ator declarou que adoraria retornar para a temporada 2, descrevendo a experiência como emocionante. Ele também elogiou John Glenn e o diretor Jonathan English por criarem personagens ricos e envolventes. Patten indicou que há material suficiente para mais episódios:</p><blockquote><p>“Nós adoraríamos fazer uma [temporada] 2. Seria incrível. Jonathan [English] e John [Glenn] simplesmente escreveram personagens incríveis. Como atores, amamos um arco, não se pode pedir muito mais.”</p></blockquote><p>McQueen ecoa o entusiasmo de Patten, afirmando que ela “definitivamente” voltaria se a série fosse renovada. Ela antecipa que o final da temporada deixa cada personagem em um ponto empolgante, oferecendo oportunidades para o mundo evoluir. McQueen também destacou o ambiente de trabalho, elogiando os jovens atores com quem trabalha e observando como a atmosfera positiva no set se reflete na tela:</p><blockquote><p>“Acho que a temporada termina de forma bastante interessante para cada personagem. Acho que poderia se desenvolver, mas nós apenas queríamos fazer o nosso melhor para a temporada 1. É um elenco jovem muito empolgante também, tão talentoso. Estou tão animada para que todos vejam novos atores. Éramos como uma grande família no final e acho que você pode realmente ver essa energia na tela.”</p></blockquote><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/tcdroho_j8009-cropped.jpg?q=49&fit=crop&w=825&dpr=2" alt="Jack Patten como Robin Hood em Robin Hood (2025)"/><figcaption>Jack Patten como Robin Hood na série de 2025.</figcaption></figure><p>Não há números públicos de audiência para <em>Robin Hood</em>. No entanto, dados de terceiros, como o rastreador de streaming <em>FlixPatrol</em>, indicam que o drama de aventura tem estado no topo das paradas nos EUA e no Reino Unido desde 13 de novembro. Considerando que o MGM+ é um streamer menor com menos produções originais, isso pode ser um ponto a seu favor.</p><p>Ao considerar uma renovação, é útil observar a trajetória de outras produções originais do MGM+, como <em>From</em>. Uma mistura de terror e fantasia, <em>From</em> foi renovada rapidamente. Se <em>Robin Hood</em> seguir o caminho de outros dramas de sucesso do MGM+, a série reimaginada pode receber o sinal verde antes mesmo da estreia de seu final em 28 de dezembro.</p>",
+      "meta_description": "Jack Patten e Lauren McQueen, estrelas de Robin Hood, expressam otimismo sobre a possibilidade de uma 2ª temporada, citando material rico para novos episódios.",
+      "focus_keyphrase": "Robin Hood 2ª temporada",
+      "related_keyphrases": [
+        "Robin Hood série",
+        "Jack Patten Robin Hood",
+        "MGM+ Robin Hood"
+      ],
+      "slug": "robin-hood-ator-esperancas-2-temporada",
+      "categorias": [
+        {
+          "nome": "Robin Hood",
+          "grupo": "obras",
+          "evidence": "<em>Robin Hood</em>"
+        },
+        {
+          "nome": "MGM+",
+          "grupo": "plataformas",
+          "evidence": "MGM+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Robin Hood",
+        "Jack Patten",
+        "Lauren McQueen",
+        "MGM+",
+        "Série de TV"
+      ],
+      "image_alt_texts": {
+        "tcdroho_j8009-cropped.jpg": "Jack Patten como Robin Hood na série de 2025."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Robin Hood: Ator Jack Patten comenta esperanças para a 2ª temporada",
+        "_yoast_wpseo_metadesc": "Jack Patten e Lauren McQueen, estrelas de Robin Hood, expressam otimismo sobre a possibilidade de uma 2ª temporada, citando material rico para novos episódios.",
+        "_yoast_wpseo_focuskw": "Robin Hood 2ª temporada",
+        "_yoast_news_keywords": "Robin Hood, Jack Patten, Lauren McQueen, MGM+, Série de TV, Robin Hood série, Jack Patten Robin Hood, MGM+ Robin Hood",
+        "_yoast_wpseo_opengraph-title": "Robin Hood: Ator Jack Patten comenta esperanças para a 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Jack Patten e Lauren McQueen, estrelas de Robin Hood, expressam otimismo sobre a possibilidade de uma 2ª temporada, citando material rico para novos episódios.",
+        "_yoast_wpseo_twitter-title": "Robin Hood: Ator Jack Patten comenta esperanças para a 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Jack Patten e Lauren McQueen, estrelas de Robin Hood, expressam otimismo sobre a possibilidade de uma 2ª temporada, citando material rico para novos episódios."
+      }
+    },
+    {
+      "titulo_final": "Josh Hutcherson em 'I Love LA' supera Adam Brody como melhor namorado da TV",
+      "conteudo_final": "<p>Adam Brody foi coroado o namorado perfeito da TV em 2024 com <em>Nobody Wants This</em> na Netflix, mas agora Josh Hutcherson parece disputar o título após seu papel na nova série da HBO, <em>I Love LA</em>. A escalação de Brody como Rabino Noah Roklov capitalizou a nostalgia de seus personagens anteriores em <em>The O.C.</em> e sua participação memorável em <em>Gilmore Girls</em>.</p><p>Noah foi o namorado ideal na primeira temporada, mas <em>Nobody Wants This</em>, em sua segunda temporada, manchou a reputação perfeita de Noah. Isso acontece bem a tempo de o personagem de Hutcherson, Dylan, entrar em cena para ajudar sua namorada Maia e todos os personagens em <em>I Love LA</em>, não importa o custo pessoal.</p><h2>Dylan, de 'I Love LA', é um namorado melhor que Noah, de 'Nobody Wants This'</h2><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/nwt_203_unit_02489rc.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Adam Brody como Noah e Kristen Bell como Joanne em Nobody Wants This temporada 2\"/><figcaption>Adam Brody como Noah em 'Nobody Wants This'.</figcaption></figure><p>Noah, de <em>Nobody Wants This</em>, tem momentos de genuína consideração — como quando compra para Joanne uma mesa de cabeceira maior sem que ela peça, notando e acomodando suas necessidades. Isso torna mais frustrante quando ele desliza para o modo genérico de “bom rapaz”, como fez no Dia dos Namorados, falhando em incluir Joanne em sua ideia do que o relacionamento deveria ser.</p><p>À medida que a fase de lua de mel desaparece, Noah se torna uma pessoa real para Joanne e para o público, mas esse realismo vem com frustração. Ele é inconsistente sobre o que precisa de Joanne para avançar o relacionamento. Após encontrar uma sinagoga que abraça o casamento inter-religioso, o único obstáculo real é sua própria indecisão.</p><p>O final da segunda temporada de <em>Nobody Wants This</em> foi uma repetição frustrante dos mesmos pontos do final da primeira temporada. Noah tem limites rígidos — ele não quer que Joanne discuta detalhes do relacionamento em seu podcast, sua principal fonte de renda — o que torna sua intimidade complicada em vez de solidária.</p><p>Enquanto isso, em <em>I Love LA</em>, Dylan e Maia são muito mais jovens — cerca de 27 anos — mas o relacionamento deles é mais maduro e estável, mesmo que eles próprios não sejam. Dylan e Maia já moram juntos, o que é um ponto de discórdia para Noah e Joanne.</p><p>Dylan não pressiona Maia a mudar nada sobre si mesma ou sua identidade para ficar com ele. Ele está disposto a ajudar ela e seus amigos, não importa o quê, mesmo quando isso o coloca em perigo.</p><h2>Dylan está posicionado para ser o único a sofrer consequências reais em 'I Love LA'</h2><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/josh-hutcherson-rachel-sennott-i-love-la-maia-dylan.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Josh Hutcherson como Dylan conversando com Rachel Sennott como Maia em I Love LA\"/><figcaption>Josh Hutcherson como Dylan em 'I Love LA'.</figcaption></figure><p>Dylan, infelizmente, está posicionado para arcar com o peso das tentativas de Maia de “gerenciar” sua melhor amiga e cliente, mas ele também é uma âncora crucial para <em>I Love LA</em>. Enquanto Maia e seu círculo vivem no mundo do entretenimento, onde as consequências mais graves geralmente se resumem a perder um acordo lucrativo, não enfrentar repercussões reais.</p><p>Dylan opera em uma esfera diferente — ele é um professor com responsabilidades do mundo real. Esse contraste faz com que os riscos dele pareçam mais agudos. Ele já foi rotulado como “Coke Larry” em um meme viral, e embora a situação se resolva quando a diretora pede drogas em vez de demiti-lo, isso levanta a questão de até onde Dylan pode se dobrar antes de haver um ponto de ruptura.</p><p>O Dylan de Josh Hutcherson é essencial na divisiva <em>I Love LA</em>, pois sua sensatez e disposição para responsabilizar Maia fornecem uma ligação com a realidade em uma série que às vezes se desvia para o excesso caótico. Sem ele, <em>I Love LA</em> corre o risco de se tornar completamente desgovernado, perdendo o elemento de aterramento que torna o mundo dos personagens crível — mesmo em meio às suas absurdidades.</p>",
+      "meta_description": "Josh Hutcherson em 'I Love LA' se destaca como um namorado mais maduro e solidário do que Adam Brody em 'Nobody Wants This', oferecendo um contraponto realista.",
+      "focus_keyphrase": "Josh Hutcherson I Love LA namorado",
+      "related_keyphrases": [
+        "I Love LA Dylan",
+        "Adam Brody Nobody Wants This",
+        "melhor namorado da TV"
+      ],
+      "slug": "josh-hutcherson-i-love-la-melhor-namorado",
+      "categorias": [
+        {
+          "nome": "I Love LA",
+          "grupo": "obras",
+          "evidence": "<em><strong>I Love LA</strong></em>"
+        },
+        {
+          "nome": "Nobody Wants This",
+          "grupo": "obras",
+          "evidence": "<em>Nobody Wants This</em>"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "plataformas",
+          "evidence": "HBO’s"
+        }
+      ],
+      "tags_sugeridas": [
+        "Josh Hutcherson",
+        "I Love LA",
+        "Adam Brody",
+        "Nobody Wants This",
+        "Netflix",
+        "HBO"
+      ],
+      "image_alt_texts": {
+        "nwt_203_unit_02489rc.jpg": "Adam Brody como Noah em 'Nobody Wants This'.",
+        "josh-hutcherson-rachel-sennott-i-love-la-maia-dylan.jpg": "Josh Hutcherson como Dylan em 'I Love LA'."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Josh Hutcherson em 'I Love LA' supera Adam Brody como melhor namorado da TV",
+        "_yoast_wpseo_metadesc": "Josh Hutcherson em 'I Love LA' se destaca como um namorado mais maduro e solidário do que Adam Brody em 'Nobody Wants This', oferecendo um contraponto realista.",
+        "_yoast_wpseo_focuskw": "Josh Hutcherson I Love LA namorado",
+        "_yoast_news_keywords": "Josh Hutcherson, I Love LA, Adam Brody, Nobody Wants This, Netflix, HBO, I Love LA Dylan, melhor namorado da TV",
+        "_yoast_wpseo_opengraph-title": "Josh Hutcherson em 'I Love LA' supera Adam Brody como melhor namorado da TV",
+        "_yoast_wpseo_opengraph-description": "Josh Hutcherson em 'I Love LA' se destaca como um namorado mais maduro e solidário do que Adam Brody em 'Nobody Wants This', oferecendo um contraponto realista.",
+        "_yoast_wpseo_twitter-title": "Josh Hutcherson em 'I Love LA' supera Adam Brody como melhor namorado da TV",
+        "_yoast_wpseo_twitter-description": "Josh Hutcherson em 'I Love LA' se destaca como um namorado mais maduro e solidário do que Adam Brody em 'Nobody Wants This', oferecendo um contraponto realista."
+      }
+    },
+    {
+      "titulo_final": "7 obras-primas do horror gótico que todo fã deve assistir",
+      "conteudo_final": "<p>O gênero de horror gótico é conhecido por sua atmosfera sombria, cenários assustadores e temas de mistério e suspense. Para os fãs do gênero, algumas obras se destacam como verdadeiras obras-primas, essenciais para quem aprecia o terror com um toque clássico e elegante.</p><h2>O que define o horror gótico?</h2><p>O horror gótico se diferencia por sua ênfase na ambientação, frequentemente em castelos antigos, mansões isoladas ou paisagens desoladas. Elementos como segredos familiares, maldições ancestrais, o sobrenatural e a exploração psicológica dos personagens são pilares fundamentais. A atmosfera de apreensão e melancolia é tão importante quanto os sustos em si.</p><h2>Clássicos essenciais do horror gótico</h2><p>Selecionamos sete filmes que representam o ápice do horror gótico, combinando narrativa envolvente, atuações marcantes e uma estética visual inconfundível. Cada um desses filmes oferece uma experiência única, mas todos compartilham a capacidade de prender o espectador em suas teias de mistério e terror.</p><h3>Drácula de Bram Stoker (1992)</h3><p>A adaptação de Francis Ford Coppola é uma visão luxuosa e romântica do clássico vampiro. Com visuais deslumbrantes e atuações poderosas, o filme captura a essência trágica e sedutora do Conde Drácula.</p><h3>O Corvo (1994)</h3><p>Baseado na história em quadrinhos de James O'Barr, este filme noir gótico apresenta uma atmosfera sombria e estilizada. A vingança de Eric Draven contra aqueles que o mataram é um conto de amor, perda e redenção.</p><h3>Entrevista com o Vampiro (1994)</h3><p>Este filme explora a vida eterna e a solidão de vampiros através dos olhos de Louis de Pointe du Lac. A narrativa introspectiva e a atmosfera decadente o tornam um marco do gênero.</p><h3>A Mulher de Preto (2012)</h3><p>Com uma atmosfera incrivelmente tensa e assustadora, este filme traz Daniel Radcliffe como um jovem advogado que descobre os segredos sombrios de uma mansão isolada. O filme é um exemplo moderno de como criar suspense gótico.</p><h3>O Orfanato (2007)</h3><p>Produção espanhola que revitalizou o gênero com uma história emocionante e perturbadora sobre uma mulher que retorna ao orfanato onde cresceu. O suspense psicológico e os elementos sobrenaturais são magistralmente entrelaçados.</p><h3>A Casa Sombria (2013)</h3><p>Este filme sul-coreano oferece uma abordagem única ao horror gótico, misturando elementos de romance e suspense psicológico. A história de duas mulheres em uma mansão isolada é repleta de reviravoltas.</p><h3>O Labirinto do Fauno (2006)</h3><p>Embora misture fantasia sombria com drama histórico, o filme de Guillermo del Toro possui fortes elementos góticos em sua ambientação e em sua exploração do macabro e do maravilhoso.</p>",
+      "meta_description": "Descubra 7 obras-primas do horror gótico que todo fã do gênero deve assistir, incluindo clássicos e produções modernas que definem o estilo.",
+      "focus_keyphrase": "horror gótico",
+      "related_keyphrases": [
+        "filmes de terror gótico",
+        "obras-primas do horror",
+        "terror clássico"
+      ],
+      "slug": "obras-primas-horror-gotico",
+      "categorias": [
+        {
+          "nome": "Movies",
+          "grupo": "editorias",
+          "evidence": "Movies"
+        },
+        {
+          "nome": "Drácula de Bram Stoker",
+          "grupo": "obras",
+          "evidence": "Drácula de Bram Stoker (1992)"
+        },
+        {
+          "nome": "O Corvo",
+          "grupo": "obras",
+          "evidence": "O Corvo (1994)"
+        }
+      ],
+      "tags_sugeridas": [
+        "horror gótico",
+        "filmes de terror",
+        "terror clássico",
+        "Drácula",
+        "O Corvo",
+        "O Labirinto do Fauno"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "7 Obras-Primas do Horror Gótico que Todo Fã Deve Assistir",
+        "_yoast_wpseo_metadesc": "Descubra 7 obras-primas do horror gótico que todo fã do gênero deve assistir, incluindo clássicos e produções modernas que definem o estilo.",
+        "_yoast_wpseo_focuskw": "horror gótico",
+        "_yoast_news_keywords": "horror gótico, filmes de terror, terror clássico, Drácula, O Corvo, O Labirinto do Fauno, A Mulher de Preto, Entrevista com o Vampiro, O Orfanato, A Casa Sombria",
+        "_yoast_wpseo_opengraph-title": "7 Obras-Primas do Horror Gótico que Todo Fã Deve Assistir",
+        "_yoast_wpseo_opengraph-description": "Descubra 7 obras-primas do horror gótico que todo fã do gênero deve assistir, incluindo clássicos e produções modernas que definem o estilo.",
+        "_yoast_wpseo_twitter-title": "7 Obras-Primas do Horror Gótico que Todo Fã Deve Assistir",
+        "_yoast_wpseo_twitter-description": "Descubra 7 obras-primas do horror gótico que todo fã do gênero deve assistir, incluindo clássicos e produções modernas que definem o estilo."
+      }
+    }
+  ]
+}

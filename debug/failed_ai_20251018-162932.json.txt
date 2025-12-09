@@ -1,0 +1,51 @@
+{
+  "titulo_final": "O Exterminador do Futuro: O Reboot de Stephen King Compara Novo Filme a Duro de Matar",
+  "conteudo_final": "<p>Novembro promete trazer filmes empolgantes para as telonas. Dentre os destaques, a nova colaboração entre Glen Powell e Edgar Wright, <b>O Homem Corredor</b>, é um dos mais aguardados. O thriller distópico de ação é um remake do filme de Arnold Schwarzenegger com o mesmo nome. Powell se consolidou como um astro de Hollywood desde <b>Top Gun: Maverick</b>, e a expectativa não é alta apenas entre seus fãs, mas também para <b>Stephen King</b>, autor do romance original.</p><h2>Stephen King Aprova o Novo Final de 'O Homem Corredor'</h2><p>King reagiu recentemente nas redes sociais ao trailer do filme, que mostra Powell correndo, lutando e desferindo socos. O aclamado autor observou que \"já viu e está fantástico\", classificando-o ainda como \"<b>Um Duro de Matar</b> para o nosso tempo. Uma aventura emocionante e bipartidária\". Powell criou um nicho de alta octanagem para si com papéis como em <b>Hit Man</b> e <b>Twisters</b>, e seu novo filme certamente parece emocionante no novo trailer. Wright, por sua vez, é conhecido por sua filmografia excêntrica; combinados, esses são os mesmos elementos que tornaram o original <b>Duro de Matar</b> um clássico para os fãs. No entanto, resta saber como o filme se sairá nas bilheterias.</p><p>O remake segue o desesperado Ben (Powell), que é convencido pelo implacável produtor de 'O Homem Corredor' a entrar no jogo como último recurso para salvar sua filha doente. A audiência do programa distópico logo dispara à medida que a desafio, os instintos e a garra de Ben o transformam em um favorito inesperado dos fãs. Embora a história permaneça quase a mesma, Wright revelou anteriormente que King aprovou pessoalmente suas modificações no final da história.</p><blockquote><p>“Todo mundo sabia desde o início que [o final do romance] não seria parte desta adaptação exatamente da maneira... [King] percebeu mesmo antes de ler que não faríamos o final do livro. E quando ele respondeu por e-mail, disse: ‘Fiquei muito curioso para saber como você abordaria o final, e acho que você fez um ótimo trabalho.’ Então fiquei muito feliz com isso.”</p></blockquote><p>Junto com Powell, o filme também escalou William H. Macy, <b>Lee Pace</b>, Emilia Jones, Michael Cera, Daniel Ezra, Jayme Lawson, Colman Domingo e <b>Josh Brolin</b>. <b>O Homem Corredor</b> chega aos cinemas em 14 de novembro. Fique atento para mais atualizações.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/07/the-running-man-remake-early-teaser-poster.jpg\" alt=\"O Homem Corredor: Poster teaser revela Glen Powell em nova versão de Stephen King\"><figcaption>Poster teaser de O Homem Corredor.</figcaption></figure>",
+  "meta_description": "Stephen King compara o reboot de 'O Homem Corredor' com Glen Powell a 'Duro de Matar'. O filme estreia em 14 de novembro.",
+  "focus_keyphrase": "O Homem Corredor",
+  "related_keyphrases": [
+    "Stephen King",
+    "Glen Powell",
+    "Edgar Wright"
+  ],
+  "slug": "o-homem-corredor-reboot-stephen-king-duro-de-matar",
+  "categorias": [
+    {
+      "nome": "O Homem Corredor",
+      "grupo": "obras",
+      "evidence": "The Running Man"
+    },
+    {
+      "nome": "Stephen King",
+      "grupo": "obras",
+      "evidence": "Stephen King"
+    },
+    {
+      "nome": "Duro de Matar",
+      "grupo": "obras",
+      "evidence": "DIE HARD"
+    }
+  ],
+  "tags_sugeridas": [
+    "O Homem Corredor",
+    "Stephen King",
+    "Glen Powell",
+    "Edgar Wright",
+    "Duro de Matar",
+    "Arnold Schwarzenegger",
+    "Bruce Willis"
+  ],
+  "image_alt_texts": {
+    "the-running-man-remake-early-teaser-poster.jpg": "O Homem Corredor: Poster teaser revela Glen Powell em nova versão de Stephen King"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "O Homem Corredor: Stephen King Compara Reboot com Duro de Matar",
+    "_yoast_wpseo_metadesc": "Stephen King compara o reboot de 'O Homem Corredor' com Glen Powell a 'Duro de Matar'. O filme estreia em 14 de novembro.",
+    "_yoast_wpseo_focuskw": "O Homem Corredor",
+    "_yoast_news_keywords": "O Homem Corredor, Stephen King, Glen Powell, Edgar Wright, Duro de Matar, Arnold Schwarzenegger, Bruce Willis, Ação, Ficção Científica",
+    "_yoast_wpseo_opengraph-title": "O Homem Corredor: Stephen King Compara Reboot com Duro de Matar",
+    "_yoast_wpseo_opengraph-description": "Stephen King compara o reboot de 'O Homem Corredor' com Glen Powell a 'Duro de Matar'. O filme estreia em 14 de novembro.",
+    "_yoast_wpseo_twitter-title": "O Homem Corredor: Stephen King Compara Reboot com Duro de Matar",
+    "_yoast_wpseo_twitter-description": "Stephen King compara o reboot de 'O Homem Corredor' com Glen Powell a 'Duro de Matar'. O filme estreia em 14 de novembro."
+  }
+}

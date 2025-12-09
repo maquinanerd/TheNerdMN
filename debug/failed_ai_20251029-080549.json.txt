@@ -1,0 +1,65 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "It: Welcome to Derry - Episódio 2 tem data de lançamento antecipada na HBO Max",
+      "conteudo_final": "<p>A HBO decidiu alterar o cronograma de lançamento de <strong><em>It: Welcome to Derry</em></strong>, com o segundo episódio da série tendo sua estreia antecipada. O capítulo, intitulado \"The Thing in the Dark\", foi escrito por Austin Guzman e dirigido por Andy Muschietti, um dos co-criadores da série.</p>\n<h2><strong>Alteração Estratégica para o Halloween</strong></h2>\n<p><em>Welcome to Derry</em> serve como uma prequela para os filmes de <em>It</em> dirigidos por Muschietti, que adaptaram o aclamado romance de Stephen King. Embora muitos dos personagens de <em>Welcome to Derry</em> sejam inéditos para os fãs, a série apresenta figuras conectadas à franquia existente e ao universo mais amplo de Stephen King.</p>\n<p>O desenvolvimento da série prequel começou em 2022, três anos após o lançamento de <em>It: Chapter Two</em>. Após diversos adiamentos, principalmente devido às greves de Hollywood, <em>It: Welcome to Derry</em> estreou em 26 de outubro. No entanto, muitos não precisarão esperar a semana inteira pelo segundo episódio.</p>\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Saiba quando o episódio 2 de It: Welcome to Derry será lançado na HBO Max, com uma surpresa especial para os fãs.",
+      "focus_keyphrase": "It: Welcome to Derry",
+      "related_keyphrases": [
+        "It: Welcome to Derry episódio 2",
+        "HBO Max",
+        "Stephen King"
+      ],
+      "slug": "it-welcome-to-derry-episodio-2-lancamento-hbo-max",
+      "categorias": [
+        {
+          "nome": "It: Welcome to Derry",
+          "grupo": "obras",
+          "evidence": "It: Welcome to Derry"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "franquias",
+          "evidence": "Stephen King's It novel"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "editorias",
+          "evidence": "HBO"
+        }
+      ],
+      "tags_sugeridas": [
+        "it-welcome-to-derry",
+        "hbo-max",
+        "stephen-king",
+        "pennywise",
+        "terror",
+        "andy-muschietti"
+      ],
+      "image_alt_texts": {
+        "a-group-of-girls-look-offscreen-in-welcome-to-derry.jpg": "Grupo de garotas observando algo fora de cena na série It: Welcome to Derry.",
+        "taylour-paige-as-charlotte-hanlon-in-it_-welcome-to-derry.jpg": "Taylour Paige como Charlotte Hanlon na série It: Welcome to Derry.",
+        "pennywise-in-it-welcome-to-derry.jpg": "Pennywise aparece na série It: Welcome to Derry.",
+        "imgi_1_tease-art-4.jpeg": "Poster promocional da série It: Welcome to Derry.",
+        "dick-hallorann-with-his-eyes-wide-looking-angry-in-it-welcome-to-derry.jpg": "Dick Hallorann com expressão de raiva na série It: Welcome to Derry.",
+        "jack-molloy-legault-and-mikkal-karrim-fidler-walking-through-a-school-hallway-in-it_-welcome-to-derry-season-1.jpg": "Jack Molloy Legault e Mikkal Karrim-Fidler em um corredor de escola na série It: Welcome to Derry.",
+        "bill-skarsgard-s-pennywise-in-it-welcome-to-derry-trailer-2.jpg": "Bill Skarsgard como Pennywise no trailer de It: Welcome to Derry.",
+        "kid-similing-in-it-welcome-to-derry.jpg": "Uma criança sorri na série It: Welcome to Derry.",
+        "it_-welcome-to-derry-teens-looking-surprised-at-something-off-screen.jpg": "Adolescentes em It: Welcome to Derry reagem com surpresa a algo fora de cena.",
+        "upcoming-stephen-king-show-will-prove-1-dark-truth-about-his-iconic-monster.jpg": "Imagem promocional com o título 'Upcoming Stephen King Show Will Prove 1 Dark Truth About His Iconic Monster'.",
+        "instar54387267.jpg": "Foto de Bill Skarsgård.",
+        "instar44146730-1.jpg": "Foto de Taylour Paige."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "It: Welcome to Derry - Episódio 2 Antecipado na HBO Max para Halloween",
+        "_yoast_wpseo_metadesc": "O episódio 2 de It: Welcome to Derry chega mais cedo na HBO Max em 31 de outubro. Saiba todos os detalhes sobre a mudança de data.",
+        "_yoast_wpseo_focuskw": "It: Welcome to Derry",
+        "_yoast_news_keywords": "It: Welcome to Derry,HBO Max,Stephen King,pennywise,terror,Andy Muschietti,streaming",
+        "_yoast_wpseo_opengraph-title": "It: Welcome to Derry - Episódio 2 Antecipado na HBO Max para Halloween",
+        "_yoast_wpseo_opengraph-description": "A HBO surpreende os fãs com o lançamento antecipado do segundo episódio de It: Welcome to Derry. Descubra a nova data e os motivos por trás da mudança.",
+        "_yoast_wpseo_twitter-title": "It: Welcome to Derry - Episódio 2 Antecipado na HBO Max para Halloween",
+        "_yoast_wpseo_twitter-description": "O episódio 2 de It: Welcome to Derry chega mais cedo na HBO Max em 31 de outubro. Saiba todos os detalhes sobre a mudança de data."
+      }
+    }
+  ]
+}

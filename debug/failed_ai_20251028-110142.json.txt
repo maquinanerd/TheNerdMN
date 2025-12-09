@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Bel-Air: Atriz original de Tia Viv, Janet Hubert, retorna para a 4ª temporada",
+      "conteudo_final": "<p>A jornada de <b>Will Smith</b> e sua família em <b>Bel-Air</b> está se aproximando do fim. A quarta temporada da série do Peacock trará uma conclusão para o drama, mas antes disso, a produção planeja homenagear o seriado original, <b><i>The Fresh Prince of Bel-Air</i></b>, de uma última vez.</p>\n<h2>Janet Hubert retorna como Tia Viv</h2>\n<p>Segundo informações divulgadas, <b>Janet Hubert</b>, que interpretou Vivian Banks, a tia de Will, na comédia dos anos 90, fará uma participação especial na quarta temporada de <i>Bel-Air</i>. Embora o nome de sua personagem ainda seja mantido em segredo, Hubert interpretará uma <b>\"mulher sábia que Hilary conhece e que se torna fundamental para a família Banks\"</b> na temporada final.</p>\n<p>A saída de Hubert na terceira temporada da série original da NBC gerou uma grande controvérsia que perdurou por décadas. A atriz revelou em reuniões posteriores suas lutas e o \"acordo muito ruim\" oferecido pela emissora para seu retorno. O especial da HBO Max marcou sua reconciliação com Will Smith após anos de desentendimentos públicos.</p>\n<figure><picture>\n<source srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2017/09/Will-Smith-and-Janet-Hubert-The-Fresh-Prince-of-Bel-Air.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" media=\"(max-width: 1023px)\"/>\n<img alt=\"Will Smith e Janet Hubert em cena de The Fresh Prince of Bel-Air.\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2017/09/Will-Smith-and-Janet-Hubert-The-Fresh-Prince-of-Bel-Air.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2017/09/Will-Smith-and-Janet-Hubert-The-Fresh-Prince-of-Bel-Air.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/>\n</picture>\n<figcaption>Janet Hubert como a Tia Viv original ao lado de Will Smith em The Fresh Prince of Bel-Air.</figcaption>\n</figure>\n<p>Outros atores do elenco original da comédia já haviam participado de <i>Bel-Air</i>. <b>Daphne Maxwell Reid</b>, que substituiu Hubert como Tia Viv a partir da quarta temporada de <i>Fresh Prince of Bel-Air</i>, também retornou. Além dela, <b>Tyra Banks</b>, que interpretou Jackie, ex-namorada de Will na série original, foi anunciada para a temporada final.</p>\n<h2>Novidades na 4ª Temporada</h2>\n<p>Além do retorno de Hubert, <b>Caroline Chikezie</b>, de <i>Power Book II: Ghost</i>, também foi confirmada para a quarta temporada de <i>Bel-Air</i>. Ela interpretará Dominique Warren, líder de uma antiga gangue londrina e uma figura como uma \"irmã\" para Geoffrey.</p>\n<p>O Peacock divulgou detalhes sobre a temporada final:</p>\n<blockquote>\n<p>Na quarta temporada da bem-sucedida série dramática de uma hora do Peacock, “Bel-Air”, Will tenta equilibrar a diversão e a excitação do último ano com as expectativas que o trouxeram até este momento. Carlton testa sua própria determinação ao lidar com as consequências de decisões muito importantes que podem ameaçar seu futuro. Juntos, os dois rapazes se ajudarão nesse momento crucial de suas vidas. Uma mudança inesperada de poder ameaçará a irmandade entre Phil e Geoffrey, cujas lealdades à família Banks serão testadas. Viv luta para se reinventar enquanto olha para a maternidade de uma perspectiva diferente. É o primeiro ano de Ashley no ensino médio e ela está passando por uma fase rebelde, mas rapidamente aprende que o status quo pode não servir mais a ela. Hilary embarca em uma jornada de autodescoberta.</p>\n</blockquote>\n<p>A quarta temporada de <b><i>Bel-Air</i></b> tem estreia prevista para 24 de novembro de 2025, no Peacock.</p>\n<figure class=\"video-container\"><iframe src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/05/bel-air-peacock-tv-series.jpg?q=49&amp;fit=contain&amp;w=480&amp;dpr=2\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>",
+      "meta_description": "Janet Hubert, a Tia Viv original de \"The Fresh Prince of Bel-Air\", retorna para a 4ª temporada da série Bel-Air, que estreia em novembro de 2025.",
+      "focus_keyphrase": "Bel-Air Tia Viv",
+      "related_keyphrases": [
+        "The Fresh Prince of Bel-Air",
+        "Janet Hubert",
+        "Will Smith"
+      ],
+      "slug": "bel-air-tia-viv-retorna",
+      "categorias": [
+        {
+          "nome": "Bel-Air",
+          "grupo": "obras",
+          "evidence": "Bel-Air season 4"
+        },
+        {
+          "nome": "The Fresh Prince of Bel-Air",
+          "grupo": "obras",
+          "evidence": "original Fresh Prince of Bel-Air TV show"
+        }
+      ],
+      "tags_sugeridas": [
+        "bel-air",
+        "the fresh prince of bel-air",
+        "janet hubert",
+        "will smith",
+        "peacock",
+        "tia viv"
+      ],
+      "image_alt_texts": {
+        "Will-Smith-and-Janet-Hubert-The-Fresh-Prince-of-Bel-Air.jpg": "Will Smith e Janet Hubert em cena de The Fresh Prince of Bel-Air.",
+        "bel-air-peacock-tv-series.jpg": "Imagem promocional da série Bel-Air do Peacock."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bel-Air: Atriz original de Tia Viv, Janet Hubert, retorna para 4ª temporada",
+        "_yoast_wpseo_metadesc": "Janet Hubert, a Tia Viv original de \"The Fresh Prince of Bel-Air\", retorna para a 4ª temporada da série Bel-Air, que estreia em novembro de 2025.",
+        "_yoast_wpseo_focuskw": "Bel-Air Tia Viv",
+        "_yoast_news_keywords": "Bel-Air, The Fresh Prince of Bel-Air, Janet Hubert, Tia Viv, Will Smith, Peacock, série de TV, drama",
+        "_yoast_wpseo_opengraph-title": "Bel-Air: Atriz original de Tia Viv, Janet Hubert, retorna para a 4ª temporada",
+        "_yoast_wpseo_opengraph-description": "Janet Hubert, a Tia Viv original de \"The Fresh Prince of Bel-Air\", retorna para a 4ª temporada da série Bel-Air, que estreia em novembro de 2025.",
+        "_yoast_wpseo_twitter-title": "Bel-Air: Atriz original de Tia Viv, Janet Hubert, retorna para a 4ª temporada",
+        "_yoast_wpseo_twitter-description": "Janet Hubert, a Tia Viv original de \"The Fresh Prince of Bel-Air\", retorna para a 4ª temporada da série Bel-Air, que estreia em novembro de 2025."
+      }
+    }
+  ]
+}

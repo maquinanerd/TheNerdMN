@@ -1,0 +1,107 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Kit Harington: O Lobisomem 'The Beast Within' Supera '28 Anos Depois' no Streaming",
+      "conteudo_final": "<p>O filme de terror <b>The Beast Within</b>, estrelado por <b>Kit Harington</b>, conhecido por seu papel em <b>Game of Thrones</b>, alcançou a quarta posição nas paradas globais da HBO Max na última semana de exibição, superando produções recentes e aclamadas.</p><h2>A Ascensão de 'The Beast Within' nas Paradas de Streaming</h2><p>Na semana de 12 de outubro, <b>The Beast Within</b> se destacou no cenário de streaming, posicionando-se acima de títulos como o recente sucesso de bilheteria <b>28 Years Later</b>, que arrecadou US$ 150 milhões globalmente, e o premiado <b>Oppenheimer</b>, de Christopher Nolan. O longa de lobisomem também superou o documentário <b>The Alabama Solution</b>, que aborda questões de direitos humanos no sistema prisional do Alabama.</p><p>Apesar de ter sido lançado em 2024 com uma bilheteria doméstica modesta de cerca de US$ 50.000, o filme tem ganhado tração nas plataformas de streaming. Estrelado também por Ashleigh Cummings e Caoilinn Springall, <b>The Beast Within</b> recebeu críticas mistas, com uma pontuação de 40% no Rotten Tomatoes.</p><h2>O Gênero de Lobisomem Aguarda um Novo Sucesso</h2><p>Enquanto o gênero de vampiros vive um momento de ressurgimento com filmes como <b>Nosferatu</b>, que ultrapassou US$ 180 milhões em bilheteria mundial, os filmes de lobisomem ainda buscam seu próximo grande sucesso. Títulos recentes como <b>Wolf Man</b> não alcançaram o esperado nas bilheterias.</p><p>As expectativas agora se voltam para <b>Werwulf</b>, o próximo filme do diretor de <b>Nosferatu</b>, Robert Eggers, previsto para dezembro de 2026. Enquanto isso, <b>The Beast Within</b> está disponível para visualização em casa, prometendo atrair fãs do gênero de terror e fantasia.</p><p><b>The Beast Within</b> acompanha a jovem Willow (Caoilinn Springall), que começa a desconfiar da vida isolada de sua família em um composto fortificado. Ao seguir seus pais em uma expedição secreta pela floresta, ela descobre a chocante transformação de seu pai, revelando um sombrio segredo familiar.</p>",
+      "meta_description": "Kit Harington estrela 'The Beast Within', filme de lobisomem que surpreende no streaming e supera '28 Anos Depois' e 'Oppenheimer' nas paradas da HBO Max.",
+      "focus_keyphrase": "The Beast Within Kit Harington",
+      "related_keyphrases": [
+        "filme de lobisomem Kit Harington",
+        "The Beast Within streaming",
+        "Game of Thrones Kit Harington"
+      ],
+      "slug": "kit-harington-lobisomem-streaming",
+      "categorias": [
+        {
+          "nome": "The Beast Within",
+          "grupo": "obras",
+          "evidence": "the werewolf film The Beast Within"
+        },
+        {
+          "nome": "Kit Harington",
+          "grupo": "obras",
+          "evidence": "Starring Kit Harington in the lead role, the werewolf film The Beast Within"
+        },
+        {
+          "nome": "Game of Thrones",
+          "grupo": "franquias",
+          "evidence": "Best known for his starring roles in HBO's Game of Thrones"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Beast Within",
+        "Kit Harington",
+        "Game of Thrones",
+        "filmes de terror",
+        "streaming",
+        "HBO Max",
+        "lobisomem"
+      ],
+      "image_alt_texts": {
+        "01830080_poster_w780.jpg": "Pôster do filme 'The Beast Within' com Kit Harington como protagonista, promovendo o gênero de terror de lobisomem."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Kit Harington: O Lobisomem 'The Beast Within' Supera '28 Anos Depois' no Streaming",
+        "_yoast_wpseo_metadesc": "Kit Harington estrela 'The Beast Within', filme de lobisomem que surpreende no streaming e supera '28 Anos Depois' e 'Oppenheimer' nas paradas da HBO Max.",
+        "_yoast_wpseo_focuskw": "The Beast Within Kit Harington",
+        "_yoast_news_keywords": "The Beast Within, Kit Harington, Game of Thrones, lobisomem, streaming, HBO Max, filmes de terror",
+        "_yoast_wpseo_opengraph-title": "Kit Harington: 'The Beast Within' Supera '28 Anos Depois' no Streaming",
+        "_yoast_wpseo_opengraph-description": "O filme de lobisomem 'The Beast Within', com Kit Harington, alcança sucesso inesperado nas plataformas de streaming, superando outros títulos.",
+        "_yoast_wpseo_twitter-title": "Kit Harington: 'The Beast Within' Supera '28 Anos Depois' no Streaming",
+        "_yoast_wpseo_twitter-description": "O filme de lobisomem 'The Beast Within', com Kit Harington, alcança sucesso inesperado nas plataformas de streaming, superando outros títulos."
+      }
+    },
+    {
+      "titulo_final": "Bugonia: Novo Site de Conspiração Alienígena de Yorgos Lanthimos Instiga Curiosidade",
+      "conteudo_final": "<p>Uma campanha de marketing viral para a sátira de ficção científica <b>Bugonia</b>, dirigida por <b>Yorgos Lanthimos</b>, está confundindo o público em Nova York e Los Angeles. Paralelamente, um novo site detalha teorias de conspiração alienígena, resgatando a nostalgia da era Geocities e alimentando a curiosidade sobre a trama do filme.</p><h2>A Conspiração Online e Offline de 'Bugonia'</h2><p>A campanha, dividida em duas fases pela distribuidora Focus Features, começou com anúncios realistas da Auxolith, empresa fictícia liderada por Michelle Fuller (<b>Emma Stone</b>). Na segunda fase, esses anúncios foram "pichados" pela Resistência Humana, que acusa Fuller de ser uma alienígena e convida o público a se juntar à causa. Essas ações culminaram no lançamento do site <b>HumanResistanceHQ.com</b>, que simula uma página antiga da internet, apresentando a pesquisa da Resistência e documentos sobre OVNIs, além de manter a teoria de que Michelle Fuller é uma alienígena secreta.</p><h2>Enredo de 'Bugonia' e o Elenco Estrelado</h2><p><b>Bugonia</b> é um remake do filme sul-coreano de 2003, <i>Save the Green Planet!</i>. A trama acompanha Teddy (<b>Jesse Plemons</b>), um apicultor e teórico da conspiração que acredita que o mundo está sendo infiltrado por alienígenas. Ele suspeita de Michelle Fuller (<b>Emma Stone</b>), CEO da Auxolith, após sua mãe, Sandy (<b>Alicia Silverstone</b>), entrar em coma durante um teste de medicamento conduzido pela empresa. Ao lado de seu primo Don (Aidan Delbis), Teddy sequestra Fuller para interrogá-la e provar sua teoria.</p><p>Dirigido por <b>Yorgos Lanthimos</b>, conhecido por sucessos como <b>Pobres Criaturas</b> e <b>Kinds of Kindness</b>, e escrito por Will Tracy, <b>Bugonia</b> teve sua estreia no Festival de Cinema de Veneza deste ano. O filme já recebe elogios da crítica, com uma avaliação de 89% no Rotten Tomatoes.</p><p><b>Bugonia</b> tem estreia prevista para 24 de outubro de 2025. Fique atento para mais atualizações.</p>",
+      "meta_description": "Yorgos Lanthimos lança site viral de conspiração alienígena para 'Bugonia', que estreia em outubro de 2025 com Emma Stone e Jesse Plemons. Veja a trama!",
+      "focus_keyphrase": "Bugonia Yorgos Lanthimos",
+      "related_keyphrases": [
+        "filme Bugonia",
+        "Emma Stone Bugonia",
+        " Jesse Plemons Bugonia",
+        "conspiração alienígena"
+      ],
+      "slug": "bugonia-site-alienigena-lanthimos",
+      "categorias": [
+        {
+          "nome": "Bugonia",
+          "grupo": "obras",
+          "evidence": "A viral marketing campaign for the science fiction satire Bugonia"
+        },
+        {
+          "nome": "Yorgos Lanthimos",
+          "grupo": "obras",
+          "evidence": "Yorgos Lanthimos' latest mind-bending black comedy is almost here."
+        },
+        {
+          "nome": "Emma Stone",
+          "grupo": "obras",
+          "evidence": "headed up by Michelle Fuller (Emma Stone) in the film."
+        }
+      ],
+      "tags_sugeridas": [
+        "Bugonia",
+        "Yorgos Lanthimos",
+        "Emma Stone",
+        "Jesse Plemons",
+        "Alicia Silverstone",
+        " ficção científica",
+        "comédia"
+      ],
+      "image_alt_texts": {
+        "bugonia-poster.jpg": "Pôster do filme 'Bugonia' de Yorgos Lanthimos, com estética de conspiração alienígena."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bugonia: Novo Site de Conspiração Alienígena de Yorgos Lanthimos Instiga Curiosidade",
+        "_yoast_wpseo_metadesc": "Yorgos Lanthimos lança site viral de conspiração alienígena para 'Bugonia', que estreia em outubro de 2025 com Emma Stone e Jesse Plemons. Veja a trama!",
+        "_yoast_wpseo_focuskw": "Bugonia Yorgos Lanthimos",
+        "_yoast_news_keywords": "Bugonia, Yorgos Lanthimos, Emma Stone, Jesse Plemons, Alicia Silverstone, ficção científica, conspiração alienígena",
+        "_yoast_wpseo_opengraph-title": "Bugonia: Novo Site de Conspiração Alienígena de Yorgos Lanthimos Instiga Curiosidade",
+        "_yoast_wpseo_opengraph-description": "Yorgos Lanthimos lança campanha viral com site de conspiração para seu novo filme 'Bugonia', que chega aos cinemas em outubro de 2025.",
+        "_yoast_wpseo_twitter-title": "Bugonia: Novo Site de Conspiração Alienígena de Yorgos Lanthimos Instiga Curiosidade",
+        "_yoast_wpseo_twitter-description": "Yorgos Lanthimos lança campanha viral com site de conspiração para seu novo filme 'Bugonia', que chega aos cinemas em outubro de 2025."
+      }
+    }
+  ]
+}

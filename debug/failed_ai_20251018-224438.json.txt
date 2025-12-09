@@ -1,0 +1,99 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Bowen Yang se ausenta do SNL em episódio focado em George Santos",
+      "conteudo_final": "<p>O membro do elenco de <b>Saturday Night Live</b>, <b>Bowen Yang</b>, não estará presente no episódio de 18 de outubro de 2025. No entanto, o público que esperava vê-lo interpretar o recém-libertado George Santos pode ter uma surpresa, pois um informante alega que o comediante já gravou um segmento para o programa nesta semana.</p>\n\n<p>Yang anunciou sua ausência em uma história enigmática no Instagram, postando uma foto que parecia ser da Califórnia. Ele tranquilizou os fãs, afirmando que o episódio seria repleto de risadas: \"Estou sentindo falta do show hoje, mas será muito divertido, Sab é incrível\".</p>\n\n<p>Embora a mensagem de Yang fosse críptica, fontes indicaram que ele estaria em Los Angeles para receber o Vantage Award no gala do Academy Museum. Isso explicaria sua ausência do estúdio do SNL em Nova York.</p>\n\n<h2>George Santos e a Expectativa de Imitação no SNL</h2>\n<p>Quando a notícia da liberação de George Santos da prisão em 17 de outubro, após cumprir apenas três meses de sua sentença de sete anos por fraude eletrônica e roubo de identidade, veio à tona, os espectadores esperavam um comentário do <b>Saturday Night Live</b>. Naturalmente, a expectativa era que Yang, que já interpretou o político no passado, roubasse a cena com sua imitação.</p>\n\n<p>Embora não haja confirmação sobre o que foi filmado, muitos acreditam que seria algo relacionado a Santos. O SNL sempre foi rápido em comentar eventos políticos, então não seria surpreendente se essa previsão se confirmasse. No entanto, considerando que Santos foi liberado na noite de sexta-feira e Yang já estava na Califórnia no início de sábado, as chances de uma esquete sobre o congressista ser gravada e exibida diminuem.</p>\n\n<p>Apesar da probabilidade reduzida, ainda é possível que o público veja Bowen vestido como o congressista. O tempo dirá se as informações de fontes confiáveis estavam corretas.</p>\n\n<p>O episódio do <b>Saturday Night Live</b> vai ao ar às 23h30 ET e 20h30 PT em 18 de outubro de 2025, na NBC.</p>",
+      "meta_description": "Bowen Yang pode não estar no SNL de 18 de outubro, mas um segmento com sua imitação de George Santos pode ter sido pré-gravado.",
+      "focus_keyphrase": "Bowen Yang George Santos SNL",
+      "related_keyphrases": [
+        "Saturday Night Live George Santos",
+        "Bowen Yang ausente SNL"
+      ],
+      "slug": "bowen-yang-ausente-snl-george-santos",
+      "categorias": [
+        {
+          "nome": "Saturday Night Live",
+          "grupo": "obras",
+          "evidence": "Saturday Night Live cast member, Bowen Yang, will be missing from the October 18, 2025, lineup of the long-running show."
+        },
+        {
+          "nome": "George Santos",
+          "grupo": "pessoas",
+          "evidence": "Congressman Santos was released from prison"
+        }
+      ],
+      "tags_sugeridas": [
+        "Saturday Night Live",
+        "Bowen Yang",
+        "George Santos",
+        "NBC",
+        "Comédia"
+      ],
+      "image_alt_texts": {
+        "03103650_poster_w780.jpg": "Pôster de Saturday Night Live com o elenco principal, destacando Bowen Yang."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bowen Yang se ausenta do SNL em episódio focado em George Santos",
+        "_yoast_wpseo_metadesc": "Bowen Yang pode não estar no SNL de 18 de outubro, mas um segmento com sua imitação de George Santos pode ter sido pré-gravado.",
+        "_yoast_wpseo_focuskw": "Bowen Yang George Santos SNL",
+        "_yoast_news_keywords": "Bowen Yang, George Santos, Saturday Night Live, SNL, NBC",
+        "_yoast_wpseo_opengraph-title": "Bowen Yang se ausenta do SNL em episódio focado em George Santos",
+        "_yoast_wpseo_opengraph-description": "Bowen Yang pode não estar no SNL de 18 de outubro, mas um segmento com sua imitação de George Santos pode ter sido pré-gravado.",
+        "_yoast_wpseo_twitter-title": "Bowen Yang se ausenta do SNL em episódio focado em George Santos",
+        "_yoast_wpseo_twitter-description": "Bowen Yang pode não estar no SNL de 18 de outubro, mas um segmento com sua imitação de George Santos pode ter sido pré-gravado."
+      }
+    },
+    {
+      "titulo_final": "The Institute: Adaptação de Stephen King com temas políticos ganha 2ª temporada",
+      "conteudo_final": "<p>Uma das obras mais politicamente carregadas de <b>Stephen King</b>, <b><i>The Institute</i></b>, possui uma adaptação televisiva subestimada que acaba de ser confirmada para uma segunda temporada. A série do MGM+ mergulha em temas complexos que vão além do horror tradicional.</p>\n\n<h2><i>The Institute</i>: Além do Horror, uma Análise Política</h2>\n<p>Embora Stephen King seja celebrado como o \"Rei do Terror\", suas histórias frequentemente exploram temas sociais e políticos. Títulos como <em>The Dead Zone</em> abordam os perigos do extremismo político, e <em>The Long Walk</em> critica o poder autoritário e seu impacto nos cidadãos. <em>The Institute</em>, lançado em 2019, segue essa linha, apresentando uma narrativa que, sob a fachada de um suspense sobrenatural com crianças com poderes, esconde uma forte crítica social.</p>\n\n<div class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/a_n6Q25jT5o\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></div>\n\n<p>Na superfície, a série <b><i>The Institute</i></b>, baseada no livro homônimo de Stephen King, segue uma premissa semelhante à de <em>Stranger Things</em>. Um grupo de crianças com habilidades telecinéticas e telepáticas se encontra em uma instalação misteriosa, onde são submetidas a experimentos cruéis em nome da ciência e da segurança nacional.</p>\n\n<p>Contudo, à medida que a trama se desenvolve, as camadas políticas da história se tornam cada vez mais evidentes. A instalação funciona como uma poderosa alegoria para regimes autoritários, onde o controle e a supressão da liberdade são estratégicos, e crianças são exploradas e desumanizadas.</p>\n\n<h2>Temas Políticos e A Semelhança com a Realidade</h2>\n<p>Assim como em <em>The Dead Zone</em>, <em>The Institute</em> apresenta uma trama onde figuras de autoridade tentam controlar eventos políticos futuros através de assassinatos no presente. A obra também ecoa <em>Firestarter</em> e <em>Carrie</em> ao retratar como autoridades abusam de seu poder para dominar, em vez de proteger, as vozes jovens.</p>\n\n<p>Os jovens protagonistas de <em>The Institute</em>, levados ao limite, eventualmente se rebelam contra os adultos que os oprimem. Stephen King comentou sobre a obra, citando em entrevista à <em>Esquire</em>, as semelhanças com a política de separação familiar na fronteira durante a administração Trump.</p>\n\n<blockquote>\n<p>“Tudo o que posso dizer é que a escrevi na era Trump. Senti cada vez mais que as pessoas que são fracas, desprivilegiadas e que não são o americano branco padrão estão sendo marginalizadas. E em algum ponto durante o trabalho no livro, Trump realmente começou a prender crianças. Isso foi assustador para mim porque era realmente como o que eu estava escrevendo. Mas não quero que você diga que isso estava em minha mente quando escrevi o livro, porque não sou uma pessoa que quer escrever alegorias como ‘A Revolução dos Bichos’ ou ‘1984’.”</p>\n</blockquote>\n\n<h2>Renovação e Expansão da História</h2>\n<p>As adaptações de obras de Stephen King têm sido sucessos de crítica em 2025. No entanto, a série de TV <em>The Institute</em> recebeu uma recepção mista de público e crítica, com uma pontuação de 64% no Rotten Tomatoes. Apesar da resposta crítica ligeiramente decepcionante, a série obteve bom desempenho comercial.</p>\n\n<p>Logo após o término da primeira temporada de <em>The Institute</em>, a série foi renovada para uma segunda temporada no MGM+. Embora a primeira temporada tenha esgotado a história do material original, espera-se que a segunda parte adote elementos narrativos originais, mantendo os temas políticos e alegóricos que caracterizaram a estreia.</p>",
+      "meta_description": "The Institute, adaptação de Stephen King, explora temas políticos e ganha renovação para a 2ª temporada no MGM+.",
+      "focus_keyphrase": "The Institute Stephen King",
+      "related_keyphrases": [
+        "The Institute série MGM+",
+        "Adaptação Stephen King",
+        "Temas políticos Stephen King"
+      ],
+      "slug": "the-institute-stephen-king-2-temporada",
+      "categorias": [
+        {
+          "nome": "The Institute",
+          "grupo": "obras",
+          "evidence": "Stephen King's The Institute adopts a Stranger Things-esque story setup"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "pessoas",
+          "evidence": "Stephen King"
+        },
+        {
+          "nome": "MGM+",
+          "grupo": "plataformas",
+          "evidence": "MGM+’s The Institute Is Based On One Of Stephen King’s Most Politically-Charged Novels"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Institute",
+        "Stephen King",
+        "MGM+",
+        "Série de TV",
+        "Terror",
+        "Suspense"
+      ],
+      "image_alt_texts": {
+        "adobe-express-file-2025-08-24t234043-508.jpg": "Imagem promocional de The Institute, mostrando um grupo de crianças.",
+        "new-stephen-king-sci-fi-series-repeats-a-massive-risk-from-his-adaptations.jpg": "Cena de The Institute com Ben Barnes como Tim.",
+        "image002-1.jpg": "Pôster oficial da série The Institute."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Institute: Adaptação de Stephen King com temas políticos ganha 2ª temporada",
+        "_yoast_wpseo_metadesc": "The Institute, adaptação de Stephen King, explora temas políticos e ganha renovação para a 2ª temporada no MGM+.",
+        "_yoast_wpseo_focuskw": "The Institute Stephen King",
+        "_yoast_news_keywords": "The Institute, Stephen King, MGM+, Série de TV, Terror, Suspense, Ben Barnes",
+        "_yoast_wpseo_opengraph-title": "The Institute: Adaptação de Stephen King com temas políticos ganha 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "The Institute, adaptação de Stephen King, explora temas políticos e ganha renovação para a 2ª temporada no MGM+.",
+        "_yoast_wpseo_twitter-title": "The Institute: Adaptação de Stephen King com temas políticos ganha 2ª temporada",
+        "_yoast_wpseo_twitter-description": "The Institute, adaptação de Stephen King, explora temas políticos e ganha renovação para a 2ª temporada no MGM+."
+      }
+    }
+  ]
+}

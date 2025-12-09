@@ -1,0 +1,145 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Amazon Prime Video: \"Wings of Fire\" promete ser a maior série de dragões",
+      "conteudo_final": "<p>A Amazon Prime Video prepara uma adaptação de fantasia que promete ser a maior série de dragões, superando a franquia <em>Game of Thrones</em>. Embora existam muitas criaturas fantásticas no universo da fantasia, os dragões sempre cativaram o público, persistindo em todas as mídias.</p><p>Em termos de televisão, a série mais associada a dragões é <em>Game of Thrones</em>. Parte disso se deve ao legado da série, mas a história também apresenta Daenerys, a rainha dos dragões, permitindo cenas épicas com essas criaturas.</p><p>No entanto, uma futura série do Prime Video pode destronar <em>Game of Thrones</em> como a maior produção sobre dragões, e surpreendentemente, não se trata de <em>Fourth Wing</em>.</p><h2>A Série \"Wings of Fire\" Adapta Livros Best-Sellers</h2><p>A série de livros best-sellers <em>Wings of Fire</em>, de Tui T. Sutherland, está programada para se tornar uma série de TV. O projeto, originalmente da Netflix, foi cancelado, permitindo que o Prime Video assumisse.</p><p>Até o momento, quinze livros foram publicados, divididos em três arcos: A Profecia dos Dragonetes, A Profecia da Montanha de Jade e A Profecia do Continente Perdido. Um novo livro está a caminho, iniciando o quarto arco. Além disso, há dois livros complementares que exploram a história do mundo, quatro novelas e um guia.</p><p>Isso torna <em>Wings of Fire</em> uma das séries de livros infantis mais expansivas adaptadas para a TV. Felizmente, a série está em boas mãos. Aaron Waltke será o showrunner, produtor executivo e co-roteirista. A autora servirá como produtora executiva e co-roteirista. Marc Resteghini também atuará como produtor executivo.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/a-dragon-sits-in-a-cave-in-wings-of-fire.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Um dragão em uma caverna na série Wings of Fire"/><figcaption>Um dragão em uma caverna na série Wings of Fire.</figcaption></figure><h2>\"Wings of Fire\" Será a Série Definitiva de Dragões Para Todas as Idades</h2><p>A maior parte do foco em futuras séries de dragões recai sobre <em>Fourth Wing</em> do Prime Video, baseada no livro de Rebecca Yarros. Não há dúvida de que <em>Fourth Wing</em> será fantástica e terá as melhores batalhas de dragões, superando <em>Game of Thrones</em>. No entanto, é mais adequada para adultos.</p><p><em>Wings of Fire</em> é uma série de livros cativante e apropriada para o público de todas as idades. Diferente de <em>Fourth Wing</em>, os personagens principais de <em>Wings of Fire</em> são dragões. Os cinco dragonetes amigos da Profecia dos Dragonetes são Clay, Starflight, Glory, Sunny e Tsunami. Os arcos posteriores introduzem novos personagens dragões.</p><p>As descrições dos dragões e suas experiências sensoriais são tão vívidas que a equipe criativa da série não precisa imaginar como é viver como um dragão, pois tudo está detalhado.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/a-dragon-rawrs-on-the-cover-of-wings-of-fire.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Um dragão ruge na capa de Wings of Fire"/><figcaption>Um dragão ruge na capa de Wings of Fire.</figcaption></figure><h2>O Mundo Expansivo de \"Wings of Fire\" e Seu Elenco Diverso Superam Outras Séries de Fantasia</h2><p>Um dos aspectos mais empolgantes da adaptação de <em>Wings of Fire</em> é seu escopo. O mundo é dividido em dez tribos com diferentes culturas e governantes. Essas tribos possuem conflitos políticos e rivalidades que impactam suas relações globais.</p><p>Consequentemente, <em>Wings of Fire</em> é uma série de conjunto com um elenco intensamente grande. Apenas cinco começam como personagens principais, mas os indivíduos que conhecemos rapidamente aumentam em número.</p><p>Embora tecnicamente seja uma série de livros para o público infanto-juvenil, a história se aprofunda em temas que impactam o mundo de <em>Wings of Fire</em>, como pacifismo versus guerra, destino versus livre arbítrio, identidade, racismo e família escolhida. Esses temas ressoarão com o público de todas as idades.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/wings-of-fire-book-cover-number-14.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Capa do livro 14 de Wings of Fire"/><figcaption>Capa do livro 14 de Wings of Fire.</figcaption></figure>",
+      "meta_description": "A adaptação de \"Wings of Fire\" para o Prime Video promete ser a maior série de dragões, superando Game of Thrones com um mundo expansivo e personagens para todas as idades.",
+      "focus_keyphrase": "Wings of Fire adaptação Prime Video",
+      "related_keyphrases": [
+        "série de dragões Prime Video",
+        "fantasia Wings of Fire",
+        "adaptação de livros de fantasia"
+      ],
+      "slug": "amazon-prime-video-wings-of-fire-serie-dragao",
+      "categorias": [
+        {
+          "nome": "Wings of Fire",
+          "grupo": "franquias",
+          "evidence": "The bestselling books Wings of Fire by Tui T. Sutherland are slated to become a show"
+        },
+        {
+          "nome": "Amazon Prime Video",
+          "grupo": "plataformas",
+          "evidence": "Prime Video has one upcoming fantasy book adaptation"
+        }
+      ],
+      "tags_sugeridas": [
+        "Wings of Fire",
+        "Amazon Prime Video",
+        "Tui T. Sutherland",
+        "séries de fantasia",
+        "dragões"
+      ],
+      "image_alt_texts": {
+        "a-dragon-sits-in-a-cave-in-wings-of-fire.jpg": "Um dragão em uma caverna na série de fantasia Wings of Fire.",
+        "a-dragon-rawrs-on-the-cover-of-wings-of-fire.jpg": "Capa do livro Wings of Fire com um dragão rugindo.",
+        "wings-of-fire-book-cover-number-14.jpg": "Capa do décimo quarto livro da série Wings of Fire."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Amazon Prime Video: \"Wings of Fire\" promete ser a maior série de dragões",
+        "_yoast_wpseo_metadesc": "A adaptação de \"Wings of Fire\" para o Prime Video promete ser a maior série de dragões, superando Game of Thrones com um mundo expansivo e personagens para todas as idades.",
+        "_yoast_wpseo_focuskw": "Wings of Fire adaptação Prime Video",
+        "_yoast_news_keywords": "Wings of Fire, Amazon Prime Video, série de dragões, fantasia, Tui T. Sutherland, adaptação de livros",
+        "_yoast_wpseo_opengraph-title": "Amazon Prime Video: \"Wings of Fire\" promete ser a maior série de dragões",
+        "_yoast_wpseo_opengraph-description": "A adaptação de \"Wings of Fire\" para o Prime Video promete ser a maior série de dragões, superando Game of Thrones com um mundo expansivo e personagens para todas as idades.",
+        "_yoast_wpseo_twitter-title": "Amazon Prime Video: \"Wings of Fire\" promete ser a maior série de dragões",
+        "_yoast_wpseo_twitter-description": "A adaptação de \"Wings of Fire\" para o Prime Video promete ser a maior série de dragões, superando Game of Thrones com um mundo expansivo e personagens para todas as idades."
+      }
+    },
+    {
+      "titulo_final": "Percy Jackson: Vilão e Episódios Mais Aguardados da 2ª Temporada Revelados",
+      "conteudo_final": "<p>A segunda temporada de <em>Percy Jackson e os Olimpianos</em> se aproxima, trazendo uma perigosa jornada marítima com novos e aterrorizantes inimigos e mistérios mitológicos. A nova temporada adapta o segundo livro da série de Rick Riordan, <em>O Ladrão de Raios</em>, com Walker Scobell, Leah Sava Jeffries e Aryan Simhadri retornando como o trio heroico do Acampamento Meio-Sangue.</p><p>Em <em>O Ladrão de Raios</em>, Percy (Scobell), Annabeth (Jeffries) e o surpreendente meio-irmão de Percy, um ciclope bebê chamado Tyson (Daniel Demer), embarcam em uma missão não autorizada para salvar Grover (Simhadri) e garantir o futuro do Acampamento Meio-Sangue, obtendo o Velocino de Ouro curativo das mãos do aterrorizante ciclope Polyphemus.</p><p>Polyphemus não é o único grande vilão a ser temido na segunda temporada de <em>Percy Jackson e os Olimpianos</em>. Percy e seus colegas semideuses enfrentarão todo tipo de monstros e mitos perigosos, incluindo as sedutoras e muito aguardadas sereias e outros gigantes colossais. Confira os pôsteres exclusivos com os adversários monstruosos de Percy e sua turma.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/percy-jackson-season-2-monsters-posters.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Pôsteres de Percy Jackson e os Olimpianos temporada 2 com monstros.\"/><figcaption>Pôsteres da segunda temporada de Percy Jackson e os Olimpianos revelam novos monstros.</figcaption></figure><h2>Novas Perspectivas e Personagens na Segunda Temporada de Percy Jackson</h2><p>Como os pôsteres provam, a segunda temporada de <em>Percy Jackson e os Olimpianos</em> promete ser maior e mais cheia de ação. Os amigos, rivais e inimigos de Percy recebem suas próprias missões. Embora os livros sejam narrados em primeira pessoa por Percy, esta temporada incluirá várias perspectivas adicionais.</p><p>A temporada mostrará ao público como e por que Grover acabou nas garras de Polyphemus em sua busca contínua pelo deus grego Pan. Clarisse (Dior Goodjohn) terá sua expedição sancionada para obter o Velocino de Ouro, navegando em um navio de guerra com soldados fantasmagóricos, cortesia de seu pai, Ares. Luke (Charlie Bushnell) também terá suas experiências como traidor do Acampamento Meio-Sangue.</p><p>A segunda temporada de <em>Percy Jackson e os Olimpianos</em> terá oito episódios, cada um com títulos baseados nos famosos e hilários cabeçalhos de capítulo de Riordan, incluindo \"Eu Jogo Queimada com Canibais\" (episódio 1), \"Clarisse Explode Tudo\" (episódio 4) e \"Nós Fazemos Check-in no Spa &amp; Resort da C.C.\" (episódio 5). A nova temporada também apresentará vários novos personagens:</p><ul><li>Thalia Grace, filha de Zeus (Tamara Smart)</li><li>A mãe de Annabeth, a deusa Atena (Andra Day)</li><li>As icônicas e caóticas Irmãs Cinzentas (Sandra Bernhard, Kristen Schaal e Margaret Cho)</li></ul><p>Além disso, Courtney B. Vance retornará como o Rei do Olimpo, Zeus, assumindo o papel do falecido Lance Reddick.</p><p>Percy, Annabeth e Tyson conseguirão superar os ciclopes, gigantes e sereias que encontrarem? Clarisse sobreviverá ao Triângulo das Bermudas? Os planos astutos de Luke darão certo? Descubra quando a segunda temporada de <em>Percy Jackson e os Olimpianos</em> retornar no próximo mês.</p><p>Os dois primeiros episódios da segunda temporada de <em>Percy Jackson e os Olimpianos</em> estreiam exclusivamente no Disney+ e Hulu em 10 de dezembro, com novos episódios lançados semanalmente às quartas-feiras.</p>",
+      "meta_description": "A segunda temporada de Percy Jackson e os Olimpianos revela Polyphemus como o grande vilão e destaca episódios aguardados, com novos personagens e desafios.",
+      "focus_keyphrase": "Percy Jackson temporada 2 vilão",
+      "related_keyphrases": [
+        "Percy Jackson e os Olimpianos",
+        "O Ladrão de Raios",
+        "Polyphemus Percy Jackson"
+      ],
+      "slug": "percy-jackson-temporada-2-vilao-episodios",
+      "categorias": [
+        {
+          "nome": "Percy Jackson e os Olimpianos",
+          "grupo": "séries",
+          "evidence": "Percy Jackson and the Olympians season 2"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "exclusively on Disney+"
+        },
+        {
+          "nome": "Hulu",
+          "grupo": "plataformas",
+          "evidence": "and Hulu"
+        }
+      ],
+      "tags_sugeridas": [
+        "Percy Jackson",
+        "Percy Jackson e os Olimpianos",
+        "Disney+",
+        "Hulu",
+        "Rick Riordan",
+        "O Ladrão de Raios"
+      ],
+      "image_alt_texts": {
+        "percy-jackson-season-2-monsters-posters.jpg": "Pôsteres da segunda temporada de Percy Jackson e os Olimpianos revelam novos monstros e vilões."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Percy Jackson: Vilão e Episódios Mais Aguardados da 2ª Temporada Revelados",
+        "_yoast_wpseo_metadesc": "A segunda temporada de Percy Jackson e os Olimpianos revela Polyphemus como o grande vilão e destaca episódios aguardados, com novos personagens e desafios.",
+        "_yoast_wpseo_focuskw": "Percy Jackson temporada 2 vilão",
+        "_yoast_news_keywords": "Percy Jackson, Percy Jackson e os Olimpianos, Disney+, Hulu, Rick Riordan, O Ladrão de Raios, Polyphemus",
+        "_yoast_wpseo_opengraph-title": "Percy Jackson: Vilão e Episódios Mais Aguardados da 2ª Temporada Revelados",
+        "_yoast_wpseo_opengraph-description": "A segunda temporada de Percy Jackson e os Olimpianos revela Polyphemus como o grande vilão e destaca episódios aguardados, com novos personagens e desafios.",
+        "_yoast_wpseo_twitter-title": "Percy Jackson: Vilão e Episódios Mais Aguardados da 2ª Temporada Revelados",
+        "_yoast_wpseo_twitter-description": "A segunda temporada de Percy Jackson e os Olimpianos revela Polyphemus como o grande vilão e destaca episódios aguardados, com novos personagens e desafios."
+      }
+    },
+    {
+      "titulo_final": "Stranger Things 5: Fãs Apontam Semelhanças com Filme de Terror \"Weapons\"",
+      "conteudo_final": "<p>A quinta temporada de <em>Stranger Things</em>, volume 1, já foi lançada, e os fãs estão compartilhando teorias e opiniões sobre os quatro episódios. Uma das observações mais comentadas é a semelhança entre a trama atual e o filme de terror <em>Weapons</em>, lançado este ano.</p><p>As redes sociais estão repletas de discussões sobre a nova temporada de <em>Stranger Things</em>. Muitos fãs notam que a história atual se alinha de forma surpreendente com <em>Weapons</em>, de Zach Cregger, que estreou recentemente e ostenta uma impressionante aprovação de 93% no Rotten Tomatoes.</p><p>Usuários na plataforma X (anteriormente Twitter) têm reagido à revelação de que as duas histórias compartilham mais elementos em comum do que se imaginava inicialmente.</p><figure><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Stranger Things season 5, volume 1 has been released, and fans are already leaving their theories, reviews, and opinions about the four episodes, including why they think it closely resembles the horror smash-hit released earlier this year titled Weapons.</p>&mdash; Screen Rant (@screenrant) <a href=\"https://twitter.com/screenrant/status/1993967777216860565?ref_src=twsrc%5Etfw\">May 23, 2024</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></figure><figure><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Fans have reacted on social media, particularly X, regarding the revelation that both stories are a lot more closely aligned than initially believed.</p>&mdash; Screen Rant (@screenrant) <a href=\"https://twitter.com/screenrant/status/1994098343312855494?ref_src=twsrc%5Etfw\">May 23, 2024</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></figure><figure><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">More news to come...</p>&mdash; Screen Rant (@screenrant) <a href=\"https://twitter.com/screenrant/status/1993881098032730153?ref_src=twsrc%5Etfw\">May 23, 2024</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></figure>",
+      "meta_description": "Fãs de Stranger Things 5 apontam semelhanças notáveis com o filme de terror \"Weapons\", lançado este ano. Descubra as teorias e comparações.",
+      "focus_keyphrase": "Stranger Things 5 Weapons",
+      "related_keyphrases": [
+        "Stranger Things temporada 5",
+        "filme de terror Weapons",
+        "semelhanças Stranger Things"
+      ],
+      "slug": "stranger-things-5-semelhancas-weapons",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "séries",
+          "evidence": "Stranger Things season 5"
+        },
+        {
+          "nome": "Weapons",
+          "grupo": "filmes",
+          "evidence": "the horror smash-hit released earlier this year titled Weapons"
+        }
+      ],
+      "tags_sugeridas": [
+        "Stranger Things",
+        "Stranger Things 5",
+        "Weapons",
+        "filmes de terror",
+        "Netflix",
+        "Zach Cregger"
+      ],
+      "image_alt_texts": {
+        "stranger-things-season-5-weapons-plot-similarities-comparisons.jpg": "Comparação de enredo entre Stranger Things 5 e o filme de terror Weapons."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Stranger Things 5: Fãs Apontam Semelhanças com Filme de Terror \"Weapons\"",
+        "_yoast_wpseo_metadesc": "Fãs de Stranger Things 5 apontam semelhanças notáveis com o filme de terror \"Weapons\", lançado este ano. Descubra as teorias e comparações.",
+        "_yoast_wpseo_focuskw": "Stranger Things 5 Weapons",
+        "_yoast_news_keywords": "Stranger Things, Stranger Things 5, Weapons, filme de terror, Netflix, Zach Cregger, semelhanças",
+        "_yoast_wpseo_opengraph-title": "Stranger Things 5: Fãs Apontam Semelhanças com Filme de Terror \"Weapons\"",
+        "_yoast_wpseo_opengraph-description": "Fãs de Stranger Things 5 apontam semelhanças notáveis com o filme de terror \"Weapons\", lançado este ano. Descubra as teorias e comparações.",
+        "_yoast_wpseo_twitter-title": "Stranger Things 5: Fãs Apontam Semelhanças com Filme de Terror \"Weapons\"",
+        "_yoast_wpseo_twitter-description": "Fãs de Stranger Things 5 apontam semelhanças notáveis com o filme de terror \"Weapons\", lançado este ano. Descubra as teorias e comparações."
+      }
+    }
+  ]
+}

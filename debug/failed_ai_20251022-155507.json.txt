@@ -1,0 +1,157 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "HBO Max: \"Welcome to Derry\" desafiará \"Stranger Things 5\" em audiência",
+      "conteudo_final": "<p>A disputa pelo público no final de 2025 promete ser intensa. A HBO Max revelou a programação de sua nova série baseada no universo de <strong>Stephen King</strong>, <em>It: Welcome to Derry</em>, que colocará a produção em confronto direto com a quinta e última temporada de <em>Stranger Things</em>, da Netflix.</p><h2>'Welcome to Derry' x 'Stranger Things 5': Uma Batalha de Terror</h2><p>Ambas as séries são aguardadas com grande expectativa e pertencem ao gênero de terror, o que intensifica a rivalidade pela atenção dos espectadores. <em>It: Welcome to Derry</em> é uma prequela dos eventos do livro e dos filmes de Stephen King, ambientada na cidade de Derry em 1962. A trama acompanhará o avô de Mike Hanlon, personagem de <em>It: A Coisa</em>, enquanto ele descobre uma entidade maligna que assombra a cidade há séculos. O retorno de Bill Skarsgård como o icônico Pennywise está confirmado.</p><p>Por outro lado, <em>Stranger Things 5</em> concluirá a saga dos habitantes de Hawkins em sua batalha final contra Vecna. A Netflix optou por um lançamento dividido em três partes ao longo das festas de fim de ano, em contraste com a estratégia semanal da HBO.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/placeholder\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de It: Welcome to Derry (Imagem ilustrativa)</figcaption></figure><h2>Cronogramas de Lançamento e Estratégias</h2><p>A primeira temporada de <em>It: Welcome to Derry</em> terá oito episódios, com lançamento semanal aos domingos na HBO e no serviço de streaming da plataforma. O cronograma é:</p><ul><li>Episódio 1: 26 de outubro de 2025</li><li>Episódio 2: 2 de novembro de 2025</li><li>Episódio 3: 9 de novembro de 2025</li><li>Episódio 4: 16 de novembro de 2025</li><li>Episódio 5: 23 de novembro de 2025</li><li>Episódio 6: 30 de novembro de 2025</li><li>Episódio 7: 7 de dezembro de 2025</li><li>Episódio 8 (Final): 14 de dezembro de 2025</li></ul><p>A Netflix, por sua vez, lançará <em>Stranger Things 5</em> em:</p><ul><li>Volume 1 (Episódios 1-4): 26 de novembro de 2025</li><li>Volume 2 (Episódios 5-7): 25 de dezembro de 2025</li><li>Volume 3 (Episódio 8 - Final): 31 de dezembro de 2025</li></ul><p>Essa sobreposição direta em parte das temporadas cria uma expectativa para ver qual estratégia de lançamento e qual série de terror conquistará maior audiência.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/placeholder\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de Stranger Things 5 (Imagem ilustrativa)</figcaption></figure><h2>Um Legado do Terror na TV</h2><p>Enquanto <em>Stranger Things</em> se despede, <em>It: Welcome to Derry</em> surge como uma nova aposta forte do gênero de terror, aproveitando a força do universo de Stephen King. A série da HBO Max parece seguir um caminho mais tradicional, apostando na construção gradual de audiência a cada episódio semanal. Já a Netflix trata a temporada final de <em>Stranger Things</em> como um evento, o que é justificável após tantos anos de espera.</p><p>Essa coincidência de lançamentos é vista como uma passagem de bastão, onde uma série que marcou a cultura pop dá espaço para uma nova promissora. Ambos os programas prometem entregar o melhor do terror aos fãs no final de 2025.</p>",
+      "meta_description": "Duas gigantes do streaming, HBO Max e Netflix, preparam batalhas de audiência com \"Welcome to Derry\" e \"Stranger Things 5\" no final de 2025. Veja detalhes.",
+      "focus_keyphrase": "It: Welcome to Derry vs Stranger Things 5",
+      "related_keyphrases": [
+        "Stranger Things temporada 5",
+        "It: Welcome to Derry estreia",
+        "Stephen King séries HBO Max"
+      ],
+      "slug": "welcome-to-derry-stranger-things-5-competicao",
+      "categorias": [
+        {
+          "nome": "It: Welcome to Derry",
+          "grupo": "obras",
+          "evidence": "It: Welcome to Derry"
+        },
+        {
+          "nome": "Stranger Things",
+          "grupo": "obras",
+          "evidence": "Stranger Things"
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "editorias",
+          "evidence": "HBO Max"
+        }
+      ],
+      "tags_sugeridas": [
+        "it-welcome-to-derry",
+        "stranger-things",
+        "stephen-king",
+        "hbo-max",
+        "netflix",
+        "series-de-terror"
+      ],
+      "image_alt_texts": {
+        "the-kids-in-it-welcome-to-derry.jpg": "Crianças em cena da série \"It: Welcome to Derry\"",
+        "finn-wolfhard-as-mike-wheeler-protecting-kids-in-stranger-things-season-5.jpg": "Finn Wolfhard como Mike Wheeler em \"Stranger Things 5\""
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "It: Welcome to Derry vs Stranger Things 5: Batalha de audiência em 2025 | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Duas gigantes do streaming, HBO Max e Netflix, preparam batalhas de audiência com \"Welcome to Derry\" e \"Stranger Things 5\" no final de 2025. Veja detalhes.",
+        "_yoast_wpseo_focuskw": "It: Welcome to Derry vs Stranger Things 5",
+        "_yoast_news_keywords": "It: Welcome to Derry, Stranger Things, Stephen King, HBO Max, Netflix, séries de terror",
+        "_yoast_wpseo_opengraph-title": "It: Welcome to Derry vs Stranger Things 5: Batalha de audiência em 2025",
+        "_yoast_wpseo_opengraph-description": "Duas gigantes do streaming, HBO Max e Netflix, preparam batalhas de audiência com \"Welcome to Derry\" e \"Stranger Things 5\" no final de 2025. Veja detalhes.",
+        "_yoast_wpseo_twitter-title": "It: Welcome to Derry vs Stranger Things 5: Batalha de audiência em 2025",
+        "_yoast_wpseo_twitter-description": "Duas gigantes do streaming, HBO Max e Netflix, preparam batalhas de audiência com \"Welcome to Derry\" e \"Stranger Things 5\" no final de 2025. Veja detalhes."
+      }
+    },
+    {
+      "titulo_final": "Quentin Tarantino elege \"A Maldição da Residência Hill\" como melhor série da Netflix",
+      "conteudo_final": "<p>O aclamado diretor Quentin Tarantino, conhecido por sua vasta apreciação cinematográfica e recomendações de obras culturais, revelou qual série da Netflix se destaca em seu gosto pessoal. Trata-se de <strong><em>A Maldição da Residência Hill</em></strong>, produção de terror que o cineasta considera uma obra-prima.</p><h2>'A Maldição da Residência Hill': Um Destaque no Terror</h2><p>Em declarações anteriores, Tarantino já havia expressado seu apreço por séries, embora seu foco principal seja o cinema. Desta vez, o diretor apontou a série de Mike Flanagan como sua favorita na plataforma de streaming, destacando-a sem hesitação. Atualmente, a série ostenta uma pontuação de 93% no agregador de críticas Rotten Tomatoes, um feito impressionante no gênero de terror na Netflix.</p><p>A produção, inspirada livremente no romance homônimo de Shirley Jackson de 1959, narra a história da família Crain. Eles se mudam para a mansão Hill House com a intenção de reformá-la e vendê-la, mas eventos paranormais perturbadores os forçam a permanecer. Ao longo da trama, cada membro da família é assombrado por experiências cada vez mais intensas, culminando em uma tragédia.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/placeholder\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Cena de \"A Maldição da Residência Hill\" (Imagem ilustrativa)</figcaption></figure><h2>Episódio \"Duas Tempestades\" como Obra-Prima</h2><p>Um dos episódios mais elogiados da série, \"Duas Tempestades\" (Two Storms), é citado como um exemplo máximo da qualidade de <em>A Maldição da Residência Hill</em>. Este episódio em particular mescla de forma brilhante o drama familiar, o suspense e o terror. Através de técnicas de filmagem contínuas e um roteiro que entrelaça passado e presente de maneira fluida, o episódio aprofunda o conflito emocional dos personagens.</p><p>O episódio foca na família Crain reunida para o funeral de Nell, enquanto uma tempestade assola o presente e memórias do passado ressurgem. A narrativa explora as complexidades e os traumas individuais e coletivos, evidenciando a profundidade psicológica da série.</p><h2>Mais do que Terror: Um Drama Psicológico</h2><p>A série se diferencia ao focar menos em sustos e mais na exploração dos demônios internos e traumas dos personagens. Os horrores apresentados em <em>A Maldição da Residência Hill</em> não se limitam a aparições fantasmagóricas, mas sim à forma como os traumas moldam e afetam a vida dos membros da família Crain mesmo após deixarem a casa.</p><p>A presença de fantasmas ocultos em quase todas as cenas da mansão serve como metáfora para as almas presas e os fardos emocionais que os personagens carregam. Essa abordagem complexa e multifacetada consolida a série como uma das mais inteligentes e impactantes do gênero.</p>",
+      "meta_description": "Quentin Tarantino revela seu programa favorito da Netflix: \"A Maldição da Residência Hill\". Descubra por que a série é considerada uma obra-prima do terror.",
+      "focus_keyphrase": "A Maldição da Residência Hill Netflix",
+      "related_keyphrases": [
+        "Quentin Tarantino séries favoritas",
+        "Melhores séries de terror Netflix",
+        "Mike Flanagan terror"
+      ],
+      "slug": "tarantino-favorita-netflix-hill-house",
+      "categorias": [
+        {
+          "nome": "A Maldição da Residência Hill",
+          "grupo": "obras",
+          "evidence": "The Haunting of Hill House"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "horror shows"
+        }
+      ],
+      "tags_sugeridas": [
+        "a-maldicao-da-residencia-hill",
+        "quentin-tarantino",
+        "netflix",
+        "mike-flanagan",
+        "series-de-terror",
+        "rotten-tomatoes"
+      ],
+      "image_alt_texts": {
+        "the-crains-looking-at-nell-standing-in-the-dark-in-the-haunting-of-hill-house.jpg": "Família Crain em cena sombria de \"A Maldição da Residência Hill\"",
+        "hugh-with-his-young-kids-scared-in-the-car.jpg": "Hugh Crain com seus filhos assustados em \"A Maldição da Residência Hill\""
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Quentin Tarantino elege \"A Maldição da Residência Hill\" como série favorita da Netflix | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Quentin Tarantino revela seu programa favorito da Netflix: \"A Maldição da Residência Hill\". Descubra por que a série é considerada uma obra-prima do terror.",
+        "_yoast_wpseo_focuskw": "A Maldição da Residência Hill Netflix",
+        "_yoast_news_keywords": "A Maldição da Residência Hill, Quentin Tarantino, Netflix, Mike Flanagan, séries de terror, Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-title": "Quentin Tarantino elege \"A Maldição da Residência Hill\" como série favorita da Netflix",
+        "_yoast_wpseo_opengraph-description": "Quentin Tarantino revela seu programa favorito da Netflix: \"A Maldição da Residência Hill\". Descubra por que a série é considerada uma obra-prima do terror.",
+        "_yoast_wpseo_twitter-title": "Quentin Tarantino elege \"A Maldição da Residência Hill\" como série favorita da Netflix",
+        "_yoast_wpseo_twitter-description": "Quentin Tarantino revela seu programa favorito da Netflix: \"A Maldição da Residência Hill\". Descubra por que a série é considerada uma obra-prima do terror."
+      }
+    },
+    {
+      "titulo_final": "Gen V | Final da 2ª Temporada de The Boys prepara terreno para 5ª Temporada",
+      "conteudo_final": "<p>O final da segunda temporada de <strong><em>Gen V</em></strong>, spin-off de <em>The Boys</em>, estabeleceu conexões significativas com a futura quinta temporada da série principal. Eric Kripke, showrunner de ambas as produções, detalhou como os eventos recentes preparam o cenário para o próximo capítulo da saga de heróis e vilões.</p><h2>Resistência em Ascensão Contra Homelander</h2><p>No desfecho da segunda temporada de <em>Gen V</em>, Marie e seus amigos encontram Starlight (Annie January), que os convida a se juntar à crescente resistência contra Homelander e a Vought. Kripke explicou que essa aliança será crucial para os eventos de <em>The Boys</em> temporada 5.</p><p>\"Eles terão um papel importante. Parte da diversão de encerrar a segunda temporada dessa forma é que realmente preparamos o terreno para a quinta temporada, onde haverá essa resistência ativa e crescente liderada por Starlight, com A-Train sendo uma parte importante\", afirmou Kripke em entrevista ao The Hollywood Reporter.</p><p>O showrunner ressaltou que a equipe continua a equilibrar as narrativas, mantendo <em>The Boys</em> focada em seus personagens principais e <em>Gen V</em> em sua própria história, embora as conexões sejam evidentes. \"Os personagens oferecem auxílios cruciais, mas ainda é sobre <em>The Boys</em>, e você pode assistir sem ter visto <em>Gen V</em> e vice-versa. Mas assistir a ambos ainda é uma experiência muito mais divertida\", completou.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/placeholder\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Cena de \"Gen V\" (Imagem ilustrativa)</figcaption></figure><h2>O Desafio da Resistência Contra um Governo Fascista</h2><p>Kripke descreveu a situação como uma verdadeira resistência subterrânea contra um governo fascista. \"Eles estão em desvantagem em termos de pessoal e armamento. Você está em um país inteiro que bebeu o Kool-Aid de Homelander. Eles estão em desvantagem pela quantidade de centenas de super-heróis em todas as cidades do país, que receberam autoridade sobre a polícia\", disse.</p><p>Apesar dos desafios, a resistência busca confrontar Homelander e o governo que o apoia. Personagens como Butcher, Stan Edgar, Marie e Huey estão na linha de frente dessa luta, mesmo estando em menor número.</p><h2>O Futuro de Gen V</h2><p>Kripke também mencionou que o futuro de <em>Gen V</em> ainda é incerto, com a possibilidade de mais temporadas dependendo da audiência. \"Não vamos dar a entender na quinta temporada de <em>The Boys</em> que este é o fim de <em>Gen V</em>. Nós os deixamos em aberto porque temos mais história de <em>Gen V</em> para contar e gostaríamos de contá-la. Depende das audiências e de quantas pessoas acabam assistindo. Temos que fazer com que a Amazon nos renove para outra temporada\", concluiu.</p>",
+      "meta_description": "Eric Kripke revela como o final de \"Gen V\" temporada 2 prepara terreno para \"The Boys\" temporada 5, destacando a resistência contra Homelander. Veja detalhes.",
+      "focus_keyphrase": "Gen V temporada 2 The Boys temporada 5",
+      "related_keyphrases": [
+        "The Boys Eric Kripke",
+        "Resistência contra Homelander",
+        "Gen V futuro"
+      ],
+      "slug": "gen-v-temporada-2-the-boys-temporada-5",
+      "categorias": [
+        {
+          "nome": "Gen V",
+          "grupo": "obras",
+          "evidence": "Gen V"
+        },
+        {
+          "nome": "The Boys",
+          "grupo": "obras",
+          "evidence": "The Boys"
+        },
+        {
+          "nome": "Amazon Prime Video",
+          "grupo": "editorias",
+          "evidence": "Amazon"
+        }
+      ],
+      "tags_sugeridas": [
+        "gen-v",
+        "the-boys",
+        "eric-kripke",
+        "homelander",
+        "super-herois",
+        "series-de-tv",
+        "amazon-prime-video"
+      ],
+      "image_alt_texts": {
+        "gen-v-logo.jpg": "Logo da série Gen V"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Gen V temporada 2 prepara \"The Boys\" temporada 5, diz Eric Kripke | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Eric Kripke revela como o final de \"Gen V\" temporada 2 prepara terreno para \"The Boys\" temporada 5, destacando a resistência contra Homelander. Veja detalhes.",
+        "_yoast_wpseo_focuskw": "Gen V temporada 2 The Boys temporada 5",
+        "_yoast_news_keywords": "Gen V, The Boys, Eric Kripke, Homelander, super-herois, series de tv, Amazon Prime Video",
+        "_yoast_wpseo_opengraph-title": "Gen V temporada 2 prepara \"The Boys\" temporada 5, diz Eric Kripke",
+        "_yoast_wpseo_opengraph-description": "Eric Kripke revela como o final de \"Gen V\" temporada 2 prepara terreno para \"The Boys\" temporada 5, destacando a resistência contra Homelander. Veja detalhes.",
+        "_yoast_wpseo_twitter-title": "Gen V temporada 2 prepara \"The Boys\" temporada 5, diz Eric Kripke",
+        "_yoast_wpseo_twitter-description": "Eric Kripke revela como o final de \"Gen V\" temporada 2 prepara terreno para \"The Boys\" temporada 5, destacando a resistência contra Homelander. Veja detalhes."
+      }
+    }
+  ]
+}

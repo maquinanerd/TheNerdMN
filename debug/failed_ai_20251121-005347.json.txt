@@ -1,0 +1,103 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Andy Richter critica Donald Trump e defende liberdade de expressão na TV",
+      "conteudo_final": "<p>Andy Richter, ex-co-host de Conan O'Brien, expressou sua opinião sobre o comportamento de Donald Trump em entrevista recente. Richter afirmou que, se ainda estivesse no ar com O'Brien, também criticaria as ações do presidente, especialmente seus ataques a apresentadores de talk shows noturnos.</p><p>Em entrevista à <em>Entertainment Weekly</em>, Richter declarou que Trump precisa ser responsabilizado por suas ações. \"Nós faríamos o que todos os outros estão fazendo. É tudo gás e sem freios. Porque foda-se aquele cara, sabe?\", disse ele.</p><p>Richter, que trabalhou com O'Brien por quase trinta anos em três programas diferentes, acredita que os apresentadores atuais devem usar suas plataformas para combater injustiças e os ataques de Trump à liberdade de expressão.</p><p>Esta não é a primeira vez que Richter se manifesta contra o atual presidente. Durante a suspensão de Jimmy Kimmel, ele defendeu o colega. Richter aconselhou Kimmel a continuar se posicionando contra Trump e as demandas da emissora, afirmando: \"Não, ele deveria ir mais fundo. Não há dúvida\".</p><p>Ele criticou Trump por ser \"covarde\" e ter a pele fina, sugerindo que o profissionalismo exigiria ignorar as piadas e seguir em frente, em vez de reagir agressivamente.</p><blockquote><p>Isso é ultrajante. É anti-americano e mostra a covardia absoluta de alguém que não aguenta uma piada. Embora ele reconheça que os negócios não estão florescendo para a TV noturna como eram há 30, 20 ou mesmo 10 anos, Richter considera a resposta de Trump ao ser satirizado inaceitável.</p><p>Você ignora. Se alguém está fazendo piada de você, ignore-os. Mas isso mostra a profunda insegurança, fraqueza, infantilidade e também a falta de conteúdo que esta administração tem. Que eles precisam levar tão a sério e usar as engrenagens do governo para esmagar criadores de piadas. É tão indicativo de, quero dizer, pinto pequeno, mas apenas pessoas fracas, fracas, fracas, fracas. Pessoas fracas, sem criatividade, nada brilhantes.</p></blockquote><p>Richter concluiu a entrevista com um conselho geral para figuras públicas: \"Se você está atacando os criadores de piadas, provavelmente está errado. Essa é apenas uma regra geral que eu recomendaria para todos seguirem\".</p>",
+      "meta_description": "Andy Richter, ex-co-host de Conan O'Brien, critica Donald Trump e defende a importância da liberdade de expressão na TV.",
+      "focus_keyphrase": "Andy Richter critica Donald Trump",
+      "related_keyphrases": [
+        "Andy Richter Donald Trump",
+        "Liberdade de expressão TV",
+        "Conan O'Brien Andy Richter"
+      ],
+      "slug": "andy-richter-critica-donald-trump",
+      "categorias": [
+        {
+          "nome": "Andy Richter",
+          "grupo": "personalidades",
+          "evidence": "Conan O'Brien's former co-host, <strong>Andy Richter</strong>"
+        },
+        {
+          "nome": "Donald Trump",
+          "grupo": "personalidades",
+          "evidence": "Donald Trump's seemingly endless fight against the media"
+        },
+        {
+          "nome": "Talk Shows",
+          "grupo": "programas",
+          "evidence": "attacks on late-night hosts"
+        }
+      ],
+      "tags_sugeridas": [
+        "Andy Richter",
+        "Donald Trump",
+        "Conan O'Brien",
+        "Liberdade de Expressão",
+        "Talk Show"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Andy Richter critica Donald Trump e defende liberdade de expressão na TV",
+        "_yoast_wpseo_metadesc": "Andy Richter, ex-co-host de Conan O'Brien, critica Donald Trump e defende a importância da liberdade de expressão na TV.",
+        "_yoast_wpseo_focuskw": "Andy Richter critica Donald Trump",
+        "_yoast_news_keywords": "Andy Richter, Donald Trump, Conan O'Brien, Liberdade de Expressão, Talk Show",
+        "_yoast_wpseo_opengraph-title": "Andy Richter critica Donald Trump e defende liberdade de expressão na TV",
+        "_yoast_wpseo_opengraph-description": "Andy Richter, ex-co-host de Conan O'Brien, critica Donald Trump e defende a importância da liberdade de expressão na TV.",
+        "_yoast_wpseo_twitter-title": "Andy Richter critica Donald Trump e defende liberdade de expressão na TV",
+        "_yoast_wpseo_twitter-description": "Andy Richter, ex-co-host de Conan O'Brien, critica Donald Trump e defende a importância da liberdade de expressão na TV."
+      }
+    },
+    {
+      "titulo_final": "Sucesso de série de Stephen King impulsiona projetos de Mike Flanagan",
+      "conteudo_final": "<p>Uma nova série baseada em uma obra de <strong>Stephen King</strong> alcançou um sucesso estrondoso no streaming, quebrando recordes e abrindo caminhos promissores para os futuros projetos de <strong>Mike Flanagan</strong>.</p><p>O ano de 2025 tem sido notável para o gênero de terror, com filmes aclamados como <em>The Monkey</em>, <em>The Life of Chuck</em> e <em>The Long Walk</em>. No entanto, as adaptações televisivas de King, como <em>The Institute</em> e <em>It: Welcome to Derry</em>, têm se destacado ainda mais, com a segunda sendo renovada e a última quebrando recordes de audiência na HBO.</p><p>Essa mudança de paradigma, onde as séries de King superam os filmes em popularidade e sucesso, é uma excelente notícia para Mike Flanagan. O diretor, conhecido por suas adaptações aclamadas de King, como <em>Gerald's Game</em> e <em>Doctor Sleep</em>, enfrentou dificuldades comerciais com seus filmes, apesar do reconhecimento crítico.</p><h2>Adaptações de Stephen King no Cinema em 2025</h2><p>Apesar do sucesso crítico de filmes como <em>The Monkey</em> (77% no Rotten Tomatoes), <em>The Life of Chuck</em> (80%) e <em>The Long Walk</em> (88%), a maioria dessas produções não conseguiu recuperar seu orçamento de bilheteria. <em>The Running Man</em>, com 66% de aprovação, também não teve um desempenho financeiro expressivo.</p><div class=\"table-container\">\n<table align=\"\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"\" summary=\"\">\n<tbody>\n<tr>\n<td>\n<p><strong>Filme</strong></p>\n</td>\n<td>\n<p><strong>Orçamento</strong></p>\n</td>\n<td>\n<p><strong>Bilheteria</strong></p>\n</td>\n<td>\n<p><strong>Nota Críticos Rotten Tomatoes</strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><em>The Monkey</em></p>\n</td>\n<td>\n<p>$10–11 milhões</p>\n</td>\n<td>\n<p>$68.9 milhões</p>\n</td>\n<td>\n<p>77%</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><em>The Life Of Chuck</em></p>\n</td>\n<td>\n<p>$25 milhões</p>\n</td>\n<td>\n<p>$16.2 milhões</p>\n</td>\n<td>\n<p>80%</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><em>The Long Walk</em></p>\n</td>\n<td>\n<p>$20 milhões</p>\n</td>\n<td>\n<p>$44 milhões</p>\n</td>\n<td>\n<p>88%</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><em>The Running Man</em></p>\n</td>\n<td>\n<p>$110 milhões</p>\n</td>\n<td>\n<p>$30.7 milhões</p>\n</td>\n<td>\n<p>66%</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div><p>Essa discrepância entre aclamação crítica e desempenho comercial no cinema contrasta fortemente com o sucesso das adaptações televisivas de Stephen King em 2025. A tendência sugere que o formato de série se tornou mais adequado para explorar as complexas narrativas de King.</p><h2>Mike Flanagan Beneficia-se da Nova Tendência</h2><p>Mike Flanagan tem duas adaptações de Stephen King em desenvolvimento: <em>Carrie</em> e <em>The Dark Tower</em>. Ambas estão planejadas como séries de TV, o que alinha seus projetos com a tendência atual de sucesso no streaming.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/how-mike-flanagan-s-carrie-show-cast-compares-to-the-stephen-king-book-1976-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Sissy Spacek como Carrie no filme de 1976" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/how-mike-flanagan-s-carrie-show-cast-compares-to-the-stephen-king-book-1976-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/how-mike-flanagan-s-carrie-show-cast-compares-to-the-stephen-king-book-1976-movie.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>A adaptação de <em>Carrie</em> para a TV promete seguir o sucesso de outras séries de King.</figcaption></figure><p>Considerando o desempenho de <em>The Institute</em> e <em>It: Welcome to Derry</em>, e o histórico de Flanagan com séries de sucesso como <em>The Haunting of Hill House</em> e <em>Midnight Mass</em>, seus próximos projetos baseados em Stephen King têm um futuro promissor. A produção de <em>Carrie</em> já está em andamento, com previsão de estreia para 2026, enquanto <em>The Dark Tower</em> ainda demandará mais tempo de desenvolvimento.</p>",
+      "meta_description": "O sucesso de séries de Stephen King no streaming, como 'It: Welcome to Derry', indica um futuro promissor para as adaptações televisivas de Mike Flanagan.",
+      "focus_keyphrase": "Stephen King série sucesso Mike Flanagan",
+      "related_keyphrases": [
+        "Mike Flanagan Stephen King TV",
+        "Adaptações Stephen King streaming",
+        "It Welcome to Derry audiência"
+      ],
+      "slug": "stephen-king-serie-sucesso-flanagan",
+      "categorias": [
+        {
+          "nome": "Stephen King",
+          "grupo": "autores",
+          "evidence": "Stephen King show has performed incredibly well"
+        },
+        {
+          "nome": "Mike Flanagan",
+          "grupo": "diretores",
+          "evidence": "Mike Flanagan's upcoming projects"
+        },
+        {
+          "nome": "It: Welcome to Derry",
+          "grupo": "obras",
+          "evidence": "It: Welcome to Derry has been shattering viewership records on HBO"
+        }
+      ],
+      "tags_sugeridas": [
+        "Stephen King",
+        "Mike Flanagan",
+        "It Welcome to Derry",
+        "Carrie",
+        "The Dark Tower",
+        "Terror"
+      ],
+      "image_alt_texts": {
+        "the-long-walk-movie-official-still-curly.jpeg": "Cena do filme 'The Long Walk', adaptação de Stephen King.",
+        "stephen-king-s-new-movie-with-a-mind-bending-story-is-his-most-existential-adaptation-ever.jpg": "Tom Hiddleston como Charles Krantz em 'The Life of Chuck', adaptação de Stephen King.",
+        "how-mike-flanagan-s-carrie-show-cast-compares-to-the-stephen-king-book-1976-movie.jpg": "Sissy Spacek como Carrie no filme de 1976, adaptação de Stephen King."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Sucesso de série de Stephen King impulsiona projetos de Mike Flanagan",
+        "_yoast_wpseo_metadesc": "O sucesso de séries de Stephen King no streaming, como 'It: Welcome to Derry', indica um futuro promissor para as adaptações televisivas de Mike Flanagan.",
+        "_yoast_wpseo_focuskw": "Stephen King série sucesso Mike Flanagan",
+        "_yoast_news_keywords": "Stephen King, Mike Flanagan, It Welcome to Derry, Carrie, The Dark Tower, Terror, Adaptações",
+        "_yoast_wpseo_opengraph-title": "Sucesso de série de Stephen King impulsiona projetos de Mike Flanagan",
+        "_yoast_wpseo_opengraph-description": "O sucesso de séries de Stephen King no streaming, como 'It: Welcome to Derry', indica um futuro promissor para as adaptações televisivas de Mike Flanagan.",
+        "_yoast_wpseo_twitter-title": "Sucesso de série de Stephen King impulsiona projetos de Mike Flanagan",
+        "_yoast_wpseo_twitter-description": "O sucesso de séries de Stephen King no streaming, como 'It: Welcome to Derry', indica um futuro promissor para as adaptações televisivas de Mike Flanagan."
+      }
+    }
+  ]
+}

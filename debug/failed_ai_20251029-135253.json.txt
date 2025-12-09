@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Elixir: Filme de terror de zumbis da Netflix vira sucesso global",
+      "conteudo_final": "<p>A Netflix está celebrando um sucesso inesperado com o thriller de zumbis <em>The Elixir</em>, também conhecido em sua língua original como <em>Abadi Nan Jaya</em>. Apesar de uma pontuação de audiência considerada baixa em plataformas de avaliação, o filme tem conquistado o público mundialmente, alcançando o topo das paradas de streaming.</p>\n\n<h2>O Enredo de The Elixir</h2>\n<p><em>The Elixir</em> narra a história de uma família desestruturada que é forçada a unir forças para sobreviver a um surto de zumbis. A causa da infecção? Um jamu, uma tradicional medicina herbal indonésia, que se mostrou contaminado. A trama se desenvolve em meio ao caos e à necessidade de cooperação para superar a ameaça.</p>\n\n<h2>Desempenho nas Bilheterias e Streaming</h2>\n<p>Embora o filme ainda não tenha uma pontuação oficial de críticos em sites como o Rotten Tomatoes, a recepção do público tem sido majoritariamente negativa, resultando em uma nota de apenas 26% na pontuação de audiência. No entanto, essa baixa aprovação não impediu <em>The Elixir</em> de estrear em primeiro lugar no ranking de filmes não-ingleses mais assistidos da Netflix, acumulando 11.4 milhões de espectadores e 22.4 milhões de horas assistidas entre 20 e 26 de outubro.</p>\n\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Filme de terror de zumbis The Elixir (Abadi Nan Jaya) se torna um sucesso global na Netflix, alcançando o Top 10 em 75 países.",
+      "focus_keyphrase": "The Elixir Netflix",
+      "related_keyphrases": [
+        "Filme de zumbis The Elixir",
+        "Abadi Nan Jaya Netflix",
+        "Terror indonésio Netflix"
+      ],
+      "slug": "the-elixir-filme-netflix-sucesso",
+      "categorias": [
+        {
+          "nome": "The Elixir",
+          "grupo": "obras",
+          "evidence": "<em>The Elixir</em> is surging on streaming"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "The new Netflix horror movie"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "Netflix horror movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "the elixir",
+        "netflix",
+        "terror",
+        "zumbis",
+        "filme indonésio",
+        "abadi nan jaya",
+        "kimo stamboel"
+      ],
+      "image_alt_texts": {
+        "01833931_poster_w780.jpg": "Pôster do filme The Elixir, um filme de terror de zumbis indonésio."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Elixir: Filme de terror de zumbis da Netflix vira sucesso global",
+        "_yoast_wpseo_metadesc": "Filme de terror de zumbis The Elixir (Abadi Nan Jaya) se torna um sucesso global na Netflix, alcançando o Top 10 em 75 países.",
+        "_yoast_wpseo_focuskw": "The Elixir Netflix",
+        "_yoast_news_keywords": "The Elixir, Netflix, terror, zumbis, filme indonésio, Abadi Nan Jaya, Kimo Stamboel, Eva Celia, Mikha Tambayong",
+        "_yoast_wpseo_opengraph-title": "The Elixir: Filme de terror de zumbis da Netflix vira sucesso global",
+        "_yoast_wpseo_opengraph-description": "Filme de terror de zumbis The Elixir (Abadi Nan Jaya) se torna um sucesso global na Netflix, alcançando o Top 10 em 75 países.",
+        "_yoast_wpseo_twitter-title": "The Elixir: Filme de terror de zumbis da Netflix vira sucesso global",
+        "_yoast_wpseo_twitter-description": "Filme de terror de zumbis The Elixir (Abadi Nan Jaya) se torna um sucesso global na Netflix, alcançando o Top 10 em 75 países."
+      }
+    }
+  ]
+}

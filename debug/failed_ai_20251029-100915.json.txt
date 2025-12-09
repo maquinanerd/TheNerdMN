@@ -1,0 +1,60 @@
+{
+  "titulo_final": "Os 15 Melhores Desenhos do Adult Swim: Ranking Completo",
+  "conteudo_final": "<p>O bloco de programação adulta do Cartoon Network, o <b>Adult Swim</b>, produziu séries animadas icônicas ao longo dos anos. Reunimos as 15 melhores produções originais que definem o humor surrealista e a animação característica do canal.</p><h2>Xavier: Renegade Angel</h2><p>Um dos maiores exemplos do humor absurdo do Adult Swim é <b>Xavier: Renegade Angel</b>. A série acompanha um xamã com um braço de cobra e um bico de pássaro em viagens bizarras para resolver problemas ridículos, com monólogos incoerentes e visuais psicodélicos que criam uma experiência semelhante a um sonho febril.</p><figure><img src=\"https:
+  "meta_description": "Descubra o ranking das 15 melhores séries originais do Adult Swim, de Xavier: Renegade Angel a The Venture Bros., e relembre os clássicos.",
+  "focus_keyphrase": "Melhores séries Adult Swim",
+  "related_keyphrases": [
+    "Desenhos Adult Swim",
+    "Programação Adult Swim",
+    "Animações Adult Swim"
+  ],
+  "slug": "melhores-series-adult-swim-ranking",
+  "categorias": [
+    {
+      "nome": "Adult Swim",
+      "grupo": "franquias",
+      "evidence": "Cartoon Network's adult programming block, Adult Swim"
+    },
+    {
+      "nome": "Xavier: Renegade Angel",
+      "grupo": "obras",
+      "evidence": "Xavier: Renegade Angel"
+    },
+    {
+      "nome": "My Adventures with Superman",
+      "grupo": "obras",
+      "evidence": "My Adventures with Superman"
+    }
+  ],
+  "tags_sugeridas": [
+    "Adult Swim",
+    "Xavier Renegade Angel",
+    "Mike Tyson Mysteries",
+    "Samurai Jack",
+    "The Venture Bros.",
+    "Robot Chicken",
+    "Animação"
+  ],
+  "image_alt_texts": {
+    "adult-swim-quiz-xavier-renegade-angel.jpg": "Xavier: Renegade Angel, série do Adult Swim com humor absurdo.",
+    "adult-swim-quiz-mike-tyson-mysteries.jpg": "Mike Tyson Mysteries, série animada do Adult Swim com Mike Tyson.",
+    "my-adventures-with-superman-supergirl-new-suit-1.jpg": "Superman e Supergirl em My Adventures with Superman, série do Adult Swim.",
+    "harvey-birdman-attorney-at-law-cropped.jpg": "Harvey Birdman, Attorney at Law, série clássica do Adult Swim.",
+    "sf.jpg": "Smiling Friends, série animada recente do Adult Swim.",
+    "jack-facing-off-against-aku-in-samurai-jack.jpg": "Samurai Jack enfrentando Aku em cena da série do Adult Swim.",
+    "gargamel-and-guy-fieri-cheering-while-driving-a-convertible-in-robot-chicken-self-discovery-special-1.jpg": "Gargamel e Guy Fieri em Robot Chicken, série de esquetes do Adult Swim.",
+    "adult-swim-quiz-eric-andre-show.jpg": "Eric Andre Show, talk show surrealista do Adult Swim.",
+    "space-ghost-coast-to-coast.jpg": "Space Ghost Coast To Coast, série animada pioneira do Adult Swim.",
+    "brock-reaching-to-turn-over-hank-in-venture-bros-movie.jpg": "Brock Sampson em The Venture Bros., série de animação do Adult Swim."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Os 15 Melhores Desenhos do Adult Swim: Ranking Completo",
+    "_yoast_wpseo_metadesc": "Descubra o ranking das 15 melhores séries originais do Adult Swim, de Xavier: Renegade Angel a The Venture Bros., e relembre os clássicos.",
+    "_yoast_wpseo_focuskw": "Melhores séries Adult Swim",
+    "_yoast_news_keywords": "Adult Swim, Xavier Renegade Angel, Mike Tyson Mysteries, My Adventures with Superman, Harvey Birdman, Smiling Friends, Samurai Jack, Robot Chicken, The Eric Andre Show, Space Ghost Coast To Coast, The Venture Bros., Animação, Séries Animadas",
+    "_yoast_wpseo_opengraph-title": "Os 15 Melhores Desenhos do Adult Swim: Ranking Completo",
+    "_yoast_wpseo_opengraph-description": "Descubra o ranking das 15 melhores séries originais do Adult Swim, de Xavier: Renegade Angel a The Venture Bros., e relembre os clássicos.",
+    "_yoast_wpseo_twitter-title": "Os 15 Melhores Desenhos do Adult Swim: Ranking Completo",
+    "_yoast_wpseo_twitter-description": "Descubra o ranking das 15 melhores séries originais do Adult Swim, de Xavier: Renegade Angel a The Venture Bros., e relembre os clássicos."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Dwayne Johnson: Campanha ao Oscar 2026 sofre revés após Gotham Awards",
+  "conteudo_final": "<p>A temporada de premiações de cinema já deu a largada com o anúncio dos indicados ao <b>Gotham Awards</b> em 28 de outubro, marcando o início da corrida para o <b>Oscar 2026</b>. Embora o Gotham Awards foque em filmes independentes e suas indicações não garantam sobreposição com o Oscar, ele tem o poder de direcionar a conversa e destacar produções que poderiam passar despercebidas.</p><h2>O Impacto do Gotham Awards nas Prioridades da A24</h2><p>Neste ano, o filme <em>If I Had Legs, I'd Kick You</em>, estrelado por Rose Byrne, emergiu como um dos grandes destaques do Gotham Awards, recebendo quatro indicações: Melhor Filme, Melhor Diretor e Melhor Roteiro Original, além de Performance Principal de Destaque para Byrne. Este desempenho pode solidificar a posição de Byrne na disputa de Melhor Atriz e abrir portas para o filme em outras categorias.</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "A campanha de Dwayne Johnson ao Oscar 2026 por \"The Smashing Machine\" enfrenta obstáculos após o Gotham Awards e desempenho nas bilheterias.",
+  "focus_keyphrase": "Dwayne Johnson Oscar 2026",
+  "related_keyphrases": [
+    "The Smashing Machine",
+    "Gotham Awards",
+    "If I Had Legs, I'd Kick You"
+  ],
+  "slug": "dwayne-johnson-oscar-2026-campanha",
+  "categorias": [
+    {
+      "nome": "The Smashing Machine",
+      "grupo": "obras",
+      "evidence": "Dwayne Johnson, who's currently a leading candidate for Best Actor for his performance in The Smashing Machine."
+    },
+    {
+      "nome": "If I Had Legs, I'd Kick You",
+      "grupo": "obras",
+      "evidence": "If I Had Legs, I'd Kick You has already been running this race for a long time."
+    },
+    {
+      "nome": "Gotham Awards",
+      "grupo": "eventos",
+      "evidence": "On October 28, the Gotham Awards announced their nominees"
+    }
+  ],
+  "tags_sugeridas": [
+    "Dwayne Johnson",
+    "Oscar 2026",
+    "Gotham Awards",
+    "The Smashing Machine",
+    "If I Had Legs, I'd Kick You",
+    "Rose Byrne",
+    "A24"
+  ],
+  "image_alt_texts": {
+    "asap-rocky-s-jamie-and-rose-byrne-s-linda-looking-surprised-at-something-in-if-i-had-legs-i-d-kick-you.jpg": "Rose Byrne e ASAP Rocky em cena de \"If I Had Legs, I'd Kick You\".",
+    "01620824_poster_w780.jpg": "Pôster do filme \"The Smashing Machine\" com Dwayne Johnson.",
+    "01733662_poster_w780.jpg": "Pôster do filme \"If I Had Legs, I'd Kick You\" com Rose Byrne."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Dwayne Johnson: Campanha ao Oscar 2026 sofre revés após Gotham Awards",
+    "_yoast_wpseo_metadesc": "A campanha de Dwayne Johnson ao Oscar 2026 por \"The Smashing Machine\" enfrenta obstáculos após o Gotham Awards e desempenho nas bilheterias.",
+    "_yoast_wpseo_focuskw": "Dwayne Johnson Oscar 2026",
+    "_yoast_news_keywords": "Dwayne Johnson, Oscar 2026, The Smashing Machine, Gotham Awards, If I Had Legs I'd Kick You, Rose Byrne, A24, premiações de cinema",
+    "_yoast_wpseo_opengraph-title": "Dwayne Johnson: Campanha ao Oscar 2026 sofre revés após Gotham Awards",
+    "_yoast_wpseo_opengraph-description": "A campanha de Dwayne Johnson ao Oscar 2026 por \"The Smashing Machine\" enfrenta obstáculos após o Gotham Awards e desempenho nas bilheterias.",
+    "_yoast_wpseo_twitter-title": "Dwayne Johnson: Campanha ao Oscar 2026 sofre revés após Gotham Awards",
+    "_yoast_wpseo_twitter-description": "A campanha de Dwayne Johnson ao Oscar 2026 por \"The Smashing Machine\" enfrenta obstáculos após o Gotham Awards e desempenho nas bilheterias."
+  }
+}

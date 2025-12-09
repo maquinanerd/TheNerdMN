@@ -1,0 +1,46 @@
+{
+  "titulo_final": "The Rookie: trailer da 8ª temporada revela aventura internacional em Praga",
+  "conteudo_final": "<p>A série <b>The Rookie</b>, um dos sucessos da ABC, prepara seu retorno em janeiro de 2026 com a oitava temporada. Produzida por Nathan Fillion, a trama policial adota uma abordagem mais leve, mas se consolidou como um projeto de elenco coeso. A novidade para a nova temporada é um trailer que antecipa a estreia, mostrando o time em uma missão internacional.</p><h2>Missão em Praga</h2><p>Após os eventos da sétima temporada, que incluíram a formatura de Celina e a reascensão do romance entre Tim e Lucy, a oitava temporada promete ação fora dos Estados Unidos. O trailer oficial, divulgado no Instagram da série, revela que o episódio de estreia levará o elenco principal para Praga, na República Tcheca.</p><p>A produtora da série, Alexi Hawley, explicou que as filmagens antecipadas foram necessárias devido à complexidade logística de produzir fora do país, especialmente com a preparação para um spin-off, <i>The Rookie North</i>. A previsão é que a série principal tenha episódios suficientes para preencher a grade enquanto a nova produção é desenvolvida.</p><figure><iframe src=\"https://www.instagram.com/reel/DQXTxXkjF8P/?utm_source=ig_embed&amp;utm_campaign=loading\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer da 8ª temporada de The Rookie revela missão internacional em Praga.</figcaption></figure><h2>O Enigma de Monica</h2><p>Embora os detalhes da trama em Praga ainda sejam escassos, o trailer sugere que a missão está ligada a uma tentativa de emboscada. Rumores indicam que a investigação pode envolver Monica, uma personagem que escapou no final da sétima temporada e causou transtornos significativos. A equipe de Mid-Wilshire estaria empenhada em sua captura.</p><h2>Foco nos relacionamentos</h2><p>O trailer da 8ª temporada de <b>The Rookie</b> concentra-se na nova investigação, deixando de lado os desdobramentos mais pessoais dos personagens. A resolução do cliffhanger envolvendo o relacionamento de Bradford e Chen, que muitos fãs aguardam, ficará para os próximos episódios. Hawley confirmou que o casal terá um reencontro, mas o público precisará ter paciência.</p><p>A série, que estreou em 2018, continua a ser um dos pilares da programação da ABC, combinando casos policiais com o desenvolvimento de seus personagens. A oitava temporada promete manter esse equilíbrio, com uma aventura internacional que deve elevar o nível de tensão e entretenimento.</p>",
+  "meta_description": "The Rookie retorna em janeiro de 2026 com a 8ª temporada. Trailer revela missão internacional em Praga e novos desafios para a equipe.",
+  "focus_keyphrase": "The Rookie 8ª temporada",
+  "related_keyphrases": [
+    "trailer The Rookie",
+    "ABC séries",
+    "Nathan Fillion"
+  ],
+  "slug": "the-rookie-temporada-8-trailer-praga",
+  "categorias": [
+    {
+      "nome": "The Rookie",
+      "grupo": "obras",
+      "evidence": "<em>The Rookie</em> season 8 gets an early promo clip"
+    },
+    {
+      "nome": "ABC",
+      "grupo": "editorias",
+      "evidence": "ABC's top-rated cop shows"
+    }
+  ],
+  "tags_sugeridas": [
+    "The Rookie",
+    "Nathan Fillion",
+    "ABC",
+    "séries policiais",
+    "temporada 8"
+  ],
+  "image_alt_texts": {
+    "03128501_poster_w780.jpg": "Pôster promocional da série The Rookie, com o logo da série e imagens dos personagens principais.",
+    "instar52203872-1.jpg": "Nathan Fillion como John Nolan em cena de The Rookie.",
+    "headshot-of-melissa-o-neil.jpg": "Melissa O'Neil como Lucy Chen em The Rookie."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "The Rookie: trailer da 8ª temporada revela aventura internacional em Praga",
+    "_yoast_wpseo_metadesc": "The Rookie retorna em janeiro de 2026 com a 8ª temporada. Trailer revela missão internacional em Praga e novos desafios para a equipe.",
+    "_yoast_wpseo_focuskw": "The Rookie 8ª temporada",
+    "_yoast_news_keywords": "The Rookie, Nathan Fillion, ABC, séries policiais, temporada 8, Praga, trailer",
+    "_yoast_wpseo_opengraph-title": "The Rookie: trailer da 8ª temporada revela aventura internacional em Praga",
+    "_yoast_wpseo_opengraph-description": "The Rookie retorna em janeiro de 2026 com a 8ª temporada. Trailer revela missão internacional em Praga e novos desafios para a equipe.",
+    "_yoast_wpseo_twitter-title": "The Rookie: trailer da 8ª temporada revela aventura internacional em Praga",
+    "_yoast_wpseo_twitter-description": "The Rookie retorna em janeiro de 2026 com a 8ª temporada. Trailer revela missão internacional em Praga e novos desafios para a equipe."
+  }
+}

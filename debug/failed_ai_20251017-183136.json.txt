@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Diplomat: 3ª temporada da série da Netflix já é sucesso",
+      "conteudo_final": "<p>A biblioteca de streaming da <a href=\"https://www.maquinanerd.com.br/tag/netflix\">Netflix</a> oferece uma vasta gama de séries e filmes, o que pode tornar a escolha do que assistir um desafio. Títulos como KPop Demon Hunters, Monster: The Ed Gein Story e Wayward Pines têm figurado entre as opções mais populares. Para quem busca uma nova série para maratonar, a produção de suspense da plataforma acaba de retornar com sua terceira temporada e merece um lugar na sua lista.</p>\n\n<h2>'The Diplomat' é uma das melhores séries da Netflix</h2>\n\n<p>A série de suspense político <b>The Diplomat</b> estreou sua terceira temporada em 16 de outubro, consolidando-se como uma excelente opção para streaming. Criada por Debora Cahn, a série estrelada por Keri Russell segue Katherine “Kate” Wyler, uma diplomata veterana dos EUA que é subitamente nomeada embaixadora no Reino Unido. Em meio a uma crise diplomática internacional emergente, Kate precisa conciliar seu novo cargo e seu conturbado casamento com um astro político. Na 3ª temporada, Kate se vê envolvida em uma crise diplomática e precisa lidar com uma nova administração e uma ameaça letal.</p>\n\n<figure><iframe src=\"https://www.youtube.com/embed/l6UX4V71jzc\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de The Diplomat</figcaption></figure>\n\n<p>A Netflix tem lançado ótimas séries originais ao longo dos anos, e <b>The Diplomat</b> se destaca como uma das melhores. A produção ostenta uma pontuação de 91% entre os críticos e 72% entre o público no <a href=\"https://www.rottentomatoes.com/tv/the_diplomat\">Rotten Tomatoes</a>. Com o lançamento da 3ª temporada, a série voltou ao top 10 de streaming, alcançando o 4º lugar em 17 de outubro, ao lado de títulos como Monster: The Ed Gein Story e Boots. A série conta com atuações marcantes do elenco, que inclui Russell, Rufus Sewell, David Gyasi, Ali Ahn e Rory Kinnear, e foca em um enredo intrincado e de alto drama que mistura suspense político com dramas pessoais, repleto de reviravoltas e situações de alto risco que prendem a atenção do espectador.</p>\n\n<p>A nova temporada, recém-lançada, já se mostra um sucesso. Além de integrar a lista das séries mais assistidas, os novos episódios alcançaram 94% de aprovação dos críticos no <a href=\"https://www.rottentomatoes.com/tv/the_diplomat/s03\">Rotten Tomatoes</a>, embora ainda seja cedo para uma avaliação do público. A temporada atual mantém os elementos que consagraram as anteriores, como diálogos afiados e grandes atuações, ao mesmo tempo que muda o foco para um novo cenário político e aprofunda a complexa relação entre Kate e Hal.</p>\n\n<h2>Outras séries em destaque na Netflix</h2>\n\n<p><b>The Diplomat</b> é apenas uma das diversas séries disponíveis na Netflix neste mês. Além de um grande volume de filmes lançados em 1º de outubro, a plataforma também adicionou as temporadas 1 e 2 de <b>Halo</b>, as temporadas 18 e 19 de <b>NCIS</b>, e as duas primeiras temporadas de The Way Home. Outros originais da Netflix, novos e que retornaram, como Love is Blind (9ª temporada), Monster: The Ed Gein Story, True Haunting e Boots, também chegaram em outubro.</p>",
+      "meta_description": "The Diplomat retorna com a 3ª temporada na Netflix. A série de suspense político estrelada por Keri Russell já é um sucesso de crítica e público.",
+      "focus_keyphrase": "The Diplomat 3ª temporada Netflix",
+      "related_keyphrases": [
+        "The Diplomat Keri Russell",
+        "série suspense Netflix",
+        "Kate Wyler"
+      ],
+      "slug": "the-diplomat-3-temporada-netflix",
+      "categorias": [
+        {
+          "nome": "The Diplomat",
+          "grupo": "obras",
+          "evidence": "Netflix’s political thriller The Diplomat returned for its third season"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix’s streaming library"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Diplomat",
+        "Netflix",
+        "Keri Russell",
+        "suspense político",
+        "Debora Cahn",
+        "Rotten Tomatoes"
+      ],
+      "image_alt_texts": {
+        "jim-carrey-dr-robotnik-sonic.jpg": "Cena do filme Sonic com Dr. Robotnik.",
+        "s-t-e-a-m.png": "Imagem promocional da série S.T.E.A.M.",
+        "Demon-Slayer-1.jpg": "Personagem de Demon Slayer em ação.",
+        "MixCollage-15-Oct-2025-10-55-AM-2775.jpg": "Colagem de imagens de séries e filmes da Netflix.",
+        "blazing-saddles-movie-streaming-prime-video.jpg": "Pôster do filme Blazing Saddles.",
+        "dont-breathe-2016.jpg": "Imagem do filme de terror Não Respire.",
+        "hqdefault.jpg": "Thumbnail de vídeo promocional de The Diplomat.",
+        "maxresdefault.jpg": "Imagem de alta resolução do trailer de The Diplomat."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Diplomat: 3ª temporada da série da Netflix já é sucesso | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "The Diplomat retorna com a 3ª temporada na Netflix. A série de suspense político estrelada por Keri Russell já é um sucesso de crítica e público.",
+        "_yoast_wpseo_focuskw": "The Diplomat 3ª temporada Netflix",
+        "_yoast_news_keywords": "The Diplomat, Netflix, Keri Russell, suspense político, Debora Cahn, séries",
+        "_yoast_wpseo_opengraph-title": "The Diplomat: 3ª temporada da série da Netflix já é sucesso",
+        "_yoast_wpseo_opengraph-description": "A biblioteca de streaming da Netflix oferece uma vasta gama de séries e filmes, o que pode tornar a escolha do que assistir um desafio.",
+        "_yoast_wpseo_twitter-title": "The Diplomat: 3ª temporada da série da Netflix já é sucesso",
+        "_yoast_wpseo_twitter-description": "The Diplomat retorna com a 3ª temporada na Netflix. A série de suspense político estrelada por Keri Russell já é um sucesso de crítica e público."
+      }
+    }
+  ]
+}

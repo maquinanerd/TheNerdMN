@@ -1,0 +1,141 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Long Walk: Clipe Revela Bastidores da Adaptação de Stephen King",
+      "conteudo_final": "<p>Uma prévia exclusiva divulgada pelo ScreenRant oferece um vislumbre dos bastidores de <b>The Long Walk</b>, detalhando o minucioso trabalho de figurino e maquiagem para dar vida ao universo de <b>Stephen King</b>.</p><h2>Bastidores e Criação do Mundo</h2><p>O clipe inédito mergulha no processo criativo por trás da adaptação, mostrando os desafios e a atenção aos detalhes na construção visual da obra. O foco está em como a equipe buscou capturar a essência das criações literárias de <b>King</b> através de elementos práticos e artísticos.</p>",
+      "meta_description": "Veja clipes exclusivos dos bastidores de The Long Walk, a adaptação da obra de Stephen King, e confira o processo de figurino e maquiagem.",
+      "focus_keyphrase": "The Long Walk bastidores",
+      "related_keyphrases": [
+        "adaptação Stephen King",
+        "The Long Walk clip"
+      ],
+      "slug": "the-long-walk-bastidores",
+      "categorias": [
+        {
+          "nome": "The Long Walk",
+          "grupo": "obras",
+          "evidence": "The Long Walk"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "autores",
+          "evidence": "Stephen King"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Long Walk",
+        "Stephen King",
+        "bastidores",
+        "adaptação literária",
+        "cinema"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Long Walk: Clipe Revela Bastidores da Adaptação de Stephen King | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Veja clipes exclusivos dos bastidores de The Long Walk, a adaptação da obra de Stephen King, e confira o processo de figurino e maquiagem.",
+        "_yoast_wpseo_focuskw": "The Long Walk bastidores",
+        "_yoast_news_keywords": "The Long Walk, Stephen King, bastidores, adaptação literária, cinema, clip",
+        "_yoast_wpseo_opengraph-title": "The Long Walk: Clipe Revela Bastidores da Adaptação de Stephen King",
+        "_yoast_wpseo_opengraph-description": "Uma prévia exclusiva de The Long Walk detalha o trabalho de figurino e maquiagem para a adaptação de Stephen King.",
+        "_yoast_wpseo_twitter-title": "The Long Walk: Clipe Revela Bastidores da Adaptação de Stephen King",
+        "_yoast_wpseo_twitter-description": "Uma prévia exclusiva de The Long Walk detalha o trabalho de figurino e maquiagem para a adaptação de Stephen King."
+      }
+    },
+    {
+      "titulo_final": "Batman: Revolution é nova sequência do clássico de 1989",
+      "conteudo_final": "<p>Uma nova obra, <b>Batman: Revolution</b>, foi lançada em 21 de outubro de 2025, servindo como uma continuação para o icônico <b>Batman</b> de 1989, dirigido por Tim Burton. O projeto expande a mitologia do Cavaleiro das Trevas e oferece uma nova perspectiva sobre o universo cinematográfico da DC.</p><h2>Um Novo Capítulo para o Batman de Tim Burton</h2><p>O filme original de 1989 é considerado um marco no cinema de super-heróis, definindo a imagem do herói e de Gotham City por muitos anos. Mesmo décadas depois, a obra continua a inspirar novas histórias, como a que foi apresentada em <b>Batman: Revolution</b>.</p><p>Esta nova sequência segue os passos de <b>Batman: Resurrection</b>, lançado em 2024, que se posicionou entre os filmes <i>Batman</i> e <i>Batman: O Retorno</i>, aprofundando os eventos de ambas as produções. Enquanto <i>Resurrection</i> explorou o legado do Coringa e as maquinações de Hugo Strange, <i>Revolution</i> foca em um antagonista mais cerebral.</p><h2>O Enigma Ganha Destaque em Batman: Revolution</h2><p>A obra anterior já havia introduzido uma nova abordagem para o Charada, e <b>Batman: Revolution</b> desenvolve essa premissa, apresentando Norman Pinkus antes de ele assumir sua identidade vilanesca. As primeiras tentativas de se autodenominar "The Bookworm" (O Leitor Compulsivo) indicam um prenúncio de suas futuras ações.</p><p>No entanto, assim como <i>Resurrection</i> revelou que o uso do Dinamite por Hugo Strange era apenas uma parte de um plano maior, o Charada em <i>Revolution</i> também é apenas um elemento no quebra-cabeça. A nova obra enriquece a lore geral do universo de forma multifacetada.</p><h2>Por que Batman: Revolution Funciona Tão Bem</h2><p>A decisão de lançar uma sequência para uma série de filmes décadas após seu término é incomum. Contudo, tanto <i>Batman: Resurrection</i> quanto <i>Batman: Revolution</i> não dão continuidade direta ao final da série de filmes da maneira esperada por alguns, o que, de certa forma, contribui para o sucesso delas.</p><p>Nos anos que se seguiram aos lançamentos de <i>Batman</i> e <i>Batman: O Retorno</i>, a distinção entre esses filmes e os mais coloridos e de tom diferente, como <i>Batman Eternamente</i> e <i>Batman & Robin</i>, tornou-se mais clara. Isso levanta questões sobre o que poderia ter sido se a franquia tivesse mantido suas raízes. <a href=\"https://www.maquinanerd.com.br/tag/tim-burton\">Tim Burton</a>, o diretor original, criou uma atmosfera única.</p><p><b>Batman: Revolution</b> expande esse território, tornando-se uma adição fascinante à franquia. Seja considerada totalmente canônica ou uma exploração de 'o que poderia ter sido', a obra oferece uma nova visão para os filmes do <b>Batman</b> e sua mitologia.</p>",
+      "meta_description": "Descubra Batman: Revolution, a nova sequência do icônico Batman de 1989, que expande a mitologia do Cavaleiro das Trevas e revisita o universo DC.",
+      "focus_keyphrase": "Batman Revolution 1989",
+      "related_keyphrases": [
+        "sequência Batman Tim Burton",
+        "universo DC Comics",
+        "novos filmes do Batman"
+      ],
+      "slug": "batman-revolution-sequencia-1989",
+      "categorias": [
+        {
+          "nome": "Batman",
+          "grupo": "franquias",
+          "evidence": "1989's Batman"
+        },
+        {
+          "nome": "DC",
+          "grupo": "editorias",
+          "evidence": "DC movie world"
+        }
+      ],
+      "tags_sugeridas": [
+        "Batman",
+        "Tim Burton",
+        "DC Comics",
+        "sequência",
+        "Batman Revolution",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "batman-on-rooftops-looking-at-the-bat-signal-at-the-end-of-batman-1989.jpg": "Batman no telhado observando o Bat-sinal ao final do filme Batman de 1989.",
+        "batman-talking-to-joker.jpg": "Batman conversando com o Coringa no filme Batman de 1989."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Batman: Revolution é nova sequência do clássico de 1989 | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Descubra Batman: Revolution, a nova sequência do icônico Batman de 1989, que expande a mitologia do Cavaleiro das Trevas e revisita o universo DC.",
+        "_yoast_wpseo_focuskw": "Batman Revolution 1989",
+        "_yoast_news_keywords": "Batman, Batman Revolution, Tim Burton, DC Comics, sequência, cinema",
+        "_yoast_wpseo_opengraph-title": "Batman: Revolution é nova sequência do clássico de 1989",
+        "_yoast_wpseo_opengraph-description": "Uma nova obra, Batman: Revolution, foi lançada em 2025, servindo como uma continuação para o icônico Batman de 1989, expandindo a mitologia do Cavaleiro das Trevas.",
+        "_yoast_wpseo_twitter-title": "Batman: Revolution é nova sequência do clássico de 1989",
+        "_yoast_wpseo_twitter-description": "Uma nova obra, Batman: Revolution, foi lançada em 2025, servindo como uma continuação para o icônico Batman de 1989, expandindo a mitologia do Cavaleiro das Trevas."
+      }
+    },
+    {
+      "titulo_final": "Netflix Cria Universo Cinematográfico de Catan e Expande Jogos",
+      "conteudo_final": "<p>A Netflix está investindo pesado em adaptações de jogos de tabuleiro, e agora adquiriu os direitos de <b>Catan</b>, o popular jogo que estreou em 1995 como <i>The Settlers of Catan</i>. A plataforma de streaming planeja desenvolver um vasto universo multimídia inspirado no game.</p><h2>Expansão de Franquias na Netflix</h2><p>A aquisição dos direitos globais exclusivos de <b>Catan</b> marca um passo estratégico da Netflix para fortalecer seu portfólio de franquias. Além de filmes e séries de live-action e animação, a empresa também pretende criar projetos de conteúdo não roteirizado e até mesmo videogames baseados no universo de Catan.</p><p>Esta iniciativa ocorre em paralelo ao desenvolvimento de uma série live-action de <i>Dungeons & Dragons</i> pela plataforma, evidenciando o interesse em adaptar propriedades de jogos de tabuleiro de grande apelo.</p><figure class=\"video-container\"><iframe src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/Catan-is-one-of-the-best-legacy-board-games.jpg?q=70&amp;fit=contain&amp;w=420&amp;dpr=1\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Catan é um dos melhores jogos de tabuleiro legacy.</figcaption></figure><h2>Catan: Estratégia e Potencial de Franquia</h2><p>O jogo, conhecido por sua mecânica de estratégia e interação entre os jogadores, oferece um rico potencial para narrativas diversas. A intenção da Netflix é explorar todas essas facetas, desde conflitos de colonização até as intrigas políticas que podem surgir no desenvolvimento de novas colônias.</p><p>A plataforma busca replicar o sucesso de outras adaptações que transformaram jogos em franquias cinematográficas e televisivas de grande sucesso, visando criar um universo coeso e atraente para os fãs de longa data de <b>Catan</b> e para novos públicos.</p>",
+      "meta_description": "Netflix adquire direitos de Catan e planeja universo cinematográfico com filmes, séries e jogos. Adaptação chega junto com Dungeons & Dragons.",
+      "focus_keyphrase": "Netflix Catan universo",
+      "related_keyphrases": [
+        "adaptação jogos de tabuleiro",
+        "Catan filme e série",
+        "universo Catan"
+      ],
+      "slug": "netflix-universo-catan",
+      "categorias": [
+        {
+          "nome": "Catan",
+          "grupo": "obras",
+          "evidence": "Catan"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "Dungeons & Dragons",
+          "grupo": "obras",
+          "evidence": "Dungeons and Dragons TV show"
+        }
+      ],
+      "tags_sugeridas": [
+        "Catan",
+        "Netflix",
+        "jogos de tabuleiro",
+        "adaptação",
+        "universo cinematográfico",
+        "Dungeons & Dragons"
+      ],
+      "image_alt_texts": {
+        "catan-is-one-of-the-best-legacy-board-games.jpg": "Imagem do jogo Catan, destacando seu potencial como um jogo de tabuleiro de legado."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix Cria Universo Cinematográfico de Catan e Expande Jogos | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Netflix adquire direitos de Catan e planeja universo cinematográfico com filmes, séries e jogos. Adaptação chega junto com Dungeons & Dragons.",
+        "_yoast_wpseo_focuskw": "Netflix Catan universo",
+        "_yoast_news_keywords": "Netflix, Catan, jogos de tabuleiro, adaptação, universo cinematográfico, Dungeons & Dragons",
+        "_yoast_wpseo_opengraph-title": "Netflix Cria Universo Cinematográfico de Catan e Expande Jogos",
+        "_yoast_wpseo_opengraph-description": "Netflix adquire direitos de Catan e planeja um universo expandido com filmes, séries e jogos, reforçando sua aposta em adaptações de jogos de tabuleiro.",
+        "_yoast_wpseo_twitter-title": "Netflix Cria Universo Cinematográfico de Catan e Expande Jogos",
+        "_yoast_wpseo_twitter-description": "Netflix adquire direitos de Catan e planeja um universo expandido com filmes, séries e jogos, reforçando sua aposta em adaptações de jogos de tabuleiro."
+      }
+    }
+  ]
+}

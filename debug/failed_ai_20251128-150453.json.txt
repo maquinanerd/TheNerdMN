@@ -1,0 +1,98 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Zootopia 2: Dublagem Histórica da Disney com Mais de 70 Atores",
+      "conteudo_final": "<p>A aguardada sequência <strong><em>Zootopia 2</em></strong>, que chega aos cinemas após quase uma década, já está fazendo história na Disney. A animação, dirigida por Jared Bush e Byron Howard, expandiu seu elenco de vozes de forma monumental.</p><h2>Um Elenco Estelar e Histórico</h2><p>Além do retorno de nomes como Jason Bateman e Ginnifer Goodwin, a sequência apresenta mais de 50 novos talentos, incluindo o vencedor do Oscar Ke Huy Quan, a vencedora do Emmy Quinta Brunson e o cantor Grammy Ed Sheeran. Essa expansão vocal é um marco para o estúdio.</p><p>Em entrevista, os diretores revelaram que <em>Zootopia 2</em> possui o <strong>maior elenco de dublagem da história da Disney</strong>, totalizando cerca de 70 papéis falados. Byron Howard destacou que as participações especiais são incríveis e que muitos dos novos membros do elenco são amigos de longa data da equipe de produção.</p><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Prefeito Winddancer, dublado por Patrick Warburton, reflete em Zootopia 2.\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"928\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Prefeito Winddancer, dublado por Patrick Warburton, reflete em Zootopia 2.</figcaption></figure><h2>Referências e Easter Eggs</h2><p>Os diretores também confirmaram a presença de inúmeras referências a outros filmes da Disney. A frigideira de Rapunzel, de <em>Enrolados</em>, faz duas aparições no filme. A equipe de animação é conhecida por esconder detalhes sutis, que continuam a ser descobertos pelos fãs.</p><p>A recepção do público na estreia foi extremamente positiva, com risadas garantidas tanto para crianças quanto para adultos, evidenciando o apelo universal da animação. A experiência de assistir com uma plateia ao vivo foi descrita como terapêutica pelos diretores, após o período de isolamento.</p><h2>O Legado de Zootopia</h2><p>O sucesso de <em>Zootopia</em>, que ultrapassou a marca de US$ 1 bilhão em bilheteria, é um testemunho do impacto duradouro dos personagens e do mundo criado. Os diretores expressaram gratidão pela forma como as histórias e os personagens ressoam com o público, um sonho realizado para os centenas de profissionais envolvidos na produção.</p><p>A criação de novos personagens, como o prefeito cavalo dublado por Patrick Warburton, é um processo colaborativo. A ideia surgiu de uma designer e a escolha de Warburton para a voz foi unânime. A equipe também explorou a possibilidade de animais australianos, mencionando o conceito de "Outback Island", que pode aparecer em futuros projetos.</p><p>A expectativa para <em>Zootopia 3</em> já é alta, com sugestões criativas como Keanu Reeves interpretando um "Baba Llama", personagem de John Wick, ou a inclusão de cangurus. A Disney continua a explorar novas possibilidades para expandir o universo de Zootopia.</p>",
+      "meta_description": "Zootopia 2 quebra recordes na Disney com elenco histórico de mais de 70 dubladores, incluindo novos talentos e referências a outros filmes.",
+      "focus_keyphrase": "Zootopia 2 elenco histórico Disney",
+      "related_keyphrases": [
+        "dublagem Zootopia 2",
+        "Disney Animation",
+        "sequência Zootopia"
+      ],
+      "slug": "zootopia-2-dublagem-historica-disney",
+      "categorias": [
+        {
+          "nome": "Zootopia",
+          "grupo": "franquias",
+          "evidence": "<strong><em>Zootopia 2</em></strong>"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "editorias",
+          "evidence": "Disney Animation"
+        }
+      ],
+      "tags_sugeridas": [
+        "Zootopia 2",
+        "Disney",
+        "Jared Bush",
+        "Byron Howard",
+        "Ke Huy Quan",
+        "Quinta Brunson"
+      ],
+      "image_alt_texts": {
+        "patrick-warburton-s-mayor-winddance-with-his-hoof-to-his-chin-in-thought-in-zootopia-2.jpg": "Prefeito Winddancer, dublado por Patrick Warburton, reflete em Zootopia 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Zootopia 2: Dublagem Histórica da Disney com Mais de 70 Atores",
+        "_yoast_wpseo_metadesc": "Zootopia 2 quebra recordes na Disney com elenco histórico de mais de 70 dubladores, incluindo novos talentos e referências a outros filmes.",
+        "_yoast_wpseo_focuskw": "Zootopia 2 elenco histórico Disney",
+        "_yoast_news_keywords": "Zootopia 2, Disney, Disney Animation, Jared Bush, Byron Howard, Ke Huy Quan, Quinta Brunson, Patrick Warburton",
+        "_yoast_wpseo_opengraph-title": "Zootopia 2: Dublagem Histórica da Disney com Mais de 70 Atores",
+        "_yoast_wpseo_opengraph-description": "Zootopia 2 quebra recordes na Disney com elenco histórico de mais de 70 dubladores, incluindo novos talentos e referências a outros filmes.",
+        "_yoast_wpseo_twitter-title": "Zootopia 2: Dublagem Histórica da Disney com Mais de 70 Atores",
+        "_yoast_wpseo_twitter-description": "Zootopia 2 quebra recordes na Disney com elenco histórico de mais de 70 dubladores, incluindo novos talentos e referências a outros filmes."
+      }
+    },
+    {
+      "titulo_final": "Kung Fu Panda: Trilogia Chega à Netflix em Dezembro",
+      "conteudo_final": "<p>Os fãs de animação terão um motivo para celebrar em dezembro: a trilogia original de <strong><em><a href=\"https://www.maquinanerd.com.br/tag/kung-fu-panda\">Kung Fu Panda</a></em></strong> estará disponível na Netflix. A partir de 1º de dezembro, os assinantes poderão assistir aos três primeiros filmes da aclamada franquia da DreamWorks.</p><h2>A Saga de Po na Netflix</h2><p>Lançado originalmente em 2008, <em>Kung Fu Panda</em> apresentou ao mundo o atrapalhado panda Po, que sonha em se tornar um mestre do kung fu. O filme foi um sucesso estrondoso, conquistando o público e a crítica com seu humor e sequências de ação.</p><p>A sequência, <em>Kung Fu Panda 2</em> (2011), aprofundou a jornada de Po, explorando seu passado e apresentando novos vilões. Já <em>Kung Fu Panda 3</em> (2016) trouxe Po em contato com outros pandas e enfrentando uma ameaça ainda maior.</p><figure><img alt=\"Po, o panda guerreiro, em uma cena de Kung Fu Panda.\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/kung-fu-panda-movie-netflix-december.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><figcaption>Po, o panda guerreiro, em uma cena de Kung Fu Panda.</figcaption></figure><h2>Recepção e Legado da Franquia</h2><p>Embora a recepção crítica tenha variado ao longo dos anos, com <em>Kung Fu Panda 4</em> (lançado em 2024) dividindo opiniões, a franquia como um todo é um marco na animação. Os dois primeiros filmes foram indicados ao Oscar de Melhor Animação, consolidando o legado da série.</p><p>Com uma bilheteria mundial acumulada de US$ 2,3 bilhões, a saga <em>Kung Fu Panda</em> se destaca como uma das propriedades de maior sucesso da DreamWorks, superada apenas por <em>Shrek</em>. A chegada da trilogia à Netflix oferece uma excelente oportunidade para revisitar essas aventuras.</p><h2>O Futuro e o Legado</h2><p>Enquanto o futuro da franquia cinematográfica principal permanece incerto, com <em>Shrek 5</em> previsto para 2027, a série derivada <em>Kung Fu Panda: O Cavaleiro Dragão</em> também está disponível na plataforma. A inclusão dos três primeiros filmes na Netflix promete aquecer as aventuras de Po durante as festas de fim de ano.</p>",
+      "meta_description": "A trilogia Kung Fu Panda chega à Netflix em 1º de dezembro, permitindo que os fãs revisitem as aventuras de Po.",
+      "focus_keyphrase": "Kung Fu Panda trilogia Netflix",
+      "related_keyphrases": [
+        "Kung Fu Panda 1 2 3 Netflix",
+        "filmes DreamWorks Netflix",
+        "Po Kung Fu Panda"
+      ],
+      "slug": "kung-fu-panda-trilogia-netflix-dezembro",
+      "categorias": [
+        {
+          "nome": "Kung Fu Panda",
+          "grupo": "franquias",
+          "evidence": "<strong><em><a href=\"https://www.maquinanerd.com.br/tag/kung-fu-panda\">Kung Fu Panda</a></em></strong>"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "DreamWorks",
+          "grupo": "estúdios",
+          "evidence": "DreamWorks"
+        }
+      ],
+      "tags_sugeridas": [
+        "Kung Fu Panda",
+        "Netflix",
+        "DreamWorks",
+        "Animação",
+        "Filmes"
+      ],
+      "image_alt_texts": {
+        "kung-fu-panda-movie-netflix-december.jpg": "Po, o panda guerreiro, em uma cena de Kung Fu Panda."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Kung Fu Panda: Trilogia Chega à Netflix em Dezembro",
+        "_yoast_wpseo_metadesc": "A trilogia Kung Fu Panda chega à Netflix em 1º de dezembro, permitindo que os fãs revisitem as aventuras de Po.",
+        "_yoast_wpseo_focuskw": "Kung Fu Panda trilogia Netflix",
+        "_yoast_news_keywords": "Kung Fu Panda, Netflix, DreamWorks, Animação, Po, Jack Black",
+        "_yoast_wpseo_opengraph-title": "Kung Fu Panda: Trilogia Chega à Netflix em Dezembro",
+        "_yoast_wpseo_opengraph-description": "A trilogia Kung Fu Panda chega à Netflix em 1º de dezembro, permitindo que os fãs revisitem as aventuras de Po.",
+        "_yoast_wpseo_twitter-title": "Kung Fu Panda: Trilogia Chega à Netflix em Dezembro",
+        "_yoast_wpseo_twitter-description": "A trilogia Kung Fu Panda chega à Netflix em 1º de dezembro, permitindo que os fãs revisitem as aventuras de Po."
+      }
+    }
+  ]
+}

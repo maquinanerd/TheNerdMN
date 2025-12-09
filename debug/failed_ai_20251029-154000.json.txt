@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Emma Thompson brilha em nova série de mistério da Apple TV com boa recepção",
+  "conteudo_final": "<p>A estrela de <b>Harry Potter</b>, Emma Thompson, está recebendo aclamação crítica em sua nova série de mistério na Apple TV+, intitulada <em><strong>Down Cemetery Road</strong></em>.</p><p>A série, baseada nos livros de Mick Herron, estreou em 29 de outubro e alcançou uma pontuação inicial de 75% no <b>Rotten Tomatoes</b>. Até o momento, foram compiladas 8 críticas, indicando que a nota pode sofrer alterações.</p><h2>A Trama de Down Cemetery Road</h2><p>Emma Thompson interpreta a investigadora particular Zoë Boehm, a protagonista de quatro livros escritos por Mick Herron. Na história, Boehm é contratada por Sarah Tucker (Ruth Wilson), uma mãe preocupada, após o desaparecimento de uma criança em seu bairro na mesma noite de uma misteriosa explosão.</p><div class=\"body-img landscape mobile-optimized\">\n<div class=\"responsive-img image-expandable img-article-item\" data-img-caption='\"\"' data-img-url=\"https:
+  "meta_description": "Nova série de mistério da Apple TV+ com Emma Thompson, Down Cemetery Road, estreia com 75% no Rotten Tomatoes. Saiba mais sobre a trama e recepção crítica.",
+  "focus_keyphrase": "Down Cemetery Road",
+  "related_keyphrases": [
+    "Emma Thompson série Apple TV+",
+    "Down Cemetery Road Rotten Tomatoes",
+    "Série de mistério nova"
+  ],
+  "slug": "down-cemetery-road-serie-apple-tv-resenha",
+  "categorias": [
+    {
+      "nome": "Down Cemetery Road",
+      "grupo": "obras",
+      "evidence": "<em><strong>Down Cemetery Road</strong></em> premieres on October 29"
+    },
+    {
+      "nome": "Apple TV+",
+      "grupo": "editorias",
+      "evidence": "new mystery series on Apple TV"
+    },
+    {
+      "nome": "Harry Potter",
+      "grupo": "franquias",
+      "evidence": "<em>Harry Potter</em> alumnus Emma Thompson"
+    }
+  ],
+  "tags_sugeridas": [
+    "Down Cemetery Road",
+    "Emma Thompson",
+    "Apple TV+",
+    "Rotten Tomatoes",
+    "Mick Herron",
+    "Série de mistério",
+    "Ruth Wilson"
+  ],
+  "image_alt_texts": {
+    "emma-thompson-as-zoe-in-down-cemetery-road.jpg": "Emma Thompson como a investigadora Zoë Boehm na série de mistério Down Cemetery Road."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Down Cemetery Road: Emma Thompson em nova série da Apple TV com boa crítica",
+    "_yoast_wpseo_metadesc": "Nova série de mistério da Apple TV+ com Emma Thompson, Down Cemetery Road, estreia com 75% no Rotten Tomatoes. Saiba mais sobre a trama e recepção crítica.",
+    "_yoast_wpseo_focuskw": "Down Cemetery Road",
+    "_yoast_news_keywords": "Down Cemetery Road, Emma Thompson, Apple TV+, Série de mistério, Rotten Tomatoes, Mick Herron, Ruth Wilson",
+    "_yoast_wpseo_opengraph-title": "Down Cemetery Road: Emma Thompson em nova série da Apple TV com boa crítica",
+    "_yoast_wpseo_opengraph-description": "Nova série de mistério da Apple TV+ com Emma Thompson, Down Cemetery Road, estreia com 75% no Rotten Tomatoes. Saiba mais sobre a trama e recepção crítica.",
+    "_yoast_wpseo_twitter-title": "Down Cemetery Road: Emma Thompson em nova série da Apple TV com boa crítica",
+    "_yoast_wpseo_twitter-description": "Nova série de mistério da Apple TV+ com Emma Thompson, Down Cemetery Road, estreia com 75% no Rotten Tomatoes. Saiba mais sobre a trama e recepção crítica."
+  }
+}

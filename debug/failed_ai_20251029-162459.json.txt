@@ -1,0 +1,130 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "High Potential: Showrunner dá pistas sobre mistério do penúltimo episódio",
+      "conteudo_final": "<p>O showrunner de <strong><em>High Potential</em></strong>, Todd Harthan, deu novas informações sobre o homem misterioso que apareceu no final do episódio 7 da segunda temporada. A trama se intensifica com a descoberta de que Roman, que estava desaparecido, pode estar observando Morgan e os filhos.</p>\n\n<h2>O Homem Barbudo e o Mistério de Roman</h2>\n<p>No episódio, Oz e Daphne analisam evidências da mochila de Roman e encontram uma foto de um homem barbudo. A identidade e a conexão dele com Roman permanecem um mistério. No clímax do episódio, o mesmo homem surpreende Arthur ao entrar em seu carro, indicando que respostas sobre o paradeiro de Roman estão próximas.</p>\n\n<p>Em entrevista, Harthan revelou que o homem não é um simples capanga, mas alguém que sabe e viu coisas importantes. Ele prometeu que a revelação sobre este personagem será surpreendente e que sua chegada abrirá portas para novas fases da trama, conectando-se diretamente ao arco de Roman. O showrunner também indicou a introdução de um novo personagem, com uma escalação promissora.</p>\n\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "O showrunner de High Potential, Todd Harthan, dá pistas sobre o misterioso homem barbudo que apareceu no final da 2ª temporada, ligando-o ao desaparecimento de Roman.",
+      "focus_keyphrase": "High Potential homem misterioso",
+      "related_keyphrases": [
+        "High Potential temporada 2",
+        "Todd Harthan entrevista",
+        "mistério Roman High Potential"
+      ],
+      "slug": "high-potential-showrunner-pistas-misterio",
+      "categorias": [
+        {
+          "nome": "High Potential",
+          "grupo": "obras",
+          "evidence": "<strong><em>High Potential</em></strong> showrunner Todd Harthan"
+        }
+      ],
+      "tags_sugeridas": [
+        "High Potential",
+        "Todd Harthan",
+        "série de TV",
+        "mistério",
+        "drama"
+      ],
+      "image_alt_texts": {
+        "kaitlin-olson-as-morgan-gillory-in-high-potential.jpg": "Kaitlin Olson como Morgan Gillory em High Potential, com expressão de preocupação."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "High Potential: Showrunner dá pistas sobre mistério do penúltimo episódio",
+        "_yoast_wpseo_metadesc": "O showrunner de High Potential, Todd Harthan, dá pistas sobre o misterioso homem barbudo que apareceu no final da 2ª temporada, ligando-o ao desaparecimento de Roman.",
+        "_yoast_wpseo_focuskw": "High Potential homem misterioso",
+        "_yoast_news_keywords": "High Potential, Todd Harthan, série de TV, mistério, drama, Roman",
+        "_yoast_wpseo_opengraph-title": "High Potential: Showrunner dá pistas sobre mistério do penúltimo episódio",
+        "_yoast_wpseo_opengraph-description": "O showrunner de High Potential, Todd Harthan, dá pistas sobre o misterioso homem barbudo que apareceu no final da 2ª temporada, ligando-o ao desaparecimento de Roman.",
+        "_yoast_wpseo_twitter-title": "High Potential: Showrunner dá pistas sobre mistério do penúltimo episódio",
+        "_yoast_wpseo_twitter-description": "O showrunner de High Potential, Todd Harthan, dá pistas sobre o misterioso homem barbudo que apareceu no final da 2ª temporada, ligando-o ao desaparecimento de Roman."
+      }
+    },
+    {
+      "titulo_final": "Wes Bentley, de Yellowstone, estrela nova série de Ryan Murphy",
+      "conteudo_final": "<p>Após cinco temporadas como Jamie Dutton em <strong><em>Yellowstone</em></strong>, Wes Bentley embarca em seu próximo projeto televisivo: a série <em>The Shards</em>, do renomado Ryan Murphy.</p>\n\n<h2>Jamie Dutton e o Fim em Yellowstone</h2>\n<p>O futuro de Jamie Dutton, personagem de Bentley em <em>Yellowstone</em>, parecia incerto após o final da quinta temporada. Diferente de outros membros da família Dutton, seu arco se encerrou de forma definitiva, com Beth assassinando-o em um ato de vingança.</p>\n\n<h2>The Shards: Novo Desafio para Bentley</h2>\n<p>Agora, Wes Bentley assumirá o papel de Terry na nova série da FX, <em>The Shards</em>. A produção é baseada no livro homônimo de Bret Easton Ellis e se passa em 1981, explorando a dinâmica de um grupo de adolescentes com um novo aluno carismático e um serial killer à solta. Bentley se junta a um elenco que inclui Evan Rachel Wood, Kaia Gerber e Graham Campbell.</p>\n\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Wes Bentley, conhecido por seu papel como Jamie Dutton em Yellowstone, foi escalado para estrelar The Shards, nova série de Ryan Murphy para a FX.",
+      "focus_keyphrase": "Wes Bentley nova série",
+      "related_keyphrases": [
+        "The Shards Ryan Murphy",
+        "Yellowstone Wes Bentley",
+        "Jamie Dutton série"
+      ],
+      "slug": "wes-bentley-nova-serie-ryan-murphy",
+      "categorias": [
+        {
+          "nome": "Yellowstone",
+          "grupo": "obras",
+          "evidence": "<strong><em>Yellowstone</em></strong>, Wes Bentley"
+        },
+        {
+          "nome": "The Shards",
+          "grupo": "obras",
+          "evidence": "Ryan Murphy's upcoming FX series <strong><em>The Shards</em></strong>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Wes Bentley",
+        "Yellowstone",
+        "The Shards",
+        "Ryan Murphy",
+        "série de TV",
+        "drama",
+        "horror"
+      ],
+      "image_alt_texts": {
+        "john-kevin-costner-standing-over-jamie-wes-bentley-as-he-holds-a-gun-in-yellowstone.jpg": "John Dutton (Kevin Costner) confronta Jamie (Wes Bentley) em uma cena tensa de Yellowstone."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wes Bentley, de Yellowstone, estrela nova série de Ryan Murphy",
+        "_yoast_wpseo_metadesc": "Wes Bentley, conhecido por seu papel como Jamie Dutton em Yellowstone, foi escalado para estrelar The Shards, nova série de Ryan Murphy para a FX.",
+        "_yoast_wpseo_focuskw": "Wes Bentley nova série",
+        "_yoast_news_keywords": "Wes Bentley, Yellowstone, The Shards, Ryan Murphy, série de TV, Jamie Dutton, FX",
+        "_yoast_wpseo_opengraph-title": "Wes Bentley, de Yellowstone, estrela nova série de Ryan Murphy",
+        "_yoast_wpseo_opengraph-description": "Wes Bentley, conhecido por seu papel como Jamie Dutton em Yellowstone, foi escalado para estrelar The Shards, nova série de Ryan Murphy para a FX.",
+        "_yoast_wpseo_twitter-title": "Wes Bentley, de Yellowstone, estrela nova série de Ryan Murphy",
+        "_yoast_wpseo_twitter-description": "Wes Bentley, conhecido por seu papel como Jamie Dutton em Yellowstone, foi escalado para estrelar The Shards, nova série de Ryan Murphy para a FX."
+      }
+    },
+    {
+      "titulo_final": "The White Lotus: 4ª temporada terá dois hotéis e locações na França",
+      "conteudo_final": "<p>A quarta temporada de <strong><em>The White Lotus</em></strong> inova ao apresentar duas locações distintas em hotéis diferentes, uma novidade para a aclamada série de antologia da HBO.</p>\n\n<h2>Novas Locações na França</h2>\n<p>As filmagens da nova temporada ocorrerão na França, com cenas ambientadas em Paris e na Riviera Francesa. Os hotéis escolhidos são o Le Lutetia e o Ritz. Esta é a primeira vez que a série não utilizará hotéis da rede Four Seasons, que foram palco das temporadas anteriores.</p>\n\n<p>A mudança de parceria hoteleira marca um novo capítulo para a série, que continua a explorar os dramas e conflitos de seus hóspedes em cenários luxuosos e intrigantes.</p>\n\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "A 4ª temporada de The White Lotus será filmada na França, com locações em Paris e na Riviera Francesa, em dois hotéis distintos: Le Lutetia e o Ritz.",
+      "focus_keyphrase": "The White Lotus 4ª temporada locações",
+      "related_keyphrases": [
+        "The White Lotus França",
+        "hotéis The White Lotus",
+        "HBO série"
+      ],
+      "slug": "white-lotus-4-temporada-locacoes",
+      "categorias": [
+        {
+          "nome": "The White Lotus",
+          "grupo": "obras",
+          "evidence": "<em><strong>The White Lotus</strong></em> season 4"
+        }
+      ],
+      "tags_sugeridas": [
+        "The White Lotus",
+        "HBO",
+        "série de TV",
+        "drama",
+        "comédia",
+        "mistério",
+        "França"
+      ],
+      "image_alt_texts": {
+        "the-white-lotus-tv-show-poster.jpg": "Pôster oficial da série The White Lotus, com o título em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The White Lotus: 4ª temporada terá dois hotéis e locações na França",
+        "_yoast_wpseo_metadesc": "A 4ª temporada de The White Lotus será filmada na França, com locações em Paris e na Riviera Francesa, em dois hotéis distintos: Le Lutetia e o Ritz.",
+        "_yoast_wpseo_focuskw": "The White Lotus 4ª temporada locações",
+        "_yoast_news_keywords": "The White Lotus, HBO, série de TV, drama, comédia, mistério, França, Le Lutetia, Ritz",
+        "_yoast_wpseo_opengraph-title": "The White Lotus: 4ª temporada terá dois hotéis e locações na França",
+        "_yoast_wpseo_opengraph-description": "A 4ª temporada de The White Lotus será filmada na França, com locações em Paris e na Riviera Francesa, em dois hotéis distintos: Le Lutetia e o Ritz.",
+        "_yoast_wpseo_twitter-title": "The White Lotus: 4ª temporada terá dois hotéis e locações na França",
+        "_yoast_wpseo_twitter-description": "A 4ª temporada de The White Lotus será filmada na França, com locações em Paris e na Riviera Francesa, em dois hotéis distintos: Le Lutetia e o Ritz."
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Pokémon Legends: Z-A: Vinhedos lembram Final Fantasy 14",
+  "conteudo_final": "<p>Mesmo quem não joga <b>Final Fantasy 14</b> pode ter visto as famosas uvas de baixa poligonagem do MMO, que se tornaram um meme recorrente na comunidade. As uvas têm a aparência de uma imagem colada sobre uma forma estática, sem profundidade ou textura.</p><p>A Square Enix está ciente da piada, tanto que o estúdio optou por não incluir as uvas na grande reformulação gráfica do ano passado. Em 2023, uma réplica física das uvas foi incluída como prêmio no Fan Festival do jogo.</p><p>Observadores notaram a semelhança dos vinhedos e uvas de <b>Pokémon Legends: Z-A</b> com seus equivalentes frequentemente ridicularizados em Final Fantasy 14.</p><p>As uvas de Pokémon são planas e foram colocadas sobre uma textura de vinha igualmente plana. Isso é semelhante a todos os ambientes em Legends: Z-A, um jogo repleto de superfícies planas sem profundidade.</p><p>A memória pode ter sido uma preocupação para a Game Freak, já que Legends Z-A ocupa apenas 4GB no Switch original e 7.7GB no Switch 2. A Square Enix não tem o mesmo problema com o tamanho colossal de 140GB de Final Fantasy 14.</p><p>A Game Freak tem sido criticada continuamente pelos visuais sem brilho dos jogos Pokémon da era Switch. Os Pokémon em si sempre parecem fantásticos, mas os ambientes tendem a ser compostos por borrões incolores e amorfos.</p><p>Essa deficiência fica evidente em Pokémon Legends: Z-A porque o jogo inteiro se passa em Lumiose City, o que significa que o jogador vê os mesmos ambientes planos repetidamente. Oito anos após Breath of the Wild, não se pode mais culpar as limitações do Switch.</p><p>Ainda assim, apesar de algumas dessas deficiências, Pokémon Legends: Z-A recebeu aclamação crítica positiva. O jogo atualmente detém uma pontuação média de 82 em agregadores de críticas como o <b>OpenCritic</b>. Enquanto isso, no <b>Metacritic</b>, Z-A mantém uma pontuação média de 78.</p><p>Nossa editora-chefe, Stacey Henley, disse: \"Claramente, há muito em Legends: Z-A que eu não gostei totalmente, mas ainda gostei o suficiente da experiência porque é difícil errar com Pokémon\", em sua crítica 3/5.</p><h2>Visuais de Pokémon Legends: Z-A em Comparação</h2><p>A semelhança visual entre os vinhedos de <b>Pokémon Legends: Z-A</b> e as famosas uvas de baixa poligonagem de <b>Final Fantasy 14</b> chamou a atenção dos jogadores. Enquanto o jogo da Game Freak apresenta uvas planas sobre uma textura de vinha igualmente bidimensional, o título da Square Enix também é conhecido por seus elementos gráficos simplificados.</p><h2>Recepção Crítica e Expectativas</h2><p>Apesar das críticas aos visuais, <b>Pokémon Legends: Z-A</b> tem sido bem recebido pela crítica. Com pontuações de 82 no <b>OpenCritic</b> e 78 no <b>Metacritic</b>, o jogo demonstra que a jogabilidade e a experiência geral superam as deficiências gráficas para muitos.</p><figure><img src=\"https:
+  "meta_description": "Pokémon Legends: Z-A tem seus vinhedos comparados aos gráficos de baixa poligonagem de Final Fantasy 14. Veja os detalhes.",
+  "focus_keyphrase": "Pokémon Legends: Z-A",
+  "related_keyphrases": [
+    "Final Fantasy 14",
+    "gráficos de jogos",
+    "Game Freak"
+  ],
+  "slug": "pokemon-legends-z-a-vinhedos-final-fantasy-14",
+  "categorias": [
+    {
+      "nome": "Pokémon Legends: Z-A",
+      "grupo": "obras",
+      "evidence": "Pokémon Legends: Z-A's vineyards"
+    },
+    {
+      "nome": "Final Fantasy 14",
+      "grupo": "obras",
+      "evidence": "Final Fantasy 14"
+    },
+    {
+      "nome": "Game Freak",
+      "grupo": "desenvolvedores",
+      "evidence": "Game Freak"
+    }
+  ],
+  "tags_sugeridas": [
+    "Pokémon Legends: Z-A",
+    "Final Fantasy 14",
+    "Game Freak",
+    "Nintendo",
+    "The Pokemon Company",
+    "Lumiose City"
+  ],
+  "image_alt_texts": {
+    "pokemon-legends-z-a-low-poly-grapes.jpg": "Uvas de baixa poligonagem em Pokémon Legends: Z-A comparadas com Final Fantasy 14.",
+    "pokemon-z-a-cover-art-1.jpg": "Arte da capa de Pokémon Legends: Z-A."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Pokémon Legends: Z-A: Vinhedos lembram Final Fantasy 14 | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Pokémon Legends: Z-A tem seus vinhedos comparados aos gráficos de baixa poligonagem de Final Fantasy 14. Veja os detalhes.",
+    "_yoast_wpseo_focuskw": "Pokémon Legends: Z-A",
+    "_yoast_news_keywords": "Pokémon Legends: Z-A, Final Fantasy 14, Game Freak, Nintendo, The Pokemon Company, Lumiose City, gráficos de jogos",
+    "_yoast_wpseo_opengraph-title": "Pokémon Legends: Z-A: Vinhedos lembram Final Fantasy 14",
+    "_yoast_wpseo_opengraph-description": "A semelhança visual entre os vinhedos de Pokémon Legends: Z-A e as famosas uvas de baixa poligonagem de Final Fantasy 14 chamou a atenção dos jogadores.",
+    "_yoast_wpseo_twitter-title": "Pokémon Legends: Z-A: Vinhedos lembram Final Fantasy 14",
+    "_yoast_wpseo_twitter-description": "A semelhança visual entre os vinhedos de Pokémon Legends: Z-A e as famosas uvas de baixa poligonagem de Final Fantasy 14 chamou a atenção dos jogadores."
+  }
+}

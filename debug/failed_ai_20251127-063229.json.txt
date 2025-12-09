@@ -1,0 +1,54 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Magic: The Gathering: Monster Hunter Secret Lair é refeito após críticas",
+      "conteudo_final": "<p>A <a href=\"https://www.maquinanerd.com.br/tag/magic-the-gathering/\"> Wizards of the Coast</a> anunciou que o lançamento do <i>Secret Lair</i> crossover com <i>Monster Hunter</i>, originalmente previsto para 1º de dezembro, foi adiado e será completamente redesenhado. A decisão veio após uma forte reação negativa dos fãs, que se mostraram insatisfeitos com a seleção de monstros e a falta de fidelidade ao universo do jogo da Capcom.</p><h2>Revisão Completa do Secret Lair de Monster Hunter</h2><p>Em um comunicado oficial, a <a href=\"https://www.maquinanerd.com.br/tag/wizards-of-the-coast/\">Wizards of the Coast</a> admitiu que o lançamento "ficou aquém das expectativas" e que a empresa "pode fazer melhor". Os jogadores expressaram frustração com a escolha de criaturas genéricas, que não capturavam a essência de <i>Monster Hunter</i>. A editora reconheceu que a seleção de cartas e a integração do mundo e mecânicas da franquia falharam em atender ao padrão esperado pelos fãs.</p><p>A empresa destacou que adiar e redesenhar um <i>Superdrop</i> desta magnitude é uma ação inédita. A <a href=\"https://www.maquinanerd.com.br/tag/capcom/\">Capcom</a> também está ciente e apoia a decisão, com uma nova revelação planejada para o próximo ano. A forte reação dos fãs foi um fator determinante para a <a href=\"https://www.maquinanerd.com.br/tag/secret-lair/\">Wizards of the Coast</a> reconsiderar o conteúdo do <i>Secret Lair</i>.</p><h2>Impacto da Reação dos Fãs</h2><p>A comunidade de <i>Magic: The Gathering</i> demonstrou claramente sua insatisfação com a apresentação inicial do crossover com <i>Monster Hunter</i>. As críticas apontaram para uma seleção genérica de monstros, que não representavam adequadamente a diversidade e a identidade da série de jogos da <a href=\"https://www.maquinanerd.com.br/tag/capcom/\">Capcom</a>. A intenção era criar um produto que agradasse tanto os fãs de <i>Magic</i> quanto os de <i>Monster Hunter</i>, mas a execução inicial não atingiu esse objetivo.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2023/03/magic-the-gathering-cover.jpg\" alt=\"Capa do jogo Magic: The Gathering\"><figcaption>Magic: The Gathering continua a expandir seu universo com crossovers.</figcaption></figure><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/untitled-design-2025-11-19t150441-039.jpg\" alt=\"Ilustração de monstros em potencial para o Secret Lair de Monster Hunter\"><figcaption>Novas ideias serão exploradas para o Secret Lair de Monster Hunter.</figcaption></figure>",
+      "meta_description": "Wizards of the Coast redesenha o Secret Lair de Monster Hunter após críticas de fãs sobre a seleção de monstros e falta de fidelidade à franquia.",
+      "focus_keyphrase": "Magic The Gathering Monster Hunter Secret Lair",
+      "related_keyphrases": [
+        "MTG Monster Hunter",
+        "Secret Lair Monster Hunter rework",
+        "Wizards of the Coast Monster Hunter"
+      ],
+      "slug": "mtg-monster-hunter-secret-lair-refeito-criticas",
+      "categorias": [
+        {
+          "nome": "Magic: The Gathering",
+          "grupo": "obras",
+          "evidence": "Magic: The Gathering"
+        },
+        {
+          "nome": "Monster Hunter",
+          "grupo": "franquias",
+          "evidence": "Monster Hunter"
+        },
+        {
+          "nome": "Wizards of the Coast",
+          "grupo": "editoras",
+          "evidence": "Wizards of the Coast"
+        }
+      ],
+      "tags_sugeridas": [
+        "Magic: The Gathering",
+        "Monster Hunter",
+        "Secret Lair",
+        "Wizards of the Coast",
+        "Capcom"
+      ],
+      "image_alt_texts": {
+        "magic-the-gathering-cover.jpg": "Capa do jogo Magic: The Gathering",
+        "untitled-design-2025-11-19t150441-039.jpg": "Ilustração de monstros em potencial para o Secret Lair de Monster Hunter"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Magic: The Gathering: Monster Hunter Secret Lair é refeito após críticas",
+        "_yoast_wpseo_metadesc": "Wizards of the Coast redesenha o Secret Lair de Monster Hunter após críticas de fãs sobre a seleção de monstros e falta de fidelidade à franquia.",
+        "_yoast_wpseo_focuskw": "Magic The Gathering Monster Hunter Secret Lair",
+        "_yoast_news_keywords": "Magic: The Gathering, Monster Hunter, Secret Lair, Wizards of the Coast, Capcom, TCG, jogos de cartas",
+        "_yoast_wpseo_opengraph-title": "Magic: The Gathering: Monster Hunter Secret Lair é refeito após críticas",
+        "_yoast_wpseo_opengraph-description": "Wizards of the Coast redesenha o Secret Lair de Monster Hunter após críticas de fãs sobre a seleção de monstros e falta de fidelidade à franquia.",
+        "_yoast_wpseo_twitter-title": "Magic: The Gathering: Monster Hunter Secret Lair é refeito após críticas",
+        "_yoast_wpseo_twitter-description": "Wizards of the Coast redesenha o Secret Lair de Monster Hunter após críticas de fãs sobre a seleção de monstros e falta de fidelidade à franquia."
+      }
+    }
+  ]
+}

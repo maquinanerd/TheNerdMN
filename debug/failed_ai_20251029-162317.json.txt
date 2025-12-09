@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "KPop Demon Hunters lidera bilheterias em um fim de semana fraco de Halloween",
+      "conteudo_final": "<p>Com o Halloween se aproximando, tradicionalmente uma época de destaque para filmes de terror nas <b>bilheterias</b>, o cenário cinematográfico deste ano apresenta poucas novidades assustadoras. A data festiva cainda em uma sexta-feira agrava a escassez de lançamentos.</p><p>Filmes como <em>Bugonia</em>, da Focus Features, expande para lançamento amplo, e <em>De Volta Para o Futuro</em> retorna aos cinemas para celebrar seu 40º aniversário. No entanto, o grande campeão das bilheterias deste fim de semana de Halloween será o retorno de <em>KPop Demon Hunters: A Singalong Event</em>, da Netflix, que volta às telonas por demanda popular.</p><p>O sucesso animado estreou no serviço de streaming em junho, acompanhado por uma exibição limitada nos cinemas para atender aos requisitos de elegibilidade para o Oscar. Posteriormente, a Netflix o relançou para <em>A Singalong Event</em> no final de agosto, onde superou a sequência de duas semanas de <em>Weapons</em> no topo das bilheterias, arrecadando impressionantes <b>US$ 18 milhões</b> em apenas 1.700 cinemas, com uma média por tela de US$ 10.588.</p><h2>KPop Demon Hunters Retorna ao Topo das Bilheterias</h2><figure><img src=\"https:
+      "meta_description": "KPop Demon Hunters retorna para liderar as bilheterias em um fim de semana de Halloween com pouca concorrência. Bugonia e De Volta Para o Futuro também se destacam.",
+      "focus_keyphrase": "KPop Demon Hunters bilheteria",
+      "related_keyphrases": [
+        "previsão bilheteria halloween",
+        "filmes em cartaz outubro",
+        "lançamentos cinema novembro"
+      ],
+      "slug": "kpop-demon-hunters-lidera-bilheterias-halloween",
+      "categorias": [
+        {
+          "nome": "KPop Demon Hunters",
+          "grupo": "obras",
+          "evidence": "KPop Demon Hunters"
+        },
+        {
+          "nome": "De Volta Para o Futuro",
+          "grupo": "obras",
+          "evidence": "Back to the Future"
+        },
+        {
+          "nome": "Bugonia",
+          "grupo": "obras",
+          "evidence": "Bugonia"
+        }
+      ],
+      "tags_sugeridas": [
+        "kpop demon hunters",
+        "bilheteria",
+        "netflix",
+        "halloween",
+        "de volta para o futuro",
+        "bugonia",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "rumi-looking-at-jinu-weirdly-in-kpop-demon-hunters.jpg": "Rumi e Jinu em uma cena do filme KPop Demon Hunters.",
+        "bugonia-film.jpg": "Cena do filme Bugonia com Emma Stone.",
+        "mcdbato_uv022-cropped.jpg": "Marty McFly (Michael J. Fox) em uma cena de De Volta Para o Futuro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "KPop Demon Hunters Lidera Bilheterias em Fim de Semana de Halloween | Notícias de Cinema",
+        "_yoast_wpseo_metadesc": "KPop Demon Hunters retorna para liderar as bilheterias em um fim de semana de Halloween com pouca concorrência. Bugonia e De Volta Para o Futuro também se destacam.",
+        "_yoast_wpseo_focuskw": "KPop Demon Hunters bilheteria",
+        "_yoast_news_keywords": "KPop Demon Hunters, bilheteria, cinema, Netflix, Halloween, De Volta Para o Futuro, Bugonia, Emma Stone, Yorgos Lanthimos",
+        "_yoast_wpseo_opengraph-title": "KPop Demon Hunters Lidera Bilheterias em Fim de Semana de Halloween",
+        "_yoast_wpseo_opengraph-description": "KPop Demon Hunters retorna para liderar as bilheterias em um fim de semana de Halloween com pouca concorrência. Bugonia e De Volta Para o Futuro também se destacam.",
+        "_yoast_wpseo_twitter-title": "KPop Demon Hunters Lidera Bilheterias em Fim de Semana de Halloween",
+        "_yoast_wpseo_twitter-description": "KPop Demon Hunters retorna para liderar as bilheterias em um fim de semana de Halloween com pouca concorrência. Bugonia e De Volta Para o Futuro também se destacam."
+      }
+    }
+  ]
+}

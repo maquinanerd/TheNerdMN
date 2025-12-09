@@ -1,0 +1,51 @@
+{
+  "titulo_final": "One Battle After Another: Bilheteria e Oscar em Jogo",
+  "conteudo_final": "<p>O filme <b>One Battle After Another</b> está seguindo um caminho promissor, com a Warner Bros. executando uma estratégia de lançamento inteligente. As primeiras exibições para a imprensa ocorreram logo após o término dos festivais, e o longa rapidamente capturou a atenção do público e da crítica. As avaliações têm sido excepcionais, sendo as melhores do ano segundo o Metacritic, e a recepção do público tem mantido o filme em evidência, ganhando força.</p><h2>Paul Thomas Anderson Lidera a Corrida para o Oscar</h2><p>O filme de Paul Thomas Anderson surgiu como um forte candidato ao Oscar, desafiando outros títulos que pareciam liderar a temporada. Após ser o filme mais indicado no Gotham Awards, apesar de algumas críticas sobre um corpo supostamente focado em produções independentes premiar um longa de grande orçamento, <b>One Battle After Another</b> consolidou sua posição de destaque.</p><p>A única preocupação em potencial é o custo de produção. Embora o sucesso de bilheteria não seja um requisito para atenção da Academia, uma narrativa negativa sobre o desempenho financeiro pode prejudicar a imagem do filme, especialmente em um momento delicado para a indústria cinematográfica. Alguns candidatos ao Oscar de Melhor Ator deste ano enfrentarão a campanha enquanto o público discute mais o fracasso de bilheteria de seus filmes do que suas performances.</p><p>Se <b>One Battle After Another</b> se confirmar como um dos principais concorrentes ao Oscar de Melhor Filme, qualquer fraqueza poderá ser explorada por publicidade negativa. No entanto, o filme está prestes a dissipar essa narrativa.</p><h2>Mudança na Narrativa da Bilheteria</h2><p>No início do ano, a estratégia de filmes da WB era vista como um risco custoso. Após o desempenho de <em>Mickey 17</em>, que não recuperou seu orçamento de US$ 118 milhões, houve apreensão sobre os novos chefes do estúdio, Pam Abdy e Mike De Luca, que investiram mais de US$ 100 milhões em <em>Sinners</em> e US$ 140 milhões em <b>One Battle After Another</b>.</p><p>Enquanto <em>Sinners</em> rapidamente silenciou seus críticos, PTA não teve a mesma sorte. Um debate acalorado surgiu nas redes sociais sobre a importância da lucratividade para este tipo de filme, questionando se os estúdios não deveriam usar os lucros de blockbusters como <em>A Minecraft Movie</em> e <em>Superman</em> para investir em projetos ambiciosos de artistas talentosos. Relatos indicavam que o filme poderia perder US$ 100 milhões na bilheteria.</p><p>Até agora, o ímpeto de <b>One Battle After Another</b> tem sido forte o suficiente para superar a má imprensa. Mas seria ainda melhor se não precisasse lidar com isso.</p><figure class="video-container"><iframe src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/screenrant-sandbox-2025-09-28t135606-228.jpg?q=49&fit=crop&w=825&dpr=2" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>Teyana Taylor como Perfidia Beverly Hills em One Battle After Another.</figcaption></figure><p>Na semana passada, um relatório indicou que o ponto de equilíbrio do filme está na faixa de US$ 200 milhões, e não nos US$ 300 milhões que haviam sido divulgados. Dado o orçamento reportado, isso é difícil de acreditar, mas se for verdade, o filme já está bem perto. Após manter um bom desempenho internacional, seu total global ultrapassa US$ 190 milhões, e o burburinho em torno do Oscar só impulsionará ainda mais seu desempenho. Quando o filme chegar ao VOD, ele provavelmente terá um bom desempenho, com uma porcentagem maior indo diretamente para o estúdio. Ao chegar ao streaming, especialmente se acumular várias indicações ao Oscar, o sucesso deve se repetir.</p><p>O ponto principal não é se <b>One Battle After Another</b> realmente atingirá o ponto de equilíbrio – a mágica secular da contabilidade de Hollywood sugere que talvez nunca saibamos com certeza. O que importa é se a percepção pública sobre a bilheteria do filme mudará, e este relatório está direcionando as coisas para o lado positivo.</p><p>Se o ponto de equilíbrio se tornar duvidoso, o que será discutido em seu lugar? Provavelmente que este é o filme de maior bilheteria mundial de PTA, superando o dobro do anterior. Ou que ele ultrapassará US$ 200 milhões globalmente como uma obra original, voltada para o público adulto e dirigida por um autor, em um mercado desafiador. Ou que um filme como este, com maior probabilidade de reter seu valor ao se tornar algo que as pessoas revisitam ao longo do tempo, deveria ser avaliado com uma perspectiva mais longa do que sua corrida inicial de bilheteria.</p><p><b>One Battle After Another</b> é tão bom que as pessoas estão ansiosas para não ter que reduzi-lo ao seu desempenho financeiro. E quando o filme ultrapassar a marca de US$ 200 milhões, ele terá dado motivos suficientes para que essa narrativa perca força. E certamente ajuda que a Warner Bros. estivesse supostamente tão confortável financeiramente este ano que pôde se dar ao luxo de adiar <em>Mortal Kombat 2</em> para reforçar sua programação de 2026.</p><p>Se a conversa sobre a bilheteria diminuir, não haverá mais nada segurando este filme. Resta saber se outras campanhas encontrarão alguma falha em sua armadura para explorar (como a controvérsia sobre IA em <em>The Brutalist</em>), mas se toda a discussão mudar para como Anderson nunca ganhou um Oscar ou se ele pode sustentar múltiplos indicados ao Oscar nas categorias de coadjuvantes, isso apenas solidificará ainda mais sua posição de destaque.</p><p>Quanto aos seus concorrentes, <em>Sinners</em> é um sucesso comprovado, mas sua reestreia em IMAX no Halloween não conseguiu entrar no top 10 no fim de semana de pior bilheteria do ano até agora. E <em>Hamnet</em> ainda não estreou. Talvez, em uma reviravolta inesperada, seja a bilheteria que permitirá que <b>One Battle After Another</b> se destaque nesta corrida acirrada.</p>",
+  "meta_description": "One Battle After Another busca superar desafios de bilheteria e se consolidar como forte candidato ao Oscar, com desempenho promissor e aclamação da crítica.",
+  "focus_keyphrase": "One Battle After Another",
+  "related_keyphrases": [
+    "One Battle After Another bilheteria",
+    "One Battle After Another Oscar",
+    "Paul Thomas Anderson filme"
+  ],
+  "slug": "one-battle-after-another-bilheteria-oscar",
+  "categorias": [
+    {
+      "nome": "One Battle After Another",
+      "grupo": "obras",
+      "evidence": "One Battle After Another"
+    },
+    {
+      "nome": "Paul Thomas Anderson",
+      "grupo": "obras",
+      "evidence": "Paul Thomas Anderson's film"
+    },
+    {
+      "nome": "Warner Bros.",
+      "grupo": "franquias",
+      "evidence": "Warner Bros."
+    }
+  ],
+  "tags_sugeridas": [
+    "One Battle After Another",
+    "Paul Thomas Anderson",
+    "Warner Bros.",
+    "Oscar",
+    "Bilheteria",
+    "Cinema",
+    "Filme"
+  ],
+  "image_alt_texts": {
+    "screenrant-sandbox-2025-09-28t135606-228.jpg": "Teyana Taylor como Perfidia Beverly Hills em One Battle After Another, destacando a atuação no filme."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "One Battle After Another: Bilheteria e Oscar em Jogo | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "One Battle After Another busca superar desafios de bilheteria e se consolidar como forte candidato ao Oscar, com desempenho promissor e aclamação da crítica.",
+    "_yoast_wpseo_focuskw": "One Battle After Another",
+    "_yoast_news_keywords": "One Battle After Another, Paul Thomas Anderson, Warner Bros., Oscar, Bilheteria, Cinema, Filme",
+    "_yoast_wpseo_opengraph-title": "One Battle After Another: Bilheteria e Oscar em Jogo",
+    "_yoast_wpseo_opengraph-description": "Descubra como o filme One Battle After Another está lidando com as expectativas de bilheteria e sua corrida pelo Oscar.",
+    "_yoast_wpseo_twitter-title": "One Battle After Another: Bilheteria e Oscar em Jogo",
+    "_yoast_wpseo_twitter-description": "O filme One Battle After Another enfrenta desafios de bilheteria enquanto se posiciona como forte candidato ao Oscar."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Michael J. Fox revela conflito com colega em 'De Volta para o Futuro'",
+      "conteudo_final": "<p><strong>Michael J. Fox revelou os bastidores da icônica franquia '80s</strong> <em>De Volta para o Futuro</em>, detalhando uma antiga disputa com um colega de elenco.</p><h2>Conflito nos Bastidores</h2><p>No seu novo livro, <em>Future Boy: Back to the Future and My Journey Through the Space-Time Continuum</em>, <strong>Fox detalhou problemas enfrentados pelo colega Crispin Glover nos sets</strong>, afirmando que ele \"criou atrito\" com seu estilo de atuação. Fox escreveu: \"<em>Ninguém coloca Crispin em uma caixa. Mas isso não impediu a equipe de filmagem de literalmente construir uma caixa ao redor dele</em>.\".</p><p>Fox estrelou ao lado de Glover no filme de 1985, <em>De Volta para o Futuro</em>. Na trama, o adolescente Marty McFly (interpretado por Fox) é levado a uma aventura no tempo com o excêntrico cientista Doc Brown (Christopher Lloyd).</p><h2>Diferenças Criativas de George McFly</h2><p>Segundo Fox, <strong>Glover tinha \"suas próprias ideias sobre como e onde\"</strong> seu personagem, o pai de Marty, George McFly, deveria se mover. Fox acrescentou:</p><blockquote><p>\"Quando Crispin se aproximava da câmera, ele deveria ficar em um corredor entre o varal e eu. Mas Crispin tinha um plano diferente. Minha suposição é que ele via George como um andarilho, um espírito livre que viajava em padrões aleatórios – neste caso, perpendicular à câmera.\"</p></blockquote><p>Apesar do \"conflito\" com Glover, <strong>Fox afirma que adorou trabalhar com seu pai na tela</strong> e até disse: \"<em>Seu talento era inquestionável, embora seus métodos às vezes criassem atrito. Ainda assim, eu respeitava como ele se mantinha fiel a George (como ele o entendia e o personificava)</em>.\".</p><h2>Primeiro Encontro e Preparação</h2><p><strong>Fox recorda ter conhecido Glover antes de trabalharem juntos em <em>De Volta para o Futuro</em></strong>. \"<em>Eu conhecia Crispin Glover antes de De Volta para o Futuro. No entanto, eu não diria que estava preparado para atuar com ele – não há como se preparar para Crispin</em>.\".</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/10/untitled-design-2024-10-23t091954-019.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Michael J Fox como Marty McFly em De Volta para o Futuro olhando para Crispin Glover como George McFly"/></figure><p>Em <em>Future Boy</em>, Fox também relembrou um incidente com Eric Stoltz, <strong>já que Fox substituiu o ator como Marty McFly</strong>. Os dois atores permaneceram amigos e Fox garante que não há ressentimentos entre eles.</p><p>Fox foi um ator icônico nas décadas de 80 e 90 e batalha contra a doença de Parkinson desde 1991. <strong>Ele também é conhecido por seus papéis em <em>Caras &amp; Caretas</em>, <em>O Pequeno Stuart Little</em> e <em>O Rapaz Selvagem</em></strong>.</p><h2>Legado de De Volta para o Futuro</h2><p><a href=\"https://www.maquinanerd.com.br/tag/de-volta-para-o-futuro/\">A franquia <em>De Volta para o Futuro</em> continua sendo uma favorita dos fãs</a>, e <strong>o primeiro filme tem uma impressionante pontuação de 93% no Rotten Tomatoes</strong>. A saga conta com três filmes e arrecadou mais de US$ 960 milhões globalmente, com o primeiro filme faturando US$ 389 milhões.</p>",
+      "meta_description": "Michael J. Fox detalha conflito com Crispin Glover nos bastidores de De Volta para o Futuro em sua nova autobiografia, 'Future Boy'.",
+      "focus_keyphrase": "Michael J. Fox De Volta para o Futuro",
+      "related_keyphrases": [
+        "Crispin Glover De Volta para o Futuro",
+        "De Volta para o Futuro conflito",
+        "Autobiografia Michael J. Fox"
+      ],
+      "slug": "michael-j-fox-conflito-de-volta-futuro",
+      "categorias": [
+        {
+          "nome": "De Volta para o Futuro",
+          "grupo": "franquias",
+          "evidence": "<em>Back to the Future</em>"
+        },
+        {
+          "nome": "Michael J. Fox",
+          "grupo": "pessoas",
+          "evidence": "Michael J. Fox"
+        },
+        {
+          "nome": "Crispin Glover",
+          "grupo": "pessoas",
+          "evidence": "Crispin Glover"
+        }
+      ],
+      "tags_sugeridas": [
+        "michael-j-fox",
+        "crispin-glover",
+        "de-volta-para-o-futuro",
+        "cinema-anos-80",
+        "autobiografia"
+      ],
+      "image_alt_texts": {
+        "untitled-design-2024-10-23t091954-019.jpg": "Michael J Fox como Marty McFly em De Volta para o Futuro olhando para Crispin Glover como George McFly"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Michael J. Fox revela conflito com colega em 'De Volta para o Futuro'",
+        "_yoast_wpseo_metadesc": "Michael J. Fox detalha conflito com Crispin Glover nos bastidores de De Volta para o Futuro em sua nova autobiografia, 'Future Boy'.",
+        "_yoast_wpseo_focuskw": "Michael J. Fox De Volta para o Futuro",
+        "_yoast_news_keywords": "Michael J. Fox, Crispin Glover, De Volta para o Futuro, Cinema, Autobiografia, Anos 80",
+        "_yoast_wpseo_opengraph-title": "Michael J. Fox revela conflito com colega em 'De Volta para o Futuro'",
+        "_yoast_wpseo_opengraph-description": "Michael J. Fox detalha conflito com Crispin Glover nos bastidores de De Volta para o Futuro em sua nova autobiografia, 'Future Boy'.",
+        "_yoast_wpseo_twitter-title": "Michael J. Fox revela conflito com colega em 'De Volta para o Futuro'",
+        "_yoast_wpseo_twitter-description": "Michael J. Fox detalha conflito com Crispin Glover nos bastidores de De Volta para o Futuro em sua nova autobiografia, 'Future Boy'."
+      }
+    },
+    {
+      "titulo_final": "DC Animation discute o futuro do Batman em novidades na NYCC",
+      "conteudo_final": "<p>A equipe de animação da DC Comics compartilhou novidades sobre seus projetos futuros, incluindo <strong><em>Batman: Caped Crusader</em></strong>, <strong><em>Aztec Batman</em></strong> e o futuro de <em>Batwheels</em>.</p><h2>Explorando Novas Vertentes do Morcego</h2><p>Durante um painel na <a href=\"https://www.maquinanerd.com.br/tag/nycc/\">New York Comic Con (NYCC) 2025</a>, os responsáveis pela animação da DC celebraram a oportunidade de apresentar o icônico Batman a novas gerações. Eles também destacaram o interesse em explorar universos alternativos, como <strong><em>Aztec Batman</em></strong>.</p><h2>Novidades em Animações Infantis</h2><p>Um dos pontos abordados foi a série <em>Batwheels</em>, que leva os veículos do Batman a aventuras voltadas para o público infantil. A equipe demonstrou entusiasmo em expandir o universo do herói para diferentes faixas etárias e estilos de narrativa, culminando em discussões sobre novas abordagens para o Cavaleiro das Trevas.</p>",
+      "meta_description": "Equipe da DC Animation revela planos para Batman: Caped Crusader, Aztec Batman e Batwheels em painel na New York Comic Con 2025.",
+      "focus_keyphrase": "DC Animation Batman",
+      "related_keyphrases": [
+        "Batman: Caped Crusader",
+        "Aztec Batman",
+        "NYCC 2025"
+      ],
+      "slug": "dc-animation-futuro-batman-nycc",
+      "categorias": [
+        {
+          "nome": "Batman",
+          "grupo": "franquias",
+          "evidence": "Batman"
+        },
+        {
+          "nome": "DC Animation",
+          "grupo": "editorias",
+          "evidence": "DC Animation"
+        },
+        {
+          "nome": "Batwheels",
+          "grupo": "obras",
+          "evidence": "Batwheels"
+        }
+      ],
+      "tags_sugeridas": [
+        "batman",
+        "dc-animation",
+        "nycc-2025",
+        "batman-caped-crusader",
+        "aztec-batman",
+        "batwheels"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "DC Animation discute o futuro do Batman em novidades na NYCC 2025",
+        "_yoast_wpseo_metadesc": "Equipe da DC Animation revela planos para Batman: Caped Crusader, Aztec Batman e Batwheels em painel na New York Comic Con 2025.",
+        "_yoast_wpseo_focuskw": "DC Animation Batman",
+        "_yoast_news_keywords": "DC Animation, Batman, Batman: Caped Crusader, Aztec Batman, Batwheels, NYCC 2025, Animação",
+        "_yoast_wpseo_opengraph-title": "DC Animation discute o futuro do Batman em novidades na NYCC 2025",
+        "_yoast_wpseo_opengraph-description": "Equipe da DC Animation revela planos para Batman: Caped Crusader, Aztec Batman e Batwheels em painel na New York Comic Con 2025.",
+        "_yoast_wpseo_twitter-title": "DC Animation discute o futuro do Batman em novidades na NYCC 2025",
+        "_yoast_wpseo_twitter-description": "Equipe da DC Animation revela planos para Batman: Caped Crusader, Aztec Batman e Batwheels em painel na New York Comic Con 2025."
+      }
+    },
+    {
+      "titulo_final": "'The Long Walk' supera 'Conta Comigo' em bilheteria global",
+      "conteudo_final": "<p><strong><em>The Long Walk</em></strong>, adaptação do livro de Stephen King, ultrapassou um dos filmes mais aclamados do autor em bilheteria global.</p><h2>Sucesso de Bilheteria Inesperado</h2><p>De acordo com a <em>Box Office Mojo</em>, <strong><em>The Long Walk </em>arrecadou mais de US$ 53 milhões mundialmente</strong>, incluindo US$ 34,3 milhões domésticos. Com isso, o thriller de sobrevivência superou <em>Conta Comigo</em> (1986), outra adaptação de King, que faturou US$ 52 milhões em sua exibição original (sem considerar a inflação).</p><p><em>The Long Walk</em> é a terceira adaptação de King lançada neste ano, acompanhada por <em>The Monkey</em> e <em>Life of Chuck</em>. <strong><em>The Monkey </em>é atualmente o filme de King com maior bilheteria do ano, com US$ 63 milhões</strong>, mas <em>The Long Walk</em> segue de perto.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/mark-hamil-in-uniform-looking-stern-in-the-long-walk.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Mark Hamill em uniforme, com expressão séria, em The Long Walk"/></figure><h2>Desempenho e Análise Financeira</h2><p>Com um orçamento de US$ 20 milhões, <em>The Long Walk</em> estreou com US$ 11 milhões na bilheteria doméstica. Embora possa parecer um desempenho modesto, <strong>a Lionsgate, distribuidora do filme, cobriu grande parte do orçamento com pré-vendas internacionais</strong>. Portanto, <em>The Long Walk</em> já pode ser considerado um sucesso, estando em ponto de equilíbrio ou até mesmo gerando lucro.</p><h2>Recepção da Crítica</h2><p><strong><em>The Long Walk </em>rapidamente se tornou um dos filmes mais bem avaliados de King</strong>, alcançando 88% no Tomatometer e 85% no Popcornmeter. O diretor Francis Lawrence, conhecido por filmes de <em>Jogos Vorazes</em>, compartilhou que Stephen King aprovou a adaptação, expressando satisfação após receber o corte final do filme.</p><h2>Lançamento Doméstico e Próximos Passos</h2><p>Após sua exibição nos cinemas, <strong><em>The Long Walk</em></strong> estará disponível para aluguel em VOD a partir de 21 de outubro, e em formato físico (4K e Blu-ray) em 25 de novembro. O calendário de King para 2025 se encerrará com <em>The Running Man</em>, remake dirigido por Edgar Wright, com lançamento previsto para 1º de novembro.</p>",
+      "meta_description": "Adaptação de Stephen King, 'The Long Walk', supera 'Conta Comigo' em bilheteria global e recebe boas críticas.",
+      "focus_keyphrase": "The Long Walk bilheteria",
+      "related_keyphrases": [
+        "Stephen King adaptações",
+        "Conta Comigo",
+        "The Long Walk filme"
+      ],
+      "slug": "the-long-walk-supera-conta-comigo-bilheteria",
+      "categorias": [
+        {
+          "nome": "The Long Walk",
+          "grupo": "obras",
+          "evidence": "<em>The Long Walk</em>"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "pessoas",
+          "evidence": "Stephen King"
+        },
+        {
+          "nome": "Conta Comigo",
+          "grupo": "obras",
+          "evidence": "<em>Stand by Me</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "the-long-walk",
+        "stephen-king",
+        "conta-comigo",
+        "bilheteria",
+        "cinema",
+        "thriller",
+        "frances-lawrence"
+      ],
+      "image_alt_texts": {
+        "mark-hamil-in-uniform-looking-stern-in-the-long-walk.jpg": "Mark Hamill em uniforme, com expressão séria, em The Long Walk"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "'The Long Walk' supera 'Conta Comigo' em bilheteria global",
+        "_yoast_wpseo_metadesc": "Adaptação de Stephen King, 'The Long Walk', supera 'Conta Comigo' em bilheteria global e recebe boas críticas.",
+        "_yoast_wpseo_focuskw": "The Long Walk bilheteria",
+        "_yoast_news_keywords": "The Long Walk, Stephen King, Conta Comigo, Bilheteria, Cinema, Thriller, Adaptação",
+        "_yoast_wpseo_opengraph-title": "'The Long Walk' supera 'Conta Comigo' em bilheteria global",
+        "_yoast_wpseo_opengraph-description": "Adaptação de Stephen King, 'The Long Walk', supera 'Conta Comigo' em bilheteria global e recebe boas críticas.",
+        "_yoast_wpseo_twitter-title": "'The Long Walk' supera 'Conta Comigo' em bilheteria global",
+        "_yoast_wpseo_twitter-description": "Adaptação de Stephen King, 'The Long Walk', supera 'Conta Comigo' em bilheteria global e recebe boas críticas."
+      }
+    }
+  ]
+}

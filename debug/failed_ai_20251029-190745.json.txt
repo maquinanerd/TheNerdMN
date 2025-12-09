@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Mad Men: A decadência visual e narrativa nas temporadas finais",
+  "conteudo_final": "<p>As duas últimas temporadas de <b>Mad Men</b> apresentaram uma mudança estética e narrativa, refletindo a transição dos anos 1960 para os turbulentos anos 1970. A aclamada série da AMC, que retratou a ascensão e queda da agência de publicidade Sterling Cooper, evoluiu ao longo de suas 7 temporadas, cobrindo o período de março de 1960 a novembro de 1970.</p><p>A série centrava-se em <b>Donald Draper (Jon Hamm)</b>, o Diretor Criativo que personificava a elegância e o carisma da época. Ao assistir <b>Mad Men</b>, é notável a cultura de trabalho onde o consumo de álcool e cigarros era comum, e comportamentos hoje considerados inaceitáveis eram a norma.</p><p>Apesar do fascínio pela estética dos anos 60, a série inevitavelmente refletiu as mudanças sociais e culturais que culminaram na década seguinte. Essa transformação, no entanto, não foi apenas superficial; ela também impactou a narrativa e a atmosfera da série.</p><h2>A Estética dos Anos 70 Chega a Mad Men</h2><p>A partir da sexta temporada, <b>Mad Men</b> começou a exibir uma estética mais "feia", alinhada com a contracultura e o movimento anti-establishment. Personagens como <b>Stan Rizzo (Jay R. Ferguson)</b> e <b>Michael Ginsberg (Ben Feldman)</b>, mais conectados à cultura jovem, passaram a adotar um visual mais extravagante e despojado, em contraste com a sobriedade inicial de figuras como <b>Don Draper</b> e <b>Roger Sterling (John Slattery)</b>.</p><figure class=\"video-container\"><img src=\"https:
+  "meta_description": "Explore como Mad Men mudou sua estética e narrativa nas temporadas finais, refletindo a transição dos anos 60 para os 70 e o declínio da agência Sterling Cooper.",
+  "focus_keyphrase": "Mad Men temporadas finais",
+  "related_keyphrases": [
+    "Mad Men estética anos 70",
+    "Don Draper Sterling Cooper",
+    "Evolução Mad Men"
+  ],
+  "slug": "mad-men-decadencia-visual-narrativa",
+  "categorias": [
+    {
+      "nome": "Mad Men",
+      "grupo": "obras",
+      "evidence": "Mad Men's final two seasons got ugly as the series headed towards its end."
+    },
+    {
+      "nome": "AMC",
+      "grupo": "editorias",
+      "evidence": "aired for 7 seasons on AMC"
+    },
+    {
+      "nome": "Donald Draper",
+      "grupo": "personagens",
+      "evidence": "centered on Donald Draper (Jon Hamm)"
+    }
+  ],
+  "tags_sugeridas": [
+    "mad-men",
+    "don draper",
+    "jon hamm",
+    "roger sterling",
+    "anos 70",
+    "amc",
+    "publicidade"
+  ],
+  "image_alt_texts": {
+    "roger-sterling-with-ladies-in-mad-men-1.jpg": "Roger Sterling e outros personagens em Mad Men, mostrando a estética da série.",
+    "peggy-and-ginsberg-in-mad-men-1.jpg": "Peggy Olson e Michael Ginsberg em Mad Men, representando a influência da contracultura.",
+    "0373995_poster_w780.jpg": "Pôster oficial da série Mad Men, com o elenco principal."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Mad Men: A decadência visual e narrativa nas temporadas finais | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Explore como Mad Men mudou sua estética e narrativa nas temporadas finais, refletindo a transição dos anos 60 para os 70 e o declínio da agência Sterling Cooper.",
+    "_yoast_wpseo_focuskw": "Mad Men temporadas finais",
+    "_yoast_news_keywords": "Mad Men, Donald Draper, Jon Hamm, Roger Sterling, AMC, anos 70, publicidade, Sterling Cooper",
+    "_yoast_wpseo_opengraph-title": "Mad Men: A decadência visual e narrativa nas temporadas finais",
+    "_yoast_wpseo_opengraph-description": "Explore como Mad Men mudou sua estética e narrativa nas temporadas finais, refletindo a transição dos anos 60 para os 70 e o declínio da agência Sterling Cooper.",
+    "_yoast_wpseo_twitter-title": "Mad Men: A decadência visual e narrativa nas temporadas finais",
+    "_yoast_wpseo_twitter-description": "Explore como Mad Men mudou sua estética e narrativa nas temporadas finais, refletindo a transição dos anos 60 para os 70 e o declínio da agência Sterling Cooper."
+  }
+}

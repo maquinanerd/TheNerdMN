@@ -1,0 +1,116 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Marvel Studios: Arte de fã une a formação ideal dos Novos Mutantes no MCU",
+      "conteudo_final": "<p>A formação ideal para a equipe dos <b>Novos Mutantes</b> (Midnight Sons) do <b>Universo Cinematográfico Marvel</b> (MCU) se une nesta impressionante arte de fã. Embora os Vingadores possam ter ficado em segundo plano no MCU desde <b>Vingadores: Ultimato</b>, a Marvel Studios tem sinalizado a formação de várias outras equipes de super-heróis, e uma delas são os Novos Mutantes. Uma das equipes mais sombrias da Marvel, os Novos Mutantes lidam com assuntos sobrenaturais e reúnem alguns dos personagens mais poderosos e incomuns da Marvel, muitos dos quais estrearam recentemente no MCU.</p><h2>Novos Mutantes no MCU: Uma Formação em Potencial</h2><p>Embora vários membros potenciais da equipe dos Novos Mutantes tenham sido introduzidos recentemente no MCU, ainda não sabemos exatamente qual será a formação. Uma possível escalação foi sugerida em uma nova e vibrante arte compartilhada por @70.6ix no Instagram, reunindo <b>Doutor Estranho</b>, <b>Blade</b>, <b>Lobisomem</b> (Werewolf by Night), <b>Elsa Bloodstone</b>, o <b>Justiceiro</b> (Punisher) e o ainda não introduzido <b>Motoqueiro Fantasma</b> (Ghost Rider) como os Novos Mutantes. Esta equipe seria seriamente poderosa e uma adição fantástica ao MCU, mas existem vários outros heróis e anti-heróis sobrenaturais que também poderiam se juntar ao elenco.</p><h2>Quem Poderia Integrar a Equipe dos Novos Mutantes no MCU?</h2><p>A equipe dos Novos Mutantes da Marvel Comics fez sua primeira aparição completa em 1992, na edição Ghost Rider (Vol. 3) #31, e foi revelado que foi formada por duas versões do Espírito da Vingança – Johnny Blaze e Danny Ketch. A equipe original consistia em “os Nove”, compreendendo os dois Motoqueiros Fantasmas, Morbius, Blade, Hannibal King, Frank Drake, e os Redentores do Darkhold: Sam Buchanan, Louise Hastings e Victoria Montesi. Muitos desses personagens não foram vistos no MCU, então a Marvel Studios provavelmente tomará uma direção muito diferente com os Novos Mutantes.</p><p>Faria sentido que o místico <b>Doutor Estranho</b> (Benedict Cumberbatch), ou talvez o <b>Feiticeiro Supremo</b>, Wong (Benedict Wong), formassem os Novos Mutantes no MCU. Eles poderiam recrutar membros da equipe dos quadrinhos da Marvel que já existem no MCU, incluindo Blade, Wolverine, Elsa Bloodstone, o Capanga (The Hood), Punho de Ferro (Iron Fist), Jennifer Kale, Homem-Coisa (Man-Thing), Cavaleiro da Lua (Moon Knight), Lobisomem (Werewolf by Night), e até mesmo a <b>Feiticeira Escarlate</b> (Scarlet Witch). Nomes como Cavaleiro Negro (Black Knight), o Justiceiro (Punisher), Wiccano, e outros, também seriam adições interessantes, compondo uma das equipes mais empolgantes do MCU até agora.</p><p>Resta saber quando – ou mesmo se – os Novos Mutantes realmente aparecerão no MCU. No entanto, quando isso acontecer, será ótimo ver alguns dos personagens mais poderosos, místicos, sobrenaturais e mágicos da franquia se unindo. Com as recentes estreias de Mephisto (Sacha Baron Cohen), Nicholas Scratch (Abel Lysenko), e outros, já existem alguns vilões formidáveis que foram perfeitamente preparados para enfrentar os Novos Mutantes, então sua primeira aparição oficial no MCU não pode chegar em breve o suficiente.</p>",
+      "meta_description": "Descubra a arte de fã que une a formação ideal dos Novos Mutantes no MCU, incluindo Doutor Estranho, Blade e o futuro Motoqueiro Fantasma.",
+      "focus_keyphrase": "Novos Mutantes MCU",
+      "related_keyphrases": [
+        "Marvel Studios",
+        "Doutor Estranho",
+        "Blade"
+      ],
+      "slug": "marvel-novos-mutantes-fan-art-mcu",
+      "categorias": [
+        {
+          "nome": "Marvel Studios",
+          "grupo": "editorias",
+          "evidence": "Marvel Studios"
+        },
+        {
+          "nome": "Universo Cinematográfico Marvel",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        },
+        {
+          "nome": "Novos Mutantes",
+          "grupo": "franquias",
+          "evidence": "Midnight Sons"
+        }
+      ],
+      "tags_sugeridas": [
+        "Marvel Studios",
+        "Universo Cinematográfico Marvel",
+        "Novos Mutantes",
+        "Doutor Estranho",
+        "Blade",
+        "Motoqueiro Fantasma"
+      ],
+      "image_alt_texts": {
+        "jim-carrey-dr-robotnik-sonic.jpg": "Arte de fã mostrando Doutor Estranho com a equipe dos Novos Mutantes.",
+        "h-o-g-w-a-r-t-s-l-e-g-a-c-y.png": "Elsa Bloodstone e Lobisomem em arte conceitual de fã.",
+        "s-t-e-a-m.png": "O Justiceiro em potencial formação dos Novos Mutantes no MCU.",
+        "companion-movie-3.jpg": "Motoqueiro Fantasma em arte de fã dos Novos Mutantes.",
+        "Doctor-Strange-firing-a-magic-blast-in-Avengers-Infinity-War.jpg": "Doutor Estranho disparando magia, um potencial membro dos Novos Mutantes.",
+        "blazing-saddles-movie-streaming-prime-video.jpg": "Blade, membro dos Novos Mutantes, em pose heroica.",
+        "dont-breathe-2016.jpg": "Arte de fã com a equipe sobrenatural dos Novos Mutantes."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Marvel: Arte de Fã Une Formação Ideal dos Novos Mutantes no MCU",
+        "_yoast_wpseo_metadesc": "Uma arte de fã espetacular reúne a formação ideal dos Novos Mutantes do MCU, com Doutor Estranho, Blade e Motoqueiro Fantasma. Veja!",
+        "_yoast_wpseo_focuskw": "Novos Mutantes MCU",
+        "_yoast_news_keywords": "Novos Mutantes, Marvel Studios, MCU, Doutor Estranho, Blade, Motoqueiro Fantasma, Lobisomem",
+        "_yoast_wpseo_opengraph-title": "Marvel: Arte de Fã Une Formação Ideal dos Novos Mutantes no MCU",
+        "_yoast_wpseo_opengraph-description": "Uma arte de fã espetacular reúne a formação ideal dos Novos Mutantes do MCU, com Doutor Estranho, Blade e Motoqueiro Fantasma. Veja!",
+        "_yoast_wpseo_twitter-title": "Marvel: Arte de Fã Une Formação Ideal dos Novos Mutantes no MCU",
+        "_yoast_wpseo_twitter-description": "Uma arte de fã espetacular reúne a formação ideal dos Novos Mutantes do MCU, com Doutor Estranho, Blade e Motoqueiro Fantasma. Veja!"
+      }
+    },
+    {
+      "titulo_final": "O Pior Filme do Homem-Aranha Tem a Melhor Cena de Teia",
+      "conteudo_final": "<p>Todo filme do <b>Homem-Aranha</b> vem equipado com uma cena de aproximadamente um minuto dele balançando pela cidade. Era inevitável que isso acontecesse porque, se você vai criar um filme de US$ 200 milhões sobre este personagem em particular, uma sequência acrobática de balanço é esperada. E em 2002, Sam Raimi estabeleceu um padrão muito alto com a sequência que encerrou o <b>Homem-Aranha</b> original, apresentando Peter Parker se balançando em volta de um guindaste antes de acabar em uma torre (no que é ostensivamente o Chrysler Building). <b>O Espetacular Homem-Aranha</b> o fez balançar pela cidade antes de terminar em um congelamento de cena bem encenado. Em <b>Homem-Aranha: Sem Volta para Casa</b>, ele balança pela cidade à noite com neve caindo ao seu redor, voltando ao trabalho mesmo que todos que ele ama tenham morrido ou o esquecido.</p><h2>A Melhor Cena de Teia Abre um Filme</h2><p>Essas são todas sequências de balanço que fecham filmes, mas há um forte argumento a ser feito de que a melhor dessas sequências na verdade abre um filme do Aranha. Especificamente, <b>O Espetacular Homem-Aranha 2</b>, amplamente considerado o ponto baixo da carreira cinematográfica de oito filmes do personagem.</p><h2>Foi Ladeira Abaixo a Partir Daqui</h2><p>O filme começa com um close-up do símbolo da aranha nas costas do icônico traje vermelho e azul, enquanto Parker cai em alta velocidade em direção à cidade. Ele chega ao nível da rua e balança junto com o tráfego, tece uma torre de água no topo de um prédio e se lança ao redor dela.</p><p>Em seguida, temos o tipo de cena que nasceu para estar em um filme desta franquia em particular: uma visão de GoPro com o Aranha ocupando a metade superior da tela. Nesse ponto, nos afastamos do personagem para uma visão mais tradicional, quando um helicóptero entra na cena por trás dele. Há mais balanços no nível do tráfego, mas realmente a cena do helicóptero é o que coroa essa excelente abertura.</p><p>Algumas pessoas gostam muito de <b>O Espetacular Homem-Aranha 2</b>, mas é fácil entender por que isso pôs fim prematuro ao tempo de Andrew Garfield como o personagem. A escrita tende a oscilar entre o muito bobo (tudo com o <b>Rhino</b> de Paul Giamatti, por exemplo) e extremamente sombrio (a maior parte do enredo de Harry Osborn, pontuado pela morte de Gwen Stacy) e, como <b>Homem-Aranha 3</b>, é simplesmente muito lotado. Junte a isso um Jamie Foxx azul de aparência muito boba — há uma razão pela qual seu design e personalidade foram alterados para Sem Volta para Casa — e é um filme que nunca funciona tão bem quanto deveria. Mesmo assim, certamente abre com força.</p>",
+      "meta_description": "Mesmo sendo considerado o pior filme, O Espetacular Homem-Aranha 2 (2014) possui a melhor cena de balanço de teia em live-action. Entenda!",
+      "focus_keyphrase": "O Espetacular Homem-Aranha 2",
+      "related_keyphrases": [
+        "Homem-Aranha",
+        "Andrew Garfield",
+        "cenas de ação"
+      ],
+      "slug": "pior-homem-aranha-melhor-cena-teia",
+      "categorias": [
+        {
+          "nome": "Homem-Aranha",
+          "grupo": "franquias",
+          "evidence": "Spider-Man movie"
+        },
+        {
+          "nome": "O Espetacular Homem-Aranha 2",
+          "grupo": "obras",
+          "evidence": "The Amazing Spider-Man 2"
+        },
+        {
+          "nome": "Marvel",
+          "grupo": "editorias",
+          "evidence": "marvel"
+        }
+      ],
+      "tags_sugeridas": [
+        "Homem-Aranha",
+        "O Espetacular Homem-Aranha 2",
+        "Andrew Garfield",
+        "Sam Raimi",
+        "cenas de ação",
+        "Marvel"
+      ],
+      "image_alt_texts": {
+        "jim-carrey-dr-robotnik-sonic.jpg": "Homem-Aranha em cena de ação com teia.",
+        "h-o-g-w-a-r-t-s-l-e-g-a-c-y.png": "Comparativo de cenas de balanço do Homem-Aranha em diferentes filmes.",
+        "s-t-e-a-m.png": "Close-up no símbolo da aranha no traje do Homem-Aranha.",
+        "companion-movie-3.jpg": "Visão aérea do Homem-Aranha se balançando pela cidade.",
+        "amazing-spider-man-2.jpg": "Homem-Aranha em sua cena de abertura em O Espetacular Homem-Aranha 2.",
+        "blazing-saddles-movie-streaming-prime-video.jpg": "Homem-Aranha interagindo com o tráfego da cidade.",
+        "dont-breathe-2016.jpg": "Visão de helicóptero acompanhando o Homem-Aranha em voo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Homem-Aranha: O Pior Filme Tinha a Melhor Cena de Teia | ComicBook",
+        "_yoast_wpseo_metadesc": "Mesmo considerado o pior filme do herói, O Espetacular Homem-Aranha 2 (2014) se destaca pela espetacular cena de abertura com o balanço de teia.",
+        "_yoast_wpseo_focuskw": "O Espetacular Homem-Aranha 2",
+        "_yoast_news_keywords": "Homem-Aranha, O Espetacular Homem-Aranha 2, Andrew Garfield, Marvel, cenas de ação",
+        "_yoast_wpseo_opengraph-title": "O Pior Homem-Aranha Tinha a Melhor Cena de Teia",
+        "_yoast_wpseo_opengraph-description": "Mesmo sendo amplamente criticado, O Espetacular Homem-Aranha 2 (2014) conta com uma cena de balanço de teia considerada por muitos a melhor já feita.",
+        "_yoast_wpseo_twitter-title": "O Pior Homem-Aranha Tinha a Melhor Cena de Teia",
+        "_yoast_wpseo_twitter-description": "Mesmo sendo amplamente criticado, O Espetacular Homem-Aranha 2 (2014) conta com uma cena de balanço de teia considerada por muitos a melhor já feita."
+      }
+    }
+  ]
+}

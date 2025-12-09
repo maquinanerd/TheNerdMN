@@ -1,0 +1,63 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Prime Video: 8 Séries de Ficção Científica Que Você Provavelmente Perdeu",
+      "conteudo_final": "<p>A biblioteca de ficção científica do <a href=\"https:
+      "meta_description": "Descubra 8 séries de ficção científica incríveis do Prime Video que você pode ter perdido, de Upload a The Expanse. Reviva joias escondidas do streaming.",
+      "focus_keyphrase": "séries de ficção científica Prime Video",
+      "related_keyphrases": [
+        "melhores sci-fi Prime Video",
+        "séries perdidas Amazon Prime",
+        "ficção científica streaming"
+      ],
+      "slug": "prime-video-series-ficcao-cientifica-perdidas",
+      "categorias": [
+        {
+          "nome": "Prime Video",
+          "grupo": "serviços de streaming",
+          "evidence": "Prime Video's sci-fi collection is ever-growing"
+        },
+        {
+          "nome": "Upload",
+          "grupo": "obras",
+          "evidence": "Upload is a sci-fi show starring Robbie Amell"
+        },
+        {
+          "nome": "Undone",
+          "grupo": "obras",
+          "evidence": "Undone, much like Upload, looks at the concept of death"
+        }
+      ],
+      "tags_sugeridas": [
+        "Prime Video",
+        "ficção científica",
+        "Upload",
+        "Undone",
+        "The Expanse",
+        "The Boys",
+        "The Man in the High Castle"
+      ],
+      "image_alt_texts": {
+        "upload-season-4-episode-3-real-nathan-looking-sick.jpg": "Nathan de Upload em estado doentio na quarta temporada.",
+        "undone-amazon-prime.jpg": "Alma em Undone, contemplando o tempo e o mistério da morte de seu pai.",
+        "The-Boys-Diabolical-trailer-Homelander.jpg": "Um personagem voando com um sorriso no rosto em The Boys Presents: Diabolical.",
+        "rupert-evans-holding-a-gun-in-the-man-in-the-high-castle.jpg": "Rupert Evans empunhando uma arma em The Man in the High Castle.",
+        "the-power-prime-vide.jpg": "Toni Collette em destaque em The Power no Prime Video.",
+        "gaddis-standing-in-front-of-a-floating-tractor-in-tales-from-the-loop.jpg": "Gaddis em frente a um trator flutuante em Tales from the Loop.",
+        "The-Twilight-Zone-Pilot-e1554137823480.jpg": "O Comediante em The Twilight Zone.",
+        "untitled-design-263-1.jpg": "Quatro personagens em The Expanse, em uma nave espacial.",
+        "prime-video-poster.jpg": "Pôster do Prime Video."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Prime Video: 8 Séries de Ficção Científica Que Você Provavelmente Perdeu",
+        "_yoast_wpseo_metadesc": "Descubra 8 séries de ficção científica incríveis do Prime Video que você pode ter perdido, de Upload a The Expanse. Reviva joias escondidas do streaming.",
+        "_yoast_wpseo_focuskw": "séries de ficção científica Prime Video",
+        "_yoast_news_keywords": "Prime Video, ficção científica, Upload, Undone, The Expanse, The Boys, The Man in the High Castle, The Power, Tales from the Loop, The Twilight Zone",
+        "_yoast_wpseo_opengraph-title": "Prime Video: 8 Séries de Ficção Científica Que Você Provavelmente Perdeu",
+        "_yoast_wpseo_opengraph-description": "Descubra 8 séries de ficção científica incríveis do Prime Video que você pode ter perdido, de Upload a The Expanse. Reviva joias escondidas do streaming.",
+        "_yoast_wpseo_twitter-title": "Prime Video: 8 Séries de Ficção Científica Que Você Provavelmente Perdeu",
+        "_yoast_wpseo_twitter-description": "Descubra 8 séries de ficção científica incríveis do Prime Video que você pode ter perdido, de Upload a The Expanse. Reviva joias escondidas do streaming."
+      }
+    }
+  ]
+}

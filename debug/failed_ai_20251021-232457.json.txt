@@ -1,0 +1,46 @@
+{
+  "titulo_final": "Stranger Things 5: Criadores confirmam ausência de personagem amado na Netflix",
+  "conteudo_final": "<p>A quinta e última temporada de <b>Stranger Things</b>, uma das séries de maior sucesso da Netflix, é aguardada com grande expectativa pelos fãs, que acompanham a história ambientada em Hawkins há quase uma década. A nova temporada tem previsão de estreia em três partes entre novembro e dezembro deste ano, marcando o fim da jornada. Com o retorno da maioria dos personagens favoritos do público, especialmente os jovens protagonistas, a expectativa é alta. No entanto, um personagem que muitos esperavam ver de volta não retornará, conforme confirmado recentemente após seu trágico destino na temporada anterior.</p><h2>Eddie Munson Não Retornará em Stranger Things 5</h2><p>O personagem em questão é o carismático <b>Eddie Munson</b>, interpretado por <b>Joseph Quinn</b>, que se juntou ao elenco principal na quarta temporada. Eddie desempenha um papel crucial ao distrair os demobats de Vecna nos episódios finais da temporada, mas infelizmente não sobrevive, sacrificando-se para proteger a cidade que o rejeitou. Confirmando a notícia sobre a ausência de Quinn, um dos co-criadores da série, <b>Matt Duffer</b>, dos Irmãos Duffer, declarou em entrevista:</p>\n<blockquote>\n<p>“Eu adoro que Joe Quinn esteja brincando com as pessoas! Mas não, ele está morto. Joe está tão ocupado de qualquer forma que todos deveriam saber que ele não vai voltar. Ele filmou como cinco filmes desde então! Quando ele teve tempo de vir e filmar Stranger Things? Não, infelizmente, descanse em paz. Ele está totalmente debaixo da terra.”</p>\n</blockquote>\n<h2>Quem Mais Estará em 'Stranger Things' Temporada 5?</h2>\n<p>Como mencionado, os fãs podem esperar o retorno dos astros principais <b>Finn Wolfhard</b>, <b>Millie Bobby Brown</b>, <b>Gaten Matarazzo</b>, <b>Caleb McLaughlin</b>, <b>Noah Schnapp</b> e <b>Sadie Sink</b> na quinta temporada de <b>Stranger Things</b>, que promete revelar a verdadeira natureza do Mundo Invertido. Além desse grupo, o elenco conta com os retornos de <b>Jamie Campbell Bower</b>, <b>Winona Ryder</b>, <b>David Harbour</b>, <b>Natalia Dyer</b>, <b>Charlie Heaton</b>, <b>Joe Keery</b>, <b>Maya Hawke</b>, <b>Priah Ferguson</b>, <b>Brett Gelman</b> e <b>Cara Buono</b>. <b>Amybeth McNulty</b>, <b>Nell Fisher</b>, <b>Jake Connelly</b> e <b>Alex Breaux</b> também estão no elenco.</p>\n<figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/03112487_poster_w780.jpg\" alt=\"Eddie Munson (Joseph Quinn) em cena de Stranger Things\"><figcaption>Eddie Munson, personagem de Joseph Quinn, não retornará na quinta temporada de Stranger Things.</figcaption></figure>\n<p>A série tem previsão de retorno em 26 de novembro de 2025, com os primeiros quatro episódios da 5ª temporada. Os episódios de cinco a sete seguirão no dia de Natal, enquanto o final explosivo irá ao ar na véspera de Ano Novo.</p>",
+  "meta_description": "Criadores de Stranger Things confirmam que Eddie Munson, interpretado por Joseph Quinn, não retornará na 5ª temporada da série da Netflix. Saiba mais!",
+  "focus_keyphrase": "Eddie Munson Stranger Things 5",
+  "related_keyphrases": [
+    "Eddie Munson não volta",
+    "Stranger Things 5 elenco",
+    "Joseph Quinn Stranger Things"
+  ],
+  "slug": "stranger-things-5-eddie-munson-ausente",
+  "categorias": [
+    {
+      "nome": "Stranger Things",
+      "grupo": "obras",
+      "evidence": "‘Stranger Things’ Creators Confirm 1 Beloved Character Won’t Return in Season 5"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "editorias",
+      "evidence": "one of Netflix's best shows ever"
+    }
+  ],
+  "tags_sugeridas": [
+    "Stranger Things",
+    "Eddie Munson",
+    "Joseph Quinn",
+    "Netflix",
+    "Irmãos Duffer",
+    "Temporada 5",
+    "Mundo Invertido"
+  ],
+  "image_alt_texts": {
+    "20112487_poster_w780.jpg": "Eddie Munson (Joseph Quinn) em cena de Stranger Things"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Stranger Things 5: Criadores confirmam ausência de Eddie Munson | Netflix",
+    "_yoast_wpseo_metadesc": "Criadores de Stranger Things confirmam que Eddie Munson, interpretado por Joseph Quinn, não retornará na 5ª temporada da série da Netflix. Saiba mais!",
+    "_yoast_wpseo_focuskw": "Eddie Munson Stranger Things 5",
+    "_yoast_news_keywords": "Stranger Things, Eddie Munson, Joseph Quinn, Netflix, Irmãos Duffer, Temporada 5",
+    "_yoast_wpseo_opengraph-title": "Stranger Things 5: Criadores confirmam ausência de Eddie Munson",
+    "_yoast_wpseo_opengraph-description": "Eddie Munson, personagem amado de Joseph Quinn, não voltará para a temporada final de Stranger Things na Netflix, confirmam os Irmãos Duffer.",
+    "_yoast_wpseo_twitter-title": "Stranger Things 5: Criadores confirmam ausência de Eddie Munson",
+    "_yoast_wpseo_twitter-description": "Eddie Munson, personagem amado de Joseph Quinn, não voltará para a temporada final de Stranger Things na Netflix, confirmam os Irmãos Duffer."
+  }
+}

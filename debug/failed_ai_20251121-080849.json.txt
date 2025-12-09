@@ -1,0 +1,107 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "NCIS: Sean Murray desmente rumores de saída do ator da série",
+      "conteudo_final": "<p>Sean Murray, ator que interpreta Timothy McGee em <em>NCIS</em>, aborda os rumores sobre sua possível saída da série. Murray faz parte do elenco desde a primeira temporada, inicialmente com aparições pontuais e, a partir da segunda, como membro principal do elenco. Ao longo dos anos, ele se consolidou como um personagem central e um dos poucos remanescentes do início da franquia.</p><h2>Rumores de Saída de McGee</h2><p>Com o início da 23ª temporada, surgiram discussões online sobre um possível arco de saída para McGee, indicando que ele poderia estar buscando um novo caminho profissional. A série já presenciou a despedida de personagens importantes, como a saída de Mark Harmon, intérprete de Leroy Jethro Gibbs, em outubro de 2021.</p><p>Em declarações ao <em>TVLine</em>, Murray comentou sobre os boatos de sua saída. Ele reconhece que rumores circulam devido às reviravoltas inesperadas que os personagens podem enfrentar. O ator ressaltou que ninguém está completamente seguro na série, citando a morte de Caitlin Todd na segunda temporada como um exemplo de como as tramas podem tomar rumos surpreendentes.</p><blockquote><p>“Há sempre um elemento de fofoca que surge. As coisas podem tomar rumos grandes e inesperados com os personagens. Quero dizer, coisas podem acontecer. Ninguém está totalmente seguro nesta série. Fomos a série em que um dos personagens principais levou um tiro e morreu no final da segunda temporada.”</p></blockquote><h2>Novos Desenvolvimentos na Temporada</h2><p>Murray também antecipou algumas surpresas para o restante da 23ª temporada de <em>NCIS</em>, prometendo momentos impactantes para os fãs. Ele mencionou que a série já apresentou reviravoltas inesperadas e que, conforme a temporada avança, haverá desenvolvimentos que os espectadores vão gostar, pois serão diferentes e surpreendentes.</p><blockquote><p>“Tivemos algumas coisas realmente surpreendentes acontecendo... Posso dizer que há coisas chegando este ano que os fãs de longa data da série vão realmente gostar, porque é diferente para nós e inesperado.”</p></blockquote><p>Atualmente, não parece que uma eventual saída de McGee seria tão dramática quanto a morte de Caitlin Todd. A preocupação sobre McGee surge do fato de que sua carreira parece estagnada. Ele possui outros interesses, como a escrita, que poderiam ganhar prioridade diante de suas frustrações com Gabriel LaRoche e a perda de novas oportunidades de emprego. No entanto, como o próprio Murray observa, podem haver surpresas que os espectadores não estão considerando.</p><p>De qualquer forma, após a saída de Mark Harmon, McGee acumulou o maior número de episódios em <em>NCIS</em>. Se ele eventualmente sair, a despedida precisará ser satisfatória e fiel à personalidade do personagem. Ou, ao final da 23ª temporada, ficará claro que McGee não planeja ir a lugar algum.</p><p><em>NCIS</em> é exibida às terças-feiras, às 20h, na CBS.</p>",
+      "meta_description": "Sean Murray, o Timothy McGee de NCIS, aborda rumores sobre sua saída da série. O ator garante que há surpresas na 23ª temporada.",
+      "focus_keyphrase": "Sean Murray NCIS saída",
+      "related_keyphrases": [
+        "Timothy McGee NCIS",
+        "rumores NCIS Sean Murray",
+        "NCIS temporada 23"
+      ],
+      "slug": "ncis-sean-murray-desmente-saida",
+      "categorias": [
+        {
+          "nome": "NCIS",
+          "grupo": "franquias",
+          "evidence": "<em>NCIS</em> star Sean Murray addresses rumors that he's exiting the show."
+        },
+        {
+          "nome": "Timothy McGee",
+          "grupo": "personagens",
+          "evidence": "In the role of Timothy McGee, Murray has been with the decades-spanning CBS procedural since the first season."
+        },
+        {
+          "nome": "CBS",
+          "grupo": "plataformas",
+          "evidence": "<em>NCIS </em>season 23 airs Tuesdays at 8 p.m. ET on CBS."
+        }
+      ],
+      "tags_sugeridas": [
+        "NCIS",
+        "Sean Murray",
+        "Timothy McGee",
+        "CBS",
+        "TV Series"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "NCIS: Sean Murray desmente rumores de saída do ator da série",
+        "_yoast_wpseo_metadesc": "Sean Murray, o Timothy McGee de NCIS, aborda rumores sobre sua saída da série. O ator garante que há surpresas na 23ª temporada.",
+        "_yoast_wpseo_focuskw": "Sean Murray NCIS saída",
+        "_yoast_news_keywords": "NCIS, Sean Murray, Timothy McGee, CBS, TV Series, saída de ator, rumores",
+        "_yoast_wpseo_opengraph-title": "NCIS: Sean Murray desmente rumores de saída do ator da série",
+        "_yoast_wpseo_opengraph-description": "Sean Murray, o Timothy McGee de NCIS, aborda rumores sobre sua saída da série. O ator garante que há surpresas na 23ª temporada.",
+        "_yoast_wpseo_twitter-title": "NCIS: Sean Murray desmente rumores de saída do ator da série",
+        "_yoast_wpseo_twitter-description": "Sean Murray, o Timothy McGee de NCIS, aborda rumores sobre sua saída da série. O ator garante que há surpresas na 23ª temporada."
+      }
+    },
+    {
+      "titulo_final": "Pluribus: Final do Episódio 4 explica destino de Zosia e Carol",
+      "conteudo_final": "<p>O quarto episódio de <em>Pluribus</em> termina de forma sombria, com as ações de Carol quase levando Zosia à morte novamente. O episódio encerra com um grande cliffhanger, deixando o destino de Zosia em aberto.</p><h2>O Comportamento do Homem Imune do Paraguai</h2><p>No terceiro episódio, <em>Pluribus</em> revelou a existência de um homem do Paraguai imune ao vírus, que evitava ativamente os infectados. Carol tentou contatá-lo sem sucesso. O quarto episódio começa mostrando os extremos que este homem adota para evitar o contato com os infectados, evidenciando que, assim como Carol, ele se recusa a aceitar a nova realidade.</p><p>Este comportamento pode indicar que ele se tornará um aliado de Carol no futuro. Enquanto o episódio da série de ficção científica da Apple TV+ avança, Carol busca uma maneira de manipular Zosia para que revele como reverter a pandemia. No entanto, seus planos não saem como esperado.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/dce25759-f5d1-4111-8dad-dba37fdeceec-1.jpeg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Zosia em Pluribus, série da Apple TV+" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/dce25759-f5d1-4111-8dad-dba37fdeceec-1.jpeg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Zosia em Pluribus, série da Apple TV+</figcaption></figure><h2>O Plano de Carol para Extrair a Verdade de Zosia</h2><p>Carol leva Zosia para fora do hospital e a droga com um anestésico, na esperança de forçá-la a revelar como reverter a pandemia. No entanto, durante o interrogatório, os outros infectados cercam as duas. Para impedir que levem Zosia, Carol se acorrenta a ela.</p><p>Zosia parece prestes a contar a verdade, mas perde a consciência enquanto os infectados repetem: \"<em>Por favor, Carol!</em>\". Zosia entra em parada cardíaca, e Carol, sem saber, a machuca novamente. O episódio não revela o destino final de Zosia, mas é improvável que ela morra, dada sua importância como uma das personagens principais de <em>Pluribus</em>.</p><p>Se Zosia morrer ou for gravemente ferida, Carol se tornaria mais cautelosa ao confrontar os infectados. Ela poderia até desistir da busca por uma cura e se isolar, como o homem do Paraguai.</p><h2 id="plano-de-carol-para-fazer-zosia-contar-a-verdade-explicado">Plano de Carol para Fazer Zosia Contar a Verdade Explicado</h2><p>Carol lista as características comuns dos infectados: são honestos, possuem um fluxo interminável de informações factuais e estão dispostos a fazer qualquer coisa para agradar Carol. Após confirmar essas características, ela rouba tiopental sódico da farmácia do hospital, acreditando que o anestésico funcionará como um soro da verdade.</p><p>Ela testa a droga em si mesma e descobre que ela induz amnésia e prejudica o pensamento coerente. Esperando que os efeitos da droga a ajudassem a extrair a verdade de Zosia, ela a injeta. O plano de Carol quase funciona, mas a mente coletiva resiste e impede Zosia de revelar como a pandemia pode ser revertida. Com isso, o plano de Carol falha e Zosia entra em parada cardíaca.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/pluribus-image.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Carol em um caminhão olhando para fora da tela em Pluribus" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/pluribus-image.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Carol em um caminhão olhando para fora da tela em Pluribus</figcaption></figure><h2 id="por-que-zosia-nao-revela-como-a-pandemia-pode-ser-revertida">Por Que Zosia Não Revela Como a Pandemia Pode Ser Revertida</h2><p>Diferente dos humanos imunes como Carol, os infectados possuem um conjunto limitado de traços. Eles são felizes, detêm informações factuais e são extremamente cooperativos. No entanto, quando Carol pergunta a Zosia sobre a reversão da pandemia, ela se recusa a responder.</p>
+<p>Isso revela que, apesar de serem cooperativos, eles não podem falar sobre a reversão do vírus. O vírus possui um protocolo de sobrevivência que anula a obediência da mente coletiva. Se algo ameaça sua existência, este protocolo de defesa é ativado, explicando por que Zosia também jogou a granada da mão de Carol.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/untitled-design-393.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Carol preocupada e Zosia sorrindo em Pluribus" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/untitled-design-393.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Carol preocupada e Zosia sorrindo em Pluribus</figcaption></figure><h2 id="o-homem-imune-do-paraguai-ajudara-carol">O Homem Imune do Paraguai Ajudará Carol?</h2><p>Manousos Oviedo, o homem imune do Paraguai, anota o nome de Carol após ela ligar e abusar dele pela terceira vez. Ele faz isso porque percebe que, ao contrário dos infectados, Carol mantém sua capacidade de ser rude e desagradável. Com o nome de Carol como única pista, Oviedo pode finalmente sair de casa para encontrá-la.</p>
+<p>A maioria dos outros indivíduos imunes não era tão resistente quanto Carol. Todos pareciam conformados com a forma como o vírus mudou o mundo. Oviedo, no entanto, é muito parecido com Carol. Devido a isso, é provável que ele eventualmente se torne seu único aliado.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/rhea-seehorn-in-pluribus-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Rhea Seehorn em Pluribus" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/rhea-seehorn-in-pluribus-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Rhea Seehorn em Pluribus</figcaption></figure><h2 id="como-o-passado-de-carol-revela-o-verdadeiro-motivo-pelo-qual-ela-odeia-os-infectados">Como o Passado de Carol Revela o Verdadeiro Motivo Pelo Qual Ela Odeia os Infectados</h2><p>Durante sua conversa com Zosia no hospital, Carol relembra que foi enviada para o Camp Freedom Falls para terapia quando era muito jovem. Como ela revela no quarto episódio da série original da Apple TV, seu tempo no acampamento foi traumático porque os terapeutas eram algumas das piores pessoas que ela já conheceu. Os infectados a lembram deles porque os terapeutas fizeram coisas muito cruéis com ela, apesar de serem sorridentes e gentis por fora. Será interessante ver como essa revelação sobre o passado de Carol se conectará aos futuros arcos de história de <em>Pluribus</em>.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/rhea-seehorn-looking-distraught-in-pluribus-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Rhea Seehorn com semblante angustiado em Pluribus" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/rhea-seehorn-looking-distraught-in-pluribus-1.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Rhea Seehorn com semblante angustiado em Pluribus</figcaption></figure>",
+      "meta_description": "O episódio 4 de Pluribus revela o destino de Zosia após o plano de Carol e explica o motivo de seu ódio pelos infectados.",
+      "focus_keyphrase": "Pluribus episódio 4 Zosia Carol",
+      "related_keyphrases": [
+        "Pluribus Apple TV+",
+        "reversão da pandemia Pluribus",
+        "personagens imunes Pluribus"
+      ],
+      "slug": "pluribus-episodio-4-destino-zosia-carol",
+      "categorias": [
+        {
+          "nome": "Pluribus",
+          "grupo": "franquias",
+          "evidence": "<em><strong>Pluribus</strong></em>' episode 4 ends on a surprisingly dark note"
+        },
+        {
+          "nome": "Apple TV+",
+          "grupo": "plataformas",
+          "evidence": "the <a href=\"https://screenrant.com/apple-tv-plus-sci-fi-shows-ranked-worst-best/\" target=\"_blank\"><em>Apple TV sci-fi show</em></a>'s episode continues"
+        },
+        {
+          "nome": "Ficção Científica",
+          "grupo": "editorias",
+          "evidence": "the <a href=\"https://screenrant.com/apple-tv-plus-sci-fi-shows-ranked-worst-best/\" target=\"_blank\"><em>Apple TV sci-fi show</em></a>'s episode continues"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pluribus",
+        "Apple TV+",
+        "Zosia",
+        "Carol",
+        "Ficção Científica",
+        "Pandemia"
+      ],
+      "image_alt_texts": {
+        "dce25759-f5d1-4111-8dad-dba37fdeceec-1.jpeg": "Zosia em Pluribus, série da Apple TV+",
+        "pluribus-image.jpg": "Carol em um caminhão olhando para fora da tela em Pluribus",
+        "untitled-design-393.jpg": "Carol preocupada e Zosia sorrindo em Pluribus",
+        "rhea-seehorn-in-pluribus-2.jpg": "Rhea Seehorn em Pluribus",
+        "rhea-seehorn-looking-distraught-in-pluribus-1.jpg": "Rhea Seehorn com semblante angustiado em Pluribus"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pluribus: Final do Episódio 4 explica destino de Zosia e Carol",
+        "_yoast_wpseo_metadesc": "O episódio 4 de Pluribus revela o destino de Zosia após o plano de Carol e explica o motivo de seu ódio pelos infectados.",
+        "_yoast_wpseo_focuskw": "Pluribus episódio 4 Zosia Carol",
+        "_yoast_news_keywords": "Pluribus, Apple TV+, Zosia, Carol, Ficção Científica, Pandemia, série, episódio 4",
+        "_yoast_wpseo_opengraph-title": "Pluribus: Final do Episódio 4 explica destino de Zosia e Carol",
+        "_yoast_wpseo_opengraph-description": "O episódio 4 de Pluribus revela o destino de Zosia após o plano de Carol e explica o motivo de seu ódio pelos infectados.",
+        "_yoast_wpseo_twitter-title": "Pluribus: Final do Episódio 4 explica destino de Zosia e Carol",
+        "_yoast_wpseo_twitter-description": "O episódio 4 de Pluribus revela o destino de Zosia após o plano de Carol e explica o motivo de seu ódio pelos infectados."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Star Trek: Starfleet Academy não terá Vulcanos no elenco principal",
+  "conteudo_final": "<p>A nova série <em>Star Trek: Starfleet Academy</em> trará uma diversidade de espécies, incluindo Klingons, mas curiosamente, uma das raças mais icônicas da franquia parece estar ausente. A série, produzida por Alex Kurtzman e Noga Landau, tem estreia prevista para 15 de janeiro de 2026 no Paramount+.</p><p>Ambientada após o final de <em>Star Trek: Discovery</em>, no século XXXII, a série acompanha a primeira turma de cadetes a se matricular na Terra em 120 anos, representando a renascida Federação Unida de Planetas e sua diversidade após o evento conhecido como The Burn.</p><h2>Cadetes e Espécies em Starfleet Academy</h2><p><em>Starfleet Academy</em> apresentará novas espécies alienígenas, ao lado de clássicos como Klingons e Betazoides. A série conta com um personagem Klingon principal, o cadete Jay-Den Kraag (Karim Diané), e também híbridos Klingon/Tellarita, como o vilão interpretado por Paul Giamatti, Nus Braka. Até mesmo a Chanceler da Academia, Capitã Nahla Ake (Holly Hunter), é meio Lanthanita.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/video_id\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>Apesar de abraçar a \"infinita diversidade em infinitas combinações\", um dos alienígenas mais famosos de <em>Star Trek</em> parece não ter um papel de destaque, pelo menos na primeira temporada.</p><h2>Ausência de Personagens Vulcanos</h2><p>Surpreendentemente, <em>Star Trek: Starfleet Academy</em> não apresenta nenhum personagem Vulcan como protagonista no seu elenco principal. Embora seja provável que haja cadetes Vulcanos frequentando a Academia, a nova série não foca em um líder Vulcan nesta temporada inicial.</p><p>Para representar o escopo expandido da Federação no século XXXII, <em>Starfleet Academy</em> conta com três cadetes principais que pertencem a novas espécies na franquia: Genesis Lythe (Bella Shepard), uma Dar-Sha; Darem Reymi (George Hawkins), um Khioniano; e SAM (Kerrice Brooks), um Kasquiano que também é um ser holográfico programado como adulto.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/video_id\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>O Doutor (Robert Picardo) também leciona na série, 800 anos após ter mentorado a jovem tripulação da USS Protostar em <em>Star Trek: Prodigy</em>, temporada 2.</p><p>A ausência de um personagem Vulcan principal pode ser uma estratégia para evitar semelhanças com <em>Star Trek: Prodigy</em>, que na sua segunda temporada introduziu Maj'el (Michaela Dietz), uma Vulcan adolescente. <em>Prodigy</em> também se passava na Academia Estelar, mas no século XXIV.</p><h2>O Status dos Vulcanos no Século XXXII</h2><p>A série <em>Star Trek: Discovery</em>, temporada 3, revelou uma atualização significativa sobre os Vulcanos no século XXXII. Após a chegada da Comandante Michael Burnham (Sonequa Martin-Green) e da USS Discovery, descobriu-se que o planeta Vulcano foi renomeado Ni'Var, unindo-o com os Romulanos.</p><p>A reunificação entre Vulcanos e Romulanos foi um processo gradual, com a Ordem Qowat Milat, grupo de freiras guerreiras Romulanas (mencionado em <em>Star Trek: Picard</em>) e à qual pertencia a mãe de Michael Burnham, desempenhando um papel importante.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/video_id\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>Ni'Var é liderada pela Presidente T'Rina (Tara Rosling), uma Vulcan que se casou com o Embaixador Saru (Doug Jones) no final da temporada 5 de <em>Discovery</em>. Após a resolução do mistério de The Burn, Ni'Var reassumiu sua filiação à Federação.</p><p>É provável que Ni'Var tenha enviado Vulcanos e Romulanos para estudar na Academia Estelar, e estes poderão aparecer como personagens secundários ou figurantes em <em>Starfleet Academy</em>.</p><h2>Lições do Passado em Starfleet Academy</h2><p>A ambientação em <em>Star Trek: Starfleet Academy</em>, no final do século XXXII, a torna a mais distante linha do tempo contínua de <em>Star Trek</em>. Isso permite que todo o cânone anterior sirva como material de estudo para os cadetes.</p><p>Um exemplo é a história do Embaixador Spock. O filme <em>Star Trek</em> (2009) de J.J. Abrams estabeleceu que Spock estava em Romulus em 2387, trabalhando pela unificação e tentando salvar os Romulanos da sua supernova.</p><p>Após uma tentativa fracassada de usar Matéria Vermelha, Spock desapareceu em um buraco negro. Presume-se que ele morreu, mas <em>Star Trek: Discovery</em> revelou que a Federação tomou conhecimento da linha do tempo alternativa de Kelvin durante as Guerras Temporais.</p><p>No final do século XXXII, após essas guerras, a Federação certamente sabe que o Embaixador Spock viajou da linha do tempo Kelvin para a linha do tempo Prime, onde permaneceu até sua morte em 2263, como visto em <em>Star Trek Beyond</em>.</p><p>Em <em>Star Trek: Discovery</em>, a Comandante Michael Burnham, criada em Vulcano, descobriu o que aconteceu com seu irmão adotivo, Spock, e sua dedicação à unificação dos povos Vulcanos e Romulanos.</p><p>A vida e o destino de Spock podem servir como lições valiosas para os cadetes da Academia Estelar, e seu heroísmo pode inspirar tanto Vulcanos quanto outras espécies em <em>Star Trek: Starfleet Academy</em>.</p>",
+  "meta_description": "Star Trek: Starfleet Academy estreia em 2026 com foco em cadetes, mas a ausência de personagens Vulcanos chama atenção. Entenda o status dos Vulcanos no século XXXII.",
+  "focus_keyphrase": "Star Trek Starfleet Academy",
+  "related_keyphrases": [
+    "Star Trek Academia Estelar",
+    "Starfleet Academy elenco",
+    "Star Trek século XXXII"
+  ],
+  "slug": "star-trek-starfleet-academy-sem-vulcanos",
+  "categorias": [
+    {
+      "nome": "Starfleet Academy",
+      "grupo": "obras",
+      "evidence": "Star Trek: Starfleet Academy"
+    },
+    {
+      "nome": "Star Trek",
+      "grupo": "franquias",
+      "evidence": "Star Trek: Starfleet Academy"
+    },
+    {
+      "nome": "Paramount+",
+      "grupo": "editorias",
+      "evidence": "Paramount+"
+    }
+  ],
+  "tags_sugeridas": [
+    "Star Trek",
+    "Starfleet Academy",
+    "Paramount+",
+    "Klingon",
+    "Vulcano",
+    "Alex Kurtzman",
+    "Academia Estelar"
+  ],
+  "image_alt_texts": {
+    "starfleet-academy-cadets-friends-1.jpg": "Cadetes em Starfleet Academy, com foco em diversidade de espécies.",
+    "tara-rosling-as-vulcan-president-t-rina-in-star-trek-discovery-lagrange-point.jpg": "Presidente T'Rina, uma Vulcan que lidera Ni'Var em Star Trek: Discovery.",
+    "star-trek-discovery-unification-iii-spock-ni-var-burnham-book.jpg": "Referência a Spock e Ni'Var no contexto de Star Trek: Discovery.",
+    "star-trek_-starfleet-academy.jpg": "Logo oficial de Star Trek: Starfleet Academy."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Star Trek: Starfleet Academy Tem Klingons, Mas Ausenta Um Alien Clássico",
+    "_yoast_wpseo_metadesc": "Star Trek: Starfleet Academy estreia em 2026 com foco em cadetes, mas a ausência de personagens Vulcanos chama atenção. Entenda o status dos Vulcanos no século XXXII.",
+    "_yoast_wpseo_focuskw": "Star Trek Starfleet Academy",
+    "_yoast_news_keywords": "Star Trek,Starfleet Academy,Paramount+,Klingon,Vulcano,Alex Kurtzman,Academia Estelar",
+    "_yoast_wpseo_opengraph-title": "Star Trek: Starfleet Academy Terá Klingons, Mas o Que Aconteceu com os Vulcanos?",
+    "_yoast_wpseo_opengraph-description": "A série Star Trek: Starfleet Academy, com estreia prevista para 2026, promete trazer novas espécies e clássicos, mas a ausência de personagens Vulcanos como protagonistas levanta questões sobre o paradeiro da raça no século XXXII.",
+    "_yoast_wpseo_twitter-title": "Star Trek: Starfleet Academy: Cadetes, Klingons e a Falta de Vulcanos",
+    "_yoast_wpseo_twitter-description": "A nova série do universo Star Trek, Starfleet Academy, focará em cadetes. Saiba mais sobre as espécies presentes e a ausência notável dos Vulcanos."
+  }
+}

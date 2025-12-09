@@ -1,0 +1,62 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ghost of Yotei: Atualização 1.10 Corrige Bugs Críticos e de Desempenho",
+      "conteudo_final": "<p>O aguardado jogo <b>Ghost of Yotei</b>, desenvolvido pela Sucker Punch, recebeu uma nova atualização, a versão 1.10, focada em resolver diversos problemas remanescentes e falhas que afetavam a experiência dos jogadores. Desde seu lançamento em 2 de outubro, o título tem recebido um fluxo contínuo de correções menores para aprimorar a jogabilidade.</p>\n<p>A quantidade de atualizações lançadas pode surpreender, dado o excelente recebimento de <b>Ghost of Yotei</b> por crítica e público. O jogo já atingiu um marco de vendas significativo, ultrapassando 2 milhões de dólares em apenas três dias após o lançamento para PlayStation 5. Apesar do sucesso, a Sucker Punch mantém o foco em aprimorar a experiência para seus jogadores.</p>\n<h2>Correções e Melhorias na Atualização 1.10</h2>\n<p>A mais recente correção, lançada uma semana após a atualização anterior, segue a tendência de solucionar questões que, embora raras, causavam transtornos. Diversos gatilhos de travamento foram corrigidos, juntamente com um número considerável de bugs em missões. As correções variam desde problemas graves que bloqueavam o progresso até ajustes menores, como NPCs presos no cenário ou falhas no desbloqueio de itens para edições específicas.</p>\n<p>Uma atualização importante foi aplicada em <b>The Kitsune’s Fate</b>, uma das missões finais do jogo. Anteriormente, um bug que poderia travar a missão foi corrigido. Agora, um asset provisório que estava visível no caminho principal foi substituído, algo que o estúdio provavelmente não desejava que os jogadores vissem.</p>\n<h2>Conteúdo Pós-Lançamento e Multiplayer</h2>\n<p>Essas atualizações representam apenas a primeira fase dos planos pós-lançamento da Sucker Punch. Embora não haja planos anunciados para expansões de história, o estúdio já indicou o retorno do popular modo multiplayer <b>Legends</b>. Este modo cooperativo gratuito será adicionado em 2026, oferecendo desafios com duas missões de história e quatro de sobrevivência, com jogadores podendo escolher entre quatro classes de personagens.</p>\n<h2>Detalhes da Atualização 1.10</h2>\n<h3>Performance e Estabilidade</h3>\n<ul>\n<li>Correção para um raro travamento que podia ocorrer com ray tracing ativado.</li>\n<li>Correção para um raro travamento durante a missão “Poison and Lies” em situações específicas de backtracking com NPCs.</li>\n</ul>\n<h3>Gameplay</h3>\n<ul>\n<li>Corrigido um bug que impedia o desbloqueio da máscara Black Ghost para compradores da Digital Deluxe Edition após a missão “To Catch a Spider”.</li>\n<li>Corrigido um bug permanente de bloqueio de missão em “Fighting Fire with Fire” relacionado à indisponibilidade de flash bombs no treinamento.</li>\n<li>Corrigido um bug permanente de bloqueio de missão em “The Way of the Kusarigama” ao utilizar warp em um ponto específico.</li>\n<li>Corrigido um bug permanente de bloqueio de missão em “The Tale of the Oni” se o jogador evitasse a cena de upgrade de armadura e saísse da área.</li>\n<li>Corrigido um bug permanente de bloqueio de missão em “A Brokered Trust” após completar objetivos de forma não linear.</li>\n<li>Corrigido um bug permanente de bloqueio de missão em “Higashi Lumberyard” após salvar e sair após interrogar inimigos.</li>\n<li>Corrigido um bug permanente de bloqueio de missão em “Broken Horn Garrison” após a morte do jogador após eliminar todos os inimigos.</li>\n<li>Corrigido um bug permanente de bloqueio de missão em “The Kusarigama’s Shame” ao criar um acampamento em grama de furtividade.</li>\n<li>Corrigido um bug permanente de travamento do jogo ao subir em uma torre e reiniciar de checkpoint após falar com um NPC.</li>\n<li>Corrigido um bug em “Encounters of the Wild” onde a raposa podia ficar presa após recarregar o jogo.</li>\n<li>Corrigido um bug que permitia alterar o loadout durante o duelo com Kiku em “A Wolf’s Pack”.</li>\n<li>Corrigido um bug de loop de respawn permanente ao cair em um poço após completar um objetivo.</li>\n</ul>\n<h3>Ambiente</h3>\n<ul>\n<li>Substituído um asset provisório em um caminho principal da missão “The Kitsune’s Fate”.</li>\n</ul>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/ghost-of-yo-tei-press-image-1-1.jpg\" alt=\"Personagem principal de Ghost of Yotei em combate\"><figcaption>Ghost of Yotei recebe atualização para corrigir bugs.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/ghost-of-yo-tei-press-image-2-1.jpg\" alt=\"Cenário de Ghost of Yotei com foco em detalhamento visual\"><figcaption>Atualização 1.10 traz melhorias para Ghost of Yotei.</figcaption></figure>",
+      "meta_description": "Ghost of Yotei recebeu a atualização 1.10 com correções de bugs críticos, de performance e de travamento, além de melhorias no ambiente e gameplay.",
+      "focus_keyphrase": "Ghost of Yotei",
+      "related_keyphrases": [
+        "Ghost of Yotei atualização 1.10",
+        "Ghost of Yotei patch notes",
+        "Sucker Punch Ghost of Yotei"
+      ],
+      "slug": "ghost-of-yotei-atualizacao-110",
+      "categorias": [
+        {
+          "nome": "Ghost of Yotei",
+          "grupo": "obras",
+          "evidence": "Ghost of Yotei receives a new update from developer Sucker Punch"
+        },
+        {
+          "nome": "Sucker Punch",
+          "grupo": "editorias",
+          "evidence": "developer Sucker Punch"
+        },
+        {
+          "nome": "PlayStation 5",
+          "grupo": "franquias",
+          "evidence": "launch on the PlayStation 5"
+        }
+      ],
+      "tags_sugeridas": [
+        "Ghost of Yotei",
+        "Sucker Punch",
+        "PlayStation 5",
+        "Atualização",
+        "Patch Notes",
+        "Gaming",
+        "PS5"
+      ],
+      "image_alt_texts": {
+        "ghost-of-yo-tei-press-image-1-1.jpg": "Personagem principal de Ghost of Yotei em combate",
+        "ghost-of-yo-tei-press-image-2-1.jpg": "Cenário de Ghost of Yotei com foco em detalhamento visual",
+        "ghost-of-yo-tei-press-image-3-1.jpg": "Visão panorâmica de uma área em Ghost of Yotei",
+        "ghost-of-yo-tei-press-image-4-1.jpg": "Detalhe de um personagem em Ghost of Yotei",
+        "ghost-of-yo-tei-press-image-5-1.jpg": "Gameplay de ação em Ghost of Yotei",
+        "ghost-of-yotei-tag-page-cover-art.jpg": "Arte de capa oficial de Ghost of Yotei",
+        "ghost-of-yotei-atsu-voice-actors.jpg": "Personagem Atsu de Ghost of Yotei",
+        "ghost-of-yotei-photo-mode-guide.jpg": "Interface do modo foto em Ghost of Yotei"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ghost of Yotei: Atualização 1.10 Corrige Bugs Críticos e de Desempenho",
+        "_yoast_wpseo_metadesc": "Ghost of Yotei recebeu a atualização 1.10 com correções de bugs críticos, de performance e de travamento, além de melhorias no ambiente e gameplay.",
+        "_yoast_wpseo_focuskw": "Ghost of Yotei",
+        "_yoast_news_keywords": "Ghost of Yotei, Sucker Punch, PlayStation 5, Atualização 1.10, PS5",
+        "_yoast_wpseo_opengraph-title": "Ghost of Yotei: Atualização 1.10 Corrige Bugs Críticos e de Desempenho",
+        "_yoast_wpseo_opengraph-description": "Descubra todos os detalhes da atualização 1.10 de Ghost of Yotei, que aborda bugs de gameplay, travamentos e melhorias de performance.",
+        "_yoast_wpseo_twitter-title": "Ghost of Yotei: Atualização 1.10 Corrige Bugs Críticos e de Desempenho",
+        "_yoast_wpseo_twitter-description": "O mais recente patch para Ghost of Yotei, versão 1.10, resolve problemas de estabilidade e glitches que afetavam os jogadores no PS5."
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Duna 3: Arte de fã mostra confronto tenso entre Paul e novo personagem",
+      "conteudo_final": "<p>Uma arte de fã criada por <b>@bartosgyorgy</b> no X (anteriormente Twitter) sugere um confronto iminente entre Paul Atreides (Timothée Chalamet) e um novo personagem interpretado por Robert Pattinson em <em>Duna 3</em>. A terceira parte da trilogia de Denis Villeneuve promete introduzir novas figuras ao universo cinematográfico.</p><div class=\"w-rich w-twitter\" id=\"1991881390640845120\" style=\"min-height:648px;\"></div><p>A arte apresenta Paul Atreides vendado, com o reflexo sombrio de Pattinson em sua faca <em>crysknife</em>. Pattinson dará vida a Scytale, um Dançarino Facial Tleilaxu, que é um antagonista chave em <em>O Messias de Duna</em>. Seus poderes de metamorfose são sugeridos na arte, com os olhos de Pattinson desalinhados de forma peculiar.</p><h2>Alia Atreides e Duncan Idaho em Duna 3</h2><p>Anya Taylor-Joy, que fez uma breve aparição como Alia Atreides, irmã de Paul, em <em>Duna: Parte Dois</em>, terá um papel mais proeminente no próximo filme. A arte também sugere o retorno de Duncan Idaho (Jason Momoa), que teve uma morte aparente no primeiro filme.</p><p>Em outro pôster, a faca <em>crysknife</em> de Alia parece apresentar a Princesa Irulan, interpretada por Florence Pugh. A dinâmica entre Paul, Chani (Zendaya) e Irulan será central na trama, com Paul buscando um casamento político com Irulan enquanto mantém um amor genuíno por Chani.</p><h2>Tom mais sombrio e Giedi Prime</h2><p>Os pôsteres em preto e branco, segundo o criador, refletem o tom mais sombrio de <em>O Messias de Duna</em>. A ausência de cor também pode aludir à revelação sobre a ligação de Lady Jessica (Rebecca Ferguson) com o Barão Harkonnen.</p><p>O planeta natal dos Harkonnen, Giedi Prime, foi retratado em preto e branco em <em>Duna: Parte Dois</em>, e é possível que o local retorne no terceiro filme. Com as filmagens de <em>Duna: Part Three</em> concluídas, um primeiro vislumbre do filme pode ser revelado em breve, com a estreia prevista para dezembro de 2026.</p>",
+      "meta_description": "Arte de fã para Duna 3 mostra Timothée Chalamet como Paul Atreides em confronto com Robert Pattinson. Veja os detalhes.",
+      "focus_keyphrase": "Duna 3 arte de fã",
+      "related_keyphrases": [
+        "Duna 3 pôster",
+        "Paul Atreides vs Scytale",
+        "Robert Pattinson em Duna"
+      ],
+      "slug": "duna-3-arte-confronto-paul-pattinson",
+      "categorias": [
+        {
+          "nome": "Duna",
+          "grupo": "franquias",
+          "evidence": "rebooted Dune franchise"
+        }
+      ],
+      "tags_sugeridas": [
+        "Duna 3",
+        "Duna: Parte Três",
+        "Timothée Chalamet",
+        "Robert Pattinson",
+        "Denis Villeneuve",
+        "Arte de fã"
+      ],
+      "image_alt_texts": {
+        "bartosgyorgy-dune-3-poster-paul-scytale.jpg": "Arte de fã de Duna 3: Paul Atreides vendado em confronto com o reflexo de Scytale (Robert Pattinson) em sua crysknife."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Duna 3: Arte de fã mostra confronto tenso entre Paul e novo personagem",
+        "_yoast_wpseo_metadesc": "Arte de fã para Duna 3 mostra Timothée Chalamet como Paul Atreides em confronto com Robert Pattinson. Veja os detalhes.",
+        "_yoast_wpseo_focuskw": "Duna 3 arte de fã",
+        "_yoast_news_keywords": "Duna 3, Duna: Parte Três, Timothée Chalamet, Robert Pattinson, Denis Villeneuve, Arte de fã, Paul Atreides, Scytale",
+        "_yoast_wpseo_opengraph-title": "Duna 3: Arte de fã mostra confronto tenso entre Paul e novo personagem",
+        "_yoast_wpseo_opengraph-description": "Arte de fã para Duna 3 mostra Timothée Chalamet como Paul Atreides em confronto com Robert Pattinson. Veja os detalhes.",
+        "_yoast_wpseo_twitter-title": "Duna 3: Arte de fã mostra confronto tenso entre Paul e novo personagem",
+        "_yoast_wpseo_twitter-description": "Arte de fã para Duna 3 mostra Timothée Chalamet como Paul Atreides em confronto com Robert Pattinson. Veja os detalhes."
+      }
+    },
+    {
+      "titulo_final": "Wicked: For Good muda destino de Glinda; roteirista explica alteração",
+      "conteudo_final": "<p>A roteirista Dana Fox explica a significativa alteração no destino de Glinda (Ariana Grande-Butera) no final de <em>Wicked: For Good</em>. Fox e Winnie Holzman adaptaram o musical da Broadway para o cinema, introduzindo mudanças cruciais na narrativa.</p><h2>Glinda e o Grimmerie em Wicked: For Good</h2><p>No final de <em>Wicked: For Good</em>, Glinda consegue abrir o livro de feitiços conhecido como Grimmerie. Esta é uma mudança notável em relação à versão teatral, onde ela não demonstra habilidades mágicas.</p><p>Em entrevista ao <em>Deadline</em>, Fox detalha que a vulnerabilidade de Glinda ao admitir que não consegue ler o Grimmerie é um momento crucial. Essa admissão, especialmente após um flashback que mostra seu desejo infantil por magia, é o que, segundo a roteirista, a faz "merecer" a abertura do livro. No entanto, Fox ressalta que o final permite interpretações, sugerindo que Elphaba (Cynthia Erivo) pode ter aberto o livro para sua amiga à distância.</p><blockquote><p>“A performance e o fato de ela dizer isso e ter esse momento — essa é a sua maior vergonha. No filme, criamos a cena em que você a vê criança, seu profundo desejo e necessidade, e a ferida original que ela tem, e você entende o quão difícil é para Glinda dizer que não consegue acessar aquela magia. Essa é a coisa mais difícil para ela dizer e admitir. O fato de ela admitir, para mim, é por que acho que ela merece a abertura do Grimmerie para ela no final do filme, o que também não está na peça.</p><p>Winnie e eu estamos desesperadas para que tudo isso esteja aberto à interpretação de todos. E nós amamos o quanto as pessoas sentem que podem se encontrar nesses filmes, e elas podem descobrir se acham que isso significa uma coisa ou outra. E no final, quando Elphaba sorri e você não consegue dizer, é como, ela abriu para ela? Ela sabe que abriu para ela? Ela sentiu que abriu para ela? O que é isso? Esse deve ser o momento de todos decidirem como querem que seja e como se sentem sobre isso. Eu me arrepio só de pensar nesse final, embora. Eu o amo tanto.”</p></blockquote><h2>Mudanças da adaptação para o cinema</h2><p>O flashback da infância de Glinda é uma das várias alterações que <em>Wicked: For Good</em> faz em relação ao material original. A cena destaca a natureza frequentemente performática de Glinda, mas também revela seu profundo desejo por magia desde cedo, algo que ela tentava mascarar.</p><p>A interpretação de Fox sugere que Glinda finalmente acessa a magia real ao confrontar essa verdade. A mudança serve como preparação para o clímax, onde Glinda abre o Grimmerie, culminando em sua jornada para se tornar uma versão mais autêntica de si mesma.</p><p>Apesar da visão da roteirista, ela enfatiza que não há uma resposta "correta". A interpretação de que Elphaba usou sua magia para abrir o livro para a amiga, como um último presente, é igualmente válida.</p><h2>Futuro do universo Wicked</h2><p><em>Wicked: For Good</em> conclui a adaptação do musical, encerrando as histórias de Elphaba e Glinda. No entanto, já existem discussões sobre um novo filme para expandir o universo <em>Wicked</em>, com Holzman e o compositor Stephen Schwartz explorando novas possibilidades. Se isso se concretizar, mais detalhes sobre os poderes mágicos de Glinda e sua conexão com o Grimmerie poderão ser revelados.</p>",
+      "meta_description": "Roteirista de Wicked: For Good explica a mudança no final que permite a Glinda abrir o Grimmerie. Entenda a alteração.",
+      "focus_keyphrase": "Wicked For Good Glinda Grimmerie",
+      "related_keyphrases": [
+        "Wicked final explicado",
+        "Glinda ganha magia",
+        "Dana Fox sobre Wicked"
+      ],
+      "slug": "wicked-for-good-glinda-grimmerie-final",
+      "categorias": [
+        {
+          "nome": "Wicked",
+          "grupo": "franquias",
+          "evidence": "Wicked: For Good"
+        }
+      ],
+      "tags_sugeridas": [
+        "Wicked",
+        "Wicked: For Good",
+        "Glinda",
+        "Elphaba",
+        "Ariana Grande",
+        "Cynthia Erivo",
+        "Dana Fox"
+      ],
+      "image_alt_texts": {
+        "wicked-for-good-glinda-grimmerie-ending.jpg": "Glinda (Ariana Grande) em cena final de Wicked: For Good, com o livro Grimmerie em mãos."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wicked: For Good muda destino de Glinda; roteirista explica alteração",
+        "_yoast_wpseo_metadesc": "Roteirista de Wicked: For Good explica a mudança no final que permite a Glinda abrir o Grimmerie. Entenda a alteração.",
+        "_yoast_wpseo_focuskw": "Wicked For Good Glinda Grimmerie",
+        "_yoast_news_keywords": "Wicked, Wicked: For Good, Glinda, Elphaba, Ariana Grande, Cynthia Erivo, Dana Fox, Grimmerie",
+        "_yoast_wpseo_opengraph-title": "Wicked: For Good muda destino de Glinda; roteirista explica alteração",
+        "_yoast_wpseo_opengraph-description": "Roteirista de Wicked: For Good explica a mudança no final que permite a Glinda abrir o Grimmerie. Entenda a alteração.",
+        "_yoast_wpseo_twitter-title": "Wicked: For Good muda destino de Glinda; roteirista explica alteração",
+        "_yoast_wpseo_twitter-description": "Roteirista de Wicked: For Good explica a mudança no final que permite a Glinda abrir o Grimmerie. Entenda a alteração."
+      }
+    }
+  ]
+}

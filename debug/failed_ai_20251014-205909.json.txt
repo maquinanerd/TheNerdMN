@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pokémon Gen 10: Pikachu pode ganhar novo design em 2026",
+      "conteudo_final": "<p>Novos rumores sobre a 10ª geração de <b>Pokémon</b> sugerem que Pikachu, o famoso rato elétrico, poderá receber um novo design. As informações, que circulam nas redes sociais, indicam uma possível reformulação no visual do personagem para os próximos títulos principais da franquia.</p>\n\n<h2>Pikachu com novo visual para a 10ª Geração de Pokémon</h2>\n\n<p>Um novo modelo de Pikachu tem sido compartilhado, mostrando uma versão mais esguia em comparação ao seu design atual. A diferença é notável: a cabeça está mais arredondada e o corpo menos cilíndrico. Essa mudança levantou especulações sobre uma possível "dieta extrema" para o personagem, com alguns fãs brincando que ele pode estar passando por um tratamento de perda de peso.</p>\n\n<p>Apesar de não ser uma mudança totalmente esperada, o novo visual não foi rejeitado por todos. Observadores apontam que este modelo se assemelha à versão de Pikachu utilizada em materiais promocionais da <b>Nintendo</b> e em mercadorias oficiais. Isso sugere que a Game Freak pode estar buscando uma maior uniformidade visual para fins de marketing.</p>\n\n<p>Resta saber se outras criaturas populares da franquia também receberão novos modelos na 10ª geração. Com o lançamento previsto para 2026, segundo os vazamentos, não demorará muito para que a Game Freak faça um anúncio oficial, revelando todos os detalhes do próximo grande jogo da série <b>Pokémon Legends</b>.</p>\n\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/08/pokemon-z-a-cover-art-1.jpg\" alt=\"Capa de Pokémon Legends Z-A\"><figcaption>Arte de capa de Pokémon Legends Z-A.</figcaption></figure>\n\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/pokemon-legends-z-a-press-image-1.jpg\" alt=\"Imagem promocional de Pokémon Legends Z-A\"><figcaption>Cena do jogo Pokémon Legends Z-A.</figcaption></figure>\n\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/pokemon-legends-z-a-press-image-2.jpg\" alt=\"Imagem promocional de Pokémon Legends Z-A\"><figcaption>Outra cena do jogo Pokémon Legends Z-A.</figcaption></figure>",
+      "meta_description": "Rumores indicam que Pikachu pode ganhar um novo design na 10ª geração de Pokémon, prevista para 2026. Descubra os detalhes da possível reformulação.",
+      "focus_keyphrase": "Pikachu novo design Pokémon Gen 10",
+      "related_keyphrases": [
+        "Pokémon 10ª geração",
+        "Redesign Pikachu",
+        "Pokémon Legends Z-A"
+      ],
+      "slug": "pokemon-pikachu-redesign-gen-10",
+      "categorias": [
+        {
+          "nome": "Pokémon Legends Z-A",
+          "grupo": "obras",
+          "evidence": "pokemon-legends-z-a"
+        },
+        {
+          "nome": "Game Freak",
+          "grupo": "editorias",
+          "evidence": "Game Freak"
+        },
+        {
+          "nome": "Nintendo",
+          "grupo": "editorias",
+          "evidence": "Nintendo"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pokémon",
+        "Pikachu",
+        "Game Freak",
+        "Nintendo",
+        "Pokémon Gen 10",
+        "Pokémon Legends Z-A",
+        "Jogos de RPG"
+      ],
+      "image_alt_texts": {
+        "pokemon-z-a-cover-art-1.jpg": "Capa do jogo Pokémon Legends Z-A, com Pikachu em destaque.",
+        "pokemon-legends-z-a-press-image-1.jpg": "Cena de Pokémon Legends Z-A mostrando o novo design de Pikachu.",
+        "pokemon-legends-z-a-press-image-2.jpg": "Detalhe do cenário de Pokémon Legends Z-A com personagens."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pokémon Gen 10: Pikachu ganha novo design? Rumores indicam mudança em 2026",
+        "_yoast_wpseo_metadesc": "Rumores sobre a 10ª geração de Pokémon sugerem um novo design para Pikachu. Saiba mais sobre a possível reformulação do personagem para 2026.",
+        "_yoast_wpseo_focuskw": "Pikachu novo design Pokémon Gen 10",
+        "_yoast_news_keywords": "Pokémon, Pikachu, Game Freak, Nintendo, Pokémon Gen 10, Pokémon Legends Z-A, Redesign",
+        "_yoast_wpseo_opengraph-title": "Pokémon Gen 10: Pikachu ganha novo design? Rumores indicam mudança em 2026",
+        "_yoast_wpseo_opengraph-description": "Rumores sobre a 10ª geração de Pokémon sugerem um novo design para Pikachu. Saiba mais sobre a possível reformulação do personagem para 2026.",
+        "_yoast_wpseo_twitter-title": "Pokémon Gen 10: Pikachu ganha novo design? Rumores indicam mudança em 2026",
+        "_yoast_wpseo_twitter-description": "Rumores sobre a 10ª geração de Pokémon sugerem um novo design para Pikachu. Saiba mais sobre a possível reformulação do personagem para 2026."
+      }
+    }
+  ]
+}

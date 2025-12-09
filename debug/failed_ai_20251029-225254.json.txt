@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix: Comédia \"Nobody Wants This\" divide público na 2ª temporada",
+      "conteudo_final": "<p>A renovação de uma série de TV de sucesso geralmente garante uma nova temporada popular. No entanto, a <a href=\"https:
+      "meta_description": "Segunda temporada de \"Nobody Wants This\" na Netflix divide público e crítica com recepção mista, apesar de sucesso inicial de audiência.",
+      "focus_keyphrase": "Nobody Wants This segunda temporada",
+      "related_keyphrases": [
+        "Netflix Nobody Wants This",
+        "Adam Brody Kristen Bell",
+        "comédia Netflix"
+      ],
+      "slug": "nobody-wants-this-temporada-netflix-divisao",
+      "categorias": [
+        {
+          "nome": "Nobody Wants This",
+          "grupo": "obras",
+          "evidence": "The streamer’s comedy Nobody Wants This made its return for Season 2"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix’s Returning Comedy Is an Instant Streaming Success"
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "Nobody Wants This",
+        "Adam Brody",
+        "Kristen Bell",
+        "Comédia Romântica",
+        "Streaming"
+      ],
+      "image_alt_texts": {
+        "Ex-Machina.jpg": "Adam Brody e Kristen Bell em cena da série Nobody Wants This da Netflix.",
+        "Halo-Campaign-Evolved-1.jpg": "Cena da segunda temporada da comédia romântica Nobody Wants This.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Adam Brody como Noah em Nobody Wants This.",
+        "PlayStation-Plus-Stray.jpg": "Kristen Bell como Joanne na série Nobody Wants This.",
+        "hbo-david-chase-new-series-mkultra-stranger-things.jpg": "Adam Brody e Kristen Bell em momento divertido em Nobody Wants This.",
+        "netflix-nobody-wants-this.jpg": "Elenco da série Netflix Nobody Wants This.",
+        "nightfall-movie.jpg": "Casal protagonista em cena da Netflix Nobody Wants This.",
+        "nobody-wants-this-netflix.jpg": "Adam Brody e Kristen Bell em cena da segunda temporada de Nobody Wants This."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: \"Nobody Wants This\" divide público na 2ª temporada",
+        "_yoast_wpseo_metadesc": "Segunda temporada de \"Nobody Wants This\" na Netflix divide público e crítica com recepção mista, apesar de sucesso inicial de audiência.",
+        "_yoast_wpseo_focuskw": "Nobody Wants This segunda temporada",
+        "_yoast_news_keywords": "Nobody Wants This, Netflix, Adam Brody, Kristen Bell, Comédia Romântica, Streaming, Nobody Wants This segunda temporada",
+        "_yoast_wpseo_opengraph-title": "Netflix: \"Nobody Wants This\" divide público na 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Segunda temporada de \"Nobody Wants This\" na Netflix divide público e crítica com recepção mista, apesar de sucesso inicial de audiência.",
+        "_yoast_wpseo_twitter-title": "Netflix: \"Nobody Wants This\" divide público na 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Segunda temporada de \"Nobody Wants This\" na Netflix divide público e crítica com recepção mista, apesar de sucesso inicial de audiência."
+      }
+    }
+  ]
+}

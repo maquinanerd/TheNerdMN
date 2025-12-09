@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Genie, Make A Wish: K-drama de fantasia conquista Netflix",
+      "conteudo_final": "<p>O fenômeno dos K-dramas continua a dominar a internet e as telas. A Netflix oferece um vasto catálogo de séries sul-coreanas aclamadas, como <b>Alchemy of Souls</b> (fantasia), <b>Celebrity</b> (thriller romântico) e <b>My Demon</b> (romance entre demônio e herdeira). Recentemente, uma nova produção se destacou, alcançando a 6ª posição na lista global de séries mais assistidas da plataforma, segundo dados do Flixpatrol.</p><h2>Netflix: Novo K-drama de Fantasia é Sucesso Inesperado</h2><p>A série original da Netflix, <b>Genie, Make A Wish</b>, classificada como comédia romântica com toques de fantasia, estreou em 3 de outubro. A trama acompanha Iblis, um gênio libertado de sua lâmpada após quase mil anos. Sua libertadora é Ka-young, a reencarnação da psicopata que o aprisionou. Agora, Iblis precisa conceder três desejos a ela. A premissa questiona: “Será que sua magia pode transformar o mundo rotineiro dela em um conto de amor e fantasia?”</p><h2>O Que Torna Genie, Make A Wish um Sucesso?</h2><p>A série tem conquistado a internet com sua abordagem única. É divertida, envolvente e bem escrita, apresentando um conceito raro e uma releitura peculiar de um mito conhecido. Um usuário no Reddit comentou: “Exatamente tão maluco quanto eu esperava, já que a premissa é um gênio tentando corromper uma psicopata. Mas estou agradavelmente surpreso.”</p><p>Embora possa ter passado despercebida por parte do público mainstream, <b>Genie, Make A Wish</b> tem potencial para se tornar um clássico cult. Outro espectador no Reddit expressou surpresa pela série não ter explodido em popularidade, comparando-a ao sucesso de outros títulos. Em suma, <b>Genie, Make A Wish</b> é uma dramédia romântica peculiar que aborda temas sombrios de maneira leve e divertida. Distanciando-se da típica história de donzela em perigo, a trama foca em uma mulher psicopata se apaixonando por uma figura demoníaca, o que traz um frescor à narrativa. A série é sombria, engraçada e subverte expectativas.</p><p>Você já assistiu <b>Genie, Make A Wish</b>? Compartilhe suas opiniões nos comentários.</p>",
+      "meta_description": "Genie, Make A Wish, novo K-drama de fantasia da Netflix, conquista top 10 global. Descubra a história única de um gênio e uma psicopata.",
+      "focus_keyphrase": "Genie, Make A Wish",
+      "related_keyphrases": [
+        "K-drama Netflix",
+        "séries de fantasia",
+        "comédia romântica coreana"
+      ],
+      "slug": "genie-make-a-wish-k-drama-netflix",
+      "categorias": [
+        {
+          "nome": "Genie, Make A Wish",
+          "grupo": "obras",
+          "evidence": "Genie, Make A Wish a Netflix original, touted as a romantic comedy with a fantasy flair"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix boasts a huge list of beloved and highly rated K-dramas"
+        },
+        {
+          "nome": "K-drama",
+          "grupo": "franquias",
+          "evidence": "K-dramas have been taking the internet"
+        }
+      ],
+      "tags_sugeridas": [
+        "Genie Make A Wish",
+        "K-drama",
+        "Netflix",
+        "Séries de Fantasia",
+        "Comédia Romântica",
+        "Dramédia Coreana"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Genie, Make A Wish: K-drama de fantasia conquista Netflix com história única",
+        "_yoast_wpseo_metadesc": "Genie, Make A Wish, novo K-drama de fantasia da Netflix, conquista top 10 global. Descubra a história única de um gênio e uma psicopata.",
+        "_yoast_wpseo_focuskw": "Genie, Make A Wish",
+        "_yoast_news_keywords": "Genie Make A Wish, K-drama, Netflix, Séries de Fantasia, Comédia Romântica",
+        "_yoast_wpseo_opengraph-title": "Genie, Make A Wish: K-drama de fantasia conquista Netflix",
+        "_yoast_wpseo_opengraph-description": "Genie, Make A Wish, novo K-drama de fantasia da Netflix, conquista top 10 global. Descubra a história única de um gênio e uma psicopata.",
+        "_yoast_wpseo_twitter-title": "Genie, Make A Wish: K-drama de fantasia conquista Netflix",
+        "_yoast_wpseo_twitter-description": "Genie, Make A Wish, novo K-drama de fantasia da Netflix, conquista top 10 global. Descubra a história única de um gênio e uma psicopata."
+      }
+    }
+  ]
+}

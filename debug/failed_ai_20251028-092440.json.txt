@@ -1,0 +1,60 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "WWE: Teasers Misteriosos Causam Decepção em Fãs Pela Promoção de WrestleMania 42",
+      "conteudo_final": "<p>A <b>WWE</b> manteve os fãs em polvorosa com vídeos enigmáticos nas redes sociais, que alimentaram a especulação sobre grandes retornos na edição do <b>Monday Night Raw</b>. Os teasers iniciais, focados em detalhes como sapatos, sugeriam a volta de superastros como Gunther ou Brock Lesnar. Conforme a noite avançava, novos vídeos continuaram a ser divulgados durante o programa.</p><h2>O Mistério dos Teasers da WWE</h2><p>Os vídeos misteriosos foram exibidos ao longo do <b>Monday Night Raw</b>. Enquanto os primeiros focavam em calçados, os novos clipes apresentavam closes de mãos, possivelmente de Paul Heyman, e alguém servindo uma bebida. O entusiasmo por um possível retorno de grandes nomes, que chegou a incluir Chris Jericho em algumas teorias, deu lugar à suspeita de que tudo estaria ligado à <b>WrestleMania 42</b>. O vídeo final, com uma ficha de pôquer girando e revelando o ano de 2026, confirmou essa linha de pensamento.</p><h2>WrestleMania 42 e a Decepção dos Fãs</h2><p>A <b>WrestleMania 42</b> será realizada novamente em Las Vegas. A campanha enigmática, na verdade, era uma publicidade para o evento e sua localização. Sem novidades sobre a venda de ingressos ou outros anúncios significativos, a promoção deixou fãs que estavam ansiosos pelo que os teasers poderiam revelar profundamente decepcionados.</p><p>Nas redes sociais, fãs expressaram sua frustração. Um usuário comentou: “Não me diga… Wrestlemania em… Vegas no ano que vem?”. Outro questionou: “Por que passar por todo esse nonsense críptico por algo que já sabemos que vai acontecer?”. A comparação com outros anúncios também surgiu: “Eu não sei quando @TripleH e @WWE vão aprender que se você teaser algo, deve ter uma grande recompensa, porque as pessoas vão especular o que é e depois criticar qualquer coisa que não atenda ao nível de sua especulação. Isso é tão ruim quanto os 'anúncios enormes' de Tony Khan”.</p><p>Outra crítica apontou a estratégia da <b>WWE</b> em instigar a especulação desde o início: “Jeito estúpido de teaser a Wrestlemania porque a WWE sabe que as pessoas especulam sobre essas coisas”. Um comentário resumiu o sentimento geral: “Entendemos. WrestleMania é em Las Vegas de novo.”</p><h2>Um Payoff Insatisfatório</h2><p>Já era conhecido que a <b>WrestleMania 42</b> aconteceria em Las Vegas. Sem informações adicionais como parte da revelação, a campanha parece ter sido, na melhor das hipóteses, um comercial antecipado da WrestleMania 42 e, na pior, uma série de teasers com um desfecho decepcionante. Embora haja a possibilidade de mais informações serem adicionadas posteriormente, o final da iniciativa deixou a desejar, e a decepção dos fãs é compreensível.</p>",
+      "meta_description": "WWE lança teasers enigmáticos que decepcionam fãs ao serem revelados como promoção antecipada da WrestleMania 42 em Las Vegas.",
+      "focus_keyphrase": "WWE Teasers",
+      "related_keyphrases": [
+        "WrestleMania 42",
+        "Monday Night Raw",
+        "WWE Fãs Decepcionados"
+      ],
+      "slug": "wwe-teasers-decepcao-wrestlemania-42",
+      "categorias": [
+        {
+          "nome": "WWE",
+          "grupo": "franquias",
+          "evidence": "WWE had fans talking all day with several cryptic teaser videos on social media"
+        },
+        {
+          "nome": "Monday Night Raw",
+          "grupo": "obras",
+          "evidence": "big returns on Monday Night Raw"
+        },
+        {
+          "nome": "WrestleMania",
+          "grupo": "franquias",
+          "evidence": "tied to WrestleMania 42"
+        }
+      ],
+      "tags_sugeridas": [
+        "wwe",
+        "wrestlemania",
+        "monday night raw",
+        "paul heyman",
+        "wrestling",
+        "tv"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Logo promocional da WWE, possivelmente relacionado a jogos.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_8d231e.png": "Imagem promocional da WWE, com foco em games.",
+        "Ex-Machina.jpg": "Imagem promocional da WWE, possivelmente ligada a um filme.",
+        "Firefly-Out-of-Gas-episode.jpg": "Imagem promocional da WWE, possivelmente de uma série.",
+        "Halo-Combat-Evolved.jpg": "Imagem promocional da WWE, com referência a jogos.",
+        "mackenzie-davis.jpg": "Foto promocional da WWE, com atriz.",
+        "stephen-king-misery.jpg": "Imagem promocional da WWE, possivelmente relacionada a Stephen King."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "WWE: Teasers Misteriosos Causam Decepção em Fãs pela Promoção de WrestleMania 42",
+        "_yoast_wpseo_metadesc": "WWE lança teasers enigmáticos que decepcionam fãs ao serem revelados como promoção antecipada da WrestleMania 42 em Las Vegas.",
+        "_yoast_wpseo_focuskw": "WWE Teasers",
+        "_yoast_news_keywords": "WWE, WrestleMania 42, Monday Night Raw, Paul Heyman, Brock Lesnar, Gunther, Wrestling, Las Vegas",
+        "_yoast_wpseo_opengraph-title": "WWE: Teasers Misteriosos Causam Decepção em Fãs pela Promoção de WrestleMania 42",
+        "_yoast_wpseo_opengraph-description": "WWE lança teasers enigmáticos que decepcionam fãs ao serem revelados como promoção antecipada da WrestleMania 42 em Las Vegas.",
+        "_yoast_wpseo_twitter-title": "WWE: Teasers Misteriosos Causam Decepção em Fãs pela Promoção de WrestleMania 42",
+        "_yoast_wpseo_twitter-description": "WWE lança teasers enigmáticos que decepcionam fãs ao serem revelados como promoção antecipada da WrestleMania 42 em Las Vegas."
+      }
+    }
+  ]
+}

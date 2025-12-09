@@ -1,0 +1,107 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "High Potential: Série da ABC domina o Disney+ após estreia da 2ª temporada",
+      "conteudo_final": "<p>Da equipe criativa de <i>Castle</i> e <i>The X-Files</i>, uma forte parceria central é o ingrediente secreto de qualquer ótimo procedural policial. E a série da ABC, <b>High Potential</b>, acertou em cheio. A dupla peculiar da série, formada por <b>Kaitlin Olson</b> como a consultora rebelde Morgan Gillory e <b>Daniel Sunjata</b> como o detetive certinho Adam Karadec, se tornou um dos melhores relacionamentos de desenvolvimento lento da TV. E o público está respondendo. Após a estreia da 2ª temporada, <b>High Potential</b> está dominando a parada de streaming do Disney+, subindo para o top três das séries mais assistidas da plataforma em outubro de 2025.</p>\n<p>Após uma onda de procedurais esquecíveis tentarem recapturar a magia de <i>Castle</i>, <b>High Potential</b> provou ser a verdadeira joia — tanto crítica quanto comercialmente. A série detém uma pontuação de 90% no Rotten Tomatoes, com críticos elogiando o timing afiado de Olson e sua química com Sunjata como \"facilmente fundamentada\".</p>\n<p>Os três primeiros episódios da 2ª temporada equilibraram casos de alto risco com recompensas emocionais de desenvolvimento lento, focando no retorno do principal vilão da série, enquanto continuavam a evoluir a dinâmica entre Morgan e Karadec. Mas é o quarto episódio, \"Behind the Music\", que conquistou os fãs — e frases de efeito.</p>\n<p>No episódio de destaque, a Unidade de Crimes Maiores investiga dois assassinatos com décadas de diferença, enquanto Selena (Judy Reyes) lida com ser preterida para uma promoção. Em meio ao caos, Morgan e Karadec compartilham um passeio de carro tranquilo que se torna um dos momentos mais carregados emocionalmente da série até agora.</p>\n<h2>Vale a Pena Assistir High Potential?</h2>\n<p>A crítica do <b>Collider</b> elogiou a performance de Olson, afirmando que \"o procedural da ABC permite que Olson mostre toda a amplitude de seus talentos em vez de forçá-la a se apoiar principalmente em louros cômicos, como seu papel de longa data em <b>It's Always Sunny in Philadelphia</b> frequentemente teve\".</p>\n<blockquote><p>Apesar das deficiências, <b>High Potential</b> definitivamente ostenta um estilo episódico divertido, que nos dá um olhar mais profundo sobre o funcionamento avançado da mente de seu protagonista. Enquanto a equipe discute suas várias teorias, cortes rápidos para pequenos apartes ilustram a capacidade de Morgan de processar certas evidências e contextualizá-las com o que ela conseguiu reter por anos. Esses intervalos também injetam visuais ousados e emocionantes no que poderia ser, de outra forma, uma fórmula procedural previsível, permitindo que a série se diferencie de seus concorrentes em outras redes. Após três episódios, <b>High Potential</b> tem muito tempo para cumprir seu título — mas com a performance peculiar e de destaque de Olson liderando o caminho e uma premissa envolvente que não se estende demais, já é um ótimo começo.</p></blockquote>\n<p>Novos episódios de <b>High Potential</b> vão ao ar às terças-feiras às 22h na ABC e ficam disponíveis para streaming no dia seguinte no Disney+.</p>\n<figure>\n<img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/08/high-potential-2024.jpg\" alt=\"Kaitlin Olson como Morgan Gillory em High Potential\">\n<figcaption>Kaitlin Olson estrela como a consultora Morgan Gillory na série da ABC.</figcaption>\n</figure>\n<figure>\n<img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/daniel-sunjata-as-adam-karadec-garret-dillahunt-as-lieutenant-melon-judy-reyes-as-selena-soto-keith-david-as-captain-pacheco-and-kaitlin-olson-as-morgan-gillory-in-high-potential-season-1-episode-11.jpg\" alt=\"Daniel Sunjata como Detetive Adam Karadec e Kaitlin Olson como Morgan Gillory em cena de High Potential\">\n<figcaption>A dinâmica entre Morgan e Karadec é um dos pontos altos da série.</figcaption>\n</figure>\n<figure>\n<img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/daphne-and-oz-smile-knowingly-on-high-potential-season-1.jpg\" alt=\"Daphne e Oz em cena de High Potential\">\n<figcaption>A série explora casos complexos com um toque único.</figcaption>\n</figure>",
+      "meta_description": "High Potential, série da ABC com Kaitlin Olson, ganha nova vida no Disney+ e conquista público e crítica com sua segunda temporada.",
+      "focus_keyphrase": "High Potential série ABC Disney+",
+      "related_keyphrases": [
+        "Kaitlin Olson High Potential",
+        "Série policial de sucesso",
+        "High Potential streaming"
+      ],
+      "slug": "high-potential-serie-abc-disney-plus",
+      "categorias": [
+        {
+          "nome": "High Potential",
+          "grupo": "obras",
+          "evidence": "ABC’s High Potential"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "dominating Disney+’s streaming chart"
+        },
+        {
+          "nome": "ABC",
+          "grupo": "emissoras",
+          "evidence": "ABC’s High Potential"
+        }
+      ],
+      "tags_sugeridas": [
+        "High Potential",
+        "Kaitlin Olson",
+        "Daniel Sunjata",
+        "Procedural Policial",
+        "Disney+",
+        "ABC"
+      ],
+      "image_alt_texts": {
+        "high-potential-2024.jpg": "Kaitlin Olson como Morgan Gillory em High Potential",
+        "daniel-sunjata-as-adam-karadec-garret-dillahunt-as-lieutenant-melon-judy-reyes-as-selena-soto-keith-david-as-captain-pacheco-and-kaitlin-olson-as-morgan-gillory-in-high-potential-season-1-episode-11.jpg": "Daniel Sunjata como Detetive Adam Karadec e Kaitlin Olson como Morgan Gillory em cena de High Potential",
+        "daphne-and-oz-smile-knowingly-on-high-potential-season-1.jpg": "Daphne e Oz em cena de High Potential"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "High Potential: Série da ABC domina o Disney+ com sucesso na 2ª temporada",
+        "_yoast_wpseo_metadesc": "High Potential, série da ABC com Kaitlin Olson, ganha nova vida no Disney+ e conquista público e crítica com sua segunda temporada.",
+        "_yoast_wpseo_focuskw": "High Potential série ABC Disney+",
+        "_yoast_news_keywords": "High Potential, Kaitlin Olson, Daniel Sunjata, ABC, Disney+, Procedural Policial",
+        "_yoast_wpseo_opengraph-title": "High Potential: Série da ABC domina o Disney+ com sucesso na 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "High Potential, série da ABC com Kaitlin Olson, ganha nova vida no Disney+ e conquista público e crítica com sua segunda temporada.",
+        "_yoast_wpseo_twitter-title": "High Potential: Série da ABC domina o Disney+ com sucesso na 2ª temporada",
+        "_yoast_wpseo_twitter-description": "High Potential, série da ABC com Kaitlin Olson, ganha nova vida no Disney+ e conquista público e crítica com sua segunda temporada."
+      }
+    },
+    {
+      "titulo_final": "Blue Bloods: Série cancelada revive no streaming com spin-off de sucesso",
+      "conteudo_final": "<p>A CBS pode ter encerrado <b>Blue Bloods</b> no ano passado, mas os fãs estão provando que a história da família Reagan está longe de acabar. O lendário drama policial, que concluiu sua 14ª temporada em dezembro de 2024, está encontrando uma nova e massiva vida no Paramount+ — justamente quando a série derivada <b>Boston Blue</b> chega para quebrar recordes. Seria como se nunca devesse ter sido cancelada?</p>\n<p>Quando a CBS confirmou no início de 2024 que <b>Blue Bloods</b> terminaria após 14 temporadas, fãs e membros do elenco expressaram abertamente sua decepção. A estrela da série, <b>Tom Selleck</b>, que interpretou o Comissário Frank Reagan, agradeceu aos espectadores pela lealdade, dizendo:</p>\n<blockquote>\n<p>“Pelos últimos 13 anos, tem sido uma honra e um privilégio trabalhar em um programa que não apenas celebra os homens e mulheres que protegem e servem na cidade de Nova York, mas também exibiu a importância da família.”</p>\n</blockquote>\n<p>Amy Reisenbach, presidente da CBS Entertainment, citou a necessidade da emissora de \"refrescar a programação\", enfatizando que \"todos os programas têm que chegar ao fim\".</p>\n<p>Mas mesmo quando <b>Blue Bloods</b> encerrou sua longa trajetória, não demorou para que seu universo se expandisse. <b>Boston Blue</b> marca o primeiro spin-off oficial — e a julgar pelos números, pode já ter garantido o futuro da franquia.</p>\n<h2>O que é 'Boston Blue'?</h2>\n<p>O primeiro episódio de <b>Boston Blue</b> estreou na CBS na última sexta-feira antes de ir para o Paramount+ no dia seguinte, e os resultados foram imediatos. A nova série — oficialmente parte do universo <b>Blue Bloods</b> — já se tornou um dos programas mais assistidos no Paramount+ em outubro e discretamente quebrou um recorde da franquia com uma pontuação perfeita de 100% no Rotten Tomatoes (com base em críticas iniciais).</p>\n<p>Intitulado \"Faith and Family\", o episódio piloto acompanha o ex-detetive do NYPD Danny Reagan (<b>Donnie Wahlberg</b>) enquanto ele se muda para Boston para ingressar no departamento de polícia da cidade. Lá, ele faz parceria com Lena Silver (Sonequa Martin-Green), a filha de uma renomada família de aplicação da lei de Boston com seu próprio passado complicado — e uma conexão com os Reagan.</p>\n<p>Além de Donnie Wahlberg como Danny Reagan e Sonequa Martin-Green como Lena Silver, <b>Boston Blue</b> também estrela Maggie Lawson como Sarah Silver, Marcus Scribner como Jonah Silver, Mika Amonsen como Sean Reagan, Gloria Reuben como Mae Silver, <b>Ernie Hudson</b> como Reverendo Edwin Peters, Bridget Moynahan como Erin Reagan, e mais. <b>Jerry Bruckheimer</b> está produzindo executivamente <b>Boston Blue</b> ao lado da estrela Donnie Wahlberg. Anthony Hemingway, Jackeline Tejada e Randy Zisk estão todos confirmados para dirigir episódios da 1ª temporada de <b>Boston Blue</b>.</p>\n<p>Novos episódios de <b>Boston Blue</b> vão ao ar às sextas-feiras na CBS e são transmitidos aos sábados no Paramount+.</p>\n<figure>\n<img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/0315402_poster_w780.jpg\" alt=\"Pôster da série Boston Blue com Donnie Wahlberg\">\n<figcaption>Boston Blue, o novo spin-off de Blue Bloods, já é um sucesso no streaming.</figcaption>\n</figure>",
+      "meta_description": "Blue Bloods encontra nova vida no Paramount+ e seu spin-off, Boston Blue, estreia com sucesso, mostrando a força duradoura da franquia policial.",
+      "focus_keyphrase": "Blue Bloods spin-off Boston Blue",
+      "related_keyphrases": [
+        "Blue Bloods Paramount+",
+        "Sucesso de audiência Boston Blue",
+        "Franquia policial CBS"
+      ],
+      "slug": "blue-bloods-spin-off-boston-blue-sucesso",
+      "categorias": [
+        {
+          "nome": "Blue Bloods",
+          "grupo": "obras",
+          "evidence": "Blue Bloods"
+        },
+        {
+          "nome": "Boston Blue",
+          "grupo": "obras",
+          "evidence": "Boston Blue"
+        },
+        {
+          "nome": "Paramount+",
+          "grupo": "plataformas",
+          "evidence": "finding a massive second life on Paramount+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Blue Bloods",
+        "Boston Blue",
+        "Donnie Wahlberg",
+        "Tom Selleck",
+        "Paramount+",
+        "CBS",
+        "Jerry Bruckheimer"
+      ],
+      "image_alt_texts": {
+        "0315402_poster_w780.jpg": "Pôster da série Boston Blue com Donnie Wahlberg"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Blue Bloods: Série cancelada revive no streaming com spin-off de sucesso",
+        "_yoast_wpseo_metadesc": "Blue Bloods encontra nova vida no Paramount+ e seu spin-off, Boston Blue, estreia com sucesso, mostrando a força duradoura da franquia policial.",
+        "_yoast_wpseo_focuskw": "Blue Bloods spin-off Boston Blue",
+        "_yoast_news_keywords": "Blue Bloods, Boston Blue, Donnie Wahlberg, Tom Selleck, CBS, Paramount+, Jerry Bruckheimer",
+        "_yoast_wpseo_opengraph-title": "Blue Bloods: Série cancelada revive no streaming com spin-off de sucesso",
+        "_yoast_wpseo_opengraph-description": "Blue Bloods encontra nova vida no Paramount+ e seu spin-off, Boston Blue, estreia com sucesso, mostrando a força duradoura da franquia policial.",
+        "_yoast_wpseo_twitter-title": "Blue Bloods: Série cancelada revive no streaming com spin-off de sucesso",
+        "_yoast_wpseo_twitter-description": "Blue Bloods encontra nova vida no Paramount+ e seu spin-off, Boston Blue, estreia com sucesso, mostrando a força duradoura da franquia policial."
+      }
+    }
+  ]
+}

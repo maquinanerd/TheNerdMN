@@ -1,0 +1,85 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Dreamworks: Série Animada Deixa Netflix e Chega ao Peacock com Problemas",
+      "conteudo_final": "<p>Uma popular série animada da DreamWorks, anteriormente disponível na Netflix, agora migra para o Peacock. No entanto, essa mudança traz consigo um desafio significativo que pode afetar a experiência dos fãs.</p><h2>A Mudança de Plataforma</h2><p>A série, que construiu uma base de fãs sólida durante seu tempo na Netflix, agora estará acessível exclusivamente no Peacock. Essa transição, comum no cenário de streaming, visa consolidar o conteúdo da DreamWorks em uma única plataforma.</p><h2>O Grande Problema da Migração</h2><p>O principal obstáculo reside na disponibilidade e no acesso para os espectadores que acompanhavam a série na Netflix. A mudança para o Peacock pode criar barreiras para esses fãs, seja por questões de assinatura ou pela própria interface da nova plataforma. A perda de uma audiência já estabelecida é uma preocupação real para a continuidade do engajamento.</p><h2>Impacto no Público e Futuro da Série</h2><p>A expectativa é que a DreamWorks e o Peacock trabalhem para mitigar os efeitos dessa transição. Estratégias para atrair e reter o público do serviço de streaming anterior serão cruciais. A série, que já demonstrou potencial de sucesso, agora enfrenta o desafio de reconquistar e expandir sua base de fãs em um novo ambiente.</p>",
+      "meta_description": "Série animada da DreamWorks deixa a Netflix e chega ao Peacock, mas enfrenta um grande problema de audiência e acesso para os fãs.",
+      "focus_keyphrase": "Série Dreamworks deixa Netflix para Peacock",
+      "related_keyphrases": [
+        "Dreamworks no Peacock",
+        "Série animada migra de plataforma",
+        "Problemas de audiência em streaming"
+      ],
+      "slug": "dreamworks-serie-deixa-netflix-peacock",
+      "categorias": [
+        {
+          "nome": "TV Shows",
+          "grupo": "editorias",
+          "evidence": "TV Shows"
+        }
+      ],
+      "tags_sugeridas": [
+        "Dreamworks",
+        "Netflix",
+        "Peacock",
+        "Séries Animadas",
+        "Streaming"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Dreamworks: Série Animada Deixa Netflix e Chega ao Peacock com Problemas",
+        "_yoast_wpseo_metadesc": "Série animada da DreamWorks deixa a Netflix e chega ao Peacock, mas enfrenta um grande problema de audiência e acesso para os fãs.",
+        "_yoast_wpseo_focuskw": "Série Dreamworks deixa Netflix para Peacock",
+        "_yoast_news_keywords": "Dreamworks, Netflix, Peacock, Séries Animadas, Streaming, TV Shows",
+        "_yoast_wpseo_opengraph-title": "Dreamworks: Série Animada Deixa Netflix e Chega ao Peacock com Problemas",
+        "_yoast_wpseo_opengraph-description": "Série animada da DreamWorks deixa a Netflix e chega ao Peacock, mas enfrenta um grande problema de audiência e acesso para os fãs.",
+        "_yoast_wpseo_twitter-title": "Dreamworks: Série Animada Deixa Netflix e Chega ao Peacock com Problemas",
+        "_yoast_wpseo_twitter-description": "Série animada da DreamWorks deixa a Netflix e chega ao Peacock, mas enfrenta um grande problema de audiência e acesso para os fãs."
+      }
+    },
+    {
+      "titulo_final": "Skate: Jogo Perde 90% dos Jogadores no Steam em Dois Meses",
+      "conteudo_final": "<p>O jogo de skate <b>Skate</b>, que prometia revitalizar a franquia com uma abordagem de serviço contínuo, enfrenta uma queda drástica em sua base de jogadores no Steam. Em apenas dois meses desde o lançamento em acesso antecipado, o título perdeu mais de 90% de seus jogadores ativos na plataforma.</p><h2>Queda Drástica de Jogadores no Steam</h2><p>Lançado com grande expectativa, <b>Skate</b> atingiu um pico de 134.901 jogadores simultâneos no Steam em 21 de setembro. No entanto, dados recentes indicam que o número de jogadores ativos caiu para cerca de 3.620, com um pico de 24 horas de 9.671 jogadores. Essa diminuição representa uma perda superior a 90% do público inicial.</p><h2>Desafios do Modelo Live-Service</h2><p>A transição para um modelo de serviço contínuo (live-service), com foco em elementos online e monetização, parece não ter sido suficiente para reter a atenção dos jogadores a longo prazo. Embora o jogo tenha recebido avaliações "Majoritariamente Positivas" nas últimas atualizações, a preocupação reside na sustentabilidade do modelo live-service, especialmente para um jogo que está apenas começando.</p><h2>Perspectivas Futuras para Skate</h2><p>Apesar da queda expressiva no Steam, é importante notar que <b>Skate</b> também está disponível para PlayStation e Xbox, plataformas que não são contabilizadas nas estatísticas do Steam. Contudo, a acentuada redução de jogadores na plataforma da Valve levanta questões sobre o futuro do jogo e sua capacidade de manter uma comunidade engajada. A expectativa é que atualizações futuras e novos conteúdos possam reverter essa tendência negativa.</p>",
+      "meta_description": "O jogo de skate Skate perdeu mais de 90% de seus jogadores no Steam em apenas dois meses após o lançamento, levantando preocupações sobre seu modelo live-service.",
+      "focus_keyphrase": "Skate perde jogadores no Steam",
+      "related_keyphrases": [
+        "Queda de jogadores Skate",
+        "Skate live-service",
+        "Jogo de skate Steam"
+      ],
+      "slug": "skate-perde-jogadores-steam",
+      "categorias": [
+        {
+          "nome": "Skate",
+          "grupo": "franquias",
+          "evidence": "Skate"
+        },
+        {
+          "nome": "Steam",
+          "grupo": "plataformas",
+          "evidence": "Steam"
+        }
+      ],
+      "tags_sugeridas": [
+        "Skate",
+        "EA",
+        "Steam",
+        "Jogos de Skate",
+        "Live-Service"
+      ],
+      "image_alt_texts": {
+        "skate-tag-page-cover-art.jpg": "Arte da capa do jogo Skate, mostrando um skatista em ação."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Skate: Jogo Perde 90% dos Jogadores no Steam em Dois Meses",
+        "_yoast_wpseo_metadesc": "O jogo de skate Skate perdeu mais de 90% de seus jogadores no Steam em apenas dois meses após o lançamento, levantando preocupações sobre seu modelo live-service.",
+        "_yoast_wpseo_focuskw": "Skate perde jogadores no Steam",
+        "_yoast_news_keywords": "Skate, EA, Steam, Jogos de Skate, Live-Service, Queda de jogadores",
+        "_yoast_wpseo_opengraph-title": "Skate: Jogo Perde 90% dos Jogadores no Steam em Dois Meses",
+        "_yoast_wpseo_opengraph-description": "O jogo de skate Skate perdeu mais de 90% de seus jogadores no Steam em apenas dois meses após o lançamento, levantando preocupações sobre seu modelo live-service.",
+        "_yoast_wpseo_twitter-title": "Skate: Jogo Perde 90% dos Jogadores no Steam em Dois Meses",
+        "_yoast_wpseo_twitter-description": "O jogo de skate Skate perdeu mais de 90% de seus jogadores no Steam em apenas dois meses após o lançamento, levantando preocupações sobre seu modelo live-service."
+      }
+    }
+  ]
+}

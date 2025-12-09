@@ -1,0 +1,108 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Adventure Time: Fionna & Cake quase teve crossover com outra animação icônica",
+      "conteudo_final": "<p>A série animada <b>Adventure Time: Fionna & Cake</b>, que explora as aventuras das versões femininas de Finn e Jake em um multiverso alternativo, está em sua segunda temporada na HBO Max. Em uma conversa recente com o showrunner Adam Muto, foi revelado que um crossover com outra animação querida do Cartoon Network esteve perto de acontecer.</p><h2>O Crossover Quase Realizado</h2><p>Durante a fase de desenvolvimento, a equipe de Fionna & Cake considerou a possibilidade de dedicar um episódio inteiro à personagem visitando o mundo de <b>The Marvelous Misadventures of Flapjack</b>. Adam Muto explicou que a premissa da série se baseia na ideia de que BMO desejou que todos fossem bebês para sempre, criando o multiverso explorado. A ideia de inserir Fionna no universo de Flapjack e Capitão K’nuckles surgiu como uma possibilidade intrigante.</p><p>“Por um tempo, consideramos a ideia de fazer um episódio inteiro de Flapjack, por que não jogá-la naquele mundo? Não foi muito além da discussão e de um desenho. No final das contas, [a história] pode ir para qualquer lugar, mas quase parece um ponto fraco”, comentou Muto. Ele também deixou em aberto a possibilidade de um retorno da ideia em uma futura terceira temporada.</p><h2>The Marvelous Misadventures of Flapjack</h2><p><b>The Marvelous Misadventures of Flapjack</b>, apesar de ter sido exibida ao lado de sucessos como Adventure Time e Regular Show, não alcançou o mesmo nível de popularidade. A série, que acompanhava a história de Flapjack e Capitão K’nuckles em Stormalong Harbor, teve três temporadas entre 2008 e 2010. Embora não haja notícias sobre o retorno dos personagens, a série surreal de animação ainda é lembrada. As três temporadas estão disponíveis para streaming no Hulu.</p><h2>O Futuro de Adventure Time</h2><p>Enquanto isso, a segunda temporada de <b>Fionna and Cake</b> continua a lançar episódios semanalmente na HBO Max. A franquia <b>Adventure Time</b> possui outros projetos em andamento, incluindo as séries Heyo BMO e Adventure Time: Side Quests, além de um longa-metragem. Mesmo com o fim da história principal de Finn e Jake, o universo de Oooo continua a expandir.</p>",
+      "meta_description": "Showrunner de Adventure Time: Fionna & Cake revela planos para um crossover com The Marvelous Misadventures of Flapjack que quase aconteceu.",
+      "focus_keyphrase": "Adventure Time Fionna & Cake crossover",
+      "related_keyphrases": [
+        "Adam Muto",
+        "The Marvelous Misadventures of Flapjack",
+        "Cartoon Network"
+      ],
+      "slug": "adventure-time-fionna-cake-crossover-flapjack",
+      "categorias": [
+        {
+          "nome": "Adventure Time",
+          "grupo": "franquias",
+          "evidence": "Adventure Time: Fionna & Cake"
+        },
+        {
+          "nome": "The Marvelous Misadventures of Flapjack",
+          "grupo": "obras",
+          "evidence": "The Marvelous Misadventures of Flapjack"
+        },
+        {
+          "nome": "Cartoon Network",
+          "grupo": "editorias",
+          "evidence": "Cartoon Network"
+        }
+      ],
+      "tags_sugeridas": [
+        "Adventure Time",
+        "Fionna & Cake",
+        "Adam Muto",
+        "The Marvelous Misadventures of Flapjack",
+        "Cartoon Network",
+        "HBO Max",
+        "Animação"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Personagens de Adventure Time: Fionna & Cake.",
+        "Army-in-Dune-Part-Two.jpg": "Cena promocional de Adventure Time: Fionna & Cake.",
+        "Battlestar-Galactica-33.jpg": "Ilustração de Fionna e Cake em um novo mundo.",
+        "Gargoyles.jpg": "Capa da série Adventure Time: Fionna & Cake.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Personagens de Adventure Time: Fionna & Cake em ação.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Fionna e Cake explorando o multiverso."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Adventure Time: Fionna & Cake quase teve crossover com outra animação icônica",
+        "_yoast_wpseo_metadesc": "Showrunner de Adventure Time: Fionna & Cake revela planos para um crossover com The Marvelous Misadventures of Flapjack que quase aconteceu.",
+        "_yoast_wpseo_focuskw": "Adventure Time Fionna & Cake crossover",
+        "_yoast_news_keywords": "Adventure Time, Fionna & Cake, Adam Muto, The Marvelous Misadventures of Flapjack, Cartoon Network, HBO Max",
+        "_yoast_wpseo_opengraph-title": "Adventure Time: Fionna & Cake quase teve crossover com outra animação icônica",
+        "_yoast_wpseo_opengraph-description": "Showrunner de Adventure Time: Fionna & Cake revela planos para um crossover com The Marvelous Misadventures of Flapjack que quase aconteceu.",
+        "_yoast_wpseo_twitter-title": "Adventure Time: Fionna & Cake quase teve crossover com outra animação icônica",
+        "_yoast_wpseo_twitter-description": "Showrunner de Adventure Time: Fionna & Cake revela planos para um crossover com The Marvelous Misadventures of Flapjack que quase aconteceu."
+      }
+    },
+    {
+      "titulo_final": "GTA Online: Jogadores podem resgatar carro grátis até 5 de novembro",
+      "conteudo_final": "<p>A Rockstar Games continua a tradição de eventos de Halloween no <b>Grand Theft Auto Online</b>. Uma nova atualização, lançada em 23 de outubro, introduz novas recompensas, descontos e um carro gratuito que os jogadores podem resgatar até 5 de novembro. A mais recente atualização de <b>Grand Theft Auto Online</b> já está disponível para PlayStation, Xbox e PC, trazendo conteúdo temático de Halloween.</p><h2>GTA Online Presenteia Jogadores com Benefactor Krieger Grátis</h2><p>Como parte do evento de Halloween de 2025, a Rockstar Games confirmou a oferta de mais um carro gratuito em <b>Grand Theft Auto Online</b>. Até 5 de novembro, os jogadores podem visitar o site Legendary Motorsport dentro do jogo e reivindicar o <b>Benefactor Krieger</b> sem custo. O veículo, que normalmente custa GTA$2.875.000, está disponível por GTA$0 neste período. Há também uma versão sazonal laranja e preta do Krieger no showroom Luxury Autos, com alguns upgrades cosméticos por uma taxa simbólica.</p><p>A atualização semanal de <b>GTA Online</b> também adicionou outros conteúdos, como novos itens cosméticos de Halloween, máscaras, roupas, desafios semanais, descontos e o retorno do clima assustador que tinge Los Santos de verde. Com o Halloween ainda chegando, mais novidades são esperadas para as próximas semanas.</p><h2>O Evento de Halloween de GTA Online</h2><p><b>Grand Theft Auto Online</b> iniciou seu evento de Halloween de 2025 no início de outubro, trazendo de volta o popular modo Zombie Survival, onde os jogadores enfrentam hordas de mortos-vivos. A atualização também incluiu favoritos como o modo Adversário Slasher. Durante o mês de outubro, a Rockstar está oferecendo recompensas em dobro em um modo temático de Halloween diferente a cada semana, alternando entre modalidades como Besty vs. Slasher, Judgement Day e Condemned.</p><p>Enquanto os fãs aguardam ansiosamente pelo lançamento de <b>Grand Theft Auto 6</b>, a Rockstar mantém o engajamento com atualizações constantes. Rumores e vazamentos indicam a possibilidade de uma grande atualização com mansões chegando ao <b>Grand Theft Auto Online</b> ainda este ano, possivelmente em dezembro, período em que a Rockstar costuma lançar conteúdos significativos.</p>",
+      "meta_description": "Grand Theft Auto Online oferece o carro Benefactor Krieger gratuitamente para todos os jogadores. Aproveite a oferta especial de Halloween até 5 de novembro!",
+      "focus_keyphrase": "GTA Online carro grátis",
+      "related_keyphrases": [
+        "Benefactor Krieger",
+        "Evento de Halloween GTA Online",
+        "Rockstar Games"
+      ],
+      "slug": "gta-online-carro-gratis-halloween",
+      "categorias": [
+        {
+          "nome": "Grand Theft Auto Online",
+          "grupo": "franquias",
+          "evidence": "Grand Theft Auto Online"
+        },
+        {
+          "nome": "Rockstar Games",
+          "grupo": "editorias",
+          "evidence": "Rockstar Games"
+        }
+      ],
+      "tags_sugeridas": [
+        "GTA Online",
+        "Rockstar Games",
+        "Benefactor Krieger",
+        "Halloween",
+        "Jogo Grátis",
+        "Grand Theft Auto 6"
+      ],
+      "image_alt_texts": {
+        "mixcollage-24-dec-2024-10-58-pm-2383.jpg": "Carro Benefactor Krieger em Grand Theft Auto Online.",
+        "811418f4effd2ca7c2455711ed21fa2ad71b3461.jpg": "Jogadores de GTA Online participando de um evento de Halloween.",
+        "featured-image-1-12.jpg": "Cena de ação em Grand Theft Auto Online com o Benefactor Krieger.",
+        "featured-image-2-6.jpg": "Veículos de Halloween disponíveis em GTA Online."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "GTA Online: Jogadores podem resgatar carro grátis até 5 de novembro",
+        "_yoast_wpseo_metadesc": "Grand Theft Auto Online oferece o carro Benefactor Krieger gratuitamente para todos os jogadores. Aproveite a oferta especial de Halloween até 5 de novembro!",
+        "_yoast_wpseo_focuskw": "GTA Online carro grátis",
+        "_yoast_news_keywords": "GTA Online, Grand Theft Auto Online, Rockstar Games, Benefactor Krieger, Halloween, Evento Grátis",
+        "_yoast_wpseo_opengraph-title": "GTA Online: Jogadores podem resgatar carro grátis até 5 de novembro",
+        "_yoast_wpseo_opengraph-description": "Grand Theft Auto Online oferece o carro Benefactor Krieger gratuitamente para todos os jogadores. Aproveite a oferta especial de Halloween até 5 de novembro!",
+        "_yoast_wpseo_twitter-title": "GTA Online: Jogadores podem resgatar carro grátis até 5 de novembro",
+        "_yoast_wpseo_twitter-description": "Grand Theft Auto Online oferece o carro Benefactor Krieger gratuitamente para todos os jogadores. Aproveite a oferta especial de Halloween até 5 de novembro!"
+      }
+    }
+  ]
+}

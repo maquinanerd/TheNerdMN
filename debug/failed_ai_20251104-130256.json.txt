@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Predator: Badlands tem envolvimento de Dan Trachtenberg em futuro da franquia",
+      "conteudo_final": "<p>O diretor Dan Trachtenberg dá uma pista sobre o futuro da franquia <b>Predator</b> após sua próxima produção. Após o sucesso de <b>Prey</b> em 2022 e <b>Predator: Killer of Killers</b> (previsto para 2025), o novo filme de Trachtenberg coloca o alienígena Yautja como protagonista pela primeira vez. A grande questão é para onde a saga irá a partir daí.</p><p>Em entrevista à <i>Screen Rant</i>, Trachtenberg fala sobre o futuro da franquia <i>Predator</i> e seu próprio envolvimento nela. Embora o diretor tome cuidado para não revelar detalhes, ele insinua que pode ter mais um filme <i>Predator</i> em mente.</p><h2>Próximos Passos para o Predador</h2><p>“O estado dos <i>Yautja</i> [risos] é que terminamos este projeto há talvez uma ou duas semanas. Quando eu estava pensando no que fazer depois de <i>Prey</i>, as ideias para <i>Badlands</i>, <i>Killer Killers</i> e um terceiro projeto eram igualmente empolgantes. Então, a ideia de fazer essa terceira coisa seria uma emoção absoluta”, disse Trachtenberg.</p><p>O diretor esclarece, no entanto, que ele também tem ambições de fazer filmes fora da franquia <i>Predator</i>. O que vier a seguir aparentemente depende da recepção de <i>Badlands</i>. Como Trachtenberg explica:</p><blockquote><p>Mais disso seria incrível. E também — eu quero fazer filmes que não tenham sempre Predadores. Mas tudo isso tem sido incrivelmente tentador, e eu pude fazer, dentro desta franquia, os tipos de filmes que sempre quis ver e fazer de qualquer maneira. Então, seria maravilhoso fazer mais. Espero que as pessoas amem <i>Badlands</i> e queiram ver mais.</p></blockquote><p>Após a estreia do filme em 3 de novembro, as reações iniciais nas redes sociais para <b>Predator: Badlands</b> têm sido geralmente muito positivas. Aqueles que viram o filme antecipadamente tiveram muitas coisas positivas a dizer sobre a ação de ficção científica do filme e sua história sobre um Predador excluído chamado Dek (Dimitrius Schuster-Koloamatangi) que se une a um androide, interpretado por Elle Fanning.</p><figure><picture><source media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/thia-and-dek-in-predator-badlands.jpg?q=49&fit=crop&w=500&dpr=2"/><source media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/thia-and-dek-in-predator-badlands.jpg?q=49&fit=crop&w=800&dpr=2"/><source media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/thia-and-dek-in-predator-badlands.jpg?q=49&fit=crop&w=825&dpr=2"/><img alt="Thia e Dek em Predator: Badlands" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/thia-and-dek-in-predator-badlands.jpg?q=49&fit=crop&w=825&dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/thia-and-dek-in-predator-badlands.jpg?q=49&fit=crop&w=825&dpr=2" width="1650"/></picture><figcaption>Thia e Dek em cena de <b>Predator: Badlands</b>.</figcaption></figure><h2>Recepção e Futuro da Franquia</h2><p>As críticas completas de <i>Badlands</i> não estão longe, mas as críticas de <i>Prey</i> foram brilhantes há alguns anos, sugerindo que Trachtenberg estabeleceu um alto padrão para si mesmo. Como o público responderá também é um mistério. <i>Prey</i> e <i>Killer of Killers</i> foram sucessos de streaming, mas nenhum filme <i>Predator</i> foi lançado nos cinemas desde 2018, então não está claro qual a demanda por ver esta franquia de volta às telonas.</p><p>Caso <i>Badlands</i> seja um sucesso, não está claro qual novo projeto <i>Predator</i> pode vir a seguir. É possível que o misterioso terceiro filme de Trachtenberg seja o <b>Prey 2</b> confirmado, que traria de volta Naru (Amber Midthunder). Como este projeto foi oficialmente anunciado em fevereiro de 2024, o fato de Trachtenberg não o ter mencionado pelo nome pode ser um sinal de que o que vier a seguir será algo completamente diferente.</p><p>Após o sucesso de <b>Alien: Romulus</b> (2024), o diretor desse filme, Fede Alvarez, indicou que estaria aberto a um filme crossover <i>Alien vs. Predator</i>. É possível que Trachtenberg tenha tido ideias semelhantes, especialmente porque <i>Badlands</i> apresenta a personagem de Fanning como uma androide da Weyland-Yutani.</p><p>Por enquanto, parece que os fãs curiosos sobre o futuro da franquia <i>Predator</i> terão que esperar para ver. Se <b>Predator: Badlands</b> for bem recebido, certamente parece que Trachtenberg poderá continuar explorando essa propriedade intelectual ainda mais.</p>",
+      "meta_description": "Dan Trachtenberg insinua seu envolvimento em futuros filmes da franquia Predator após Badlands, mas também busca projetos fora da saga.",
+      "focus_keyphrase": "futuro da franquia Predator",
+      "related_keyphrases": [
+        "Predator Badlands",
+        "Dan Trachtenberg",
+        "novos filmes Predator"
+      ],
+      "slug": "predator-futuro-trachtenberg",
+      "categorias": [
+        {
+          "nome": "Predator",
+          "grupo": "franquias",
+          "evidence": "Franquia Predator"
+        },
+        {
+          "nome": "Predator: Badlands",
+          "grupo": "obras",
+          "evidence": "Predator: Badlands"
+        }
+      ],
+      "tags_sugeridas": [
+        "predator",
+        "predator badlands",
+        "dan trachtenberg",
+        "franquia predator",
+        "yautja",
+        "sci-fi",
+        "terror"
+      ],
+      "image_alt_texts": {
+        "thia-and-dek-in-predator-badlands.jpg": "Thia e Dek em cena de Predator: Badlands, com o Predador alienígena e a androide."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Predator: Badlands: Dan Trachtenberg fala sobre futuro da franquia",
+        "_yoast_wpseo_metadesc": "Dan Trachtenberg insinua seu envolvimento em futuros filmes da franquia Predator após Badlands, mas também busca projetos fora da saga.",
+        "_yoast_wpseo_focuskw": "futuro da franquia Predator",
+        "_yoast_news_keywords": "Predator, Predator: Badlands, Dan Trachtenberg, franquia Predator, Yautja, ficção científica, terror",
+        "_yoast_wpseo_opengraph-title": "Predator: Badlands: Dan Trachtenberg fala sobre futuro da franquia",
+        "_yoast_wpseo_opengraph-description": "Dan Trachtenberg insinua seu envolvimento em futuros filmes da franquia Predator após Badlands, mas também busca projetos fora da saga.",
+        "_yoast_wpseo_twitter-title": "Predator: Badlands: Dan Trachtenberg fala sobre futuro da franquia",
+        "_yoast_wpseo_twitter-description": "Dan Trachtenberg insinua seu envolvimento em futuros filmes da franquia Predator após Badlands, mas também busca projetos fora da saga."
+      }
+    }
+  ]
+}

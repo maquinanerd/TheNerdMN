@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Will Trent 4: Trailer confirma Will voltando à terapia na nova temporada",
+      "conteudo_final": "<p>A quarta temporada de <b>Will Trent</b> está chegando, e um vislumbre dos próximos episódios revela um desenvolvimento significativo para a protagonista. A série retorna no início de 2026 após um longo hiato. Novos episódios prometem explorar as consequências dos eventos chocantes da terceira temporada.</p>\n<h2>Mudanças Cruciais para o Personagem de Ramón Rodríguez</h2>\n<p>Na terceira temporada, <b>Will Trent</b>, interpretado por Ramón Rodríguez, passou por momentos intensos. Ele acidentalmente atirou e matou um adolescente, o que o deixou traumatizado. Além disso, Will reencontrou seu pai biológico e descobriu que Angie estava esperando um filho de outro homem. Esses eventos o colocaram em uma situação delicada.</p>\n<figure>\n<img src=\"https:
+      "meta_description": "A 4ª temporada de Will Trent confirma o retorno do protagonista à terapia, mostrando seu comprometimento com a saúde mental após eventos traumáticos na temporada anterior.",
+      "focus_keyphrase": "Will Trent 4ª temporada",
+      "related_keyphrases": [
+        "Will Trent trailer",
+        "Ramón Rodríguez",
+        "Will Trent terapia"
+      ],
+      "slug": "will-trent-temporada-4-terapia",
+      "categorias": [
+        {
+          "nome": "Will Trent",
+          "grupo": "obras",
+          "evidence": "Will Trent season 4"
+        },
+        {
+          "nome": "Ramón Rodríguez",
+          "grupo": "elenco",
+          "evidence": "Ramón Rodríguez's Will Trent character"
+        },
+        {
+          "nome": "ABC",
+          "grupo": "editorias",
+          "evidence": "ABC"
+        }
+      ],
+      "tags_sugeridas": [
+        "will trent",
+        "ramon rodriguez",
+        "margaret cho",
+        "abc",
+        "drama",
+        "crime"
+      ],
+      "image_alt_texts": {
+        "ramon-rodriguez-as-will-trent-and-margaret-cho-as-dr-roach-in-will-trent-season-3-epsiode-16.jpg?q=49&fit=crop&w=825&dpr=2": "Will Trent e Dra. Roach em cena da 3ª temporada de Will Trent.",
+        "ramon-rodriguez-as-will-trent-in-will-trent-season-3-episode-4.jpg?q=49&fit=crop&w=825&dpr=2": "Will Trent em uma cena da 3ª temporada de Will Trent.",
+        "03188343_poster_w780-1.jpg?q=70&fit=contain&w=480&dpr=1": "Pôster da série Will Trent."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Will Trent 4ª Temporada: Trailer Confirma Retorno à Terapia",
+        "_yoast_wpseo_metadesc": "A 4ª temporada de Will Trent confirma o retorno do protagonista à terapia, mostrando seu comprometimento com a saúde mental após eventos traumáticos na temporada anterior.",
+        "_yoast_wpseo_focuskw": "Will Trent 4ª temporada",
+        "_yoast_news_keywords": "Will Trent, Will Trent 4ª temporada, Ramón Rodríguez, Margaret Cho, ABC",
+        "_yoast_wpseo_opengraph-title": "Will Trent 4ª Temporada: Trailer Confirma Retorno à Terapia",
+        "_yoast_wpseo_opengraph-description": "A 4ª temporada de Will Trent confirma o retorno do protagonista à terapia, mostrando seu comprometimento com a saúde mental após eventos traumáticos na temporada anterior.",
+        "_yoast_wpseo_twitter-title": "Will Trent 4ª Temporada: Trailer Confirma Retorno à Terapia",
+        "_yoast_wpseo_twitter-description": "A 4ª temporada de Will Trent confirma o retorno do protagonista à terapia, mostrando seu comprometimento com a saúde mental após eventos traumáticos na temporada anterior."
+      }
+    }
+  ]
+}

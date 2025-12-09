@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jennifer Hale denuncia disparidade salarial em eventos de games",
+      "conteudo_final": "<p>A renomada dubladora <b>Jennifer Hale</b>, conhecida por dar voz à comandante Shepard em <b>Mass Effect</b> e com uma carreira extensa que inclui participações em franquias como Metroid Prime, Bayonetta e Gears of War, denunciou recentemente a persistência de disparidades salariais em eventos de jogos. Apesar de seu currículo impressionante, que já lhe rendeu um reconhecimento no Guinness World Records como a atriz de videogame com mais papéis, Hale revelou que ainda é oferecida a ela uma remuneração inferior à de seus colegas homens para comparecer a eventos.</p>\n<h2>Disparidade Salarial Persiste em Eventos de Games</h2>\n<p>Em uma conversa recente durante um evento de um projeto ainda não anunciado, Hale compartilhou sua experiência: \"Há poucas semanas, eu estava fazendo uma participação em um lugar, e as taxas de remuneração eram diferentes para mim em comparação com alguns dos homens que estavam lá\", relatou. Ela destacou que sua experiência profissional é \"bastante longa\", indicando uma discrepância injustificada.</p>\n<p>A atriz expressou sua esperança por mudanças nesse cenário, afirmando: \"Se você pagaria mais a um homem por um papel, deveria estar disposto a pagar a uma mulher o mesmo. Tire o gênero e diga: 'Qual é este papel? O que este currículo merece?' E o mesmo vale para os roteiristas.\" Hale acredita que a avaliação deve ser baseada no mérito e na experiência, e não no gênero.</p>\n<p>\"Eu não vou ficar chateada com isso. Estou animada para quando isso mudar\", disse Hale, mostrando otimismo quanto a futuras melhorias na indústria. Ela enfatizou a necessidade de igualdade de condições e remuneração para todos os profissionais, independentemente do gênero.</p>\n<h2>Atriz de Mass Effect Espera Retorno na Franquia e na Série</h2>\n<p>Recentemente, <b>Jennifer Hale</b> também se manifestou sobre seu desejo de retornar como a comandante Shepard em futuros jogos da franquia <b>Mass Effect</b>, pedindo aos fãs que expressem seu apoio à <b>BioWare</b>. Ela também comentou sobre a possibilidade de seu retorno na série live-action em produção, lamentando quando grandes corporações adaptam IPs sem incluir os dubladores originais.</p>\n<p>\"É impressionante, e sempre me diverte quando grandes corporações se apossam de IPs que começaram em nosso mundo, levam para o mundo delas e deixam todos os dubladores para trás\", comentou. Hale vê essa situação como uma oportunidade perdida de manter a autenticidade das obras.</p>\n<figure><img src=\"https:
+      "meta_description": "Jennifer Hale, voz icônica de Mass Effect, revela disparidade salarial em eventos de games, pedindo igualdade para mulheres na indústria.",
+      "focus_keyphrase": "Jennifer Hale disparidade salarial",
+      "related_keyphrases": [
+        "Jennifer Hale dubladora",
+        "Igualdade salarial games",
+        "Mass Effect Jennifer Hale"
+      ],
+      "slug": "jennifer-hale-disparidade-salarial-games",
+      "categorias": [
+        {
+          "nome": "Mass Effect",
+          "grupo": "franquias",
+          "evidence": "Mass Effect games"
+        },
+        {
+          "nome": "Jennifer Hale",
+          "grupo": "obras",
+          "evidence": "Jennifer Hale"
+        },
+        {
+          "nome": "BioWare",
+          "grupo": "editorias",
+          "evidence": "BioWare"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jennifer Hale",
+        "Mass Effect",
+        "BioWare",
+        "dublagem",
+        "games",
+        "igualdade salarial",
+        "entrevista"
+      ],
+      "image_alt_texts": {
+        "mass-effect-key-art-showing-femshep-in-space-standing-in-front-of-the-earth.jpg": "Jennifer Hale como Comandante Shepard em Mass Effect, com traje espacial e a Terra ao fundo.",
+        "mixcollage-07-dec-2024-08-58-am-3435.jpg": "Montagem de imagens com foco em Jennifer Hale e personagens de Mass Effect."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jennifer Hale denuncia disparidade salarial em eventos de games",
+        "_yoast_wpseo_metadesc": "Jennifer Hale, voz icônica de Mass Effect, revela disparidade salarial em eventos de games, pedindo igualdade para mulheres na indústria.",
+        "_yoast_wpseo_focuskw": "Jennifer Hale disparidade salarial",
+        "_yoast_news_keywords": "Jennifer Hale, Mass Effect, BioWare, dublagem, games, igualdade salarial, entrevista, dubladora",
+        "_yoast_wpseo_opengraph-title": "Jennifer Hale denuncia disparidade salarial em eventos de games",
+        "_yoast_wpseo_opengraph-description": "Jennifer Hale, voz icônica de Mass Effect, revela disparidade salarial em eventos de games, pedindo igualdade para mulheres na indústria.",
+        "_yoast_wpseo_twitter-title": "Jennifer Hale denuncia disparidade salarial em eventos de games",
+        "_yoast_wpseo_twitter-description": "Jennifer Hale, voz icônica de Mass Effect, revela disparidade salarial em eventos de games, pedindo igualdade para mulheres na indústria."
+      }
+    }
+  ]
+}

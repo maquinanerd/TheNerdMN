@@ -1,0 +1,53 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Creed Encontra Nova Casa no Streaming Peacock em Dezembro de 2025",
+      "conteudo_final": "<p>A aclamada franquia esportiva <b>Creed</b>, que revitalizou o universo de <b>Rocky</b>, anuncia sua chegada ao catálogo do <b>Peacock</b> a partir de dezembro de 2025. A novidade promete trazer todos os filmes da saga, incluindo o recente <b>Creed III</b>, para uma nova plataforma de streaming, facilitando o acesso dos fãs.</p><h2>Creed: Uma Nova Geração de Heróis do Boxe</h2><p>Lançada em 2015, a série <b>Creed</b> deu continuidade à história de <b>Rocky Balboa</b> sob uma nova perspectiva, focando em Adonis Creed, filho de seu antigo rival, Apollo Creed. O primeiro filme, dirigido por Ryan Coogler, foi um sucesso de crítica e público, apresentando Michael B. Jordan como o protagonista e Sylvester Stallone reprisando seu icônico papel como mentor.</p><p>A franquia se destacou por sua abordagem moderna dos dramas de superação e pela qualidade das sequências de luta, aclamadas pela crítica especializada. Com três filmes lançados até o momento, <b>Creed</b> estabeleceu-se como uma das mais bem-sucedidas reinvenções de franquias clássicas do cinema.</p><h2>O Legado de Rocky e a Ascensão de Adonis Creed</h2><p>A saga <b>Creed</b> expandiu o universo criado por Sylvester Stallone nos filmes de <b>Rocky</b>, explorando temas como legado, identidade e a busca por reconhecimento. Adonis Creed, interpretado por Michael B. Jordan, assume o manto de lutador e busca construir seu próprio nome no mundo do boxe, longe da sombra de seu pai e de seu mentor.</p><p><b>Creed II</b> (2018) aprofundou a ligação com a história original ao trazer o retorno de Ivan Drago, o boxeador responsável pela morte de Apollo Creed, adicionando uma camada de drama pessoal e vingança à trama. O filme foi elogiado pela forma como honrou o passado da franquia, ao mesmo tempo em que desenvolveu seus próprios personagens.</p><h2>Creed III e o Futuro da Franquia</h2><p>Em <b>Creed III</b> (2023), a franquia deu um passo ousado ao seguir sem a presença de Rocky Balboa, com Sylvester Stallone se afastando do papel principal. O filme, dirigido pelo próprio Michael B. Jordan, concentrou-se no desenvolvimento de Adonis Creed como um lutador e figura familiar, introduzindo o personagem Damian "Dame" Anderson, interpretado por Jonathan Majors, como o principal antagonista.</p><p>A decisão de focar exclusivamente em Adonis e seus dilemas foi um dos pontos de discussão sobre o filme. Apesar disso, as sequências de boxe mantiveram a qualidade esperada, e a narrativa explorou novos desafios para o protagonista, solidificando a marca <b>Creed</b> como uma força independente no cinema de esportes.</p><h2>Disponibilidade no Peacock</h2><p>A partir de dezembro de 2025, os fãs poderão assistir a toda a trilogia <b>Creed</b> no <b>Peacock</b>. A plataforma de streaming, pertencente à NBCUniversal, adiciona a franquia ao seu catálogo, buscando atrair e reter assinantes com conteúdo de peso. A chegada da saga ao serviço é uma notícia positiva para quem busca reviver ou descobrir as emocionantes histórias de boxe.</p>",
+      "meta_description": "A franquia Creed, incluindo Creed III, chega ao catálogo do streaming Peacock a partir de dezembro de 2025. Saiba mais sobre a nova casa da saga.",
+      "focus_keyphrase": "Creed streaming Peacock",
+      "related_keyphrases": [
+        "Creed III Peacock",
+        "franquia Creed streaming",
+        "Rocky legado streaming"
+      ],
+      "slug": "creed-streaming-peacock-dezembro-2025",
+      "categorias": [
+        {
+          "nome": "Creed",
+          "grupo": "franquias",
+          "evidence": "A aclamada franquia esportiva Creed"
+        },
+        {
+          "nome": "Peacock",
+          "grupo": "plataformas",
+          "evidence": "anuncia sua chegada ao catálogo do Peacock"
+        },
+        {
+          "nome": "Rocky",
+          "grupo": "franquias",
+          "evidence": "revitalizou o universo de Rocky"
+        }
+      ],
+      "tags_sugeridas": [
+        "Creed",
+        "Creed III",
+        "Rocky",
+        "Michael B. Jordan",
+        "Sylvester Stallone",
+        "Peacock",
+        "streaming"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Creed Encontra Nova Casa no Streaming Peacock em Dezembro de 2025",
+        "_yoast_wpseo_metadesc": "A franquia Creed, incluindo Creed III, chega ao catálogo do streaming Peacock a partir de dezembro de 2025. Saiba mais sobre a nova casa da saga.",
+        "_yoast_wpseo_focuskw": "Creed streaming Peacock",
+        "_yoast_news_keywords": "Creed, Creed III, Rocky, Michael B. Jordan, Sylvester Stallone, Peacock, streaming, boxe, filme",
+        "_yoast_wpseo_opengraph-title": "Creed Encontra Nova Casa no Streaming Peacock em Dezembro de 2025",
+        "_yoast_wpseo_opengraph-description": "A franquia Creed, incluindo Creed III, chega ao catálogo do streaming Peacock a partir de dezembro de 2025. Saiba mais sobre a nova casa da saga.",
+        "_yoast_wpseo_twitter-title": "Creed Encontra Nova Casa no Streaming Peacock em Dezembro de 2025",
+        "_yoast_wpseo_twitter-description": "A franquia Creed, incluindo Creed III, chega ao catálogo do streaming Peacock a partir de dezembro de 2025. Saiba mais sobre a nova casa da saga."
+      }
+    }
+  ]
+}

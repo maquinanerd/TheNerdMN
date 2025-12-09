@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Black Phone 2: Terror de 2025 Atinge Marco de Bilheteria de US$ 50 Milhões",
+  "conteudo_final": "<p>O terror <em>Black Phone 2</em> alcançou um marco significativo nas bilheterias, ultrapassando a marca de US$ 50 milhões em arrecadação doméstica. O filme, dirigido por Scott Derrickson, conta com o retorno de astros como Demián Bichir, Mason Thames, Madeleine McGraw e Ethan Hawke.</p><h2>Desempenho nas Bilheterias</h2><p>De acordo com dados recentes, <em>Black Phone 2</em> arrecadou US$ 1,46 milhão em bilheteria doméstica apenas na terça-feira, 28 de outubro. Esse valor impulsionou o total acumulado para US$ 51,43 milhões, tornando-o o 33º filme do ano a superar a marca de US$ 50 milhões em território nacional.</p><p>No gênero de terror, o desempenho é ainda mais notável. Além de ser o primeiro filme da Blumhouse a atingir essa marca em 2025, ele se posiciona como o quarto filme de terror de franquia e o sexto filme de terror do ano em geral a alcançar esse feito.</p><h2>Filmes de Terror de 2025 que Superaram US$ 50 Milhões</h2><p>A lista de filmes de terror de 2025 que ultrapassaram os US$ 50 milhões em bilheteria doméstica inclui:</p><ul><li><em>Sinners</em>: US$ 339,6 milhões</li><li><em>The Conjuring: Last Rites</em>: US$ 176,8 milhões</li><li><em>Weapons</em>: US$ 151,5 milhões</li><li><em>Final Destination Bloodlines</em>: US$ 138,1 milhões</li><li><em>28 Years Later</em>: US$ 70,4 milhões</li><li><em>Black Phone 2</em>: US$ 51,4 milhões</li></ul><p>Resta saber se outros filmes de terror de 2025 conseguirão seguir os passos de <em>Black Phone 2</em>. Um candidato com potencial é <em>Keeper</em>, de Osgood Perkins, que sucede o sucesso de 2024, <em>Longlegs</em>, com US$ 74,3 milhões em bilheteria doméstica.</p><p>No entanto, Perkins já teve um filme de terror lançado em 2025, a adaptação de Stephen King, <em>The Monkey</em>, que não atingiu os US$ 50 milhões. Apesar de ter arrecadado US$ 39,7 milhões na América do Norte e US$ 68,9 milhões mundialmente com um orçamento de US$ 10 milhões, seu desempenho pode não ser um bom presságio para <em>Keeper</em>.</p><p>Entre os filmes de terror agendados para o restante de 2025, incluindo o remake de <em>Silent Night, Deadly Night</em>, o único que parece ter chances de atingir a marca de US$ 50 milhões é <em>Five Nights at Freddy's 2</em>. A sequência da adaptação do videogame de 2023, que arrecadou US$ 137,3 milhões em território nacional, reforça o feito notável de <em>Black Phone 2</em>.</p><h2>Sucesso Financeiro e Valor do Filme</h2><p>Além de seu desempenho comparado a outros títulos de terror de 2025, <em>Black Phone 2</em> está se saindo bem individualmente. Embora o fim de semana de Halloween deva impulsionar ainda mais a bilheteria do filme, devido à associação do feriado com o gênero de terror, a sequência já provou seu valor ao atingir este marco.</p><p>Com um orçamento estimado de US$ 30 milhões, <em>Black Phone 2</em> já recuperou quase o dobro desse valor apenas em bilheteria doméstica. Seu total global acumulado de US$ 85,8 milhões o coloca bem acima de seu ponto de equilíbrio estimado em cerca de US$ 75 milhões.</p><figure class="video-container"><iframe src="https:
+  "meta_description": "Black Phone 2 ultrapassa US$ 50 milhões em bilheteria doméstica, consolidando-se como um dos filmes de terror de maior sucesso de 2025.",
+  "focus_keyphrase": "Black Phone 2 bilheteria",
+  "related_keyphrases": [
+    "filmes de terror 2025",
+    "bilheteria filmes de terror",
+    "Black Phone 2 desempenho"
+  ],
+  "slug": "black-phone-2-bilheteria-marco",
+  "categorias": [
+    {
+      "nome": "Black Phone 2",
+      "grupo": "obras",
+      "evidence": "<em>Black Phone 2</em>"
+    },
+    {
+      "nome": "Terror",
+      "grupo": "editorias",
+      "evidence": "horror"
+    }
+  ],
+  "tags_sugeridas": [
+    "black-phone-2",
+    "terror",
+    "bilheteria",
+    "blumhouse",
+    "scott-derrickson",
+    "ethan-hawke",
+    "demian-bichir"
+  ],
+  "image_alt_texts": {
+    "01757952_poster_w780.jpg": "Pôster oficial do filme Black Phone 2.",
+    "screenrant-sandbox-2025-10-05t165417-587.jpg": "Ethan Hawke como o vilão Grabber em uma cena de Black Phone 2.",
+    "madeleine-mcgraw-as-gwen-holding-the-black-phone-in-the-grabber-s-basement-in-black-phone-2.jpg": "Madeleine McGraw como Gwen segurando o telefone preto no porão do Grabber em Black Phone 2.",
+    "finney-on-the-payphone-looking-furious-in-black-phone-2.jpg": "Finney no telefone público com expressão furiosa em Black Phone 2.",
+    "demian-bichir-holding-a-flashlight-in-black-phone-2.jpg": "Demian Bichir segurando uma lanterna em uma cena de Black Phone 2.",
+    "madeleine-mcgraw-and-ethan-hawke-facing-off-in-black-phone-2.jpg": "Madeleine McGraw e Ethan Hawke em confronto em Black Phone 2.",
+    "screenrant-sandbox-2025-07-29t223032-124.jpg": "Finney e o Grabber em uma cena de Black Phone 2.",
+    "instar51971844.jpg": "Foto de Ethan Hawke.",
+    "instar54832030.jpg": "Foto de Mason Thames."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Black Phone 2: Terror de 2025 Atinge Marco de Bilheteria de US$ 50 Milhões",
+    "_yoast_wpseo_metadesc": "Black Phone 2 ultrapassa US$ 50 milhões em bilheteria doméstica, consolidando-se como um dos filmes de terror de maior sucesso de 2025.",
+    "_yoast_wpseo_focuskw": "Black Phone 2 bilheteria",
+    "_yoast_news_keywords": "Black Phone 2, terror, bilheteria, Blumhouse, Scott Derrickson, Ethan Hawke, Demián Bichir, filmes de terror 2025",
+    "_yoast_wpseo_opengraph-title": "Black Phone 2: Terror de 2025 Atinge Marco de Bilheteria de US$ 50 Milhões",
+    "_yoast_wpseo_opengraph-description": "Black Phone 2 ultrapassa US$ 50 milhões em bilheteria doméstica, consolidando-se como um dos filmes de terror de maior sucesso de 2025.",
+    "_yoast_wpseo_twitter-title": "Black Phone 2: Terror de 2025 Atinge Marco de Bilheteria de US$ 50 Milhões",
+    "_yoast_wpseo_twitter-description": "Black Phone 2 ultrapassa US$ 50 milhões em bilheteria doméstica, consolidando-se como um dos filmes de terror de maior sucesso de 2025."
+  }
+}

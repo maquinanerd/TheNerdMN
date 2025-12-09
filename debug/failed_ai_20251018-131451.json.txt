@@ -1,0 +1,162 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Kristen Stewart faz estreia na direção com \"The Chronology of Water\" e aclamação da crítica",
+      "conteudo_final": "<p>Anos após construir uma carreira sólida como atriz, Kristen Stewart aventurou-se na direção com seu longa de estreia, <b><i>The Chronology of Water</i></b>, que tem recebido avaliações excepcionais. O filme alcançou uma pontuação quase perfeita no agregador de críticas Rotten Tomatoes, demonstrando o talento de Stewart também por trás das câmeras.</p><h2><b><i>The Chronology of Water</i></b>: Da memória ao cinema</h2><p>Adaptado da obra homônima de Lidia Yuknavitch publicada em 2011, <b><i>The Chronology of Water</i></b> acompanha a jornada de uma nadadora competitiva que precisa confrontar um passado turbulento e traumático, encontrando refúgio na literatura. O livro, um bestseller, explora a busca pela própria voz e como as experiências difíceis podem se transformar em arte. O filme conta com um elenco estelar, incluindo Imogen Poots, Thora Birch, Jim Belushi e Tom Sturridge.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-chronology-of-water-still.jpeg?q=70&fit=crop&w=825&dpr=1\" alt=\"Cena do filme The Chronology of Water\"><figcaption>Imagens de \"The Chronology of Water\" revelam a estética visual do filme.</figcaption></figure><p>A distribuidora The Forge adquiriu os direitos de distribuição norte-americana do filme após sua estreia mundial no Festival de Cannes deste ano. A expectativa é de um lançamento nos cinemas ainda em 2025, com planos para uma expansão para um público mais amplo no início de janeiro do ano seguinte.</p><h2>Visão artística e produção</h2><p>O CEO da The Forge, Mark Mathias Sayre, elogiou a visão de Stewart, afirmando que ela "não apenas dirigiu um filme, ela esculpiu um mundo com uma visão inconfundível: um que pulsa com dor, desejo e desafio". Sayre também destacou que Stewart dedicou oito anos ao projeto.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/kristen-stewart-talks-to-imogene-poots-on-the-set-of-the-chronology-of-water.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Kristen Stewart dirigindo Imogen Poots no set de The Chronology of Water\"><figcaption>Kristen Stewart interage com a atriz Imogen Poots durante as filmagens de \"The Chronology of Water\".</figcaption></figure><p>Sayre demonstrou otimismo quanto ao potencial do longa, descrevendo-o como "visceral, expansivo e ancorado por uma performance de Imogen Poots que destrói e reconstrói você". Críticos apontam a direção de Stewart como "direta, fragmentada e visceral", elogiando a atuação de Poots como o "maior trunfo" do filme.</p><h2>Carreira de Kristen Stewart</h2><p>Kristen Stewart é amplamente reconhecida por seu papel como Bella Swan na saga <b><i>Crepúsculo</i></b>. Desde então, a atriz tem se concentrado em projetos cinematográficos independentes, consolidando um portfólio diversificado que inclui atuações em filmes como <b><i>Love Lies Bleeding</i></b>, <b><i>As Panteras</i></b> e <b><i>Adventureland</i></b>.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/01552123_poster_w780.jpg?q=70&fit=contain&w=480&dpr=1\" alt=\"Pôster oficial do filme The Chronology of Water\"><figcaption>O pôster de \"The Chronology of Water\" reflete a temática dramática do filme.</figcaption></figure><p>As primeiras críticas de <b><i>The Chronology of Water</i></b> ressaltam a força da atuação de Imogen Poots no papel principal, além de elogiarem a direção de Stewart. O filme promete ser um marco em suas carreiras.</p>",
+      "meta_description": "Kristen Stewart estreia na direção com \"The Chronology of Water\", aclamado pela crítica com pontuação quase perfeita no Rotten Tomatoes. Saiba mais!",
+      "focus_keyphrase": "Kristen Stewart The Chronology of Water",
+      "related_keyphrases": [
+        "Kristen Stewart diretora",
+        "The Chronology of Water Rotten Tomatoes",
+        "Imogen Poots atuação"
+      ],
+      "slug": "kristen-stewart-estreia-direcao-chronology-water",
+      "categorias": [
+        {
+          "nome": "The Chronology of Water",
+          "grupo": "obras",
+          "evidence": "Stewart’s <em>The Chronology of Water</em> currently has a 94% rating on Rotten Tomatoes"
+        },
+        {
+          "nome": "Kristen Stewart",
+          "grupo": "pessoas",
+          "evidence": "Kristen Stewart has taken to directing"
+        },
+        {
+          "nome": "Imogen Poots",
+          "grupo": "pessoas",
+          "evidence": "The movie stars Imogen Poots"
+        }
+      ],
+      "tags_sugeridas": [
+        "Kristen Stewart",
+        "The Chronology of Water",
+        "Imogen Poots",
+        "Direção de Cinema",
+        "Festival de Cannes",
+        "Rotten Tomatoes"
+      ],
+      "image_alt_texts": {
+        "the-chronology-of-water-still.jpeg": "Cena do filme The Chronology of Water com Imogen Poots.",
+        "kristen-stewart-talks-to-imogene-poots-on-the-set-of-the-chronology-of-water.jpg": "Kristen Stewart dirigindo Imogen Poots no set de The Chronology of Water.",
+        "01552123_poster_w780.jpg": "Pôster oficial do filme The Chronology of Water com Imogen Poots."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Kristen Stewart Lidera \"The Chronology of Water\" com Aclamação da Crítica | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Kristen Stewart faz estreia na direção com \"The Chronology of Water\", aclamado pela crítica com pontuação quase perfeita no Rotten Tomatoes. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Kristen Stewart The Chronology of Water",
+        "_yoast_news_keywords": "Kristen Stewart, The Chronology of Water, Imogen Poots, Lidia Yuknavitch, direção, cinema, Rotten Tomatoes, Festival de Cannes",
+        "_yoast_wpseo_opengraph-title": "Kristen Stewart Lidera \"The Chronology of Water\" com Aclamação da Crítica",
+        "_yoast_wpseo_opengraph-description": "Kristen Stewart faz estreia na direção com \"The Chronology of Water\", aclamado pela crítica com pontuação quase perfeita no Rotten Tomatoes. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Kristen Stewart Lidera \"The Chronology of Water\" com Aclamação da Crítica",
+        "_yoast_wpseo_twitter-description": "Kristen Stewart faz estreia na direção com \"The Chronology of Water\", aclamado pela crítica com pontuação quase perfeita no Rotten Tomatoes. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "\"Tinker Tailor Soldier Spy\" é aclamado como melhor filme de espionagem da década",
+      "conteudo_final": "<p>Em meio a franquias consolidadas como James Bond e Jason Bourne, o cenário de filmes de espionagem da década de 2010 foi dominado por uma produção britânica que redefiniu o gênero. <b><i>Tinker Tailor Soldier Spy</i></b>, lançado em 2011, destacou-se não pelas explosões ou perseguições de carro, mas pela sua abordagem inteligente e pela performance de Gary Oldman.</p><h2><b><i>Tinker Tailor Soldier Spy</i></b>: Um novo padrão para filmes de espionagem</h2><p>Dirigido por Tomas Alfredson, o filme é uma adaptação do aclamado romance de John le Carré e introduz George Smiley, um oficial de inteligência experiente e meticuloso. Ao contrário de seus contemporâneos focados na ação, Smiley opera em um universo de intriga psicológica, investigação minuciosa e tensão latente, provando que a inteligência e a sutileza podem ser tão cativantes quanto confrontos físicos.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2019/04/Benedict-Cumberbatch-in-Tinker-Tailor-Soldier-Spy.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"George Smiley e Peter Guillam em uma cena de Tinker Tailor Soldier Spy.\"><figcaption>George Smiley, interpretado por Gary Oldman, em uma cena de \"Tinker Tailor Soldier Spy\".</figcaption></figure><p>A performance de Gary Oldman como Smiley foi tão notável que lhe rendeu uma indicação ao Oscar de Melhor Ator. Sua interpretação trouxe a profundidade e a complexidade do personagem à vida, tornando-o um dos espiões mais memoráveis do cinema. O filme também foi reconhecido com indicações ao Oscar de Melhor Roteiro Adaptado e Melhor Trilha Sonora Original.</p><h2>Elenco de peso e sucesso de bilheteria</h2><p>O elenco de <b><i>Tinker Tailor Soldier Spy</i></b> conta com nomes como Colin Firth, Tom Hardy, Mark Strong, Benedict Cumberbatch e John Hurt, entre outros, que entregam atuações precisas e sombrias. A qualidade do filme foi reconhecida pela crítica, que o avaliou com 83% de aprovação no Rotten Tomatoes, e pelo público, garantindo um sucesso de bilheteria com arrecadação de US$ 81,2 milhões mundialmente, contra um orçamento de US$ 21 milhões.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/01/george-smiley-in-tinker-tailor-soldier-spy.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"George Smiley em uma sala de reunião em Tinker Tailor Soldier Spy.\"><figcaption>A atmosfera tensa em \"Tinker Tailor Soldier Spy\" é construída com cenários intimistas e diálogos carregados.</figcaption></figure><p>Muitos argumentam que <b><i>Tinker Tailor Soldier Spy</i></b> supera até mesmo os filmes mais aclamados de James Bond, incluindo os da era Daniel Craig. Embora a franquia 007 continue a ser um pilar da ação no cinema, este filme de 2011 oferece uma experiência mais cerebral e focada na complexidade da espionagem.</p><h2>Uma nova perspectiva sobre o gênero</h2><p>O filme se diferencia ao focar na investigação de uma toupeira dentro da agência de inteligência britânica conhecida como \"O Circo\". A trama se desenrola através de interrogatórios, análise de documentos e a desconfiança mútua entre os personagens, culminando em uma conclusão que, embora contenha um raro momento de violência, prioriza a resolução intelectual do mistério.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/04/tom-751.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Tom Hardy em uma cena de Tinker Tailor Soldier Spy.\"><figcaption>Tom Hardy integra o elenco de estrelas de \"Tinker Tailor Soldier Spy\".</figcaption></figure><p>Enquanto outros filmes de espionagem da década, como a franquia <b><i>Missão: Impossível</i></b>, <b><i>Argo</i></b> e <b><i>Kingsman: O Serviço Secreto</i></b>, ofereceram diferentes facetas do gênero – de ação pura a comédia e drama histórico –, <b><i>Tinker Tailor Soldier Spy</i></b> se manteve fiel à sua abordagem sofisticada e sombria, solidificando seu lugar como um marco do cinema de espionagem do século XXI.</p>",
+      "meta_description": "Filme de espionagem britânico de 2011, \"Tinker Tailor Soldier Spy\" com Gary Oldman é aclamado como o melhor da década, superando James Bond e Jason Bourne.",
+      "focus_keyphrase": "Tinker Tailor Soldier Spy",
+      "related_keyphrases": [
+        "melhor filme de espionagem",
+        "Gary Oldman George Smiley",
+        "John le Carré adaptações"
+      ],
+      "slug": "tinker-tailor-soldier-spy-melhor-espionagem",
+      "categorias": [
+        {
+          "nome": "Tinker Tailor Soldier Spy",
+          "grupo": "obras",
+          "evidence": "<strong><em>Tinker Tailor Soldier Spy</em></strong> might be the best movie ever based on a John le Carré novel"
+        },
+        {
+          "nome": "James Bond",
+          "grupo": "franquias",
+          "evidence": "Daniel Craig and his successful run as James Bond"
+        },
+        {
+          "nome": "Jason Bourne",
+          "grupo": "franquias",
+          "evidence": "Matt Damon and his <em>Bourne Identity</em> character"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tinker Tailor Soldier Spy",
+        "Gary Oldman",
+        "John le Carré",
+        "Filmes de Espionagem",
+        "Tomas Alfredson",
+        "BBC",
+        "Thriller"
+      ],
+      "image_alt_texts": {
+        "benedict-cumberbatch-in-tinker-tailor-soldier-spy.jpg": "George Smiley e Peter Guillam em uma cena de Tinker Tailor Soldier Spy.",
+        "george-smiley-in-tinker-tailor-soldier-spy.jpg": "George Smiley em uma sala de reunião sombria em Tinker Tailor Soldier Spy.",
+        "tom-751.jpg": "Tom Hardy em uma cena tensa de Tinker Tailor Soldier Spy."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "\"Tinker Tailor Soldier Spy\": O Melhor Filme de Espionagem da Década | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Filme de espionagem britânico de 2011, \"Tinker Tailor Soldier Spy\" com Gary Oldman é aclamado como o melhor da década, superando James Bond e Jason Bourne.",
+        "_yoast_wpseo_focuskw": "Tinker Tailor Soldier Spy",
+        "_yoast_news_keywords": "Tinker Tailor Soldier Spy, Gary Oldman, John le Carré, filmes de espionagem, Tomas Alfredson, BBC, thriller, cinema britânico",
+        "_yoast_wpseo_opengraph-title": "\"Tinker Tailor Soldier Spy\": O Melhor Filme de Espionagem da Década",
+        "_yoast_wpseo_opengraph-description": "Filme de espionagem britânico de 2011, \"Tinker Tailor Soldier Spy\" com Gary Oldman é aclamado como o melhor da década, superando James Bond e Jason Bourne.",
+        "_yoast_wpseo_twitter-title": "\"Tinker Tailor Soldier Spy\": O Melhor Filme de Espionagem da Década",
+        "_yoast_wpseo_twitter-description": "Filme de espionagem britânico de 2011, \"Tinker Tailor Soldier Spy\" com Gary Oldman é aclamado como o melhor da década, superando James Bond e Jason Bourne."
+      }
+    },
+    {
+      "titulo_final": "Tron: Ares registra queda preocupante em bilheteria e pode ser o pior da franquia",
+      "conteudo_final": "<p><b><i>Tron: Ares</i></b>, a mais nova adição à saga de ficção científica, enfrenta um segundo fim de semana desafiador nas bilheterias. O filme, estrelado por Jared Leto, apresentava um desempenho inicial promissor em comparação com o <b><i>Tron</i></b> original, mas agora registra uma queda preocupante na receita, correndo o risco de se tornar o capítulo com o pior desempenho da franquia.</p><h2>Queda abrupta nas arrecadações</h2><p>Após um fim de semana de estreia com US$ 33,2 milhões, <b><i>Tron: Ares</i></b> projetava arrecadar apenas US$ 11 milhões em seu segundo fim de semana doméstico. Essa marca representa uma queda de 65% em relação à semana anterior, um índice superior ao declínio de 56,5% registrado por <b><i>Tron: Legacy</i></b> em 2010. O filme original de 1982, apesar de ser o de menor bilheteria da série com US$ 50 milhões mundialmente, teve uma queda de apenas 23,4% em seu segundo fim de semana, mostrando uma resiliência maior.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/01568212_poster_w780.jpg?q=70&fit=contain&w=480&dpr=1\" alt=\"Pôster oficial do filme Tron: Ares.\"><figcaption>O pôster de \"Tron: Ares\" destaca os elementos visuais futuristas da franquia.</figcaption></figure><p>A diferença na performance entre <b><i>Tron: Ares</i></b> e <b><i>Tron: Legacy</i></b> é ainda mais acentuada quando se compara o acúmulo total de bilheteria. Enquanto o novo filme deve atingir US$ 54 milhões após dez dias em exibição, <b><i>Tron: Legacy</i></b> já somava US$ 87,4 milhões no mesmo período.</p><h2>Recepção da crítica e do público</h2><p>Apesar da má performance em bilheteria, a recepção crítica de <b><i>Tron: Ares</i></b> tem sido mista, com uma pontuação de 52% no Rotten Tomatoes. Curiosamente, <b><i>Tron: Legacy</i></b> obteve uma nota de apenas 51% no mesmo agregador, mas ainda assim superou o desempenho de seu sucessor tanto na estreia quanto no segundo fim de semana.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/tron-ares-jared-leto-costume-and-hair.jpg?q=49&fit=crop&w=450&h=225&dpr=2\" alt=\"Jared Leto como Ares em Tron: Ares.\"><figcaption>Jared Leto interpreta Ares, o protagonista do novo filme da franquia Tron.</figcaption></figure><p>O público, por sua vez, demonstrou um engajamento maior com a franquia em filmes anteriores. <b><i>Tron: Legacy</i></b>, por exemplo, conquistou uma nota média de 8.0/10 com base em 35 avaliações de usuários, enquanto <b><i>Tron: Ares</i></b> obteve uma nota de 4/10. Essa disparidade pode refletir um menor entusiasmo do público em relação à nova direção da saga.</p><h2>Desempenho da franquia</h2><p>O filme original de 1982, <b><i>Tron</i></b>, arrecadou cerca de US$ 50 milhões globalmente, sendo o capítulo de menor bilheteria. Já <b><i>Tron: Legacy</i></b> alcançou US$ 44 milhões em seu fim de semana de estreia e um total mundial de US$ 400 milhões. A performance de <b><i>Tron: Ares</i></b>, neste momento, sugere que ele terá dificuldades em superar os números de seus antecessores.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/tron-ares-gillian-anderson-evan-peters-julian-dillinger.jpg?q=49&fit=crop&w=480&h=320&dpr=2\" alt=\"Gillian Anderson e Evan Peters em cena de Tron: Ares.\"><figcaption>Gillian Anderson e Evan Peters também estão no elenco de \"Tron: Ares\".</figcaption></figure><p>O desempenho de <b><i>Tron: Ares</i></b> nas próximas semanas será crucial para determinar seu impacto final na bilheteria e seu lugar na história da franquia. A expectativa é que a Disney analise os resultados para futuras decisões sobre a continuidade da saga no universo digital.</p>",
+      "meta_description": "Tron: Ares enfrenta queda preocupante em bilheteria no segundo fim de semana, arriscando ser o pior filme da franquia. Saiba os detalhes!",
+      "focus_keyphrase": "Tron: Ares bilheteria",
+      "related_keyphrases": [
+        "Tron legado bilheteria",
+        "Jared Leto Tron",
+        "franquia Tron desempenho"
+      ],
+      "slug": "tron-ares-queda-bilheteria",
+      "categorias": [
+        {
+          "nome": "Tron: Ares",
+          "grupo": "obras",
+          "evidence": "<strong><em>Tron: Ares</em></strong> is being dealt another blow during its second weekend at the box office."
+        },
+        {
+          "nome": "Tron",
+          "grupo": "franquias",
+          "evidence": "expanding the long-running sci-fi franchise."
+        },
+        {
+          "nome": "Ficção Científica",
+          "grupo": "editorias",
+          "evidence": "The sci-fi movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tron: Ares",
+        "Jared Leto",
+        "Tron: Legacy",
+        "Bilheteria",
+        "Cinema",
+        "Ficção Científica",
+        "Disney"
+      ],
+      "image_alt_texts": {
+        "01568212_poster_w780.jpg": "Pôster oficial do filme Tron: Ares.",
+        "tron-ares-jared-leto-costume-and-hair.jpg": "Jared Leto como Ares no filme Tron: Ares, com seu traje característico.",
+        "tron-ares-gillian-anderson-evan-peters-julian-dillinger.jpg": "Gillian Anderson e Evan Peters em uma cena de ação em Tron: Ares."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tron: Ares em Queda na Bilheteria: Pior Desempenho da Franquia? | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Tron: Ares enfrenta queda preocupante em bilheteria no segundo fim de semana, arriscando ser o pior filme da franquia. Saiba os detalhes!",
+        "_yoast_wpseo_focuskw": "Tron: Ares bilheteria",
+        "_yoast_news_keywords": "Tron: Ares, Tron, Bilheteria, Cinema, Ficção Científica, Jared Leto, Disney",
+        "_yoast_wpseo_opengraph-title": "Tron: Ares em Queda na Bilheteria: Pior Desempenho da Franquia?",
+        "_yoast_wpseo_opengraph-description": "Tron: Ares enfrenta queda preocupante em bilheteria no segundo fim de semana, arriscando ser o pior filme da franquia. Saiba os detalhes!",
+        "_yoast_wpseo_twitter-title": "Tron: Ares em Queda na Bilheteria: Pior Desempenho da Franquia?",
+        "_yoast_wpseo_twitter-description": "Tron: Ares enfrenta queda preocupante em bilheteria no segundo fim de semana, arriscando ser o pior filme da franquia. Saiba os detalhes!"
+      }
+    }
+  ]
+}

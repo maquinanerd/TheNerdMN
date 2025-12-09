@@ -1,0 +1,54 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Wars: Visions atinge pontuação perfeita no Rotten Tomatoes em nova temporada",
+      "conteudo_final": "<p>A série antológica de animação <b>Star Wars: Visions</b> retorna ao Disney+ com uma impressionante pontuação de 100% no Rotten Tomatoes para sua terceira temporada. Lançada na quarta-feira, 29 de maio, a nova leva de episódios traz nove histórias curtas, mantendo a tradição de lançamentos bienais.</p>\n<h2>Recepção Crítica Positiva</h2>\n<p>No dia do lançamento, a terceira temporada de <i>Star Wars: Visions</i> alcançou a nota máxima no agregador de críticas. Críticos destacaram a animação de alta qualidade e as narrativas envolventes, com menções a reviravoltas surpreendentes e até a um episódio descrito como uma obra-prima. Essa recepção perfeita se alinha com as temporadas anteriores, que registraram 96% e 100% de aprovação, respectivamente.</p>\n<figure>\n<img src=\"https:
+      "meta_description": "Star Wars: Visions conquista pontuação perfeita no Rotten Tomatoes com sua 3ª temporada no Disney+. Série antológica de animação é elogiada por crítica.",
+      "focus_keyphrase": "Star Wars: Visions",
+      "related_keyphrases": [
+        "Star Wars Visions temporada 3",
+        "Star Wars Visions Rotten Tomatoes",
+        "Disney Plus Star Wars"
+      ],
+      "slug": "star-wars-visions-rotten-tomatoes-perfeito",
+      "categorias": [
+        {
+          "nome": "Star Wars: Visions",
+          "grupo": "obras",
+          "evidence": "Star Wars: Visions é de novo"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "Disney+ foi lançado em 2019"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars é de novo"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars: Visions",
+        "Disney+",
+        "Rotten Tomatoes",
+        "Animação",
+        "Série",
+        "Star Wars"
+      ],
+      "image_alt_texts": {
+        "star_wars_visions_2_tv_poster.jpg": "Pôster da 2ª temporada de Star Wars: Visions, com personagens e elementos icônicos da série animada."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Visions | Nova Temporada Atinge Pontuação Perfeita no Rotten Tomatoes",
+        "_yoast_wpseo_metadesc": "Star Wars: Visions conquista pontuação perfeita no Rotten Tomatoes com sua 3ª temporada no Disney+. Série antológica de animação é elogiada por crítica.",
+        "_yoast_wpseo_focuskw": "Star Wars: Visions",
+        "_yoast_news_keywords": "Star Wars: Visions, Disney+, Rotten Tomatoes, Animação, Série, Star Wars",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Visions Atinge Pontuação Perfeita no Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-description": "A série antológica de animação Star Wars: Visions retorna ao Disney+ com uma impressionante pontuação de 100% no Rotten Tomatoes para sua terceira temporada.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Visions Atinge Pontuação Perfeita no Rotten Tomatoes",
+        "_yoast_wpseo_twitter-description": "A série antológica de animação Star Wars: Visions retorna ao Disney+ com uma impressionante pontuação de 100% no Rotten Tomatoes para sua terceira temporada."
+      }
+    }
+  ]
+}

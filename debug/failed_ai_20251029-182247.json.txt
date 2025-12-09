@@ -1,0 +1,51 @@
+{
+  "titulo_final": "A Casa da Dinamite: Estrutura da Trama Prejudica o Final do Filme",
+  "conteudo_final": "<p>O filme <b>A Casa da Dinamite</b>, dirigido por Kathryn Bigelow, tem gerado reações intensas na Netflix. Após sua estreia no Festival de Veneza, o thriller sobre a resposta do governo dos EUA a um míssil nuclear iminente recebeu críticas mistas. Atualmente em alta na plataforma, o longa-metragem revive debates entre o público sobre seu desfecho.</p><h2>O Final Controverso de A Casa da Dinamite</h2><p>Grande parte da discussão gira em torno do final de <i>A Casa da Dinamite</i>, onde o míssil nuclear não é impedido de atingir Chicago. Os cineastas optaram por não mostrar as consequências, deixando em aberto se a ogiva detonou ou se o Presidente responderá de forma diferente às sugestões de seus assessores. A cena final mostra personagens chegando ao complexo militar Raven Rock e o comandante de Fort Greely, interpretado por Anthony Ramos, desabando de joelhos antes dos créditos subirem.</p><figure><img src=\"https:
+  "meta_description": "Entenda por que o final de A Casa da Dinamite, sucesso na Netflix, gera polêmica e se a estrutura narrativa prejudica a experiência do espectador.",
+  "focus_keyphrase": "A Casa da Dinamite final",
+  "related_keyphrases": [
+    "A Casa da Dinamite Netflix",
+    "crítica A Casa da Dinamite",
+    "Kathryn Bigelow filme"
+  ],
+  "slug": "a-casa-da-dinamite-final-critica",
+  "categorias": [
+    {
+      "nome": "A Casa da Dinamite",
+      "grupo": "obras",
+      "evidence": "A House of Dynamite"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "obras",
+      "evidence": "#1 on Netflix's Top 10 Movies"
+    },
+    {
+      "nome": "Kathryn Bigelow",
+      "grupo": "obras",
+      "evidence": "Kathryn Bigelow's A House of Dynamite"
+    }
+  ],
+  "tags_sugeridas": [
+    "A Casa da Dinamite",
+    "Netflix",
+    "Kathryn Bigelow",
+    "Thriller",
+    "Filme de Guerra",
+    "Idris Elba"
+  ],
+  "image_alt_texts": {
+    "idris-elba-as-potus-looking-down-in-distressed-contemplation-in-a-house-of-dynamite.jpg": "Idris Elba como POTUS em A Casa da Dinamite, pensativo.",
+    "01822732_poster_w780-1.jpg": "Pôster do filme A Casa da Dinamite."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "A Casa da Dinamite: Final e Estrutura da Trama Prejudicam o Filme",
+    "_yoast_wpseo_metadesc": "Entenda por que o final de A Casa da Dinamite, sucesso na Netflix, gera polêmica e se a estrutura narrativa prejudica a experiência do espectador.",
+    "_yoast_wpseo_focuskw": "A Casa da Dinamite final",
+    "_yoast_news_keywords": "A Casa da Dinamite, Netflix, Kathryn Bigelow, Thriller, Filme de Guerra, Idris Elba, Anthony Ramos, Willa Fitzgerald, Moses Ingram, Kaitlyn Dever",
+    "_yoast_wpseo_opengraph-title": "A Casa da Dinamite: Final e Estrutura da Trama Prejudicam o Filme",
+    "_yoast_wpseo_opengraph-description": "Entenda por que o final de A Casa da Dinamite, sucesso na Netflix, gera polêmica e se a estrutura narrativa prejudica a experiência do espectador.",
+    "_yoast_wpseo_twitter-title": "A Casa da Dinamite: Final e Estrutura da Trama Prejudicam o Filme",
+    "_yoast_wpseo_twitter-description": "Entenda por que o final de A Casa da Dinamite, sucesso na Netflix, gera polêmica e se a estrutura narrativa prejudica a experiência do espectador."
+  }
+}

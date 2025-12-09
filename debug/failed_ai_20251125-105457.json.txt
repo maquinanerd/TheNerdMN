@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "James Cameron: Filmes da Netflix não devem competir no Oscar",
+      "conteudo_final": "<p><strong>James Cameron</strong> critica a elegibilidade de filmes da Netflix para o Oscar. O cineasta, conhecido por superproduções como <em>Avatar</em> e <em>Titanic</em>, defende que obras lançadas diretamente em streaming não deveriam disputar a premiação, argumentando que a experiência cinematográfica é fundamental.</p><h2>Elegibilidade da Netflix no Oscar</h2><p>A Netflix tem ganhado destaque nas últimas premiações, com indicações ao Oscar em categorias importantes como Melhor Filme para obras como <em>Oppenheimer</em>, <em>Roma</em> e <em>Poderoso Chefão</em>. No entanto, a estratégia da plataforma de lançar alguns filmes em poucas salas de cinema por um curto período, apenas para cumprir requisitos de elegibilidade, tem gerado controvérsia. Cameron considera essa prática "fundamentalmente podre".</p><h2>A importância da experiência teatral</h2><p>Durante uma entrevista no podcast <em>The Town with Matthew Belloni</em>, Cameron declarou: \"<em>O Oscar, para mim, não significa nada se não significar o cinema. Eles deveriam ter permissão para competir se lançassem o filme para um lançamento significativo em 2000 salas por um mês.</em>\" O diretor enfatiza que a essência da premiação está ligada à experiência da exibição em salas de cinema, algo que ele sempre buscou em sua própria filmografia.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/qJv2nK3B-uM\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>James Cameron discute a relevância de filmes exibidos em cinemas.</figcaption></figure><h2>Impacto nos cinemas e no futuro das premiações</h2><p>A declaração de Cameron reforça o debate sobre o papel dos filmes de streaming em grandes premiações e o futuro das salas de cinema, que enfrentam desafios desde a pandemia. O cineasta sugere que a Netflix pode precisar reavaliar o valor de seus lançamentos em cinemas para futuras disputas por premiações, especialmente considerando a importância da experiência teatral para a própria Academia.</p>",
+      "meta_description": "James Cameron defende que filmes da Netflix não deveriam ser elegíveis ao Oscar, criticando a estratégia de lançamentos curtos em cinemas para cumprir regras de premiação.",
+      "focus_keyphrase": "James Cameron filmes Netflix Oscar",
+      "related_keyphrases": [
+        "James Cameron Oscar",
+        "Netflix elegibilidade Oscar",
+        "crítica James Cameron filmes streaming"
+      ],
+      "slug": "james-cameron-filmes-netflix-oscar",
+      "categorias": [
+        {
+          "nome": "Oscar",
+          "grupo": "eventos",
+          "evidence": "a elegibilidade de filmes da Netflix para o Oscar"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "filmes da Netflix"
+        },
+        {
+          "nome": "James Cameron",
+          "grupo": "diretores",
+          "evidence": "James Cameron"
+        }
+      ],
+      "tags_sugeridas": [
+        "James Cameron",
+        "Netflix",
+        "Oscar",
+        "Academy Awards",
+        "streaming",
+        "cinema",
+        "Avatar"
+      ],
+      "image_alt_texts": {
+        "adobe-express-file-4.jpg": "Oscar Isaac como Victor Frankenstein em filme da Netflix, criticado por James Cameron em debate sobre elegibilidade ao Oscar."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "James Cameron: Filmes da Netflix não devem competir no Oscar",
+        "_yoast_wpseo_metadesc": "James Cameron defende que filmes da Netflix não deveriam ser elegíveis ao Oscar, criticando a estratégia de lançamentos curtos em cinemas para cumprir regras de premiação.",
+        "_yoast_wpseo_focuskw": "James Cameron filmes Netflix Oscar",
+        "_yoast_news_keywords": "James Cameron, Netflix, Oscar, Academy Awards, streaming, cinema, Avatar, James Cameron Oscar, Netflix elegibilidade Oscar",
+        "_yoast_wpseo_opengraph-title": "James Cameron: Filmes da Netflix não devem competir no Oscar",
+        "_yoast_wpseo_opengraph-description": "James Cameron defende que filmes da Netflix não deveriam ser elegíveis ao Oscar, criticando a estratégia de lançamentos curtos em cinemas para cumprir regras de premiação.",
+        "_yoast_wpseo_twitter-title": "James Cameron: Filmes da Netflix não devem competir no Oscar",
+        "_yoast_wpseo_twitter-description": "James Cameron defende que filmes da Netflix não deveriam ser elegíveis ao Oscar, criticando a estratégia de lançamentos curtos em cinemas para cumprir regras de premiação."
+      }
+    }
+  ]
+}

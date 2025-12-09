@@ -1,0 +1,61 @@
+{
+  "titulo_final": "Séries de Suspense Político para Fãs de A House of Dynamite",
+  "conteudo_final": "<p>Quando <strong><em>A House of Dynamite</em></strong> estreou na Netflix em 2025, tornou-se uma sensação instantânea. O thriller político de Kathryn Bigelow, estrelado por Idris Elba e Rebecca Ferguson, oferece uma representação tensa e meticulosamente elaborada de um governo em pânico diante de um cenário de guerra nuclear contra os Estados Unidos. É uma aula de suspense, escala e realismo.</p><p>O filme capturou a imaginação do público, deixando muitos ansiosos por mais histórias que equilibram intriga política com tensão de roer as unhas. Os espectadores que não se cansam de sua escalada minuto a minuto encontrarão muitas séries que capturam uma energia semelhante. Estas séries envolventes sobre sobrevivência diante de crises são garantidas para manter os fãs de <em>A House of Dynamite</em> na ponta de seus assentos.</p><h2>The Americans (2013-2018)</h2><p>Uma obra-prima de espionagem em ritmo lento que transforma a paranoia da Guerra Fria em guerra emocional. A série da FX, <em>The Americans</em>, entrega uma das histórias de espionagem mais meticulosamente elaboradas da televisão. Ambientada em Washington, D.C., nos anos 80, acompanha Elizabeth (Keri Russell) e Philip Jennings (Matthew Rhys), dois espiões soviéticos disfarçados de casal suburbano americano. Sob sua fachada doméstica, o casal equilibra missões de engano, lealdade e amor, muitas vezes com consequências emocionais devastadoras.</p><figure><img src=\"https:
+  "meta_description": "Descubra séries de suspense político e intriga que capturam a tensão de A House of Dynamite, com foco em espionagem e crises globais.",
+  "focus_keyphrase": "A House of Dynamite",
+  "related_keyphrases": [
+    "séries de suspense político",
+    "thriller de espionagem",
+    "filmes como A House of Dynamite"
+  ],
+  "slug": "series-suspense-politico-house-of-dynamite",
+  "categorias": [
+    {
+      "nome": "A House of Dynamite",
+      "grupo": "obras",
+      "evidence": "A House of Dynamite exploded onto Netflix in 2025"
+    },
+    {
+      "nome": "The Americans",
+      "grupo": "obras",
+      "evidence": "The Americans (2013-2018)"
+    },
+    {
+      "nome": "Chernobyl",
+      "grupo": "obras",
+      "evidence": "Chernobyl (2019)"
+    }
+  ],
+  "tags_sugeridas": [
+    "A House of Dynamite",
+    "The Americans",
+    "Chernobyl",
+    "Designated Survivor",
+    "Bodyguard",
+    "The Night Agent",
+    "Jack Ryan",
+    "Homeland",
+    "The Diplomat"
+  ],
+  "image_alt_texts": {
+    "philip-and-elizabeth-looking-forlorn-at-the-end-of-the-americans.jpg": "Philip e Elizabeth de The Americans, espiões soviéticos disfarçados de casal americano.",
+    "valery-jared-harris-leaning-against-a-wall-in-shock-in-chernobyl.jpg": "Jared Harris como Valery Legasov em Chernobyl, cientista lidando com o desastre nuclear.",
+    "promotional-image-of-the-designated-survivor-cast.jpg": "Elenco de Designated Survivor, com Kiefer Sutherland como o presidente Tom Kirkman.",
+    "richard-madden-and-keeley-hawes-in-bodyguard.jpg": "Richard Madden e Keeley Hawes em Bodyguard, um thriller político de alta tensão.",
+    "peter-and-rose-looking-through-binoculars-in-the-night-agent.jpg": "Peter Sutherland e Rose Croft em The Night Agent, investigando uma conspiração.",
+    "jack-ryan-in-the-season-1-episode-french-connection.jpg": "John Krasinski como Jack Ryan em uma cena de ação da série Jack Ryan.",
+    "homeland-claire-danes.jpg": "Claire Danes como Carrie Mathison em Homeland, uma agente da CIA em missões perigosas.",
+    "the-diplomat-kate-wyler.jpg": "Keri Russell como Kate Wyler em The Diplomat, uma embaixadora lidando com crises globais e pessoais.",
+    "01822732_poster_w780-1.jpg": "Pôster do filme A House of Dynamite, com Idris Elba e Rebecca Ferguson."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Séries de Suspense Político para Fãs de A House of Dynamite | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Descubra séries de suspense político e intriga que capturam a tensão de A House of Dynamite, com foco em espionagem e crises globais.",
+    "_yoast_wpseo_focuskw": "A House of Dynamite",
+    "_yoast_news_keywords": "A House of Dynamite, The Americans, Chernobyl, Designated Survivor, Bodyguard, The Night Agent, Jack Ryan, Homeland, The Diplomat, suspense político, thriller",
+    "_yoast_wpseo_opengraph-title": "Séries de Suspense Político para Fãs de A House of Dynamite",
+    "_yoast_wpseo_opengraph-description": "Descubra séries de suspense político e intriga que capturam a tensão de A House of Dynamite, com foco em espionagem e crises globais.",
+    "_yoast_wpseo_twitter-title": "Séries de Suspense Político para Fãs de A House of Dynamite",
+    "_yoast_wpseo_twitter-description": "Descubra séries de suspense político e intriga que capturam a tensão de A House of Dynamite, com foco em espionagem e crises globais."
+  }
+}

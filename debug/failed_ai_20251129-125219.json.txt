@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pixar confirma Toy Story 5 com retorno de Woody para 2026",
+      "conteudo_final": "<p>Antes da chegada de <strong><em>Toy Story 5</em></strong> aos cinemas, os fãs revisitam os quatro filmes anteriores, que voltaram a figurar no Top 10 do streaming. As quatro produções da franquia <strong><em>Toy Story</em></strong> se tornaram sucessos recentes no Disney+ nos Estados Unidos, disputando espaço com produções temáticas de feriados e outros blockbusters.</p><p>Em 24 de novembro de 2025, o primeiro filme de <em>Toy Story</em> ocupa a 2ª posição no ranking geral do Disney+, seguido por <strong><em>Toy Story 3</em></strong> em 4º lugar, <strong><em>Toy Story 2</em></strong> em 6º e <strong><em>Toy Story 4</em></strong> em 10º. Infelizmente, spin-offs e curtas como <em>Lightyear</em> e <em>Forky Asks a Question</em> não alcançaram o Top 10.</p><p>A franquia <em>Toy Story</em> acompanha um grupo de brinquedos que ganham vida quando estão sozinhos, abordando temas como o crescimento e o questionamento sobre o propósito de um brinquedo. O primeiro filme, lançado em 1995, foi um sucesso imediato, arrecadando mais de US$ 237 milhões e recebendo três indicações ao Oscar. Três sequências foram lançadas, cada uma gerando maior receita de bilheteria, transformando <em>Toy Story</em> em uma franquia bilionária, com <em>Toy Story 3</em> e <em>4</em> ultrapassando US$ 1 bilhão cada.</p><h2>O que esperar de 'Toy Story 5'?</h2><p><em>Toy Story 5</em> apresentará uma nova adição ao quarto de brinquedos: a tecnologia. Bonnie, agora com oito anos, recebe um tablet chamado LilyPad, e tanto os brinquedos quanto o tablet disputam o que é melhor para sua dona. Foi reportado que <em>Toy Story 5</em> focará em Jessie como a nova líder dos brinquedos após os eventos de <em>Toy Story 4</em>. No entanto, foi revelado que Woody retornará ao filme, apesar de ter se despedido de seus amigos.</p><p>O diretor de <em>Toy Story 5</em>, Andrew Stanton, defendeu a continuação da franquia, pois a ideia de um quinto filme gerou reações mistas dos fãs, especialmente após <em>Toy Story 3</em> ter um final considerado conclusivo. Segundo ele, ninguém terá sua trilogia roubada, e <em>Toy Story 1-3</em> podem ser vistos como a "Saga de Andy".</p><p>Todos os quatro filmes de <em>Toy Story</em> estão disponíveis para streaming no Disney+. Enquanto isso, <em>Toy Story 5</em> tem estreia prevista para 2026.</p>",
+      "meta_description": "Reviva a magia de Toy Story! A franquia retorna ao Top 10 do Disney+ e a expectativa para Toy Story 5 cresce com o possível retorno de Woody.",
+      "focus_keyphrase": "Toy Story 5",
+      "related_keyphrases": [
+        "franquia Toy Story",
+        "Pixar",
+        "Disney+"
+      ],
+      "slug": "pixar-toy-story-5-woody-2026",
+      "categorias": [
+        {
+          "nome": "Toy Story",
+          "grupo": "franquias",
+          "evidence": "Toy Story 5"
+        },
+        {
+          "nome": "Pixar",
+          "grupo": "estudios",
+          "evidence": "Pixar's Billion Dollar Animated Franchise"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "Disney+'s Top 10"
+        }
+      ],
+      "tags_sugeridas": [
+        "Toy Story 5",
+        "Pixar",
+        "Disney+",
+        "Woody",
+        "Jessie",
+        "Andrew Stanton",
+        "Animação"
+      ],
+      "image_alt_texts": {
+        "toy-story-1-4-disney-plus.jpg": "Personagens de Toy Story 1-4 em destaque no Top 10 do Disney+.",
+        "toy-story-5-jessie-bonnie-lilypad.jpg": "Jessie e Bonnie com o tablet LilyPad no futuro filme Toy Story 5.",
+        "toy-story-woody-buzz-chegando.jpg": "Woody e Buzz Lightyear em cena clássica da franquia Toy Story."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pixar confirma Toy Story 5 com retorno de Woody para 2026 | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Reviva a magia de Toy Story! A franquia retorna ao Top 10 do Disney+ e a expectativa para Toy Story 5 cresce com o possível retorno de Woody.",
+        "_yoast_wpseo_focuskw": "Toy Story 5",
+        "_yoast_news_keywords": "Toy Story 5, Pixar, Disney+, Woody, Jessie, Animação, Filmes",
+        "_yoast_wpseo_opengraph-title": "Pixar confirma Toy Story 5 com retorno de Woody para 2026",
+        "_yoast_wpseo_opengraph-description": "Reviva a magia de Toy Story! A franquia retorna ao Top 10 do Disney+ e a expectativa para Toy Story 5 cresce com o possível retorno de Woody.",
+        "_yoast_wpseo_twitter-title": "Pixar confirma Toy Story 5 com retorno de Woody para 2026",
+        "_yoast_wpseo_twitter-description": "Reviva a magia de Toy Story! A franquia retorna ao Top 10 do Disney+ e a expectativa para Toy Story 5 cresce com o possível retorno de Woody."
+      }
+    }
+  ]
+}

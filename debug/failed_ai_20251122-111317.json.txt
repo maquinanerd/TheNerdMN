@@ -1,0 +1,140 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Terra de Oz: O que acontece após o final de Wicked: For Good",
+      "conteudo_final": "<p>A história de Oz não termina com o adeus de Dorothy. O universo criado por L. Frank Baum é vasto e cheio de possibilidades, e o final de <em>Wicked: For Good</em> deixa espaço para novas aventuras.</p><h2>O Legado de Oz</h2><p>Após os eventos de <em>Wicked: For Good</em>, a Terra de Oz continua a ser um lugar de magia e maravilhas. A partida de Dorothy e seus amigos abre caminho para novas gerações de personagens e histórias que exploram as profundezas deste mundo fantástico.</p><h2>Novos Horizontes</h2><p>A narrativa sugere que a magia de Oz permanece, e que novas ameaças ou desafios podem surgir. A terra encantada, com seus habitantes peculiares e paisagens deslumbrantes, sempre oferece um terreno fértil para novas explorações, mantendo o encanto que cativou leitores por gerações.</p><h2>O Futuro da Terra de Oz</h2><p>Embora o destino exato de Oz após <em>Wicked: For Good</em> não seja detalhado, a essência da história reside na continuidade da magia e na esperança. O universo de Oz é um convite para imaginar o que vem a seguir, mantendo viva a chama da fantasia.</p>",
+      "meta_description": "Descubra o que acontece na Terra de Oz após o emocionante final de Wicked: For Good e as possibilidades que se abrem para novas histórias.",
+      "focus_keyphrase": "Terra de Oz",
+      "related_keyphrases": [
+        "final de Wicked: For Good",
+        "universo de Oz",
+        " Dorothy em Oz"
+      ],
+      "slug": "terra-de-oz-apos-wicked-for-good",
+      "categorias": [
+        {
+          "nome": "Wicked",
+          "grupo": "obras",
+          "evidence": "Wicked: For Good"
+        },
+        {
+          "nome": "Oz",
+          "grupo": "franquias",
+          "evidence": "Terra de Oz"
+        }
+      ],
+      "tags_sugeridas": [
+        "Oz",
+        "Wicked",
+        "Dorothy",
+        "L. Frank Baum",
+        "literatura fantástica"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Terra de Oz: O que acontece após o final de Wicked: For Good",
+        "_yoast_wpseo_metadesc": "Descubra o que acontece na Terra de Oz após o emocionante final de Wicked: For Good e as possibilidades que se abrem para novas histórias.",
+        "_yoast_wpseo_focuskw": "Terra de Oz",
+        "_yoast_news_keywords": "Oz, Wicked, Dorothy, L. Frank Baum, literatura fantástica, Wicked: For Good",
+        "_yoast_wpseo_opengraph-title": "Terra de Oz: O que acontece após o final de Wicked: For Good",
+        "_yoast_wpseo_opengraph-description": "Descubra o que acontece na Terra de Oz após o emocionante final de Wicked: For Good e as possibilidades que se abrem para novas histórias.",
+        "_yoast_wpseo_twitter-title": "Terra de Oz: O que acontece após o final de Wicked: For Good",
+        "_yoast_wpseo_twitter-description": "Descubra o que acontece na Terra de Oz após o emocionante final de Wicked: For Good e as possibilidades que se abrem para novas histórias."
+      }
+    },
+    {
+      "titulo_final": "Brendan Fraser relembra audição frustrada para Superman e roteiro de 'Shakespeare In Space'",
+      "conteudo_final": "<p>Brendan Fraser, conhecido por seus papéis icônicos, compartilhou detalhes sobre sua audição para o papel de Superman e comentou sobre um roteiro inusitado intitulado <em>Shakespeare In Space</em>.</p><h2>A Oportunidade Perdida do Superman</h2><p>Em uma conversa recente, Fraser revelou que chegou a fazer testes para interpretar o Homem de Aço em um projeto que, eventualmente, não se concretizou. O ator descreveu a experiência como uma oportunidade que não se materializou, deixando um gostinho de "e se?" para os fãs.</p><h2>'Shakespeare In Space': Uma Ideia Inusitada</h2><p>O ator também comentou sobre um roteiro peculiar que lhe foi apresentado, <em>Shakespeare In Space</em>. A premissa, que mistura o clássico literário com ficção científica, chamou a atenção pela originalidade, embora não tenha avançado para produção.</p><h2>Carreira de Brendan Fraser</h2><p>Com uma carreira marcada por sucessos como <em>A Múmia</em> e <em>George, o Rei da Floresta</em>, Brendan Fraser tem visto um renascimento em sua trajetória profissional, aclamado por sua atuação em <em>A Baleia</em>. Suas memórias de audições e projetos não realizados adicionam uma camada interessante à sua trajetória.</p>",
+      "meta_description": "Brendan Fraser relembra sua audição para o papel de Superman e comenta sobre o roteiro 'Shakespeare In Space', adicionando detalhes à sua rica carreira.",
+      "focus_keyphrase": "Brendan Fraser Superman",
+      "related_keyphrases": [
+        "Brendan Fraser audição",
+        "Shakespeare In Space roteiro",
+        "Homem de Aço"
+      ],
+      "slug": "brendan-fraser-superman-audicao-shakespeare-in-space",
+      "categorias": [
+        {
+          "nome": "Superman",
+          "grupo": "franquias",
+          "evidence": "Superman"
+        },
+        {
+          "nome": "DC Comics",
+          "grupo": "editorias",
+          "evidence": "DC"
+        },
+        {
+          "nome": "Brendan Fraser",
+          "grupo": "atores",
+          "evidence": "Brendan Fraser"
+        }
+      ],
+      "tags_sugeridas": [
+        "Brendan Fraser",
+        "Superman",
+        "DC Comics",
+        "audicao",
+        "Shakespeare In Space"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Brendan Fraser relembra audição frustrada para Superman e roteiro de 'Shakespeare In Space'",
+        "_yoast_wpseo_metadesc": "Brendan Fraser relembra sua audição para o papel de Superman e comenta sobre o roteiro 'Shakespeare In Space', adicionando detalhes à sua rica carreira.",
+        "_yoast_wpseo_focuskw": "Brendan Fraser Superman",
+        "_yoast_news_keywords": "Brendan Fraser, Superman, DC Comics, audicao, Shakespeare In Space, Homem de Aço",
+        "_yoast_wpseo_opengraph-title": "Brendan Fraser relembra audição frustrada para Superman e roteiro de 'Shakespeare In Space'",
+        "_yoast_wpseo_opengraph-description": "Brendan Fraser relembra sua audição para o papel de Superman e comenta sobre o roteiro 'Shakespeare In Space', adicionando detalhes à sua rica carreira.",
+        "_yoast_wpseo_twitter-title": "Brendan Fraser relembra audição frustrada para Superman e roteiro de 'Shakespeare In Space'",
+        "_yoast_wpseo_twitter-description": "Brendan Fraser relembra sua audição para o papel de Superman e comenta sobre o roteiro 'Shakespeare In Space', adicionando detalhes à sua rica carreira."
+      }
+    },
+    {
+      "titulo_final": "Netflix perde série aclamada da DC; tempo para assistir está acabando",
+      "conteudo_final": "<p>A Netflix está prestes a perder uma das séries mais elogiadas do universo DC Comics. A plataforma de streaming removerá o título de seu catálogo em breve, e os assinantes têm um prazo limitado para maratonar.</p><h2>Despedida de Série DC na Netflix</h2><p>A série em questão, conhecida por sua qualidade e fidelidade aos quadrinhos, deixará a Netflix em breve. A notícia pegou muitos fãs de surpresa, que ainda não tiveram a chance de assistir ou desejam rever os episódios.</p><h2>O Que Esperar da Saída</h2><p>A remoção de séries de plataformas de streaming é uma prática comum, geralmente ligada a acordos de licenciamento. A saída de uma produção tão querida da DC levanta questões sobre o futuro de outras séries e filmes do gênero nas plataformas.</p><h2>Última Chance para Assistir</h2><p>Os fãs que desejam assistir à série antes que ela desapareça do catálogo da Netflix devem se apressar. A data exata da remoção ainda não foi confirmada, mas a urgência é clara para quem não quer perder essa produção.</p>",
+      "meta_description": "Uma série aclamada da DC Comics está prestes a deixar o catálogo da Netflix. Saiba qual é a produção e aproveite para assistir antes que seja tarde.",
+      "focus_keyphrase": "série DC Netflix",
+      "related_keyphrases": [
+        "DC Comics séries",
+        "Netflix séries",
+        "séries de super-heróis"
+      ],
+      "slug": "netflix-perde-serie-dc",
+      "categorias": [
+        {
+          "nome": "DC Comics",
+          "grupo": "editorias",
+          "evidence": "DC Comics"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "TV Shows",
+          "grupo": "editorias",
+          "evidence": "TV Shows"
+        }
+      ],
+      "tags_sugeridas": [
+        "DC Comics",
+        "Netflix",
+        "séries",
+        "super-heróis",
+        "licenciamento"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix perde série aclamada da DC; tempo para assistir está acabando",
+        "_yoast_wpseo_metadesc": "Uma série aclamada da DC Comics está prestes a deixar o catálogo da Netflix. Saiba qual é a produção e aproveite para assistir antes que seja tarde.",
+        "_yoast_wpseo_focuskw": "série DC Netflix",
+        "_yoast_news_keywords": "DC Comics, Netflix, séries, super-heróis, licenciamento, TV Shows",
+        "_yoast_wpseo_opengraph-title": "Netflix perde série aclamada da DC; tempo para assistir está acabando",
+        "_yoast_wpseo_opengraph-description": "Uma série aclamada da DC Comics está prestes a deixar o catálogo da Netflix. Saiba qual é a produção e aproveite para assistir antes que seja tarde.",
+        "_yoast_wpseo_twitter-title": "Netflix perde série aclamada da DC; tempo para assistir está acabando",
+        "_yoast_wpseo_twitter-description": "Uma série aclamada da DC Comics está prestes a deixar o catálogo da Netflix. Saiba qual é a produção e aproveite para assistir antes que seja tarde."
+      }
+    }
+  ]
+}

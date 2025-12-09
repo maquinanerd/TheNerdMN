@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Hoodwinked: Clássico cult de conto de fadas chega ao streaming",
+  "conteudo_final": "<p>O clássico cult de animação <b>Hoodwinked</b>, que reimagina o conto de Chapeuzinho Vermelho, finalmente estará disponível em plataformas de streaming após anos fora do alcance dos fãs. O filme, conhecido por sua animação peculiar e narrativa não linear, conquistou um público fiel desde seu lançamento original.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/07/hoodwinked.jpg\" alt=\"Cena de Hoodwinked com Chapeuzinho Vermelho e o Lobo Mau\"><figcaption>A animação cult Hoodwinked retorna ao streaming.</figcaption></figure><h2>Aquisição e Distribuição no Streaming</h2><p>A Content Partners LLC anunciou a aquisição dos direitos do filme e de sua sequência, <b>Hoodwinked Too! Hood vs. Evil</b>. A empresa planeja distribuir ambas as obras para plataformas de streaming, atendendo à demanda dos admiradores. Além disso, a Content Partners detém os direitos para o desenvolvimento de novas produções dentro da franquia, como sequências e prequels, o que alimenta a esperança de um retorno para o universo de Hoodwinked, especialmente com a proximidade do 20º aniversário do filme.</p><p>John Mass, Presidente da Content Partners, expressou entusiasmo com a aquisição: “Estamos animados em dar a Hoodwinked e Hoodwinked Too! um novo lar, enquanto revivamos e preservamos esses filmes queridos para fãs antigos e novos. Este marco de aniversário é o momento perfeito para reintroduzir a franquia ao público, especialmente porque a demanda por conteúdo animado familiar continua a crescer na era do streaming.” Ele acrescentou: “Esta franquia abriu novos caminhos para a animação independente e demonstrou a visão criativa de Maurice Kanbar e dos cineastas. Esperamos trabalhar com nossos parceiros de distribuição para honrar o legado desses filmes, ao mesmo tempo em que os trazemos de volta à conversa cultural.”</p><h2>Elenco de Vozes de Destaque</h2><p>Apesar de ter sido financiado de forma independente, <b>Hoodwinked</b> contou com um elenco de voz impressionante. Nomes como <b>Anne Hathaway</b>, <b>Glenn Close</b> e Patrick Warburton emprestaram suas vozes aos personagens principais. A produção teve um orçamento estimado abaixo de US$ 8 milhões, mas alcançou uma bilheteria mundial de US$ 110 milhões antes de se tornar um clássico cult.</p><p>A sinopse do filme descreve a investigação dos detetives da floresta, Urso (Xzibit) e Garça (Anthony Anderson), sobre um distúrbio na paz entre Vovó (Glenn Close), sua neta Chapeuzinho Vermelho (Anne Hathaway), o Lobo Mau (Patrick Warburton) e o Lenhador (James Belushi). As entrevistas revelam que Vovó não é tão indefesa quanto parece, Chapeuzinho tem segundas intenções, o Lobo não é um predador típico e o Lenhador pode ser mais simples do que aparenta.</p><p><b>Hoodwinked</b> estará disponível em streaming em breve.</p>",
+  "meta_description": "O cult animado Hoodwinked, que reinventa Chapeuzinho Vermelho, chega ao streaming com elenco de Anne Hathaway e Glenn Close. Saiba mais!",
+  "focus_keyphrase": "Hoodwinked",
+  "related_keyphrases": [
+    "animação cult",
+    "clássico de conto de fadas",
+    "filmes de animação"
+  ],
+  "slug": "hoodwinked-classico-conto-fadas-streaming",
+  "categorias": [
+    {
+      "nome": "Hoodwinked",
+      "grupo": "obras",
+      "evidence": "Have you ever heard of Hoodwinked?"
+    },
+    {
+      "nome": "Chapeuzinho Vermelho",
+      "grupo": "obras",
+      "evidence": "non-linear retelling of Little Red Riding Hood"
+    },
+    {
+      "nome": "Anne Hathaway",
+      "grupo": "elenco",
+      "evidence": "Anne Hathaway"
+    }
+  ],
+  "tags_sugeridas": [
+    "Hoodwinked",
+    "Anne Hathaway",
+    "Glenn Close",
+    "animação",
+    "conto de fadas",
+    "clássico cult",
+    "streaming"
+  ],
+  "image_alt_texts": {
+    "hoodwinked.jpg": "Cena de Hoodwinked com Chapeuzinho Vermelho e o Lobo Mau"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Hoodwinked: Clássico cult de conto de fadas chega ao streaming",
+    "_yoast_wpseo_metadesc": "O cult animado Hoodwinked, que reinventa Chapeuzinho Vermelho, chega ao streaming com elenco de Anne Hathaway e Glenn Close. Saiba mais!",
+    "_yoast_wpseo_focuskw": "Hoodwinked",
+    "_yoast_news_keywords": "Hoodwinked, Anne Hathaway, Glenn Close, animação cult, conto de fadas, streaming",
+    "_yoast_wpseo_opengraph-title": "Hoodwinked: Clássico cult de conto de fadas chega ao streaming",
+    "_yoast_wpseo_opengraph-description": "O cult animado Hoodwinked, que reinventa Chapeuzinho Vermelho, chega ao streaming com elenco de Anne Hathaway e Glenn Close. Saiba mais!",
+    "_yoast_wpseo_twitter-title": "Hoodwinked: Clássico cult de conto de fadas chega ao streaming",
+    "_yoast_wpseo_twitter-description": "O cult animado Hoodwinked, que reinventa Chapeuzinho Vermelho, chega ao streaming com elenco de Anne Hathaway e Glenn Close. Saiba mais!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Reacher: Alan Ritchson estrela comédia de ação com Kevin James em novembro",
+      "conteudo_final": "<p>Alan Ritchson, conhecido por seu papel como <b>Reacher</b>, está se aventurando em um novo gênero. Sua nova comédia de ação, <b>Playdate</b>, estrelada ao lado de Kevin James, tem estreia marcada para 12 de novembro no Prime Video. O filme promete uma mistura de humor e ação, com uma reviravolta inesperada.</p>\n\n<h2>Sinopse e Elenco de Playdate</h2>\n<p>Dirigido por Luke Greenfield, conhecido por 'Let’s Be Cops', <b>Playdate</b> acompanha Jeff (Ritchson), um pai aparentemente comum que se aproxima de Brian (James), um contador desempregado tentando se reconectar com seu enteado. No entanto, a situação se complica quando Brian suspeita que seu novo amigo esconde um passado sombrio, transformando o encontro de pais em um confronto perigoso.</p>\n<p>O elenco de apoio conta com talentos como Isla Fisher, Alan Tudyk e Stephen Root, prometendo performances memoráveis.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Alan Ritchson e Kevin James estrelam a comédia de ação Playdate, que estreia no Prime Video em 12 de novembro. Saiba mais sobre o filme.",
+      "focus_keyphrase": "Alan Ritchson Playdate Kevin James",
+      "related_keyphrases": [
+        "Comédia de ação Playdate",
+        "Estreia Playdate Prime Video",
+        "Filme com Alan Ritchson"
+      ],
+      "slug": "reacher-alan-ritchson-comedia-acao-playdate",
+      "categorias": [
+        {
+          "nome": "Playdate",
+          "grupo": "obras",
+          "evidence": "His new action comedy, Playdate, is set to stream on Prime Video"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "editorias",
+          "evidence": "stream on Prime Video"
+        }
+      ],
+      "tags_sugeridas": [
+        "Alan Ritchson",
+        "Kevin James",
+        "Playdate",
+        "Prime Video",
+        "Comédia de Ação",
+        "Luke Greenfield"
+      ],
+      "image_alt_texts": {
+        "1-1.jpg": "Alan Ritchson e Kevin James em cena de Playdate."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Reacher: Alan Ritchson estrela comédia de ação com Kevin James em novembro",
+        "_yoast_wpseo_metadesc": "Alan Ritchson e Kevin James estrelam a comédia de ação Playdate, que estreia no Prime Video em 12 de novembro. Saiba mais sobre o filme.",
+        "_yoast_wpseo_focuskw": "Alan Ritchson Playdate Kevin James",
+        "_yoast_news_keywords": "Alan Ritchson, Kevin James, Playdate, Prime Video, Comédia de Ação, Luke Greenfield, Reacher",
+        "_yoast_wpseo_opengraph-title": "Reacher: Alan Ritchson estrela comédia de ação com Kevin James em novembro",
+        "_yoast_wpseo_opengraph-description": "Alan Ritchson e Kevin James estrelam a comédia de ação Playdate, que estreia no Prime Video em 12 de novembro. Saiba mais sobre o filme.",
+        "_yoast_wpseo_twitter-title": "Reacher: Alan Ritchson estrela comédia de ação com Kevin James em novembro",
+        "_yoast_wpseo_twitter-description": "Alan Ritchson e Kevin James estrelam a comédia de ação Playdate, que estreia no Prime Video em 12 de novembro. Saiba mais sobre o filme."
+      }
+    },
+    {
+      "titulo_final": "Jensen Ackles: Ator revela condição para voltar em 'One Tree Hill' revival",
+      "conteudo_final": "<p>Jensen Ackles, estrela de <b>Tracker</b> e <b>The Boys</b>, comentou sobre a possibilidade de retornar ao universo de <b>One Tree Hill</b> em um futuro revival. O ator, que interpretou Jason Teague na série original, indicou que sua participação dependeria de uma decisão de sua esposa, Danneel Ackles, que também atuou na série e agora é produtora executiva do projeto.</p>\n\n<h2>O Papel de Jensen Ackles em One Tree Hill</h2>\n<p>A notícia de um revival de <b>One Tree Hill</b> gerou grande expectativa entre os fãs, especialmente após o anúncio de que Hilarie Burton Morgan e Sophia Bush retornarão aos seus papéis e terão funções de produção. Danneel Ackles, esposa de Jensen e ex-colega de elenco, está envolvida na produção através de sua empresa, Chaos Machine.</p>\n<p>Questionado sobre sua possível participação, Jensen Ackles declarou à Variety em setembro de 2025: \"Ela provavelmente só teria que dizer: 'Você vai fazer isso', e isso seria o fim\". Ele acredita que o revival, liderado por sua esposa e as atrizes originais, tem tudo para ser um sucesso, especialmente com a Netflix como plataforma.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Jensen Ackles, de Tracker, revela que sua participação no revival de One Tree Hill depende da esposa. Saiba mais sobre os planos do ator.",
+      "focus_keyphrase": "Jensen Ackles One Tree Hill",
+      "related_keyphrases": [
+        "Revival One Tree Hill",
+        "Jensen Ackles Tracker",
+        "Danneel Ackles produção"
+      ],
+      "slug": "jensen-ackles-one-tree-hill-revival",
+      "categorias": [
+        {
+          "nome": "One Tree Hill",
+          "grupo": "obras",
+          "evidence": "One Tree Hill was arguably the peak of teen dramas"
+        },
+        {
+          "nome": "Tracker",
+          "grupo": "obras",
+          "evidence": "CBS drama, Tracker"
+        },
+        {
+          "nome": "The Boys",
+          "grupo": "obras",
+          "evidence": "The Boys star Jensen Ackles"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jensen Ackles",
+        "One Tree Hill",
+        "Tracker",
+        "The Boys",
+        "Revival",
+        "Danneel Ackles"
+      ],
+      "image_alt_texts": {
+        "one-tree-hill-movie-poster.jpg": "Elenco de One Tree Hill em pôster promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jensen Ackles: Ator revela condição para voltar em 'One Tree Hill' revival",
+        "_yoast_wpseo_metadesc": "Jensen Ackles, de Tracker, revela que sua participação no revival de One Tree Hill depende da esposa. Saiba mais sobre os planos do ator.",
+        "_yoast_wpseo_focuskw": "Jensen Ackles One Tree Hill",
+        "_yoast_news_keywords": "Jensen Ackles, One Tree Hill, Tracker, The Boys, Revival, Danneel Ackles, Jason Teague",
+        "_yoast_wpseo_opengraph-title": "Jensen Ackles: Ator revela condição para voltar em 'One Tree Hill' revival",
+        "_yoast_wpseo_opengraph-description": "Jensen Ackles, de Tracker, revela que sua participação no revival de One Tree Hill depende da esposa. Saiba mais sobre os planos do ator.",
+        "_yoast_wpseo_twitter-title": "Jensen Ackles: Ator revela condição para voltar em 'One Tree Hill' revival",
+        "_yoast_wpseo_twitter-description": "Jensen Ackles, de Tracker, revela que sua participação no revival de One Tree Hill depende da esposa. Saiba mais sobre os planos do ator."
+      }
+    }
+  ]
+}

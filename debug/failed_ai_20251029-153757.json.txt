@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Os 15 Melhores Filmes de Slasher de Todos os Tempos",
+      "conteudo_final": "<p>Os <strong>melhores filmes de slasher de todos os tempos</strong> tiveram sua origem principalmente nos anos 1970, embora um filme de 1960 tenha servido como precursor do gênero com <em>Psicose</em>. Embora esses filmes de terror tenham saído de moda nos anos 1990, vários foram lançados posteriormente, em sua maioria por cineastas que cresceram amando o gênero e queriam adicionar seus próprios toques ao formato.</p><h2>O Mistério do Vale da Sombra da Morte (1981)</h2><figure class=\"video-container\"><img src=\"https:
+      "meta_description": "Descubra os 15 melhores filmes de slasher de todos os tempos, de clássicos a produções modernas que definiram o gênero de terror.",
+      "focus_keyphrase": "filmes de slasher",
+      "related_keyphrases": [
+        "melhores filmes de terror",
+        "clássicos do slasher",
+        "filmes de suspense"
+      ],
+      "slug": "melhores-filmes-slasher-todos-tempos",
+      "categorias": [
+        {
+          "nome": "Slasher",
+          "grupo": "obras",
+          "evidence": "The best slasher movies of all time"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "horror movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "slasher",
+        "terror",
+        "filmes de terror",
+        "clássicos do terror",
+        "suspense"
+      ],
+      "image_alt_texts": {
+        "the-miner-drowning-dave-in-hot-dog-water-in-my-bloody-valentine-1981.jpg": "O Mineiro Afogando Dave em Água de Salsicha em O Mistério do Vale da Sombra da Morte (1981)",
+        "Chucky-in-Childs-Play-1988.jpg": "Chucky com uma faca e uma mancha no rosto em Brinquedo Assassino 1988",
+        "art-smiling-in-terrifier-2.jpg": "Art, o Palhaço sorrindo em Terrifier 2",
+        "pearl-behind-maxxxine-in-x.jpg": "Mia Goth como Pearl e Maxine em uma cena de X.",
+        "screenrant-sandbox-2025-10-07t233909-130.jpg": "Cropsy em The Burning",
+        "Behind-The-Mask-The-Rise-Of-Leslie-Vernon-6.7.jpg": "Nathan Baesel como Leslie Vernon, empunhando uma arma afiada em Behind The Mask: The Rise Of Leslie Vernon.",
+        "jess-bradford-on-the-phone-in-black-christmas-1.jpg": "Jess Bradford ao telefone em Noite do Terror",
+        "sharni-vinson-you-re-next.jpeg": "Sharni Vinson como Erin segurando um machado em Você é o Próximo",
+        "a-man-wears-a-fur-coat-and-has-a-hook-hand-in-candyman-cropped.jpg": "Candyman se aproxima de uma vítima em seu filme de estreia.",
+        "pam-friday-the-13.jpg": "Sra. Voorhees empunha uma faca em Sexta-Feira 13"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Os 15 Melhores Filmes de Slasher de Todos os Tempos | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra os 15 melhores filmes de slasher de todos os tempos, de clássicos a produções modernas que definiram o gênero de terror.",
+        "_yoast_wpseo_focuskw": "filmes de slasher",
+        "_yoast_news_keywords": "filmes de slasher, terror, slasher, clássicos do terror, suspense, O Mistério do Vale da Sombra da Morte, Brinquedo Assassino, Terrifier 2, X, The Burning, Behind The Mask, Noite do Terror, Você é o Próximo, Candyman, Sexta-Feira 13",
+        "_yoast_wpseo_opengraph-title": "Os 15 Melhores Filmes de Slasher de Todos os Tempos",
+        "_yoast_wpseo_opengraph-description": "Descubra os 15 melhores filmes de slasher de todos os tempos, de clássicos a produções modernas que definiram o gênero de terror.",
+        "_yoast_wpseo_twitter-title": "Os 15 Melhores Filmes de Slasher de Todos os Tempos",
+        "_yoast_wpseo_twitter-description": "Descubra os 15 melhores filmes de slasher de todos os tempos, de clássicos a produções modernas que definiram o gênero de terror."
+      }
+    }
+  ]
+}

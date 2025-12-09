@@ -1,0 +1,146 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "'Chicago P.D.': Atwater em episódio de ação e reviravoltas na 13ª temporada",
+      "conteudo_final": "<p>A 13ª temporada de <b>Chicago P.D.</b>, que estreou há um mês, começa a explorar o universo interior de Kevin Atwater (LaRoyce Hawkins) no episódio 5, intitulado 'Miami'. O episódio promete ser uma montanha-russa de emoções e ação, com o personagem passando por uma jornada de autoconhecimento, conforme adiantado pela showrunner Gwen Sigan.</p><h2>Um Bombardeio em Downtown Chicago</h2><p>A trama do episódio coloca Atwater em contato com um velho amigo dos tempos de academia, após um atentado a bomba abalar o centro de Chicago. A prévia divulgada pela NBC revela a intensidade da situação, com Kim (Marina Squerciati) sendo pega nas proximidades de uma explosão massiva. Atwater, acostumado a lidar com criminosos armados, agora enfrenta um inimigo que utiliza bombas em ataques direcionados. A corrida contra o tempo se inicia para capturar o responsável, com a ajuda da equipe de Inteligência.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/0321720_poster_w780.jpg\" alt=\"Kevin Atwater em cena de Chicago P.D.\"><figcaption>Kevin Atwater se prepara para um episódio desafiador em Chicago P.D.</figcaption></figure><h2>Vida Pessoal e Novos Horizontes para Atwater</h2><p>No âmbito pessoal, Atwater tem enfrentado dificuldades amorosas, como o fim de seu relacionamento com Val (Natalee Linez) devido a divergências de valores. A reaproximação com um amigo do passado pode indicar uma nova fase em sua vida, talvez até um novo romance, como sugerido por Sigan ao falar de 'convidados especiais divertidos' para o personagem. A showrunner indicou que Atwater está em um momento de sua vida onde questiona se há 'mais do que eu queria do que tenho', refletindo sobre seu futuro após anos dedicados à família e à comunidade.</p><p>Não perca o episódio 'Miami' de <b>Chicago P.D.</b>, que vai ao ar na quarta-feira, 29 de outubro, na NBC.</p>",
+      "meta_description": "Kevin Atwater é o centro do 5º episódio da 13ª temporada de Chicago P.D., intitulado 'Miami', com ação e autoconhecimento.",
+      "focus_keyphrase": "Chicago P.D. temporada 13 episódio 5",
+      "related_keyphrases": [
+        "Kevin Atwater episódio Miami",
+        "LaRoyce Hawkins Chicago P.D."
+      ],
+      "slug": "chicago-pd-temporada-13-episodio-5",
+      "categorias": [
+        {
+          "nome": "Chicago P.D.",
+          "grupo": "obras",
+          "evidence": "Chicago P.D. Season 13"
+        },
+        {
+          "nome": "NBC",
+          "grupo": "editorias",
+          "evidence": "NBC released the promo"
+        }
+      ],
+      "tags_sugeridas": [
+        "Chicago P.D.",
+        "Kevin Atwater",
+        "La Royce Hawkins",
+        "Temporada 13",
+        "NBC",
+        "Miami"
+      ],
+      "image_alt_texts": {
+        "0321720_poster_w780.jpg": "Kevin Atwater em cena de Chicago P.D."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Chicago P.D. Temporada 13: Atwater em episódio de ação e reviravoltas",
+        "_yoast_wpseo_metadesc": "Kevin Atwater é o centro do 5º episódio da 13ª temporada de Chicago P.D., intitulado 'Miami', com ação e autoconhecimento.",
+        "_yoast_wpseo_focuskw": "Chicago P.D. temporada 13 episódio 5",
+        "_yoast_news_keywords": "Chicago P.D., Kevin Atwater, La Royce Hawkins, Temporada 13, Miami, NBC",
+        "_yoast_wpseo_opengraph-title": "Chicago P.D. Temporada 13: Atwater em episódio de ação e reviravoltas",
+        "_yoast_wpseo_opengraph-description": "Kevin Atwater é o centro do 5º episódio da 13ª temporada de Chicago P.D., intitulado 'Miami', com ação e autoconhecimento.",
+        "_yoast_wpseo_twitter-title": "Chicago P.D. Temporada 13: Atwater em episódio de ação e reviravoltas",
+        "_yoast_wpseo_twitter-description": "Kevin Atwater é o centro do 5º episódio da 13ª temporada de Chicago P.D., intitulado 'Miami', com ação e autoconhecimento."
+      }
+    },
+    {
+      "titulo_final": "'Abbott Elementary' retorna em 2026 com nova temporada na ABC",
+      "conteudo_final": "<p>A comédia de sucesso da ABC, <b>Abbott Elementary</b>, retornará após um breve recesso de inverno. A quinta temporada da série está programada para voltar com novos episódios a partir de quarta-feira, 7 de janeiro de 2026. Os episódios também estarão disponíveis para streaming no dia seguinte via Hulu.</p><h2>Mudanças na Programação da ABC</h2><p>A série, que atualmente exibe sua quinta temporada, tem novos episódios previstos até o final de novembro. Embora a data exata do início do recesso de inverno não tenha sido divulgada, espera-se um padrão semelhante ao da temporada anterior, que contou com dois novos episódios em 4 de dezembro antes de retornar em janeiro. Uma atualização na programação da ABC indica que não haverá um novo episódio de <b>Abbott Elementary</b> em 25 de fevereiro, para dar espaço à estreia de dois episódios da nova série revival de <b>Scrubs</b>.</p><p>O sitcom médico substitui a comédia intergeracional <b>Shifting Gears</b>, estrelada por Tim Allen e Kat Dennings, assumindo o horário de <b>Abbott Elementary</b>.</p>",
+      "meta_description": "Abbott Elementary confirma retorno para a quinta temporada em 2026, com novos episódios a partir de janeiro na ABC e streaming no Hulu.",
+      "focus_keyphrase": "Abbott Elementary temporada 5",
+      "related_keyphrases": [
+        "Abbott Elementary retorno 2026",
+        "Comédia ABC 2026"
+      ],
+      "slug": "abbott-elementary-temporada-5-2026",
+      "categorias": [
+        {
+          "nome": "Abbott Elementary",
+          "grupo": "obras",
+          "evidence": "Abbott Elementary will have a short winter break"
+        },
+        {
+          "nome": "ABC",
+          "grupo": "editorias",
+          "evidence": "The hit ABC comedy"
+        },
+        {
+          "nome": "Scrubs",
+          "grupo": "obras",
+          "evidence": "two-episode premiere of the network's new Scrubs revival"
+        }
+      ],
+      "tags_sugeridas": [
+        "Abbott Elementary",
+        "Temporada 5",
+        "ABC",
+        "Hulu",
+        "Scrubs",
+        "Comédia"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Abbott Elementary retorna em 2026 com nova temporada na ABC",
+        "_yoast_wpseo_metadesc": "Abbott Elementary confirma retorno para a quinta temporada em 2026, com novos episódios a partir de janeiro na ABC e streaming no Hulu.",
+        "_yoast_wpseo_focuskw": "Abbott Elementary temporada 5",
+        "_yoast_news_keywords": "Abbott Elementary, Temporada 5, ABC, Hulu, Scrubs, Comédia",
+        "_yoast_wpseo_opengraph-title": "Abbott Elementary retorna em 2026 com nova temporada na ABC",
+        "_yoast_wpseo_opengraph-description": "Abbott Elementary confirma retorno para a quinta temporada em 2026, com novos episódios a partir de janeiro na ABC e streaming no Hulu.",
+        "_yoast_wpseo_twitter-title": "Abbott Elementary retorna em 2026 com nova temporada na ABC",
+        "_yoast_wpseo_twitter-description": "Abbott Elementary confirma retorno para a quinta temporada em 2026, com novos episódios a partir de janeiro na ABC e streaming no Hulu."
+      }
+    },
+    {
+      "titulo_final": "Jesse Eisenberg: 'Agora Você Me Vê 3' é mais provável que 'Zumbilândia 3'",
+      "conteudo_final": "<p>Jesse Eisenberg, estrela de franquias como <b>Zumbilândia</b> e <b>Agora Você Me Vê</b>, comentou sobre a possibilidade de novas sequências para os filmes. Segundo o ator, é mais provável que a saga de magia e assaltos <b>Agora Você Me Vê</b> ganhe mais capítulos antes de um possível <b>Zumbilândia 3</b>.</p><h2>Expectativas para as Sequências</h2><p>Em entrevista, Eisenberg, que atua ao lado de Woody Harrelson em ambas as franquias, explicou que o hiato entre os filmes de <b>Zumbilândia</b> foi consideravelmente maior. Enquanto <b>Agora Você Me Vê</b> teve seu segundo filme lançado apenas três anos após o primeiro, a sequência de <b>Zumbilândia</b> demorou uma década. \"<b>Zumbilândia</b> teve uma pausa de 10 anos entre os filmes\", disse Eisenberg. \"Este filme [Agora Você Me Vê 3], nós fizemos um, depois, tipo, três anos depois, e depois 10 anos depois. Então, <b>Agora Você Me Vê</b> é provavelmente mais provável de ter mais filmes do que <b>Zumbilândia</b>.\""</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/Ex-Machina.jpg?w=300\" alt=\"Jesse Eisenberg em Agora Você Me Vê\"><figcaption>Jesse Eisenberg em 'Agora Você Me Vê 3'.</figcaption></figure><h2>O Futuro das Franquias</h2><p>A perspectiva de Eisenberg sugere que a Lionsgate tem um interesse maior em expandir <b>Agora Você Me Vê</b> como franquia. Inclusive, um quarto filme já estaria em desenvolvimento. Por outro lado, a Sony parece não ter prioridade para um <b>Zumbilândia 3</b>, apesar de a premissa de um mundo pós-apocalíptico infestado por zumbis ainda oferecer potencial para novas histórias.</p><p>O diretor Ruben Fleischer, que dirigiu ambos os filmes de <b>Zumbilândia</b> e o terceiro <b>Agora Você Me Vê</b>, expressou ressalvas sobre a necessidade de novas sequências para <b>Zumbilândia</b>, questionando quantas vezes é possível revisitar a mesma fórmula. Apesar das críticas mistas de <b>Zumbilândia: Ameaça Dupla</b>, o filme superou seu predecessor em bilheteria. Se um terceiro filme for realizado, será crucial apresentar uma ideia inovadora para justificar a continuação.</p><figure><iframe src=\"https://www.youtube.com/embed/uRw07ECVJw0\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de Agora Você Me Vê 3</figcaption></figure>",
+      "meta_description": "Jesse Eisenberg acredita que 'Agora Você Me Vê 3' tem mais chances de acontecer antes de 'Zumbilândia 3', citando os hiatos entre as produções.",
+      "focus_keyphrase": "Agora Você Me Vê Zumbilândia 3",
+      "related_keyphrases": [
+        "Jesse Eisenberg sequências",
+        "Agora Você Me Vê 3",
+        "Zumbilândia 3"
+      ],
+      "slug": "agora-voce-me-ve-zumbilandia-3",
+      "categorias": [
+        {
+          "nome": "Agora Você Me Vê",
+          "grupo": "obras",
+          "evidence": "Now You See Me series"
+        },
+        {
+          "nome": "Zumbilândia",
+          "grupo": "obras",
+          "evidence": "Zombieland franchise"
+        },
+        {
+          "nome": "Jesse Eisenberg",
+          "grupo": "ator",
+          "evidence": "Jesse Eisenberg and Woody Harrelson"
+        }
+      ],
+      "tags_sugeridas": [
+        "Agora Você Me Vê",
+        "Zumbilândia",
+        "Jesse Eisenberg",
+        "Woody Harrelson",
+        "Ruben Fleischer",
+        "Sequências"
+      ],
+      "image_alt_texts": {
+        "Ex-Machina.jpg": "Jesse Eisenberg em Agora Você Me Vê.",
+        "uRw07ECVJw0": "Trailer de Agora Você Me Vê 3"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jesse Eisenberg: 'Agora Você Me Vê 3' é mais provável que 'Zumbilândia 3'",
+        "_yoast_wpseo_metadesc": "Jesse Eisenberg acredita que 'Agora Você Me Vê 3' tem mais chances de acontecer antes de 'Zumbilândia 3', citando os hiatos entre as produções.",
+        "_yoast_wpseo_focuskw": "Agora Você Me Vê Zumbilândia 3",
+        "_yoast_news_keywords": "Agora Você Me Vê, Zumbilândia, Jesse Eisenberg, Woody Harrelson, Ruben Fleischer, Sequências",
+        "_yoast_wpseo_opengraph-title": "Jesse Eisenberg: 'Agora Você Me Vê 3' é mais provável que 'Zumbilândia 3'",
+        "_yoast_wpseo_opengraph-description": "Jesse Eisenberg acredita que 'Agora Você Me Vê 3' tem mais chances de acontecer antes de 'Zumbilândia 3', citando os hiatos entre as produções.",
+        "_yoast_wpseo_twitter-title": "Jesse Eisenberg: 'Agora Você Me Vê 3' é mais provável que 'Zumbilândia 3'",
+        "_yoast_wpseo_twitter-description": "Jesse Eisenberg acredita que 'Agora Você Me Vê 3' tem mais chances de acontecer antes de 'Zumbilândia 3', citando os hiatos entre as produções."
+      }
+    }
+  ]
+}

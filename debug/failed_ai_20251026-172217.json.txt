@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pluribus: Série de ficção científica da Apple TV+ chega em novembro de 2025",
+      "conteudo_final": "<p>A nova série de ficção científica da <strong>Apple TV+</strong>, intitulada <em>Pluribus</em>, tem sua estreia agendada para novembro de 2025. A produção promete consolidar ainda mais a reputação da plataforma de streaming no gênero, seguindo o sucesso de títulos como <em>Severance</em>, <em>Silo</em> e <em>Foundation</em>.</p><h2>Apple TV+ encontra seu nicho em ficção científica com comentário social</h2><p>Enquanto outras plataformas de streaming se destacam em gêneros específicos, como HBO com dramas de prestígio ou Disney+ com conteúdo familiar e de super-heróis, a Apple TV+ tem se firmado como um lar para séries de ficção científica que exploram comentários sociais profundos. <em>Pluribus</em> se alinha perfeitamente a essa estratégia.</p><figure class=\"video-container\"><iframe src=\"https://video.srcdn.com/2025/10/sr_pluribus_trailer-1761147246.mp4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer oficial de Pluribus na Apple TV+</figcaption></figure><p>A trama de <em>Pluribus</em> acompanha Carol Sturka, interpretada por Rhea Seehorn, que parece ser a única pessoa em Albuquerque, Novo México, imune a um vírus que torna todos ao redor contentes, passivos e excessivamente otimistas. No trailer, fica evidente que as emoções negativas de Carol, como depressão e raiva, são vistas como uma anomalia que precisa ser "corrigida" a qualquer custo, até mesmo com ofertas de armas de destruição em massa para garantir sua felicidade.</p><p>Essa premissa ressoa com outros projetos da Apple TV+ que investigam a busca humana por evitar emoções desagradáveis ou o desejo de controle social através de promessas de uma vida sem problemas. A plataforma parece ter encontrado seu nicho e está investindo fortemente nele.</p><h2><em>Pluribus</em>: Uma nova esperança para a Apple TV+?</h2><p>A expectativa em torno de <em>Pluribus</em> é alta, especialmente porque a série foi criada por Vince Gilligan, o aclamado criador de <em>Breaking Bad</em> e <em>Better Call Saul</em>. Rhea Seehorn, que trabalhou diretamente com Gilligan em <em>Better Call Saul</em>, onde interpretou Kim Wexler, retorna para colaborar com o diretor novamente.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/mark-holding-a-red-ball-in-severance-season-2.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" alt=\"Mark segurando uma bola vermelha em Severance temporada 2\"><figcaption>Severance é um dos sucessos que estabeleceu o padrão da Apple TV+</figcaption></figure><p>Essa parceria promissora, somada ao histórico de sucesso de Gilligan, sugere que <em>Pluribus</em> tem grande potencial para se tornar um novo hit. A série, com estreia marcada para 7 de novembro de 2025, tem tudo para ser um marco na trajetória da Apple TV+.</p>",
+      "meta_description": "Pluribus, a nova série de ficção científica da Apple TV+, chega em novembro de 2025 com Rhea Seehorn e criação de Vince Gilligan. Saiba mais!",
+      "focus_keyphrase": "Pluribus Apple TV+",
+      "related_keyphrases": [
+        "série de ficção científica Apple TV+",
+        "Rhea Seehorn Pluribus",
+        "Vince Gilligan série"
+      ],
+      "slug": "pluribus-apple-tv-2025",
+      "categorias": [
+        {
+          "nome": "Pluribus",
+          "grupo": "obras",
+          "evidence": "Apple TV's Pluribus Is Another Social Commentary Sci-Fi Series"
+        },
+        {
+          "nome": "Apple TV+",
+          "grupo": "obras",
+          "evidence": "Apple TV's upcoming series, Pluribus"
+        },
+        {
+          "nome": "Severance",
+          "grupo": "obras",
+          "evidence": "Premiering on November 7, 2025, Pluribus follows author Carol Sturka (Rhea Seehorn), who appears to be the only one in Albuquerque, New Mexico, immune to a virus that makes everyone content, passive, and far too optimistic."
+        }
+      ],
+      "tags_sugeridas": [
+        "Pluribus",
+        "Apple TV+",
+        "Rhea Seehorn",
+        "Vince Gilligan",
+        "Ficção Científica",
+        "Severance"
+      ],
+      "image_alt_texts": {
+        "pluribus-show-apple-tv.jpg": "Rhea Seehorn como Carol em Pluribus, nova série de ficção científica da Apple TV+.",
+        "mark-holding-a-red-ball-in-severance-season-2.jpg": "Mark S. (Adam Scott) segurando uma bola vermelha em cena de Severance, série de sucesso da Apple TV+.",
+        "03200623_poster_w780.jpg": "Pôster oficial da série Pluribus, estrelando Rhea Seehorn."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pluribus: Série de ficção científica da Apple TV+ chega em novembro de 2025",
+        "_yoast_wpseo_metadesc": "Pluribus, a nova série de ficção científica da Apple TV+, chega em novembro de 2025 com Rhea Seehorn e criação de Vince Gilligan. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Pluribus Apple TV+",
+        "_yoast_news_keywords": "Pluribus, Apple TV+, Rhea Seehorn, Vince Gilligan, Ficção Científica, Severance, Silo, Foundation",
+        "_yoast_wpseo_opengraph-title": "Pluribus: Série de ficção científica da Apple TV+ chega em novembro de 2025",
+        "_yoast_wpseo_opengraph-description": "A nova série de ficção científica da Apple TV+, Pluribus, estreia em novembro de 2025 e promete consolidar a plataforma no gênero de sci-fi com comentários sociais.",
+        "_yoast_wpseo_twitter-title": "Pluribus: Série de ficção científica da Apple TV+ chega em novembro de 2025",
+        "_yoast_wpseo_twitter-description": "Pluribus, a nova série de ficção científica da Apple TV+, chega em novembro de 2025 com Rhea Seehorn e criação de Vince Gilligan. Saiba mais!"
+      }
+    }
+  ]
+}

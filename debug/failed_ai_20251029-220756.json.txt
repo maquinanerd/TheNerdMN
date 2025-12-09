@@ -1,0 +1,58 @@
+{
+  "titulo_final": "Os 10 Melhores Filmes Neo-Noir de Todos os Tempos",
+  "conteudo_final": "<p>Os <strong>melhores filmes neo-noir</strong> incluem lançamentos brilhantes que subvertem os clássicos do Film Noir. Nos anos 1940, o film noir explodiu, oferecendo histórias de crime e ficção, filmadas em um estilo reminiscente do expressionismo alemão. O movimento neo-noir se baseou nas ideias do Film Noir e as atualizou para o público contemporâneo.</p><p>Isso incluiu histórias mais violentas, com maior sensualidade e um estilo mais moderno, eliminando muitas das tomadas anguladas do film noir. No entanto, o que permaneceu foram as histórias duras e os dramas criminais que ofereciam um vislumbre do lado mais sombrio da vida, combinando com o film noir, enquanto os <strong>melhores filmes neo-noir superaram o que veio antes</strong>.</p><h2>The Naked Kiss (1964)</h2><figure><img src=\"https:
+  "meta_description": "Descubra os 10 melhores filmes neo-noir de todos os tempos, de clássicos a obras modernas que definiram o gênero.",
+  "focus_keyphrase": "filmes neo-noir",
+  "related_keyphrases": [
+    "melhores filmes neo-noir",
+    "cinema neo-noir",
+    "clássicos do neo-noir"
+  ],
+  "slug": "melhores-filmes-neo-noir",
+  "categorias": [
+    {
+      "nome": "The Naked Kiss",
+      "grupo": "obras",
+      "evidence": "Director Sam Fuller made the brilliant neo-noir movie The Naked Kiss"
+    },
+    {
+      "nome": "The Manchurian Candidate",
+      "grupo": "obras",
+      "evidence": "The Manchurian Candidate is a 1963 neo-noir starring Frank Sinatra"
+    },
+    {
+      "nome": "Taxi Driver",
+      "grupo": "obras",
+      "evidence": "Martin Scorsese released the neo-noir Taxi Driver in 1976"
+    }
+  ],
+  "tags_sugeridas": [
+    "neo-noir",
+    "film noir",
+    "cinema",
+    "thriller",
+    "crime"
+  ],
+  "image_alt_texts": {
+    "constance-towers-as-kelly-praying-over-a-child-in-the-naked-kiss.jpg": "Constance Towers como Kelly rezando por uma criança em The Naked Kiss, um filme neo-noir.",
+    "angela-lansbury-as-mrs-eleanor-shaw-iselin-with-a-playing-card-in-the-manchurian-candidate.jpg": "Angela Lansbury como Sra. Eleanor Shaw Iselin com uma carta de baralho em The Manchurian Candidate, um clássico neo-noir.",
+    "robert-de-niro-as-travis-bickel-looking-in-the-mirror-in-taxi-driver.jpg": "Robert De Niro como Travis Bickel se olhando no espelho em Taxi Driver, um filme neo-noir icônico.",
+    "lee-marvin-as-charlie-strom-shooting-a-gun-in-the-killers.jpg": "Lee Marvin como Charlie Strom atirando em The Killers, um filme neo-noir violento.",
+    "gene-hackman-as-harry-r-caul-in-the-conversation.jpg": "Gene Hackman como Harry R Caul em The Conversation, um thriller neo-noir.",
+    "alain-delon-as-jef-costello-standing-outside-in-le-samourai.jpg": "Alain Delon como Jef Costello em Le Samourai, um minimalista filme neo-noir.",
+    "toshiro-mifune-as-k-ichi-nishi-in-the-bad-sleep-well.jpg": "Toshiro Mifune como Kōichi Nishi em The Bad Sleep Well, um neo-noir de Akira Kurosawa.",
+    "gene-hackman-as-popeye-doyle-standing-in-the-street-in-french-connection.jpg": "Gene Hackman como Popeye Doyle em The French Connection, um filme neo-noir policial.",
+    "guy-pearce-with-la-confidential-costars-russell-crowe-and-kevin-spacey.jpg": "Guy Pearce com Russell Crowe e Kevin Spacey em L.A. Confidential, um neo-noir sobre corrupção.",
+    "roman-polanski-cuts-jack-nicholson-as-jake-gittes-nose-in-chinatown.jpg": "Jack Nicholson como Jake Gittes em Chinatown, considerado o melhor filme neo-noir."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Os 10 Melhores Filmes Neo-Noir de Todos os Tempos | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Descubra os 10 melhores filmes neo-noir de todos os tempos, de clássicos a obras modernas que definiram o gênero.",
+    "_yoast_wpseo_focuskw": "filmes neo-noir",
+    "_yoast_news_keywords": "filmes neo-noir, neo-noir, film noir, cinema, thriller, crime, The Naked Kiss, The Manchurian Candidate, Taxi Driver, The Killers, The Conversation, Le Samourai, The Bad Sleep Well, The French Connection, L.A. Confidential, Chinatown",
+    "_yoast_wpseo_opengraph-title": "Os 10 Melhores Filmes Neo-Noir de Todos os Tempos",
+    "_yoast_wpseo_opengraph-description": "Descubra os 10 melhores filmes neo-noir de todos os tempos, de clássicos a obras modernas que definiram o gênero.",
+    "_yoast_wpseo_twitter-title": "Os 10 Melhores Filmes Neo-Noir de Todos os Tempos",
+    "_yoast_wpseo_twitter-description": "Descubra os 10 melhores filmes neo-noir de todos os tempos, de clássicos a obras modernas que definiram o gênero."
+  }
+}

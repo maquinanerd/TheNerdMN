@@ -1,0 +1,45 @@
+{
+  "titulo_final": "Daisy Ridley estrela novo thriller de ação \"The Good Samaritan\" e adia retorno a Star Wars",
+  "conteudo_final": "<p>Daisy Ridley se junta ao elenco de um novo thriller de ação, o que pode atrasar seu retorno ao universo <b>Star Wars</b>. A atriz fez sua estreia como Rey na trilogia de sequências da franquia. Quatro anos após o filme final, foi anunciado que Ridley reprisaria sua icônica Jedi em <b>Star Wars: New Jedi Order</b>, mas poucas atualizações surgiram.</p><h2>Novo Thriller de Ação \"The Good Samaritan\"</h2><p>A atriz liderará um novo filme de ação chamado <b>The Good Samaritan</b>, com direção de Pierre Morel (de <i>Busca Implacável</i>) e roteiro de Matthew Ian Cirulnick (de <i>Rambo: Até o Fim</i>). As filmagens estão previstas para começar na primavera de 2026, com produção em Brisbane, Austrália.</p><p>A sinopse do filme revela que Ridley interpretará a Dra. Rosalind Carver, uma empreendedora que, com seu marido, resgata um homem que está à deriva. No entanto, o ato os coloca em uma situação perigosa. Ela acaba sendo caçada por piratas e aprisionada após o sequestro de seu marido. A Dra. Carver é forçada a se aliar a um misterioso contratado militar privado em sua tentativa de salvar a si mesma.</p><blockquote><p>Quando a bem-sucedida empreendedora Dra. Rosalind Carver (Ridley) e seu marido Matt resgatam um homem ferido à deriva na costa da Indonésia, eles acreditam estar salvando uma vida – não entrando em uma conspiração mortal. Em poucas horas, seu iate desaparece, Matt é sequestrado e o paraíso se transforma em uma armadilha. Caçada por piratas e aprisionada por oficiais corruptos, a única esperança de Rosalind reside em Sean Fuller, um contratado militar privado cujos motivos são tão misteriosos quanto seu passado. Juntos, eles devem navegar por um labirinto de engano e violência em uma terra onde ninguém pode ser confiável.</p></blockquote><p>Morel descreveu o roteiro de Cirulnick como \"<i>realismo cru</i>\", onde o dilema dos personagens é \"<i>elevado pela colisão hitchcockiana e noir de duas almas danificadas de mundos opostos</i>\". Como Dra. Carver, Ridley \"<i>exala</i>\" inteligência e \"<i>equilíbrio sob pressão</i>\".</p><blockquote><p>O que amo na escrita de Matt é o realismo cru dos personagens e seu dilema intenso, elevado pela colisão hitchcockiana e noir de duas almas danificadas de mundos opostos. Daisy exala uma inteligência tão palpável e equilíbrio sob pressão; vê-la navegar por um mundo estrangeiro onde todos os elementos, a natureza, as pessoas e até o destino parecem conspirar contra ela será emocionante. Estou animado com o elenco que está se formando. Vai ser muito divertido.</p></blockquote><p>Canton chamou <b>The Good Samaritan</b> de \"<i>uma história inteligente e eletrizante</i>\" e admitiu estar \"<i>encantado</i>\" por trabalhar com Morel e Ridley.</p><blockquote><p>As estrelas se alinharam e estou absolutamente encantado por trabalhar com a mestra da ação Pierre Morel e a brilhante Daisy Ridley neste thriller complexo e eletrizante. The Good Samaritan é uma história tão inteligente e eletrizante e mal podemos esperar para as câmeras começarem a filmar este projeto fantástico.</p></blockquote><p>Uma busca está em andamento para encontrar um estúdio que distribua o filme, com o recente American Film Market servindo como plataforma para vendas internacionais.</p><h2>Carreira de Daisy Ridley Pós-Star Wars</h2><p>Após o fim da trilogia de sequências de <b>Star Wars</b>, Ridley estrelou filmes como <i>Chaos Walking</i>, <i>Sometimes I Think About Dying</i>, <i>The Inventor</i>, <i>The Marsh King's Daughter</i>, <i>Magpie</i>, <i>Young Woman and the Sea</i> e <i>Cleaner</i>. Ela tem outros filmes em desenvolvimento, incluindo <i>We Bury the Dead</i> e <i>The Last Resort</i>, ambos previstos para 2026, além de <i>Mind Fall</i>, <i>Me vs. Me</i>, <i>Killa Bee</i>, <i>Dedication</i> e <i>Federico</i>.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/daisy-ridley-as-rey-in-star-wars-rise-of-skywalker.jpg?q=49&fit=crop&w=825&dpr=2" alt="Daisy Ridley como Rey em Star Wars: A Ascensão Skywalker"/><figcaption>Daisy Ridley reprisará seu papel como Rey em um futuro filme de Star Wars.</figcaption></figure><p>Em 2023, foi anunciado que Ridley reprisaria a personagem Rey para um novo filme de <b>Star Wars</b> chamado <i>New Jedi Order</i>. O desenvolvimento tem sido lento nos dois anos desde então, e não está claro quando as filmagens começarão. Enquanto isso, ela está lotando sua agenda com vários filmes fora de <b>Star Wars</b> enquanto aguarda o início da produção.</p><p>Felizmente, o público não ficará sem um filme de <b>Star Wars</b> enquanto espera por <i>New Jedi Order</i>. <i>The Mandalorian and Grogu</i>, um spin-off da série do Disney+ <i>The Mandalorian</i>, será lançado em maio de 2026, seguido por <i>Star Wars: Starfighter</i>, estrelado por Ryan Gosling, em maio de 2027.</p>",
+  "meta_description": "Daisy Ridley estrela o novo thriller de ação \"The Good Samaritan\", dirigido por Pierre Morel, o que pode adiar seu retorno como Rey em Star Wars.",
+  "focus_keyphrase": "Daisy Ridley novo filme ação Star Wars",
+  "related_keyphrases": [
+    "The Good Samaritan Daisy Ridley",
+    "Star Wars New Jedi Order",
+    "Pierre Morel filme"
+  ],
+  "slug": "daisy-ridley-novo-filme-acao-star-wars",
+  "categorias": [
+    {
+      "nome": "Star Wars",
+      "grupo": "franquias",
+      "evidence": "Daisy Ridley se junta ao elenco de um novo thriller de ação, o que pode atrasar seu retorno ao universo Star Wars."
+    },
+    {
+      "nome": "The Good Samaritan",
+      "grupo": "obras",
+      "evidence": "Ridley liderará um novo filme de ação chamado The Good Samaritan, com direção de Pierre Morel"
+    }
+  ],
+  "tags_sugeridas": [
+    "Daisy Ridley",
+    "Star Wars",
+    "The Good Samaritan",
+    "Pierre Morel",
+    "Thriller de Ação",
+    "Rey"
+  ],
+  "image_alt_texts": {
+    "daisy-ridley-as-rey-in-star-wars-rise-of-skywalker.jpg?q=49&fit=crop&w=825&dpr=2": "Daisy Ridley como Rey em Star Wars: A Ascensão Skywalker, aguardando seu retorno em novo filme."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Daisy Ridley estrela \"The Good Samaritan\" e adia retorno a Star Wars",
+    "_yoast_wpseo_metadesc": "Daisy Ridley estrela o novo thriller de ação \"The Good Samaritan\", dirigido por Pierre Morel, o que pode adiar seu retorno como Rey em Star Wars.",
+    "_yoast_wpseo_focuskw": "Daisy Ridley novo filme ação Star Wars",
+    "_yoast_news_keywords": "Daisy Ridley, Star Wars, The Good Samaritan, Pierre Morel, Thriller de Ação, Rey, New Jedi Order",
+    "_yoast_wpseo_opengraph-title": "Daisy Ridley estrela \"The Good Samaritan\" e adia retorno a Star Wars",
+    "_yoast_wpseo_opengraph-description": "Daisy Ridley estrela o novo thriller de ação \"The Good Samaritan\", dirigido por Pierre Morel, o que pode adiar seu retorno como Rey em Star Wars.",
+    "_yoast_wpseo_twitter-title": "Daisy Ridley estrela \"The Good Samaritan\" e adia retorno a Star Wars",
+    "_yoast_wpseo_twitter-description": "Daisy Ridley estrela o novo thriller de ação \"The Good Samaritan\", dirigido por Pierre Morel, o que pode adiar seu retorno como Rey em Star Wars."
+  }
+}

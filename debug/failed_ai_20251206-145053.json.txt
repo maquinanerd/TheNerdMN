@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Apple TV+ anuncia novo modelo detalhado da nave Invictus de Fundação",
+      "conteudo_final": "<p>A Master Replicas, conhecida por suas coleções de alta qualidade para franquias de ficção científica como <b>Star Wars</b>, <b>Star Trek</b> e <b>Battlestar Galactica</b>, expande seu portfólio para o universo de <b>Isaac Asimov</b> com a adaptação para a Apple TV+. A empresa apresenta um novo modelo da Invictus, uma das naves de guerra mais poderosas e emblemáticas da série.</p><figure><img src=\"https://collider.com/wp-content/uploads/Foundation-Invictus-Master-Replica-Model-Images-4.jpg\" alt=\"Modelo da nave Invictus de Fundação da Master Replicas com detalhes rotativos.\"><figcaption>O modelo da Invictus possui anéis internos que giram, permitindo diferentes exibições.</figcaption></figure><h2>Detalhes do Colecionável da Invictus</h2><p>O modelo em escala da Invictus, que mede cerca de 20 centímetros (correspondendo aos 8 quilômetros de diâmetro da nave original), é fiel ao design visto na série. A nave se destaca por seus três anéis concêntricos que giram em torno de um vazio central. Embora recriar o vazio central seja complexo, a Master Replicas capturou cada detalhe da nave, e os dois anéis internos podem ser ajustados para exibição. O colecionável vem em embalagem premium com fecho magnético, agregando valor à sua apresentação.</p><h2>A Importância da Invictus na Trama de Fundação</h2><p>A Invictus não é apenas um espetáculo visual em <b>Fundação</b>, mas também desempenha um papel crucial no desenvolvimento da organização de Hari Seldon. Originalmente uma maravilha da engenharia imperial, com capacidade para 300.000 tripulantes, armamento pesado e um motor de salto, a nave foi redescoberta pelos Anacreons após se perder no tempo devido a uma falha no salto. Posteriormente, a Fundação a recupera para defesa, utilizando seus componentes para desenvolver as "whisper-ships" de sua frota. Na segunda temporada, a nave teve seu destino selado após a batalha por Terminus, sendo destruída pela força imperial. Contudo, a tripulação foi salva por Seldon.</p><h2>O Futuro de Fundação Após a Segunda Temporada</h2><p>A segunda temporada de <b>Fundação</b> apresentou reviravoltas significativas, com a expansão da Segunda Fundação e o colapso da Dinastia Cleônica. Uma aliança tensa foi formada diante da ameaça de The Mule (Pilou Asbæk), que almeja governar a galáxia. A série, estrelada por Lee Pace, Jared Harris e Lou Llobell, manteve seu status de sucesso crítico, com 91% de aprovação no Rotten Tomatoes, elogiada por suas decisões ousadas. Antes mesmo do final da temporada, uma quarta temporada foi confirmada, com produção prevista para o início do próximo ano, agora sob o comando dos showrunners Ian Goldberg e David Kob.</p><p>O novo modelo da Invictus está disponível para pré-venda no site oficial da Master Replicas por US$ 115 e tem previsão de envio para abril de 2026.</p>",
+      "meta_description": "Descubra o novo modelo colecionável da Invictus, a lendária nave de Fundação, disponível para pré-venda pela Master Replicas.",
+      "focus_keyphrase": "modelo Invictus Fundação",
+      "related_keyphrases": [
+        "colecionável Fundação Apple TV+",
+        "nave Invictus Master Replicas",
+        "Isaac Asimov Fundação"
+      ],
+      "slug": "fundacao-modelo-invictus-apple-tv",
+      "categorias": [
+        {
+          "nome": "Fundação",
+          "grupo": "franquias",
+          "evidence": "Isaac Asimov's Foundation"
+        },
+        {
+          "nome": "Apple TV+",
+          "grupo": "plataformas",
+          "evidence": "Apple TV adaptation"
+        }
+      ],
+      "tags_sugeridas": [
+        "Fundação",
+        "Apple TV+",
+        "Master Replicas",
+        "Isaac Asimov",
+        "ficção científica",
+        "colecionáveis",
+        "Invictus"
+      ],
+      "image_alt_texts": {
+        "Foundation-Invictus-Master-Replica-Model-Images-4.jpg": "Modelo detalhado da nave Invictus da série Fundação, com anéis giratórios, fabricado pela Master Replicas."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Apple TV+ anuncia novo modelo detalhado da nave Invictus de Fundação | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Descubra o novo modelo colecionável da Invictus, a lendária nave de Fundação, disponível para pré-venda pela Master Replicas.",
+        "_yoast_wpseo_focuskw": "modelo Invictus Fundação",
+        "_yoast_news_keywords": "Fundação, Apple TV+, Master Replicas, Invictus, Isaac Asimov, colecionáveis, ficção científica, série",
+        "_yoast_wpseo_opengraph-title": "Apple TV+ anuncia novo modelo detalhado da nave Invictus de Fundação",
+        "_yoast_wpseo_opengraph-description": "Descubra o novo modelo colecionável da Invictus, a lendária nave de Fundação, disponível para pré-venda pela Master Replicas.",
+        "_yoast_wpseo_twitter-title": "Apple TV+ anuncia novo modelo detalhado da nave Invictus de Fundação",
+        "_yoast_wpseo_twitter-description": "Descubra o novo modelo colecionável da Invictus, a lendária nave de Fundação, disponível para pré-venda pela Master Replicas."
+      }
+    }
+  ]
+}

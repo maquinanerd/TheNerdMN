@@ -1,0 +1,107 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Steven Spielberg: Boneco de E.T. ganha set oficial da LEGO",
+      "conteudo_final": "<p>A LEGO anunciou que um dos personagens mais icônicos de Steven Spielberg ganhará vida em um novo set. E.T., do filme de ficção científica de 1982, <em>E.T. o Extraterrestre</em>, será transformado em um produto oficial da LEGO. A data de lançamento do set ainda não foi divulgada, mas sua criação foi aprovada através de uma submissão no LEGO Ideas.</p><figure><img src=\"\" alt=\"\"><figcaption>Boneco de E.T. em um novo set da LEGO.</figcaption></figure><p>O anúncio foi feito no site oficial do LEGO Ideas, que apresentou o modelo criado por fãs que se tornará o set de <em>E.T. o Extraterrestre</em>. Esta nova construção não será apenas uma estátua estática; ela contará com cabeça, braços e pés móveis, um tijolo de luz que acende quando pressionado e uma flor dourada como acessório. O preço e a data exata de lançamento ainda não foram confirmados.</p><figure><img src=\"\" alt=\"\"><figcaption>Detalhes do novo set de E.T. da LEGO.</figcaption></figure><p><em>E.T. o Extraterrestre</em> é um filme de ficção científica que acompanha Elliott (Henry Thomas), um garoto que faz amizade com um alienígena que ele nomeia E.T. Enquanto os dois formam um laço, E.T. ajuda seu novo amigo a encontrar o caminho de volta para casa antes que o governo capture a criatura. O filme arrecadou mais de US$ 797 milhões nas bilheterias e foi indicado a nove prêmios, incluindo "Melhor Filme" no Oscar de 1983, vencendo "Melhor Trilha Sonora Original", "Melhor Edição de Efeitos Sonoros", "Melhor Som" e "Melhores Efeitos Visuais".</p><h2>Outros produtos LEGO que começaram como submissões de fãs</h2><p>O modelo de <em>E.T. o Extraterrestre LEGO</em> foi projetado por Lafabrick e submetido em abril de 2023. Ele alcançou mais de 10.000 apoiadores em fevereiro de 2025, tornando-se elegível para revisão pela LEGO. De acordo com a página de submissão do produto, este modelo LEGO é em escala 1/3 e estima-se que terá mais de 2.990 peças, com 2.662 para E.T. e o restante para o vaso de flores. O criador também observou que os números podem mudar quando o produto oficial for lançado.</p><figure><img src=\"\" alt=\"\"><figcaption>O modelo de E.T. em escala 1/3 para o set da LEGO.</figcaption></figure><p>A LEGO já lançou diversos produtos que foram submetidos ao LEGO Ideas. Alguns exemplos incluem <em>A Fantástica Fábrica de Chocolate</em>, a Casa Cullen de <em>Crepúsculo</em>, o lampião Luxo Jr. da Disney Pixar, e até outros projetos de Spielberg como <em>Tubarão</em> e <em>Os Goonies</em>. Em junho, foi confirmado que Godzilla também seria transformado em um set LEGO, com lançamento ainda pendente. O modelo foi criado por Matthew Esposito e inspirado nos filmes do MonsterVerse.</p>",
+      "meta_description": "Um novo set oficial da LEGO trará E.T., o icônico personagem de Steven Spielberg, para a coleção de fãs. Detalhes do modelo e lançamento.",
+      "focus_keyphrase": "LEGO de E.T. o Extraterrestre",
+      "related_keyphrases": [
+        "LEGO Steven Spielberg",
+        "Set LEGO E.T.",
+        "Boneco E.T. LEGO"
+      ],
+      "slug": "lego-et-spielberg",
+      "categorias": [
+        {
+          "nome": "E.T. o Extraterrestre",
+          "grupo": "obras",
+          "evidence": "<em>E.T. the Extra-Terrestrial</em>"
+        },
+        {
+          "nome": "LEGO",
+          "grupo": "franquias",
+          "evidence": "<a href=\"https://collider.com/tag/lego\" target=\"_blank\">LEGO</a>"
+        },
+        {
+          "nome": "Steven Spielberg",
+          "grupo": "diretores",
+          "evidence": "<a href=\"https://collider.com/tag/steven-spielberg\" target=\"_blank\"><strong>Steven Spielberg</strong></a>"
+        }
+      ],
+      "tags_sugeridas": [
+        "LEGO",
+        "E.T. o Extraterrestre",
+        "Steven Spielberg",
+        "LEGO Ideas",
+        "Boneco LEGO"
+      ],
+      "image_alt_texts": {
+        "image1.jpg": "Boneco de E.T. em um novo set da LEGO, com detalhes do personagem.",
+        "image2.png": "Detalhes do novo set de E.T. da LEGO, mostrando os acessórios e a iluminação.",
+        "image3.jpeg": "O modelo de E.T. em escala 1/3 para o set da LEGO, com peças e dimensões."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Steven Spielberg: Boneco de E.T. ganha set oficial da LEGO",
+        "_yoast_wpseo_metadesc": "Um novo set oficial da LEGO trará E.T., o icônico personagem de Steven Spielberg, para a coleção de fãs. Detalhes do modelo e lançamento.",
+        "_yoast_wpseo_focuskw": "LEGO de E.T. o Extraterrestre",
+        "_yoast_news_keywords": "LEGO, E.T. o Extraterrestre, Steven Spielberg, LEGO Ideas, Boneco LEGO, Henry Thomas",
+        "_yoast_wpseo_opengraph-title": "Steven Spielberg: Boneco de E.T. ganha set oficial da LEGO",
+        "_yoast_wpseo_opengraph-description": "Um novo set oficial da LEGO trará E.T., o icônico personagem de Steven Spielberg, para a coleção de fãs. Detalhes do modelo e lançamento.",
+        "_yoast_wpseo_twitter-title": "Steven Spielberg: Boneco de E.T. ganha set oficial da LEGO",
+        "_yoast_wpseo_twitter-description": "Um novo set oficial da LEGO trará E.T., o icônico personagem de Steven Spielberg, para a coleção de fãs. Detalhes do modelo e lançamento."
+      }
+    },
+    {
+      "titulo_final": "Taylor Sheridan: Paramount+ não deve se preocupar com saída",
+      "conteudo_final": "<p>A saída de Taylor Sheridan de projetos futuros na Paramount+ não deve ser motivo de preocupação para os assinantes, pelo menos por enquanto. Embora o criador de sucessos como <em>Yellowstone</em> e <em>Tulsa King</em> tenha um acordo de produção com a Paramount, a sua saída de novos projetos não significa o fim de suas séries atuais.</p><figure><img src=\"\" alt=\"\"><figcaption>Taylor Sheridan, criador de séries de sucesso na Paramount+.</figcaption></figure><p>Sheridan, conhecido por seu trabalho prolífico e por criar universos complexos, está se afastando de novas produções para se concentrar em projetos existentes. Isso inclui a continuação de séries populares que já conquistaram uma base de fãs leal na plataforma de streaming. A Paramount+ confirmou que o foco será em manter a qualidade e a continuidade das produções já estabelecidas.</p><h2>O futuro de Yellowstone e outras séries</h2><p><em>Yellowstone</em>, a joia da coroa da Paramount+, continua com seus planos de produção, apesar da reestruturação de Sheridan. A série, que acompanha a família Dutton, ainda tem episódios planejados e o interesse do público permanece alto. Outras séries do universo Sheridan, como <em>1883</em> e <em>1923</em>, também seguem com seus desenvolvimentos, garantindo conteúdo para os assinantes.</p><figure><img src=\"\" alt=\"\"><figcaption>Cena da série Yellowstone, um dos sucessos de Taylor Sheridan.</figcaption></figure><p>A decisão de Sheridan de reduzir o envolvimento em novas séries visa garantir que a qualidade de suas produções não seja comprometida. Ao focar em projetos já em andamento, ele pode dedicar mais tempo e atenção aos detalhes que tornaram suas séries tão aclamadas. Isso pode significar um futuro mais estável e com maior qualidade para o catálogo da Paramount+.</p><h2>Impacto no catálogo da Paramount+</h2><p>A Paramount+ tem investido pesadamente no universo de Taylor Sheridan, e a sua saída de novas produções pode ser vista como uma estratégia para consolidar o que já existe. A plataforma busca manter o engajamento dos assinantes com histórias envolventes e personagens cativantes. A continuidade de séries como <em>Mayor of Kingstown</em> e <em>Lawmen: Bass Reeves</em> também está assegurada, com planos para novas temporadas e spin-offs.</p><figure><img src=\"\" alt=\"\"><figcaption>A série Tulsa King, estrelada por Sylvester Stallone.</figcaption></figure><p>Embora a notícia possa gerar alguma apreensão, a Paramount+ e Taylor Sheridan parecem ter um plano claro para o futuro. O foco em manter a excelência das séries existentes e a possibilidade de novas histórias dentro desses universos garantem que os assinantes continuarão a ter conteúdo de alta qualidade à disposição.</p>",
+      "meta_description": "Taylor Sheridan se afasta de novas produções na Paramount+, mas séries como Yellowstone continuam. Entenda o impacto para os assinantes.",
+      "focus_keyphrase": "Taylor Sheridan Paramount+",
+      "related_keyphrases": [
+        "Taylor Sheridan séries",
+        "Paramount+ Taylor Sheridan",
+        "Saída de Taylor Sheridan"
+      ],
+      "slug": "taylor-sheridan-paramount-saida",
+      "categorias": [
+        {
+          "nome": "TV Shows",
+          "grupo": "editorias",
+          "evidence": "TV Shows"
+        },
+        {
+          "nome": "Paramount+",
+          "grupo": "plataformas",
+          "evidence": "Paramount+"
+        },
+        {
+          "nome": "Taylor Sheridan",
+          "grupo": "criadores",
+          "evidence": "Taylor Sheridan"
+        }
+      ],
+      "tags_sugeridas": [
+        "Taylor Sheridan",
+        "Paramount+",
+        "Yellowstone",
+        "Tulsa King",
+        "1883",
+        "1923"
+      ],
+      "image_alt_texts": {
+        "image1.jpg": "Taylor Sheridan, criador de séries de sucesso na Paramount+, em foto promocional.",
+        "image2.png": "Cena da série Yellowstone, mostrando a família Dutton em um momento dramático.",
+        "image3.jpeg": "A série Tulsa King, estrelada por Sylvester Stallone, com Taylor Sheridan como criador."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Taylor Sheridan: Paramount+ não deve se preocupar com saída",
+        "_yoast_wpseo_metadesc": "Taylor Sheridan se afasta de novas produções na Paramount+, mas séries como Yellowstone continuam. Entenda o impacto para os assinantes.",
+        "_yoast_wpseo_focuskw": "Taylor Sheridan Paramount+",
+        "_yoast_news_keywords": "Taylor Sheridan, Paramount+, Yellowstone, Tulsa King, 1883, 1923, TV Shows",
+        "_yoast_wpseo_opengraph-title": "Taylor Sheridan: Paramount+ não deve se preocupar com saída",
+        "_yoast_wpseo_opengraph-description": "Taylor Sheridan se afasta de novas produções na Paramount+, mas séries como Yellowstone continuam. Entenda o impacto para os assinantes.",
+        "_yoast_wpseo_twitter-title": "Taylor Sheridan: Paramount+ não deve se preocupar com saída",
+        "_yoast_wpseo_twitter-description": "Taylor Sheridan se afasta de novas produções na Paramount+, mas séries como Yellowstone continuam. Entenda o impacto para os assinantes."
+      }
+    }
+  ]
+}

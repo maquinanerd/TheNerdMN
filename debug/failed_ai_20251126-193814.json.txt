@@ -1,0 +1,134 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Fortnite: Temporada dos Simpsons tem fim adiado para 29 de novembro",
+      "conteudo_final": "<p>A Epic Games anunciou uma mudança no horário de término da temporada temática de <em>The Simpsons</em> em <strong><em>Fortnite</em></strong>. Inicialmente prevista para 29 de novembro às 2:30 AM ET, a conclusão do Capítulo 6 foi adiada para 29 de novembro às 2 PM ET. Essa alteração concede aos jogadores algumas horas adicionais para desfrutar do conteúdo em Springfield.</p><p>Desde o início da temporada, os jogadores acompanharam a saga de Homer Simpson e a disseminação do caos em Springfield. Eventos como tempestades de donuts, tomates mutantes e a aparição do Incrível Hulk mantiveram a experiência dinâmica. Para quem perdeu os detalhes da narrativa, os curtas animados de <em>The Simpsons</em> e as missões de Springfield Stories oferecem um resumo completo.</p><h2>Fim do Capítulo 6 de Fortnite adiado em 12 horas</h2><p>O adiamento do encerramento do Capítulo 6 para 2 PM ET significa que o evento ao vivo 'Hora Zero' ocorrerá mais tarde do que o previsto. O tempo de inatividade para a transição para o novo capítulo deve ser mais longo, o que pode atrasar o acesso dos jogadores ao conteúdo inédito. Em algumas regiões, isso pode significar que o novo capítulo estará disponível apenas no dia seguinte.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/fortnite-battle-pass-end-screen.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/fortnite-battle-pass-end-screen.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/fortnite-battle-pass-end-screen.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Tela final do Passe de Batalha de Fortnite" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/fortnite-battle-pass-end-screen.jpg?q=49&fit=crop&w=825&dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/fortnite-battle-pass-end-screen.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Tela final do Passe de Batalha de Fortnite.</figcaption></figure><p>O evento 'Hora Zero' promete ser um dos maiores eventos ao vivo da história de <em>Fortnite</em>, encerrando a narrativa do Capítulo 6. Há especulações de que o evento possa ter uma escala semelhante ao 'Black Hole', que deixou o jogo indisponível por um período. No entanto, a confirmação de <em>The Lost Chapter: Yuki's Revenge</em> para 30 de novembro sugere que o jogo retornará em breve.</p><p>Enquanto o novo capítulo não chega, os jogadores são incentivados a aproveitar as horas extras para desbloquear as recompensas finais do Passe de Batalha, incluindo a skin de Homer Simpson e seus estilos alternativos.</p>",
+      "meta_description": "Fortnite: A temporada temática de The Simpsons tem seu fim adiado para 29 de novembro às 14h ET. Saiba os detalhes e o que esperar do evento Hora Zero.",
+      "focus_keyphrase": "Fortnite temporada Simpsons fim adiado",
+      "related_keyphrases": [
+        "Fortnite Capítulo 6",
+        "Evento Hora Zero Fortnite",
+        "The Simpsons Fortnite"
+      ],
+      "slug": "fortnite-temporada-simpsons-fim-adiado",
+      "categorias": [
+        {
+          "nome": "Fortnite",
+          "grupo": "franquias",
+          "evidence": "<em>Fortnite</em>"
+        },
+        {
+          "nome": "The Simpsons",
+          "grupo": "franquias",
+          "evidence": "<em>The Simpsons</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Fortnite",
+        "The Simpsons",
+        "Epic Games",
+        "Battle Royale",
+        "Atualização de Jogo"
+      ],
+      "image_alt_texts": {
+        "fortnite-battle-pass-end-screen.jpg": "Tela final do Passe de Batalha de Fortnite, indicando o fim da temporada."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Fortnite: Temporada dos Simpsons tem fim adiado para 29 de novembro",
+        "_yoast_wpseo_metadesc": "Fortnite: A temporada temática de The Simpsons tem seu fim adiado para 29 de novembro às 14h ET. Saiba os detalhes e o que esperar do evento Hora Zero.",
+        "_yoast_wpseo_focuskw": "Fortnite temporada Simpsons fim adiado",
+        "_yoast_news_keywords": "Fortnite, The Simpsons, Epic Games, Battle Royale, Atualização de Jogo, Temporada Simpsons, Fim de Temporada",
+        "_yoast_wpseo_opengraph-title": "Fortnite: Temporada dos Simpsons tem fim adiado para 29 de novembro",
+        "_yoast_wpseo_opengraph-description": "Fortnite: A temporada temática de The Simpsons tem seu fim adiado para 29 de novembro às 14h ET. Saiba os detalhes e o que esperar do evento Hora Zero.",
+        "_yoast_wpseo_twitter-title": "Fortnite: Temporada dos Simpsons tem fim adiado para 29 de novembro",
+        "_yoast_wpseo_twitter-description": "Fortnite: A temporada temática de The Simpsons tem seu fim adiado para 29 de novembro às 14h ET. Saiba os detalhes e o que esperar do evento Hora Zero."
+      }
+    },
+    {
+      "titulo_final": "World of Warcraft: Midnight chega em 2 de março de 2026",
+      "conteudo_final": "<p>A Blizzard Entertainment confirmou a data de lançamento oficial para <em>World of Warcraft: Midnight</em>, a próxima expansão do MMORPG. O jogo estará disponível para todos os jogadores em 2 de março de 2026. Aqueles que adquirirem a Edição Épica da expansão poderão iniciar sua jornada em Quel'thalas a partir de 27 de fevereiro.</p><p><em>Midnight</em>, a segunda expansão da Saga Worldsoul, promete introduzir quatro novas zonas, oito masmorras, onze 'delves' e três raides, elevando o limite de nível para 90. A expectativa em torno da expansão tem crescido desde sua revelação na Gamescom Opening Night Live, com os períodos de testes alfa e beta já tendo ocorrido.</p><h2>World of Warcraft: Midnight lança em 2 de março de 2026</h2><p>A data de lançamento confirmada para <em>World of Warcraft: Midnight</em> é 2 de março de 2026. Esta nova aventura expandirá o universo de Azeroth com novos conteúdos e desafios para os jogadores.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-alpha-female-night-elf-model-glitch-a-pose.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-alpha-female-night-elf-model-glitch-a-pose.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-alpha-female-night-elf-model-glitch-a-pose.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Modelo de elfa noturna alfa em World of Warcraft: Midnight" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-alpha-female-night-elf-model-glitch-a-pose.jpg?q=49&fit=crop&w=825&dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-alpha-female-night-elf-model-glitch-a-pose.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Modelo de elfa noturna alfa em World of Warcraft: Midnight.</figcaption></figure><p>A data de lançamento difere de vazamentos anteriores, que sugeriam datas em fevereiro e março. A pré-compra da Edição Épica garante acesso antecipado de três dias, permitindo que os jogadores explorem as novas áreas e comecem a se preparar para a Temporada 1 de <em>Midnight</em>.</p><p>A expansão introduzirá Xal'atath como a nova 'All-Devouring', buscando corromper o Sunwell e Azeroth. Jogadores da Aliança e da Horda deverão unir forças para defender Silvermoon City contra as ameaças crescentes entre a Luz e a Sombra.</p><h2>Conteúdo de World of Warcraft: Midnight</h2><p>As novas zonas incluem uma versão reformulada de Eversong Woods, uma expansão de Zul'Aman e novas áreas como Harandar e Voidstorm. Harandar será o lar da nova Raça Aliada, os Haranir. A expansão trará também novas atividades de endgame, atualizações de transmog e melhorias na interface do usuário.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-key-art-xal-atath-lor-themar-sunwell-2.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-key-art-xal-atath-lor-themar-sunwell-2.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-key-art-xal-atath-lor-themar-sunwell-2.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Arte principal de World of Warcraft: Midnight com Xal'atath" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-key-art-xal-atath-lor-themar-sunwell-2.jpg?q=49&fit=crop&w=825&dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/world-of-warcraft-midnight-key-art-xal-atath-lor-themar-sunwell-2.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Arte principal de World of Warcraft: Midnight com Xal'atath, Lor'themar e o Sunwell.</figcaption></figure><p>O conteúdo de endgame incluirá 11 'delves', 8 masmorras e 3 raides. Entre as masmorras estão Windrunner Spire, Magister’s Terrace e Murder Row. As raides apresentarão The Voidspire (seis chefes), The Dreamrift (um chefe) e March on Quel’Danas (dois chefes).</p><p>Antes do lançamento completo, o Patch 11.2.7 trará um prólogo para <em>Midnight</em> e acesso antecipado à Habitação para quem possuir a expansão. O Pre-Patch, previsto para janeiro de 2026, introduzirá o Devourer Demon Hunter e outras mudanças de classe, além do evento pré-expansão.</p>",
+      "meta_description": "World of Warcraft: Midnight, a nova expansão da Saga Worldsoul, chega em 2 de março de 2026. Saiba os detalhes sobre conteúdo, acesso antecipado e história.",
+      "focus_keyphrase": "World of Warcraft Midnight lançamento",
+      "related_keyphrases": [
+        "World of Warcraft expansão",
+        "Midnight data de lançamento",
+        "Blizzard Entertainment"
+      ],
+      "slug": "world-of-warcraft-midnight-lancamento",
+      "categorias": [
+        {
+          "nome": "World of Warcraft",
+          "grupo": "franquias",
+          "evidence": "<em>World of Warcraft</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "World of Warcraft",
+        "Midnight",
+        "Blizzard Entertainment",
+        "MMORPG",
+        "Expansão de Jogo"
+      ],
+      "image_alt_texts": {
+        "world-of-warcraft-midnight-alpha-female-night-elf-model-glitch-a-pose.jpg": "Modelo de elfa noturna alfa em World of Warcraft: Midnight.",
+        "world-of-warcraft-midnight-key-art-xal-atath-lor-themar-sunwell-2.jpg": "Arte principal de World of Warcraft: Midnight com Xal'atath, Lor'themar e o Sunwell."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "World of Warcraft: Midnight chega em 2 de março de 2026",
+        "_yoast_wpseo_metadesc": "World of Warcraft: Midnight, a nova expansão da Saga Worldsoul, chega em 2 de março de 2026. Saiba os detalhes sobre conteúdo, acesso antecipado e história.",
+        "_yoast_wpseo_focuskw": "World of Warcraft Midnight lançamento",
+        "_yoast_news_keywords": "World of Warcraft, Midnight, Blizzard Entertainment, MMORPG, Expansão de Jogo, Lançamento de Jogo, Saga Worldsoul",
+        "_yoast_wpseo_opengraph-title": "World of Warcraft: Midnight chega em 2 de março de 2026",
+        "_yoast_wpseo_opengraph-description": "World of Warcraft: Midnight, a nova expansão da Saga Worldsoul, chega em 2 de março de 2026. Saiba os detalhes sobre conteúdo, acesso antecipado e história.",
+        "_yoast_wpseo_twitter-title": "World of Warcraft: Midnight chega em 2 de março de 2026",
+        "_yoast_wpseo_twitter-description": "World of Warcraft: Midnight, a nova expansão da Saga Worldsoul, chega em 2 de março de 2026. Saiba os detalhes sobre conteúdo, acesso antecipado e história."
+      }
+    },
+    {
+      "titulo_final": "Hogwarts Legacy 2 pode ser um RPG de ação single-player",
+      "conteudo_final": "<p>Novas listagens de emprego para a Warner Bros. Games e Avalanche Software sugerem que um novo projeto de RPG de ação single-player está em desenvolvimento, alimentando especulações sobre uma possível sequência para <em>Hogwarts Legacy</em>. As vagas, que incluem a busca por um produtor executivo e um animador com foco em design de criaturas, indicam um avanço significativo na produção de um novo título dentro do universo <em>Harry Potter</em>.</p><p>Anteriores anúncios de emprego já haviam levantado a possibilidade de <em>Hogwarts Legacy 2</em> ser um MMORPG, com requisitos que mencionavam modelos de 'live service' e sistemas de progressão. No entanto, as recentes contratações focadas em um RPG de ação single-player com forte ligação à propriedade intelectual original podem indicar um rumo diferente para a sequência.</p><h2>Hogwarts Legacy 2 será single-player?</h2><p>As novas oportunidades de emprego destacam a busca por um profissional para liderar um "RPG de ação single-player de alta qualidade", com preferência por candidatos que demonstrem paixão pela propriedade intelectual. Outras vagas buscam especialistas em marketing para títulos do universo <em>Harry Potter</em> e animadores com experiência em design de criaturas e anatomia.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/hogwarts-in-hogwarts-legacy.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/hogwarts-in-hogwarts-legacy.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/hogwarts-in-hogwarts-legacy.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Hogwarts em Hogwarts Legacy" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/hogwarts-in-hogwarts-legacy.jpg?q=49&fit=crop&w=825&dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/10/hogwarts-in-hogwarts-legacy.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Hogwarts em Hogwarts Legacy.</figcaption></figure><p>A Warner Bros. tem demonstrado um forte investimento no universo bruxo, com a futura série de <em>Harry Potter</em> na HBO e a nova área temática em Orlando. A possibilidade de múltiplos projetos em andamento, incluindo um potencial RPG single-player e outro multiplayer, pode atender a diferentes expectativas dos fãs.</p><p>Considerando o sucesso comercial de <em>Hogwarts Legacy</em>, que foi um dos jogos mais vendidos de 2023, uma sequência é altamente provável. A empresa pode priorizar a continuação da experiência single-player antes de explorar outras franquias de fantasia, como <em>O Senhor dos Anéis</em>.</p><h2>Novos projetos no universo Harry Potter</h2><p>As novas listagens de emprego reforçam a intenção da Warner Bros. de expandir sua presença no mercado de games com títulos baseados em propriedades intelectuais consolidadas. A especulação sobre um novo RPG de ação single-player, possivelmente uma sequência direta de <em>Hogwarts Legacy</em>, anima os fãs que apreciaram a experiência imersiva do jogo original.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/05/ss_d4930d675af053dc1e61a876a34fc003e85e261f-1920x1080.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/05/ss_d4930d675af053dc1e61a876a34fc003e85e261f-1920x1080.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/05/ss_d4930d675af053dc1e61a876a34fc003e85e261f-1920x1080.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Estudante de Hogwarts enfrenta um troll em Hogwarts Legacy" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/05/ss_d4930d675af053dc1e61a876a34fc003e85e261f-1920x1080.jpg?q=49&fit=crop&w=825&dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/05/ss_d4930d675af053dc1e61a876a34fc003e85e261f-1920x1080.jpg?q=49&fit=crop&w=825&dpr=2"/></picture><figcaption>Estudante de Hogwarts enfrenta um troll em Hogwarts Legacy.</figcaption></figure><p>A continuidade do investimento da Warner Bros. em franquias como <em>Harry Potter</em> sugere um futuro promissor para os fãs de jogos de RPG de ação. A possibilidade de uma sequência direta de <em>Hogwarts Legacy</em>, mantendo a experiência single-player, é um dos cenários mais aguardados.</p>",
+      "meta_description": "Novas vagas de emprego sugerem que Hogwarts Legacy 2 pode ser um RPG de ação single-player. Saiba mais sobre os possíveis novos projetos da Warner Bros. no universo Harry Potter.",
+      "focus_keyphrase": "Hogwarts Legacy 2 single-player",
+      "related_keyphrases": [
+        "Sequência Hogwarts Legacy",
+        "RPG Harry Potter",
+        "Avalanche Software"
+      ],
+      "slug": "hogwarts-legacy-2-rpg-single-player",
+      "categorias": [
+        {
+          "nome": "Hogwarts Legacy",
+          "grupo": "franquias",
+          "evidence": "<em>Hogwarts Legacy</em>"
+        },
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "<em>Harry Potter</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hogwarts Legacy",
+        "Harry Potter",
+        "Warner Bros. Games",
+        "Avalanche Software",
+        "RPG",
+        "Sequência de Jogo"
+      ],
+      "image_alt_texts": {
+        "hogwarts-in-hogwarts-legacy.jpg": "Cena de Hogwarts em Hogwarts Legacy.",
+        "ss_d4930d675af053dc1e61a876a34fc003e85e261f-1920x1080.jpg": "Estudante de Hogwarts enfrentando um troll em Hogwarts Legacy."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hogwarts Legacy 2 pode ser um RPG de ação single-player",
+        "_yoast_wpseo_metadesc": "Novas vagas de emprego sugerem que Hogwarts Legacy 2 pode ser um RPG de ação single-player. Saiba mais sobre os possíveis novos projetos da Warner Bros. no universo Harry Potter.",
+        "_yoast_wpseo_focuskw": "Hogwarts Legacy 2 single-player",
+        "_yoast_news_keywords": "Hogwarts Legacy, Harry Potter, Warner Bros. Games, Avalanche Software, RPG, Sequência de Jogo, Jogos Single-player",
+        "_yoast_wpseo_opengraph-title": "Hogwarts Legacy 2 pode ser um RPG de ação single-player",
+        "_yoast_wpseo_opengraph-description": "Novas vagas de emprego sugerem que Hogwarts Legacy 2 pode ser um RPG de ação single-player. Saiba mais sobre os possíveis novos projetos da Warner Bros. no universo Harry Potter.",
+        "_yoast_wpseo_twitter-title": "Hogwarts Legacy 2 pode ser um RPG de ação single-player",
+        "_yoast_wpseo_twitter-description": "Novas vagas de emprego sugerem que Hogwarts Legacy 2 pode ser um RPG de ação single-player. Saiba mais sobre os possíveis novos projetos da Warner Bros. no universo Harry Potter."
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Os 10 Melhores Cenários de Séries de Ficção Científica",
+      "conteudo_final": "<p>O gênero de ficção científica oferece um potencial ilimitado, com séries que vão desde <em>The Expanse</em> a <em>Black Mirror</em>, mas o cenário pode definir o sucesso de uma produção. Um elemento essencial na construção de um mundo para a tela é dar-lhe um senso de lugar, e as melhores séries de ficção científica são frequentemente reconhecíveis por seus cenários.</p><h2>O Reino Unido</h2><p>O Reino Unido tende a abraçar a excentricidade, o que confere às séries de ficção científica ambientadas lá um tom muito diferente. Mesmo séries que viajam pela galáxia, como <em>Doctor Who</em>, retornam regularmente ao Reino Unido para explorar sua cultura e peculiaridades. Muitas das melhores séries britânicas de ficção científica enfatizam o cenário britânico enquanto alteram um detalhe.</p><figure class=\"video-container\"><img src=\"https:
+      "meta_description": "Descubra os 10 cenários mais incríveis de séries de ficção científica, de Vulcano a The Upside Down. Conheça os mundos que definem o gênero.",
+      "focus_keyphrase": "cenários de séries de ficção científica",
+      "related_keyphrases": [
+        "melhores cenários sci-fi",
+        "mundos de ficção científica",
+        "locações icônicas sci-fi"
+      ],
+      "slug": "melhores-cenarios-series-ficcao-cientifica",
+      "categorias": [
+        {
+          "nome": "Ficção Científica",
+          "grupo": "gêneros",
+          "evidence": "O gênero de ficção científica oferece um potencial ilimitado"
+        },
+        {
+          "nome": "The Expanse",
+          "grupo": "obras",
+          "evidence": "como <em>The Expanse</em>"
+        },
+        {
+          "nome": "Black Mirror",
+          "grupo": "obras",
+          "evidence": "a <em>Black Mirror</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "ficção científica",
+        "séries",
+        "cenários",
+        "The Expanse",
+        "Black Mirror",
+        "Star Trek",
+        "Doctor Who"
+      ],
+      "image_alt_texts": {
+        "untitled-design-363.jpg": "Abby em Primeval, com um olhar de vento e segurando uma arma em cada mão.",
+        "untitled-design-365.jpg": "Chrisjen em The Expanse, em frente a uma exibição de bandeiras e do sistema solar.",
+        "untitled-design-364.jpg": "Jayne, Zoe, Mal, Inara e Wash em Firefly.",
+        "star-trek-spock-zachary-quinto.jpg": "Zachary Quinto como Spock em Star Trek.",
+        "untitled-design-366.jpg": "Donna e o Doutor em pé, costas com costas, em frente à TARDIS.",
+        "the-upside-down-in-stranger-things-season-5.jpg": "O Mundo Invertido em Stranger Things, temporada 5.",
+        "untitled-design-367.jpg": "Susan Ivanova em Babylon 5.",
+        "untitled-design-368.jpg": "Maeve sentada no bar com uma expressão preocupada em Westworld.",
+        "Mackenzie-Davis-in-Black-Mirror-San-Junipero.jpg": "Mackenzie Davis em Black Mirror: San Junipero."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Os 10 Melhores Cenários de Séries de Ficção Científica | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra os 10 cenários mais incríveis de séries de ficção científica, de Vulcano a The Upside Down. Conheça os mundos que definem o gênero.",
+        "_yoast_wpseo_focuskw": "cenários de séries de ficção científica",
+        "_yoast_news_keywords": "cenários de séries de ficção científica, The Expanse, Black Mirror, Star Trek, Doctor Who, Stranger Things, Westworld, ficção científica, séries",
+        "_yoast_wpseo_opengraph-title": "Os 10 Melhores Cenários de Séries de Ficção Científica",
+        "_yoast_wpseo_opengraph-description": "Descubra os 10 cenários mais incríveis de séries de ficção científica, de Vulcano a The Upside Down. Conheça os mundos que definem o gênero.",
+        "_yoast_wpseo_twitter-title": "Os 10 Melhores Cenários de Séries de Ficção Científica",
+        "_yoast_wpseo_twitter-description": "Descubra os 10 cenários mais incríveis de séries de ficção científica, de Vulcano a The Upside Down. Conheça os mundos que definem o gênero."
+      }
+    }
+  ]
+}

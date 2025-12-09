@@ -1,0 +1,52 @@
+{
+  "titulo_final": "The Forsytes: Série de Época da PBS Ganha Data de Estreia nos EUA em 2026",
+  "conteudo_final": "<p>A PBS Masterpiece anunciou a data de estreia nos Estados Unidos para sua nova série de drama de época, <em><strong>The Forsytes</strong></em>. Inspirada nos romances de John Galsworthy, laureado com o Prêmio Nobel, a produção é uma narrativa sobre ambição, traição, rivalidade, desejo, hierarquia social, romance e riqueza, acompanhando a família de corretores da bolsa enquanto a nova geração se prepara para assumir os negócios e a fortuna dos Forsyte.</p>\n\n<h2>Uma Nova Perspectiva sobre a Saga Familiar</h2>\n<p>Diferente de adaptações anteriores, como a de 2002 com Damien Lewis, a versão do Channel 5 e PBS Masterpiece se passa antes dos eventos do material original. Isso oferece aos espectadores uma perspectiva inédita sobre esta poderosa e complexa família.</p>\n\n<figure><img src=\"https:
+  "meta_description": "A nova série de época \"The Forsytes\", baseada nos romances de John Galsworthy, tem sua estreia confirmada para março de 2026 na PBS Masterpiece nos EUA.",
+  "focus_keyphrase": "The Forsytes",
+  "related_keyphrases": [
+    "Série de época The Forsytes",
+    "John Galsworthy",
+    "PBS Masterpiece"
+  ],
+  "slug": "the-forsytes-estreia-pbs-2026",
+  "categorias": [
+    {
+      "nome": "The Forsytes",
+      "grupo": "obras",
+      "evidence": "<em><strong>The Forsytes</strong></em>"
+    },
+    {
+      "nome": "PBS Masterpiece",
+      "grupo": "editorias",
+      "evidence": "PBS Masterpiece has revealed"
+    },
+    {
+      "nome": "Drama",
+      "grupo": "generos",
+      "evidence": "Drama"
+    }
+  ],
+  "tags_sugeridas": [
+    "The Forsytes",
+    "PBS Masterpiece",
+    "Drama de época",
+    "John Galsworthy",
+    "Stephen Moyer",
+    "Eleanor Tomlinson",
+    "Millie Gibson"
+  ],
+  "image_alt_texts": {
+    "the-forsytes-tv-show-promo-image.jpg": "Protagonistas em cena da série \"The Forsytes\", com figurinos de época e ambientação luxuosa.",
+    "instar53614202.jpg": "Stephen Moyer como Jolyon Senior Forsyte, em cena da série \"The Forsytes\"."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "The Forsytes: Série de Época Ganha Data de Estreia na PBS em 2026",
+    "_yoast_wpseo_metadesc": "A nova série de época \"The Forsytes\", baseada nos romances de John Galsworthy, tem sua estreia confirmada para março de 2026 na PBS Masterpiece nos EUA.",
+    "_yoast_wpseo_focuskw": "The Forsytes",
+    "_yoast_news_keywords": "The Forsytes, PBS Masterpiece, Drama de época, John Galsworthy, Stephen Moyer, Eleanor Tomlinson, Millie Gibson, Série de TV",
+    "_yoast_wpseo_opengraph-title": "The Forsytes: Série de Época Ganha Data de Estreia na PBS em 2026",
+    "_yoast_wpseo_opengraph-description": "A nova série de época \"The Forsytes\", baseada nos romances de John Galsworthy, tem sua estreia confirmada para março de 2026 na PBS Masterpiece nos EUA.",
+    "_yoast_wpseo_twitter-title": "The Forsytes: Série de Época Ganha Data de Estreia na PBS em 2026",
+    "_yoast_wpseo_twitter-description": "A nova série de época \"The Forsytes\", baseada nos romances de John Galsworthy, tem sua estreia confirmada para março de 2026 na PBS Masterpiece nos EUA."
+  }
+}

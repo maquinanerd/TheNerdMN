@@ -1,0 +1,45 @@
+{
+  "titulo_final": "I Play Rocky: Primeira imagem de Anthony Ippolito como Sylvester Stallone",
+  "conteudo_final": "<p>Uma nova imagem do filme biográfico sobre a produção de <em>Rocky</em> revela a primeira prévia oficial da recriação de uma cena icônica de Sylvester Stallone.</p><p>A Amazon MGM Studios divulgou a primeira imagem oficial de <em>I Play Rocky</em>, com Anthony Ippolito no papel de Sylvester Stallone, recriando a famosa cena de treinamento na praia.</p><figure><picture><source media='(max-width: 480px)' srcset='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/568131466_18532061788044738_5461454845279349017_n.jpg?q=49&fit=crop&w=500&dpr=2'/><source media='(max-width: 767px)' srcset='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/568131466_18532061788044738_5461454845279349017_n.jpg?q=70&fit=crop&w=800&dpr=1'/><source media='(max-width: 1023px)' srcset='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/568131466_18532061788044738_5461454845279349017_n.jpg?q=70&fit=crop&w=825&dpr=1'/><img alt='Anthony Ippolito como Sylvester Stallone em I Play Rocky' decoding='async' loading='lazy' src='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/568131466_18532061788044738_5461454845279349017_n.jpg?q=70&fit=crop&w=825&dpr=1' width='825'/></picture><figcaption>Anthony Ippolito como Sylvester Stallone em I Play Rocky.</figcaption></figure><h2>O Making Of de Um Ícone</h2><p>O filme <em>I Play Rocky</em> promete explorar os bastidores da criação do clássico <em>Rocky</em>, acompanhando a jornada de Sylvester Stallone para ver seu roteiro ganhar vida nas telonas. A imagem divulgada mostra Ippolito em uma pose que remete diretamente ao icônico treinamento de Rocky Balboa.</p><figure class="video-container"><iframe src="https://www.youtube.com/embed/videoseries?list=PLXLx5_zB_uWzU2K0e_r18dM02m_f2U-sD" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></figure><h2>Elenco e Equipe</h2><p>Dirigido por Peter Farrelly, o filme conta com roteiro de Peter Gamble. O elenco traz Anthony Ippolito no papel principal. A produção da Amazon MGM Studios ainda não possui data de estreia confirmada.</p>",
+  "meta_description": "Primeira imagem de 'I Play Rocky' revela Anthony Ippolito como Sylvester Stallone em cena icônica. Saiba mais sobre a cinebiografia de Rocky.",
+  "focus_keyphrase": "I Play Rocky",
+  "related_keyphrases": [
+    "filme biográfico Rocky",
+    "Sylvester Stallone",
+    "Anthony Ippolito"
+  ],
+  "slug": "i-play-rocky-primeira-imagem-stallone",
+  "categorias": [
+    {
+      "nome": "Rocky",
+      "grupo": "franquias",
+      "evidence": "Rocky"
+    },
+    {
+      "nome": "I Play Rocky",
+      "grupo": "obras",
+      "evidence": "I Play Rocky"
+    }
+  ],
+  "tags_sugeridas": [
+    "Rocky",
+    "I Play Rocky",
+    "Sylvester Stallone",
+    "Anthony Ippolito",
+    "Peter Farrelly",
+    "Amazon MGM Studios"
+  ],
+  "image_alt_texts": {
+    "568131466_18532061788044738_5461454845279349017_n.jpg": "Anthony Ippolito em cena de I Play Rocky, recriando treinamento de Sylvester Stallone como Rocky."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "I Play Rocky: Primeira imagem de Anthony Ippolito como Sylvester Stallone",
+    "_yoast_wpseo_metadesc": "Primeira imagem de 'I Play Rocky' revela Anthony Ippolito como Sylvester Stallone em cena icônica. Saiba mais sobre a cinebiografia de Rocky.",
+    "_yoast_wpseo_focuskw": "I Play Rocky",
+    "_yoast_news_keywords": "I Play Rocky, Rocky, Sylvester Stallone, Anthony Ippolito, Peter Farrelly, Amazon MGM Studios, filme biográfico",
+    "_yoast_wpseo_opengraph-title": "I Play Rocky: Primeira imagem de Anthony Ippolito como Sylvester Stallone",
+    "_yoast_wpseo_opengraph-description": "Primeira imagem de 'I Play Rocky' revela Anthony Ippolito como Sylvester Stallone em cena icônica. Saiba mais sobre a cinebiografia de Rocky.",
+    "_yoast_wpseo_twitter-title": "I Play Rocky: Primeira imagem de Anthony Ippolito como Sylvester Stallone",
+    "_yoast_wpseo_twitter-description": "Primeira imagem de 'I Play Rocky' revela Anthony Ippolito como Sylvester Stallone em cena icônica. Saiba mais sobre a cinebiografia de Rocky."
+  }
+}

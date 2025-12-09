@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Metroid Prime 4: Críticas antecipadas apontam roteiro e diálogos fracos",
+      "conteudo_final": "<p>A espera por um novo jogo da série <b>Metroid Prime</b> está perto do fim, mas a recepção inicial tem sido marcada por críticas ao roteiro e diálogos do jogo, mesmo antes de seu lançamento oficial.</p><h2>Fãs de Metroid Prime já criticam a escrita do jogo</h2><p>Uma das partes mais criticadas do jogo até o momento parece ser a sua escrita, especialmente os diálogos entre os personagens. Diferente de outros títulos onde Samus Aran está isolada, em <b>Metroid Prime 4: Beyond</b>, outros personagens acompanham a protagonista em sua nova aventura. Algumas cenas de corte que mostram essas interações foram compartilhadas online e geraram descontentamento entre os fãs da franquia.</p><p>Um exemplo notável é um clipe compartilhado que exibe uma interação entre Samus e a Soldado Nora Armstrong. Na cena, Armstrong demonstra admiração por Samus, parando para observá-la enquanto ela passa. A soldado chega a expressar admiração pelo novo traje vermelho de Samus.</p><p>Embora a cena possa ser vista como um momento fofo, com Armstrong reagindo como muitos fariam ao encontrar um herói lendário como Samus, ela parece ter irritado uma parcela significativa dos fãs de Metroid. Um usuário no Twitter lamentou a escolha, afirmando que o "isolamento era um dos maiores atrativos da franquia Metroid".</p><p>Outros comentários semelhantes podem ser encontrados, com muitos usuários descrevendo os diálogos como de baixa qualidade, comparando-os a "escrita de nível Reddit". Alguns atribuem o problema ao fato de o estúdio desenvolvedor, Retro Studios, estar sediado nos Estados Unidos.</p><p>Essa situação lembra o caso de <b>Forspoken</b>, um jogo que, apesar de suas qualidades, foi criticado antes do lançamento por diálogos que remetiam ao estilo Marvel. Na época, a protagonista Freya foi alvo de muitas críticas por causa de um diálogo em um dos trailers.</p><p>Na minha opinião, a crítica pode ser exagerada, especialmente considerando que Samus já foi admirada por outros personagens na série. Há, por exemplo, um personagem nos quadrinhos de Metroid chamado Armstrong Houston, que usa uma armadura semelhante à de Samus e sonha em ser seu parceiro de caça a recompensas. Embora a escrita possa ser aprimorada, parece precipitado desqualificar um jogo inteiro por causa disso.</p><h2>Detalhes de Metroid Prime 4: Beyond</h2><p><b>Metroid Prime 4: Beyond</b> chega para expandir a aclamada série <b>Metroid Prime</b>, quase duas décadas após o último lançamento principal. O jogo promete trazer a atmosfera característica da franquia, com foco na exploração e combate em primeira pessoa.</p><p>O título está previsto para ser lançado em 4 de dezembro de 2025. A classificação indicativa é para maiores de 12 anos, devido à violência e sangue animado. O desenvolvimento é liderado pela Retro Studios, com publicação pela Nintendo.</p><p>O jogo utiliza a engine RUDE e se enquadra nos gêneros Ação, Primeira Pessoa, Aventura e Metroidvania, oferecendo uma experiência imersiva para os fãs.</p>",
+      "meta_description": "Metroid Prime 4: Beyond enfrenta críticas antecipadas por roteiro e diálogos considerados fracos por fãs, apesar da expectativa pelo novo jogo.",
+      "focus_keyphrase": "Metroid Prime 4 roteiro e diálogos",
+      "related_keyphrases": [
+        "Metroid Prime 4 críticas",
+        "Metroid Prime 4 escrita",
+        "Samus Aran diálogo"
+      ],
+      "slug": "metroid-prime-4-criticas-roteiro-dialogos",
+      "categorias": [
+        {
+          "nome": "Metroid Prime 4: Beyond",
+          "grupo": "obras",
+          "evidence": "Metroid Prime 4: Beyond"
+        },
+        {
+          "nome": "Metroid",
+          "grupo": "franquias",
+          "evidence": "Metroid Prime"
+        }
+      ],
+      "tags_sugeridas": [
+        "Metroid Prime 4",
+        "Metroid",
+        "Retro Studios",
+        "Nintendo",
+        "Samus Aran",
+        "Metroidvania"
+      ],
+      "image_alt_texts": {
+        "metroid-prime-4-beyond-press-image-1.jpg": "Samus Aran em Metroid Prime 4: Beyond, com seu traje vermelho.",
+        "metroid-prime-4-beyond-press-image-2.jpg": "Cena de diálogo entre Samus Aran e a Soldado Nora Armstrong em Metroid Prime 4.",
+        "metroid-prime-4-beyond-press-image-3.jpg": "Ambiente exploratório em Metroid Prime 4: Beyond.",
+        "metroid-prime-4-beyond-press-image-4.jpg": "Personagem feminino em armadura em Metroid Prime 4: Beyond.",
+        "metroid-prime-4-beyond-press-image-5.jpg": "Detalhe do traje de Samus Aran em Metroid Prime 4: Beyond.",
+        "metroid-prime-4-beyond-press-image-6.jpg": "Interface de jogo de Metroid Prime 4: Beyond.",
+        "metroid-prime-4-beyond-tag-page-cover-art.jpg": "Arte de capa de Metroid Prime 4: Beyond."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Metroid Prime 4: Críticas antecipadas apontam roteiro e diálogos fracos",
+        "_yoast_wpseo_metadesc": "Metroid Prime 4: Beyond enfrenta críticas antecipadas por roteiro e diálogos considerados fracos por fãs, apesar da expectativa pelo novo jogo.",
+        "_yoast_wpseo_focuskw": "Metroid Prime 4 roteiro e diálogos",
+        "_yoast_news_keywords": "Metroid Prime 4, Metroid, Retro Studios, Nintendo, Samus Aran, Metroidvania, roteiro, diálogos",
+        "_yoast_wpseo_opengraph-title": "Metroid Prime 4: Críticas antecipadas apontam roteiro e diálogos fracos",
+        "_yoast_wpseo_opengraph-description": "A espera por um novo jogo da série Metroid Prime está perto do fim, mas a recepção inicial tem sido marcada por críticas ao roteiro e diálogos do jogo.",
+        "_yoast_wpseo_twitter-title": "Metroid Prime 4: Críticas antecipadas apontam roteiro e diálogos fracos",
+        "_yoast_wpseo_twitter-description": "A espera por um novo jogo da série Metroid Prime está perto do fim, mas a recepção inicial tem sido marcada por críticas ao roteiro e diálogos do jogo."
+      }
+    }
+  ]
+}

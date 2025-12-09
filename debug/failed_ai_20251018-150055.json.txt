@@ -1,0 +1,53 @@
+{
+  "titulo_final": "Star Wars: Mudança de última hora evitou visual diferente para Yoda e Grogu",
+  "conteudo_final": "<p>Uma curiosidade de <b>Star Wars</b> revela que o icônico visual de <b>Yoda</b> e, por extensão, de <b>Grogu</b>, quase foi completamente diferente. Uma decisão de última hora evitou que o mestre Jedi e seu aprendiz apresentassem uma aparência inusitada.</p><h2>O Roteiro Original de O Império Contra-Ataca</h2><p>A versão final do roteiro de <i>O Império Contra-Ataca</i> descreve o encontro de Luke Skywalker e R2-D2 em Dagobah com uma criatura peculiar. O texto original mencionava: “Misteriosamente, bem em frente a Luke, está uma criatura estranha e azulada, não mais alta que dois pés. A coisinha enrugada está vestida com trapos.” Se os produtores tivessem seguido o roteiro à risca, Yoda teria uma cor azul, uma ideia que muitos fãs considerariam equivocada.</p><h2>A Evolução do Visual de Yoda</h2><p>Os roteiristas Leigh Brackett e Lawrence Kasdan foram os responsáveis pelo roteiro que se tornaria <i>O Império Contra-Ataca</i>. Algumas artes conceituais iniciais, inclusive, mostravam um Yoda rosado. No entanto, a versão que chegou às telas apresentou um Yoda verde, cor que se tornou inseparável do personagem.</p><p>A razão exata para essa mudança específica não é clara e a Lucasfilm não forneceu detalhes sobre o assunto. Com o falecimento de muitos dos envolvidos na produção original, as explicações se tornam ainda mais escassas. Essa indefinição contrasta com o material existente que mostra um Yoda azul, roxo ou até mesmo incolor em esboços conceituais do final dos anos 70.</p><p>Nick Maley, designer de maquiagem e efeitos especiais em <i>O Império Contra-Ataca</i>, compartilhou suas memórias sobre o processo. Ele recorda ter visto um desenho onde Yoda já aparecia verde, mesmo antes de iniciarem a confecção do boneco. Maley também mencionou o longo período de espera para a definição do visual: “Sentamos por cinco meses para decidir como Yoda seria, e depois nos restaram sete semanas para tentar fazer o primeiro superstar animatrônico do mundo funcionar.”</p><p>A decisão de manter Yoda verde foi fundamental para consolidar sua imagem icônica nas telonas e em outras mídias da saga <b>Star Wars</b>.</p>",
+  "meta_description": "Descubra como uma mudança de última hora no roteiro de Star Wars: O Império Contra-Ataca evitou que Yoda e Grogu tivessem um visual completamente diferente.",
+  "focus_keyphrase": "Yoda e Grogu",
+  "related_keyphrases": [
+    "Star Wars",
+    "O Império Contra-Ataca",
+    "Grogu"
+  ],
+  "slug": "star-wars-yoda-grogu-visual-diferente",
+  "categorias": [
+    {
+      "nome": "Star Wars",
+      "grupo": "franquias",
+      "evidence": "Star Wars"
+    },
+    {
+      "nome": "O Império Contra-Ataca",
+      "grupo": "obras",
+      "evidence": "The Empire Strikes Back"
+    }
+  ],
+  "tags_sugeridas": [
+    "star wars",
+    "yoda",
+    "grogu",
+    "o império contra-ataque",
+    "lucasfilm",
+    "personagens",
+    "cinema"
+  ],
+  "image_alt_texts": {
+    "jim-carrey-dr-robotnik-sonic.jpg": "Yoda em Star Wars, com seu visual verde característico.",
+    "h-o-g-w-a-r-t-s-l-e-g-a-c-y.png": "Grogu, também conhecido como Baby Yoda, em uma cena de Star Wars.",
+    "Grogu-from-Star-Wars.jpg": "Comparativo visual de Grogu e Yoda em Star Wars.",
+    "s-t-e-a-m.png": "Conceito de arte inicial para Yoda em Star Wars.",
+    "companion-movie-3.jpg": "Yoda ensinando Luke Skywalker em Star Wars: O Império Contra-Ataca.",
+    "MixCollage-15-Oct-2025-01-29-PM-1471.jpg": "Diversos personagens de Star Wars.",
+    "dont-breathe-2016.jpg": "Uma cena de confronto em Star Wars.",
+    "p-s-2.png": "Personagem de Star Wars em uma pose característica."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Star Wars: Mudança de última hora evitou visual diferente para Yoda e Grogu",
+    "_yoast_wpseo_metadesc": "Descubra como uma mudança de última hora no roteiro de Star Wars: O Império Contra-Ataca evitou que Yoda e Grogu tivessem um visual completamente diferente.",
+    "_yoast_wpseo_focuskw": "Yoda e Grogu",
+    "_yoast_news_keywords": "Star Wars, Yoda, Grogu, O Império Contra-Ataca, Lucasfilm, George Lucas, Jedi",
+    "_yoast_wpseo_opengraph-title": "Star Wars: Mudança de última hora evitou visual diferente para Yoda e Grogu",
+    "_yoast_wpseo_opengraph-description": "Descubra como uma mudança de última hora no roteiro de Star Wars: O Império Contra-Ataca evitou que Yoda e Grogu tivessem um visual completamente diferente.",
+    "_yoast_wpseo_twitter-title": "Star Wars: Mudança de última hora evitou visual diferente para Yoda e Grogu",
+    "_yoast_wpseo_twitter-description": "Descubra como uma mudança de última hora no roteiro de Star Wars: O Império Contra-Ataca evitou que Yoda e Grogu tivessem um visual completamente diferente."
+  }
+}

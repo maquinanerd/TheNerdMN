@@ -1,0 +1,45 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Arc Raiders corrige falha de portas com armadilha de fogo inesperada",
+      "conteudo_final": "<p>O mais recente patch de <b>Arc Raiders</b> introduziu um 'hot fix' para a infame exploração de portas que vinha prejudicando o jogo por semanas.</p><p>Embora <b>Arc Raiders</b> seja considerado uma das grandes surpresas de 2025 e o jogo multiplayer de destaque do ano, ele não esteve livre de problemas. Talvez o mais infame desde o lançamento seja a exploração de portas fechadas.</p><p>Para quem não sabe, <b>Arc Raiders</b> possui cartões de acesso que abrem portas específicas no mapa, muitas vezes contendo o melhor saque. Geralmente, é preciso trabalhar para acessá-las, mas jogadores descobriram uma falha que permite entrar sem dificuldade (ou cartões), levando a partidas desleais.</p><h2>Embark Studios corrige falha de portas em Arc Raiders de forma criativa</h2><p>Jogadores de <b>Arc Raiders</b> vinham pedindo à Embark Studios para corrigir a exploração de portas fechadas por algumas semanas. Finalmente, a atualização 1.4.0, que acabou de ir ao ar, traz a solução. As notas do patch indicam que a equipe implementou um 'very hot fix' para a exploração, e isso deve ser levado literalmente.</p><p>Como destacado por um usuário no subreddit de <b>Arc Raiders</b>, quem tentar forçar a entrada em portas trancadas agora encontrará uma surpresa flamejante: a sala ativará armadilhas de fogo, "assando" completamente o jogador. Essa é uma verdadeira correção 'quente'.</p><p>Considerando o quão grande problema a exploração de portas fechadas tem sido nas últimas semanas, essa é possivelmente a melhor solução que a Embark poderia ter oferecido para <b>Arc Raiders</b>. Ela não só demonstra o senso de humor característico do jogo, mas também corrige um bug realmente irritante. Parabéns aos desenvolvedores, essa é uma ótima forma de vencer uma 'guerra de chamas' (flame war).</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/02/mixcollage-10-feb-2025-05-28-am-1209-1.jpg\" alt=\"Jogador tentando abrir porta em Arc Raiders é surpreendido por armadilhas de fogo.\"><figcaption>A nova atualização de Arc Raiders adiciona uma consequência flamejante para quem tentar explorar falhas.</figcaption></figure>",
+      "meta_description": "Arc Raiders implementa correção criativa para falha de portas: jogadores que tentarem explorar o glitch agora enfrentarão armadilhas de fogo como consequência.",
+      "focus_keyphrase": "Arc Raiders corrige falha de portas",
+      "related_keyphrases": [
+        "Arc Raiders exploit de porta",
+        "Embark Studios Arc Raiders",
+        "atualização Arc Raiders"
+      ],
+      "slug": "arc-raiders-corrige-falha-de-portas",
+      "categorias": [
+        {
+          "nome": "Arc Raiders",
+          "grupo": "franquias",
+          "evidence": "O mais recente patch de Arc Raiders"
+        }
+      ],
+      "tags_sugeridas": [
+        "Arc Raiders",
+        "Embark Studios",
+        "exploit",
+        "patch",
+        "hot fix",
+        "gameplay",
+        "PC"
+      ],
+      "image_alt_texts": {
+        "mixcollage-10-feb-2025-05-28-am-1209-1.jpg": "Jogador tentando abrir porta em Arc Raiders é surpreendido por armadilhas de fogo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Arc Raiders corrige falha de portas com armadilha de fogo inesperada",
+        "_yoast_wpseo_metadesc": "Arc Raiders implementa correção criativa para falha de portas: jogadores que tentarem explorar o glitch agora enfrentarão armadilhas de fogo como consequência.",
+        "_yoast_wpseo_focuskw": "Arc Raiders corrige falha de portas",
+        "_yoast_news_keywords": "Arc Raiders, Embark Studios, exploit, patch, hot fix, Armadilha de fogo, PC",
+        "_yoast_wpseo_opengraph-title": "Arc Raiders corrige falha de portas com armadilha de fogo inesperada",
+        "_yoast_wpseo_opengraph-description": "Arc Raiders implementa correção criativa para falha de portas: jogadores que tentarem explorar o glitch agora enfrentarão armadilhas de fogo como consequência.",
+        "_yoast_wpseo_twitter-title": "Arc Raiders corrige falha de portas com armadilha de fogo inesperada",
+        "_yoast_wpseo_twitter-description": "Arc Raiders implementa correção criativa para falha de portas: jogadores que tentarem explorar o glitch agora enfrentarão armadilhas de fogo como consequência."
+      }
+    }
+  ]
+}

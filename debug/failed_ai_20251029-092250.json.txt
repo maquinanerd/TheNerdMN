@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Monster Hunter Wilds: Vendas Estagnam Após 10 Milhões no Lançamento",
+      "conteudo_final": "<p>Apesar de um lançamento extremamente bem-sucedido, <b>Monster Hunter Wilds</b> tem enfrentado dificuldades desde então. Os números de vendas atualizados da Capcom evidenciam a estagnação do mais recente título da franquia, com poucas alterações desde março.</p>\n\n<h2>Desempenho de Vendas Pós-Lançamento</h2>\n<p>Monster Hunter Wilds foi lançado no final de fevereiro. Impulsionado pela antecipação e por <b>excelentes notas de crítica</b>, o jogo alcançou a marca de dez milhões de cópias vendidas em seu primeiro mês. Contudo, nos sete meses subsequentes, o desempenho de vendas tem sido significativamente menor, com o título falhando em adicionar um número expressivo a essa marca inicial.</p>\n\n<h2>Menos de 750 Mil Cópias Vendidas em Sete Meses</h2>\n<p>A Capcom divulgou seus números trimestrais mais recentes, cobrindo o período de julho a setembro de 2025. O relatório atualiza as vendas totais de alguns de seus títulos mais recentes, incluindo Wilds, que registrou 10,745 milhões de cópias vendidas até 30 de setembro de 2025. Embora dez milhões de cópias seja um feito notável para qualquer desenvolvedora, o que chama a atenção é a pouca evolução desde o lançamento.</p>\n<p>Considerando os dez milhões vendidos no primeiro mês, isso significa que <b>menos de 750.000 cópias foram comercializadas nos sete meses seguintes</b>. A Capcom, embora não esperasse que Wilds mantivesse o ritmo de dez milhões mensais, certamente não previa uma queda tão acentuada nas vendas.</p>\n\n<h2>Comparativo com Monster Hunter Rise</h2>\n<p>O estúdio admitiu que as vendas de Wilds estão abaixo do esperado. Uma comparação com os números de <b>Monster Hunter Rise</b>, também incluídos no relatório, ilustra o que a Capcom possivelmente esperava para Wilds. Rise, com mais de quatro anos de mercado, alcançou um total de 17,8 milhões de cópias vendidas. Nos últimos três meses, Rise vendeu 300.000 cópias adicionais, superando o ritmo de vendas de Wilds no mesmo período.</p>\n<figure><img src=\"https:
+      "meta_description": "Monster Hunter Wilds atingiu 10 milhões no lançamento, mas vendas estagnaram nos meses seguintes. Saiba mais sobre o desempenho do jogo.",
+      "focus_keyphrase": "Monster Hunter Wilds vendas",
+      "related_keyphrases": [
+        "Monster Hunter Wilds estagna",
+        "Capcom vendas",
+        "desempenho Monster Hunter Wilds"
+      ],
+      "slug": "monster-hunter-wilds-vendas-estagnam",
+      "categorias": [
+        {
+          "nome": "Monster Hunter Wilds",
+          "grupo": "obras",
+          "evidence": "Monster Hunter Wilds"
+        },
+        {
+          "nome": "Capcom",
+          "grupo": "editorias",
+          "evidence": "Capcom"
+        }
+      ],
+      "tags_sugeridas": [
+        "Monster Hunter Wilds",
+        "Capcom",
+        "Vendas de jogos",
+        "Monster Hunter",
+        "Jogos de Ação",
+        "RPG"
+      ],
+      "image_alt_texts": {
+        "monster-hunter-wilds-press-image-1.jpg?q=49&fit=crop&dpr=2": "Imagem promocional de Monster Hunter Wilds com um caçador em ação.",
+        "mixcollage-06-oct-2025-02-01-pm-6645.jpg": "Montagem de imagens mostrando diferentes monstros e ambientes de Monster Hunter Wilds.",
+        "monster-hunter-wilds-tag-page-cover-art.jpg": "Arte de capa de Monster Hunter Wilds.",
+        "monsterhunterwildshunter.jpg": "Um caçador em pose de combate em Monster Hunter Wilds."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Monster Hunter Wilds: Vendas Estagnam Após 10 Milhões no Lançamento | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Monster Hunter Wilds atingiu 10 milhões no lançamento, mas vendas estagnaram nos meses seguintes. Saiba mais sobre o desempenho do jogo.",
+        "_yoast_wpseo_focuskw": "Monster Hunter Wilds vendas",
+        "_yoast_news_keywords": "Monster Hunter Wilds, Capcom, Vendas de jogos, Monster Hunter, Jogos de Ação, RPG",
+        "_yoast_wpseo_opengraph-title": "Monster Hunter Wilds: Vendas Estagnam Após 10 Milhões no Lançamento",
+        "_yoast_wpseo_opengraph-description": "Apesar de um lançamento estrondoso, Monster Hunter Wilds tem visto suas vendas estagnarem nos últimos meses, levantando preocupações sobre o desempenho pós-lançamento.",
+        "_yoast_wpseo_twitter-title": "Monster Hunter Wilds: Vendas Estagnam Após 10 Milhões no Lançamento",
+        "_yoast_wpseo_twitter-description": "Apesar de um lançamento estrondoso, Monster Hunter Wilds tem visto suas vendas estagnarem nos últimos meses, levantando preocupações sobre o desempenho pós-lançamento."
+      }
+    }
+  ]
+}

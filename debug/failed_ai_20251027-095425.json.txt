@@ -1,0 +1,59 @@
+{
+  "titulo_final": "5 Séries de Terror da HBO Max para Maratona Antes do Halloween",
+  "conteudo_final": "<p>Com a chegada do Halloween, a <strong>HBO Max</strong> oferece um catálogo recheado de opções para quem busca maratonar séries de suspense e terror. A plataforma preparou uma lista especial com cinco títulos que prometem preencher a semana com doses de adrenalina e sustos, ideais para celebrar a data mais sombria do ano.</p><h2>Salem's Lot: O Clássico de Stephen King</h2><p>Uma das adaptações de Stephen King disponíveis na plataforma é <em>Salem's Lot</em>. Lançada no ano passado, a série recebeu críticas mistas, mas se destaca por sua atmosfera sombria. Publicada originalmente há 50 anos, a obra já ganhou adaptações para a TV em 1979 e um remake em 2004. A versão mais recente, estrelada por Lewis Pullman, busca honrar o material original, combinando suspense e momentos de tensão.</p><figure class=\"video-container\"><iframe src=\"https://video.srcdn.com/2024/09/20240912_salem-s-lot-official-trailer-max-1727105176.mp4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de Salem's Lot</figcaption></figure><p>Apesar de algumas críticas apontarem a falta de sustos genuínos, a série foi elogiada por ser um suspense polido e perturbador, mantendo o tom de terror clássico do autor.</p><h2>The Baby: Um Bebê Demoníaco e Divertido</h2><p>Para quem procura algo fora do comum, <em>The Baby</em>, original de 2022, é uma opção de horror sobrenatural com toques de comédia. A trama acompanha Natasha, uma mulher de 30 e poucos anos que se vê inesperadamente responsável por um bebê adorável, porém diabólico. Conforme ela percebe a natureza demoníaca da criança, precisa encontrar uma forma de se livrar dele.</p><figure class=\"video-container\"><iframe src=\"https://video.srcdn.com/trailers/tv/167217_Miniseries_8 Episodes.mp4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de The Baby</figcaption></figure><p>A série conquistou 72% de aprovação no Rotten Tomatoes, com críticas positivas destacando a originalidade da combinação entre horror e humor. Com oito episódios de aproximadamente 30 minutos cada, <em>The Baby</em> é uma maratona rápida e eficaz.</p><h2>Folklore: Antologia de Horror Asiático</h2><p>Se o objetivo é imergir em um terror mais autêntico, <em>Folklore</em> é uma escolha acertada. Esta produção da HBO Asia, dividida em duas temporadas e 13 episódios, explora superstições e mitos de diversos países asiáticos, como Japão, Tailândia e Coreia.</p><figure class=\"video-container\"><iframe src=\"https://video.srcdn.com/2025/10/folklore-hbo-asia-official-trailer-hbo-1761531064.mp4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de Folklore</figcaption></figure><p>A série antológica obteve uma excelente pontuação de 88% no Rotten Tomatoes e foi elogiada por críticos, incluindo a IGN, que a descreveu como \"oito filmes de terror únicos e atmosféricos\". <em>Folklore</em> oferece contos arrepiantes e originais, sendo uma das melhores opções de terror da HBO Max.</p><h2>The Outsider: Mistério e Sobrenatural nas Terras de Stephen King</h2><p>Baseada em outra obra de Stephen King, <em>The Outsider</em> (2020) é uma série de folk horror que cativa pela sua atmosfera densa e elenco estelar, liderado por Ben Mendelsohn e Jason Bateman. A trama investiga um crime brutal e a presença de uma força sinistra em uma pequena cidade, explorando elementos sobrenaturais.</p><figure class=\"video-container\"><iframe src=\"https://video.srcdn.com/2024/06/20191205_the-outsider-official-trailer-hbo-1717518970.mp4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de The Outsider</figcaption></figure><p>Com 91% de aprovação como "Certified Fresh" no Rotten Tomatoes, a série foi elogiada por manter a complexidade do enredo de King, enquanto alterava o tom para algo mais misterioso e aterrorizante. <em>The Outsider</em> se destaca como uma adaptação notável.</p><h2>30 Coins: Fantasia Religiosa e Terror</h2><p>Considerada por muitos como a joia escondida do terror na <strong>HBO Max</strong>, <em>30 Coins</em> é uma produção espanhola que mistura fantasia religiosa, horror e suspense. A história acompanha o Padre Vergara, um ex-combatente exilado em uma remota cidade espanhola, que se une a uma veterinária e ao prefeito para investigar fenômenos paranormais.</p><figure class=\"video-container\"><iframe src=\"https://video.srcdn.com/trailers/tv/182165_Season 1_8 Episodes.mp4\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Trailer de 30 Coins</figcaption></figure><p>Com 16 episódios de aproximadamente uma hora cada e 91% de aprovação no Rotten Tomatoes, a série é comparada a \"um Tesouro Nacional em R-rated e ensanguentado dirigido por Guillermo del Toro\". A adição de Paul Giamatti na segunda temporada eleva ainda mais o patamar desta série, tornando-a uma das melhores opções para maratonar neste Halloween.</p>",
+  "meta_description": "Maratone 5 séries de terror imperdíveis na HBO Max antes do Halloween! Descubra 'Salem's Lot', 'The Baby', 'Folklore', 'The Outsider' e '30 Coins'.",
+  "focus_keyphrase": "Séries de terror HBO Max",
+  "related_keyphrases": [
+    "Halloween séries",
+    "Maratona de terror",
+    "Melhores séries HBO Max"
+  ],
+  "slug": "series-terror-hbo-max-halloween",
+  "categorias": [
+    {
+      "nome": "The Baby",
+      "grupo": "obras",
+      "evidence": "The Baby, an original 2022 supernatural horror series"
+    },
+    {
+      "nome": "Folklore",
+      "grupo": "obras",
+      "evidence": "Folklore is about as real as it gets"
+    },
+    {
+      "nome": "The Outsider",
+      "grupo": "obras",
+      "evidence": "The Outsider is another HBO folk horror series"
+    },
+    {
+      "nome": "30 Coins",
+      "grupo": "obras",
+      "evidence": "30 Coins may have never heard of before"
+    },
+    {
+      "nome": "HBO Max",
+      "grupo": "franquias",
+      "evidence": "HBO Max has you covered this week"
+    }
+  ],
+  "tags_sugeridas": [
+    "HBO Max",
+    "Terror",
+    "Halloween",
+    "Salem's Lot",
+    "The Outsider",
+    "30 Coins",
+    "Folklore"
+  ],
+  "image_alt_texts": {},
+  "yoast_meta": {
+    "_yoast_wpseo_title": "5 Séries de Terror da HBO Max para Maratona Antes do Halloween | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Maratone 5 séries de terror imperdíveis na HBO Max antes do Halloween! Descubra 'Salem's Lot', 'The Baby', 'Folklore', 'The Outsider' e '30 Coins'.",
+    "_yoast_wpseo_focuskw": "Séries de terror HBO Max",
+    "_yoast_news_keywords": "HBO Max, Terror, Halloween, Salem's Lot, The Baby, Folklore, The Outsider, 30 Coins, Stephen King, Série",
+    "_yoast_wpseo_opengraph-title": "5 Séries de Terror da HBO Max para Maratona Antes do Halloween",
+    "_yoast_wpseo_opengraph-description": "Com a chegada do Halloween, a HBO Max oferece um catálogo recheado de opções para quem busca maratonar séries de suspense e terror.",
+    "_yoast_wpseo_twitter-title": "5 Séries de Terror da HBO Max para Maratona Antes do Halloween",
+    "_yoast_wpseo_twitter-description": "Com a chegada do Halloween, a HBO Max oferece um catálogo recheado de opções para quem busca maratonar séries de suspense e terror."
+  }
+}

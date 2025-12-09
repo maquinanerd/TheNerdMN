@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Stranger Things: Millie Bobby Brown revela ranking controverso das temporadas",
+      "conteudo_final": "<p>Millie Bobby Brown, a atriz que interpreta Eleven na aclamada série <em>Stranger Things</em>, compartilhou sua classificação pessoal das temporadas da produção da Netflix, uma lista que tem gerado controvérsia entre os fãs.</p><h2>O Ranking de Millie Bobby Brown</h2><p>Em uma entrevista recente, Brown, ao lado de seus colegas de elenco Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink e Finn Wolfhard, foi questionada sobre sua ordem preferida para as temporadas. A lista apresentada por Millie Bobby Brown é a seguinte:</p><ol><li>Temporada 1</li><li>Temporada 5</li><li>Temporada 3</li><li>Temporada 4</li><li>Temporada 2</li></ol><h2>Justificativas e Reações dos Colegas</h2><p>A atriz explicou seus motivos, destacando o fator nostalgia da primeira temporada como um período especialmente emocionante de sua vida. No entanto, ela apontou a quinta temporada como sua favorita em termos de trama e desenvolvimento geral. Sobre a temporada de menor apreço, a segunda, Brown admitiu ter poucas lembranças, mencionando que o episódio 7 dessa temporada é frequentemente criticado pelos espectadores.</p><p>A declaração de Brown gerou reações imediatas de seus colegas. Noah Schnapp defendeu a segunda temporada, afirmando que ela recebe \"muito descrédito\", com Gaten Matarazzo concordando, classificando-a como uma \"temporada subestimada\".</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&fit=crop&w=500&dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&fit=crop&w=800&dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Eleven e Kali em uma cena de Stranger Things temporada 5" decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&fit=crop&w=825&dpr=2" width="1650"/></picture><figcaption>A atriz Millie Bobby Brown, intérprete de Eleven, em cena de Stranger Things.</figcaption></figure><h2>Recepção da Quinta Temporada</h2><p>O episódio \"The Lost Sister\" da segunda temporada é frequentemente citado como o mais fraco da série. No entanto, a quinta temporada, volume 1, já buscou redimir a trama com o retorno da personagem Eight/Kali, interpretada por Linnea Berthelsen, que foi vista em cativeiro. Apesar disso, o volume 1 da quinta temporada recebeu críticas mistas e registra a pior avaliação no Rotten Tomatoes. Contudo, o episódio \"Sorcerer\" (episódio 4) alcançou a nota mais alta da série no IMDb, com 9.8/10.</p><h2>Impacto e Desempenho de Stranger Things</h2><p><em>Stranger Things</em> se tornou um fenômeno global, <strong>gerando mais de 1 bilhão de dólares em receita para a Netflix</strong>. A série mantém-se consistentemente em alta na plataforma, a ponto de o lançamento de novos episódios da temporada atual ter causado instabilidade no serviço de streaming.</p><h2>Lançamento dos Episódios Finais</h2><p>O volume 1 da quinta temporada de <em>Stranger Things</em> já está disponível na Netflix. O volume 2 tem sua estreia marcada para 25 de dezembro, com o encerramento definitivo da série previsto para 31 de dezembro.</p>",
+      "meta_description": "Millie Bobby Brown, a Eleven de Stranger Things, revela seu ranking pessoal das temporadas, gerando debate entre fãs e colegas de elenco.",
+      "focus_keyphrase": "Millie Bobby Brown ranking temporadas Stranger Things",
+      "related_keyphrases": [
+        "Stranger Things ranking de temporadas",
+        "Millie Bobby Brown Eleven",
+        "temporada 5 Stranger Things"
+      ],
+      "slug": "millie-bobby-brown-ranking-temporadas-stranger-things",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "obras",
+          "evidence": "Stranger Things season 5, volume 1, has been released"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "reportedly generated over $1 billion in revenue for Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "Stranger Things",
+        "Millie Bobby Brown",
+        "Netflix",
+        "Eleven",
+        "Ranking de Temporadas",
+        "Duffer Brothers",
+        "Noah Schnapp"
+      ],
+      "image_alt_texts": {
+        "eleven-finding-kali-in-stranger-things-season-5.jpg": "Eleven e Kali em uma cena de Stranger Things temporada 5."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Stranger Things: Millie Bobby Brown revela ranking controverso das temporadas",
+        "_yoast_wpseo_metadesc": "Millie Bobby Brown, a Eleven de Stranger Things, revela seu ranking pessoal das temporadas, gerando debate entre fãs e colegas de elenco.",
+        "_yoast_wpseo_focuskw": "Millie Bobby Brown ranking temporadas Stranger Things",
+        "_yoast_news_keywords": "Stranger Things, Millie Bobby Brown, Eleven, Netflix, Ranking de Temporadas, Gaten Matarazzo, Noah Schnapp, Sadie Sink, Finn Wolfhard, Duffer Brothers",
+        "_yoast_wpseo_opengraph-title": "Stranger Things: Millie Bobby Brown revela ranking controverso das temporadas",
+        "_yoast_wpseo_opengraph-description": "Millie Bobby Brown, a Eleven de Stranger Things, revela seu ranking pessoal das temporadas, gerando debate entre fãs e colegas de elenco.",
+        "_yoast_wpseo_twitter-title": "Stranger Things: Millie Bobby Brown revela ranking controverso das temporadas",
+        "_yoast_wpseo_twitter-description": "Millie Bobby Brown, a Eleven de Stranger Things, revela seu ranking pessoal das temporadas, gerando debate entre fãs e colegas de elenco."
+      }
+    }
+  ]
+}

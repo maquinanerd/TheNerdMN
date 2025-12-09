@@ -1,0 +1,81 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Trek: Nova franquia de filmes encontra roteiristas e diretores",
+      "conteudo_final": "<p>A Paramount se prepara para reiniciar a franquia de filmes de <b>Star Trek</b>, e o estúdio encontrou a dupla que escreverá, dirigirá e produzirá a próxima aventura cinematográfica.</p><p>Jonathan Goldstein e John Francis Daley, responsáveis por <i>Dungeons & Dragons</i>, darão nova vida a <b>Star Trek</b>. Segundo informações, o novo filme não contará com o elenco dos filmes anteriores de JJ Abrams, que incluíam Chris Pine como Capitão Kirk, Zachary Quinto como Spock, Zoe Saldaña como Uhura, entre outros.</p><p>O projeto também apresentará novos personagens, marcando um recomeço para a icônica saga espacial.</p>",
+      "meta_description": "Jonathan Goldstein e John Francis Daley, de Dungeons & Dragons, assumem a direção e roteiro do novo filme de Star Trek, que trará um reboot com novos personagens.",
+      "focus_keyphrase": "novo filme de Star Trek",
+      "related_keyphrases": [
+        "reboot Star Trek",
+        "diretores Star Trek",
+        "roteiristas Star Trek"
+      ],
+      "slug": "star-trek-novo-filme-roteiristas-diretores",
+      "categorias": [
+        {
+          "nome": "Star Trek",
+          "grupo": "franquias",
+          "evidence": "<em><strong>Star Trek </strong></em>film franchise"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Trek",
+        "Paramount",
+        "Jonathan Goldstein",
+        "John Francis Daley",
+        "reboot"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Trek: Nova franquia de filmes encontra roteiristas e diretores",
+        "_yoast_wpseo_metadesc": "Jonathan Goldstein e John Francis Daley, de Dungeons & Dragons, assumem a direção e roteiro do novo filme de Star Trek, que trará um reboot com novos personagens.",
+        "_yoast_wpseo_focuskw": "novo filme de Star Trek",
+        "_yoast_news_keywords": "Star Trek, Paramount, Jonathan Goldstein, John Francis Daley, reboot, ficção científica",
+        "_yoast_wpseo_opengraph-title": "Star Trek: Nova franquia de filmes encontra roteiristas e diretores",
+        "_yoast_wpseo_opengraph-description": "Jonathan Goldstein e John Francis Daley, de Dungeons & Dragons, assumem a direção e roteiro do novo filme de Star Trek, que trará um reboot com novos personagens.",
+        "_yoast_wpseo_twitter-title": "Star Trek: Nova franquia de filmes encontra roteiristas e diretores",
+        "_yoast_wpseo_twitter-description": "Jonathan Goldstein e John Francis Daley, de Dungeons & Dragons, assumem a direção e roteiro do novo filme de Star Trek, que trará um reboot com novos personagens."
+      }
+    },
+    {
+      "titulo_final": "Black Phone 2: Ator explica sussurro misterioso no final do filme",
+      "conteudo_final": "<p>O final de <b>Black Phone 2</b> deixou os espectadores com uma pergunta crucial: o que Gwen sussurrou para Finney em seus últimos momentos juntos? Mason Thames, intérprete de Finney, compartilhou sua perspectiva sobre a cena.</p><h2>O que Finney ouviu?</h2><p>Em entrevista, Thames revelou que não houve falas específicas ditas por Gwen para Finney no final do filme. Ele explicou que a ausência de um diálogo claro permite que o público imagine o que seria mais importante para Finney ouvir naquele momento, tornando a cena mais pessoal e impactante.</p><blockquote>"Eu sinto que sei o que ela disse, e minha reação a partir disso é meio que o que eu imaginei. É isso que eu amei, não havia falas. Então eu pude imaginar exatamente o que Finney precisava ouvir, e fiz ele ouvir, e foi ótimo. Foi um bom momento para deixar Finn ter isso."</blockquote><h2>Sinopse e Continuidade</h2><p>O primeiro filme, lançado em 2021, acompanha Finney, um garoto de 13 anos sequestrado pelo assassino The Grabber (Ethan Hawke). Com a ajuda de vítimas anteriores, ele luta para sobreviver e escapar. A sequência, <b>Black Phone 2</b>, foca mais em Gwen (Madeleine McGraw), irmã de Finney, que possui visões e se une ao irmão para enfrentar o mal.</p><h2>Potencial para Sequências</h2><p>A ambiguidade no final de <b>Black Phone 2</b>, com Gwen sussurrando algo ininteligível para Finney, abre portas para futuras continuações. O sucesso de bilheteria do filme, que arrecadou mais de US$ 123 milhões, um dos maiores feitos da Blumhouse, pode ser um forte incentivo para a continuidade da franquia, baseada no conto de Joe Hill.</p>",
+      "meta_description": "Mason Thames, ator de Finney em Black Phone 2, explica o significado do sussurro final de Gwen, deixando o mistério em aberto para o público.",
+      "focus_keyphrase": "Black Phone 2 sussurro final",
+      "related_keyphrases": [
+        "final Black Phone 2 explicado",
+        "Gwen sussurra para Finney",
+        "Mason Thames Black Phone 2"
+      ],
+      "slug": "black-phone-2-ator-explica-sussurro-final",
+      "categorias": [
+        {
+          "nome": "Black Phone",
+          "grupo": "obras",
+          "evidence": "<em><strong>Black Phone 2</strong></em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Black Phone 2",
+        "Mason Thames",
+        "Madeleine McGraw",
+        "Ethan Hawke",
+        "Joe Hill",
+        "Blumhouse"
+      ],
+      "image_alt_texts": {
+        "black-phone-2-thames-mora-mcgraw.jpg": "Mason Thames, Miguel Mora e Madeleine McGraw em cena de Black Phone 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Black Phone 2: Ator explica sussurro misterioso no final do filme",
+        "_yoast_wpseo_metadesc": "Mason Thames, ator de Finney em Black Phone 2, explica o significado do sussurro final de Gwen, deixando o mistério em aberto para o público.",
+        "_yoast_wpseo_focuskw": "Black Phone 2 sussurro final",
+        "_yoast_news_keywords": "Black Phone 2, Mason Thames, Madeleine McGraw, Ethan Hawke, Joe Hill, Blumhouse, terror",
+        "_yoast_wpseo_opengraph-title": "Black Phone 2: Ator explica sussurro misterioso no final do filme",
+        "_yoast_wpseo_opengraph-description": "Mason Thames, ator de Finney em Black Phone 2, explica o significado do sussurro final de Gwen, deixando o mistério em aberto para o público.",
+        "_yoast_wpseo_twitter-title": "Black Phone 2: Ator explica sussurro misterioso no final do filme",
+        "_yoast_wpseo_twitter-description": "Mason Thames, ator de Finney em Black Phone 2, explica o significado do sussurro final de Gwen, deixando o mistério em aberto para o público."
+      }
+    }
+  ]
+}

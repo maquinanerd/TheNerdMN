@@ -1,0 +1,54 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix: Marco Polo falha em substituir Game of Thrones e deixa lições",
+      "conteudo_final": "<p>O sucesso de <b>Game of Thrones</b> foi impressionante, levando a Netflix a buscar uma oferta similar para capitalizar sobre a popularidade da série. Lançada em 2011, <b>Game of Thrones</b> apresentou um drama épico histórico, explorando o mundo sombrio e fantasioso criado por George R. R. Martin de forma ousada, com personagens centrais que podiam ser dispensados e uma representação crua da vida na época.</p><p>Essa abordagem impulsionou outros estúdios e plataformas a elevarem o nível de suas produções para tentar replicar o êxito.</p><h2>Marco Polo: A Tentativa Fracassada da Netflix</h2><p>A Netflix investiu pesadamente em <b>Marco Polo</b>, um drama histórico épico centrado na vida do explorador Marco Polo, retratando suas viagens e sua vida na Mongólia do século XIII com uma abordagem crua e gráfica. Apesar de não ter envolvimento na produção de <b>Game of Thrones</b>, a plataforma reconheceu sua influência e popularidade, destinando um orçamento considerável para que <b>Marco Polo</b> se tornasse uma oferta comparável.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Marco Polo, série histórica da Netflix" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>A série Marco Polo, da Netflix, não alcançou o sucesso esperado.</figcaption></figure><p>No entanto, a série não decolou como esperado e, após apenas duas temporadas, foi cancelada. A Netflix aprendeu valiosas lições com o fracasso de <b>Marco Polo</b>.</p><h2>Lições Aprendidas com o Fracasso de Marco Polo</h2><p>A Netflix percebeu que não precisava replicar o modelo da HBO para se destacar. Como a plataforma líder de streaming, a Netflix possui uma posição única e uma vasta biblioteca de conteúdo original que alcança um público mais amplo. Em vez de investir em uma única série épica, a empresa redirecionou seus recursos para centenas de outros projetos, focando na aquisição de IPs populares.</p><p>Séries como <b><a href=\"https://www.maquinanerd.com.br/tag/wandinha\">Wandinha</a></b> e <b>Cobra Kai</b> demonstraram que adaptar franquias populares com um toque único pode ser extremamente bem-sucedido. Além disso, a expansão para um público global com séries como <b><a href=\"https://www.maquinanerd.com.br/tag/squid-game\">Round 6</a></b> (Squid Game) trouxe um sucesso estrondoso e imprevisível.</p><figure><picture><img alt=\"Marco Polo em cena da série da Netflix\" data-image-id=\"3703145\" data-mobile-optimized=\"true\" height=\"1080\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/a-200m-streaming-gamble-that-disappeared-without-a-trace.jpg\" width=\"2160\"/></picture><figcaption>Apesar do alto investimento, Marco Polo não se tornou o próximo Game of Thrones.</figcaption></figure><p>Embora <b>Marco Polo</b> tenha sido uma tentativa custosa de imitar o sucesso de <b>Game of Thrones</b>, o aprendizado foi crucial para o desenvolvimento de novos conteúdos premiados e recordistas, como <b><a href=\"https://www.maquinanerd.com.br/tag/stranger-things\">Stranger Things</a></b>. Hoje, <b>Marco Polo</b> pode ser esquecido, mas a Netflix emergiu mais forte e diversificada.</p>",
+      "meta_description": "Marco Polo, série épica da Netflix, falhou em substituir Game of Thrones. Saiba as lições aprendidas pela plataforma com o alto investimento.",
+      "focus_keyphrase": "Marco Polo falha em substituir Game of Thrones",
+      "related_keyphrases": [
+        "Netflix Game of Thrones",
+        "Marco Polo série cancelada",
+        "Sucesso de Game of Thrones"
+      ],
+      "slug": "netflix-marco-polo-game-of-thrones-falha",
+      "categorias": [
+        {
+          "nome": "Game of Thrones",
+          "grupo": "franquias",
+          "evidence": "Game of Thrones' success was absolutely astonishing, so it makes sense that Netflix wanted to cash in on the show's popularity with a similar offering. Game of Thrones delivered one of the most compelling, gritty, and experimental TV shows ever made when it began airing in 2011."
+        },
+        {
+          "nome": "Marco Polo",
+          "grupo": "obras",
+          "evidence": "Enter Marco Polo, the epic historical drama series that centers on the life of the well-known explorer and traveler Marco Polo."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix wanted to cash in on the show's popularity with a similar offering."
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "Game of Thrones",
+        "Marco Polo",
+        "Séries Históricas",
+        "Drama Épico"
+      ],
+      "image_alt_texts": {
+        "netflix-marco-polo.jpg": "Marco Polo, série histórica da Netflix com ambientação medieval.",
+        "a-200m-streaming-gamble-that-disappeared-without-a-trace.jpg": "Cena de ação da série Marco Polo da Netflix."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: Marco Polo falha em substituir Game of Thrones e deixa lições",
+        "_yoast_wpseo_metadesc": "Marco Polo, série épica da Netflix, falhou em substituir Game of Thrones. Saiba as lições aprendidas pela plataforma com o alto investimento.",
+        "_yoast_wpseo_focuskw": "Marco Polo falha em substituir Game of Thrones",
+        "_yoast_news_keywords": "Netflix, Game of Thrones, Marco Polo, Wandinha, Cobra Kai, Round 6, Stranger Things, séries, drama histórico",
+        "_yoast_wpseo_opengraph-title": "Netflix: Marco Polo falha em substituir Game of Thrones e deixa lições",
+        "_yoast_wpseo_opengraph-description": "Marco Polo, série épica da Netflix, falhou em substituir Game of Thrones. Saiba as lições aprendidas pela plataforma com o alto investimento.",
+        "_yoast_wpseo_twitter-title": "Netflix: Marco Polo falha em substituir Game of Thrones e deixa lições",
+        "_yoast_wpseo_twitter-description": "Marco Polo, série épica da Netflix, falhou em substituir Game of Thrones. Saiba as lições aprendidas pela plataforma com o alto investimento."
+      }
+    }
+  ]
+}

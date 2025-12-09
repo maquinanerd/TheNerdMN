@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Predator: Badlands: Quais filmes assistir antes da estreia?",
+  "conteudo_final": "<p>A franquia <b>Predator</b> retorna com <b>Predator: Badlands</b>, dirigido por Dan Trachtenberg. O filme se passa em um futuro distante e acompanha um jovem Yautja, Dek, em sua caçada para provar seu valor, contando com a ajuda de um androide da Weyland-Yutani, Thia (Elle Fanning), ligada à franquia <b>Alien</b>.</p>\n\n<p>Com quase 40 anos de história, surgem dúvidas sobre a necessidade de assistir aos filmes anteriores. Embora nem todos sejam considerados cânone, uma familiaridade com a saga pode enriquecer a experiência.</p>\n\n<h2>Predator: Badlands é um filme independente, mas conhecimento prévio ajuda</h2>\n\n<figure class=\"video-container\"><img src=\"https:
+  "meta_description": "Descubra quais filmes da saga Predator assistir antes da estreia de Predator: Badlands. Saiba o que é essencial e o que pode ser pulado.",
+  "focus_keyphrase": "Predator: Badlands",
+  "related_keyphrases": [
+    "franquia Predator",
+    "filmes Predator",
+    "Predator 2025"
+  ],
+  "slug": "predator-badlands-filmes-assistir",
+  "categorias": [
+    {
+      "nome": "Predator",
+      "grupo": "franquias",
+      "evidence": "Predator franchise"
+    },
+    {
+      "nome": "Alien",
+      "grupo": "franquias",
+      "evidence": "Alien franchise"
+    },
+    {
+      "nome": "Predator: Badlands",
+      "grupo": "obras",
+      "evidence": "Predator: Badlands"
+    }
+  ],
+  "tags_sugeridas": [
+    "predator",
+    "predator badlands",
+    "dan trachtenberg",
+    "elle fanning",
+    "alien",
+    "sci-fi",
+    "hulu"
+  ],
+  "image_alt_texts": {
+    "the-predator-is-seeing-something-in-predator-badlands.jpg": "O predador está vendo algo em Predator: Badlands.",
+    "thia-and-dek-in-predator-badlands.jpg": "Thia e Dek em cena de Predator: Badlands.",
+    "yautja-from-predator-1987.jpg": "Um Yautja, a criatura icônica da franquia Predator.",
+    "predator-badlands-official-poster.jpeg": "Pôster oficial do filme Predator: Badlands."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Predator: Badlands: Quais filmes assistir antes da estreia?",
+    "_yoast_wpseo_metadesc": "Descubra quais filmes da saga Predator assistir antes da estreia de Predator: Badlands. Saiba o que é essencial e o que pode ser pulado.",
+    "_yoast_wpseo_focuskw": "Predator: Badlands",
+    "_yoast_news_keywords": "Predator, Predator: Badlands, franquia Predator, Alien, sci-fi, Dan Trachtenberg, Elle Fanning, Hulu",
+    "_yoast_wpseo_opengraph-title": "Predator: Badlands: Quais filmes assistir antes da estreia?",
+    "_yoast_wpseo_opengraph-description": "Descubra quais filmes da saga Predator assistir antes da estreia de Predator: Badlands. Saiba o que é essencial e o que pode ser pulado.",
+    "_yoast_wpseo_twitter-title": "Predator: Badlands: Quais filmes assistir antes da estreia?",
+    "_yoast_wpseo_twitter-description": "Descubra quais filmes da saga Predator assistir antes da estreia de Predator: Badlands. Saiba o que é essencial e o que pode ser pulado."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "titulo_final": "Jeff Bridges reflete sobre o desempenho de Tron: Ares nas bilheterias",
+  "conteudo_final": "<p><strong>Tron: Ares</strong>, a mais recente adição à franquia <em>Tron</em>, teve uma estreia decepcionante nos cinemas em outubro, arrecadando apenas US$ 33 milhões em seu fim de semana de abertura doméstica, abaixo das projeções. Jeff Bridges, que retorna ao papel de Kevin Flynn, comentou sobre o desempenho do filme.</p><h2>A visão de Jeff Bridges sobre o sucesso de um filme</h2><p>Bridges sugere que o valor de um filme não se mede apenas pelo seu desempenho inicial nas bilheterias. Em entrevista recente, o ator destacou que a recepção e o impacto de um filme podem evoluir com o tempo. Ele citou o exemplo de <em>O Portal do Paraíso</em> (1980), que inicialmente foi considerado um fracasso, mas hoje é visto como uma obra-prima. Bridges também compartilhou que suas próprias opiniões sobre filmes mudaram ao longo do tempo, indicando que <strong><em>Tron: Ares</em> pode ser mais apreciado no futuro</strong>.</p><figure><img src=\"https:
+  "meta_description": "Jeff Bridges reflete sobre o desempenho de bilheteria de Tron: Ares, comparando-o com o de O Portal do Paraíso e sugerindo que o filme pode ser reavaliado no futuro.",
+  "focus_keyphrase": "Tron: Ares bilheteria",
+  "related_keyphrases": [
+    "Jeff Bridges Tron",
+    "desempenho Tron: Ares",
+    "franquia Tron"
+  ],
+  "slug": "jeff-bridges-tron-ares-bilheteria",
+  "categorias": [
+    {
+      "nome": "Tron",
+      "grupo": "franquias",
+      "evidence": "Tron: Ares"
+    },
+    {
+      "nome": "Jeff Bridges",
+      "grupo": "obras",
+      "evidence": "Jeff Bridges"
+    },
+    {
+      "nome": "Jared Leto",
+      "grupo": "obras",
+      "evidence": "Jared Leto"
+    }
+  ],
+  "tags_sugeridas": [
+    "tron",
+    "tron: ares",
+    "jeff bridges",
+    "jared leto",
+    "disney",
+    "ficção científica",
+    "bilheteria"
+  ],
+  "image_alt_texts": {
+    "mcdtrar_wd038-cropped.jpg": "Jared Leto em seu traje vermelho na grade em Tron: Ares.",
+    "01568212_poster_w780.jpg": "Pôster oficial do filme Tron: Ares.",
+    "tron-ares-jared-leto-costume-and-hair.jpg": "Jared Leto em seu traje futurista em Tron: Ares.",
+    "tron-ares-gillian-anderson-evan-peters-julian-dillinger.jpg": "Gillian Anderson e Evan Peters em cena de Tron: Ares.",
+    "jeff-bridges-as-kevin-flynn-in-tron-ares.jpg": "Jeff Bridges retorna como Kevin Flynn em Tron: Ares.",
+    "tron-ares-arturo-castro-eve-kim.jpg": "Arturo Castro e Eve Kim em Tron: Ares.",
+    "tron-ares-athena-and-dillinger-soldiers.jpg": "Soldados de Athena e Dillinger em Tron: Ares.",
+    "tron-ares-jodie-turner-smith-as-athena.jpg": "Jodie Turner-Smith como Athena em Tron: Ares.",
+    "jared-leto-in-tron_-ares.jpg": "Jared Leto com expressão intensa como Ares em Tron: Ares."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Jeff Bridges reflete sobre o desempenho de Tron: Ares nas bilheterias",
+    "_yoast_wpseo_metadesc": "Jeff Bridges comenta a bilheteria decepcionante de Tron: Ares, comparando com O Portal do Paraíso e sugerindo reavaliação futura.",
+    "_yoast_wpseo_focuskw": "Tron: Ares bilheteria",
+    "_yoast_news_keywords": "Tron: Ares, Jeff Bridges, Jared Leto, Disney, ficção científica, bilheteria, cinema",
+    "_yoast_wpseo_opengraph-title": "Jeff Bridges reflete sobre o desempenho de Tron: Ares nas bilheterias",
+    "_yoast_wpseo_opengraph-description": "Jeff Bridges comenta a bilheteria decepcionante de Tron: Ares, comparando com O Portal do Paraíso e sugerindo reavaliação futura.",
+    "_yoast_wpseo_twitter-title": "Jeff Bridges reflete sobre o desempenho de Tron: Ares nas bilheterias",
+    "_yoast_wpseo_twitter-description": "Jeff Bridges comenta a bilheteria decepcionante de Tron: Ares, comparando com O Portal do Paraíso e sugerindo reavaliação futura."
+  }
+}

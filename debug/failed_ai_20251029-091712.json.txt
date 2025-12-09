@@ -1,0 +1,50 @@
+{
+  "titulo_final": "Jennifer Lawrence explica por que a mídia a achou 'irritante' no início da carreira",
+  "conteudo_final": "<p><strong>Jennifer Lawrence</strong> reconheceu os motivos pelos quais críticos e a mídia a consideraram irritante no início de sua carreira. A estrela de Hollywood, mais conhecida por seu papel nos filmes <em>Jogos Vorazes</em>, é um dos nomes mais reconhecidos da indústria cinematográfica. No entanto, no início de sua trajetória, Lawrence foi alvo de críticas por uma personalidade percebida como 'falsa'.</p><p>Isso levou à publicação de diversos artigos sobre a jovem atriz, apresentando-a de forma pouco positiva. Lawrence manteve uma filmografia sólida ao longo de sua carreira, mas isso não impediu a formação de uma imagem de atriz inautêntica e irritante. Agora, a estrela se abriu sobre essa percepção.</p><h2>A Percepção da Mídia e a Defesa de Lawrence</h2><p>Em uma entrevista à revista <em>The New Yorker</em>, ela admitiu que sua versão mais jovem podia parecer irritante em algumas situações. No entanto, ela se defende, explicando que, embora autêntica, sua personalidade também funcionava como um mecanismo de defesa. Lawrence sentiu que foi alvo da imprensa desde cedo, concluindo que se sentiu rejeitada por sua própria personalidade.</p><p>Ao ser confrontada com artigos antigos sobre ela e questionada sobre como se sentiu ao ter sua personalidade e autenticidade questionadas, Lawrence demonstrou desconforto.</p><blockquote><p>\"Ah, não. Tão hiperativa. Tão embaraçoso. Bem, é, ou foi, minha personalidade genuína, mas também era um mecanismo de defesa. E então era um mecanismo de defesa, para simplesmente dizer: 'Eu não sou assim! Eu me cago todos os dias!'”</p></blockquote><p>Ela revelou que antecipou a virada na opinião pública e que se sentiu perseguida pelos paparazzi.</p><blockquote><p>“Eu era jovem, morava sozinha, estava sendo perseguida.”</p></blockquote><p>Lawrence continuou, confessando que estava fazendo muitos projetos e muita imprensa, e que entende por que sua imagem era considerada irritante. A atriz chegou a admitir que a imitação de Ariana Grande no programa <em>S.N.L.</em> foi precisa.</p><blockquote><p>“Eu olho para essas entrevistas, e essa pessoa é irritante. Eu entendo por que ver essa pessoa em todos os lugares seria irritante. A imitação de Ariana Grande de mim no ‘S.N.L.’ foi perfeita.”</p></blockquote><p>Lawrence concluiu afirmando que se sentiu rejeitada não por seus filmes, mas por quem ela era como pessoa.</p><blockquote><p>“Eu senti — eu não senti, eu <em>era</em>, acho — rejeitada não pelos meus filmes, não pelas minhas políticas, mas por mim, pela minha personalidade.”</p></blockquote><h2>O Início da Carreira e o Impacto da Fama</h2><p>É importante notar que Lawrence alcançou o sucesso muito jovem, recebendo uma indicação ao Oscar aos 19 anos por seu papel de destaque no filme independente <em>Inverno da Alma</em>, de Debra Granik. Dois anos depois, ela alcançou fama global como Katniss Everdeen na <a href=\"https://www.maquinanerd.com.br/tag/jogos-vorazes\">franquia de filmes <em>Jogos Vorazes</em></a>, e ganhou um Oscar por seu papel em <em>O Lado Bom da Vida</em>.</p><p>Todo esse sucesso aconteceu no início da carreira de Lawrence, tornando compreensível que ela se sentisse deslocada. É provável que, com base em seus comentários, ela estivesse lutando contra uma certa síndrome do impostor. Combater os excessos da fama e da fortuna, enquanto se tenta ser profissional, trabalhar duro e parecer agradável, pode ser desgastante para qualquer um.</p><p>Sua personalidade imprevisível frequentemente a tornava alvo de escrutínio da mídia, mas também lança luz sobre como atrizes falantes tendem a receber mais negatividade do que seus colegas homens. O declínio na carreira de Katherine Heigl, após comentários que ela fez sobre seu personagem em <em>Grey's Anatomy</em>, é um exemplo precoce de uma atriz sendo rotulada como \"difícil\" por expressar sua opinião.</p><p>Isso é algo que Lawrence sente que se aplica a ela, e com razão. É justo dizer que nem todos no olho público têm uma personalidade que os torna agradáveis, e no caso de Lawrence, é provável que sua personalidade tenha sido ligeiramente exagerada para mascarar suas inseguranças. No entanto, é bom saber que ela está muito mais confortável consigo mesma agora.</p>",
+  "meta_description": "Jennifer Lawrence reflete sobre como sua personalidade inicial foi vista como 'irritante' pela mídia e como isso afetou sua carreira.",
+  "focus_keyphrase": "Jennifer Lawrence personalidade irritante",
+  "related_keyphrases": [
+    "Jennifer Lawrence carreira",
+    "Jennifer Lawrence The New Yorker",
+    "Jennifer Lawrence Jogos Vorazes"
+  ],
+  "slug": "jennifer-lawrence-personalidade-criticas",
+  "categorias": [
+    {
+      "nome": "Jennifer Lawrence",
+      "grupo": "pessoas",
+      "evidence": "Jennifer Lawrence has acknowledged why critics and the media found her annoying in the early stages of her career."
+    },
+    {
+      "nome": "Jogos Vorazes",
+      "grupo": "franquias",
+      "evidence": "best-known for her role in the Hunger Games movies"
+    },
+    {
+      "nome": "The New Yorker",
+      "grupo": "publicacoes",
+      "evidence": "In an interview with The New Yorker"
+    }
+  ],
+  "tags_sugeridas": [
+    "jennifer lawrence",
+    "jogos vorazes",
+    "the new yorker",
+    "oscar",
+    "hollywood",
+    "cinema"
+  ],
+  "image_alt_texts": {
+    "instar53732344.jpg": "Jennifer Lawrence em evento da GLAAD Media Awards, com um sorriso, em foto promocional."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Jennifer Lawrence explica por que a mídia a achou 'irritante' no início da carreira",
+    "_yoast_wpseo_metadesc": "Jennifer Lawrence reflete sobre como sua personalidade inicial foi vista como 'irritante' pela mídia e como isso afetou sua carreira.",
+    "_yoast_wpseo_focuskw": "Jennifer Lawrence personalidade irritante",
+    "_yoast_news_keywords": "Jennifer Lawrence, Jogos Vorazes, The New Yorker, Oscar, Hollywood, Cinema",
+    "_yoast_wpseo_opengraph-title": "Jennifer Lawrence explica por que a mídia a achou 'irritante' no início da carreira",
+    "_yoast_wpseo_opengraph-description": "Jennifer Lawrence reflete sobre como sua personalidade inicial foi vista como 'irritante' pela mídia e como isso afetou sua carreira.",
+    "_yoast_wpseo_twitter-title": "Jennifer Lawrence explica por que a mídia a achou 'irritante' no início da carreira",
+    "_yoast_wpseo_twitter-description": "Jennifer Lawrence reflete sobre como sua personalidade inicial foi vista como 'irritante' pela mídia e como isso afetou sua carreira."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Georgie & Mandy's First Marriage: Vilã de 'Young Sheldon' se torna mais perigosa na 2ª temporada",
+      "conteudo_final": "<p>Na segunda temporada de <b>Georgie &amp; Mandy's First Marriage</b>, a mãe de Mandy, Audrey, assume um papel mais proeminente e potencialmente destrutivo para o relacionamento do casal. Inicialmente apresentada em <em>Young Sheldon</em> como uma figura antagônica, a relação de Audrey com a filha e o genro evoluiu, mas com um novo perigo emergindo.</p><h2>Audrey: Uma Ameaça Crescente</h2><p>Apesar de fazer parte da mesma continuidade de <em>The Big Bang Theory</em>, <em>Georgie &amp; Mandy's First Marriage</em> se distancia do foco principal de seus programas predecessores. A série, no entanto, precisa manter um elemento crucial: o divórcio confirmado entre Georgie e Mandy. Essa certeza confere um mistério central à comédia, que é a razão por trás da separação.</p><p>Audrey, a mãe de Mandy, demonstrou desde o início seu descontentamento com Georgie, culpando-o por ter "atrapalhado" o futuro de sua filha. Embora tenha diminuído suas críticas e até reconhecido a dedicação de Georgie à família, seu desprezo pelo genro permaneceu.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/rachel-bay-jones-s-audrey-looks-angry-on-the-phone-standing-in-a-kitchen-from-georgie-mandy-s-first-marriage-episode-19.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Audrey (Rachel Bay Jones) em uma cena de Georgie &amp; Mandy's First Marriage.\"><figcaption>Audrey (Rachel Bay Jones) demonstra insatisfação em Georgie &amp; Mandy's First Marriage.</figcaption></figure><h2>A Nova Dinâmica de Audrey com Mandy</h2><p>A dinâmica entre Audrey e Mandy passou por turbulências. Em <em>Georgie &amp; Mandy's First Marriage</em>, a mãe chegou a expulsar a filha de casa ao descobrir a gravidez inesperada. Mesmo após o nascimento de Baby Cece, as discussões continuaram, levando Mandy a considerar a mudança.</p><p>Com o tempo, a relação entre mãe e filha começou a se reparar. Audrey tem demonstrado apoio à carreira de Mandy, oferecendo conselhos que, por vezes, priorizam seus objetivos profissionais acima do casamento. Essa nova proximidade faz com que Mandy ouça e, ocasionalmente, busque a opinião de sua mãe.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/emily-osment-s-mandy-and-rachael-bay-jones-audrey-in-georgie-mandy-s-first-marriage-image-courtesy-of-everett-collection.jpeg?q=49&fit=crop&w=825&dpr=2\" alt=\"Mandy (Emily Osment) e Audrey (Rachael Bay Jones) em Georgie &amp; Mandy's First Marriage.\"><figcaption>A relação entre Mandy e sua mãe, Audrey, tem sido um ponto central da série.</figcaption></figure><h2>O Perigo para o Casamento</h2><p>Na segunda temporada, Audrey incentiva Mandy a aproveitar a atenção que está recebendo, em vez de buscar um compromisso com Georgie para resolver seus conflitos. Se essa influência persistir, as pequenas e constantes discussões podem se tornar o fator determinante para o fim do casamento do casal.</p><p>A série explora como as relações familiares e as influências externas podem impactar um relacionamento. A postura de Audrey em relação à gravidez e ao futuro de Mandy continua sendo um ponto de tensão, capaz de minar a união do casal. A menos que Mandy encontre uma maneira de aceitar a responsabilidade compartilhada pela gravidez acidental, a mãe dela permanecerá como uma ameaça ao seu casamento.</p><p>A série, spin-off de <em>Young Sheldon</em>, explora as nuances do início da vida adulta e os desafios conjugais, mostrando como as interferências familiares podem ser tão perigosas quanto conflitos internos.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/03215792_poster_w780-1.jpg?q=70&fit=contain&w=480&dpr=1\" alt=\"Poster oficial da série Georgie &amp; Mandy's First Marriage.\"><figcaption>Georgie &amp; Mandy's First Marriage continua a saga dos personagens após Young Sheldon.</figcaption></figure>",
+      "meta_description": "Na 2ª temporada de Georgie & Mandy's First Marriage, a mãe de Mandy, Audrey, se torna uma ameaça crescente ao casamento do casal, influenciando decisões importantes.",
+      "focus_keyphrase": "Georgie & Mandy's First Marriage vilã Audrey",
+      "related_keyphrases": [
+        "Audrey ameaça casamento Georgie e Mandy",
+        "Young Sheldon spin-off segunda temporada",
+        "impacto da mãe no relacionamento"
+      ],
+      "slug": "georgie-mandy-first-marriage-audrey-temporada-2",
+      "categorias": [
+        {
+          "nome": "Georgie & Mandy's First Marriage",
+          "grupo": "obras",
+          "evidence": "Georgie &amp; Mandy's First Marriage"
+        },
+        {
+          "nome": "Young Sheldon",
+          "grupo": "franquias",
+          "evidence": "Young Sheldon's sequel spinoff"
+        },
+        {
+          "nome": "The Big Bang Theory",
+          "grupo": "franquias",
+          "evidence": "The Big Bang Theory continuity"
+        }
+      ],
+      "tags_sugeridas": [
+        "Georgie & Mandy's First Marriage",
+        "Young Sheldon",
+        "The Big Bang Theory",
+        "Montana Jordan",
+        "Emily Osment",
+        "Rachel Bay Jones"
+      ],
+      "image_alt_texts": {
+        "rachel-bay-jones-s-audrey-looks-angry-on-the-phone-standing-in-a-kitchen-from-georgie-mandy-s-first-marriage-episode-19.jpg": "Audrey (Rachel Bay Jones) com expressão de raiva ao telefone em Georgie & Mandy's First Marriage.",
+        "emily-osment-s-mandy-and-rachael-bay-jones-audrey-in-georgie-mandy-s-first-marriage-image-courtesy-of-everett-collection.jpeg": "Mandy (Emily Osment) e sua mãe Audrey (Rachael Bay Jones) em uma cena de Georgie & Mandy's First Marriage.",
+        "03215792_poster_w780-1.jpg": "Poster oficial da série Georgie & Mandy's First Marriage, estrelando Montana Jordan e Emily Osment."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Georgie & Mandy's First Marriage: Vilã de Young Sheldon se torna mais perigosa",
+        "_yoast_wpseo_metadesc": "Na 2ª temporada de Georgie & Mandy's First Marriage, Audrey, mãe de Mandy, se torna uma ameaça ao casamento do casal, influenciando decisões importantes.",
+        "_yoast_wpseo_focuskw": "Georgie & Mandy's First Marriage vilã Audrey",
+        "_yoast_news_keywords": "Georgie & Mandy's First Marriage, Young Sheldon, The Big Bang Theory, Audrey, Mandy Cooper, Georgie Cooper, Montana Jordan, Emily Osment, Rachel Bay Jones",
+        "_yoast_wpseo_opengraph-title": "Georgie & Mandy's First Marriage: Vilã de Young Sheldon se torna mais perigosa",
+        "_yoast_wpseo_opengraph-description": "Na 2ª temporada de Georgie & Mandy's First Marriage, Audrey, mãe de Mandy, se torna uma ameaça ao casamento do casal, influenciando decisões importantes.",
+        "_yoast_wpseo_twitter-title": "Georgie & Mandy's First Marriage: Vilã de Young Sheldon se torna mais perigosa",
+        "_yoast_wpseo_twitter-description": "Na 2ª temporada de Georgie & Mandy's First Marriage, Audrey, mãe de Mandy, se torna uma ameaça ao casamento do casal, influenciando decisões importantes."
+      }
+    },
+    {
+      "titulo_final": "June Lockhart, estrela de Lassie e Lost in Space, morre aos 100 anos",
+      "conteudo_final": "<p>A atriz <b>June Lockhart</b>, conhecida por seus papéis icônicos como Ruth Martin em <em>Lassie</em> e Dr. Maureen Robinson em <em>Lost in Space</em>, faleceu pacificamente em sua casa em Santa Monica, Califórnia, aos 100 anos. A notícia de sua morte, ocorrida em 23 de outubro, foi confirmada por sua família.</p><h2>Carreira Marcada pelo Sucesso na Televisão e Cinema</h2><p>Nascida em Nova York em 25 de junho de 1925, June Lockhart seguiu os passos de seus pais, Gene e Kathleen Lockhart, ambos atores. Sua estreia nas telas ocorreu aos 13 anos, em uma participação não creditada como Belinda Cratchit na adaptação cinematográfica de <em>Um Conto de Natal</em> (A Christmas Carol) em 1938.</p><p>Lockhart também integrou o elenco de musicais como <em>Meet Me in St. Louis</em> (1944), ao lado de Judy Garland, e estrelou <em>Son of Lassie</em> (1945). No entanto, foi sua participação na série de televisão <em>Lassie</em> que a consagrou.</p><p>Em 1958, June Lockhart assumiu o papel de Ruth Martin, esposa de Paul e mãe adotiva de Timmy, na série <em>Lassie</em>, reprisando o papel até 1964. Sua performance lhe rendeu uma indicação ao Emmy em 1959, consolidando seu lugar na história da televisão.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/0368129_poster_w780.jpg?q=70&fit=contain&w=480&dpr=1\" alt=\"Poster promocional da série Lassie.\"><figcaption>A atriz June Lockhart interpretou Ruth Martin na aclamada série Lassie.</figcaption></figure><h2>De Lassie a Lost in Space e Além</h2><p>Após seu sucesso em <em>Lassie</em>, Lockhart embarcou em outro papel marcante: Dr. Maureen Robinson na série de ficção científica <em>Lost in Space</em>. Ela participou de todas as três temporadas da série original, exibida entre 1965 e 1968, interpretando a matriarca da família Robinson, presa no espaço.</p><p>A atriz também emprestou sua voz para a série de reinterpretação de <em>Lost in Space</em> da Netflix, dublando uma oficial de comunicações em sua última aparição como atriz. Além desses trabalhos notáveis, Lockhart teve participações em outras séries populares como <em>General Hospital</em>, <em>Magnum, PI</em>, <em>Full House</em>, <em>Roseanne</em>, <em>7th Heaven</em> e <em>Grey's Anatomy</em>.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/09/instar48806382.jpg?q=49&fit=crop&w=50&h=65&dpr=2\" alt=\"Foto de June Lockhart.\"><figcaption>June Lockhart foi uma figura proeminente na televisão americana por décadas.</figcaption></figure><p>June Lockhart deixa um legado artístico significativo, tendo marcado gerações com suas performances memoráveis. Ela é lembrada como uma das atrizes mais versáteis e queridas da televisão.</p>",
+      "meta_description": "Morre a atriz June Lockhart, aos 100 anos. Conhecida por seus papéis em Lassie e Lost in Space, seu legado no cinema e TV é inesquecível.",
+      "focus_keyphrase": "June Lockhart morre aos 100 anos",
+      "related_keyphrases": [
+        "Atriz June Lockhart",
+        "Lassie série",
+        "Lost in Space atriz",
+        " Obituário celebridade"
+      ],
+      "slug": "june-lockhart-morre-100-anos",
+      "categorias": [
+        {
+          "nome": "Lassie",
+          "grupo": "obras",
+          "evidence": "Lassie"
+        },
+        {
+          "nome": "Lost in Space",
+          "grupo": "obras",
+          "evidence": "Lost in Space"
+        },
+        {
+          "nome": "Obituário",
+          "grupo": "editorias",
+          "evidence": "passed away at the age of 100"
+        }
+      ],
+      "tags_sugeridas": [
+        "June Lockhart",
+        "Lassie",
+        "Lost in Space",
+        "Obituário",
+        "Atriz de TV",
+        "Cinema Clássico"
+      ],
+      "image_alt_texts": {
+        "0368129_poster_w780.jpg": "Poster promocional da série Lassie, estrelando Jon Provost e June Lockhart.",
+        "screen-hub-cast-placeholder-1.png": "Imagem genérica de perfil para elenco.",
+        "instar48806382.jpg": "Foto de estúdio da atriz June Lockhart."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "June Lockhart, estrela de Lassie e Lost in Space, morre aos 100 anos",
+        "_yoast_wpseo_metadesc": "Morre a atriz June Lockhart, aos 100 anos. Conhecida por seus papéis em Lassie e Lost in Space, seu legado no cinema e TV é inesquecível.",
+        "_yoast_wpseo_focuskw": "June Lockhart morre aos 100 anos",
+        "_yoast_news_keywords": "June Lockhart, Lassie, Lost in Space, Obituário, Atriz de TV, Cinema Clássico, Gene Lockhart, Kathleen Lockhart, Jon Provost",
+        "_yoast_wpseo_opengraph-title": "June Lockhart, estrela de Lassie e Lost in Space, morre aos 100 anos",
+        "_yoast_wpseo_opengraph-description": "Morre a atriz June Lockhart, aos 100 anos. Conhecida por seus papéis em Lassie e Lost in Space, seu legado no cinema e TV é inesquecível.",
+        "_yoast_wpseo_twitter-title": "June Lockhart, estrela de Lassie e Lost in Space, morre aos 100 anos",
+        "_yoast_wpseo_twitter-description": "Morre a atriz June Lockhart, aos 100 anos. Conhecida por seus papéis em Lassie e Lost in Space, seu legado no cinema e TV é inesquecível."
+      }
+    }
+  ]
+}

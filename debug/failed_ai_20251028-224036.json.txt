@@ -1,0 +1,59 @@
+```json
+{
+  "titulo_final": "Starship Troopers deixa a Netflix: Veja o que sai no Halloween",
+  "conteudo_final": "<p>A plataforma de streaming <b>Netflix</b> terá uma perda significativa em seu catálogo de ficção científica neste fim de semana. Com a chegada do mês de novembro, vários títulos deixarão o serviço, e entre eles está um cultuado filme de <b>sci-fi</b>.</p>\n\n<h2>Adeus a um Clássico de Ficção Científica</h2>\n\n<p>Além de filmes como <i>Velozes e Furiosos</i> e <i>Jurassic Park</i>, a Netflix também perderá o clássico cult <b>Starship Troopers</b>. Lançado em 1997 e dirigido por Paul Verhoeven, o longa se tornou um ícone da ficção científica nas últimas três décadas e sua saída da Netflix, onde esteve disponível por um tempo, certamente decepcionará muitos fãs.</p>\n\n<p>Para quem não conhece, <b>Starship Troopers</b> não foi um sucesso de bilheteria em seu lançamento e recebeu críticas mistas. No entanto, ao longo dos anos, a percepção sobre o filme mudou drasticamente. Sua mensagem satírica e apresentação de ficção científica o tornaram surpreendentemente à frente de seu tempo.</p>\n\n<p>A produção original da franquia se passa no século 23 e acompanha um grupo de jovens soldados enviados para combater uma ameaça alienígena. Na época de seu lançamento nos anos 90, o filme foi criticado por uma suposta glorificação do poder militar e governamental. Contudo, a discussão evoluiu para abraçar e compreender a natureza satírica da obra.</p>\n\n<p>Embora <b>Starship Troopers</b> esteja deixando a Netflix, fãs que não possuem o filme em mídia física terão boas notícias. Logo após sua saída da Netflix, o longa estará disponível no catálogo da <b>Paramount+</b>.</p>\n\n<h2>Outras Saídas da Netflix em Novembro</h2>\n\n<p><b>Starship Troopers</b> está longe de ser o único título a sair da Netflix em novembro. A plataforma se despede de vários filmes populares. Títulos como <i>Jurassic Park</i>, <i>Shrek</i>, <i>Velozes e Furiosos</i>, <i>Meu Malvado Favorito</i>, <i>Gente Grande</i> e <i>Sherlock Holmes</i> também não estarão mais disponíveis.</p>\n\n<p>Confira a lista completa de filmes e séries que deixarão o catálogo da Netflix em novembro:</p>\n\n<ul>\n  <li><b>1/11:</b> <i>Medo Profundo</i>, <i>Medo Profundo: O Segundo Ataque</i>, <i>Quebrando o Gelo</i>, <i>A Fantástica Fábrica de Chocolate</i>, <i>Meu Malvado Favorito</i>, <i>Meu Malvado Favorito 2</i>, <i>Comer Rezar Amar</i>, <i>Velozes e Furiosos</i>, <i>+ Velozes + Furiosos</i>, <i>Velozes e Furiosos: Desafio em Tóquio</i>, <i>Velozes 5</i>, <i>Velozes e Furiosos 6</i>, <i>Velozes e Furiosos 7</i>, <i>Velozes e Furiosos: Hobbs &amp; Shaw</i>, <i>Curtindo a Vida Adoidado</i>, <i>Zohan - O Barbeiro do Rei</i>, <i>Quero Matar Meu Chefe</i>, <i>Jurassic Park</i>, <i>Jurassic Park III</i>, <i>Minions</i>, <i>Um Tira da Pesada 2</i>, <i>Ela é Demais</i>, <i>Sherlock Holmes</i>, <i>Sherlock Holmes: O Jogo de Sombras</i>, <i>Shrek</i>, <i>Shrek 2</i>, <i>Shrek Para Sempre</i>, <i>Shrek Terceiro</i>, <i>A Sete Palmos: Temporadas 1-5</i>, <i>Starship Troopers</i>, <i>O Mundo Perdido: Jurassic Park</i>, <i>Treze</i>, <i>O Vingador do Futuro</i>, <i>Varsity Blues</i>, <i>Escola de Rock</i>, <i>A Última Noite do Amor</i>, <i>Chique</i>, <i>A Fantástica Fábrica de Chocolate</i>.</li>\n  <li><b>6/11:</b> <i><a href=\"https://www.maquinanerd.com.br/tag/beetlejuice\">Beetlejuice 2</a></i>, <i>Reba: Temporadas 1-6</i>.</li>\n  <li><b>8/11:</b> <i>Nasce Uma Estrela</i>.</li>\n  <li><b>13/11:</b> <i>Archer: Temporadas 1-13</i>.</li>\n  <li><b>14/11:</b> <i><a href=\"https://www.maquinanerd.com.br/tag/madame-web\">Madame Web</a></i>, <i><a href=\"https://www.maquinanerd.com.br/tag/smile\">Sorria</a></i>.</li>\n  <li><b>15/11:</b> <i>A.P. Bio: Temporadas 1-4</i>, <i>Clube das Esposas Ricas: Temporadas 1-3</i>, <i>Tubarão</i>, <i>Tubarão 2</i>, <i>Tubarão 3</i>, <i>Tubarão: A Vingança</i>.</li>\n  <li><b>16/11:</b> <i>Mamma Mia!</i>.</li>\n  <li><b>17/11:</b> <i>Trolls: O Ritmo Continua: Temporadas 1-8</i>.</li>\n  <li><b>20/11:</b> <i>Shahs of Sunset: Temporadas 3-4</i>.</li>\n  <li><b>22/11:</b> <i>Arranha-Céu: Coragem sem Limites</i>.</li>\n</ul>",
+  "meta_description": "Starship Troopers e outros grandes filmes deixarão a Netflix no Halloween. Saiba quais títulos saem e para onde o clássico de sci-fi irá.",
+  "focus_keyphrase": "Starship Troopers Netflix",
+  "related_keyphrases": [
+    "filmes sci-fi Netflix",
+    "Starship Troopers Paramount+",
+    "o que sai da Netflix em novembro"
+  ],
+  "slug": "starship-troopers-netflix-sai",
+  "categorias": [
+    {
+      "nome": "Starship Troopers",
+      "grupo": "obras",
+      "evidence": "cult classic sci-fi movie Starship Troopers"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "obras",
+      "evidence": "The Netflix lineup"
+    },
+    {
+      "nome": "Paramount+",
+      "grupo": "obras",
+      "evidence": "will still be widely available on a major streaming service. Immediately after exiting Netflix, Starship Troopers will be added to the Paramount+ streaming lineup."
+    }
+  ],
+  "tags_sugeridas": [
+    "starship troopers",
+    "netflix",
+    "paramount+",
+    "ficção científica",
+    "paul verhoeven",
+    "streaming"
+  ],
+  "image_alt_texts": {
+    "Halo-Combat-Evolved.jpg": "Uma imagem conceitual de Halo: Combat Evolved, um jogo de ficção científica.",
+    "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Cena da série Agents of SHIELD da Marvel, com foco em elementos de ficção científica.",
+    "PlayStation-Plus-Stray.jpg": "Capa do jogo Stray, disponível no PlayStation Plus, com um gato em um ambiente futurista.",
+    "netflix-a-house-of-dynamite.jpg": "Poster promocional de um filme de suspense da Netflix chamado 'A House of Dynamite'.",
+    "stephen-king-misery.jpg": "Imagem relacionada a 'Louca Obsessão' (Misery), um filme de suspense baseado na obra de Stephen King.",
+    "x-b-o-x-g-a-m-e-p-a-s-s_45a3c5.png": "Logo do Xbox Game Pass, serviço de assinatura de jogos da Microsoft.",
+    "zPYuV_jGk7M": "Miniatura de um trailer de filme de ficção científica ou ação.",
+    "zPYuV_jGk7M": "Miniatura de alta resolução de um trailer de filme de ficção científica ou ação."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Starship Troopers deixa a Netflix: O que sai no Halloween e para onde vai",
+    "_yoast_wpseo_metadesc": "Clássico cult Starship Troopers está saindo da Netflix no Halloween. Veja quais outros filmes e séries deixam o serviço e onde assistir.",
+    "_yoast_wpseo_focuskw": "Starship Troopers Netflix",
+    "_yoast_news_keywords": "Starship Troopers, Netflix, Paramount+, ficção científica, Paul Verhoeven, streaming, filmes sci-fi",
+    "_yoast_wpseo_opengraph-title": "Starship Troopers deixa a Netflix no Halloween; Veja o que mais sai",
+    "_yoast_wpseo_opengraph-description": "O cultuado filme de ficção científica Starship Troopers está entre os títulos que deixarão a Netflix. Saiba mais sobre as perdas do catálogo e para onde o longa se mudará.",
+    "_yoast_wpseo_twitter-title": "Starship Troopers deixa a Netflix: O que sai no Halloween",
+    "_yoast_wpseo_twitter-description": "O clássico sci-fi Starship Troopers, junto com outros filmes populares, está programado para sair da Netflix. Confira os detalhes e o futuro do longa."
+  }
+}
+```

@@ -1,0 +1,46 @@
+{
+  "titulo_final": "Ator de Animais Fantásticos questiona série de Harry Potter na HBO",
+  "conteudo_final": "<p>A nova série de <b>Harry Potter</b> da HBO está em produção, trazendo um novo elenco para interpretar bruxos e feiticeiras em papéis icônicos. Brontis Jodorowsky, que interpretou Nicolas Flamel em <b>Animais Fantásticos: Os Crimes de Grindelwald</b>, comentou a escalação de Lambert Wilson como o personagem na nova produção.</p><p>Jodorowsky expressou seus votos de sucesso a Wilson, mas também destacou que, para muitos fãs, a imagem de Harry Potter sempre estará ligada a Daniel Radcliffe. A declaração sugere uma certa relutância em ver personagens evoluírem para novas encarnações, mesmo reconhecendo a natureza mutável das narrativas ao longo do tempo.</p><blockquote><p>“Para aqueles que se perguntam como me sinto a respeito, direi que, para transmitir belas histórias ao longo do tempo, os personagens sempre viajaram de uma encarnação para outra — como em uma corrida de revezamento, como os mensageiros na Grécia Antiga. Meus melhores votos a Lambert. Dito isso, para mim, Harry Potter terá para sempre as feições de Daniel Radcliffe.”</p></blockquote><p>Enquanto isso, a versão de Flamel interpretada por Wilson na série da HBO deve ter um papel mais expandido, aprofundando sua história e suas conexões com o restante do <b>Mundo Bruxo</b>. Rumores indicam que ele será mais do que apenas um imortal com uma pedra brilhante.</p><p>Lambert Wilson já foi visto filmando cenas com <b>John Lithgow</b>, que assume o papel de Albus Dumbledore. As cenas podem retratar o momento em que Dumbledore recebe a Pedra Filosofal ou quando os Flamels são informados sobre a necessidade de destruí-la.</p><p>John Lithgow descreveu Dumbledore como a “arma nuclear” da história, um personagem que aparece apenas ocasionalmente. O ator confessou que a decisão de aceitar o papel foi complexa, pois ele acredita que o personagem poderá defini-lo no final de sua carreira, mas está animado com o retorno de talentos notáveis à franquia <b>Harry Potter</b>.</p><h2>Nicolas Flamel na Nova Série</h2><p>A série de <b>Harry Potter</b> tem previsão de estreia na HBO em 2027.</p>",
+  "meta_description": "Ator de 'Animais Fantásticos', Brontis Jodorowsky, comenta a nova série de Harry Potter na HBO e a escalação de Lambert Wilson como Nicolas Flamel.",
+  "focus_keyphrase": "série Harry Potter HBO",
+  "related_keyphrases": [
+    "Nicolas Flamel HBO",
+    "Brontis Jodorowsky Harry Potter",
+    "Mundo Bruxo série"
+  ],
+  "slug": "ator-animais-fantasticos-questiona-serie-harry-potter",
+  "categorias": [
+    {
+      "nome": "Harry Potter",
+      "grupo": "franquias",
+      "evidence": "HBO’s Harry Potter reboot"
+    },
+    {
+      "nome": "Animais Fantásticos",
+      "grupo": "franquias",
+      "evidence": "Fantastic Beasts: The Crimes of Grindelwald"
+    }
+  ],
+  "tags_sugeridas": [
+    "Harry Potter",
+    "HBO",
+    "Animais Fantásticos",
+    "Nicolas Flamel",
+    "Brontis Jodorowsky",
+    "Lambert Wilson",
+    "Mundo Bruxo"
+  ],
+  "image_alt_texts": {
+    "harry-potter-updated-2026-tv-show-teaser-poster.jpg": "Teaser pôster da série de Harry Potter da HBO com o logo da franquia."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Ator de Animais Fantásticos questiona série de Harry Potter na HBO",
+    "_yoast_wpseo_metadesc": "Ator de 'Animais Fantásticos', Brontis Jodorowsky, comenta a nova série de Harry Potter na HBO e a escalação de Lambert Wilson como Nicolas Flamel.",
+    "_yoast_wpseo_focuskw": "série Harry Potter HBO",
+    "_yoast_news_keywords": "Harry Potter, HBO, Animais Fantásticos, Nicolas Flamel, Brontis Jodorowsky, Lambert Wilson, Mundo Bruxo, Daniel Radcliffe",
+    "_yoast_wpseo_opengraph-title": "Ator de Animais Fantásticos questiona série de Harry Potter na HBO",
+    "_yoast_wpseo_opengraph-description": "Brontis Jodorowsky, que interpretou Nicolas Flamel em Animais Fantásticos, compartilha seus pensamentos sobre a nova série de Harry Potter da HBO.",
+    "_yoast_wpseo_twitter-title": "Ator de Animais Fantásticos questiona série de Harry Potter na HBO",
+    "_yoast_wpseo_twitter-description": "Brontis Jodorowsky, que interpretou Nicolas Flamel em Animais Fantásticos, compartilha seus pensamentos sobre a nova série de Harry Potter da HBO."
+  }
+}

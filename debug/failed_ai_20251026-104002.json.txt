@@ -1,0 +1,127 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Misery: Um dos melhores filmes de Stephen King sai da HBO Max",
+      "conteudo_final": "<p>A <b>HBO Max</b> se prepara para estrear a mais recente adaptação de uma obra de <b>Stephen King</b> com a chegada de <i>It: Welcome to Derry</i> em 26 de outubro. Contudo, a plataforma de streaming decidiu remover outra adaptação de seu catálogo. O serviço conta com um vasto acervo de títulos baseados nos livros do Rei do Terror, incluindo a minissérie original de <b>It</b> de 1990 e filmes mais recentes como <b>O Iluminado</b>, <b>Christine</b>, e mais. Após adicionar dezenas de produções ao seu catálogo em outubro, e com o olhar voltado para novembro, a <b>HBO Max</b> está se desfazendo de uma das melhores adaptações de <b>King</b>, e os assinantes têm poucos dias restantes para assisti-la.</p><h2>Misery: O Terror Psicológico de Stephen King</h2><p>O thriller psicológico de horror de 1990, dirigido por Rob Reiner e baseado no romance homônimo de King de 1987, <b>Misery</b>, deixará de estar disponível na <b>HBO Max</b> em 31 de outubro. A obra explora o lado sombrio do fandom e é estrelada por Kathy Bates em um papel que definiu sua carreira. Ela interpreta Annie Wilkes, uma ex-enfermeira e fã obcecada pelo escritor Paul Sheldon (James Caan). Após Paul sofrer um grave acidente de carro, Annie o leva para sua cabine isolada para se recuperar e o força a escrever um novo livro apenas para ela.</p><h2>Por que Assistir a Misery?</h2><p>Existem muitas adaptações excelentes de obras de <b>King</b>, mas <b>Misery</b> é, sem dúvida, uma das melhores. O filme é uma adaptação fiel do material original, fazendo apenas um punhado de alterações. Ele captura a essência do terror psicológico do livro, com a direção especialista de Reiner e o cenário único criando uma sensação sufocante de pavor e claustrofobia que mantém os espectadores na ponta de seus assentos. Bates e Caan entregam performances memoráveis, com Bates sendo inesquecível como Annie, personificando perfeitamente a natureza obsessiva e imprevisível da personagem. Mesmo décadas após seu lançamento, <b>Misery</b> permanece um marco para thrillers psicológicos.</p><p>O filme é uma das adaptações cinematográficas de <b>King</b> mais bem avaliadas no Rotten Tomatoes, com uma pontuação “Certified Fresh” de 91% entre os críticos e 90% de aprovação do público. Ele também detém a distinção de ser a única adaptação de uma obra de <b>King</b> a ganhar um Oscar, com Kathy Bates levando para casa o prêmio de Melhor Atriz. É também um dos poucos filmes de terror a receber tal honraria, um feito raramente alcançado por outros filmes como O Silêncio dos Inocentes e Corra!</p><h2>Onde Assistir Misery Após a Saída da HBO Max</h2><p>A saída de <b>Misery</b> da <b>HBO Max</b> acontece em um momento inoportuno. Não só é o pico da temporada de Halloween, mas as obras de <b>King</b> estão novamente no centro das discussões sobre horror com o lançamento de <i>It: Welcome to Derry</i> e outras adaptações de suas obras em desenvolvimento, como <b>The Running Man</b>, com estreia prevista para 14 de novembro de 2025.</p><p>Infelizmente, fãs que esperam revisitar algumas das primeiras adaptações de <b>King</b> podem ficar sem sorte com <b>Misery</b>. O filme está atualmente disponível apenas na <b>HBO Max</b>, mas é possível que migre para outro serviço de streaming em um futuro próximo. Os boletins informativos de streaming de novembro de 2025 estão apenas começando a ser divulgados, então é cedo demais para dizer se <b>Misery</b> estará disponível em uma plataforma principal no próximo mês. O filme está disponível para aluguel em VOD.</p>",
+      "meta_description": "Um dos melhores filmes de Stephen King, Misery, deixará o catálogo da HBO Max em 31 de outubro. Saiba mais sobre o clássico do terror psicológico.",
+      "focus_keyphrase": "filme de Stephen King Misery",
+      "related_keyphrases": [
+        "Stephen King adaptações",
+        "Misery HBO Max",
+        "filmes de terror psicológico"
+      ],
+      "slug": "misery-filme-stephen-king-sai-hbo-max",
+      "categorias": [
+        {
+          "nome": "Misery",
+          "grupo": "obras",
+          "evidence": "Director Rob Reiner’s 1990 psychological horror thriller <a href=\"https://comicbook.com/tag/misery/\">Misery</a>, an a adaptation of King’s 1987 novel of the same name"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "franquias",
+          "evidence": "the latest adaptation of <a href=\"https://comicbook.com/tag/stephen-king/\">Stephen King</a>’s work"
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "editorias",
+          "evidence": "As <a href=\"https://comicbook.com/tag/hbo-max/\">HBO Max</a> prepares to debut"
+        }
+      ],
+      "tags_sugeridas": [
+        "stephen king",
+        "misery",
+        "kathy bates",
+        "hbo max",
+        "terror psicológico",
+        "rob reiner",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "netflix-scifi.jpg": "Pôster promocional do filme Misery, com foco na personagem Annie Wilkes interpretada por Kathy Bates.",
+        "Firefly-Out-of-Gas-episode.jpg": "Cena do filme Misery mostrando Paul Sheldon (James Caan) sendo torturado por Annie Wilkes (Kathy Bates).",
+        "Maggie-Cheung-in-martial-arts-movie-Hero.jpg": "Kathy Bates como Annie Wilkes em uma cena tensa do filme Misery.",
+        "bone-tomahawk-skull.jpg": "James Caan como Paul Sheldon em uma cena de vulnerabilidade no filme Misery.",
+        "i-know-what-you-did-last-summer-2025_1ff292.jpg": "Detalhe do pôster do filme Misery, destacando a ameaça de Annie Wilkes.",
+        "killjoys-cast.jpg": "Imagem promocional do filme Misery, focando no elenco principal e no tom sombrio.",
+        "weapons-2025.jpg": "Cena icônica de Misery mostrando Annie Wilkes com uma marreta.",
+        "hqdefault.jpg": "Trailer do filme Misery em destaque, com a atriz Kathy Bates.",
+        "maxresdefault.jpg": "Cena chave do filme Misery exibindo o suspense psicológico."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Misery: Clássico de Stephen King sai da HBO Max; assista agora!",
+        "_yoast_wpseo_metadesc": "A adaptação de Stephen King, Misery, deixará a HBO Max em 31 de outubro. Saiba mais sobre o suspense psicológico e onde assisti-lo.",
+        "_yoast_wpseo_focuskw": "filme de Stephen King Misery",
+        "_yoast_news_keywords": "Misery, Stephen King, HBO Max, Kathy Bates, Rob Reiner, terror, suspense psicológico",
+        "_yoast_wpseo_opengraph-title": "Misery: Um dos melhores filmes de Stephen King sai da HBO Max",
+        "_yoast_wpseo_opengraph-description": "A adaptação de Stephen King, Misery, deixará a HBO Max em 31 de outubro. Saiba mais sobre o suspense psicológico e onde assisti-lo.",
+        "_yoast_wpseo_twitter-title": "Misery: Clássico de Stephen King sai da HBO Max",
+        "_yoast_wpseo_twitter-description": "Um dos filmes mais aclamados de Stephen King, Misery, deixará a HBO Max em breve. Veja os detalhes!"
+      }
+    },
+    {
+      "titulo_final": "Marvel Rivals: Modo Zumbis impulsiona jogadores no Steam",
+      "conteudo_final": "<p><b>Marvel Rivals</b> registra um aumento expressivo em sua base de jogadores após a recente atualização de Halloween, que introduziu um aguardado modo PvE. Seguindo o lançamento da Temporada 4 e a adição de <b>Demolidor</b> e <b>Angela</b>, o jogo está revivendo um de seus eventos por tempo limitado mais populares.</p><p>Após uma janela de lançamento massiva no final de 2024, <b>Marvel Rivals</b> viu sua base de jogadores no Steam cair 86% em agosto, uma estatística alarmante para um jogo de serviço contínuo. As dificuldades parecem ter surgido de uma combinação de problemas, como questões de desempenho e balanceamento, enquanto alguns jogadores se mostraram menos entusiasmados com certas mudanças que a desenvolvedora NetEase fez no sistema de matchmaking. No entanto, mesmo com esses desafios, parece que <b>Marvel Rivals</b> encontrou uma fórmula potencial para reconquistar muitos jogadores desiludidos.</p><h2>Marvel Rivals Dobra Jogadores no Steam com Modo Zumbis</h2><p>Como parte de sua atualização de Halloween, <b>Marvel Rivals</b> adicionou seu primeiro modo exclusivamente PvE. O modo cooperativo <b>Zumbis</b> permite que até 4 jogadores enfrentem ondas de inimigos mortos-vivos e chefes como um <b>Namor Zumbi</b> e a Rainha dos Mortos. O que adiciona um toque de intriga a este modo é que os jogadores podem aprimorar seus personagens através de upgrades e habilidades modificáveis. Parece que este novo modo realmente ressoou com os fãs, pois o jogo rapidamente saltou para mais de 120.000 jogadores, com muitos nas redes sociais elogiando a adição do modo.</p><p>Infelizmente, não parece que o modo <b>Zumbis</b> será uma adição permanente, como muitos desejam, com uma data de término atual para 13 de novembro. Por enquanto, no entanto, enquanto os fãs podem se divertir com amigos no modo <b>Zumbis</b>, a atualização de Halloween para <b>Marvel Rivals</b> está presenteando os jogadores com uma skin gratuita. Ao completar missões, os jogadores podem participar do Evento <i>Voyage to Astonish</i>, ganhando recompensas gratuitas ao se moverem pelo tabuleiro do jogo, incluindo o desbloqueio completo e gratuito da skin <b>Blade Knight</b>.</p><p>Focar em deixar os jogadores satisfeitos parece ser uma prioridade para a NetEase, já que o estúdio também está trabalhando em outro recurso muito aguardado. <b>Marvel Rivals</b> agora conta com progressão cruzada (cross-progression), embora em uma forma muito limitada no momento. Embora tenha sido lançado em 23 de outubro, a progressão cruzada está disponível apenas em Acesso Antecipado para jogadores aprovados que se inscreveram para participar. Se tudo correr bem, o plano parece ser lançá-la para todos os jogadores com a Temporada 5 em novembro.</p>",
+      "meta_description": "Marvel Rivals vê seu número de jogadores disparar com o novo modo PvE de Zumbis. Descubra os detalhes do evento de Halloween e a progressão cruzada.",
+      "focus_keyphrase": "Marvel Rivals jogador",
+      "related_keyphrases": [
+        "Marvel Rivals modo zumbis",
+        "Marvel Rivals Steam",
+        "jogos Marvel"
+      ],
+      "slug": "marvel-rivals-jogador-steam-zumbis",
+      "categorias": [
+        {
+          "nome": "Marvel Rivals",
+          "grupo": "obras",
+          "evidence": "<a href=\"https://gamerant.com/db/video-game/marvel-rivals/\">Marvel Rivals</a>"
+        },
+        {
+          "nome": "Marvel",
+          "grupo": "franquias",
+          "evidence": "<a href=\"https://opencritic.com/game/17210/marvel-rivals\">OpenCritic Reviews</a></li>\n<li>Top Critic Avg: 78/100 Critics Rec: 84%\n</li>\n</ul>\n<ul>\n<li>Released</li>\n<li>December 6, 2024\n</li>\n<li>ESRB</li>\n<li>T For Teen // Violence\n</li>\n<li>Developer(s)</li>\n<li>NetEase Games\n</li>\n<li>Publisher(s)</li>\n<li>NetEase Games\n</li>\n</ul>\n<ul>\n<li>Multiplayer</li>\n<li>Online Multiplayer, Online Co-Op\n</li>\n<li>Cross-Platform Play</li>\n<li>Limited - console crossplay, no PC crossplay\n</li>\n<li>Cross Save</li>\n<li>No\n</li>\n<li>Franchise</li>\n<li>Marvel"
+        },
+        {
+          "nome": "NetEase Games",
+          "grupo": "editorias",
+          "evidence": "Developer(s)\n</li>\n<li>NetEase Games\n</li>\n<li>Publisher(s)\n</li>\n<li>NetEase Games"
+        }
+      ],
+      "tags_sugeridas": [
+        "marvel rivals",
+        "netease games",
+        "steam",
+        "modo zumbis",
+        "pvp",
+        "cross-progression",
+        "marvel"
+      ],
+      "image_alt_texts": {
+        "marvel-rivals-press-image-1.jpg": "Personagens de Marvel Rivals em ação no modo Zumbis.",
+        "marvel-rivals-press-image-10.jpg": "Gameplay de Marvel Rivals mostrando a interface do modo cooperativo.",
+        "marvel-rivals-press-image-2.jpg": "Visão geral do lobby de Marvel Rivals com jogadores se preparando para a partida.",
+        "marvel-rivals-press-image-3.jpg": "Um dos chefes do modo Zumbis de Marvel Rivals: Namor Zumbi.",
+        "marvel-rivals-press-image-4.jpg": "Jogadores em Marvel Rivals utilizando habilidades especiais contra hordas de zumbis.",
+        "marvel-rivals-press-image-5.jpg": "Screenshot de Marvel Rivals destacando a skin Blade Knight obtida no evento.",
+        "marvel-rivals-press-image-6.jpg": "Interface do evento Voyage to Astonish em Marvel Rivals.",
+        "marvel-rivals-press-image-7.jpg": "Menu de progressão cruzada de Marvel Rivals.",
+        "marvel-rivals-press-image-8.jpg": "Imagem de divulgação de Marvel Rivals mostrando o elenco de heróis.",
+        "marvel-rivals-press-image-9.jpg": "Um dos cenários do modo Zumbis em Marvel Rivals.",
+        "mixcollage-11-dec-2024-08-46-am-3822.jpg": "Montagem com cenas de gameplay de Marvel Rivals, destacando o modo Zumbis.",
+        "marvel-rivals-mcu-costume-mvp-screen.jpg": "Tela de MVP em Marvel Rivals mostrando o melhor jogador da partida.",
+        "marvel-rivals-vs-overwatch-2-halloween-content-game-rant-7.jpg": "Comparativo visual entre o conteúdo de Halloween de Marvel Rivals e Overwatch 2.",
+        "marvel-rivals-zombie-mode-scarlet-witch.jpg": "Feiticeira Escarlate em Marvel Rivals combatendo zumbis no novo modo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Marvel Rivals: Jogadores no Steam crescem com novo modo Zumbis",
+        "_yoast_wpseo_metadesc": "Marvel Rivals registra aumento de jogadores no Steam após atualização de Halloween e modo Zumbis. Descubra os detalhes!",
+        "_yoast_wpseo_focuskw": "Marvel Rivals jogador",
+        "_yoast_news_keywords": "Marvel Rivals, NetEase, Steam, Zumbis, modo PvE, Marvel, jogos",
+        "_yoast_wpseo_opengraph-title": "Marvel Rivals: Modo Zumbis impulsiona jogadores no Steam",
+        "_yoast_wpseo_opengraph-description": "Marvel Rivals vê seu número de jogadores disparar com o novo modo PvE de Zumbis. Descubra os detalhes do evento de Halloween e a progressão cruzada.",
+        "_yoast_wpseo_twitter-title": "Marvel Rivals: Jogadores crescem com modo Zumbis",
+        "_yoast_wpseo_twitter-description": "Marvel Rivals registra aumento de jogadores no Steam após atualização de Halloween e modo Zumbis. Descubra os detalhes!"
+      }
+    }
+  ]
+}

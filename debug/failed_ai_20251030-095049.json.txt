@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Pokémon TCG Pocket: Brilhantes agora no sexto slot para balancear raridade",
+  "conteudo_final": "<p>O <b>Pokémon TCG Pocket</b> implementou uma mudança significativa na forma como as cartas brilhantes (shiny) são distribuídas em seus pacotes de booster. Agora, essas variantes raras foram movidas exclusivamente para o sexto slot, uma decisão que, embora as torne mais difíceis de encontrar, tem sido bem recebida pelos jogadores.</p><h2>Ajuste na Distribuição de Cartas Brilhantes</h2><p>As cartas brilhantes foram introduzidas no jogo em março de 2025, com a expansão Shining Revelry. Desde então, sua presença nos pacotes de <b>Pokémon TCG Pocket</b> gerou controvérsia. O jogo utiliza um sistema de raridade semelhante ao do Pokémon TCG físico, mas com taxas de drop exclusivas para cada slot do booster. Anteriormente, as cartas brilhantes apareciam com mais frequência nos slots quatro e cinco, posições também ocupadas por outras cartas raras e Pokémon EX, essenciais para a construção de decks competitivos.</p><p>A desenvolvedora DeNA realizou um ajuste para equilibrar a aquisição de cartas. Com a última atualização, os pacotes de booster de seis cartas agora reservam o sexto e último slot para as cartas brilhantes. Esses pacotes especiais de seis cartas aparecem aleatoriamente, com uma chance de aproximadamente 8% em relação aos pacotes regulares de cinco cartas. Antes da atualização, o sexto slot frequentemente continha Pokémon bebês, mas agora as cartas brilhantes podem ocupar esse espaço.</p><h2>Impacto da Mudança para Colecionadores e Jogadores</h2><p>A principal reclamação dos jogadores era que as cartas brilhantes frequentemente ocupavam slots que poderiam conter cartas mais valiosas, como os Pokémon EX. Além disso, a alta frequência de brilhantes em pacotes de "god packs" – boosters raros destinados a conter as cartas mais exclusivas – era vista como decepcionante. A nova atualização garante que as cartas brilhantes não interfiram mais nas taxas de drop de outras cartas raras, alinhando-as com a percepção de que deveriam ser apenas um item cosmético cobiçado por colecionadores.</p><p>De acordo com as novas taxas de drop da expansão Mega Rising, as cartas "shiny one" em <b>Pokémon TCG Pocket</b> têm agora uma chance de 6.818% de serem obtidas em pacotes de seis cartas, enquanto as "shiny two" possuem uma taxa de 7.955%.</p><h2>Melhorias Adicionais no Jogo</h2><p>O update de outubro também introduziu outras melhorias de qualidade de vida. O limite de nível foi aumentado para 60, uma solicitação antiga da comunidade. O limite de decks subiu de 20 para 25, e os jogadores agora podem selecionar quais pacotes de booster exibir na tela inicial. Com essas mudanças e a resolução do problema das cartas brilhantes, o sentimento geral em relação ao jogo tem melhorado. Resta saber se a DeNA conseguirá manter esse ímpeto e atrair mais jogadores para a base de usuários de <b>Pokémon TCG Pocket</b>, que tem diminuído.</p>",
+  "meta_description": "Pokémon TCG Pocket move cartas brilhantes para o sexto slot, aumentando raridade e melhorando a experiência de jogo. Veja os detalhes.",
+  "focus_keyphrase": "Pokémon TCG Pocket",
+  "related_keyphrases": [
+    "cartas brilhantes Pokémon TCG Pocket",
+    "raridade Pokémon TCG Pocket",
+    "DeNA Pokémon TCG Pocket"
+  ],
+  "slug": "pokemon-tcg-pocket-brilhantes-sexto-slot",
+  "categorias": [
+    {
+      "nome": "Pokémon TCG Pocket",
+      "grupo": "obras",
+      "evidence": "Pokemon TCG Pocket"
+    },
+    {
+      "nome": "Pokémon TCG",
+      "grupo": "franquias",
+      "evidence": "Pokemon TCG Pocket"
+    }
+  ],
+  "tags_sugeridas": [
+    "Pokémon TCG Pocket",
+    "cartas brilhantes",
+    "raridade",
+    "DeNA",
+    "Pokémon TCG",
+    "Mega Rising"
+  ],
+  "image_alt_texts": {
+    "pokemon-tcg-pocket-1.jpg": "Tela de jogo do Pokémon TCG Pocket mostrando pacotes de booster.",
+    "pokemon-tcg-pocket-2.jpg": "Interface do Pokémon TCG Pocket com detalhes de cartas.",
+    "pokemon-tcg-pocket-3.jpg": "Exemplo de carta brilhante no Pokémon TCG Pocket.",
+    "pokemon-tcg-pocket-4.jpg": "Gráfico de raridade de cartas no Pokémon TCG Pocket.",
+    "pokemon-tcg-pocket-5.jpg": "Visão geral do jogo Pokémon TCG Pocket.",
+    "pokemon-tcg-cover.jpg": "Capa do jogo Pokémon TCG Pocket.",
+    "pokemon-tcg-pocket-b1-set-mega-rising-1.jpg": "Pacote de booster da expansão Mega Rising do Pokémon TCG Pocket.",
+    "pokemon-tcg-pocket-rarity-shiny-new-drop-rate.jpg": "Ilustração sobre a raridade e taxas de drop de cartas brilhantes no Pokémon TCG Pocket."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Pokémon TCG Pocket: Brilhantes agora no sexto slot para balancear raridade",
+    "_yoast_wpseo_metadesc": "Pokémon TCG Pocket move cartas brilhantes para o sexto slot, aumentando raridade e melhorando a experiência de jogo. Veja os detalhes.",
+    "_yoast_wpseo_focuskw": "Pokémon TCG Pocket",
+    "_yoast_news_keywords": "Pokémon TCG Pocket, cartas brilhantes, raridade, DeNA, Pokémon TCG, Mega Rising",
+    "_yoast_wpseo_opengraph-title": "Pokémon TCG Pocket: Brilhantes agora no sexto slot para balancear raridade",
+    "_yoast_wpseo_opengraph-description": "Pokémon TCG Pocket move cartas brilhantes para o sexto slot, aumentando raridade e melhorando a experiência de jogo. Veja os detalhes.",
+    "_yoast_wpseo_twitter-title": "Pokémon TCG Pocket: Brilhantes agora no sexto slot para balancear raridade",
+    "_yoast_wpseo_twitter-description": "Pokémon TCG Pocket move cartas brilhantes para o sexto slot, aumentando raridade e melhorando a experiência de jogo. Veja os detalhes."
+  }
+}

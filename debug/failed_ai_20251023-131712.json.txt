@@ -1,0 +1,171 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Altered: Tom Felton estrela novo filme de ficção científica; assista ao trailer",
+      "conteudo_final": "<p><strong>Tom Felton</strong>, conhecido mundialmente por seu papel como Draco Malfoy na saga <strong>Harry Potter</strong>, está de volta às telonas em um novo projeto de ficção científica. Intitulado <strong>Altered</strong>, o filme promete uma abordagem original ao gênero, conforme revelado em seu primeiro trailer exclusivo.</p><p>No longa, Felton interpreta Leon, um indivíduo comum em um futuro onde aprimoramentos genéticos definem a elite. A trama se complica quando um grupo terrorista ataca os “alterados” e incrimina os “especiais” – pessoas não geneticamente modificadas. Leon se vê no meio do conflito após aceitar uma oferta de trabalho aparentemente vantajosa.</p><h2>Uma Nova Visão da Ficção Científica</h2><p>Dirigido por <strong>Timo Vuorensola</strong>, conhecido por <em>Iron Sky</em>, <strong>Altered</strong> explora temas relevantes através de um cenário futurista. O diretor destacou seu fascínio pelo gênero e a oportunidade de apresentar uma nova perspectiva sobre questões sociais.</p><p>“Sempre fui atraído pela ficção científica, especialmente quando ela oferece novas perspectivas sobre o mundo em que vivemos. <em>Altered</em> me deu uma oportunidade única de explorar questões sociais através de um futuro que parece a um passo de distância. É o tipo de história que nos permite tocar em algo significativo, tecendo-o com ação empolgante e profundidade emocional”, declarou Vuorensola.</p><p>Além de Tom Felton, o elenco conta com <strong>Elizaveta Bugulova</strong>, <strong>Richard Brake</strong>, <strong>Aggy K. Adams</strong> e <strong>Igor Zhizhikin</strong>.</p><p><strong>Altered</strong> tem estreia prevista para 21 de novembro em cinemas e plataformas digitais (VOD).</p>",
+      "meta_description": "Tom Felton, o Draco Malfoy de Harry Potter, estrela o novo sci-fi 'Altered'. Veja o trailer e saiba mais sobre a trama distópica.",
+      "focus_keyphrase": "filme Altered Tom Felton",
+      "related_keyphrases": [
+        "novo filme de ficção científica",
+        "trailer Altered",
+        "Tom Felton em Altered"
+      ],
+      "slug": "altered-tom-felton-ficcao-cientifica-trailer",
+      "categorias": [
+        {
+          "nome": "Altered",
+          "grupo": "obras",
+          "evidence": "original sci-fi movie called Altered"
+        },
+        {
+          "nome": "Harry Potter",
+          "grupo": "franquias",
+          "evidence": "Tom Felton is best known to fans for his work in the Harry Potter franchise."
+        }
+      ],
+      "tags_sugeridas": [
+        "Tom Felton",
+        "Altered",
+        "Ficção Científica",
+        "Draco Malfoy",
+        "Timo Vuorensola",
+        "Trailers de Filmes"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Altered: Tom Felton estrela novo filme de ficção científica; assista ao trailer",
+        "_yoast_wpseo_metadesc": "Tom Felton, o Draco Malfoy de Harry Potter, estrela o novo sci-fi 'Altered'. Veja o trailer e saiba mais sobre a trama distópica.",
+        "_yoast_wpseo_focuskw": "filme Altered Tom Felton",
+        "_yoast_news_keywords": "Altered, Tom Felton, Ficção Científica, Harry Potter, Draco Malfoy, Timo Vuorensola, Trailers de Filmes",
+        "_yoast_wpseo_opengraph-title": "Altered: Tom Felton estrela novo filme de ficção científica; assista ao trailer",
+        "_yoast_wpseo_opengraph-description": "Tom Felton, o Draco Malfoy de Harry Potter, estrela o novo sci-fi 'Altered'. Veja o trailer e saiba mais sobre a trama distópica.",
+        "_yoast_wpseo_twitter-title": "Altered: Tom Felton estrela novo filme de ficção científica; assista ao trailer",
+        "_yoast_wpseo_twitter-description": "Tom Felton, o Draco Malfoy de Harry Potter, estrela o novo sci-fi 'Altered'. Veja o trailer e saiba mais sobre a trama distópica."
+      }
+    },
+    {
+      "titulo_final": "5 Remakes que Alteraram Final Original e Prejudicaram a Obra",
+      "conteudo_final": "<p>Remakes de filmes são uma prática comum no cinema moderno, muitas vezes buscando inovar com novas abordagens. No entanto, algumas adaptações que alteram significativamente o final original acabam por prejudicar a essência da obra, gerando recepção negativa por parte do público e da crítica.</p><h2>Little Shop of Horrors (1986)</h2><p>O remake de 1986 de <strong><em>Little Shop of Horrors</em></strong>, baseado no musical, é frequentemente elogiado por superar o filme original de 1960. Estrelado por Rick Moranis, o filme conta com um elenco cômico estelar, incluindo Steve Martin e Bill Murray. A principal mudança reside no final: enquanto no original Seymour é devorado pela planta Audrey II, no remake ele sobrevive, assim como a planta, que planeja dominar o mundo. Essa alteração, embora não arruíne o filme, modifica o subtexto original.</p><h2>Speak No Evil (2024)</h2><p>A versão de 2024 de <strong><em>Speak No Evil</em></strong> recebeu aclamação crítica e sucesso financeiro. A trama acompanha uma família que visita outra após um encontro de férias, caindo em uma armadilha mortal. Embora a premissa seja similar à do filme dinamarquês-holandês de 2022, o final foi alterado, o que alguns consideram prejudicial à força da narrativa.</p><p>No filme original, a família protagonista é morta, perpetuando um ciclo de violência. Já o remake apresenta os heróis triunfando sobre os vilões. O final mais sombrio e perturbador do original, no entanto, é mais eficaz em manter o tom de horror, contrastando com o final mais esperançoso do remake.</p><h2>Animal Farm (1999)</h2><p>O clássico distópico de George Orwell, <strong><em>Animal Farm</em></strong>, foi adaptado em animação em 1954 e novamente em 1999 com o uso de animatrônicos. A versão de 1999 introduziu mudanças cruciais, especialmente no desfecho.</p><p>Diferente do original, onde Napoleão é brutalmente deposto, no remake os protagonistas escapam e retornam anos depois para encontrar Napoleão morto e construir um futuro esperançoso. Essa conclusão otimista, no entanto, desvia do propósito sombrio da obra de Orwell.</p><h2>The Vanishing (1993)</h2><p>O suspense de 1993, <strong><em>The Vanishing</em></strong>, é um remake americano do filme franco-holandês de 1988. Ambos narram a história de um homem obcecado em descobrir o que aconteceu com sua namorada desaparecida. As duas versões divergem drasticamente no final.</p><p>O original mostra o protagonista sofrendo o mesmo destino de sua namorada, enterrado vivo. O remake, por outro lado, o tem salvo por sua nova namorada, que então mata o sequestrador. A conclusão mais sombria e subversiva do original explorava os perigos do trauma, enquanto o remake optou por um final mais positivo, porém menos impactante.</p><h2>Planet of the Apes (2001)</h2><p>O icônico final de <strong><em>Planet of the Apes</em></strong> (1968) revelou que o planeta dos símios era, na verdade, a Terra em um futuro distante. O remake de Tim Burton em 2001 enfrentou o desafio de recriar ou alterar essa reviravolta memorável.</p><p>Burton optou por uma nova abordagem, resultando em um final considerado por muitos como um dos mais desastrosos. O protagonista retorna à sua linha do tempo, encontrando uma Terra alternativa onde os macacos dominam. A cena final com uma versão símia de Lincoln no memorial é frequentemente citada como um exemplo de como um remake pode arruinar um final clássico.</p>",
+      "meta_description": "Descubra 5 remakes de filmes que alteraram drasticamente seus finais originais, muitas vezes para pior, impactando negativamente a obra.",
+      "focus_keyphrase": "remakes que alteraram finais",
+      "related_keyphrases": [
+        "remakes arruinados",
+        "finais de filmes alterados",
+        "reimaginações de filmes"
+      ],
+      "slug": "remakes-alteraram-finais-originais",
+      "categorias": [
+        {
+          "nome": "Little Shop of Horrors",
+          "grupo": "obras",
+          "evidence": "1986’s Little Shop of Horrors is one of the few horror movie remakes considered better than the original."
+        },
+        {
+          "nome": "Speak No Evil",
+          "grupo": "obras",
+          "evidence": "2024’s Speak No Evil is far from an awful horror remake"
+        },
+        {
+          "nome": "Animal Farm",
+          "grupo": "obras",
+          "evidence": "Orwell’s novel Animal Farm was first adapted into an animated movie in 1954"
+        },
+        {
+          "nome": "The Vanishing",
+          "grupo": "obras",
+          "evidence": "1993’s The Vanishing is an American remake of the 1988 French-Dutch movie of the same name"
+        },
+        {
+          "nome": "Planet of the Apes",
+          "grupo": "obras",
+          "evidence": "1968’s Planet of the Apes served up one of the best sci-fi movie twists of all time"
+        }
+      ],
+      "tags_sugeridas": [
+        "remakes",
+        "finais alterados",
+        "Little Shop of Horrors",
+        "Planet of the Apes",
+        "Animal Farm",
+        "Speak No Evil",
+        "The Vanishing"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Imagem promocional com o logo do PlayStation Store.",
+        "Army-in-Dune-Part-Two.jpg": "Cena do filme Duna: Parte Dois com soldados.",
+        "Battlestar-Galactica-33.jpg": "Arte conceitual da série Battlestar Galactica.",
+        "Gargoyles.jpg": "Imagem da série animada Gargoyles.",
+        "animal-farm-1999.jpg": "Imagem do remake de 1999 do filme Animal Farm.",
+        "little-shop-of-horrors-1986.jpg": "Poster do remake de 1986 do filme Little Shop of Horrors.",
+        "planet-of-the-apes-2001.jpg": "Poster do remake de 2001 do filme Planeta dos Macacos.",
+        "speak-no-evil.jpg": "Imagem do filme Speak No Evil.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Foto de um calendário de advento com sabres de luz de Star Wars.",
+        "the-vanishing-1993.jpg": "Poster do filme The Vanishing (1993).",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem promocional do Xbox Game Pass."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "5 Remakes que Alteraram Final Original e Prejudicaram a Obra",
+        "_yoast_wpseo_metadesc": "Descubra 5 remakes de filmes que alteraram drasticamente seus finais originais, muitas vezes para pior, impactando negativamente a obra.",
+        "_yoast_wpseo_focuskw": "remakes que alteraram finais",
+        "_yoast_news_keywords": "remakes, finais alterados, Little Shop of Horrors, Planet of the Apes, Animal Farm, Speak No Evil, The Vanishing, Cinema",
+        "_yoast_wpseo_opengraph-title": "5 Remakes que Alteraram Final Original e Prejudicaram a Obra",
+        "_yoast_wpseo_opengraph-description": "Descubra 5 remakes de filmes que alteraram drasticamente seus finais originais, muitas vezes para pior, impactando negativamente a obra.",
+        "_yoast_wpseo_twitter-title": "5 Remakes que Alteraram Final Original e Prejudicaram a Obra",
+        "_yoast_wpseo_twitter-description": "Descubra 5 remakes de filmes que alteraram drasticamente seus finais originais, muitas vezes para pior, impactando negativamente a obra."
+      }
+    },
+    {
+      "titulo_final": "Elden Ring: Tarnished Edition para Switch 2 é adiado para 2026",
+      "conteudo_final": "<p>A FromSoftware anunciou que <strong>Elden Ring: Tarnished Edition</strong>, versão planejada para o Nintendo Switch 2, foi adiada para 2026. A decisão visa aprimorar a performance do jogo, que apresentou problemas em demonstrações anteriores.</p><h2>Adiamento para Ajustes de Performance</h2><p>Originalmente previsto para 2025, o lançamento de <strong>Elden Ring: Tarnished Edition</strong> foi movido para o ano seguinte. A desenvolvedora afirmou que o adiamento é necessário para “permitir tempo para ajustes de performance”. Essa notícia não deve surpreender os acompanhantes do desenvolvimento, pois relatos de participantes da Gamescom indicaram severas dificuldades de desempenho no Switch 2, com quedas de FPS em áreas densas.</p><p>A publisher Bandai Namco teria inclusive proibido a gravação de gameplay durante o evento, evidenciando as preocupações com a otimização do título para a plataforma.</p><h2>Edição Física e Conteúdo Adicional</h2><p>Além dos problemas de performance, <strong>Elden Ring: Tarnished Edition</strong> já havia gerado debates por sua edição física ser um cartão com chave digital, algo que desagradou parte do público colecionista de jogos físicos.</p><p>Apesar dos contratempos, a expectativa para jogar <strong>Elden Ring</strong> no console da Nintendo e desfrutar da expansão “Shadow of the Erdtree” permanece alta. A expansão trará novas armaduras, armas, customizações para o Torrent e duas novas classes: Knight of Ides e Heavy Knight. O conteúdo adicional também será disponibilizado para outras plataformas após o lançamento no Switch 2.</p><p><strong>Elden Ring</strong>, desde seu lançamento original em 2022, ultrapassou a marca de 30 milhões de cópias vendidas globalmente, consolidando-se como um dos RPGs de mundo aberto mais populares. A esperança é que a FromSoftware utilize o tempo adicional para entregar uma experiência otimizada para os jogadores do Switch 2, atraindo tanto veteranos quanto novos exploradores das Terras Interditas.</p>",
+      "meta_description": "Elden Ring: Tarnished Edition para Nintendo Switch 2 sofre adiamento para 2026 devido a problemas de performance. Saiba os detalhes.",
+      "focus_keyphrase": "Elden Ring Tarnished Edition adiada",
+      "related_keyphrases": [
+        "Elden Ring Switch 2",
+        "FromSoftware adiamento",
+        "Shadow of the Erdtree"
+      ],
+      "slug": "elden-ring-tarnished-edition-adiada-2026",
+      "categorias": [
+        {
+          "nome": "Elden Ring",
+          "grupo": "obras",
+          "evidence": "Elden Ring: Tarnished Edition was announced earlier this year for the Nintendo Switch 2"
+        },
+        {
+          "nome": "Nintendo Switch 2",
+          "grupo": "plataformas",
+          "evidence": "Elden Ring: Tarnished Edition was announced earlier this year for the Nintendo Switch 2"
+        },
+        {
+          "nome": "FromSoftware",
+          "grupo": "desenvolvedores",
+          "evidence": "FromSoftware has recently delayed Elden Ring: Tarnished Edition"
+        }
+      ],
+      "tags_sugeridas": [
+        "Elden Ring",
+        "Tarnished Edition",
+        "Nintendo Switch 2",
+        "FromSoftware",
+        "Bandai Namco",
+        "Shadow of the Erdtree",
+        "RPG"
+      ],
+      "image_alt_texts": {
+        "elden-ring-tarnished-edition-tag-page-cover-art.jpg": "Arte da capa de Elden Ring: Tarnished Edition para Nintendo Switch 2.",
+        "the-player-faces-a-giant-dragon-boss-elden-ring.jpg": "Jogador enfrentando um dragão chefe em Elden Ring.",
+        "nintendoswitch2_elden-ring-tarnished-edition_screenshot-3.jpg": "Captura de tela de Elden Ring: Tarnished Edition no Nintendo Switch 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Elden Ring: Tarnished Edition para Switch 2 é adiado para 2026",
+        "_yoast_wpseo_metadesc": "Elden Ring: Tarnished Edition para Nintendo Switch 2 sofre adiamento para 2026 devido a problemas de performance. Saiba os detalhes.",
+        "_yoast_wpseo_focuskw": "Elden Ring Tarnished Edition adiada",
+        "_yoast_news_keywords": "Elden Ring, Tarnished Edition, Nintendo Switch 2, FromSoftware, Bandai Namco, Shadow of the Erdtree, RPG, Adiamento",
+        "_yoast_wpseo_opengraph-title": "Elden Ring: Tarnished Edition para Switch 2 é adiado para 2026",
+        "_yoast_wpseo_opengraph-description": "Elden Ring: Tarnished Edition para Nintendo Switch 2 sofre adiamento para 2026 devido a problemas de performance. Saiba os detalhes.",
+        "_yoast_wpseo_twitter-title": "Elden Ring: Tarnished Edition para Switch 2 é adiado para 2026",
+        "_yoast_wpseo_twitter-description": "Elden Ring: Tarnished Edition para Nintendo Switch 2 sofre adiamento para 2026 devido a problemas de performance. Saiba os detalhes."
+      }
+    }
+  ]
+}

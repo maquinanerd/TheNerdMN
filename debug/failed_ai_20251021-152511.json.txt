@@ -1,0 +1,104 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Robert Downey Jr. inspira estrela de Homem de Ferro 3 12 anos depois",
+      "conteudo_final": "<p>A atuação ao lado do <b>“gênio” Robert Downey Jr.</b> continua a inspirar uma das estrelas de <i>Homem de Ferro 3</i>, mesmo 12 anos após a experiência. Em entrevista, <b>Stéphanie Szostak relembrou a importância de participar do Universo Cinematográfico Marvel (MCU)</b>.</p><h2>Homem de Ferro 3: O Legado</h2><p>Szostak interpretou Ellen Brandt, uma veterana de guerra transformada em assassina pela tecnologia Extremis. Ela atacou Tony Stark a mando do Mandarim, mas foi rapidamente despachada. A participação, embora pequena, contribuiu para que <i>Homem de Ferro 3</i> alcançasse uma bilheteria mundial de <b>US$ 1,21 bilhão</b> e uma aprovação sólida de 79% no <b>Rotten Tomatoes</b>.</p><p><b>Robert Downey Jr. inspira a atriz até hoje</b>, sempre que ela pisa em um set de filmagem. A gratidão pela oportunidade de trabalhar com o ator é evidente.</p><p><i>“Eu tenho que te dizer, trabalhar no filme foi enorme e algo que eu guardo. Primeiro de tudo, interpretei uma vilã. Aprendi a lutar, o que foi muito divertido. Mas trabalhar com Robert Downey Jr. me inspira até hoje, toda vez que subo em um set. Então, sou muito grata por ter feito parte disso e por ter podido trabalhar com o gênio que ele é”</i>, declarou Szostak.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/asgv.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" alt="Robert Downey Jr. como Tony Stark em Homem de Ferro 3." /></figure><h2>Nova Fase na Carreira de Szostak</h2><p>Após <i>Homem de Ferro 3</i>, Szostak atuou em apenas mais dois filmes antes de conseguir um papel recorrente como Delilah Dixon em <i>A Million Little Things</i>. Agora, ela estrela o drama biográfico <i>Soul on Fire</i>, que conta a história de John O’Leary, um jovem que superou graves queimaduras para se tornar um autor e palestrante motivacional. O filme recebeu 80% de aprovação no Rotten Tomatoes por parte da crítica.</p><p><b><i>Soul on Fire</i></b> já está em cartaz nos cinemas.</p>",
+      "meta_description": "Stéphanie Szostak, que interpretou Ellen Brandt em Homem de Ferro 3, relembra os 12 anos após o filme e o impacto de Robert Downey Jr. em sua carreira.",
+      "focus_keyphrase": "Robert Downey Jr. inspira",
+      "related_keyphrases": [
+        "Homem de Ferro 3",
+        "Stéphanie Szostak",
+        "Robert Downey Jr."
+      ],
+      "slug": "robert-downey-jr-inspira-estrela-homem-ferro-3",
+      "categorias": [
+        {
+          "nome": "Homem de Ferro 3",
+          "grupo": "obras",
+          "evidence": "stars of <em>Iron Man 3</em>"
+        },
+        {
+          "nome": "Universo Cinematográfico Marvel",
+          "grupo": "franquias",
+          "evidence": "MCU"
+        }
+      ],
+      "tags_sugeridas": [
+        "Robert Downey Jr.",
+        "Homem de Ferro 3",
+        "MCU",
+        "Stéphanie Szostak",
+        "Soul on Fire"
+      ],
+      "image_alt_texts": {
+        "asgv.jpg": "Robert Downey Jr. como Tony Stark com cortes no rosto, olhando seriamente em Homem de Ferro 3.",
+        "01757706_poster_w780.jpg": "Pôster do filme Soul on Fire."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Robert Downey Jr. inspira estrela de Homem de Ferro 3 12 anos depois",
+        "_yoast_wpseo_metadesc": "Stéphanie Szostak, que interpretou Ellen Brandt em Homem de Ferro 3, relembra os 12 anos após o filme e o impacto de Robert Downey Jr. em sua carreira.",
+        "_yoast_wpseo_focuskw": "Robert Downey Jr. inspira",
+        "_yoast_news_keywords": "Robert Downey Jr., Homem de Ferro 3, MCU, Stéphanie Szostak, Soul on Fire",
+        "_yoast_wpseo_opengraph-title": "Robert Downey Jr. inspira estrela de Homem de Ferro 3 12 anos depois",
+        "_yoast_wpseo_opengraph-description": "Stéphanie Szostak, que interpretou Ellen Brandt em Homem de Ferro 3, relembra os 12 anos após o filme e o impacto de Robert Downey Jr. em sua carreira.",
+        "_yoast_wpseo_twitter-title": "Robert Downey Jr. inspira estrela de Homem de Ferro 3 12 anos depois",
+        "_yoast_wpseo_twitter-description": "Stéphanie Szostak, que interpretou Ellen Brandt em Homem de Ferro 3, relembra os 12 anos após o filme e o impacto de Robert Downey Jr. em sua carreira."
+      }
+    },
+    {
+      "titulo_final": "10 Filmes Assustadores Escondidos para Maratona no Disney+",
+      "conteudo_final": "<p>Embora o <b>Disney+</b> não seja a primeira plataforma que vem à mente para filmes assustadores, o serviço de streaming oferece uma vasta seleção de títulos de terror e suspense perfeitos para o Halloween. Desde seu lançamento em 2019, a plataforma tem expandido seu catálogo, incluindo produções de subsidiárias e outros estúdios, indo além do público familiar.</p><h2>A Busca por Filmes de Terror</h2><p>Com a chegada do Halloween, a busca por filmes de terror se intensifica. Clássicos podem se tornar repetitivos, mas o Disney+ surpreende com joias escondidas que prometem ser mais assustadoras que os favoritos da temporada. A variedade vai desde terrores familiares até os mais extremos.</p><h2>Piggy (2022)</h2><p>O filme espanhol de 2022, <i>Piggy</i>, transita entre suspense e terror, entregando momentos genuinamente assustadores. A trama de vingança acompanha uma adolescente oprimida que se vê em conflito quando suas algozes são sequestradas. A obra apresenta uma mensagem poderosa sem sacrificar os elementos essenciais do gênero.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/07/laura-gal-n-looking-sad-in-piggy-1.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" alt="Laura Galán em uma cena do filme Piggy." /></figure><p>Com um ritmo mais lento, <i>Piggy</i> recompensa a paciência do espectador. Diferente dos monstros e do caos sobrenatural de outros filmes de Halloween, ele desafia o público a ir além da superfície. É ideal para fãs de terror que buscam algo mais profundo.</p><h2>The Clovehitch Killer (2018)</h2><p>Inspirado livremente no caso real do BTK Killer, <i>The Clovehitch Killer</i> é um excelente filme de terror com estilo de crime verdadeiro. A história acompanha um adolescente que suspeita que seu pai possa ser um serial killer notório, adicionando uma reviravolta ao gênero coming-of-age. A falta de horror explícito é compensada por uma suspense crescente.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/charlie-plummer-in-the-clovehitch-killer.png?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" alt="Charlie Plummer em uma cena do filme The Clovehitch Killer." /></figure><p>Poucos filmes modernos conseguem capturar o tom sombrio de <i>The Clovehitch Killer</i>. A dinâmica familiar eleva o medo, ao mesmo tempo em que adiciona notas de tragédia. É uma surpresa agradável que todo fã de cinema deveria assistir.</p><h2>When Evil Lurks (2023)</h2><p>As histórias de possessão estão saturadas no terror moderno, mas <i>When Evil Lurks</i> traz uma abordagem brutalmente nova ao subgênero. Um fazendeiro inocente precisa fugir de sua aldeia após um de seus vizinhos ser possuído por um demônio. Evitando os clichês de outras histórias de possessão demoníaca, o filme é assustador, grotesco e incrivelmente emocionante.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/10/screenrant-sandbox-2023-10-13t210837-799.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" alt="Cena do filme When Evil Lurks." /></figure><p>Os possuídos se transformam em cadáveres em decomposição semelhantes a zumbis, adicionando um elemento de horror grotesco. <i>When Evil Lurks</i> explora suas ideias de forma profunda e não tem medo de ir a lugares que outros filmes de terror evitam. É uma das obras mais intensas dos últimos tempos.</p><h2>Presence (2024)</h2><p>O filme experimental <i>Presence</i>, de Steven Soderbergh, dividiu opiniões. Filmado da perspectiva de uma entidade misteriosa que habita uma casa, o longa interage com a nova família que acaba de se mudar. Diferente dos filmes de fantasma tradicionais, <i>Presence</i> se destaca pela sua originalidade.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/presence-3.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Chloe (Callina Liang) em uma cena do filme Presence." /></figure><p>Embora careça de sustos explícitos, o filme possui uma qualidade sinistra difícil de expressar. <i>Presence</i> prova que o terror ainda pode inovar e que o cinema de baixo orçamento tem o poder de inspirar e expandir limites.</p><h2>Werewolves Within (2021)</h2><p><i>Werewolves Within</i> detém o título de filme baseado em videogame mais bem avaliado e é uma divertida comédia de terror. Baseado no jogo homônimo, o filme acompanha os moradores de uma pequena cidade presos em uma tempestade de neve enquanto um monstro misterioso ataca. A obra, com um tom mais leve, é uma mistura de risadas e sustos.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/10/screenrant-sandbox-5.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" alt="Sam Richardson e Milana Vayntrub em uma cena de Werewolves Within." /></figure><p>O sucesso do filme de baixo orçamento se deve às performances brilhantes do elenco, que complementam o tom da história. <i>Werewolves Within</i> resgata o estilo das clássicas comédias de terror. Ele passou despercebido em 2021, mas está sendo redescoberto no streaming.</p><h2>In A Violent Nature (2024)</h2><p>A variedade do terror moderno torna um slasher clássico como <i>In A Violent Nature</i> revigorante. Um grupo de adolescentes acidentalmente ressuscitam um cadáver vingativo que inicia uma série de assassinatos. O filme inova ao permitir que o espectador acompanhe o assassino na maior parte do tempo.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/04/the-masked-killer-johnny-facing-his-next-victim-in-a-violent-nature.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" alt="O assassino mascarado Johnny em uma cena de In A Violent Nature." /></figure><p><i>In A Violent Nature</i> pode ser visto como um slasher direto, mas também incorpora humor meta que brinca com os clichês do gênero. O uso eficaz de gore e o ritmo lento criam suspense, resultando em uma atmosfera quase onírica. O filme canadense é uma variação interessante do tema.</p><h2>Crimes Of The Future (2022)</h2><p>Com <i>Crimes of the Future</i>, David Cronenberg retornou ao body horror, reafirmando seu domínio no gênero. A complexa trama acompanha um artista performático que usa exibições grotescas para explorar a evolução humana. Bizarro e perturbador, o filme é body horror em sua forma mais pura.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2022/06/crimes-of-the-future-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Cena do filme Crimes of the Future com Timlin conversando com Saul e Caprice." /></figure><p>O filme constrói um mundo surreal com uma qualidade quase alienígena. O horror emana da desumanidade dos personagens, apresentando um dos futuros mais sombrios já retratados no cinema. <i>Crimes of the Future</i> oferece uma experiência que permanece com o espectador.</p><h2>Late Night With The Devil (2023)</h2><p>O gênero found footage, que atingiu seu ápice há uma década, é reinventado em <i>Late Night with the Devil</i>. Quase todo o filme é composto por imagens de um talk show que acidentalmente cruza o caminho do mal. David Dastmalchian entrega uma performance brilhante, e o formato é usado para intensificar os sustos.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/untitled-33.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" alt="Jake Delroy (David Dastmalchian) em uma cena do talk show em Late Night With the Devil." /></figure><p>A simplicidade é a maior força de <i>Late Night with the Devil</i>. O filme não sacrifica sua narrativa, apresentando uma trama envolvente que se desenrola em segundo plano enquanto os sustos e o suspense tomam conta. Um sucesso independente que vale a pena descobrir no streaming.</p><h2>Return To Oz (1985)</h2><p>Lançado 45 anos após o clássico de 1939, <i>Return to Oz</i> buscava capturar a magia do original. Dorothy retorna a Oz para encontrar um reino dominado por um império maligno. Apesar dos efeitos visuais impressionantes, o filme adquire um tom de horror involuntário.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/01/fairuza-balk-as-dorothy-with-someone-else-s-hand-under-her-chin-in-return-to-oz.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" alt="Fairuza Balk como Dorothy em uma cena de Return to Oz." /></figure><p>Embora seja um filme da Disney, <i>Return to Oz</i> contém cenas que rivalizam com filmes de terror explícito. Tornou-se um cult classic por se destacar do catálogo infantil da Disney e, embora não seja um terror puro, é assustador o suficiente para arrepiar.</p><h2>Something Wicked This Way Comes (1983)</h2><p>A chegada de <i>Something Wicked This Way Comes</i> ao Disney+ marca a primeira vez que o cult classic está disponível para streaming. Baseado no romance de Ray Bradbury, a história de terror coming-of-age acompanha dois garotos e um carnaval sombrio que chega à sua cidade idílica. O filme foi considerado sombrio demais para o público infantil da época.</p><figure class="video-container"><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/jonathan-pryce-in-something-wicked-this-way-comes.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" alt="Jonathan Pryce em uma cena de Something Wicked This Way Comes." /></figure><p><i>Something Wicked This Way Comes</i> possui uma atmosfera outonal característica e tons sombrios que criam um pressentimento. Apesar de mais ameno que outros filmes de terror, é assustador para uma obra voltada para crianças. Agora disponível no <b>Disney+</b>, este tesouro escondido finalmente recebe o reconhecimento merecido.</p>",
+      "meta_description": "Descubra 10 filmes assustadores e 'escondidos' no catálogo do Disney+, ideais para maratonar no Halloween, com opções para todos os gostos de terror.",
+      "focus_keyphrase": "filmes assustadores Disney+",
+      "related_keyphrases": [
+        "terror no Disney+",
+        "Halloween Disney+",
+        "filmes escondidos Disney+"
+      ],
+      "slug": "filmes-assustadores-escondidos-disney-plus",
+      "categorias": [
+        {
+          "nome": "Disney+",
+          "grupo": "obras",
+          "evidence": "Disney+ might not seem like the go-to place for creepy hidden gems"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "frightening movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "Disney+",
+        "Terror",
+        "Halloween",
+        "Filmes Escondidos",
+        "Crimes of the Future",
+        "When Evil Lurks",
+        "Return to Oz"
+      ],
+      "image_alt_texts": {
+        "laura-gal-n-looking-sad-in-piggy-1.jpg": "Laura Galán em uma cena do filme Piggy.",
+        "charlie-plummer-in-the-clovehitch-killer.png": "Charlie Plummer em uma cena do filme The Clovehitch Killer.",
+        "screenrant-sandbox-2023-10-13t210837-799.jpg": "Cena do filme When Evil Lurks.",
+        "presence-3.jpg": "Chloe (Callina Liang) em uma cena do filme Presence.",
+        "screenrant-sandbox-5.jpg": "Sam Richardson e Milana Vayntrub em uma cena de Werewolves Within.",
+        "the-masked-killer-johnny-facing-his-next-victim-in-a-violent-nature.jpg": "O assassino mascarado Johnny em uma cena de In A Violent Nature.",
+        "crimes-of-the-future-2.jpg": "Cena do filme Crimes of the Future com Timlin conversando com Saul e Caprice.",
+        "untitled-33.jpg": "Jake Delroy (David Dastmalchian) em uma cena do talk show em Late Night With the Devil.",
+        "fairuza-balk-as-dorothy-with-someone-else-s-hand-under-her-chin-in-return-to-oz.jpg": "Fairuza Balk como Dorothy em uma cena de Return to Oz.",
+        "jonathan-pryce-in-something-wicked-this-way-comes.jpg": "Jonathan Pryce em uma cena de Something Wicked This Way Comes."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "10 Filmes Assustadores Escondidos para Maratona no Disney+",
+        "_yoast_wpseo_metadesc": "Descubra 10 filmes assustadores e 'escondidos' no catálogo do Disney+, ideais para maratonar no Halloween, com opções para todos os gostos de terror.",
+        "_yoast_wpseo_focuskw": "filmes assustadores Disney+",
+        "_yoast_news_keywords": "Disney+, Terror, Halloween, Filmes Escondidos, Crimes of the Future, When Evil Lurks, Return to Oz",
+        "_yoast_wpseo_opengraph-title": "10 Filmes Assustadores Escondidos para Maratona no Disney+",
+        "_yoast_wpseo_opengraph-description": "Descubra 10 filmes assustadores e 'escondidos' no catálogo do Disney+, ideais para maratonar no Halloween, com opções para todos os gostos de terror.",
+        "_yoast_wpseo_twitter-title": "10 Filmes Assustadores Escondidos para Maratona no Disney+",
+        "_yoast_wpseo_twitter-description": "Descubra 10 filmes assustadores e 'escondidos' no catálogo do Disney+, ideais para maratonar no Halloween, com opções para todos os gostos de terror."
+      }
+    }
+  ]
+}

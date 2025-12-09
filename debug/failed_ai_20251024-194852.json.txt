@@ -1,0 +1,62 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Parish: Série de Crime Dividiu Opiniões e Chega à Netflix",
+      "conteudo_final": "<p>A aclamada série de drama criminal <b>Parish</b>, estrelada por Giancarlo Esposito, já está disponível para streaming na <b>Netflix</b>. Contudo, apesar da adição ao catálogo, a recepção mista da série pode ser um ponto de atenção para os espectadores que se apegarem à trama.</p><h2>Parish: Trama e Estrelato de Giancarlo Esposito</h2><p>Parish, originalmente exibida pela AMC, conta a história de Gracian Parish, um homem de família que retorna ao mundo do crime após o assassinato de seu filho. Essa volta o coloca em rota de colisão com um violento sindicato, em uma jornada de alto risco. A série, que teve apenas seis episódios, foi baseada em uma produção da BBC One. O ator Giancarlo Esposito, conhecido por seu papel em <b>Breaking Bad</b>, lidera o elenco interpretando Parish, um personagem que navega na tênue linha entre o certo e o errado.</p><p>A atuação de Esposito foi um dos poucos pontos em que críticos e audiências concordaram. Relatos da imprensa especializada destacaram a performance do ator como um “homem principal emocionalmente vulcânico”, que “carrega o show”. Mesmo com ressalvas sobre o roteiro, a habilidade de Esposito em dar vida ao personagem foi amplamente elogiada, sendo considerada o elemento mais forte da produção.</p><h2>Recepção Crítica Dividida e Audiência</h2><p><b>Parish</b> não obteve um consenso unânime. Enquanto críticos registraram um índice de aprovação de apenas 33% no <b>Rotten Tomatoes</b>, o público demonstrou um apreço maior, com 76% de avaliações positivas. Críticos apontaram uma trama sobrecarregada e fragmentada, que parecia apressada em seu curto período de seis episódios, resultando em um drama genérico. Em contrapartida, o público considerou a série envolvente e apreciou o ritmo acelerado da ação.</p><h2>Cancelamento e Disponibilidade na Netflix</h2><p>A AMC anunciou o cancelamento de Parish após sua primeira temporada sem fornecer um motivo específico, apenas declarando que “infelizmente não é possível prosseguir com uma segunda temporada”. A provável causa para o cancelamento foi o desempenho de audiência da série. Apesar de um começo promissor, os números de espectadores caíram drasticamente ao longo das semanas, com menos da metade do público original chegando ao quinto episódio. Essa queda de audiência pode ter selado o destino da série, embora dados exatos de viewership não tenham sido divulgados.</p><p>Atualmente, a primeira temporada de Parish está disponível na Netflix, juntando-se a outras produções da AMC, como <b>The Walking Dead</b>, <b>Interview with the Vampire</b> e <b>Better Call Saul</b>.</p>",
+      "meta_description": "A série de drama criminal Parish, com Giancarlo Esposito, já está disponível na Netflix. Saiba mais sobre a recepção dividida e o cancelamento após a 1ª temporada.",
+      "focus_keyphrase": "Parish Netflix",
+      "related_keyphrases": [
+        "série Parish Giancarlo Esposito",
+        "drama criminal Netflix",
+        "Parish Rotten Tomatoes"
+      ],
+      "slug": "parish-serie-netflix-crime",
+      "categorias": [
+        {
+          "nome": "Parish",
+          "grupo": "obras",
+          "evidence": "Parish, AMC’s short-lived series"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "now streaming on Netflix"
+        },
+        {
+          "nome": "Breaking Bad",
+          "grupo": "franquias",
+          "evidence": "a Breaking Bad star"
+        }
+      ],
+      "tags_sugeridas": [
+        "Parish",
+        "Netflix",
+        "Giancarlo Esposito",
+        "Drama Criminal",
+        "AMC",
+        "Breaking Bad"
+      ],
+      "image_alt_texts": {
+        "hbo-max-binge-dramas.jpg": "Pessoas assistindo TV, representando a disponibilidade de séries de drama na Netflix.",
+        "netflix-scifi.jpg": "Logo da Netflix em destaque, indicando o serviço de streaming.",
+        "Army-in-Dune-Part-Two.jpg": "Cena de um filme ou série épica, possivelmente relacionada a ação ou fantasia.",
+        "IT-Welcome-to-derry-rotten-tomatoes-score.jpg": "Gráfico de pontuação de crítica de 'Welcome to Derry', indicando a recepção de séries.",
+        "The-Division.jpg": "Imagem de um jogo ou filme de ação, sugerindo títulos de entretenimento.",
+        "mitchells-vs-the-machines-2.jpg": "Personagens do filme de animação 'A Família Mitchell e a Revolta das Máquinas'.",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Montagem de pôsteres de filmes de vampiro, como 'Stake Land'.",
+        "IDDmM5RhFE4/hqdefault.jpg": "Miniatura de vídeo do YouTube sobre séries de crime ou suspense.",
+        "IDDmM5RhFE4/maxresdefault.jpg": "Miniatura de vídeo do YouTube com alta resolução, possivelmente um trailer ou análise de série."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Parish: Série de Drama Criminal Chega à Netflix Dividindo Críticas",
+        "_yoast_wpseo_metadesc": "Saiba tudo sobre Parish, a série de drama criminal com Giancarlo Esposito que chegou à Netflix, mas que dividiu opiniões entre críticos e público.",
+        "_yoast_wpseo_focuskw": "Parish Netflix",
+        "_yoast_news_keywords": "Parish, Netflix, Giancarlo Esposito, Drama Criminal, AMC, Breaking Bad, Série de TV",
+        "_yoast_wpseo_opengraph-title": "Parish: Série de Drama Criminal Chega à Netflix Dividindo Críticas",
+        "_yoast_wpseo_opengraph-description": "Saiba tudo sobre Parish, a série de drama criminal com Giancarlo Esposito que chegou à Netflix, mas que dividiu opiniões entre críticos e público.",
+        "_yoast_wpseo_twitter-title": "Parish: Série de Drama Criminal Chega à Netflix Dividindo Críticas",
+        "_yoast_wpseo_twitter-description": "Saiba tudo sobre Parish, a série de drama criminal com Giancarlo Esposito que chegou à Netflix, mas que dividiu opiniões entre críticos e público."
+      }
+    }
+  ]
+}

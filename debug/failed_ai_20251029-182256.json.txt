@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "A Casa da Dinamite: Fim do Filme é Criticado por Estrutura Falha",
+      "conteudo_final": "<p>O filme <b>A Casa da Dinamite</b>, dirigido por Kathryn Bigelow, tem gerado fortes reações do público na Netflix, onde atualmente lidera o ranking de filmes mais assistidos. Após receber atenção no Festival de Veneza, o longa de suspense, que aborda a resposta do governo dos EUA a um míssil nuclear iminente, encontrou críticas mistas e debates entre os espectadores.</p><figure><img src=\"https:
+      "meta_description": "A Casa da Dinamite: Entenda as críticas ao final ambíguo do filme da Netflix e como a estrutura narrativa pressiona o desfecho, frustrando o público.",
+      "focus_keyphrase": "A Casa da Dinamite",
+      "related_keyphrases": [
+        "A Casa da Dinamite final",
+        "Kathryn Bigelow filme",
+        "Crítica A Casa da Dinamite"
+      ],
+      "slug": "a-casa-da-dinamite-critica-final",
+      "categorias": [
+        {
+          "nome": "A Casa da Dinamite",
+          "grupo": "obras",
+          "evidence": "Kathryn Bigelow's <span class=\"display-card-hyperlink display-card-hyperlink-no-vignette\" data-id=\"3505617\" style=\";  ;\"><a href=\"https:
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "A House of Dynamite is a hit on Netflix"
+        },
+        {
+          "nome": "Suspense",
+          "grupo": "generos",
+          "evidence": "the thriller about the US government's response to a surprise incoming nuclear missile"
+        }
+      ],
+      "tags_sugeridas": [
+        "A Casa da Dinamite",
+        "Kathryn Bigelow",
+        "Netflix",
+        "Filmes de Suspense",
+        "Idris Elba",
+        "Rebecca Ferguson"
+      ],
+      "image_alt_texts": {
+        "idris-elba-as-potus-looking-down-in-distressed-contemplation-in-a-house-of-dynamite.jpg": "Idris Elba, interpretando o Presidente dos EUA (POTUS), em uma cena de profunda contemplação e angústia em 'A Casa da Dinamite'.",
+        "01822732_poster_w780-1.jpg": "Pôster oficial do filme 'A Casa da Dinamite', destacando o título e a temática de suspense."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Casa da Dinamite: Fim é Criticado por Estrutura Falha na Netflix",
+        "_yoast_wpseo_metadesc": "Entenda as críticas ao final ambíguo do filme da Netflix \"A Casa da Dinamite\" e como a estrutura narrativa pressiona o desfecho.",
+        "_yoast_wpseo_focuskw": "A Casa da Dinamite",
+        "_yoast_news_keywords": "A Casa da Dinamite, Kathryn Bigelow, Netflix, Filmes de Suspense, Idris Elba, Rebecca Ferguson, Crítica de Filme",
+        "_yoast_wpseo_opengraph-title": "A Casa da Dinamite: Fim é Criticado por Estrutura Falha na Netflix",
+        "_yoast_wpseo_opengraph-description": "Entenda as críticas ao final ambíguo do filme da Netflix \"A Casa da Dinamite\" e como a estrutura narrativa pressiona o desfecho.",
+        "_yoast_wpseo_twitter-title": "A Casa da Dinamite: Fim é Criticado por Estrutura Falha na Netflix",
+        "_yoast_wpseo_twitter-description": "Entenda as críticas ao final ambíguo do filme da Netflix \"A Casa da Dinamite\" e como a estrutura narrativa pressiona o desfecho."
+      }
+    }
+  ]
+}

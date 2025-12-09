@@ -1,0 +1,99 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hocus Pocus 3: Roteiro pronto! Bruxas da Disney retornam em breve",
+      "conteudo_final": "<p>Boas notícias para os fãs de <b>Hocus Pocus</b>! Bette Midler, uma das estrelas do filme, confirmou que o roteiro para <b>Hocus Pocus 3</b> foi finalizado. A atriz revelou que o texto é “brilhante” e gerou grande empolgação, embora ainda estejam sendo definidos os detalhes logísticos para a produção.</p><p>A confirmação chega após o sucesso estrondoso de <b>Hocus Pocus 2</b>, lançado em 2022, que reuniu Midler, Sarah Jessica Parker e Kathy Najimy. A sequência quebrou recordes de streaming no Disney+, acumulando mais de 2,7 bilhões de minutos de visualização em uma única semana e reacendendo o fascínio pelas irmãs Sanderson.</p><h2>O Fenômeno Hocus Pocus no Streaming</h2><p>O sucesso de <b>Hocus Pocus 2</b> impulsionou o filme original de volta às paradas do Disney+. Nesta temporada de Halloween, a franquia figura entre os títulos mais assistidos internacionalmente, superando até mesmo produções recentes da Pixar e ficando próxima de clássicos como <b>Os Incríveis</b>. Um feito notável para um filme que, em seu lançamento original, não obteve o sucesso esperado nas bilheterias.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/hocus-pocus-2-official-poster.jpg\" alt=\"Poster oficial de Hocus Pocus 2\"><figcaption>Hocus Pocus 2 reavivou o interesse pela franquia no Disney+.</figcaption></figure><h2>Sinopse de Hocus Pocus</h2><p>A trama original, escrita por Mick Garris e Neil Cuthbert, acompanha as irmãs Sanderson – Winifred (Midler), Sarah (Parker) e Mary (Najimy) – que retornam à Salem moderna após uma virgem acender a Chama Negra. Para impedir o plano das bruxas, os adolescentes Max, Dani e Allison, com a ajuda do gato Thackery Binx, precisam detê-las antes do amanhecer.</p><p><b>Hocus Pocus 2</b> trouxe de volta as bruxas para mais uma noite de caos em Salem, apresentando um novo trio de heroínas adolescentes e mais tempo de tela para Billy Butcherson, interpretado por Doug Jones. Embora não tenha replicado a magia do original, a sequência foi elogiada por sua atmosfera nostálgica e divertida, sendo descrita como um feitiço reconfortante.</p><blockquote><p>Hocus Pocus 2 é a maneira perfeita de iniciar a temporada de Halloween. Como você poderia errar com o retorno mágico das Irmãs Sanderson, uma versão animada de “The Witch is Back” e um elenco que claramente está se divertindo dando vida a esta sequência? Hocus Pocus nunca foi um filme para impressionar, é para entreter uma vez por ano quando a nostalgia chega com a mudança das folhas, e Hocus Pocus 2 atinge seu objetivo de recapturar a magia do clássico com uma nova abordagem.</p></blockquote><p>Ambos os filmes, <b>Hocus Pocus</b> e <b>Hocus Pocus 2</b>, estão disponíveis para streaming no Disney+.</p>",
+      "meta_description": "Bette Midler confirma que roteiro de Hocus Pocus 3 está pronto! Detalhes sobre a sequência das bruxas da Disney e o sucesso da franquia no streaming.",
+      "focus_keyphrase": "Hocus Pocus 3",
+      "related_keyphrases": [
+        "Hocus Pocus",
+        "Bette Midler",
+        "Disney+"
+      ],
+      "slug": "hocus-pocus-3-roteiro-pronto",
+      "categorias": [
+        {
+          "nome": "Hocus Pocus",
+          "grupo": "franquias",
+          "evidence": "Hocus Pocus 3"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "serviços de streaming",
+          "evidence": "Disney+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hocus Pocus 3",
+        "Hocus Pocus",
+        "Bette Midler",
+        "Sarah Jessica Parker",
+        "Kathy Najimy",
+        "Disney+"
+      ],
+      "image_alt_texts": {
+        "hocus-pocus-2-official-poster.jpg": "Poster oficial de Hocus Pocus 2 com as irmãs Sanderson."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hocus Pocus 3: Roteiro pronto! Bruxas da Disney retornam em breve",
+        "_yoast_wpseo_metadesc": "Bette Midler confirma que roteiro de Hocus Pocus 3 está pronto! Detalhes sobre a sequência das bruxas da Disney e o sucesso da franquia no streaming.",
+        "_yoast_wpseo_focuskw": "Hocus Pocus 3",
+        "_yoast_news_keywords": "Hocus Pocus 3, Hocus Pocus, Bette Midler, Sarah Jessica Parker, Kathy Najimy, Disney+",
+        "_yoast_wpseo_opengraph-title": "Hocus Pocus 3: Roteiro pronto! Bruxas da Disney retornam em breve",
+        "_yoast_wpseo_opengraph-description": "Bette Midler confirma que roteiro de Hocus Pocus 3 está pronto! Detalhes sobre a sequência das bruxas da Disney e o sucesso da franquia no streaming.",
+        "_yoast_wpseo_twitter-title": "Hocus Pocus 3: Roteiro pronto! Bruxas da Disney retornam em breve",
+        "_yoast_wpseo_twitter-description": "Bette Midler confirma que roteiro de Hocus Pocus 3 está pronto! Detalhes sobre a sequência das bruxas da Disney e o sucesso da franquia no streaming."
+      }
+    },
+    {
+      "titulo_final": "A Goofy Movie: Steve Martin quase dublou o ícone da Disney",
+      "conteudo_final": "<p>Em 2025, <b>A Goofy Movie</b>, o longa-metragem que expandiu o universo da série <b>Goof Troop</b>, celebra seu 30º aniversário. Lançado originalmente com desempenho modesto nas bilheterias, o filme se tornou um clássico cult, elogiado por sua tocante história de pai e filho, animação vibrante e humor característico do icônico personagem.</p><p>A direção de Kevin Lima foi fundamental para o sucesso. <b>A Goofy Movie</b> marcou sua estreia como diretor em um longa da Disney, abrindo caminho para outros títulos memoráveis como <b>Tarzan</b> e <b>Encantada</b>. No entanto, o projeto esteve perto de ser bastante diferente, especialmente na escolha da voz para o protagonista.</p><h2>Steve Martin quase foi a voz de Goofy</h2><p>Kevin Lima revelou em entrevista que, durante o desenvolvimento de <b>A Goofy Movie</b>, o então CEO da Disney, Jeffrey Katzenberg, sugeriu a escalação do lendário comediante Steve Martin para dar voz ao personagem principal. A ideia de Katzenberg visava aumentar a atratividade e o apelo comercial do filme para o público.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/10/017749_poster_w780.jpg\" alt=\"Poster oficial de A Goofy Movie\"><figcaption>A Goofy Movie se tornou um clássico cult da Disney.</figcaption></figure><p>Embora Bill Farmer seja a voz oficial de Goofy desde 1987, interpretando o personagem em mais de cem produções, a possibilidade de Martin assumir o papel era real. Conforme documentado no filme <b>Not Just a Goof</b>, a equipe de produção conseguiu convencer Katzenberg de que manter Farmer seria a melhor opção para o projeto.</p><blockquote><p>"Ele tinha senso estético suficiente para dizer: 'Isso não vai funcionar dessa forma'. Então, tivemos o bom e o mau naquele momento. Ele nos dispensou. Mas isso nos ajudou, e acho que essa é uma das coisas que Not Just a Goof também discute, é que nos ajudou a investir mais profundamente na história emocional. Porque é isso que Jeffrey estava realmente pedindo. Ele estava nos perguntando: 'Como podemos tornar esses personagens mais cativantes?' Eles não são apenas uma série de piadas visuais. Como podemos fazer nosso público se envolver em uma história de 90 minutos sobre um personagem clássico?"</p></blockquote><h2>Presença Marcante na Lightbox Expo</h2><p>Em celebração ao 30º aniversário de <b>A Goofy Movie</b>, Kevin Lima participará de um painel especial na Lightbox Expo, ao lado de outros criadores do filme. O evento acontecerá no domingo, 26 de outubro, às 10h (horário do Pacífico).</p><p>Lima trará material inédito, como sequências que nunca foram mostradas ao público, e discutirá o filme com um grupo de profissionais que não se reúnem há mais de três décadas. A oportunidade promete um olhar profundo sobre a produção deste amado clássico da Disney.</p><p><b>A Goofy Movie</b> está disponível para streaming no Disney+.</p>",
+      "meta_description": "Steve Martin quase dublou Goofy em 'A Goofy Movie'! Diretor Kevin Lima revela os bastidores da escolha do elenco e a importância do filme no Disney+.",
+      "focus_keyphrase": "A Goofy Movie",
+      "related_keyphrases": [
+        "Steve Martin",
+        "Disney",
+        "Kevin Lima"
+      ],
+      "slug": "a-goofy-movie-steve-martin",
+      "categorias": [
+        {
+          "nome": "A Goofy Movie",
+          "grupo": "obras",
+          "evidence": "A Goofy Movie"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "franquias",
+          "evidence": "Disney's A Goofy Movie"
+        },
+        {
+          "nome": "Only Murders in the Building",
+          "grupo": "séries",
+          "evidence": "Only Murders in the Building"
+        }
+      ],
+      "tags_sugeridas": [
+        "A Goofy Movie",
+        "Steve Martin",
+        "Kevin Lima",
+        "Disney",
+        "Bill Farmer",
+        "Jeffrey Katzenberg"
+      ],
+      "image_alt_texts": {
+        "017749_poster_w780.jpg": "Poster oficial do filme A Goofy Movie com Goofy e seu filho Max."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Goofy Movie: Steve Martin quase dublou o ícone da Disney",
+        "_yoast_wpseo_metadesc": "Steve Martin quase dublou Goofy em 'A Goofy Movie'! Diretor Kevin Lima revela os bastidores da escolha do elenco e a importância do filme no Disney+.",
+        "_yoast_wpseo_focuskw": "A Goofy Movie",
+        "_yoast_news_keywords": "A Goofy Movie, Steve Martin, Disney, Kevin Lima, Bill Farmer, Jeffrey Katzenberg",
+        "_yoast_wpseo_opengraph-title": "A Goofy Movie: Steve Martin quase dublou o ícone da Disney",
+        "_yoast_wpseo_opengraph-description": "Steve Martin quase dublou Goofy em 'A Goofy Movie'! Diretor Kevin Lima revela os bastidores da escolha do elenco e a importância do filme no Disney+.",
+        "_yoast_wpseo_twitter-title": "A Goofy Movie: Steve Martin quase dublou o ícone da Disney",
+        "_yoast_wpseo_twitter-description": "Steve Martin quase dublou Goofy em 'A Goofy Movie'! Diretor Kevin Lima revela os bastidores da escolha do elenco e a importância do filme no Disney+."
+      }
+    }
+  ]
+}

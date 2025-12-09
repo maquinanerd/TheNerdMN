@@ -1,0 +1,58 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Boys: Por que o cancelamento de Diabolical foi um erro da Amazon?",
+      "conteudo_final": "<p>Com a segunda temporada de <i>Gen V</i> finalizada e a quinta temporada de <b>The Boys</b> a caminho, a sátira de super-heróis de Eric Kripke parece mais forte do que nunca. O universo de Supes corruptos e magnatas corporativos está construindo um capítulo final cheio de adrenalina, com múltiplos spin-offs em desenvolvimento. No entanto, nem todas as novidades sobre <i>The Boys</i> foram positivas.</p>\n<h2>O Fim de The Boys Presents: Diabolical</h2>\n<p>Em 2025, Kripke confirmou o que muitos fãs temiam: <i>The Boys Presents: Diabolical</i> não retornaria para uma segunda temporada. A antologia animada foi o primeiro spin-off de <i>The Boys</i> e, embora não tenha alcançado a mesma popularidade de <i>Gen V</i> ou da série principal, mostrou um lado totalmente diferente do mundo caótico da Vought. Para muitos, a notícia de seu cancelamento foi um golpe desnecessário.</p>\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "A Amazon cancelou The Boys Presents: Diabolical, mas a série animada poderia ser crucial para expandir o universo da franquia. Entenda por quê.",
+      "focus_keyphrase": "The Boys Diabolical cancelamento",
+      "related_keyphrases": [
+        "The Boys spin-off",
+        "Diabolical temporada 2",
+        "Amazon Prime Video séries"
+      ],
+      "slug": "the-boys-diabolical-cancelamento-erro",
+      "categorias": [
+        {
+          "nome": "The Boys Presents: Diabolical",
+          "grupo": "franquias",
+          "evidence": "The Boys Presents: Diabolical won’t be returning"
+        },
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "The Boys season 5 on the horizon"
+        },
+        {
+          "nome": "Gen V",
+          "grupo": "franquias",
+          "evidence": "With Gen V season 2 wrapped"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Boys",
+        "The Boys Presents Diabolical",
+        "Amazon Prime Video",
+        "Eric Kripke",
+        "Gen V",
+        "Super Heróis",
+        "Animação"
+      ],
+      "image_alt_texts": {
+        "the-boys-diabolical-hughie-with-simon-pegg-s-likeness.jpg": "Hughie em The Boys Presents: Diabolical, com a aparência de Simon Pegg.",
+        "ghost-in-the-boys-diabolical.jpg": "Fantasma em The Boys Diabolical.",
+        "homelander-in-gen-v.jpg": "Homelander (Anthony Starr) observando Marie em Gen V, temporada 1.",
+        "diabolical-tv-poster.jpg": "Pôster de The Boys Presents: Diabolical."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Boys: Por que o cancelamento de Diabolical foi um erro da Amazon?",
+        "_yoast_wpseo_metadesc": "A Amazon cancelou The Boys Presents: Diabolical, mas a série animada poderia ser crucial para expandir o universo da franquia. Entenda por quê.",
+        "_yoast_wpseo_focuskw": "The Boys Diabolical cancelamento",
+        "_yoast_news_keywords": "The Boys, The Boys Presents Diabolical, Amazon Prime Video, Eric Kripke, Gen V, Super Heróis, Animação",
+        "_yoast_wpseo_opengraph-title": "The Boys: Por que o cancelamento de Diabolical foi um erro da Amazon?",
+        "_yoast_wpseo_opengraph-description": "A Amazon cancelou The Boys Presents: Diabolical, mas a série animada poderia ser crucial para expandir o universo da franquia. Entenda por quê.",
+        "_yoast_wpseo_twitter-title": "The Boys: Por que o cancelamento de Diabolical foi um erro da Amazon?",
+        "_yoast_wpseo_twitter-description": "A Amazon cancelou The Boys Presents: Diabolical, mas a série animada poderia ser crucial para expandir o universo da franquia. Entenda por quê."
+      }
+    }
+  ]
+}

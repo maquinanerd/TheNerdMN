@@ -1,0 +1,58 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hazbin Hotel: Músicas da 2ª Temporada são Avaliadas e Ranqueadas",
+      "conteudo_final": "<p>A segunda temporada de <b><i>Hazbin Hotel</i></b> introduziu um total de 20 músicas, abrangendo diversos gêneros. Embora a maioria tenha alta qualidade, nem todas alcançam o mesmo nível de excelência. Os compositores Sam Haft e Andrew Underberg, responsáveis pela trilha sonora da primeira temporada, retornaram para criar as novas canções. Enquanto as músicas da temporada inicial eram mais simples e cativantes, a segunda temporada elevou a composição e a letra.</p><p>No entanto, nem todas as 20 músicas são de ponta, assim como nem todas as canções da primeira temporada foram avaliadas igualmente. Algumas se destacam, e a melhor delas é considerada uma verdadeira obra de arte.</p><p>A música mais fraca da temporada é <b>“Speed Run To Redemption”</b>. A canção soa repetitiva e monótona, mantendo um som similar durante toda a sua duração. A letra é razoavelmente divertida, mas não chega a ser hilária. Seu único ponto positivo é demonstrar o quão descontrolada Charlie está, tentando provar seu valor enquanto outros ao seu redor sugerem que ela deveria se afastar para se recompor.</p><h2>“Like You” e a Introdução ao Paraíso</h2><p><b>“Like You”</b> funciona como o equivalente de <b><i>Hazbin Hotel</i></b> à música “Welcome to Heaven” da primeira temporada. A melodia é excessivamente animada, o som é repetitivo e a composição parece infantil. Exceto por uma linha sobre drogas, a música poderia facilmente pertencer a um filme infantil, o que frustra por ser uma animação adulta.</p><p>Adicionalmente, a inclusão de uma segunda música com o propósito de apresentar o paraíso parece redundante. Apesar dos vocais serem excelentes, o restante da canção não atende às expectativas.</p><h2>Análise de “Bad Like Us” e “Live to Live”</h2><p><b>“Bad Like Us”</b> possui ótimas ideias, mas sua execução é falha. A tentativa de misturar quatro ou cinco gêneros diferentes em uma única música é interessante, mas a canção dura menos de dois minutos. Isso resulta em uma sensação de excesso e mudanças de gênero abruptas.</p><p>Peças com múltiplos personagens podem ser eficazes para estabelecer o tom e avançar a trama em séries musicais como <b><i>Hazbin Hotel</i></b>. O problema, neste caso, é que os personagens apresentados são estranhos ao público, sem que haja um forte interesse por eles.</p><p><b>“Live to Live”</b> é uma reprise de “It Starts With Sorry” da primeira temporada, com a participação de Sir Pentious e Sera. É tocante vê-lo transmitir os ensinamentos de Charlie. Contudo, a música soa um tanto quanto sentimental e melosa, similar à original. Além disso, o momento da canção parece inadequado, sendo mais apropriada para o início da temporada do que para o penúltimo episódio, quando as apostas já são muito altas.</p><h2>O Papel de “Hazbin Guarantee (Trust Us)” e “Brighter”</h2><p>A música <b>“Hazbin Guarantee (Trust Us)”</b> cumpre seus objetivos principais, reintroduzindo personagens e cenários ao público. Ela ajuda a estabelecer a vilã da segunda temporada e o contraste entre os sons do Hotel e dos Vees define seus papéis na narrativa.</p><p>O problema é que as duas partes da música não se mesclam bem. Quando separadas, soam boas, mas a sobreposição de ambas diminui o impacto. Seria mais eficaz se “Hazbin Guarantee” ou “Trust Us” fossem canções independentes.</p><p><b>“Brighter”</b> é uma das várias músicas de vilão na segunda temporada de <b><i>Hazbin Hotel</i></b>. Cansativo ouvir Vox cantar repetidamente sobre tomar o poder, a letra está repleta de clichês batidos. O público já não se importa com o que Vox tem a dizer, especialmente quando outras músicas de vilão possuem composições mais fortes e são mais cativantes.</p><p>Por fim, os visuais associados a “Brighter” contribuem mais para a história do que a própria canção.</p><h2>A Avaliação de “Don’t You Forget” e “When I Think About The Future”</h2><p><b>“Don’t You Forget”</b> é extremamente agradável de se ouvir, com um som jazzístico e visualmente encantador, incluindo uma referência a <em>Hello Dolly</em>. Contudo, a canção não explora totalmente as qualidades vocais de Rosie e Alastor, com melodias repetitivas e pouco originais. A música poderia ser interpretada por qualquer dupla em um acordo com poucas alterações na letra.</p><p><b>“When I Think About The Future”</b> desempenha um bom papel como música penúltima, aumentando o hype sem ofuscar o final. No entanto, ela se posiciona mais abaixo na lista por ser menos cativante e repetível que outras canções da temporada. Além disso, o foco em incluir todos os personagens faz com que pareça que a música não se concentra em ninguém especificamente.</p><h2>O Início com “Once We Get Up There” e o Foco em Niffty com “Clean It Up”</h2><p><b>“Once We Get Up There”</b> foi perfeita para o primeiro episódio, estabelecendo as expectativas para a temporada. A série subverte as convenções ao dar uma canção de "Eu Quero" a um vilão, um tropo geralmente reservado ao protagonista. A composição é bem construída e culmina em um clímax merecido. Apesar disso, fica mais abaixo na lista pela falta de criatividade na letra, que é direta, mas carece da sagacidade de outras faixas.</p><p><b>“Clean It Up”</b> é uma das músicas mais divertidas focadas em personagens da segunda temporada. Niffty abraça a estética e o som do anime, cantando parte da música em japonês, o que é apropriado já que a personagem é japonesa e sua atriz, Kimiko Glenn, é parcialmente japonesa. Contudo, a música não avança o desenvolvimento de sua personagem, focando em Charlie e no hotel, o que parece diminuir a importância de uma das personagens mais queridas de <b><i>Hazbin Hotel</i></b>.</p>",
+      "meta_description": "Confira o ranking completo das músicas da 2ª temporada de Hazbin Hotel, avaliando cada canção da pior para a melhor.",
+      "focus_keyphrase": "Músicas Hazbin Hotel 2ª temporada",
+      "related_keyphrases": [
+        "Ranking músicas Hazbin Hotel",
+        "Trilha sonora Hazbin Hotel",
+        "Músicas Hazbin Hotel Prime Video"
+      ],
+      "slug": "musicas-hazbin-hotel-2-temporada-ranking",
+      "categorias": [
+        {
+          "nome": "Hazbin Hotel",
+          "grupo": "obras",
+          "evidence": "<i>Hazbin Hotel</i> season 2 features 20 songs"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "plataformas",
+          "evidence": "available on Prime Video"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hazbin Hotel",
+        "Prime Video",
+        "Sam Haft",
+        "Andrew Underberg",
+        "Música de Série",
+        "Animação Adulta"
+      ],
+      "image_alt_texts": {
+        "angel-dust-looks-scared-in-hazbin-hotel-season-2-episode-3.jpg": "Angel Dust, personagem de Hazbin Hotel, em cena da 2ª temporada.",
+        "hzbn_s2_firstlook6_3000-1.jpg": "Personagens de Hazbin Hotel em uma cena no Paraíso.",
+        "the-vees-are-surrounded-by-villains-in-hazbin-hotel-season-2.jpg": "Vilões de Hazbin Hotel em formação ameaçadora na 2ª temporada.",
+        "sir-pentious-looks-hopeful-in-hazbin-hotel-season-2.jpg": "Sir Pentious expressa otimismo em cena da 2ª temporada de Hazbin Hotel.",
+        "hazbin-hotel-season-2-nifty-baxter-and-charlie.jpg": "Niffty, Baxter e Charlie em momento descontraído na 2ª temporada de Hazbin Hotel.",
+        "vox-looks-angry-in-hazbin-hotel-season-2.jpg": "Vox demonstra raiva em cena da 2ª temporada de Hazbin Hotel.",
+        "hzbn_s2_fg_204_00085409_still131_3000.jpg": "Rosie e Alastor em uma cena com semblante divertido na 2ª temporada de Hazbin Hotel.",
+        "charlie-and-emily-holds-hands-and-look-excited-in-hazbin-hotel-season-2.jpg": "Charlie e Emily demonstram empolgação de mãos dadas em Hazbin Hotel temporada 2.",
+        "hzbn_s2_firstlook2_3000-1.jpg": "Val e Velvette com expressões de descontentamento, com Vox no centro, em Hazbin Hotel temporada 2.",
+        "niffty-holds-her-broom-up-while-smiling-in-hazbin-hotel-season-2.jpg": "Niffty empunha sua vassoura sorrindo em uma cena da 2ª temporada de Hazbin Hotel."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hazbin Hotel: Músicas da 2ª Temporada são Avaliadas e Ranqueadas",
+        "_yoast_wpseo_metadesc": "Confira o ranking completo das músicas da 2ª temporada de Hazbin Hotel, avaliando cada canção da pior para a melhor.",
+        "_yoast_wpseo_focuskw": "Músicas Hazbin Hotel 2ª temporada",
+        "_yoast_news_keywords": "Hazbin Hotel, Prime Video, Músicas, Segunda Temporada, Ranking, Trilha Sonora, Animação",
+        "_yoast_wpseo_opengraph-title": "Hazbin Hotel: Músicas da 2ª Temporada são Avaliadas e Ranqueadas",
+        "_yoast_wpseo_opengraph-description": "Confira o ranking completo das músicas da 2ª temporada de Hazbin Hotel, avaliando cada canção da pior para a melhor.",
+        "_yoast_wpseo_twitter-title": "Hazbin Hotel: Músicas da 2ª Temporada são Avaliadas e Ranqueadas",
+        "_yoast_wpseo_twitter-description": "Confira o ranking completo das músicas da 2ª temporada de Hazbin Hotel, avaliando cada canção da pior para a melhor."
+      }
+    }
+  ]
+}

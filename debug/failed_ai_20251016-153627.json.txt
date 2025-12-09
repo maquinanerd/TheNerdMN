@@ -1,0 +1,45 @@
+{
+  "titulo_final": "Netflix: Nova série militar gay ganha elogios da crítica e reações negativas",
+  "conteudo_final": "<p>A nova série militar da Netflix, <b>Boots</b>, ambientada nos anos 1990 e focada em recrutas do Corpo de Fuzileiros Navais que desenvolvem relacionamentos íntimos, tem dominado as paradas de streaming. Criada por Andy Parker, a produção estrelada por Miles Heizer e Vera Farmiga tem sido comparada a uma versão moderna de <b>Band of Brothers</b>.</p><p>Apesar de sua popularidade, a série não agradou a todos. O Pentágono emitiu uma declaração condenando o programa, classificando-o como \"lixo woke\". Segundo um porta-voz, as forças armadas americanas estão restaurando o \"ethos guerreiro\" e os padrões são \"de elite, uniformes e sem distinção de sexo\", pois \"o peso de uma mochila ou de um ser humano não se importa se você é homem, mulher, gay ou heterossexual\".</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/boots-poster.jpg\" alt=\"Pôster da série Boots da Netflix\"><figcaption>Pôster oficial da série 'Boots'.</figcaption></figure><h2>Crítica e Recepção de Boots</h2><p>A declaração prossegue criticando a Netflix por produzir e alimentar \"lixo woke\" para seu público. No entanto, <b>Boots</b> tem sido um sucesso inicial entre críticos e audiências, com pontuações de 93% e 88% no agregador Rotten Tomatoes. A série é inspirada em uma história real, o que contraria a ideia de ser propaganda ideológica.</p><h2>Segunda Temporada de Boots em Dúvida?</h2><p>Até o momento, a Netflix não anunciou se <b>Boots</b> terá uma segunda temporada. O sucesso crítico, de audiência e a aclamação do público são fatores positivos para a renovação. Contudo, a declaração negativa do Pentágono pode complicar o futuro da série.</p><p>A série <b>Boots</b> já está disponível na <a href=\"https://www.maquinanerd.com.br/tag/netflix\">Netflix</a>. Fique ligado no <b>MaquinaNerd</b> para mais atualizações e coberturas de streaming.</p>",
+  "meta_description": "Nova série militar gay da Netflix, 'Boots', conquista streaming e críticas positivas, mas enfrenta reações negativas do Pentágono. Veja os detalhes.",
+  "focus_keyphrase": "Série militar gay Netflix",
+  "related_keyphrases": [
+    "Boots Netflix",
+    "Crítica série militar",
+    "Pentágono série Netflix"
+  ],
+  "slug": "boots-serie-netflix-pentagono",
+  "categorias": [
+    {
+      "nome": "Boots",
+      "grupo": "obras",
+      "evidence": "Netflix recently debuted all episodes of Boots"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "franquias",
+      "evidence": "Netflix’s new 93% RT “Woke Garbage” Military Drama"
+    }
+  ],
+  "tags_sugeridas": [
+    "Boots",
+    "Netflix",
+    "Séries Militares",
+    "LGBTQIA+",
+    "Vera Farmiga",
+    "Andy Parker"
+  ],
+  "image_alt_texts": {
+    "boots-poster.jpg": "Pôster da série Boots da Netflix destacando o título e a temática militar gay."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Netflix: Série Militar Gay 'Boots' Elogiada e Criticada | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Nova série militar gay da Netflix, 'Boots', conquista streaming e críticas, mas enfrenta reações negativas do Pentágono. Saiba mais.",
+    "_yoast_wpseo_focuskw": "Série militar gay Netflix",
+    "_yoast_news_keywords": "Boots, Netflix, série militar, LGBTQIA+, Pentágono, Andy Parker, Vera Farmiga",
+    "_yoast_wpseo_opengraph-title": "Netflix: Série Militar Gay 'Boots' Elogiada e Criticada",
+    "_yoast_wpseo_opengraph-description": "Nova série militar gay da Netflix, 'Boots', tem recepção mista após críticas do Pentágono.",
+    "_yoast_wpseo_twitter-title": "Netflix: Série Militar Gay 'Boots' Elogiada e Criticada",
+    "_yoast_wpseo_twitter-description": "Nova série militar gay da Netflix, 'Boots', conquista streaming e críticas, mas enfrenta reações negativas do Pentágono."
+  }
+}

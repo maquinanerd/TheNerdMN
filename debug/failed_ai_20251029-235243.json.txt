@@ -1,0 +1,50 @@
+{
+  "titulo_final": "Hello Kitty: Filme da Sanrio chega aos cinemas em 2028",
+  "conteudo_final": "<p>O aguardado filme da <b>Hello Kitty</b>, desenvolvido pela Warner Bros. Animation e New Line Cinema, finalmente ganhou uma data de lançamento oficial. A produção, que está em desenvolvimento há anos, tem estreia marcada para <b>21 de julho de 2028</b>.</p><p>A confirmação veio através de um post no Instagram oficial da Warner Bros., que divulgou um pequeno clipe mostrando a icônica personagem com seu laço vermelho característico sobre o logo do estúdio. A legenda do vídeo anunciava: \"<i>Hello Hollywood #HelloKittyMovie está chegando aos cinemas em 21 de julho de 2028!</i>\"</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "O filme da Hello Kitty, um ícone da Sanrio, tem lançamento confirmado pela Warner Bros. para 21 de julho de 2028. Saiba mais!",
+  "focus_keyphrase": "filme Hello Kitty",
+  "related_keyphrases": [
+    "Hello Kitty Sanrio",
+    "Warner Bros. Animation",
+    "Leo Matsuda"
+  ],
+  "slug": "hello-kitty-filme-2028",
+  "categorias": [
+    {
+      "nome": "Hello Kitty",
+      "grupo": "franquias",
+      "evidence": "<strong><em>Hello Kitty</em></strong> movie has been in development for years."
+    },
+    {
+      "nome": "Sanrio",
+      "grupo": "franquias",
+      "evidence": "beloved Sanrio character's feature film finally gets a release date."
+    },
+    {
+      "nome": "Warner Bros. Animation",
+      "grupo": "editorias",
+      "evidence": "Warner Bros. Animation and New Line Cinema's"
+    }
+  ],
+  "tags_sugeridas": [
+    "hello-kitty",
+    "sanrio",
+    "warner-bros",
+    "leo-matsuda",
+    "yuko-shimizu",
+    "animação"
+  ],
+  "image_alt_texts": {
+    "hello-kitty-s-paradise-1999-tv-show-poster.jpg": "Pôster da série de TV Hello Kitty's Paradise (1999), destacando a personagem Hello Kitty."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Hello Kitty: Filme da Sanrio chega aos cinemas em 2028 | Maquina Nerd",
+    "_yoast_wpseo_metadesc": "O filme da Hello Kitty, um ícone da Sanrio, tem lançamento confirmado pela Warner Bros. para 21 de julho de 2028. Saiba mais!",
+    "_yoast_wpseo_focuskw": "filme Hello Kitty",
+    "_yoast_news_keywords": "Hello Kitty, Sanrio, Warner Bros., Leo Matsuda, Yuko Shimizu, animação, filme",
+    "_yoast_wpseo_opengraph-title": "Hello Kitty: Filme da Sanrio chega aos cinemas em 2028",
+    "_yoast_wpseo_opengraph-description": "O filme da Hello Kitty, um ícone da Sanrio, tem lançamento confirmado pela Warner Bros. para 21 de julho de 2028. Saiba mais!",
+    "_yoast_wpseo_twitter-title": "Hello Kitty: Filme da Sanrio chega aos cinemas em 2028",
+    "_yoast_wpseo_twitter-description": "O filme da Hello Kitty, um ícone da Sanrio, tem lançamento confirmado pela Warner Bros. para 21 de julho de 2028. Saiba mais!"
+  }
+}

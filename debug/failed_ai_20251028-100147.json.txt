@@ -1,0 +1,107 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix e AMC firmam parceria para lançamentos de filmes",
+      "conteudo_final": "<p>A <strong>Netflix</strong> parece estar mudando sua abordagem em relação às exibições cinematográficas. Após anos de uma relação distante com as salas de cinema, a gigante do streaming sinaliza uma reaproximação, conforme indicado por múltiplos relatórios.</p><p>A parceria com a <strong>AMC</strong>, a maior rede de cinemas do mundo, foi reforçada com a exibição de <a href=\"https://www.maquinanerd.com.br/tag/kpop-demon-hunters\"><em>KPop Demon Hunters</em></a> e a confirmação de que o final da série <em><strong>Stranger Things</strong></em> será exibido em algumas salas da AMC simultaneamente ao lançamento na plataforma.</p><h2>Novos Projetos e Possíveis Lançamentos</h2><p>Uma atualização recente sugere que a colaboração pode ir além. Rumores indicam que o filme <em>Narnia</em>, de Greta Gerwig, pode ter um lançamento mais amplo do que o inicialmente planejado. Além disso, a Netflix estaria considerando um <strong>"lançamento mais robusto"</strong> para <em>Adventures of Cliff Booth</em>, continuação de <em>Once Upon a Time... in Hollywood</em>, que seria dirigido por <strong>David Fincher</strong> e tem previsão para o próximo verão.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/03/michaell-fassbender-in-the-killer.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Michael Fassbender em cena do filme 'O Assassino'\"><figcaption>Michael Fassbender em cena do filme 'O Assassino', dirigido por David Fincher.</figcaption></figure><p>Se confirmada, esta seria a primeira grande estreia cinematográfica de um filme de Fincher em 16 anos, desde <em>Garota Exemplar</em> em 2014. A plataforma tem investido em talentos como Fincher, que está sob contrato exclusivo até 2020, com mais dois anos de acordo.</p><p><em>Mank</em> foi lançado em 2020, em um período em que o cinema ainda se recuperava. O thriller de 2023, <em>O Assassino</em>, também poderia ter se beneficiado de uma exibição nos cinemas, assim como outros trabalhos do diretor. A expectativa é que o novo projeto de Fincher, com a participação de Brad Pitt, possa convencer a Netflix da importância do modelo de lançamento em salas de cinema.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/instar53124350.jpg?q=70&fit=contain&w=280&dpr=1\" alt=\"Retrato de David Fincher na premiere de 'O Assassino'\"><figcaption>David Fincher em evento de lançamento de 'O Assassino'.</figcaption></figure>",
+      "meta_description": "Netflix e AMC preparam parcerias para lançamentos cinematográficos, incluindo um possível retorno de David Fincher às telonas após 16 anos.",
+      "focus_keyphrase": "Netflix e AMC parcerias",
+      "related_keyphrases": [
+        "lançamentos de filmes Netflix",
+        "David Fincher cinema",
+        "Stranger Things AMC"
+      ],
+      "slug": "netflix-amc-parcerias-cinema",
+      "categorias": [
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix's relationship to movie theaters"
+        },
+        {
+          "nome": "AMC Theatres",
+          "grupo": "empresas",
+          "evidence": "AMC, the world's largest theater chain"
+        },
+        {
+          "nome": "David Fincher",
+          "grupo": "diretores",
+          "evidence": "directed by David Fincher"
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "AMC",
+        "David Fincher",
+        "Stranger Things",
+        "Cinema"
+      ],
+      "image_alt_texts": {
+        "michaell-fassbender-in-the-killer.jpg": "Michael Fassbender em cena do filme 'O Assassino'",
+        "instar53124350.jpg": "David Fincher em evento de lançamento de 'O Assassino'"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix e AMC firmam parceria para lançamentos de filmes",
+        "_yoast_wpseo_metadesc": "Netflix e AMC preparam parcerias para lançamentos cinematográficos, incluindo um possível retorno de David Fincher às telonas após 16 anos.",
+        "_yoast_wpseo_focuskw": "Netflix e AMC parcerias",
+        "_yoast_news_keywords": "Netflix, AMC, David Fincher, Stranger Things, Cinema, Filmes",
+        "_yoast_wpseo_opengraph-title": "Netflix e AMC firmam parceria para lançamentos de filmes",
+        "_yoast_wpseo_opengraph-description": "Netflix e AMC preparam parcerias para lançamentos cinematográficos, incluindo um possível retorno de David Fincher às telonas após 16 anos.",
+        "_yoast_wpseo_twitter-title": "Netflix e AMC firmam parceria para lançamentos de filmes",
+        "_yoast_wpseo_twitter-description": "Netflix e AMC preparam parcerias para lançamentos cinematográficos, incluindo um possível retorno de David Fincher às telonas após 16 anos."
+      }
+    },
+    {
+      "titulo_final": "Eden: Thriller com Ana de Armas vira hit digital após fracasso nos cinemas",
+      "conteudo_final": "<p>O thriller <strong><em>Eden</em></strong>, que prometia muito com seu elenco estelar, está encontrando sucesso em sua nova fase pós-cinematográfica. O filme, protagonizado por <strong>Ana de Armas</strong>, <strong>Sydney Sweeney</strong>, <strong>Vanessa Kirby</strong>, <strong>Jude Law</strong> e <strong>Daniel Brühl</strong>, retrata eventos verídicos sobre colonos europeus em uma ilha desabitada nas Galápagos, cujas tensões internas levam a conflitos mortais.</p><p>A trama acompanha o casal Dr. Friedrich Ritter (Law) e Dore Strauch (Kirby), que buscam escapar da civilização. A chegada da ambiciosa Baronesa (de Armas) com planos de construir um hotel intensifica o drama e os conflitos no grupo.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/unnamed.jpg?q=49&fit=contain&w=480&dpr=2\" alt=\"Pôster oficial do filme Eden\"><figcaption>Pôster oficial de 'Eden'.</figcaption></figure><p>Após seu lançamento em VOD (Video On Demand), <strong><em>Eden</em></strong> alcançou a terceira posição entre os filmes mais populares na Amazon globalmente, segundo o <em>FlixPatrol</em>. Atualmente, o filme está disponível para aluguel ou compra e sua posição no ranking é contada junto com títulos inclusos na assinatura Prime Video.</p><p>Apesar do elenco renomado, <strong><em>Eden</em> não obteve o sucesso esperado nas bilheterias</strong>, arrecadando apenas US$ 2,7 milhões com um orçamento superior a US$ 35 milhões. O filme recebeu críticas mistas, com 58% de aprovação da crítica no Rotten Tomatoes e 73% do público.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/ana-de-armas-in-eden.jpg?q=49&fit=crop&w=480&dpr=2\" alt=\"Ana de Armas em cena do filme Eden\"><figcaption>Ana de Armas interpreta a ambiciosa Baronesa no filme 'Eden'.</figcaption></figure><h2>Um Novo Momento para Eden</h2><p>Contudo, o filme parece estar redimindo seu desempenho. A produção está atraindo atenção significativa na Amazon, e espera-se que se torne um sucesso ainda maior com a disponibilização mais ampla em plataformas de streaming. A combinação de uma trama peculiar e um elenco aclamado tem motivado o público a conferi-lo em casa, após a baixa receptividade nos cinemas.</p><p><strong><em>Eden</em></strong> também se beneficia da presença de estrelas em ascensão em Hollywood. Ana de Armas continua a provar sua versatilidade, enquanto Sydney Sweeney e Vanessa Kirby consolidam suas carreiras com projetos de destaque. Embora <em>Eden</em> possa não entrar para o panteão dos clássicos cult, ele está conquistando seu espaço no mercado de streaming, o que pode ajudar a compensar o orçamento de produção.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/eden-guns-scene-jude-law-daniel-bruhl.jpg?q=49&fit=crop&w=450&h=225&dpr=2\" alt=\"Cena com Jude Law e Daniel Brühl em Eden\"><figcaption>Jude Law e Daniel Brühl em uma das cenas de conflito de 'Eden'.</figcaption></figure>",
+      "meta_description": "O thriller Eden, com Ana de Armas e Sydney Sweeney, que fracassou nos cinemas, agora lidera rankings digitais em plataformas como Amazon.",
+      "focus_keyphrase": "filme Eden sucesso digital",
+      "related_keyphrases": [
+        "Eden Ana de Armas",
+        "thriller Eden",
+        "Eden VOD"
+      ],
+      "slug": "eden-sucesso-digital-apos-fracasso",
+      "categorias": [
+        {
+          "nome": "Eden",
+          "grupo": "obras",
+          "evidence": "Eden, one of the most talked-about flops of the summer"
+        },
+        {
+          "nome": "Ana de Armas",
+          "grupo": "atores",
+          "evidence": "Starring Ana de Armas"
+        },
+        {
+          "nome": "Sydney Sweeney",
+          "grupo": "atores",
+          "evidence": "Sydney Sweeney"
+        }
+      ],
+      "tags_sugeridas": [
+        "Eden",
+        "Ana de Armas",
+        "Sydney Sweeney",
+        "Jude Law",
+        "Vanessa Kirby",
+        "Thriller",
+        "Drama"
+      ],
+      "image_alt_texts": {
+        "unnamed.jpg": "Pôster oficial do filme Eden",
+        "ana-de-armas-in-eden.jpg": "Ana de Armas em cena do filme Eden",
+        "eden-guns-scene-jude-law-daniel-bruhl.jpg": "Jude Law e Daniel Brühl em uma das cenas de conflito de 'Eden'"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Eden: Thriller com Ana de Armas vira hit digital após fracasso",
+        "_yoast_wpseo_metadesc": "O thriller Eden, com Ana de Armas e Sydney Sweeney, que fracassou nos cinemas, agora lidera rankings digitais em plataformas como Amazon.",
+        "_yoast_wpseo_focuskw": "filme Eden sucesso digital",
+        "_yoast_news_keywords": "Eden, Ana de Armas, Sydney Sweeney, Jude Law, Vanessa Kirby, Thriller, Drama, VOD",
+        "_yoast_wpseo_opengraph-title": "Eden: Thriller com Ana de Armas vira hit digital após fracasso",
+        "_yoast_wpseo_opengraph-description": "O thriller Eden, com Ana de Armas e Sydney Sweeney, que fracassou nos cinemas, agora lidera rankings digitais em plataformas como Amazon.",
+        "_yoast_wpseo_twitter-title": "Eden: Thriller com Ana de Armas vira hit digital após fracasso",
+        "_yoast_wpseo_twitter-description": "O thriller Eden, com Ana de Armas e Sydney Sweeney, que fracassou nos cinemas, agora lidera rankings digitais em plataformas como Amazon."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ahsoka: Atriz revela novidades da 2ª temporada da série de Star Wars",
+      "conteudo_final": "<p>A segunda temporada de <b>Ahsoka</b> promete ser ainda mais grandiosa, com a personagem Hera Syndulla (Mary Elizabeth Winstead) ganhando um papel de destaque e mais envolvida na ação. Em entrevista, a atriz compartilhou novidades sobre o que os fãs podem esperar da continuação da série de <b>Star Wars</b> no Disney+.</p><p>Winstead indicou que sua participação será mais ativa nesta temporada. \"Vocês sabem, não tenho certeza do que posso dizer, além de que estou um pouco mais nesta temporada, o que é divertido. Definitivamente, estou mais envolvida na ação, como vocês dizem, bem mais, o que foi ótimo ter uma Hera realmente, tipo, sabe, resolvendo algumas coisas\", declarou a atriz.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/10/ahsoka-season-1-episode-8-rosario-dawson.jpg\" alt=\"Ahsoka Tano em cena da primeira temporada de Ahsoka\"><figcaption>Rosario Dawson como Ahsoka Tano na série Ahsoka.</figcaption></figure><h2>Produção da Segunda Temporada de Ahsoka</h2><p>As declarações da atriz confirmam as esperanças dos fãs de <b>Star Wars</b>: Hera terá um foco maior em <b>Ahsoka</b>. Após a primeira temporada apresentar a general da Nova República em seu dever e lealdade aos amigos, a próxima leva de episódios parece que trará a piloto Twi'lek diretamente para o centro da ação.</p><p>A produção da segunda temporada já atingiu um marco importante. As filmagens começaram no Reino Unido em abril de 2025, e alguns membros do elenco, incluindo Natasha Liu Bordizzo (Sabine Wren), já concluíram seus trabalhos. Bordizzo compartilhou recentemente uma foto dos bastidores, mostrando sua silhueta ao lado de <b>Ahsoka Tano</b>, interpretada por Rosario Dawson, sugerindo que a dinâmica entre as personagens continuará a impulsionar a nova história.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/03/0543801_poster_w780.jpg\" alt=\"Pôster de Ahsoka com os personagens principais\"><figcaption>Personagens de Ahsoka em destaque no pôster da série.</figcaption></figure><p>A diretora Bryce Dallas Howard também confirmou que finalizou seus dois episódios, indicando que a 2ª temporada está se aproximando do fim das filmagens. Há indícios de que algumas gravações podem se estender até o final de outubro. A presença de <b>Hayden Christensen</b> como <b>Anakin Skywalker</b> na série pode ser mais significativa do que se imaginava.</p><h2>O Futuro de Ahsoka e Sabine em Peridea</h2><p>A primeira temporada de <b>Ahsoka</b> terminou em um grande cliffhanger, com Ahsoka e Sabine presas em Peridea, enquanto Ezra Bridger (Eman Esfandi) retornou à Nova República. A segunda temporada promete aprofundar os mistérios de Peridea e o lado espiritual da Força, além de explorar o crescente poder de Thrawn e as alianças instáveis que se formam.</p><p>A segunda temporada de <b>Ahsoka</b> está prevista para estrear no Disney+ em 2026. Fique atento para mais novidades sobre a série de <b>Star Wars</b>.</p>",
+      "meta_description": "Mary Elizabeth Winstead, a intérprete de Hera Syndulla, dá detalhes sobre a participação da personagem na 2ª temporada de Ahsoka, série de Star Wars no Disney+.",
+      "focus_keyphrase": "Ahsoka 2ª temporada",
+      "related_keyphrases": [
+        "Hera Syndulla",
+        "Star Wars",
+        "Disney+"
+      ],
+      "slug": "ahsoka-temporada-2-novidades",
+      "categorias": [
+        {
+          "nome": "Ahsoka",
+          "grupo": "obras",
+          "evidence": "The next chapter of Ahsoka"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars fans"
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "editorias",
+          "evidence": "Disney+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Ahsoka",
+        "Star Wars",
+        "Disney+",
+        "Hera Syndulla",
+        "Mary Elizabeth Winstead",
+        "Dave Filoni"
+      ],
+      "image_alt_texts": {
+        "ahsoka-season-1-episode-8-rosario-dawson.jpg": "Rosario Dawson como Ahsoka Tano em cena da primeira temporada da série Ahsoka.",
+        "0543801_poster_w780.jpg": "Pôster oficial da série Ahsoka com Ahsoka Tano, Sabine Wren e outros personagens."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ahsoka: Atriz revela novidades da 2ª temporada da série de Star Wars",
+        "_yoast_wpseo_metadesc": "Mary Elizabeth Winstead, a intérprete de Hera Syndulla, dá detalhes sobre a participação da personagem na 2ª temporada de Ahsoka, série de Star Wars no Disney+.",
+        "_yoast_wpseo_focuskw": "Ahsoka 2ª temporada",
+        "_yoast_news_keywords": "Ahsoka, Star Wars, Disney+, Hera Syndulla, Mary Elizabeth Winstead, Dave Filoni, 2ª temporada",
+        "_yoast_wpseo_opengraph-title": "Ahsoka: Atriz revela novidades da 2ª temporada da série de Star Wars",
+        "_yoast_wpseo_opengraph-description": "Mary Elizabeth Winstead, a intérprete de Hera Syndulla, dá detalhes sobre a participação da personagem na 2ª temporada de Ahsoka, série de Star Wars no Disney+.",
+        "_yoast_wpseo_twitter-title": "Ahsoka: Atriz revela novidades da 2ª temporada da série de Star Wars",
+        "_yoast_wpseo_twitter-description": "Mary Elizabeth Winstead, a intérprete de Hera Syndulla, dá detalhes sobre a participação da personagem na 2ª temporada de Ahsoka, série de Star Wars no Disney+."
+      }
+    },
+    {
+      "titulo_final": "Sanditon: Substituta de Bridgerton encontra novo fôlego após cancelamento",
+      "conteudo_final": "<p>Dois anos após seu cancelamento, a série de época <b>Sanditon</b>, que introduziu o charme de <b>Theo James</b> na era Regencial, está ressurgindo no mercado de PVOD. Lançada em 2019 e baseada no último romance inacabado de <b>Jane Austen</b>, Sanditon transporta os espectadores para o início do século XIX, onde uma jovem chamada Charlotte Heywood (Rose Williams) deixa seu lar rural para viver em uma cidade litorânea em ascensão, em busca de reinvenção. A trama se desenrola em um turbilhão de escândalos, corações partidos e um interesse romântico em Sidney Parker, interpretado por James.</p><p>Criada pela roteirista premiada Andrew Davies, Sanditon exibe a mesma tensão romântica e figurinos luxuosos que tornaram <b>Bridgerton</b> um sucesso global. Apesar de sua qualidade inegável, Sanditon nunca alcançou o reconhecimento de Bridgerton. Enquanto Bridgerton contava com o poder de marketing global da Netflix, Sanditon estreou discretamente na ITV no Reino Unido e, posteriormente, encontrou um lar na PBS nos EUA. A falta de divulgação fez com que muitos fãs casuais de Jane Austen simplesmente a ignorassem.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/sandition-tv-show.jpg\" alt=\"Elenco principal de Sanditon reunido em uma cena.\"><figcaption>Personagens de Sanditon em cena da série de época.</figcaption></figure><h2>O Sucesso de Sanditon Após o Cancelamento</h2><p>No entanto, a série cultivou silenciosamente um público devoto, que iniciou a campanha #SaveSanditon quando a ideia de cancelar o projeto após a primeira temporada surgiu. Essa persistência deu frutos. Contra todas as expectativas, Sanditon conseguiu ter três temporadas completas antes de seu encerramento em 2023. A série recebeu uma pontuação média impressionante de 85% do público e 82% da crítica.</p><p>Com três temporadas disponíveis para alugar ou comprar, a série tem tudo para se tornar um clássico de conforto, apresentando-se a novos públicos que anseiam por mais romance Regencial enquanto os fãs de Bridgerton aguardam os próximos capítulos. A sinopse descreve:</p><blockquote><p>"Sanditon conta a história de Charlotte Heywood, uma jovem espirituosa e impulsiva que viaja de sua casa rural na Inglaterra para a promissora cidade litorânea de Sanditon para se reinventar. A série é um luxuoso drama da era Regencial com belos detalhes de época, repleto de romance e intriga consideráveis."</p></blockquote><h2>O Que Theo James Fez Após Sanditon?</h2><p>Desde sua saída de Sanditon após a primeira temporada, Theo James recebeu elogios por sua atuação em <b>The White Lotus</b>, onde interpretou o personagem moralmente ambíguo Cameron Sullivan. Em 2024, ele estrelou como Edward \"Eddie\" Horniman em <b>The Gentlemen</b>, da Netflix. Sua aparição mais recente foi em um papel duplo como protagonista em <b>The Monkey</b>, um filme de comédia de terror baseado em um conto de Stephen King.</p><p>Sanditon também está disponível para streaming no PBS Masterpiece Channel na Amazon Prime Video nos EUA.</p>",
+      "meta_description": "A série de época Sanditon, estrelada por Theo James e baseada em Jane Austen, ganha nova vida em PVOD após cancelamento, atraindo fãs de Bridgerton.",
+      "focus_keyphrase": "Sanditon",
+      "related_keyphrases": [
+        "Bridgerton",
+        "Theo James",
+        "Jane Austen"
+      ],
+      "slug": "sanditon-sucesso-apos-cancelamento",
+      "categorias": [
+        {
+          "nome": "Sanditon",
+          "grupo": "obras",
+          "evidence": "Sanditon, the period drama"
+        },
+        {
+          "nome": "Bridgerton",
+          "grupo": "obras",
+          "evidence": "made Bridgerton such a global hit"
+        },
+        {
+          "nome": "Jane Austen",
+          "grupo": "franquias",
+          "evidence": "based on Jane Austen’s final, unfinished novel"
+        }
+      ],
+      "tags_sugeridas": [
+        "Sanditon",
+        "Bridgerton",
+        "Theo James",
+        "Jane Austen",
+        "Séries de Época",
+        "Romance Regencial"
+      ],
+      "image_alt_texts": {
+        "sandition-tv-show.jpg": "Elenco principal de Sanditon reunido em uma cena da série de época."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Sanditon: Substituta de Bridgerton encontra novo fôlego após cancelamento",
+        "_yoast_wpseo_metadesc": "A série de época Sanditon, estrelada por Theo James e baseada em Jane Austen, ganha nova vida em PVOD após cancelamento, atraindo fãs de Bridgerton.",
+        "_yoast_wpseo_focuskw": "Sanditon",
+        "_yoast_news_keywords": "Sanditon, Bridgerton, Theo James, Jane Austen, Séries de Época, Romance Regencial",
+        "_yoast_wpseo_opengraph-title": "Sanditon: Substituta de Bridgerton encontra novo fôlego após cancelamento",
+        "_yoast_wpseo_opengraph-description": "A série de época Sanditon, estrelada por Theo James e baseada em Jane Austen, ganha nova vida em PVOD após cancelamento, atraindo fãs de Bridgerton.",
+        "_yoast_wpseo_twitter-title": "Sanditon: Substituta de Bridgerton encontra novo fôlego após cancelamento",
+        "_yoast_wpseo_twitter-description": "A série de época Sanditon, estrelada por Theo James e baseada em Jane Austen, ganha nova vida em PVOD após cancelamento, atraindo fãs de Bridgerton."
+      }
+    }
+  ]
+}

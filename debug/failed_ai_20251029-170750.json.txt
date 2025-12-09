@@ -1,0 +1,48 @@
+{
+  "titulo_final": "Anniversary: Madeline Brewer encontra humor em suspense político",
+  "conteudo_final": "<p>Madeline Brewer retorna com mais um conto arrepiante em <strong><em>Anniversary</em></strong>, que, segundo a atriz, possui um tom cômico subjacente que pode surpreender o público. Após ganhar destaque com papéis recorrentes em <em>Orange is the New Black</em> e <em>Hemlock Grove</em>, Brewer alcançou aclamação por sua interpretação de Janine em <em>The Handmaid's Tale</em>, recebendo uma indicação ao Emmy de Melhor Atriz Coadjuvante em Série Dramática por sua performance na quarta temporada.</p><p><em>Anniversary</em> é o segundo filme de Brewer no ano, seguindo o aclamado thriller de terror <em>I Live Here Now</em>. O novo longa se passa em uma versão de história alternativa dos Estados Unidos, onde um movimento crescente conhecido como \"The Change\" assume o controle do país, gerando paranoia entre seus opositores. Brewer estrela como Anna, uma das irmãs de Josh (interpretado por Dylan O'Brien), cuja família se torna alvo de um inimigo surpresa.</p><figure class=\"video-container\"><iframe src=\"https:
+  "meta_description": "Madeline Brewer revela como sua personagem em \"Anniversary\" encontra humor em um suspense político, inspirada por George Carlin.",
+  "focus_keyphrase": "Anniversary filme",
+  "related_keyphrases": [
+    "Madeline Brewer",
+    "suspense político",
+    "comédia no cinema"
+  ],
+  "slug": "anniversary-madeline-brewer-humor-suspense",
+  "categorias": [
+    {
+      "nome": "Anniversary",
+      "grupo": "obras",
+      "evidence": "Madeline Brewer is back with another chilling tale in the form of Anniversary"
+    },
+    {
+      "nome": "The Handmaid's Tale",
+      "grupo": "obras",
+      "evidence": "Brewer found widespread acclaim with her turn as Janine in The Handmaid's Tale"
+    }
+  ],
+  "tags_sugeridas": [
+    "Anniversary",
+    "Madeline Brewer",
+    "Dylan O'Brien",
+    "Diane Lane",
+    "Kyle Chandler",
+    "Mckenna Grace",
+    "suspense político"
+  ],
+  "image_alt_texts": {
+    "madeline-brewer-s-anna-performing-on-stage-in-anniversary.jpg": "Madeline Brewer como Anna em Anniversary, em uma cena de performance no palco.",
+    "madeline-brewer-s-anna-smiling-while-holding-a-wine-glass-and-sitting-at-a-table-in-anniversary.jpg": "Madeline Brewer como Anna em Anniversary, sorrindo com uma taça de vinho.",
+    "anniversary-updated-2025-film-poster.jpg": "Pôster oficial do filme Anniversary de 2025."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Anniversary: Madeline Brewer encontra humor em suspense político",
+    "_yoast_wpseo_metadesc": "Madeline Brewer revela como sua personagem em \"Anniversary\" encontra humor em um suspense político, inspirada por George Carlin.",
+    "_yoast_wpseo_focuskw": "Anniversary filme",
+    "_yoast_news_keywords": "Anniversary, Madeline Brewer, Dylan O'Brien, Diane Lane, Kyle Chandler, Mckenna Grace, suspense político, comédia",
+    "_yoast_wpseo_opengraph-title": "Anniversary: Madeline Brewer encontra humor em suspense político",
+    "_yoast_wpseo_opengraph-description": "Madeline Brewer revela como sua personagem em \"Anniversary\" encontra humor em um suspense político, inspirada por George Carlin.",
+    "_yoast_wpseo_twitter-title": "Anniversary: Madeline Brewer encontra humor em suspense político",
+    "_yoast_wpseo_twitter-description": "Madeline Brewer revela como sua personagem em \"Anniversary\" encontra humor em um suspense político, inspirada por George Carlin."
+  }
+}

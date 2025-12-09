@@ -1,0 +1,45 @@
+{
+  "titulo_final": "Harry Potter: Atriz de Hermione dá atualização sobre as filmagens na HBO",
+  "conteudo_final": "<p>A atriz mirim Arabella Stanton, de 11 anos, que dará vida a Hermione Granger na aguardada série de <b>Harry Potter</b> da HBO, está empolgada com o início das filmagens. Enquanto os fãs aguardam as primeiras imagens de sua caracterização, Stanton já está demonstrando seu talento em outra produção: uma versão em áudio de <b>Harry Potter e a Pedra Filosofal</b>.</p>\n<p>Nesta nova série de áudio, a narrativa ganha um tom cinematográfico, com Cush Jumbo como narradora e um elenco estelar que inclui Hugh Laurie (Dumbledore), Riz Ahmed (Snape), Michelle Gomez (McGonagall) e Matthew Macfadyen (Voldemort). Arabella Stanton se junta a Frankie Treadaway (Harry) e Max Lester (Ron) como as vozes do Trio de Ouro nos três primeiros audiobooks. De acordo com os primeiros relatos, Stanton já se mostra uma escolha acertada para o papel.</p>\n<blockquote>\n<p>“Não posso dizer muito, porque eles me lançaram um feitiço de silêncio. Mas comecei a filmar e está ótimo no momento.”</p>\n</blockquote>\n<p>A semelhança entre Stanton e sua personagem não é mera coincidência. Assim como Hermione, ela é uma ávida leitora e amante de livros.</p>\n<blockquote>\n<p>“Eu amo livros. Adoro escrever, adoro ler. Gosto da escola, mas não sou apaixonada por ela. E acho que os livros são a principal conexão entre Hermione e eu.”</p>\n</blockquote>\n<p>Essa combinação de curiosidade e sinceridade faz de Stanton uma candidata natural para encarnar Hermione Granger. A jovem atriz expressou sua ansiedade em ouvir os feitiços sendo lançados na série:</p>\n<blockquote>\n<p>“Mal posso esperar para ouvir todos os feitiços. Hermione diz tantos feitiços e mal posso esperar para ouvir os sons das pessoas os lançando. Eu simplesmente amo feitiços.”</p>\n</blockquote>\n<p>A escalação de Stanton ocorreu após uma intensa busca global, que teria contado com mais de 30.000 crianças audicionando para os três papéis principais. A HBO optou por Dominic McLaughlin como Harry, Stanton como Hermione e Alastair Stout como Ron.</p>\n<h2>Química e Expectativas para a Série</h2>\n<p>A showrunner Francesca Gardiner e o diretor Mark Mylod ficaram impressionados com a química entre os jovens atores. “O talento desses três atores únicos é maravilhoso de se ver”, declararam em um comunicado conjunto. “Mal podemos esperar para que o mundo testemunhe a mágica deles juntos na tela.”</p>\n<p>A série tem previsão de cobrir todos os sete livros da saga, distribuídos ao longo de dez anos de narrativa. A primeira temporada está programada para estrear na HBO em 2027.</p>\n<figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/06/harry-potter-updated-2026-tv-show-teaser-poster.jpg\" alt=\"Poster teaser da série de Harry Potter da HBO\"><figcaption>Poster teaser da série de Harry Potter da HBO.</figcaption></figure>",
+  "meta_description": "Arabella Stanton, a atriz que interpretará Hermione Granger na série de Harry Potter da HBO, compartilha detalhes empolgantes sobre o início das filmagens e seu amor pelos livros.",
+  "focus_keyphrase": "série Harry Potter HBO",
+  "related_keyphrases": [
+    "Arabella Stanton Hermione",
+    "novidades Harry Potter",
+    "reboot Harry Potter"
+  ],
+  "slug": "serie-harry-potter-hbo-atualizacao-atriz",
+  "categorias": [
+    {
+      "nome": "Harry Potter",
+      "grupo": "franquias",
+      "evidence": "Harry Potter"
+    },
+    {
+      "nome": "HBO",
+      "grupo": "editorias",
+      "evidence": "HBO’s Harry Potter Series"
+    }
+  ],
+  "tags_sugeridas": [
+    "harry-potter",
+    "hermione-granger",
+    "hbo",
+    "arabella-stanton",
+    "francesca-gardiner",
+    "mark-mylod"
+  ],
+  "image_alt_texts": {
+    "harry-potter-updated-2026-tv-show-teaser-poster.jpg": "Poster teaser da série de Harry Potter da HBO com o título da franquia em destaque."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Harry Potter: Atriz de Hermione dá atualização sobre filmagens na HBO | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Arabella Stanton, a atriz que interpretará Hermione Granger na série de Harry Potter da HBO, compartilha detalhes empolgantes sobre o início das filmagens e seu amor pelos livros.",
+    "_yoast_wpseo_focuskw": "série Harry Potter HBO",
+    "_yoast_news_keywords": "Harry Potter, Hermione Granger, Arabella Stanton, HBO, Warner Bros. Discovery, J.K. Rowling, reboot, série de TV",
+    "_yoast_wpseo_opengraph-title": "Harry Potter: Atriz de Hermione dá atualização sobre filmagens na HBO",
+    "_yoast_wpseo_opengraph-description": "Arabella Stanton, a jovem atriz que viverá Hermione Granger na nova série de Harry Potter da HBO, compartilhou detalhes sobre o início das gravações.",
+    "_yoast_wpseo_twitter-title": "Harry Potter: Atriz de Hermione dá atualização sobre filmagens na HBO",
+    "_yoast_wpseo_twitter-description": "Arabella Stanton, a jovem atriz que viverá Hermione Granger na nova série de Harry Potter da HBO, compartilhou detalhes sobre o início das gravações."
+  }
+}

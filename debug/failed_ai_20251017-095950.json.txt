@@ -1,0 +1,157 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Os Melhores Filmes da Netflix para Curtir Neste Fim de Semana",
+      "conteudo_final": "<p>O outono chega com a estação perfeita para maratonar filmes. Com o clima mais ameno, o Halloween se aproximando e a correria do Natal ainda distante, a <b>Netflix</b> se apresenta como o destino ideal para os cinéfilos neste fim de semana.</p><p>A plataforma oferece opções para todos os gostos, desde clássicos de terror até <b>filmes de gângster imperdíveis</b>. Para facilitar sua escolha, selecionamos três destaques disponíveis no catálogo, cada um com seu charme particular.</p><h2>Casper: Um Clássico de Halloween</h2><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2020/06/Casper-Movie-Casper-and-Christina-Ricci.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Casper e Kat sorrindo um para o outro no filme de 1995\"><figcaption>Casper e Kat em cena do filme de 1995.</figcaption></figure><p>Entre no clima do Halloween sem sustos com <em>Casper</em>, de 1995. O filme encanta a nova geração e os adultos com seus visuais góticos reminiscentes de Tim Burton, participações especiais de Hollywood e efeitos visuais que resistiram bem ao tempo. A verdadeira magia reside na amizade entre o fantasma e Kat (Christina Ricci), garantindo uma história emocionante que completa a trindade de filmes essenciais para a temporada de assustar, ao lado de <em>Abracadabra</em> e <em>O Estranho Mundo de Jack</em>.</p><h2>Maze Runner: Correr ou Morrer - Aventura Distópica</h2><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/10/maze_runner_dylan_obrien_.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Thomas (Dylan O'Brien) com olhar intenso em Maze Runner\"><figcaption>Thomas (Dylan O'Brien) em uma cena de ação em Maze Runner.</figcaption></figure><p>Enquanto o próximo capítulo de <em>Jogos Vorazes</em> se aproxima, fãs de ficção distópica YA podem revisitar <em>Maze Runner: Correr ou Morrer</em>. Estrelado por um elenco jovem e talentoso, incluindo Dylan O'Brien, Kaya Scodelario e Will Poulter, o filme entrega ação e ficção científica eletrizante. Para a alegria dos fãs, as sequências <em>Maze Runner: Prova de Fogo</em> e <em>Maze Runner: A Cura Mortal</em> também estão disponíveis na plataforma.</p><p>Embora possa ser comparado a <em>Jogos Vorazes</em>, <em>Maze Runner</em> se destaca por seu tom mais sombrio e ambição visual, expandindo o subgênero em vez de apenas imitá-lo. Ao longo dos anos, suas diferenças se tornaram ainda mais evidentes, consolidando-o como uma das melhores alternativas ao popular universo de Katniss Everdeen.</p><h2>Scarface: Um Clássico do Cinema de Gângster</h2><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/al-pacino-tony-montana.png?q=49&fit=crop&w=825&dpr=2\" alt=\"Al Pacino como Tony Montana sentado em sua mesa em Scarface\"><figcaption>Al Pacino no papel icônico de Tony Montana em Scarface.</figcaption></figure><p>Após o clima familiar de <em>Casper</em> e a adrenalina de <em>Maze Runner</em>, é hora de um clássico que marcou o cinema de gângster dos anos 80. Uma releitura do filme de 1930, <em>Scarface</em>, dirigido por Brian De Palma, mescla o excesso neon da época com a crueza criminal de <em>O Poderoso Chefão</em>.</p><p>Esta épica narrativa de quase três horas, recheada de violência, convence pela construção de personagem e por sua história de advertência. A atuação de Al Pacino como Tony Montana é inesquecível, culminando em um final explosivo que fecha o fim de semana com chave de ouro na <b>Netflix</b>.</p>",
+      "meta_description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana. De clássicos de Halloween a dramas de gângster, há opções para todos os gostos.",
+      "focus_keyphrase": "melhores filmes netflix fim de semana",
+      "related_keyphrases": [
+        "filmes para assistir netflix",
+        "novidades netflix outubro",
+        "recomendações netflix"
+      ],
+      "slug": "melhores-filmes-netflix-fim-semana-outubro",
+      "categorias": [
+        {
+          "nome": "Casper",
+          "grupo": "obras",
+          "evidence": "1995's <em>Casper</em> will cast a spell over today's youngsters"
+        },
+        {
+          "nome": "The Maze Runner",
+          "grupo": "obras",
+          "evidence": "<em>The Maze Runner</em> fans of dystopian YA fare"
+        },
+        {
+          "nome": "Scarface",
+          "grupo": "obras",
+          "evidence": "Brian De Palma's <em>Scarface</em> was the beating heart of 1980s gangster movies"
+        }
+      ],
+      "tags_sugeridas": [
+        "netflix",
+        "casper",
+        "maze runner",
+        "scarface",
+        "filmes de halloween",
+        "filmes de gângster"
+      ],
+      "image_alt_texts": {
+        "Casper-Movie-Casper-and-Christina-Ricci.jpg": "Casper e Kat em cena do filme de 1995.",
+        "maze_runner_dylan_obrien_.jpg": "Thomas (Dylan O'Brien) em uma cena de ação em Maze Runner.",
+        "al-pacino-tony-montana.png": "Al Pacino no papel icônico de Tony Montana em Scarface."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Os Melhores Filmes da Netflix para Curtir Neste Fim de Semana",
+        "_yoast_wpseo_metadesc": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana. De clássicos de Halloween a dramas de gângster, há opções para todos os gostos.",
+        "_yoast_wpseo_focuskw": "melhores filmes netflix fim de semana",
+        "_yoast_news_keywords": "netflix, casper, maze runner, scarface, filmes de halloween, filmes de gângster",
+        "_yoast_wpseo_opengraph-title": "Os Melhores Filmes da Netflix para Curtir Neste Fim de Semana",
+        "_yoast_wpseo_opengraph-description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana. De clássicos de Halloween a dramas de gângster, há opções para todos os gostos.",
+        "_yoast_wpseo_twitter-title": "Os Melhores Filmes da Netflix para Curtir Neste Fim de Semana",
+        "_yoast_wpseo_twitter-description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana. De clássicos de Halloween a dramas de gângster, há opções para todos os gostos."
+      }
+    },
+    {
+      "titulo_final": "Paul Bettany Não Consegue Rever \"Coração de Cavaleiro\" por Saudade de Heath Ledger",
+      "conteudo_final": "<p>Paul Bettany, estrela de <b>Coração de Cavaleiro</b>, revelou que não consegue mais assistir ao filme de 2001 devido à saudade de seu falecido colega de elenco, Heath Ledger.</p><p>Lançado como a terceira produção internacional de Ledger, após <em>10 Coisas que Eu Odeio em Você</em> e <em>O Patriota</em>, <em>Coração de Cavaleiro</em> foi uma adaptação cômica e solta da história do século XIV dos <em>Contos de Canterbury</em>, de Geoffrey Chaucer.</p><p>Bettany, que até então atuava principalmente em produções britânicas, integrou o elenco de <em>Coração de Cavaleiro</em> ao lado de Ledger, Alan Tudyk, Mark Addy e Shannyn Sossamon. Ele interpretou uma versão decadente e devassa do próprio Chaucer.</p><h2>Dificuldade em Reviver o Passado</h2><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/04/heath-ledger-as-william-in-a-knight-s-tale.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Heath Ledger como William em Coração de Cavaleiro\"><figcaption>Heath Ledger no papel principal de William em Coração de Cavaleiro.</figcaption></figure><p>Durante uma aparição recente na L.A. Comic Con, Bettany foi questionado sobre recitar falas de seu personagem. O ator admitiu que não se lembrava de muitas linhas do filme, descrevendo o período como “outra era”. Ele revelou ter visto o filme apenas em seu lançamento original.</p><p>Bettany também explicou que existem vários motivos para não ter reassistido <em>Coração de Cavaleiro</em> desde então, sendo um deles <strong>“que sinto muita falta de Heath”</strong>.</p><p>Infelizmente, Ledger faleceu em janeiro de 2008. Na época de sua morte, ele já demonstrava uma gama completa de seu talento dramático e iniciava seus passos como diretor. Ledger foi postumamente premiado com o Oscar de Melhor Ator Coadjuvante por sua interpretação do Coringa em <em>O Cavaleiro das Trevas</em> (2008), após ter sido indicado ao Oscar de Melhor Ator por <em>O Segredo de Brokeback Mountain</em> (2005).</p><h2>O Legado de Coração de Cavaleiro</h2><p>Embora <em>Coração de Cavaleiro</em> não tenha alcançado o mesmo aclame crítico de seus trabalhos posteriores, o filme obteve um desempenho financeiro considerável, arrecadando US$ 117,5 milhões contra um orçamento de US$ 65 milhões. A obra consolidou a rápida ascensão de Ledger de um ator australiano pouco conhecido para uma grande estrela de Hollywood.</p><p>Apesar de Bettany admitir não ter revisto o filme, ele já havia proposto uma ideia para uma sequência em colaboração com Alan Tudyk. A ideia girava em torno da filha adolescente de William Thatcher, interpretado por Ledger, que desejava se tornar cavaleira em um mundo que a proibisse, buscando a ajuda dos antigos amigos de seu pai.</p><p>No entanto, mesmo com o diretor Brian Helgeland também apresentando um conceito de sequência à Netflix, os planos para uma continuação de <em>Coração de Cavaleiro</em> nunca se concretizaram. Talvez, assim como a relutância de Bettany em rever o original, a ideia de retornar ao clássico de Ledger seja um fardo emocional para os fãs que ainda lamentam sua perda.</p>",
+      "meta_description": "Paul Bettany revela por que não consegue mais rever \"Coração de Cavaleiro\" após a morte de Heath Ledger. Saiba mais sobre o impacto do ator.",
+      "focus_keyphrase": "Paul Bettany Coração de Cavaleiro",
+      "related_keyphrases": [
+        "Heath Ledger",
+        "Coração de Cavaleiro Paul Bettany",
+        "filmes com Heath Ledger"
+      ],
+      "slug": "paul-bettany-nao-revê-coracao-de-cavaleiro-heath-ledger",
+      "categorias": [
+        {
+          "nome": "Coração de Cavaleiro",
+          "grupo": "obras",
+          "evidence": "<em>A Knight's Tale</em> star Paul Bettany has explained"
+        },
+        {
+          "nome": "Heath Ledger",
+          "grupo": "ator",
+          "evidence": "Heath Ledger’s Co-Star Can't Rewatch A Knight's Tale Following His Death"
+        }
+      ],
+      "tags_sugeridas": [
+        "Coração de Cavaleiro",
+        "Heath Ledger",
+        "Paul Bettany",
+        "filmes de cavaleiro",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "heath-ledger-as-william-in-a-knight-s-tale.jpg": "Heath Ledger no papel principal de William em Coração de Cavaleiro.",
+        "018351_poster_w780.jpg": "Pôster do filme Coração de Cavaleiro.",
+        "instar48996561.jpg": "Foto de Heath Ledger.",
+        "instar53612226.jpg": "Foto de Rufus Sewell."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Paul Bettany Não Consegue Rever \"Coração de Cavaleiro\" por Saudade de Heath Ledger",
+        "_yoast_wpseo_metadesc": "Paul Bettany revela por que não consegue mais rever \"Coração de Cavaleiro\" após a morte de Heath Ledger. Saiba mais sobre o impacto do ator.",
+        "_yoast_wpseo_focuskw": "Paul Bettany Coração de Cavaleiro",
+        "_yoast_news_keywords": "Coração de Cavaleiro, Heath Ledger, Paul Bettany, filmes de cavaleiro, cinema",
+        "_yoast_wpseo_opengraph-title": "Paul Bettany Não Consegue Rever \"Coração de Cavaleiro\" por Saudade de Heath Ledger",
+        "_yoast_wpseo_opengraph-description": "Paul Bettany revela por que não consegue mais rever \"Coração de Cavaleiro\" após a morte de Heath Ledger. Saiba mais sobre o impacto do ator.",
+        "_yoast_wpseo_twitter-title": "Paul Bettany Não Consegue Rever \"Coração de Cavaleiro\" por Saudade de Heath Ledger",
+        "_yoast_wpseo_twitter-description": "Paul Bettany revela por que não consegue mais rever \"Coração de Cavaleiro\" após a morte de Heath Ledger. Saiba mais sobre o impacto do ator."
+      }
+    },
+    {
+      "titulo_final": "A Maravilhosa Comédia \"O Estagiário\" Deixa o Prime Video em Breve",
+      "conteudo_final": "<p>O trabalho tem gerado muita ansiedade ultimamente? Você não está sozinho. Diversos setores enfrentam turbulências em meio a uma possível recessão. O mundo da mídia, em particular, já lidava com desafios antes mesmo do avanço da inteligência artificial, que agora pressiona o tráfego de artigos como este.</p><p>Para relaxar, a recomendação é buscar refúgio em filmes antigos. Utilizar o cinema e a televisão para escapar dos problemas cotidianos não é novidade, mas assistir a produções de outras eras de Hollywood tem um efeito rejuvenescedor.</p><p>Recentemente, a busca foi por algo mais específico: um bom filme sobre o ambiente de trabalho. A solução encontrada foi perfeita e, felizmente, a tempo.</p><h2>O Estagiário: Um Conforto Aconchegante no Prime Video</h2><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/jules-biking-through-the-office-while-her-assistant-runs-next-to-her-in-the-intern.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Jules pedalando pelo escritório enquanto sua assistente corre ao lado em O Estagiário\"><figcaption>Jules em cena de O Estagiário.</figcaption></figure><p>Para quem busca conforto em um filme, as obras de Nancy Meyers são uma escolha segura. Desde sua estreia na direção com <em>Operação Cupido</em> (1998), Meyers cria universos com estética de riqueza e um fluxo narrativo envolvente, proporcionando uma experiência cinematográfica suave e agradável.</p><p>O último longa dirigido por ela foi <em>O Estagiário</em> (2015), estrelado por Robert De Niro no papel principal. Na trama, Ben, um viúvo aposentado em busca de um novo propósito, candidata-se ao programa de estagiários seniores em uma startup de moda e-commerce chamada About the Fit. Lá, ele é designado para trabalhar diretamente com Jules (Anne Hathaway), a fundadora e CEO apaixonada, porém sobrecarregada.</p><p>Apesar de <em>O Estagiário</em> ter recebido críticas mistas na época de seu lançamento, o filme oferece uma combinação encantadora de comédia de trabalho e drama de diferenças geracionais. Ele proporciona uma sensação reconfortante de sucesso, onde os personagens merecem as conquistas e os confortos que obtêm, reforçando uma visão positiva do mundo.</p><p>Anne Hathaway brilha como Jules, entregando uma performance memorável. De Niro também impressiona, imbuindo Ben com uma gentileza que cativa o espectador. A atuação de ambos é um dos pontos altos do filme.</p><h2>Aviso de Saída do Streaming</h2><p>Assinantes do <b>Prime Video</b> nos Estados Unidos têm a oportunidade de assistir a essa joia do cinema de trabalho, mas por tempo limitado. Segundo informações do <em>JustWatch</em>, <em>O Estagiário</em> deixará o serviço após o fim de outubro. Embora ainda seja possível alugar o filme, não há previsão de quando ele retornará ao streaming gratuito.</p><p>Portanto, aproveite os últimos dias para assistir a <em>O Estagiário</em>. Esqueça as maratonas de filmes de terror e desfrute de um momento de tranquilidade. Seu bem-estar agradecerá.</p>",
+      "meta_description": "A comédia \"O Estagiário\", com Robert De Niro e Anne Hathaway, está prestes a deixar o Prime Video. Garanta seu momento de conforto antes que saia do streaming.",
+      "focus_keyphrase": "filme O Estagiário Prime Video",
+      "related_keyphrases": [
+        "O Estagiário deixa Prime Video",
+        "filme confortável para assistir",
+        "Nancy Meyers filmes"
+      ],
+      "slug": "o-estagiario-deixa-prime-video",
+      "categorias": [
+        {
+          "nome": "O Estagiário",
+          "grupo": "obras",
+          "evidence": "2015's <em>The Intern</em>"
+        },
+        {
+          "nome": "Nancy Meyers",
+          "grupo": "diretor",
+          "evidence": "Nancy Meyers movies"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "plataformas",
+          "evidence": "Prime Video subscriber"
+        }
+      ],
+      "tags_sugeridas": [
+        "O Estagiário",
+        "Prime Video",
+        "Robert De Niro",
+        "Anne Hathaway",
+        "Nancy Meyers",
+        "filmes de trabalho",
+        "comédia"
+      ],
+      "image_alt_texts": {
+        "jules-biking-through-the-office-while-her-assistant-runs-next-to-her-in-the-intern.jpg": "Jules em cena de O Estagiário.",
+        "01399042_poster_w780.jpg": "Pôster do filme O Estagiário.",
+        "instar53337330.jpg": "Foto de Robert De Niro.",
+        "instar53506159.jpg": "Foto de Anne Hathaway."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Maravilhosa Comédia \"O Estagiário\" Deixa o Prime Video em Breve",
+        "_yoast_wpseo_metadesc": "A comédia \"O Estagiário\", com Robert De Niro e Anne Hathaway, está prestes a deixar o Prime Video. Garanta seu momento de conforto antes que saia do streaming.",
+        "_yoast_wpseo_focuskw": "filme O Estagiário Prime Video",
+        "_yoast_news_keywords": "O Estagiário, Prime Video, Robert De Niro, Anne Hathaway, Nancy Meyers, filmes de trabalho, comédia",
+        "_yoast_wpseo_opengraph-title": "A Maravilhosa Comédia \"O Estagiário\" Deixa o Prime Video em Breve",
+        "_yoast_wpseo_opengraph-description": "A comédia \"O Estagiário\", com Robert De Niro e Anne Hathaway, está prestes a deixar o Prime Video. Garanta seu momento de conforto antes que saia do streaming.",
+        "_yoast_wpseo_twitter-title": "A Maravilhosa Comédia \"O Estagiário\" Deixa o Prime Video em Breve",
+        "_yoast_wpseo_twitter-description": "A comédia \"O Estagiário\", com Robert De Niro e Anne Hathaway, está prestes a deixar o Prime Video. Garanta seu momento de conforto antes que saia do streaming."
+      }
+    }
+  ]
+}

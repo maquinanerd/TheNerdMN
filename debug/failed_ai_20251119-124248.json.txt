@@ -1,0 +1,93 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ghost of Yotei ganha atualização com Novo Jogo+ em 24 de novembro",
+      "conteudo_final": "<p>A Sucker Punch antecipa uma nova atualização para <strong><em>Ghost of Yotei</em></strong>, adicionando conteúdo inédito ao jogo, incluindo o aguardado modo Novo Jogo+. O aclamado título continua a evoluir, seguindo os passos de seu antecessor.</p>\n<h2>Ghost of Yotei adiciona Novo Jogo+ e mais em 24 de novembro</h2>\n<p>Após seu lançamento no início de outubro, <em>Ghost of Yotei</em> tem sido um sucesso para a Sony e a Sucker Punch. O jogo recebeu algumas atualizações para corrigir problemas e bugs. Com a experiência agora mais estável, o desenvolvimento de conteúdo pós-lançamento parece ter começado. Os jogadores não precisarão esperar muito para ver novas adições de conteúdo e recursos em <em>Ghost of Yotei</em>.</p>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/ghost-of-yotei-atsu.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Personagem de Ghost of Yotei em ação.\"><figcaption>Novo conteúdo para Ghost of Yotei chega em breve.</figcaption></figure>\n<p>Em um novo post no blog, Andrew Goldfarb, Gerente Sênior de Comunicações da Sucker Punch, revelou que uma nova atualização para <em>Ghost of Yotei</em> está a caminho. Em 24 de novembro, os jogadores poderão baixar o patch mais recente, que finalmente inclui o modo Novo Jogo+. Assim como em outros jogos populares, o Novo Jogo+ em <em>Ghost of Yotei</em> desbloqueia esta opção após a conclusão da campanha principal, adiciona duas novas opções de dificuldade e dois troféus extras, permitindo que os jogadores mantenham seu equipamento existente.</p>\n<p>Para quem optar por mais uma jogatina, há recompensas. Uma nova moeda, as Flores Fantasma, poderá ser trocada em um vendedor especial para desbloquear 10 novos amuletos e mais de 30 cosméticos bônus, incluindo tingimentos e conjuntos de armadura, complementando o já <a href=\"https://www.maquinanerd.com.br/tag/ghost-of-yotei-armaduras\">extenso arsenal de <em>Ghost of Yotei</em></a>. Além disso, uma nova camada de upgrades para os conjuntos de armadura e armas existentes será desbloqueada, permitindo que os jogadores fiquem ainda mais fortes.</p>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/09/ghost-of-yotei-horse.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Cavalo em Ghost of Yotei.\"><figcaption>Novos cosméticos e upgrades estarão disponíveis.</figcaption></figure>\n<p>Além do Novo Jogo+, a atualização adiciona uma variedade de recursos, incluindo uma tela de estatísticas e a capacidade de rejogar conteúdo no pós-jogo. O <a href=\"https://www.maquinanerd.com.br/tag/ghost-of-yotei-modo-foto\">modo Foto de <em>Ghost of Yotei</em></a> recebe novas configurações, como velocidade do obturador, grade de composição e filtros adicionais. Por fim, mais opções de acessibilidade estão sendo adicionadas, como a possibilidade de remapear os botões direcionais.</p>\n<h2>Modo Multiplayer Legends chega em 2026</h2>\n<p>A postagem termina com outra prévia para 2026, quando <em>Ghost of Yotei</em> adicionará seu modo multiplayer Legends. Infelizmente, nenhum detalhe adicional foi fornecido, mas os jogadores já têm uma ideia geral do que esperar. O modo, favorito dos fãs, retorna como uma atualização gratuita, adicionando 2 missões cooperativas e 4 missões de sobrevivência onde os jogadores enfrentarão versões demoníacas dos Seis Fantasmas. Como esperado, os jogadores terão várias classes para escolher para essas missões, embora detalhes sobre quem ou o que elas são ainda não tenham sido revelados.</p>",
+      "meta_description": "Ghost of Yotei recebe atualização em 24 de novembro com Novo Jogo+, novas dificuldades, cosméticos e mais. Modo Legends chega em 2026.",
+      "focus_keyphrase": "Ghost of Yotei Novo Jogo+",
+      "related_keyphrases": [
+        "Ghost of Yotei atualização",
+        "Ghost of Yotei multiplayer Legends",
+        "Sucker Punch Ghost of Yotei"
+      ],
+      "slug": "ghost-of-yotei-novo-jogo-plus-atualizacao",
+      "categorias": [
+        {
+          "nome": "Ghost of Yotei",
+          "grupo": "obras",
+          "evidence": "Sucker Punch previews an upcoming patch for <strong><em>Ghost of Yotei</em></strong>"
+        },
+        {
+          "nome": "Sucker Punch",
+          "grupo": "estudios",
+          "evidence": "Sucker Punch previews an upcoming patch for <strong><em>Ghost of Yotei</em></strong>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Ghost of Yotei",
+        "Sucker Punch",
+        "Novo Jogo+",
+        "Atualização de Jogo",
+        "Legends Multiplayer"
+      ],
+      "image_alt_texts": {
+        "ghost-of-yotei-atsu.jpg": "Personagem de Ghost of Yotei em ação, pronto para combate.",
+        "ghost-of-yotei-horse.jpg": "Cavalo em Ghost of Yotei, um dos elementos visuais do jogo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ghost of Yotei ganha atualização com Novo Jogo+ em 24 de novembro",
+        "_yoast_wpseo_metadesc": "Ghost of Yotei recebe atualização em 24 de novembro com Novo Jogo+, novas dificuldades, cosméticos e mais. Modo Legends chega em 2026.",
+        "_yoast_wpseo_focuskw": "Ghost of Yotei Novo Jogo+",
+        "_yoast_news_keywords": "Ghost of Yotei, Sucker Punch, Novo Jogo+, Atualização de Jogo, Legends Multiplayer",
+        "_yoast_wpseo_opengraph-title": "Ghost of Yotei ganha atualização com Novo Jogo+ em 24 de novembro",
+        "_yoast_wpseo_opengraph-description": "Ghost of Yotei recebe atualização em 24 de novembro com Novo Jogo+, novas dificuldades, cosméticos e mais. Modo Legends chega em 2026.",
+        "_yoast_wpseo_twitter-title": "Ghost of Yotei ganha atualização com Novo Jogo+ em 24 de novembro",
+        "_yoast_wpseo_twitter-description": "Ghost of Yotei recebe atualização em 24 de novembro com Novo Jogo+, novas dificuldades, cosméticos e mais. Modo Legends chega em 2026."
+      }
+    },
+    {
+      "titulo_final": "Tales of Berseria Remastered remove censura de impalamento no Japão",
+      "conteudo_final": "<p>A versão remasterizada de <em>Tales of Berseria</em>, que será lançada para consoles modernos e PC, trará uma mudança significativa em relação à sua versão original. A censura de uma cena de impalamento, presente nas versões ocidentais do jogo, será removida na edição japonesa, mas também será removida da versão ocidental.</p>\n<h2>Censura de impalamento em Tales of Berseria Remastered</h2>\n<p>A nova versão, <em>Tales of Berseria Remastered</em>, apresentará uma atualização que remove a cena de impalamento que havia sido substituída por um efeito de luz em forma de 'X' nas versões ocidentais do jogo original. Anteriormente, a versão japonesa não possuía essa restrição, mas a remasterização uniformizará a experiência para todos os jogadores.</p>\n<figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/spoiler_screenshot_2025-11-19_at_14-24-30.png\" alt=\"Cena de Tales of Berseria Remastered.\"><figcaption>A cena de impalamento será removida em todas as versões.</figcaption></figure>\n<p>A decisão de remover a cena em todas as regiões visa manter a paridade entre as versões. Diferentes países possuem sistemas de classificação etária distintos, e a representação de violência explícita pode afetar a classificação do jogo. Para manter uma classificação equivalente à "Teen" do ESRB, a Bandai Namco optou por fazer essa alteração de forma abrangente.</p>\n<p>A remoção da censura no Japão, onde a cena nunca foi um problema de classificação, pode ser vista como uma decepção para alguns fãs. A uniformização visa simplificar o processo de desenvolvimento e garantir uma experiência consistente. No entanto, a falta de mudanças visuais significativas em comparação com a versão de PC existente e o trailer divulgado sugere um esforço de remasterização com escopo limitado, semelhante ao que ocorreu com <em>Tales of Xillia Remastered</em>.</p>\n<p>A nova versão de <em>Tales of Berseria</em> será lançada para PlayStation 5, Nintendo Switch, Xbox Series X|S e PC em 26 de fevereiro de 2026. A mudança na cena de impalamento, embora possa desagradar alguns, garante que todos os jogadores terão acesso à mesma versão do conteúdo, mesmo que isso signifique a perda de um momento mais impactante para a narrativa.</p>\n<p>O jogo também contará com a adição de novos amuletos e cosméticos, além de melhorias visuais para as versões de console. A experiência geral promete ser uma versão polida de uma aventura já aclamada, apesar das controvérsias pontuais sobre a censura.</p>",
+      "meta_description": "Tales of Berseria Remastered remove cena de impalamento em todas as versões para manter paridade, apesar de nunca ter sido censurada no Japão.",
+      "focus_keyphrase": "Tales of Berseria Remastered censura",
+      "related_keyphrases": [
+        "Tales of Berseria impalamento",
+        "Bandai Namco Tales Remastered",
+        "Tales of Berseria PS5"
+      ],
+      "slug": "tales-of-berseria-remastered-censura-impalamento",
+      "categorias": [
+        {
+          "nome": "Tales of Berseria",
+          "grupo": "obras",
+          "evidence": "Tales of Berseria Remastered is the next big thing for Bandai Namco's fittingly titled Tales Remaster project"
+        },
+        {
+          "nome": "Bandai Namco",
+          "grupo": "estudios",
+          "evidence": "Bandai Namco's fittingly titled Tales Remaster project"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tales of Berseria",
+        "Tales of Berseria Remastered",
+        "Bandai Namco",
+        "Censura",
+        "RPG"
+      ],
+      "image_alt_texts": {
+        "spoiler_screenshot_2025-11-19_at_14-24-30.png": "Cena de Tales of Berseria Remastered mostrando a remoção da censura de impalamento."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tales of Berseria Remastered remove censura de impalamento no Japão",
+        "_yoast_wpseo_metadesc": "Tales of Berseria Remastered remove cena de impalamento em todas as versões para manter paridade, apesar de nunca ter sido censurada no Japão.",
+        "_yoast_wpseo_focuskw": "Tales of Berseria Remastered censura",
+        "_yoast_news_keywords": "Tales of Berseria, Tales of Berseria Remastered, Bandai Namco, Censura, RPG",
+        "_yoast_wpseo_opengraph-title": "Tales of Berseria Remastered remove censura de impalamento no Japão",
+        "_yoast_wpseo_opengraph-description": "Tales of Berseria Remastered remove cena de impalamento em todas as versões para manter paridade, apesar de nunca ter sido censurada no Japão.",
+        "_yoast_wpseo_twitter-title": "Tales of Berseria Remastered remove censura de impalamento no Japão",
+        "_yoast_wpseo_twitter-description": "Tales of Berseria Remastered remove cena de impalamento em todas as versões para manter paridade, apesar de nunca ter sido censurada no Japão."
+      }
+    }
+  ]
+}

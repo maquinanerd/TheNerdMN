@@ -1,0 +1,50 @@
+{
+  "titulo_final": "Edgar Wright explica mudança de personagem em \"The Running Man\" do livro de Stephen King",
+  "conteudo_final": "<p>O diretor de <em><strong>The Running Man</strong></em>, Edgar Wright, explica por que Bradley Throckmorton (Daniel Ezra) foi alterado na nova adaptação cinematográfica em comparação com o romance original de Stephen King. No livro e na nova versão, Bradley é um rebelde que ajuda Ben Richards (Glen Powell) a sobreviver.</p><p>No livro, Bradley faz parte de uma gangue que roubou cartões de biblioteca e realizou leituras extensivas, permitindo-lhes aprender verdades ocultas sobre sua sociedade corrupta. No filme de 2025, Bradley é uma personalidade anônima das redes sociais conhecida como o Apóstolo, que desmistifica o show <em>The Running Man</em> e usa sua plataforma para expor algumas das verdades por trás da competição mortal.</p><p>Em entrevista à <em>Inverse</em>, Wright explica que essa mudança foi inspirada no reality show <em>X-Factor</em>. Wright e o roteirista Michael Bacall assistiram a vídeos de análise de reality shows ao escrever o roteiro de <em>The Running Man</em>. Foi durante uma edição do <em>X-Factor</em> do Reino Unido que Wright aprendeu sobre \"o corte do vilão\", um termo para quando uma série de reality show edita um participante para fazê-lo parecer o vilão.</p><blockquote><p>Eles obviamente provocaram esse participante nos bastidores e lhe deram as informações erradas. Porque eles sabiam que ela tinha um temperamento e pensaram: \"Temos que fazê-la explodir no palco\".</p></blockquote><p>Para Wright, esse conceito \"realmente me atingiu como algo muito parecido com Ben Richards. As pessoas são feitas para serem motivo de chacota nacional ou feitas para serem o vilão, e os tabloides vão atrás delas.\" Isso levou Wright e Bacall a fazerem de Bradley um \"superfã que também está ciente de todas as conspirações\".</p><p>Essa mudança exigiu que filmassem cenas de outros participantes, Jenni Laughlin (Katy O'Brian) e Tim Jansky (Martin Herlihy), sendo mortos para que Bradley pudesse explicar completamente os arquétipos da TV de reality show. Mesmo que isso tenha adicionado mais ao processo de filmagem, Wright está satisfeito com a decisão que tomaram, expressando que foi \"divertido juntar todo esse trabalho\".</p><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-running-man_tntrgg-cropped.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-running-man_tntrgg-cropped.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-running-man_tntrgg-cropped.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-running-man_tntrgg-cropped.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-running-man_tntrgg-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-running-man_tntrgg-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Daniel Ezra como Bradley e Glen Powell como Ben em The Running Man" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-running-man_tntrgg-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/the-running-man_tntrgg-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Daniel Ezra como Bradley e Glen Powell como Ben em The Running Man.</figcaption></figure><p>Transformar Bradley no Apóstolo também desempenha um papel importante no final de <em>The Running Man</em>, que difere significativamente do material original. A versão do filme de Bradley publica um vídeo desmentindo que Ben morreu quando o avião explodiu, o que ajuda a mobilizar o público e uni-lo para finalmente se levantar contra a Rede. Ben é confirmado vivo na cena final, onde lidera o motim da multidão contra Dan Killian (Josh Brolin) e a Rede. O filme usa o vídeo de Bradley como uma ferramenta narrativa para acelerar a revolução e como parte de um final que não é tão sombrio quanto a conclusão do livro de Stephen King.</p><p>Com <em><strong>The Running Man</strong></em> publicado em 1982, Bradley se tornando uma personalidade anônima das redes sociais é inevitavelmente apenas um dos muitos elementos que foram alterados. Essa mudança específica pode ser parcialmente atribuída à evolução do acesso e da disseminação de informações desde os anos 1980, além de possibilitar um final mais esperançoso.</p>",
+  "meta_description": "Edgar Wright, diretor de \"The Running Man\", explica a alteração de Bradley Throckmorton em relação ao livro de Stephen King, inspirada em reality shows.",
+  "focus_keyphrase": "The Running Man mudança personagem Stephen King",
+  "related_keyphrases": [
+    "Edgar Wright The Running Man",
+    "Bradley Throckmorton Stephen King",
+    "Adaptação The Running Man"
+  ],
+  "slug": "the-running-man-mudanca-personagem-stephen-king",
+  "categorias": [
+    {
+      "nome": "The Running Man",
+      "grupo": "obras",
+      "evidence": "<em><strong>The Running Man</strong></em> diretor Edgar Wright"
+    },
+    {
+      "nome": "Stephen King",
+      "grupo": "autores",
+      "evidence": "original Stephen King novel"
+    },
+    {
+      "nome": "Edgar Wright",
+      "grupo": "diretores",
+      "evidence": "Wright explains"
+    }
+  ],
+  "tags_sugeridas": [
+    "The Running Man",
+    "Edgar Wright",
+    "Stephen King",
+    "Daniel Ezra",
+    "Glen Powell",
+    "Bradley Throckmorton"
+  ],
+  "image_alt_texts": {
+    "the-running-man_tntrgg-cropped.jpg": "Daniel Ezra como Bradley e Glen Powell como Ben em The Running Man, discutindo a nova adaptação."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Edgar Wright explica mudança de personagem em \"The Running Man\" do livro de Stephen King",
+    "_yoast_wpseo_metadesc": "Edgar Wright, diretor de \"The Running Man\", explica a alteração de Bradley Throckmorton em relação ao livro de Stephen King, inspirada em reality shows.",
+    "_yoast_wpseo_focuskw": "The Running Man mudança personagem Stephen King",
+    "_yoast_news_keywords": "The Running Man, Edgar Wright, Stephen King, Daniel Ezra, Glen Powell, Bradley Throckmorton, adaptação cinematográfica, reality show",
+    "_yoast_wpseo_opengraph-title": "Edgar Wright explica mudança de personagem em \"The Running Man\" do livro de Stephen King",
+    "_yoast_wpseo_opengraph-description": "Edgar Wright, diretor de \"The Running Man\", explica a alteração de Bradley Throckmorton em relação ao livro de Stephen King, inspirada em reality shows.",
+    "_yoast_wpseo_twitter-title": "Edgar Wright explica mudança de personagem em \"The Running Man\" do livro de Stephen King",
+    "_yoast_wpseo_twitter-description": "Edgar Wright, diretor de \"The Running Man\", explica a alteração de Bradley Throckmorton em relação ao livro de Stephen King, inspirada em reality shows."
+  }
+}

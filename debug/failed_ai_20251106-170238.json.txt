@@ -1,0 +1,43 @@
+{
+  "titulo_final": "Superman: James Gunn cria herói com masculinidade não tóxica, diz especialista",
+  "conteudo_final": "<p>O <b>Superman</b> de James Gunn é um exemplo de masculinidade não tóxica, segundo o especialista Jonathan Decker. O filme, que introduz David Corenswet como o herói titular e Rachel Brosnahan como Lois Lane, foi elogiado por sua ação e coração, mas também por sua abordagem ao personagem.</p><h2>Masculinidade Não Tóxica em Superman</h2><p>Decker, terapeuta licenciado, explicou em seu canal no YouTube que a forma como Clark Kent demonstra seus sentimentos a Lois Lane é um ponto chave. Essa abertura e honestidade proporcionam a Lois a segurança para expressar seus próprios sentimentos, sem incertezas sobre o estado emocional dele.</p><p>A origem dessa masculinidade não tóxica é explorada no filme, com Decker sugerindo que é uma combinação de "natureza versus criação". Enquanto seus poderes vêm de sua herança Kryptoniana, sua gentileza, bondade e respeito pela vida humana são influências de seus pais adotivos, Jonathan e Martha Kent.</p><h2>A Defesa em Vez da Agressão</h2><p>A masculinidade não tóxica do Superman também se manifesta em suas ações em combate. Decker ressalta que o herói luta não por desejo de agressão, mas por necessidade, defendendo-se quando não há outra escolha. Ele define a masculinidade saudável em combate como defensiva, e não agressiva.</p><p>As críticas a <b>Superman</b> foram majoritariamente positivas, destacando a abordagem de Gunn, os visuais coloridos, os efeitos especiais e as atuações. O roteiro enfatiza o poder da esperança e da bondade, contrastando com a visão mais sombria de Zack Snyder sobre o personagem.</p><p>O filme recebeu uma pontuação de 83% da crítica no Rotten Tomatoes e um índice de aprovação do público de 90%. A recepção positiva impulsionou a bilheteria, com o filme arrecadando US$ 615 milhões mundialmente.</p><h2>Próximos Passos no DCU</h2><p>O sucesso de <b>Superman</b> garantiu a aprovação de uma sequência, intitulada <b>Man of Tomorrow</b>, com previsão de estreia para 2027. James Gunn dirigirá e escreverá o filme, que promete manter o herói como um farol de esperança, exibindo uma masculinidade não tóxica.</p><p>Com <b>Superman</b> já lançado, o foco do DCU se volta para o próximo grande projeto: <b>Supergirl</b>, estrelado por Milly Alcock. Conforme sugerido no final de <b>Superman</b>, a heroína terá uma personalidade rebelde e indiferente, possivelmente apresentando uma abordagem diferente de masculinidade em comparação com o filme de Gunn.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/UH4OSnSNVXk\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Análise sobre a masculinidade não tóxica do Superman de James Gunn.</figcaption></figure>",
+  "meta_description": "Especialista explica como o Superman de James Gunn exemplifica a masculinidade não tóxica, focando em honestidade e defesa.",
+  "focus_keyphrase": "Superman masculinidade não tóxica",
+  "related_keyphrases": [
+    "James Gunn Superman",
+    "David Corenswet Superman",
+    "masculinidade saudável herói"
+  ],
+  "slug": "superman-james-gunn-masculinidade-nao-toxica",
+  "categorias": [
+    {
+      "nome": "Superman",
+      "grupo": "franquias",
+      "evidence": "James Gunn's Superman"
+    },
+    {
+      "nome": "DC Studios",
+      "grupo": "editorias",
+      "evidence": "DC film"
+    }
+  ],
+  "tags_sugeridas": [
+    "Superman",
+    "James Gunn",
+    "David Corenswet",
+    "DC Studios",
+    "masculinidade não tóxica",
+    "super-herói"
+  ],
+  "image_alt_texts": {},
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Superman: James Gunn cria herói com masculinidade não tóxica, diz especialista",
+    "_yoast_wpseo_metadesc": "Especialista explica como o Superman de James Gunn exemplifica a masculinidade não tóxica, focando em honestidade e defesa.",
+    "_yoast_wpseo_focuskw": "Superman masculinidade não tóxica",
+    "_yoast_news_keywords": "Superman, James Gunn, David Corenswet, DC Studios, masculinidade não tóxica, super-herói, Jonathan Decker",
+    "_yoast_wpseo_opengraph-title": "Superman: James Gunn cria herói com masculinidade não tóxica, diz especialista",
+    "_yoast_wpseo_opengraph-description": "Especialista explica como o Superman de James Gunn exemplifica a masculinidade não tóxica, focando em honestidade e defesa.",
+    "_yoast_wpseo_twitter-title": "Superman: James Gunn cria herói com masculinidade não tóxica, diz especialista",
+    "_yoast_wpseo_twitter-description": "Especialista explica como o Superman de James Gunn exemplifica a masculinidade não tóxica, focando em honestidade e defesa."
+  }
+}

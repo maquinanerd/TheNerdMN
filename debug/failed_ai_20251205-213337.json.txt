@@ -1,0 +1,105 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Todd Howard vê IA como ferramenta no desenvolvimento de jogos",
+      "conteudo_final": "<p>Todd Howard, produtor executivo da Bethesda Game Studios, compartilhou suas opiniões sobre o uso de Inteligência Artificial (IA) no desenvolvimento de jogos, descrevendo-a como uma <b>ferramenta</b>. O líder da Bethesda não está sozinho em expressar sua opinião, pois muitos desenvolvedores e publicadoras têm compartilhado seus pensamentos sobre a tecnologia e seu uso na indústria de games recentemente.</p><p>O uso de IA no desenvolvimento de jogos tem sido um assunto divisivo. As opiniões variam amplamente, com alguns desenvolvedores temendo a perda de seus empregos e outros vendo vantagens em usar a tecnologia. Jogadores também expressaram objeções ao seu uso em games.</p><h2>Todd Howard discute IA no desenvolvimento de jogos</h2><p>O executivo da Bethesda compartilhou recentemente seus pensamentos sobre o uso de IA na criação de jogos com a Eurogamer, referindo-se à IA como uma ferramenta. Howard afirmou que a intenção criativa é o "número um", mas acrescentou que "pensamos nisso como uma ferramenta para, existe uma maneira de usá-la para nos ajudar a passar por algumas iterações que fazemos mais rápido. Não na geração de coisas, mas estamos sempre trabalhando em nosso conjunto de ferramentas para como construímos nossos mundos ou verificamos coisas." Ele continuou dizendo que é importante "proteger a arte" e que o que torna os jogos da Bethesda especiais é a "intenção humana" que vai neles.</p><p>Embora não confirmado por Howard ou Bethesda, parece que a IA pode desempenhar um papel na produção de futuros jogos da Bethesda. Atualmente, o estúdio está trabalhando no aguardado <em>The Elder Scrolls 6</em>. <em>Fallout 5</em> está mais adiante na linha de produção, tendo sido supostamente aprovado, mas provavelmente não entrará em desenvolvimento completo até que <em>The Elder Scrolls 6</em> seja concluído. Com estimativas atuais colocando o lançamento de <em>The Elder Scrolls 6</em> não antes de 2027, e potencialmente mais longe, até 2028 ou além, é razoável supor que a IA será usada com muito mais frequência pela indústria de jogos como um todo até lá.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/04/skyrim-player-walking-third-person.jpg\" alt=\"Jogador de Skyrim caminhando em terceira pessoa.\"><figcaption>O futuro dos jogos pode envolver mais ferramentas de IA.</figcaption></figure><p>No entanto, houve uma quantidade considerável de reações negativas dos jogadores devido ao uso de IA. Um jogador de <em>Call of Duty</em> obteve um reembolso no Steam após descobrir que os cartões de chamada de <em>Black Ops 7</em> pareciam utilizar IA generativa, enquanto outros usuários do Steam pediram rotulagem mais forte de IA na plataforma. A série de TV <em>Fallout</em> da Amazon, para a qual Todd Howard é produtor executivo, também recebeu críticas consideráveis em 2023 quando uma promoção inicial pareceu ter usado IA generativa, com erros estranhos como texto sem sentido e pedestres com três pernas.</p><p>Mesmo entre desenvolvedores e publicadoras, não há um acordo claro sobre o uso de IA. Desenvolvedores da EA expressaram frustração por serem instruídos a usar uma IA GPT em seu trabalho de desenvolvimento, enquanto um ex-desenvolvedor de <em>God of War</em> defendeu o uso de IA no desenvolvimento de jogos. A Epic criticou o Steam por rotular jogos que usam IA, dizendo que "não fazia sentido", mas o Steam permaneceu firme em fazê-lo. Muitos daqueles que trabalharam em <em>Baldur's Gate</em>, incluindo os atores e o diretor de publicação, criticaram a IA por vários motivos. O cofundador da Rockstar, Dan Houser, observou recentemente que ela poderia realizar algumas tarefas "brilhantemente", mas não todas, e compartilhou preocupações de que a tecnologia se degradará à medida que continua a "comer a si mesma", alimentando-se de informações na internet que a própria IA gerou originalmente. Enquanto isso, estúdios como a Capcom têm "experimentado" com IA, jogos como <em>ARC Raiders</em> a utilizaram, e a Hasbro admitiu anteriormente usar IA na produção de cartas de <em>Magic: The Gathering</em> e <em>Dungeons &amp; Dragons</em>.</p><p>Por enquanto, não está claro se a IA veio para ficar, ou se suas falhas superam os benefícios a longo prazo. Em qualquer caso, embora pareça que a Bethesda possa estar mexendo com ferramentas de IA nos bastidores, não parece que seus futuros jogos utilizarão IA generativa em substituição a artistas humanos.</p>",
+      "meta_description": "Todd Howard, da Bethesda, vê a Inteligência Artificial como uma ferramenta para otimizar o desenvolvimento de jogos, focando na intenção criativa humana.",
+      "focus_keyphrase": "Todd Howard IA desenvolvimento de jogos",
+      "related_keyphrases": [
+        "IA em games",
+        "Bethesda e inteligência artificial",
+        "futuro do desenvolvimento de jogos"
+      ],
+      "slug": "todd-howard-ia-desenvolvimento-jogos",
+      "categorias": [
+        {
+          "nome": "Bethesda Game Studios",
+          "grupo": "franquias",
+          "evidence": "Bethesda Game Studios"
+        },
+        {
+          "nome": "The Elder Scrolls",
+          "grupo": "obras",
+          "evidence": "The Elder Scrolls 6"
+        },
+        {
+          "nome": "Fallout",
+          "grupo": "obras",
+          "evidence": "Fallout 5"
+        }
+      ],
+      "tags_sugeridas": [
+        "Todd Howard",
+        "Bethesda",
+        "Inteligência Artificial",
+        "IA em games",
+        "The Elder Scrolls 6",
+        "Fallout 5"
+      ],
+      "image_alt_texts": {
+        "skyrim-player-walking-third-person.jpg": "Jogador de Skyrim caminhando em terceira pessoa, representando o universo da Bethesda."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Todd Howard vê IA como ferramenta no desenvolvimento de jogos",
+        "_yoast_wpseo_metadesc": "Todd Howard, da Bethesda, vê a Inteligência Artificial como uma ferramenta para otimizar o desenvolvimento de jogos, focando na intenção criativa humana.",
+        "_yoast_wpseo_focuskw": "Todd Howard IA desenvolvimento de jogos",
+        "_yoast_news_keywords": "Todd Howard, Bethesda, Inteligência Artificial, IA em games, The Elder Scrolls 6, Fallout 5, desenvolvimento de jogos",
+        "_yoast_wpseo_opengraph-title": "Todd Howard vê IA como ferramenta no desenvolvimento de jogos",
+        "_yoast_wpseo_opengraph-description": "Todd Howard, da Bethesda, compartilha sua visão sobre o uso da Inteligência Artificial como uma ferramenta para auxiliar na criação de jogos, priorizando a intenção humana.",
+        "_yoast_wpseo_twitter-title": "Todd Howard vê IA como ferramenta no desenvolvimento de jogos",
+        "_yoast_wpseo_twitter-description": "Todd Howard, da Bethesda, compartilha sua visão sobre o uso da Inteligência Artificial como uma ferramenta para auxiliar na criação de jogos, priorizando a intenção humana."
+      }
+    },
+    {
+      "titulo_final": "Banimento de jogo de terror indie 'Horses' ajuda vendas, mas não o esperado",
+      "conteudo_final": "<p>Após uma semana viral e repleta de notícias, que viu o <strong>Steam</strong> defender sua decisão de banir o título de terror indie <em>Horses</em> de sua plataforma, seguido por uma declaração do <strong>GOG</strong>, uma plataforma disposta a hospedar o jogo com orgulho, <em>Horses</em> foi oficialmente lançado. Mesmo no lançamento, <em>Horses</em> não esteve isento de mais uma controvérsia final, pois a <strong>Epic Games Store</strong> o removeu de seu site menos de 24 horas antes do lançamento. Se isso não bastasse, a <strong>Humble</strong> também baniu temporariamente o jogo antes do lançamento, antes de finalmente trazê-lo de volta pouco tempo depois.</p><p>No entanto, apesar do jogo aparentemente ter se tornado viral da noite para o dia, parece que o impacto do boca a boca e de aparecer nas manchetes fez muito pouco para ajudar o título de Santa Ragione e do cineasta italiano e diretor de jogos Andrea Lucco Borlera a gerar lucro.</p><h2>O impacto do banimento de 'Horses' nas vendas</h2><p>Em uma nova entrevista com a The Verge, o coprodutor e produtor de <em>Horses</em>, Pietro Righi Riva, discutiu parte das consequências após as manchetes virais do jogo e seu subsequente lançamento, especificamente se algo disso ajudou a tornar o título lucrativo. Em resumo, não, não muito.</p><p>\"Estou aliviado porque, com toda essa atenção, provavelmente conseguirei devolver a maior parte do dinheiro [cerca de metade de US$ 100.000] que tive que emprestar\", disse o produtor. \"Mas ainda não saímos dessa situação, não.\"</p><p>Antes de seu lançamento, em um FAQ dedicado a compartilhar seu lado da história, a Santa Ragione observou que US$ 100.000 foram investidos no desenvolvimento do jogo, dos quais metade veio de amigos. Na época, o estúdio reconheceu que sem um lançamento no Steam, recuperar qualquer um desses valores seria quase impossível.</p><p>Ainda assim, dado que o jogo provavelmente não renderia nada após seu banimento, especialmente considerando o quão menores essas lojas são em comparação com o Steam, a viralidade de sua história ajudou um pouco.</p><p>\"Não há como o mesmo tipo de interesse ter acontecido\", acrescentou ele.</p><p>Mesmo assim, um lançamento no Steam é, em última análise, a coisa mais benéfica do ponto de vista financeiro e de público, e a equipe ainda está desapontada com o desfecho.</p><p>\"Mesmo com toda a publicidade, todas as reportagens, todas as críticas, tudo mais\", disse ele, \"isso ainda não se compara ao tipo de público que teríamos no Steam.\"</p><p>O fato de o estúdio ter conseguido recuperar parte do dinheiro e pagar essas pessoas é uma boa notícia, mas vale a pena pensar quanto mais dinheiro eles poderiam ter gerado se o Steam reconsiderasse sua posição. Talvez <em>Horses</em> não tivesse se tornado viral, mas dado como os usuários do Steam transformaram títulos discretos em sucessos da noite para o dia antes, a verdade provavelmente está em algum lugar no meio.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/steamcompanytagpageheader.png\" alt=\"Página de tag da empresa Steam.\"><figcaption>O banimento de 'Horses' gerou atenção, mas o impacto nas vendas foi limitado.</figcaption></figure>",
+      "meta_description": "O banimento do jogo de terror indie 'Horses' gerou atenção viral, mas o impacto nas vendas foi menor do que o esperado, segundo o produtor.",
+      "focus_keyphrase": "Banimento jogo indie Horses vendas",
+      "related_keyphrases": [
+        "Horses jogo de terror",
+        "Steam banindo jogos",
+        "Santa Ragione vendas"
+      ],
+      "slug": "banimento-jogo-indie-horses-vendas",
+      "categorias": [
+        {
+          "nome": "Steam",
+          "grupo": "plataformas",
+          "evidence": "Steam"
+        },
+        {
+          "nome": "GOG",
+          "grupo": "plataformas",
+          "evidence": "GOG"
+        },
+        {
+          "nome": "Epic Games Store",
+          "grupo": "plataformas",
+          "evidence": "Epic Games Store"
+        }
+      ],
+      "tags_sugeridas": [
+        "Horses",
+        "indie horror",
+        "Steam",
+        "GOG",
+        "Epic Games Store",
+        "Santa Ragione",
+        "Andrea Lucco Borlera"
+      ],
+      "image_alt_texts": {
+        "steamcompanytagpageheader.png": "Página de tag da empresa Steam, indicando a plataforma onde o jogo foi banido."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Banimento de jogo indie 'Horses' ajuda vendas, mas não o esperado",
+        "_yoast_wpseo_metadesc": "O banimento do jogo de terror indie 'Horses' gerou atenção viral, mas o impacto nas vendas foi menor do que o esperado, segundo o produtor.",
+        "_yoast_wpseo_focuskw": "Banimento jogo indie Horses vendas",
+        "_yoast_news_keywords": "Horses, indie horror, Steam, GOG, Epic Games Store, Santa Ragione, Andrea Lucco Borlera, banimento de jogos",
+        "_yoast_wpseo_opengraph-title": "Banimento de jogo indie 'Horses' ajuda vendas, mas não o esperado",
+        "_yoast_wpseo_opengraph-description": "O banimento do jogo de terror indie 'Horses' gerou atenção viral, mas o impacto nas vendas foi menor do que o esperado, segundo o produtor.",
+        "_yoast_wpseo_twitter-title": "Banimento de jogo indie 'Horses' ajuda vendas, mas não o esperado",
+        "_yoast_wpseo_twitter-description": "O banimento do jogo de terror indie 'Horses' gerou atenção viral, mas o impacto nas vendas foi menor do que o esperado, segundo o produtor."
+      }
+    }
+  ]
+}

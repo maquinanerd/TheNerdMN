@@ -1,0 +1,60 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hazbin Hotel: Conheça o Elenco Completo de Vozes da 2ª Temporada",
+      "conteudo_final": "<p>A segunda temporada de <b>Hazbin Hotel</b> está repleta de novos e antigos personagens, trazidos à vida por um elenco de voz talentoso. Baseada na popular série de webcomics de Vivienne Medrano, a animação adulta ambientada no inferno é conhecida por sua premissa única, comédia e números musicais. O retorno da série promete mais do que nunca a combinação de teatro musical, representatividade LGBTQIA+ e um elenco de dublagem de peso.</p><h2>Elenco Principal de Hazbin Hotel</h2><p>A série, criada por Vivienne \"VivziePop\" Medrano, começou com seus webcomics e um piloto lançado no YouTube em 2019. A A24 encomendou uma série completa em 2020, que estreou em janeiro de 2024. A 2ª temporada dá continuidade a essa jornada.</p><figure><img src=\"https:
+      "meta_description": "Conheça o elenco completo de Hazbin Hotel para a 2ª temporada. Descubra os atores por trás de Charlie, Vaggie, Alastor, Angel Dust e novos personagens.",
+      "focus_keyphrase": "Hazbin Hotel elenco 2ª temporada",
+      "related_keyphrases": [
+        "dubladores Hazbin Hotel",
+        "personagens Hazbin Hotel",
+        "Vivienne Medrano"
+      ],
+      "slug": "hazbin-hotel-elenco-2-temporada",
+      "categorias": [
+        {
+          "nome": "Hazbin Hotel",
+          "grupo": "franquias",
+          "evidence": "Vivienne Medrano's Hazbin Hotel series"
+        },
+        {
+          "nome": "Animação",
+          "grupo": "editorias",
+          "evidence": "adult-animation comedy"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hazbin Hotel",
+        "Vivienne Medrano",
+        "Erika Henningsen",
+        "Stephanie Beatriz",
+        "Amir Talai",
+        "Keith David",
+        "Prime Video",
+        "Animação Adulta"
+      ],
+      "image_alt_texts": {
+        "erika-henningsen-as-charlie-morningstar.jpg": "Erika Henningsen como Charlie Morningstar em Hazbin Hotel",
+        "stephaniebeatrizvaggie.jpg": "Stephanie Beatriz como Vaggie em Hazbin Hotel",
+        "angel-dust-from-hazbin-hotel.jpg": "Blake Roman como Angel Dust em Hazbin Hotel",
+        "amir-talai-as-alastor.jpg": "Amir Talai como Alastor em Hazbin Hotel",
+        "keith-david-as-husk.jpg": "Keith David como Husk em Hazbin Hotel",
+        "kimiko-glenn-as-niffty.jpg": "Kimiko Glenn como Niffty em Hazbin Hotel",
+        "alex-brightman-as-sir-pentious.jpg": "Alex Brightman como Sir Pentious em Hazbin Hotel",
+        "pentious-with-abel-in-hazbin-hotel.jpg": "Pentious com Abel em Hazbin Hotel",
+        "Hazbin-Hotel.jpg": "O universo de Hazbin Hotel é povoado por diversas criaturas.",
+        "hazbin-hotel-tv-show-poster.jpeg": "Pôster oficial da série Hazbin Hotel."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hazbin Hotel: Conheça o Elenco Completo de Vozes da 2ª Temporada",
+        "_yoast_wpseo_metadesc": "Conheça o elenco completo de Hazbin Hotel para a 2ª temporada. Descubra os atores por trás de Charlie, Vaggie, Alastor, Angel Dust e novos personagens.",
+        "_yoast_wpseo_focuskw": "Hazbin Hotel elenco 2ª temporada",
+        "_yoast_news_keywords": "Hazbin Hotel, elenco, 2ª temporada, Vivienne Medrano, Erika Henningsen, Stephanie Beatriz, Amir Talai, Keith David, Prime Video",
+        "_yoast_wpseo_opengraph-title": "Hazbin Hotel: Conheça o Elenco Completo de Vozes da 2ª Temporada",
+        "_yoast_wpseo_opengraph-description": "Descubra quem são os dubladores de seus personagens favoritos de Hazbin Hotel e conheça os novos talentos que se juntam à segunda temporada.",
+        "_yoast_wpseo_twitter-title": "Hazbin Hotel: Conheça o Elenco Completo de Vozes da 2ª Temporada",
+        "_yoast_wpseo_twitter-description": "O elenco de Hazbin Hotel para a 2ª temporada completo! Saiba quem dubla Charlie, Vaggie, Alastor, Angel Dust e mais."
+      }
+    }
+  ]
+}

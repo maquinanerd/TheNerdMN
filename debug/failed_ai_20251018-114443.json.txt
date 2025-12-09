@@ -1,0 +1,99 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Black Phone 2: Sequência de terror decepciona em bilheteria na estreia",
+      "conteudo_final": "<p>A estreia de <b>Black Phone 2</b> nos cinemas não atingiu as expectativas, com a sequência de terror projetando uma arrecadação de abertura de US$ 23 milhões. O valor é ligeiramente inferior aos US$ 90 milhões que o filme original, <b>The Black Phone</b>, alcançou em seu primeiro fim de semana em 2022, quando liderou as bilheterias.</p>\n\n<p>Apesar de trazer de volta <b>Ethan Hawke</b> como o assustador O Agarrador, o filme enfrenta um mercado cinematográfico diferente do que em 2022, um período desafiador para a indústria que viu o sucesso de poucas produções. Enquanto alguns filmes de terror originais como 'Sinners' e 'Weapons' tiveram bom desempenho, outros títulos de franquias como 'Eu Sei o Que Vocês Fizeram no Verão Passado' e 'O Lobisomem' lutaram para atrair o público.</p>\n\n<h2>Desempenho da Blumhouse e Expectativas para 'Black Phone 2'</h2>\n<p>A produtora Blumhouse, conhecida por sucessos no gênero, tem passado por um momento delicado com várias produções abaixo do esperado. A esperança agora está em <b>Black Phone 2</b> e na futura sequência de 'Five Nights at Freddy's' para reverter essa tendência, especialmente após os resultados de 'O Lobisomem' e 'M3GAN 2.0'.</p>\n\n<p>O filme, dirigido novamente por <b>Scott Derrickson</b>, abriu com críticas mistas, mas geralmente positivas. No agregador Rotten Tomatoes, detém uma pontuação de 74%, com o consenso da crítica destacando que a sequência "leva a sério as consequências de seu predecessor, sendo um filme assustador que extrai medos memoráveis e temas instigantes das cicatrizes que permanecem". O filme original, em comparação, obteve uma nota superior de 81%.</p>\n\n<p>Produzido com um orçamento estimado em US$ 30 milhões, <b>Black Phone 2</b> busca conquistar o público e recuperar o sucesso financeiro de seu antecessor. A trama acompanha Finn, que aos 17 anos lida com o trauma de seu sequestro, enquanto sua irmã enfrenta ligações aterrorizantes de um telefone preto. Ela tem visões de três meninos sendo perseguidos em um acampamento de inverno, em episódios que confundem a linha entre realidade e terror.</p>\n<figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/08/01757952_poster_w780.jpg\" alt=\"Pôster de Black Phone 2 com Ethan Hawke\"><figcaption>Pôster de Black Phone 2</figcaption></figure>",
+      "meta_description": "Sequência de terror 'Black Phone 2' projeta arrecadação de abertura abaixo do original, apesar das críticas positivas e retorno de Ethan Hawke.",
+      "focus_keyphrase": "Black Phone 2 bilheteria",
+      "related_keyphrases": [
+        "The Black Phone sequência",
+        "Ethan Hawke terror",
+        "Blumhouse bilheteria"
+      ],
+      "slug": "black-phone-2-bilheteria-estreia",
+      "categorias": [
+        {
+          "nome": "The Black Phone",
+          "grupo": "obras",
+          "evidence": "When <a href=\"https://collider.com/tag/the-black-phone/\">The Black Phone</a> debuted in 2022"
+        },
+        {
+          "nome": "Blumhouse",
+          "grupo": "editorias",
+          "evidence": "The production banner Blumhouse, meanwhile, has had a particularly difficult run"
+        }
+      ],
+      "tags_sugeridas": [
+        "black phone 2",
+        "the black phone",
+        "scott derrickson",
+        "ethan hawke",
+        "terror",
+        "bilheteria"
+      ],
+      "image_alt_texts": {
+        "01757952_poster_w780.jpg": "Pôster do filme Black Phone 2 com o título em destaque e uma imagem sombria."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Black Phone 2: Sequência decepciona em bilheteria na estreia | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Sequência de terror 'Black Phone 2' projeta arrecadação de abertura abaixo do original, apesar das críticas positivas e retorno de Ethan Hawke.",
+        "_yoast_wpseo_focuskw": "Black Phone 2 bilheteria",
+        "_yoast_news_keywords": "Black Phone 2, The Black Phone, Scott Derrickson, Ethan Hawke, terror, Blumhouse, bilheteria, cinema",
+        "_yoast_wpseo_opengraph-title": "Black Phone 2: Sequência decepciona em bilheteria na estreia",
+        "_yoast_wpseo_opengraph-description": "Sequência de terror 'Black Phone 2' projeta arrecadação de abertura abaixo do original, apesar das críticas positivas e retorno de Ethan Hawke.",
+        "_yoast_wpseo_twitter-title": "Black Phone 2: Sequência decepciona em bilheteria na estreia",
+        "_yoast_wpseo_twitter-description": "Sequência de terror 'Black Phone 2' projeta arrecadação de abertura abaixo do original, apesar das críticas positivas e retorno de Ethan Hawke."
+      }
+    },
+    {
+      "titulo_final": "Torre Negra: Filme de Stephen King com Idris Elba faz sucesso inesperado no streaming",
+      "conteudo_final": "<p>Dez anos após seu lançamento nos cinemas, a adaptação de <b>Stephen King</b>, <b>A Torre Negra</b>, estrelada por <b>Idris Elba</b> e <b>Matthew McConaughey</b>, ressurge nas paradas de sucesso do streaming globalmente. Embora tenha tido um desempenho modesto nos EUA via Netflix, o filme de ficção científica, faroeste e fantasia tem figurado no top 10 em diversos países, como França e Espanha.</p>\n\n<p>Lançado em 2017, <b>A Torre Negra</b> adaptou a renomada série de livros de King. A trama acompanha um jovem assombrado por visões de uma torre sombria em uma realidade alternativa, que se une ao guardião da torre para derrotar um bruxo maligno. O filme, dirigido por Nikolaj Arcel, também contou com Tom Taylor e Dennis Haysbert em seu elenco.</p>\n\n<h2>Desempenho Crítico e Financeiro de 'A Torre Negra'</h2>\n<p>Apesar do potencial, <b>A Torre Negra</b> foi amplamente criticado tanto pela imprensa especializada quanto pelo público. No agregador Rotten Tomatoes, o filme ostenta pontuações de 16% entre os críticos e 44% entre o público. Financeiramente, a produção também não atingiu as expectativas, arrecadando apenas US$ 113 milhões contra um orçamento de US$ 60 milhões, ficando aquém do ponto de equilíbrio estimado em US$ 120 milhões.</p>\n\n<p>Nikolaj Arcel, o diretor, posteriormente colaborou com Mads Mikkelsen em 'The Promised Land' (2023), outro sucesso de streaming. A jornada de Arcel no cinema inclui também trabalhos com Alicia Vikander, como em 'Umomento Real' (A Royal Affair).</p>\n\n<h2>Obras Recentes de Stephen King em Destaque</h2>\n<p>Enquanto <b>A Torre Negra</b> encontra nova vida no streaming, outras adaptações de Stephen King continuam a gerar novidades. Recentemente, 'The Long Walk', a mais nova obra do autor a chegar às telas, foi lançada em plataformas digitais em 21 de outubro. O filme tem recebido aclamação da crítica e do público, com sólidas pontuações de 88% e 85% no Rotten Tomatoes, respectivamente, e arrecadou mais de US$ 50 milhões com um orçamento modesto de US$ 20 milhões.</p>\n<figure><iframe src=\"https://www.youtube.com/embed/GjwfqXTebIY\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n<p><b>A Torre Negra</b> está disponível para streaming na Netflix nos Estados Unidos. Fique ligado para mais atualizações sobre o universo de Stephen King.</p>",
+      "meta_description": "Adaptação de Stephen King com Idris Elba, 'A Torre Negra' (2017) ganha força inesperada em plataformas de streaming ao redor do mundo.",
+      "focus_keyphrase": "A Torre Negra streaming",
+      "related_keyphrases": [
+        "Stephen King adaptações",
+        "Idris Elba filmes",
+        "A Torre Negra bilheteria"
+      ],
+      "slug": "torre-negra-idris-elba-streaming",
+      "categorias": [
+        {
+          "nome": "A Torre Negra",
+          "grupo": "obras",
+          "evidence": "2017 brought <a href=\"https://collider.com/tag/the-dark-tower/\">The Dark Tower</a> to the big screen"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "franquias",
+          "evidence": "One forgotten <a href=\"https://collider.com/tag/stephen-king/\">Stephen King</a> adaptation has resurfaced"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "The Dark Tower is streaming on Netflix in America"
+        }
+      ],
+      "tags_sugeridas": [
+        "a torre negra",
+        "stephen king",
+        "idris elba",
+        "matthew mcconaughey",
+        "netflix",
+        "filme de fantasia"
+      ],
+      "image_alt_texts": {
+        "dark-tower-poster.jpg": "Pôster do filme A Torre Negra com Idris Elba como o Pistoleiro e Matthew McConaughey como o Homem de Preto."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Torre Negra: Filme de Stephen King com Idris Elba tem sucesso no streaming | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Adaptação de Stephen King com Idris Elba, 'A Torre Negra' (2017) ganha força inesperada em plataformas de streaming ao redor do mundo.",
+        "_yoast_wpseo_focuskw": "A Torre Negra streaming",
+        "_yoast_news_keywords": "A Torre Negra, Stephen King, Idris Elba, Matthew McConaughey, Netflix, fantasia, faroeste, cinema",
+        "_yoast_wpseo_opengraph-title": "Torre Negra: Filme de Stephen King com Idris Elba tem sucesso no streaming",
+        "_yoast_wpseo_opengraph-description": "Adaptação de Stephen King com Idris Elba, 'A Torre Negra' (2017) ganha força inesperada em plataformas de streaming ao redor do mundo.",
+        "_yoast_wpseo_twitter-title": "Torre Negra: Filme de Stephen King com Idris Elba tem sucesso no streaming",
+        "_yoast_wpseo_twitter-description": "Adaptação de Stephen King com Idris Elba, 'A Torre Negra' (2017) ganha força inesperada em plataformas de streaming ao redor do mundo."
+      }
+    }
+  ]
+}

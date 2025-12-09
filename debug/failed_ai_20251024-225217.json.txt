@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Taylor Sheridan transforma Texas em novo centro de Hollywood com estúdio ambicioso",
+  "conteudo_final": "<p>A mudança de <b>Taylor Sheridan</b> e suas produções para o Texas não só impulsionou a economia local, mas também posicionou o estado como um novo polo de produção audiovisual, rivalizando com Hollywood. O criador de <i>Yellowstone</i> estabeleceu em Fort Worth um centro de operações que atrai bilhões em investimentos, transformando o apelido de “Hollywood South” em uma realidade concreta.</p><h2>Fort Worth: O Novo Coração da Indústria Cinematográfica</h2><p>A ascensão de Fort Worth como centro de produção está intrinsecamente ligada à visão de desenvolvedores como Ross Perot Jr. e Mike Berry, da Hillwood, a força motriz por trás do projeto AllianceTexas. Eles refletiram sobre como um projeto inicial de aeroporto evoluiu para uma região dinâmica e como a presença de Sheridan pode definir seu futuro. A estratégia de desenvolvimento urbano agora abraça a indústria cinematográfica.</p><p>“Você não pode ser uma grande cidade se não tiver grandes desenvolvedores”, afirmou Perot, destacando o papel dos estudantes da TCU no crescimento de Fort Worth. Berry complementou com o lema da Hillwood: “NML. Need more land.” (Precisamos de mais terra). A empolgação se intensificou quando o nome de Sheridan surgiu. Perot antecipou o potencial, dizendo: “Essa coisa de Taylor Sheridan é real. Toda a febre de <i>Yellowstone</i>. Vocês deveriam abraçar isso e criar uma estratégia de desenvolvimento econômico completa em torno disso”.</p><p>Berry admitiu seu ceticismo inicial, que desapareceu à medida que as séries de Sheridan conquistaram audiências globais e geraram centenas de milhões em receita local. “Com certeza, como ele faz na maioria das áreas, estando cinco ou dez anos à frente de todos, ele estava certo”, disse Berry. Perot explicou a lógica: “Você tem um cidadão de Fort Worth, Taylor Sheridan, e seus programas realmente ressoam com o público do Texas e dos EUA. É por isso que eu disse: ‘Este cara gera tanta atividade. Como o abraçamos como cidade? Como teremos filmagens aqui? E onde isso vai acontecer?’”</p><h2>SGS Studios: O Maior Complexo de Produção do Texas</h2><p>A resposta para a pergunta de Perot foi a construção da SGS Studios, um complexo de 450.000 pés quadrados, resultado da parceria entre a produtora de Sheridan, Hillwood e a Paramount Television. Localizada em Alliance, a SGS Studios se tornou o maior espaço de estúdio ativo no Texas, capaz de abrigar simultaneamente quatro produções em larga escala.</p><p>Hillwood e Sheridan investiram cerca de US$ 65 milhões no estúdio e colaboram com a TCU e escolas locais para formar a próxima geração de profissionais de cinema. O objetivo vai além de simplesmente construir um estúdio; trata-se de criar um ecossistema completo. “A SGS Studios não é apenas sobre soundstages ou incentivos fiscais – é sobre recuperar a independência e a garra que construíram essa indústria em primeiro lugar”, declarou Sheridan. “O Texas oferece algo raro: o espaço para sonhar grande, a liberdade para construir rápido e uma comunidade que ainda acredita que contar histórias importa.”</p><p>“Vocês têm sorte de morar no Texas”, disse Perot à plateia. “E sorte de estarem aqui na TCU.”</p><h2>Impacto de Sheridan em Séries e na Economia Local</h2><p>A influência de Sheridan é palpável. A série <b><a href=\"https://www.maquinanerd.com.br/tag/landman/\">Landman</a></b>, estrelada por Billy Bob Thornton, Ali Larter e Michelle Randolph (de <i>1923</i>), foi uma das produções mais recentes a filmar no local. A trama acompanha o executivo do petróleo Tommy Norris em sua jornada por ganância, ameaças de cartéis e o boom petrolífero do oeste do Texas. A primeira temporada estabeleceu recordes de streaming, tornando-se a estreia original mais assistida da Paramount+.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/12/landman-paramount-tv-show-updated-poster.jpg\" alt=\"Pôster atualizado da série Landman, com Billy Bob Thornton e Michelle Randolph.\"><figcaption>A série Landman, produzida por Taylor Sheridan, é um dos grandes sucessos filmados no novo complexo do Texas.</figcaption></figure>",
+  "meta_description": "Taylor Sheridan revoluciona a indústria cinematográfica ao transformar o Texas em um novo centro de produção audiovisual com o ambicioso projeto SGS Studios.",
+  "focus_keyphrase": "Taylor Sheridan Texas Hollywood",
+  "related_keyphrases": [
+    "Taylor Sheridan Hollywood South",
+    "SGS Studios Texas",
+    "Produção audiovisual Texas"
+  ],
+  "slug": "taylor-sheridan-texas-hollywood-producao",
+  "categorias": [
+    {
+      "nome": "Taylor Sheridan",
+      "grupo": "franquias",
+      "evidence": "Taylor Sheridan moved his productions to Texas"
+    },
+    {
+      "nome": "Landman",
+      "grupo": "obras",
+      "evidence": "Landman Season 2 is the most recent series"
+    },
+    {
+      "nome": "Yellowstone",
+      "grupo": "obras",
+      "evidence": "the Yellowstone creator’s footprint"
+    }
+  ],
+  "tags_sugeridas": [
+    "Taylor Sheridan",
+    "Yellowstone",
+    "Landman",
+    "Hollywood South",
+    "SGS Studios",
+    "Fort Worth",
+    "Produção Cinematográfica"
+  ],
+  "image_alt_texts": {
+    "landman-paramount-tv-show-updated-poster.jpg": "Pôster atualizado da série Landman, com Billy Bob Thornton e Michelle Randolph."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Taylor Sheridan transforma Texas em novo centro de Hollywood com estúdio ambicioso",
+    "_yoast_wpseo_metadesc": "Taylor Sheridan revoluciona a indústria cinematográfica ao transformar o Texas em um novo centro de produção audiovisual com o ambicioso projeto SGS Studios.",
+    "_yoast_wpseo_focuskw": "Taylor Sheridan Texas Hollywood",
+    "_yoast_news_keywords": "Taylor Sheridan, Texas, Hollywood, Hollywood South, SGS Studios, Yellowstone, Landman, Fort Worth, Produção Cinematográfica",
+    "_yoast_wpseo_opengraph-title": "Taylor Sheridan transforma Texas em novo centro de Hollywood com estúdio ambicioso",
+    "_yoast_wpseo_opengraph-description": "Taylor Sheridan revoluciona a indústria cinematográfica ao transformar o Texas em um novo centro de produção audiovisual com o ambicioso projeto SGS Studios.",
+    "_yoast_wpseo_twitter-title": "Taylor Sheridan transforma Texas em um novo centro de Hollywood com estúdio ambicioso",
+    "_yoast_wpseo_twitter-description": "Taylor Sheridan revoluciona a indústria cinematográfica ao transformar o Texas em um novo centro de produção audiovisual com o ambicioso projeto SGS Studios."
+  }
+}

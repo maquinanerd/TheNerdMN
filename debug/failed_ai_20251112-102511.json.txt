@@ -1,0 +1,128 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Arc Raiders adiciona modo Duplas e reduz preço de cosméticos",
+      "conteudo_final": "<p>O estúdio Embark anunciou que <strong><em>Arc Raiders</em></strong> agora conta com matchmaking para duplas e que o preço dos cosméticos da loja será reduzido. O jogo, lançado em 30 de outubro, se tornou um sucesso no gênero de tiro de extração, superando expectativas e até mesmo o recorde de jogadores simultâneos de <em>Helldivers 2</em>.</p><p>A desenvolvedora tem planos para adicionar novos mapas, missões e conteúdo nas próximas semanas. Atendendo ao feedback da comunidade, o modo de jogo agora prioriza o matchmaking para duplas. Anteriormente, os jogadores eram divididos em solos e trios. Com a atualização, o sistema buscará parear duplas com outras duplas, embora ainda possa haver encontros com grupos de tamanhos diferentes para agilizar o acesso às partidas.</p><h2>Arc Raiders recebe modo Duplas e skins mais baratas</h2><p>A Embark Studios confirmou que a prioridade para o matchmaking em duplas em <em>Arc Raiders</em> já está ativa. O anúncio foi feito via Twitter, detalhando que a mudança visa melhorar a experiência para jogadores que preferem atuar em duplas.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/20e8eb-1.JPG?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/20e8eb-1.JPG?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/20e8eb-1.JPG?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Arc Raiders Spaceport Departure Building Exterior" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/20e8eb-1.JPG?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/20e8eb-1.JPG?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>O jogo recebeu atualizações importantes após feedback da comunidade.</figcaption></figure><p>Além das mudanças no matchmaking, a Embark Studios também abordou o preço elevado dos cosméticos. A partir da próxima rotação da loja, em 13 de novembro, alguns itens terão seus preços reduzidos. Jogadores que já compraram cosméticos que terão o preço diminuído receberão a diferença de volta. A desenvolvedora também esclareceu que haverá futuras expansões de <b>Raider Decks</b>, com opções gratuitas e pagas. Apenas os decks gratuitos incluirão itens que influenciam a jogabilidade, enquanto os pagos serão focados em cosméticos, evitando problemas de pay-to-win.</p><h2>Novas atualizações e conteúdo para Arc Raiders</h2><p>A recepção positiva da comunidade a essas decisões indica um bom caminho para <em>Arc Raiders</em>. A desenvolvedora demonstra estar atenta às demandas dos jogadores, buscando equilibrar a experiência de jogo e a monetização.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/arc-raiders-queen.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/arc-raiders-queen.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/arc-raiders-queen.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Arc Raiders Queen" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/arc-raiders-queen.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/arc-raiders-queen.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>A desenvolvedora busca equilibrar conteúdo gratuito e pago.</figcaption></figure><p>O estúdio Embark Studios continua a planejar o futuro de <em>Arc Raiders</em>, com a promessa de mais conteúdo e ajustes baseados na interação com os jogadores. A estratégia de ouvir a comunidade e implementar mudanças significativas reforça o compromisso com a longevidade do jogo.</p>",
+      "meta_description": "Arc Raiders implementa matchmaking para duplas e reduz preços de cosméticos após feedback da comunidade. Veja os detalhes.",
+      "focus_keyphrase": "Arc Raiders modo duplas e cosméticos",
+      "related_keyphrases": [
+        "Arc Raiders atualizações",
+        "Embark Studios Arc Raiders",
+        "preço cosméticos Arc Raiders"
+      ],
+      "slug": "arc-raiders-modo-duplas-cosmeticos",
+      "categorias": [
+        {
+          "nome": "Arc Raiders",
+          "grupo": "franquias",
+          "evidence": "Arc Raiders"
+        }
+      ],
+      "tags_sugeridas": [
+        "arc-raiders",
+        "embark-studios",
+        "shooter-de-extração",
+        "atualização-de-jogo",
+        "cosméticos"
+      ],
+      "image_alt_texts": {
+        "20e8eb-1.JPG": "Exterior do prédio de partida do Espaçoporto em Arc Raiders.",
+        "arc-raiders-queen.jpg": "Personagem Queen em Arc Raiders, mostrando a arte do jogo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Arc Raiders: Modo Duplas e Cosméticos Mais Baratos Chegam ao Jogo",
+        "_yoast_wpseo_metadesc": "Arc Raiders implementa matchmaking para duplas e reduz preços de cosméticos após feedback da comunidade. Veja os detalhes.",
+        "_yoast_wpseo_focuskw": "Arc Raiders modo duplas e cosméticos",
+        "_yoast_news_keywords": "Arc Raiders, modo duplas, cosméticos, Embark Studios, atualização de jogo",
+        "_yoast_wpseo_opengraph-title": "Arc Raiders: Modo Duplas e Cosméticos Mais Baratos Chegam ao Jogo",
+        "_yoast_wpseo_opengraph-description": "Arc Raiders implementa matchmaking para duplas e reduz preços de cosméticos após feedback da comunidade. Veja os detalhes.",
+        "_yoast_wpseo_twitter-title": "Arc Raiders: Modo Duplas e Cosméticos Mais Baratos Chegam ao Jogo",
+        "_yoast_wpseo_twitter-description": "Arc Raiders implementa matchmaking para duplas e reduz preços de cosméticos após feedback da comunidade. Veja os detalhes."
+      }
+    },
+    {
+      "titulo_final": "Overwatch 2: Twitch Drops para atualização de meio de temporada",
+      "conteudo_final": "<p><em>Overwatch 2</em> lança uma nova campanha de Twitch Drops para a atualização de meio da Temporada 19. Os jogadores podem obter dois sprays temáticos e caixas de tesouro ao assistir a transmissões na plataforma.</p><p>Para participar, os jogadores precisam conectar suas contas Twitch e Battle.net. Ao assistir a qualquer streamer de <em>Overwatch 2</em> por até 9 horas, entre agora e 25 de novembro, é possível acumular recompensas. Os sprays inéditos apresentam um gato costurado, um urso de pelúcia e uma abóbora, complementando o tema do evento Spirit Showdown.</p><h2>Como obter os Twitch Drops de Overwatch 2</h2><p>A atualização de meio da Temporada 19 de <em>Overwatch 2</em> já está disponível, trazendo o novo recurso de História, ajustes de balanceamento e a skin Mítica Cyber Fuel para Junkrat. O modo de jogo Spirit Showdown, um deathmatch caótico, também foi introduzido.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/overwatch-2-mid-season-19-twitch-drops-cute-experiment-haunts-sprays.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/overwatch-2-mid-season-19-twitch-drops-cute-experiment-haunts-sprays.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/overwatch-2-mid-season-19-twitch-drops-cute-experiment-haunts-sprays.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Overwatch 2 Mid-Season 19 Twitch Drops Cute Experiment Haunts Sprays" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/overwatch-2-mid-season-19-twitch-drops-cute-experiment-haunts-sprays.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/overwatch-2-mid-season-19-twitch-drops-cute-experiment-haunts-sprays.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Novos sprays temáticos disponíveis através de Twitch Drops.</figcaption></figure><p>Os jogadores podem coletar os seguintes itens:</p><ul><li>1.5 horas de visualização: Spray Cute Experiment</li><li>3 horas de visualização: Spray Cute Haunts</li><li>5 horas de visualização: Caixa de Tesouro Comum</li><li>9 horas de visualização: Caixa de Tesouro Épica</li></ul><p>As caixas de tesouro obtidas são da Temporada 19 e serão abertas automaticamente com o início da Temporada 20, em 9 de dezembro. Para quem busca mais recompensas, de 26 a 30 de novembro, as transmissões da Overwatch Champions Series World Finals oferecerão mais caixas de tesouro, pulos de nível do Passe de Batalha e skins exclusivas da OWCS.</p><h2>Mais recompensas e eventos em Overwatch 2</h2><p>Além dos Twitch Drops, os jogadores podem obter uma Caixa de Tesouro Épica ao completar oito desafios do evento Spirit Showdown até 25 de novembro. De 20 a 23 de novembro, o evento Loot Hunt de Junkrat oferecerá até nove Caixas de Tesouro Comuns adicionais.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/overwatch-2-junkrat-s-loot-box-hunt-june-6-8.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/overwatch-2-junkrat-s-loot-box-hunt-june-6-8.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/overwatch-2-junkrat-s-loot-box-hunt-june-6-8.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Overwatch 2 Junkrat's Loot Box Hunt June 6 8" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/overwatch-2-junkrat-s-loot-box-hunt-june-6-8.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/06/overwatch-2-junkrat-s-loot-box-hunt-june-6-8.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>Eventos e desafios adicionais oferecem mais recompensas.</figcaption></figure><p>Essas iniciativas visam engajar a comunidade e recompensar os jogadores pela participação ativa, especialmente com a chegada de novos conteúdos e eventos sazonais em <em>Overwatch 2</em>.</p>",
+      "meta_description": "Overwatch 2 oferece Twitch Drops com sprays e caixas de tesouro na atualização de meio da Temporada 19. Saiba como obter as recompensas.",
+      "focus_keyphrase": "Overwatch 2 Twitch Drops",
+      "related_keyphrases": [
+        "Overwatch 2 Temporada 19",
+        "recompensas Twitch Overwatch 2",
+        "eventos Overwatch 2"
+      ],
+      "slug": "overwatch-2-twitch-drops-temporada-19",
+      "categorias": [
+        {
+          "nome": "Overwatch 2",
+          "grupo": "franquias",
+          "evidence": "Overwatch 2"
+        }
+      ],
+      "tags_sugeridas": [
+        "overwatch-2",
+        "twitch-drops",
+        "blizzard-entertainment",
+        "fps",
+        "e-sports"
+      ],
+      "image_alt_texts": {
+        "overwatch-2-mid-season-19-twitch-drops-cute-experiment-haunts-sprays.jpg": "Overwatch 2: Sprays Cute Experiment e Cute Haunts disponíveis como Twitch Drops.",
+        "overwatch-2-junkrat-s-loot-box-hunt-june-6-8.jpg": "Overwatch 2: Caixa de tesouro de Junkrat, parte de um evento de caça."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Overwatch 2: Twitch Drops para Atualização de Meio de Temporada",
+        "_yoast_wpseo_metadesc": "Overwatch 2 oferece Twitch Drops com sprays e caixas de tesouro na atualização de meio da Temporada 19. Saiba como obter as recompensas.",
+        "_yoast_wpseo_focuskw": "Overwatch 2 Twitch Drops",
+        "_yoast_news_keywords": "Overwatch 2, Twitch Drops, Temporada 19, Blizzard Entertainment, FPS",
+        "_yoast_wpseo_opengraph-title": "Overwatch 2: Twitch Drops para Atualização de Meio de Temporada",
+        "_yoast_wpseo_opengraph-description": "Overwatch 2 oferece Twitch Drops com sprays e caixas de tesouro na atualização de meio da Temporada 19. Saiba como obter as recompensas.",
+        "_yoast_wpseo_twitter-title": "Overwatch 2: Twitch Drops para Atualização de Meio de Temporada",
+        "_yoast_wpseo_twitter-description": "Overwatch 2 oferece Twitch Drops com sprays e caixas de tesouro na atualização de meio da Temporada 19. Saiba como obter as recompensas."
+      }
+    },
+    {
+      "titulo_final": "Sonic Racing: CrossWorlds anuncia DLC de Bob Esponja e mais personagens",
+      "conteudo_final": "<p><em>Sonic Racing: CrossWorlds</em> anuncia que o DLC de <em>SpongeBob Squarepants</em> será lançado em 19 de novembro de 2025. Além disso, o jogo revelou três novos personagens gratuitos que chegarão em breve ao elenco de corredores.</p><p>O conteúdo adicional de <em>SpongeBob Squarepants</em> trará o próprio Bob Esponja e Patrick Estrela como personagens jogáveis. O pacote inclui uma nova pista ambientada em Bikini Bottom, o veículo Patty Wagon, seis emotes para cada personagem e músicas inspiradas em <em>SpongeBob</em>. Este DLC faz parte da Onda 2 do passe de temporada de <em>Sonic Racing: CrossWorlds</em> e também poderá ser adquirido separadamente.</p><h2>Novos personagens gratuitos e DLCs para Sonic Racing: CrossWorlds</h2><p>Antes do fim de 2025 e para iniciar 2026, o jogo receberá mais personagens gratuitos. Em dezembro, NiGHTS, do clássico jogo de 1996 da Sega, será adicionado como personagem jogável, acompanhado pelo veículo Dream Sleeper. Em janeiro de 2026, AiAi, de <em>Super Monkey Ball</em>, chegará com o veículo Banana Cruiser.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Sonic Racing: CrossWorlds - Bob Esponja Squarepants" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>O crossover com Bob Esponja chega em novembro de 2025.</figcaption></figure><p>Em fevereiro de 2026, as personagens Tangle e Whisper, do universo <em>Sonic</em>, também serão adicionadas como corredoras jogáveis, embora sem anúncio de veículo específico. A Sega planeja lançar o jogo para o Switch 2 ainda em 2025, o que deve atrair mais jogadores.</p><h2>Conteúdo futuro e pedidos da comunidade</h2><p>A Sega também indicou planos para DLCs futuros baseados em franquias como <em>Pac-Man</em> e <em>Mega Man</em>, além de outros ainda não revelados. A desenvolvedora abriu um canal para que os jogadores sugiram quais personagens gostariam de ver em <em>Sonic Racing: CrossWorlds</em>, indicando um forte suporte contínuo para o jogo e a possibilidade de mais rostos conhecidos se juntarem ao elenco.</p><figure><picture><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Sonic Racing: CrossWorlds - Bob Esponja Squarepants" data-img-url="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" loading="lazy" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/></picture><figcaption>O jogo receberá conteúdo de diversas franquias populares.</figcaption></figure><p>A estratégia da Sega de incorporar personagens de outras franquias em <em>Sonic Racing: CrossWorlds</em> visa expandir o apelo do jogo e atrair novos públicos, mantendo a base de fãs engajada com novidades constantes.</p>",
+      "meta_description": "Sonic Racing: CrossWorlds anuncia DLC de Bob Esponja para 19 de novembro de 2025 e mais personagens gratuitos. Veja os detalhes.",
+      "focus_keyphrase": "Sonic Racing CrossWorlds DLC Bob Esponja",
+      "related_keyphrases": [
+        "Sonic Racing CrossWorlds personagens",
+        "DLC Sonic Racing CrossWorlds",
+        "jogos de corrida crossover"
+      ],
+      "slug": "sonic-racing-crossworlds-dlc-bob-esponja",
+      "categorias": [
+        {
+          "nome": "Sonic Racing: CrossWorlds",
+          "grupo": "franquias",
+          "evidence": "Sonic Racing: CrossWorlds"
+        },
+        {
+          "nome": "Bob Esponja Calça Quadrada",
+          "grupo": "franquias",
+          "evidence": "SpongeBob Squarepants"
+        }
+      ],
+      "tags_sugeridas": [
+        "sonic-racing-crossworlds",
+        "bob-esponja",
+        "sega",
+        "dlc",
+        "jogos-de-corrida"
+      ],
+      "image_alt_texts": {
+        "sonic-racing-crossworlds-spongebob-squarepants-game-rant.jpg": "Sonic Racing: CrossWorlds anuncia DLC de Bob Esponja com personagens e pistas novas."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Sonic Racing: CrossWorlds Anuncia DLC de Bob Esponja e Mais Personagens",
+        "_yoast_wpseo_metadesc": "Sonic Racing: CrossWorlds anuncia DLC de Bob Esponja para 19 de novembro de 2025 e mais personagens gratuitos. Veja os detalhes.",
+        "_yoast_wpseo_focuskw": "Sonic Racing CrossWorlds DLC Bob Esponja",
+        "_yoast_news_keywords": "Sonic Racing CrossWorlds, Bob Esponja, DLC, Sega, jogos de corrida",
+        "_yoast_wpseo_opengraph-title": "Sonic Racing: CrossWorlds Anuncia DLC de Bob Esponja e Mais Personagens",
+        "_yoast_wpseo_opengraph-description": "Sonic Racing: CrossWorlds anuncia DLC de Bob Esponja para 19 de novembro de 2025 e mais personagens gratuitos. Veja os detalhes.",
+        "_yoast_wpseo_twitter-title": "Sonic Racing: CrossWorlds Anuncia DLC de Bob Esponja e Mais Personagens",
+        "_yoast_wpseo_twitter-description": "Sonic Racing: CrossWorlds anuncia DLC de Bob Esponja para 19 de novembro de 2025 e mais personagens gratuitos. Veja os detalhes."
+      }
+    }
+  ]
+}

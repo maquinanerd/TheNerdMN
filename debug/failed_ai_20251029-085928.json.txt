@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Pokémon Legends: Z-A: Vinhedos Low-Poly Geram Comparações com Final Fantasy 14",
+  "conteudo_final": "<p>Alguns jogadores notaram semelhanças visuais entre os vinhedos de <b>Pokémon Legends: Z-A</b> e os infames 'uvas low-poly' de <b>Final Fantasy 14</b>. As uvas de Final Fantasy 14 são conhecidas por sua aparência simples, sem profundidade ou textura, tornando-se um meme recorrente na comunidade do MMO da Square Enix.</p><p>A Square Enix até brinca com o meme, não incluindo as uvas na recente grande atualização gráfica do jogo. Em 2023, uma réplica física das uvas foi oferecida como prêmio em um evento para fãs.</p><p>Observadores apontaram que os vinhedos em Pokémon Legends: Z-A apresentam uvas planas sobrepostas a uma textura de videira igualmente plana. Essa característica se alinha com o estilo visual de <b>Pokémon Legends: Z-A</b>, um jogo com superfícies visivelmente bidimensionais e pouca profundidade, similar ao que se vê em ambientes de RPGs mais antigos.</p><figure><img src=\"https:
+  "meta_description": "Pokémon Legends: Z-A tem seus vinhedos comparados às famosas uvas low-poly de Final Fantasy 14. O jogo, ambientado em Lumiose City, recebe elogios apesar das críticas visuais.",
+  "focus_keyphrase": "Pokémon Legends: Z-A uvas low-poly",
+  "related_keyphrases": [
+    "Pokémon Legends: Z-A visuais",
+    "Final Fantasy 14 uvas meme",
+    "Game Freak visuais Switch"
+  ],
+  "slug": "pokemon-legends-z-a-compara-ff14",
+  "categorias": [
+    {
+      "nome": "Pokémon Legends: Z-A",
+      "grupo": "obras",
+      "evidence": "Pokémon Legends: Z-A's vineyards"
+    },
+    {
+      "nome": "Final Fantasy 14",
+      "grupo": "obras",
+      "evidence": "Final Fantasy 14's infamous low-poly grapes"
+    },
+    {
+      "nome": "Game Freak",
+      "grupo": "editorias",
+      "evidence": "Game Freak has been continuously criticised"
+    }
+  ],
+  "tags_sugeridas": [
+    "Pokémon Legends Z-A",
+    "Final Fantasy 14",
+    "Game Freak",
+    "Nintendo Switch",
+    "MMORPG",
+    "RPG"
+  ],
+  "image_alt_texts": {
+    "pokemon-legends-z-a-low-poly-grapes.jpg": "Vinhedos com uvas low-poly em Pokémon Legends: Z-A.",
+    "pokemon-z-a-cover-art-1.jpg": "Capa de Pokémon Legends: Z-A."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Pokémon Legends: Z-A: Vinhedos Low-Poly Geram Comparações com Final Fantasy 14",
+    "_yoast_wpseo_metadesc": "Pokémon Legends: Z-A tem seus vinhedos comparados às famosas uvas low-poly de Final Fantasy 14. O jogo, ambientado em Lumiose City, recebe elogios apesar das críticas visuais.",
+    "_yoast_wpseo_focuskw": "Pokémon Legends: Z-A uvas low-poly",
+    "_yoast_news_keywords": "Pokémon Legends Z-A, Final Fantasy 14, Game Freak, Nintendo, RPG, Uvas Low-Poly",
+    "_yoast_wpseo_opengraph-title": "Pokémon Legends: Z-A: Vinhedos Low-Poly Geram Comparações com Final Fantasy 14",
+    "_yoast_wpseo_opengraph-description": "Jogadores de Pokémon Legends: Z-A notam semelhanças nos vinhedos com os infames gráficos low-poly de Final Fantasy 14. Entenda a comparação e a recepção do jogo.",
+    "_yoast_wpseo_twitter-title": "Pokémon Legends: Z-A: Vinhedos Low-Poly Geram Comparações com Final Fantasy 14",
+    "_yoast_wpseo_twitter-description": "Jogadores de Pokémon Legends: Z-A notam semelhanças nos vinhedos com os infames gráficos low-poly de Final Fantasy 14. Entenda a comparação e a recepção do jogo."
+  }
+}

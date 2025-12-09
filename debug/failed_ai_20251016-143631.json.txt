@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Mad Men: A única coisa que Don Draper acertou no seu casamento com Megan",
+      "conteudo_final": "<p>No conturbado casamento com Megan Calvet (Jessica Pare) em <strong>Mad Men</strong>, Don Draper (Jon Hamm) fez apenas uma coisa certa. Megan entrou para a série na quarta temporada, inicialmente como secretária de Don, e o casal ficou noivo no final daquela temporada, casando-se no início da quinta.</p>\n<h2>Don Draper Revelou a Megan que Ele é Dick Whitman</h2>\n<p>O casamento anterior de Don com Betty Draper (January Jones) durou uma década, mas terminou após Betty descobrir a verdade sobre a identidade de Don. Ele nasceu como Dick Whitman e assumiu a identidade do Tenente Don Draper para escapar da Guerra da Coreia.</p>\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n<p>Betty eventualmente descobriu tudo que Don escondia, incluindo seu primeiro casamento com Anna Draper, a viúva do verdadeiro Don Draper. Don, por sua vez, aprendeu uma lição valiosa sobre o que arruinou seu primeiro casamento.</p>\n<p>É notável que Don Draper tenha contado a Megan que era Dick Whitman antes de se casarem. Megan já sabia e chegou a dizer a Don em seu aniversário de 40 anos que “Ninguém ama Dick Whitman”. A confissão ocorreu entre a quarta e a quinta temporada, e Megan aceitou a verdade sobre a verdadeira identidade de Don.</p>\n<p>A admissão de Don sobre ter assumido a identidade de outro homem parece ter dissipado a confusão de Megan sobre o motivo pelo qual Don ficou tão apreensivo quando um questionário governamental continha informações fraudulentas sobre sua identidade.</p>\n<p>Don compreendeu totalmente a dor e a fúria de Betty por ele nunca ter revelado que era Dick Whitman. Ele sabiamente não repetiu o mesmo erro com Megan.</p>\n<p>Don chegou a dizer à sua filha, Sally (Kiernan Shipka), que seu nome é “Dick”, embora seus filhos com Betty não soubessem totalmente a verdade sobre a vida do pai. No entanto, Don os informou gradualmente, especialmente Sally.</p>\n<h2>O Fim do Casamento com Megan foi Mais Triste que o Divórcio de Betty</h2>\n<p>Don Draper passou todo o seu relacionamento com Betty omitindo informações e causando-lhe dor emocional, enquanto ela suspeitava corretamente de suas constantes infidelidades. No entanto, de certa forma, o fim do casamento de Don com Megan foi ainda mais doloroso.</p>\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n<p>Na quinta temporada de <strong>Mad Men</strong>, Don estava em uma fase de “licença de amor” e parecia ser um novo homem, completamente apaixonado por sua jovem esposa. No entanto, Don tentou controlar Megan, e seu encanto por ela diminuiu quando ela deixou a Sterling Cooper Draper Pryce para seguir a carreira de atriz.</p>\n<p>Don gostava de ter Megan em sua vida tanto no trabalho quanto em casa. Ele interpretou a mudança de carreira dela como uma rejeição à publicidade, e consequentemente, uma rejeição a ele.</p>\n<p>Megan era uma mulher muito diferente de Betty, mas Don acabou voltando aos seus velhos hábitos no final da quinta temporada. Na sexta temporada, Don estava ativamente traindo Megan. Eles se distanciaram e se divorciaram antes do fim de <strong>Mad Men</strong> na sétima temporada.</p>\n<p>Contudo, Don Draper agiu corretamente ao contar a Megan que era Dick Whitman antes da quinta temporada de <strong>Mad Men</strong>. Don decidiu não repetir o grande erro que cometeu com Betty, mas acabou cometendo muitos outros erros semelhantes que levaram ao fim de seu casamento com Megan.</p>",
+      "meta_description": "Descubra a única coisa que Don Draper fez corretamente em seu tumultuado casamento com Megan Calvet em Mad Men, uma análise profunda da série.",
+      "focus_keyphrase": "Don Draper Megan Mad Men",
+      "related_keyphrases": [
+        "Casamento Don Draper",
+        "Mad Men Megan Calvet",
+        "Don Draper Dick Whitman"
+      ],
+      "slug": "don-draper-casamento-megan-mad-men",
+      "categorias": [
+        {
+          "nome": "Mad Men",
+          "grupo": "obras",
+          "evidence": "Megan joined <em>Mad Men</em> in season 4"
+        },
+        {
+          "nome": "Don Draper",
+          "grupo": "personagens",
+          "evidence": "Don Draper (Jon Hamm)"
+        },
+        {
+          "nome": "Megan Calvet",
+          "grupo": "personagens",
+          "evidence": "Megan Calvet (Jessica Pare)"
+        }
+      ],
+      "tags_sugeridas": [
+        "mad-men",
+        "don-draper",
+        "jon-hamm",
+        "jessica-pare",
+        "dick-whitman",
+        "tv-drama"
+      ],
+      "image_alt_texts": {
+        "don-draper-and-megan-in-his-office.jpg": "Don Draper e Megan em seu escritório, discutindo.",
+        "megan-and-don-draper-divorce.jpg": "Don Draper e Megan em cena que sugere o divórcio.",
+        "0373995_poster_w780.jpg": "Pôster oficial da série Mad Men."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Mad Men: Don Draper e Megan – O Casamento e Seus Erros",
+        "_yoast_wpseo_metadesc": "Análise de Mad Men foca na única decisão correta de Don Draper em seu casamento com Megan Calvet, explorando os erros que levaram ao divórcio.",
+        "_yoast_wpseo_focuskw": "Don Draper Megan Mad Men",
+        "_yoast_news_keywords": "Mad Men,Don Draper,Megan Calvet,Jon Hamm,Jessica Pare,Dick Whitman, AMC",
+        "_yoast_wpseo_opengraph-title": "Mad Men: Don Draper e Megan – O Casamento e Seus Erros",
+        "_yoast_wpseo_opengraph-description": "Análise de Mad Men foca na única decisão correta de Don Draper em seu casamento com Megan Calvet, explorando os erros que levaram ao divórcio.",
+        "_yoast_wpseo_twitter-title": "Mad Men: Don Draper e Megan – O Casamento e Seus Erros",
+        "_yoast_wpseo_twitter-description": "Análise de Mad Men foca na única decisão correta de Don Draper em seu casamento com Megan Calvet, explorando os erros que levaram ao divórcio."
+      }
+    }
+  ]
+}

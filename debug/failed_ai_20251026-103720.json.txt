@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "O Susto da Criançada: O Episódio Mais Assustador de \"Are You Afraid of the Dark?\"",
+      "conteudo_final": "<p>A série de antologia de terror infantil <b>Are You Afraid of the Dark?</b>, que estreou em 1992, cativou audiências com histórias assustadoras contadas pela Sociedade da Meia-Noite. Apesar de ser voltada para crianças, um episódio em particular se destaca por seu fator de medo duradouro.</p><h2>O Conto do Ghastly Grinner: O Episódio Mais Assustador</h2>\n<figure>\n<picture>\n<source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/the-ghastly-grinner-from-are-you-afraid-of-the-dark.jpg?q=70&fit=crop&w=825&dpr=1\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/the-ghastly-grinner-from-are-you-afraid-of-the-dark.jpg?q=70&fit=crop&w=825&dpr=1\"/>\n<img alt=\"O Ghastly Grinner de Are You Afraid of the Dark.\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/the-ghastly-grinner-from-are-you-afraid-of-the-dark.jpg?q=70&fit=crop&w=825&dpr=1\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/the-ghastly-grinner-from-are-you-afraid-of-the-dark.jpg?q=70&fit=crop&w=825&dpr=1\"/>\n</picture>\n<figcaption>Aparência sinistra do Ghastly Grinner no episódio.</figcaption>\n</figure>\n<p>Na quarta temporada, o episódio <b>\"O Conto do Ghastly Grinner\"</b> apresentou um dos vilões mais memoráveis e aterrorizantes. A história gira em torno de Ethan Wood, um adolescente aspirante a artista de quadrinhos que se depara com uma cópia rara e amaldiçoada de uma história em quadrinhos sobre o Ghastly Grinner.</p>\n<p>O Ghastly Grinner é retratado como um coringa sinistro, uma entidade maligna que, após ser liberada de forma acidental, começa a aterrorizar a cidade. A maldição afeta suas vítimas, transformando-as em indivíduos que riem incontrolavelmente e babam uma gosma azul, incluindo os pais de Ethan.</p>\n<h2>O Medo Universal em \"O Conto do Ghastly Grinner\"</h2>\n<figure>\n<picture>\n<source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/screenrant-sandbox-2024-08-11t221955-858.jpg?q=70&fit=crop&w=825&dpr=1\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/screenrant-sandbox-2024-08-11t221955-858.jpg?q=70&fit=crop&w=825&dpr=1\"/>\n<img alt=\"O Ghastly Grinner sorrindo de forma assustadora.\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/screenrant-sandbox-2024-08-11t221955-858.jpg?q=70&fit=crop&w=825&dpr=1\" decoding=\"async\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/screenrant-sandbox-2024-08-11t221955-858.jpg?q=70&fit=crop&w=825&dpr=1\"/>\n</picture>\n<figcaption>A ameaça constante do Ghastly Grinner.</figcaption>\n</figure>\n<p>O que torna este episódio particularmente assustador é como ele explora medos infantis comuns, como palhaços, mímicos e a sensação de desamparo diante de adultos que não conseguem proteger as crianças. Ethan e sua amiga Hooper se encontram sozinhos contra uma força sobrenatural, enquanto os adultos ao seu redor sucumbem à influência do monstro.</p>\n<p>A série <b>Are You Afraid of the Dark?</b> é frequentemente elogiada por sua capacidade de agradar a todas as idades, abordando temas e medos universais. Mesmo com o passar dos anos, os elementos de terror e as histórias continuam ressonantes, garantindo sua alta rejogabilidade.</p>\n<h2>Legado e Recepção</h2>\n<p>A série <b>Are You Afraid of the Dark?</b>, original de D. J. MacHale e Ned Kandel, conquistou um lugar especial na história da TV infantil com sua abordagem única ao terror. Os episódios, repletos de elementos de ficção científica, fantasia e drama, provam que o medo pode ser explorado de forma criativa e eficaz.</p>\n<p>O episódio \"O Conto do Ghastly Grinner\" permanece como um exemplo notável da capacidade da série de criar momentos de suspense e pavor genuínos, solidificando seu status como um clássico do gênero.</p>",
+      "meta_description": "Explore por que \"O Conto do Ghastly Grinner\" de Are You Afraid of the Dark? é considerado um dos episódios mais assustadores da TV infantil.",
+      "focus_keyphrase": "Are You Afraid of the Dark?",
+      "related_keyphrases": [
+        "O Conto do Ghastly Grinner",
+        "Séries de terror infantil",
+        "Clássicos da TV"
+      ],
+      "slug": "are-you-afraid-of-the-dark-episodio-assustador",
+      "categorias": [
+        {
+          "nome": "Are You Afraid of the Dark?",
+          "grupo": "obras",
+          "evidence": "Are You Afraid of the Dark? is one of the best horror TV shows of all time"
+        },
+        {
+          "nome": "Ghastly Grinner",
+          "grupo": "personagens",
+          "evidence": "In its fourth season, the show brought its scariest episode in “The Tale of the Ghastly Grinner.”"
+        }
+      ],
+      "tags_sugeridas": [
+        "Are You Afraid of the Dark?",
+        "O Conto do Ghastly Grinner",
+        "Terror Infantil",
+        "Clássicos da TV",
+        "Anos 90",
+        "Episódios Assustadores"
+      ],
+      "image_alt_texts": {
+        "the-ghastly-grinner-from-are-you-afraid-of-the-dark.jpg": "O Ghastly Grinner, vilão de 'Are You Afraid of the Dark?', com sua aparência sinistra.",
+        "screenrant-sandbox-2024-08-11t221955-858.jpg": "O Ghastly Grinner em uma pose ameaçadora, destacando seu rosto assustador em 'Are You Afraid of the Dark?'.",
+        "038661_poster_w780.jpg": "Pôster da série 'Are You Afraid of the Dark?', mostrando o tom sombrio da produção."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Are You Afraid of the Dark?: O Episódio Mais Assustador Já Feito | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra por que \"O Conto do Ghastly Grinner\" de Are You Afraid of the Dark? é um dos episódios mais assustadores da TV infantil.",
+        "_yoast_wpseo_focuskw": "Are You Afraid of the Dark?",
+        "_yoast_news_keywords": "Are You Afraid of the Dark?, Ghastly Grinner, Terror Infantil, Anos 90, Séries de TV, Nickleodeon",
+        "_yoast_wpseo_opengraph-title": "Are You Afraid of the Dark?: O Episódio Mais Assustador Já Feito",
+        "_yoast_wpseo_opengraph-description": "Explore por que \"O Conto do Ghastly Grinner\" de Are You Afraid of the Dark? é um dos episódios mais assustadores da TV infantil.",
+        "_yoast_wpseo_twitter-title": "Are You Afraid of the Dark?: O Episódio Mais Assustador Já Feito",
+        "_yoast_wpseo_twitter-description": "Explore por que \"O Conto do Ghastly Grinner\" de Are You Afraid of the Dark? é um dos episódios mais assustadores da TV infantil."
+      }
+    }
+  ]
+}

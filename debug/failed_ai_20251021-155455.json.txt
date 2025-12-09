@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jeremy Irons confessa frustração com design de Scar em \"O Rei Leão\"",
+      "conteudo_final": "<p>Jeremy Irons, o icônico dublador de Scar em <b>O Rei Leão</b> da Disney, revelou em entrevista que ficou “realmente chateado” com o design final de seu personagem. O filme, que arrecadou quase US$ 1 bilhão globalmente em suas diversas exibições, contou com Irons dando voz ao astuto irmão de Mufasa, interpretado por James Earl Jones.</p>\n\n<h2>A expectativa de Irons sobre o visual de Scar</h2>\n\n<p>Durante o processo de gravação, Irons acreditava que o design de Scar seria inspirado em sua própria aparência. Ele relata que, ao entrar no estúdio, câmeras de vídeo o filmavam e artistas o esboçavam. Essa percepção o levou a crer que sua imagem seria a base para a animação do vilão.</p>\n\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/C6tFOjXdOJY\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n\n<p>“Eu imaginei que veria uma tela com um leão fazendo [certos movimentos], e eu teria que tentar fazer minha boca fazer aquilo”, explicou Irons em entrevista à GQ. Ele recorda ter participado de sessões onde era filmado e esboçado, alimentando a expectativa de que o personagem refletiria sua própria fisionomia.</p>\n\n<h2>A decepção com o resultado final</h2>\n\n<p>Ao assistir ao filme pela primeira vez, Irons ficou desapontado ao constatar que Scar era retratado como um leão “desgrenhado”, com uma “cauda e juba terríveis”, em contraste com a imagem “musculosa e maravilhosa” de Mufasa. A discrepância o fez questionar se era essa a imagem que os animadores tiveram dele durante os esboços.</p>\n\n<p>A frustração aumentou durante a estreia do filme no Radio City Music Hall, quando o público reagiu com euforia à morte de Scar. Irons expressou perplexidade com a alegria da plateia pela morte de um personagem que ele considerava “maravilhoso”, questionando a reação dos espectadores.</p>\n\n<p>“Fiquei muito, muito chateado”, confessou, ao comparar seu visual com o de Mufasa. “E ainda mais, é claro, quando vimos no Radio City Music Hall para a estreia. E quando ele morre no final, toda a audiência se levantou e rugiu. E eu pensei, isso não é possível. Ele era um personagem maravilhoso. Por que vocês estão tão felizes?”</p>\n\n<h2>O legado de Scar e a experiência do ator</h2>\n\n<p>Apesar das ressalvas quanto ao design, Irons classificou a experiência de dublar Scar como “ótima” e “muito livre”. O ator recebeu um telefonema de Jeffrey Katzenberg, então presidente da Disney, que o parabenizou pelo papel, atribuindo a Scar uma “grande parte” do sucesso de <b>O Rei Leão</b>. No entanto, diferente de Robin Williams após dublar Gênio em Aladdin, Irons não recebeu um presente especial da Disney.</p>\n\n<p>O sucesso de <b>O Rei Leão</b> não se limitou à sua performance original, impulsionando uma franquia que inclui sequências como <b>O Rei Leão 2: O Reinado de Simba</b> e <b>O Rei Leão 1½</b>, séries de TV, remakes e uma adaptação da Broadway vencedora do Tony Awards. Mesmo com a insatisfação inicial, o legado de Jeremy Irons como Scar é inegável, consolidando o personagem como um dos vilões mais memoráveis da Disney.</p>",
+      "meta_description": "Jeremy Irons revela ter ficado chateado com o design de Scar em \"O Rei Leão\", mas reconhece o sucesso do vilão e do filme.",
+      "focus_keyphrase": "Jeremy Irons Scar O Rei Leão",
+      "related_keyphrases": [
+        "design de Scar",
+        "dublagem O Rei Leão",
+        "Jeremy Irons Disney"
+      ],
+      "slug": "jeremy-irons-scar-o-rei-leao-design",
+      "categorias": [
+        {
+          "nome": "O Rei Leão",
+          "grupo": "obras",
+          "evidence": "O Rei Leão"
+        },
+        {
+          "nome": "Jeremy Irons",
+          "grupo": "obras",
+          "evidence": "Jeremy Irons"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "franquias",
+          "evidence": "Disney"
+        }
+      ],
+      "tags_sugeridas": [
+        "o rei leão",
+        "jeremy irons",
+        "scar",
+        "disney",
+        "animação",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "the-lion-king-1994-poster.jpg": "Poster oficial do filme \"O Rei Leão\" (1994) com Simba, Scar e outros personagens.",
+        "instar51356371.jpg": "Foto de Matthew Broderick, dublador de Simba em \"O Rei Leão\".",
+        "instar50557024.jpg": "Foto de Moira Kelly, dubladora de Nala em \"O Rei Leão\"."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jeremy Irons confessa frustração com design de Scar em \"O Rei Leão\"",
+        "_yoast_wpseo_metadesc": "Jeremy Irons revela ter ficado chateado com o design de Scar em \"O Rei Leão\", mas reconhece o sucesso do vilão e do filme.",
+        "_yoast_wpseo_focuskw": "Jeremy Irons Scar O Rei Leão",
+        "_yoast_news_keywords": "O Rei Leão, Jeremy Irons, Scar, Disney, animação, cinema",
+        "_yoast_wpseo_opengraph-title": "Jeremy Irons confessa frustração com design de Scar em \"O Rei Leão\"",
+        "_yoast_wpseo_opengraph-description": "Jeremy Irons revela ter ficado chateado com o design de Scar em \"O Rei Leão\", mas reconhece o sucesso do vilão e do filme.",
+        "_yoast_wpseo_twitter-title": "Jeremy Irons confessa frustração com design de Scar em \"O Rei Leão\"",
+        "_yoast_wpseo_twitter-description": "Jeremy Irons revela ter ficado chateado com o design de Scar em \"O Rei Leão\", mas reconhece o sucesso do vilão e do filme."
+      }
+    }
+  ]
+}

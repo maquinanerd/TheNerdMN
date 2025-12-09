@@ -1,0 +1,56 @@
+{
+  "titulo_final": "Oscars 2026: Paul Thomas Anderson é o favorito para Melhor Diretor",
+  "conteudo_final": "<p>A disputa pelo Oscar de Melhor Diretor em 2026 promete ser acirrada, reunindo alguns dos maiores talentos de Hollywood. Um ano após a vitória de Sean Baker por <em>Anora</em>, a expectativa para a 98ª edição da premiação já começa a se formar.</p><p>Os melhores filmes de 2025 já demonstraram a força criativa dos cineastas atuais, com novos trabalhos de nomes como Bong Joon-ho, Ryan Coogler, Paul Greengrass, Mike Flanagan, Paul Thomas Anderson, Steven Soderbergh, Danny Boyle e Spike Lee. Embora nem todos tenham chances reais de serem indicados, a lista de potenciais concorrentes é robusta.</p><p>A corrida se intensifica com a presença de múltiplos vencedores anteriores do Oscar de Melhor Diretor, incluindo duas das três mulheres que já conquistaram a estatueta nesta categoria. A data de anúncio dos indicados, 22 de janeiro de 2026, se aproxima, prometendo uma disputa emocionante.</p><h2>Principais Candidatos ao Oscar de Melhor Diretor 2026</h2><p>No momento, alguns nomes parecem firmemente posicionados para a disputa. Considerando o desempenho dos filmes em bilheteria e festivais, o histórico dos cineastas e a recepção crítica, as seguintes indicações para Melhor Diretor no Oscar 2026 são as mais prováveis:</p><figure><img src=\"https:
+  "meta_description": "Previsões para o Oscar 2026 de Melhor Diretor: confira os favoritos, candidatos e o provável vencedor da cobiçada estatueta.",
+  "focus_keyphrase": "Oscar Melhor Diretor 2026",
+  "related_keyphrases": [
+    "previsões Oscar 2026",
+    "Paul Thomas Anderson Oscar",
+    "Chloé Zhao Oscar"
+  ],
+  "slug": "oscar-melhor-diretor-2026-previsoes",
+  "categorias": [
+    {
+      "nome": "Oscars",
+      "grupo": "franquias",
+      "evidence": "<strong>Oscars 2026</strong>"
+    },
+    {
+      "nome": "One Battle After Another",
+      "grupo": "obras",
+      "evidence": "<em>One Battle After Another</em>"
+    },
+    {
+      "nome": "Hamnet",
+      "grupo": "obras",
+      "evidence": "<em>Hamnet</em>"
+    }
+  ],
+  "tags_sugeridas": [
+    "Oscar",
+    "Melhor Diretor",
+    "Paul Thomas Anderson",
+    "Chloé Zhao",
+    "Ryan Coogler",
+    "Jafar Panahi",
+    "Josh Safdie"
+  ],
+  "image_alt_texts": {
+    "jessie-buckley-and-chloe-zhao-on-set-of-hamnet.jpg": "Jessie Buckley e Chloé Zhao dirigindo no set do filme Hamnet, uma das apostas para o Oscar 2026.",
+    "michael-b-jordan-and-ryan-coogler-on-the-set-of-sinners.jpg": "Michael B. Jordan e Ryan Coogler nos bastidores de Sinners, filme que pode render indicação ao Oscar 2026.",
+    "guillermo-del-toro-and-oscar-isaac-filming-frankenstein.jpg": "Guillermo del Toro e Oscar Isaac filmando Frankenstein, um dos filmes que podem disputar o Oscar 2026.",
+    "james-cameron-at-the-art-of-james-cameron-exhibition.jpg": "James Cameron em evento sobre sua obra, diretor de Avatar: Fire and Ash, potencial concorrente ao Oscar 2026.",
+    "paul-thomas-anderson-leonardo-dicapripo.jpg": "Paul Thomas Anderson, diretor de One Battle After Another, favorito ao Oscar 2026 de Melhor Diretor.",
+    "the-oscars-poster-featuring-an-oscars-statue-standing-in-front-of-a-curtain.jpeg": "Poster oficial do Oscar, premiação que em 2026 pode coroar Paul Thomas Anderson como Melhor Diretor."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Oscars 2026: Paul Thomas Anderson é o favorito para Melhor Diretor",
+    "_yoast_wpseo_metadesc": "Previsões para o Oscar 2026 de Melhor Diretor: confira os favoritos, candidatos e o provável vencedor da cobiçada estatueta.",
+    "_yoast_wpseo_focuskw": "Oscar Melhor Diretor 2026",
+    "_yoast_news_keywords": "Oscar, Melhor Diretor, 2026, Paul Thomas Anderson, Chloé Zhao, Ryan Coogler, Jafar Panahi, Josh Safdie, Hamnet, One Battle After Another, Sinners, Frankenstein, Academia",
+    "_yoast_wpseo_opengraph-title": "Oscars 2026: Paul Thomas Anderson é o favorito para Melhor Diretor",
+    "_yoast_wpseo_opengraph-description": "Previsões para o Oscar 2026 de Melhor Diretor: confira os favoritos, candidatos e o provável vencedor da cobiçada estatueta.",
+    "_yoast_wpseo_twitter-title": "Oscars 2026: Paul Thomas Anderson é o favorito para Melhor Diretor",
+    "_yoast_wpseo_twitter-description": "Previsões para o Oscar 2026 de Melhor Diretor: confira os favoritos, candidatos e o provável vencedor da cobiçada estatueta."
+  }
+}

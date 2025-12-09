@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Superman: James Gunn cria herói perfeito com masculinidade não tóxica",
+      "conteudo_final": "<p>O <b>Superman</b> de James Gunn é um exemplo ideal de masculinidade não tóxica, segundo o terapeuta Jonathan Decker. O filme, lançado no verão americano, apresenta David Corenswet como o herói titular e Rachel Brosnahan como Lois Lane.</p><p>O longa conquistou o público por sua ação grandiosa e coração sincero, mas Decker, em seu canal <em>Cinema Therapy</em>, explica que a interpretação de Corenswet oferece um modelo de masculinidade positiva. Uma das principais demonstrações disso é a abertura e honestidade de Clark em suas interações com Lois.</p><p>Quando Clark expõe seus sentimentos em uma conversa intensa com a personagem de Brosnahan, isso "dá a Lois a segurança para explorar e organizar seus sentimentos sem se perguntar: 'Qual o estado dele? O que ele está pensando? O que ele está sentindo?'"</p><h2>Origens da Masculinidade de Superman</h2><p>Decker e seu colega cineasta Alan Seawright exploram a origem da masculinidade não tóxica do Superman. Decker aponta que é uma questão de \"natureza versus criação\". Como ele explica:</p><blockquote><p>\"Sua natureza kryptoniana é a fonte de todos os seus poderes. Mas sua gentileza, sua bondade e seu respeito pela vida humana, isso ele obtém de Jonathan e Martha [Kent].\"</p></blockquote><h2>Superman em Combate: Defesa Sobre Agressão</h2><p>O filme exibe a masculinidade positiva do Superman nos momentos de quietude, mas também em suas batalhas. Crucialmente, Decker detalha que <b>Superman luta não por vontade própria, mas porque não tem outra escolha</b>:</p><blockquote><p>\"A masculinidade saudável, quando se trata de lutar, é defensiva, não agressiva.\"</p></blockquote><p>As críticas ao filme <b>Superman</b> foram predominantemente positivas, com a abordagem de Gunn ressoando com o público e a crítica. Os visuais coloridos, efeitos impressionantes e atuações sólidas são, certamente, parte das razões para o elogio, mas o roteiro de Gunn também enfatiza o poder da esperança e da bondade. Isso contrasta fortemente com a visão mais sombria e séria de Zack Snyder sobre o personagem.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/UH4OSnSNVXk\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Análise sobre a masculinidade de Superman no novo filme de James Gunn.</figcaption></figure><p>Refletindo essa recepção positiva, as pontuações do <b>Superman</b> no Rotten Tomatoes indicam sucesso. O filme alcançou 83% de aprovação da crítica e a pontuação do público, o \"Popcornmeter\", chegou a 90%. Essa aprovação se reflete na bilheteria, com o longa arrecadando US$ 615 milhões mundialmente.</p><h2>Sequência e Futuro do Herói</h2><p>A recepção positiva de <b>Superman</b> garantiu a aprovação de uma sequência. James Gunn escreverá e dirigirá <em>Man of Tomorrow</em>, com previsão de estreia para 2027. Embora detalhes da trama ainda não tenham sido divulgados, o filme deve, mais uma vez, garantir que o herói de Corenswet seja um farol de esperança no mundo, exibindo um tipo de masculinidade não tóxica.</p><p>Com <b>Superman</b> já lançado, o foco agora se volta para o próximo grande projeto da DC: <em>Supergirl</em>, estrelado por Milly Alcock. Como revelado no final de <b>Superman</b>, a heroína de Alcock terá uma personalidade rebelde e indiferente, bastante diferente do Superman de Corenswet. Resta saber como o filme de 2026 se comparará com a visão de Gunn, mas o público talvez não deva esperar as mesmas demonstrações ponderadas de masculinidade.</p>",
+      "meta_description": "Superman de James Gunn é elogiado por especialista como exemplo de masculinidade não tóxica, focando em bondade e defesa.",
+      "focus_keyphrase": "Superman masculinidade não tóxica James Gunn",
+      "related_keyphrases": [
+        "Superman de David Corenswet",
+        "masculinidade positiva no cinema",
+        "James Gunn DC Studios"
+      ],
+      "slug": "superman-masculinidade-nao-toxica",
+      "categorias": [
+        {
+          "nome": "Superman",
+          "grupo": "franquias",
+          "evidence": "Superman's Rotten Tomatoes scores."
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "As revealed in the Superman ending, Alcock's hero is set to be quite different from Corenswet's"
+        },
+        {
+          "nome": "James Gunn",
+          "grupo": "franquias",
+          "evidence": "James Gunn's Superman avoids falling into a trap of toxic masculinity"
+        }
+      ],
+      "tags_sugeridas": [
+        "Superman",
+        "James Gunn",
+        "David Corenswet",
+        "DC Studios",
+        "masculinidade não tóxica",
+        "Supergirl",
+        "Man of Tomorrow"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Superman: James Gunn cria herói perfeito com masculinidade não tóxica",
+        "_yoast_wpseo_metadesc": "Superman de James Gunn é elogiado por especialista como exemplo de masculinidade não tóxica, focando em bondade e defesa.",
+        "_yoast_wpseo_focuskw": "Superman masculinidade não tóxica James Gunn",
+        "_yoast_news_keywords": "Superman, James Gunn, David Corenswet, DC Studios, masculinidade não tóxica, Supergirl, Man of Tomorrow, Cinema Therapy",
+        "_yoast_wpseo_opengraph-title": "Superman: James Gunn cria herói perfeito com masculinidade não tóxica",
+        "_yoast_wpseo_opengraph-description": "Superman de James Gunn é elogiado por especialista como exemplo de masculinidade não tóxica, focando em bondade e defesa.",
+        "_yoast_wpseo_twitter-title": "Superman: James Gunn cria herói perfeito com masculinidade não tóxica",
+        "_yoast_wpseo_twitter-description": "Superman de James Gunn é elogiado por especialista como exemplo de masculinidade não tóxica, focando em bondade e defesa."
+      }
+    }
+  ]
+}

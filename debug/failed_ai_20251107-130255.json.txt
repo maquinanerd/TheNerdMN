@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pacificador chega ao Top 10 da HBO Max em marco de audiência",
+      "conteudo_final": "<p>O universo da <strong>DC Studios</strong> celebra mais uma conquista em 2025. Após o sucesso de <em>Superman</em>, a série <em><strong>Pacificador</strong></em>, protagonizada por John Cena, também marca presença com um feito significativo no streaming.</p><h2>Pacificador alcança marco no Nielsen streaming charts</h2><p>A segunda temporada de <em><strong>Pacificador</strong></em> chegou ao fim com seu oitavo episódio em 9 de outubro de 2025. A série garantiu uma vitória importante para a <strong>DC Studios</strong>, pois, de acordo com <em>The Hollywood Reporter</em>, o drama da <strong>HBO Max</strong> entrou para as paradas de streaming da Nielsen. Na semana de 6 a 12 de outubro de 2025, a série de John Cena figurou na lista das 10 séries originais mais assistidas.</p><div><table>\n<thead>\n<tr>\n<th scope=\"row\"><p>Título</p></th>\n<td><p>Plataforma</p></td>\n<td><p>Posição</p></td>\n<td><p>Minutos (Milhões)</p></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th scope=\"row\"><p><em>Monster: The Ed Gein Story</em></p></th>\n<td><p>Netflix</p></td>\n<td><p>#1</p></td>\n<td><p>2.308</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>Love is Blind</em></p></th>\n<td><p>Netflix</p></td>\n<td><p>#2</p></td>\n<td><p>1.112</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>Halo</em></p></th>\n<td><p>Netflix/Paramount+</p></td>\n<td><p>#3</p></td>\n<td><p>517</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>Is It Cake? Halloween</em></p></th>\n<td><p>Netflix</p></td>\n<td><p>#4</p></td>\n<td><p>512</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>Tulsa King </em>(2022)</p></th>\n<td><p>Paramount+</p></td>\n<td><p>#5</p></td>\n<td><p>509</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>Wayward</em> (2025)</p></th>\n<td><p>Netflix</p></td>\n<td><p>#6</p></td>\n<td><p>505</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>The Great British Baking Show</em></p></th>\n<td><p>Netflix</p></td>\n<td><p>#7</p></td>\n<td><p>474</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>Boots</em> (2025)</p></th>\n<td><p>Netflix</p></td>\n<td><p>#8</p></td>\n<td><p>434</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>Wednesday</em> (2022)</p></th>\n<td><p>Netflix</p></td>\n<td><p>#9</p></td>\n<td><p>426</p></td>\n</tr>\n<tr>\n<th scope=\"row\"><p><em>Pacificador</em></p></th>\n<td><p>HBO Max</p></td>\n<td><p>#10</p></td>\n<td><p>398</p></td>\n</tr>\n</tbody>\n</table></div><h2>Críticas e futuro do Pacificador</h2><p>A segunda temporada de <em>Pacificador</em> recebeu críticas mistas, com uma pontuação de 94% para críticos e 78% para o público no <em>Rotten Tomatoes</em>. Apesar disso, o final da temporada mostrou grande promessa para o futuro do universo <strong>DCU</strong> de James Gunn.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/adobe-express-file-66.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/adobe-express-file-66.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1" media="(max-width: 767px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/adobe-express-file-66.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)"/><img alt="John Cena como Pacificador sendo levado por agentes da ARGUS em cena da segunda temporada" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/adobe-express-file-66.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" width="825"/></picture><figcaption>John Cena como Pacificador sendo levado por agentes da ARGUS em cena da segunda temporada</figcaption><small class="body-img-caption">Fotografia por Jessica Miglio/HBO Max</small></figure><p>Em entrevista a <em>Deadline</em> em outubro de 2025, James Gunn abordou o futuro de <em>Pacificador</em>. Ele afirmou que não há planos para uma terceira temporada no momento, pois o foco está em expandir o universo <strong>DCU</strong> e outras histórias. No entanto, Gunn não descarta a possibilidade futura, destacando a importância do personagem.</p><h2>Futuro do universo DCU</h2><p>Embora <em>Pacificador</em> possa não ter continuidade imediata, seus personagens podem aparecer em outros projetos do universo <strong>DCU</strong>. Uma série focada em Amanda Waller, interpretada por Viola Davis, está em desenvolvimento. Ainda não se sabe se algum personagem de <em>Pacificador</em> estará no filme <em>Man of Tomorrow</em>, com início de filmagens previsto para 2026.</p><p>A próxima grande estreia do <strong>DCU</strong> na <strong>HBO</strong> será a série <em>Lanterns</em>, com previsão de lançamento para o início de 2026. No cinema, <em>Supergirl</em> chega aos cinemas em 26 de junho de 2026, seguida por <em>Clayface</em> em 11 de setembro.</p><p>As duas temporadas de <em><strong>Pacificador</strong></em> estão disponíveis para streaming na <strong>HBO Max</strong>.</p>",
+      "meta_description": "A série Pacificador, de James Gunn, alcança marco de audiência entrando no Top 10 de séries originais da HBO Max no Nielsen streaming charts.",
+      "focus_keyphrase": "Pacificador série HBO Max",
+      "related_keyphrases": [
+        "James Gunn DCU",
+        "DC Studios audiência",
+        "Pacificador Nielsen"
+      ],
+      "slug": " જોને",
+      "categorias": [
+        {
+          "nome": "Pacificador",
+          "grupo": "franquias",
+          "evidence": "<em>Pacificador</em>"
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "DC Studios"
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "plataformas",
+          "evidence": "HBO Max"
+        }
+      ],
+      "tags_sugeridas": [
+        "Pacificador",
+        "James Gunn",
+        "DC Studios",
+        "HBO Max",
+        "John Cena",
+        "DCU",
+        "Nielsen"
+      ],
+      "image_alt_texts": {
+        "adobe-express-file-66.jpg": "John Cena como Pacificador sendo levado por agentes da ARGUS em cena da segunda temporada"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pacificador: Série da HBO Max alcança marco inédito de audiência",
+        "_yoast_wpseo_metadesc": "A série Pacificador, de James Gunn, alcança marco de audiência entrando no Top 10 de séries originais da HBO Max no Nielsen streaming charts.",
+        "_yoast_wpseo_focuskw": "Pacificador série HBO Max",
+        "_yoast_news_keywords": "Pacificador, James Gunn, DC Studios, HBO Max, John Cena, DCU, Nielsen",
+        "_yoast_wpseo_opengraph-title": "Pacificador: Série da HBO Max alcança marco inédito de audiência",
+        "_yoast_wpseo_opengraph-description": "A série Pacificador, de James Gunn, alcança marco de audiência entrando no Top 10 de séries originais da HBO Max no Nielsen streaming charts.",
+        "_yoast_wpseo_twitter-title": "Pacificador: Série da HBO Max alcança marco inédito de audiência",
+        "_yoast_wpseo_twitter-description": "A série Pacificador, de James Gunn, alcança marco de audiência entrando no Top 10 de séries originais da HBO Max no Nielsen streaming charts."
+      }
+    }
+  ]
+}

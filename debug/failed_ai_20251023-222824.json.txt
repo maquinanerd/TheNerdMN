@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Kill Bill 1 em alta no streaming: Tarantino diz ser \"o filme que nasci para fazer\"",
+  "conteudo_final": "<p>O filme <b>Kill Bill: Volume 1</b>, dirigido por <b>Quentin Tarantino</b>, está experimentando um ressurgimento de popularidade no serviço de streaming gratuito Pluto TV. O longa apareceu entre os dez títulos mais assistidos em 22 e 23 de outubro, demonstrando o contínuo apelo da obra.</p><h2>Sucesso no Streaming e Bilheteria</h2><p>Na lista de mais assistidos, Kill Bill 1 superou produções diversas como a adaptação jovem adulta <b>Divergent</b>, o aclamado <b>The Godfather: Part II</b> e a comédia romântica <b>Hitch</b>, estrelada por Will Smith. Lançado em 2003, Kill Bill 1 foi seguido por <b>Kill Bill: Volume 2</b> um ano depois. Juntos, os dois filmes arrecadaram mais de US$ 300 milhões mundialmente, com um orçamento combinado de US$ 60 milhões. Kill Bill 1 foi o mais bem-sucedido financeiramente, com uma receita global de US$ 180 milhões.</p><p>A recepção crítica também foi positiva. No agregador Rotten Tomatoes, Kill Bill 1 ostenta 85% de aprovação, ligeiramente superior aos 84% de sua sequência. O consenso do site descreve o filme como \"admitidamente pouco mais do que um thriller de vingança estiloso – embora um que se beneficia de um excesso de estilo imaginativo\".</p><h2>A Visão de Tarantino sobre Kill Bill</h2><p>Estrelado por <b>Uma Thurman</b> como a Noiva, uma personagem deixada para morrer em seu dia de casamento, o filme mostra Tarantino em seu estilo mais exuberante. Em uma entrevista recente ao podcast \"The Church of Tarantino\", o cineasta declarou que <b>Kill Bill</b> é o filme que ele \"nasceu para fazer\". Segundo Tarantino:</p>\n<blockquote>\n<p>“Once Upon a Time in Hollywood é o meu favorito, Inglourious Basterds é o meu melhor. Mas acho que Kill Bill é o filme definitivo de Quentin, tipo, ninguém mais poderia tê-lo feito. Todos os aspectos sobre ele são tão particularmente arrancados, como com tentáculos e tecidos ensanguentados, da minha imaginação e do meu id e dos meus amores e da minha paixão e da minha obsessão. Então acho que Kill Bill é o filme que nasci para fazer, acho que Inglourious Basterds é a minha obra-prima, mas Once Upon a Time in Hollywood é o meu favorito.”</p>\n</blockquote><h2>Corte Combinado nos Cinemas</h2><p>Os fãs de Tarantino podem antecipar o lançamento aguardado de <b>Kill Bill: The Whole Bloody Affair</b>, o lendário corte combinado das duas partes, que será lançado nos cinemas em dezembro. O filme Kill Bill está disponível no Pluto TV nacionalmente, e fique ligado para mais atualizações.</p>",
+  "meta_description": "Kill Bill 1, dirigido por Quentin Tarantino, ganha destaque no streaming. O cineasta revela que o filme é \"o que nasci para fazer\". Confira os detalhes.",
+  "focus_keyphrase": "Kill Bill 1",
+  "related_keyphrases": [
+    "Quentin Tarantino",
+    "Kill Bill Vol. 2",
+    "Uma Thurman"
+  ],
+  "slug": "kill-bill-1-streaming-tarantino",
+  "categorias": [
+    {
+      "nome": "Kill Bill",
+      "grupo": "franquias",
+      "evidence": "Kill Bill Vol. 2, Kill Bill"
+    },
+    {
+      "nome": "Quentin Tarantino",
+      "grupo": "diretores",
+      "evidence": "Quentin Tarantino"
+    },
+    {
+      "nome": "Uma Thurman",
+      "grupo": "atores",
+      "evidence": "Uma Thurman"
+    }
+  ],
+  "tags_sugeridas": [
+    "kill bill",
+    "quentin tarantino",
+    "uma thurman",
+    "streaming",
+    "pluto tv",
+    "kill bill vol. 1",
+    "kill bill vol. 2"
+  ],
+  "image_alt_texts": {
+    "20250501203914_poster_w780.jpg": "Pôster do filme Kill Bill 1, com Uma Thurman em destaque, dirigido por Quentin Tarantino."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Kill Bill 1 em alta no streaming: Tarantino diz ser \"o filme que nasci para fazer\"",
+    "_yoast_wpseo_metadesc": "Kill Bill 1, dirigido por Quentin Tarantino, ganha destaque no streaming. O cineasta revela que o filme é \"o que nasci para fazer\". Confira os detalhes.",
+    "_yoast_wpseo_focuskw": "Kill Bill 1",
+    "_yoast_news_keywords": "Kill Bill 1, Quentin Tarantino, Uma Thurman, Kill Bill Vol. 2, Pluto TV, streaming",
+    "_yoast_wpseo_opengraph-title": "Kill Bill 1 em alta no streaming: Tarantino diz ser \"o filme que nasci para fazer\"",
+    "_yoast_wpseo_opengraph-description": "Kill Bill 1, dirigido por Quentin Tarantino, ganha destaque no streaming. O cineasta revela que o filme é \"o que nasci para fazer\". Confira os detalhes.",
+    "_yoast_wpseo_twitter-title": "Kill Bill 1 em alta no streaming: Tarantino diz ser \"o filme que nasci para fazer\"",
+    "_yoast_wpseo_twitter-description": "Kill Bill 1, dirigido por Quentin Tarantino, ganha destaque no streaming. O cineasta revela que o filme é \"o que nasci para fazer\". Confira os detalhes."
+  }
+}

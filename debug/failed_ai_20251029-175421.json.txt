@@ -1,0 +1,102 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jason Statham e Guy Ritchie se unem em novo thriller de ação 'Viva La Madness'",
+      "conteudo_final": "<p>Jason Statham e Guy Ritchie estão prestes a colaborar novamente em <b>Viva La Madness</b>, um novo thriller de ação que promete trazer o caos britânico característico da dupla para as telonas. O filme é baseado no romance de 2011 de J.J. Connolly, que serve como continuação para <b>Layer Cake</b>. Embora não seja uma sequência direta, o longa compartilha o espírito do cultuado filme de 2004.</p><h2>Produção e Elenco</h2><p>A produção de <b>Viva La Madness</b> está programada para começar em janeiro de 2026. Guy Ritchie assume a direção e o roteiro, enquanto Jason Statham é o único membro do elenco confirmado até o momento. A expectativa é que o filme capture a essência de seus trabalhos anteriores, combinando ação intensa com o estilo único de Ritchie.</p><h2>Contexto e Expectativas</h2><p>A parceria entre Statham e Ritchie já rendeu filmes memoráveis, e a promessa de um novo projeto juntos gera grande expectativa entre os fãs. <b>Viva La Madness</b> se posiciona como um projeto original, mas a conexão com <b>Layer Cake</b>, filme que lançou Daniel Craig ao estrelato como James Bond, adiciona uma camada extra de interesse.</p>",
+      "meta_description": "Jason Statham e Guy Ritchie se reúnem para 'Viva La Madness', um novo thriller de ação baseado no livro de J.J. Connolly. Produção começa em 2026.",
+      "focus_keyphrase": "Jason Statham Guy Ritchie Viva La Madness",
+      "related_keyphrases": [
+        "Viva La Madness",
+        "Jason Statham",
+        "Guy Ritchie"
+      ],
+      "slug": "jason-statham-guy-ritchie-viva-la-madness",
+      "categorias": [
+        {
+          "nome": "Viva La Madness",
+          "grupo": "obras",
+          "evidence": "Viva La Madness, a new action-thriller based on J.J. Connolly’s 2011 novel"
+        },
+        {
+          "nome": "Jason Statham",
+          "grupo": "ator",
+          "evidence": "Jason Statham and Guy Ritchie are teaming up once again"
+        },
+        {
+          "nome": "Guy Ritchie",
+          "grupo": "diretor",
+          "evidence": "Guy Ritchie and Jason Statham are teaming up once again"
+        }
+      ],
+      "tags_sugeridas": [
+        "Viva La Madness",
+        "Jason Statham",
+        "Guy Ritchie",
+        "Layer Cake",
+        "Thriller de Ação"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jason Statham e Guy Ritchie se unem em novo thriller de ação 'Viva La Madness'",
+        "_yoast_wpseo_metadesc": "Jason Statham e Guy Ritchie se reúnem para 'Viva La Madness', um novo thriller de ação baseado no livro de J.J. Connolly. Produção começa em 2026.",
+        "_yoast_wpseo_focuskw": "Jason Statham Guy Ritchie Viva La Madness",
+        "_yoast_news_keywords": "Jason Statham, Guy Ritchie, Viva La Madness, Layer Cake, Thriller de Ação",
+        "_yoast_wpseo_opengraph-title": "Jason Statham e Guy Ritchie se unem em novo thriller de ação 'Viva La Madness'",
+        "_yoast_wpseo_opengraph-description": "Jason Statham e Guy Ritchie se reúnem para 'Viva La Madness', um novo thriller de ação baseado no livro de J.J. Connolly. Produção começa em 2026.",
+        "_yoast_wpseo_twitter-title": "Jason Statham e Guy Ritchie se unem em novo thriller de ação 'Viva La Madness'",
+        "_yoast_wpseo_twitter-description": "Jason Statham e Guy Ritchie se reúnem para 'Viva La Madness', um novo thriller de ação baseado no livro de J.J. Connolly. Produção começa em 2026."
+      }
+    },
+    {
+      "titulo_final": "Penny Dreadful: Série de terror da Showtime vira sucesso no streaming",
+      "conteudo_final": "<p>Nove anos após seu cancelamento, a série de terror da Showtime, <b>Penny Dreadful</b>, está experimentando um renascimento no streaming, conquistando o primeiro lugar nos charts do iTunes nos Estados Unidos. A produção, que originalmente foi ao ar por três temporadas entre 2014 e 2016, tem atraído novos e antigos fãs com sua atmosfera sombria e narrativa envolvente.</p><p><b>Penny Dreadful</b> acompanha um explorador, um pistoleiro e um cientista em suas batalhas contra ameaças sobrenaturais na Londres vitoriana. Estrelada por <b>Josh Hartnett</b> e <b>Eva Green</b>, a série é conhecida por sua qualidade cinematográfica e atuações marcantes. Atualmente, todas as três temporadas estão disponíveis para streaming no Prime Video e Paramount+ nos EUA, consolidando seu status como um sucesso de maratona.</p><h2>Elenco e Criador</h2><p>Além de Josh Hartnett e Eva Green, o elenco de <b>Penny Dreadful</b> conta com talentos como Reeve Carney, Timothy Dalton, Rory Kinnear e Billie Piper. A série foi escrita e criada para televisão por <b>John Logan</b>, um roteirista aclamado por trabalhos como <b>Gladiador</b>, <b>007 - Operação Skyfall</b> e <b>007 Contra Spectre</b>. Logan também está envolvido na futura cinebiografia de Michael Jackson.</p><h2>Recepção Crítica</h2><p><b>Penny Dreadful</b> foi amplamente elogiada pela crítica e pelo público durante toda a sua exibição. As três temporadas mantêm uma média impressionante de 91% de aprovação da crítica e 90% do público, um feito notável que atesta a consistência da qualidade da série. A produção é vista como uma opção ideal para quem aguarda ansiosamente por novas obras de terror, como o futuro filme <b>Frankenstein</b> de Guillermo del Toro, já que os personagens Dr. Victor Frankenstein e a Criatura têm papéis recorrentes na série.</p><h2>O Momento do Terror no Streaming</h2><p>O sucesso de <b>Penny Dreadful</b> reflete uma tendência atual de popularidade de filmes e séries de terror no streaming, especialmente próximo à temporada de Halloween. Títulos como <b>Goosebumps</b> e <b>Hotel Transylvania</b> lideram nas plataformas, enquanto Paramount+ exibe <b>Vicious</b> e <b>Lake Placid</b>. O HBO Max também destaca seu conteúdo assustador, com a série <b>IT: Welcome to Derry</b> e os filmes <b>It: A Coisa</b> e <b>It: Capítulo Dois</b> entre os mais populares.</p><p>Para os fãs que desejam revisitar ou descobrir <b>Penny Dreadful</b>, todas as temporadas estão disponíveis no Prime Video e Paramount+. Fique ligado para mais atualizações sobre o universo do streaming.</p><figure><img src=\"https:
+      "meta_description": "Nove anos após seu fim, Penny Dreadful se torna um sucesso no streaming, liderando charts e atraindo fãs com sua atmosfera de terror e atuações marcantes.",
+      "focus_keyphrase": "Penny Dreadful sucesso streaming",
+      "related_keyphrases": [
+        "Penny Dreadful",
+        "Série de Terror",
+        "Showtime"
+      ],
+      "slug": "penny-dreadful-sucesso-streaming",
+      "categorias": [
+        {
+          "nome": "Penny Dreadful",
+          "grupo": "obras",
+          "evidence": "Penny Dreadful, which ran for three seasons from 2014 to 2016 on Showtime."
+        },
+        {
+          "nome": "Showtime",
+          "grupo": "editorias",
+          "evidence": "Showtime"
+        },
+        {
+          "nome": "Terror",
+          "grupo": "editorias",
+          "evidence": "Spooky season is coming to a close with Halloween this weekend, but there’s still time to dive into all the best movies and TV shows that best encapsulate the spirit of the holiday."
+        }
+      ],
+      "tags_sugeridas": [
+        "Penny Dreadful",
+        "Josh Hartnett",
+        "Eva Green",
+        "John Logan",
+        "Showtime",
+        "Terror",
+        "Streaming"
+      ],
+      "image_alt_texts": {
+        "penny-dreadful-tv-poster.jpg": "Pôster da série Penny Dreadful com Eva Green e Josh Hartnett em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Penny Dreadful: Série de terror da Showtime vira sucesso no streaming",
+        "_yoast_wpseo_metadesc": "Nove anos após seu fim, Penny Dreadful se torna um sucesso no streaming, liderando charts e atraindo fãs com sua atmosfera de terror e atuações marcantes.",
+        "_yoast_wpseo_focuskw": "Penny Dreadful sucesso streaming",
+        "_yoast_news_keywords": "Penny Dreadful, Showtime, Terror, Streaming, Josh Hartnett, Eva Green, John Logan",
+        "_yoast_wpseo_opengraph-title": "Penny Dreadful: Série de terror da Showtime vira sucesso no streaming",
+        "_yoast_wpseo_opengraph-description": "Nove anos após seu fim, Penny Dreadful se torna um sucesso no streaming, liderando charts e atraindo fãs com sua atmosfera de terror e atuações marcantes.",
+        "_yoast_wpseo_twitter-title": "Penny Dreadful: Série de terror da Showtime vira sucesso no streaming",
+        "_yoast_wpseo_twitter-description": "Nove anos após seu fim, Penny Dreadful se torna um sucesso no streaming, liderando charts e atraindo fãs com sua atmosfera de terror e atuações marcantes."
+      }
+    }
+  ]
+}

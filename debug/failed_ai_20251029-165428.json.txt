@@ -1,0 +1,60 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Witcher 4: Guia Completo do Elenco e Personagens Essenciais",
+      "conteudo_final": "<p>A <b>quarta temporada de The Witcher</b> na Netflix promete trazer de volta a maior parte do elenco principal e coadjuvante, com algumas mudanças notáveis em personagens chave. Após o grande cliffhanger ao final da terceira temporada, a série se prepara para iniciar seu novo capítulo, marcando a estreia de Liam Hemsworth como o protagonista Geralt de Rívia, substituindo Henry Cavill.</p><h2>Liam Hemsworth como Geralt de Rívia</h2><p>Liam Hemsworth, nascido na Austrália em 1990, iniciou sua carreira na TV e ganhou destaque com o papel de Gale Hawthorne na saga <em>Jogos Vorazes</em>. Sua filmografia inclui ainda <em>Os Mercenários 2</em> e <em>Independence Day: O Ressurgimento</em>. Em <em>The Witcher</em>, Hemsworth assume o manto de Geralt de Rívia, o bruxo principal em busca de Ciri, acompanhado por Jaskier e Milva.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Conheça o elenco completo e os personagens essenciais da 4ª temporada de The Witcher, incluindo Liam Hemsworth como Geralt.",
+      "focus_keyphrase": "The Witcher 4 elenco",
+      "related_keyphrases": [
+        "personagens The Witcher 4",
+        "Liam Hemsworth Geralt",
+        "Netflix The Witcher"
+      ],
+      "slug": "the-witcher-4-elenco-personagens",
+      "categorias": [
+        {
+          "nome": "The Witcher",
+          "grupo": "franquias",
+          "evidence": "<em>The Witcher</em> season 4 is bringing back most of its main and supporting cast"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix series"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Witcher",
+        "Netflix",
+        "Liam Hemsworth",
+        "Henry Cavill",
+        "Geralt de Rivia",
+        "Yennefer de Vengerberg",
+        "Ciri"
+      ],
+      "image_alt_texts": {
+        "liam-hemsworth-as-geralt-of-rivia-in-the-witcher-season-4.jpg": "Liam Hemsworth como Geralt de Rívia na 4ª temporada de The Witcher",
+        "yennefer-covered-in-blood-and-mud-in-the-witcher-sesson-4.jpg": "Yennefer de Vengerberg em cena dramática na 4ª temporada de The Witcher",
+        "ciri-as-falka-looking-angry-in-the-witcher-season-4.jpg": "Ciri exibe um olhar de raiva na 4ª temporada de The Witcher",
+        "jaskier-writing-in-the-witcher-season-4.jpg": "Jaskier, o bardo, escreve em The Witcher temporada 4",
+        "the-witcher-season-2-vilgefortz.jpg": "Vilgefortz, o mago, em pose séria na série The Witcher",
+        "emhyr-holding-as-sword-in-the-witcher-season-3.jpg": "Imperador Emhyr var Emreis com sua espada em The Witcher temporada 3",
+        "cahir-in-the-witcher-season-3.jpg": "Cahir em momento de reflexão na 3ª temporada de The Witcher",
+        "milva-looking-worried-in-the-witcher-season-4.jpg": "Milva demonstra preocupação na 4ª temporada de The Witcher",
+        "regis-riding-a-horse-in-the-witcher-season-4.jpg": "Regis, o vampiro, cavalga em The Witcher temporada 4",
+        "percival-milva-jaskier-zoltan-and-geralt-in-the-witcher-season-4.jpg": "Um grupo de personagens incluindo Percival, Milva, Jaskier e Geralt em The Witcher temporada 4",
+        "03153842_poster_w780-1.jpg": "Poster oficial da série The Witcher"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Witcher 4: Elenco Completo, Personagens e Novas Estrelas na Netflix",
+        "_yoast_wpseo_metadesc": "Conheça o elenco completo da 4ª temporada de The Witcher, com Liam Hemsworth como Geralt e o retorno de Anya Chalotra, Freya Allan e mais.",
+        "_yoast_wpseo_focuskw": "The Witcher 4 elenco",
+        "_yoast_news_keywords": "The Witcher, Netflix, Liam Hemsworth, Henry Cavill, Geralt de Rivia, Anya Chalotra, Freya Allan, Joey Batey, Mahesh Jadu, Bart Edwards, Eamon Farren, Meng’er Zhang, Laurence Fishburne",
+        "_yoast_wpseo_opengraph-title": "The Witcher 4: Guia Completo do Elenco e Personagens Essenciais",
+        "_yoast_wpseo_opengraph-description": "Descubra quem são os atores e personagens que compõem a nova temporada de The Witcher, incluindo a substituição de Henry Cavill por Liam Hemsworth como Geralt.",
+        "_yoast_wpseo_twitter-title": "The Witcher 4: Elenco Completo e Personagens na Netflix",
+        "_yoast_wpseo_twitter-description": "Liam Hemsworth assume como Geralt. Veja todos os atores e personagens confirmados para a 4ª temporada de The Witcher."
+      }
+    }
+  ]
+}

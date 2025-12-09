@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Rumor: PlayStation Portal pode rodar jogos sem o PS5 ligado",
+  "conteudo_final": "<p>Um novo rumor sugere que o <b>PlayStation Portal</b> poderá, no futuro, ter a capacidade de transmitir jogos sem a necessidade do <b>PS5</b> estar ligado. Essa atualização seria um divisor de águas para o acessório portátil, que atualmente exige que o console esteja em funcionamento para ser utilizado.</p>\n<h2>Potencial Grande Upgrade para o PlayStation Portal</h2>\n<p>Lançado em 2023, o PlayStation Portal se tornou um acessório popular para o PS5. O dispositivo permite transmitir jogos e outros conteúdos do PlayStation 5 através da tecnologia Remote Play, ostentando uma tela LCD HD de 8 polegadas e controles com funcionalidades semelhantes às de um DualSense. De modo geral, o <b>PlayStation Portal foi bem recebido</b>, com uma parcela significativa dos proprietários de PS5 nos Estados Unidos adquirindo o aparelho.</p>\n<p>Um boato recente surgiu a partir de imagens de páginas de jogos na PS Store, que apresentavam a seguinte declaração: “Pré-compre para transmitir e jogar instantaneamente no lançamento no PS Portal ou PS5 (apenas com PS Plus Premium)”. Isso gerou especulações de que a Sony estaria planejando uma atualização que permitiria aos jogadores transmitir diretamente jogos pré-encomendados e comprados da PS Store para o PS Portal. Se confirmada, essa novidade seria imensa para os donos do Portal, pois possibilitaria jogar seus <b>jogos favoritos de PlayStation 5</b> sem precisar ligar o console. Entretanto, no momento, trata-se apenas de especulação e deve ser encarada com cautela.</p>\n<p>Embora ainda seja cedo para afirmar se esse grande upgrade se concretizará, a Sony já lançou diversas atualizações para o PlayStation Portal este ano. Em abril, por exemplo, uma <b>atualização do sistema do PS Portal introduziu novas funcionalidades</b>, como mais opções de organização para a biblioteca do jogador e a captura de gameplay em tempo real, aprimorando a experiência de uso do portátil.</p>\n<p>Resta saber qual será o futuro deste acessório portátil da PlayStation, mas o <b>PlayStation Portal foi, sem dúvida, um grande sucesso</b>. Considerando o preço de US$ 200, alguns esperavam que o dispositivo não fosse tão popular quanto acabou se tornando, e a própria Sony admitiu que o PS Portal superou suas projeções internas de vendas. Caso essa atualização rumorada se concretize, há uma chance considerável de que ela impulsione ainda mais as vendas do aparelho, pois mais jogadores podem se interessar por um portátil baseado em nuvem que ofereceria ainda mais liberdade para jogar.</p>\n<h2>PlayStation Portal: Detalhes Técnicos e Funcionalidades</h2>\n<p>Embora não seja exatamente um sucessor do PSP, o PlayStation Portal resolve um problema antigo de ter que compartilhar uma única TV em uma residência. Este dispositivo de Remote Play permite aos usuários transmitir o que está acontecendo em seus <b>PlayStation 5 diretamente para a tela LCD</b> de 8 polegadas com resolução 1080p. O que torna o PlayStation Portal único é que ele vem equipado com toda a tecnologia avançada do controle sem fio DualSense, como gatilhos adaptáveis e feedback háptico. Uma desvantagem é que ele não possui suporte Bluetooth para áudio sem fio, mas funciona com os fones de ouvido Pulse da PlayStation e também possui uma entrada de áudio de 3.5mm para áudio com fio.</p>\n<figure><img src=\"https:
+  "meta_description": "Rumor aponta que o PlayStation Portal pode ganhar função de streaming sem o PS5 ligado, expandindo suas possibilidades.",
+  "focus_keyphrase": "PlayStation Portal",
+  "related_keyphrases": [
+    "PS Portal",
+    "PlayStation 5",
+    "Remote Play"
+  ],
+  "slug": "playstation-portal-upgrade-rumor",
+  "categorias": [
+    {
+      "nome": "PlayStation Portal",
+      "grupo": "franquias",
+      "evidence": "PlayStation Portal"
+    },
+    {
+      "nome": "PlayStation 5",
+      "grupo": "franquias",
+      "evidence": "PlayStation 5"
+    },
+    {
+      "nome": "Sony",
+      "grupo": "editorias",
+      "evidence": "Sony"
+    }
+  ],
+  "tags_sugeridas": [
+    "PlayStation Portal",
+    "PS5",
+    "Sony",
+    "Remote Play",
+    "Rumor",
+    "Games"
+  ],
+  "image_alt_texts": {
+    "playstation-portal.jpg": "PlayStation Portal conectado a um PS5",
+    "playstation-portal-remote-player-midnight-black.jpg": "PlayStation Portal na cor Midnight Black",
+    "ps-portal-remote-player-keyart-1.jpg": "PlayStation Portal em uso"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Rumor: PlayStation Portal pode rodar jogos sem o PS5 ligado",
+    "_yoast_wpseo_metadesc": "Rumor aponta que o PlayStation Portal pode ganhar função de streaming sem o PS5 ligado, expandindo suas possibilidades.",
+    "_yoast_wpseo_focuskw": "PlayStation Portal",
+    "_yoast_news_keywords": "PlayStation Portal, PS5, Sony, Remote Play, Games, Rumor",
+    "_yoast_wpseo_opengraph-title": "Rumor: PlayStation Portal pode rodar jogos sem o PS5 ligado",
+    "_yoast_wpseo_opengraph-description": "Rumor aponta que o PlayStation Portal pode ganhar função de streaming sem o PS5 ligado, expandindo suas possibilidades.",
+    "_yoast_wpseo_twitter-title": "Rumor: PlayStation Portal pode rodar jogos sem o PS5 ligado",
+    "_yoast_wpseo_twitter-description": "Rumor aponta que o PlayStation Portal pode ganhar função de streaming sem o PS5 ligado, expandindo suas possibilidades."
+  }
+}

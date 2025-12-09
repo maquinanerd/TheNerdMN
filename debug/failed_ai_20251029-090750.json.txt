@@ -1,0 +1,59 @@
+{
+  "titulo_final": "Doctor Who: 59 anos da primeira regeneração que mudou a série",
+  "conteudo_final": "<p>Um dos eventos mais importantes na história de <b>Doctor Who</b> ocorreu há 59 anos, alterando para sempre o rumo da série da BBC. A série celebra seu 62º aniversário em breve, tendo estreado em 23 de novembro de 1963. No entanto, três anos após sua estreia, algo mais aconteceu na ficção científica que impactaria as aventuras do Doutor através do tempo e espaço em diversas ocasiões futuras, tornando este um aniversário igualmente crucial para a icônica série.</p>\n<h2>A Primeira Regeneração do Doutor</h2>\n<p>Exatamente há 59 anos, em 29 de outubro de 1966, o <b>Doutor regenerou pela primeira vez na tela</b>. O Primeiro Doutor de William Hartnell adoeceu durante uma batalha contra os Cybermen no serial parcialmente perdido da quarta temporada de Doctor Who, \"The Tenth Planet\". A última parte deste serial foi lançada em 29 de outubro de 1966 e terminou com o Primeiro Doutor desmaiando e se regenerando no Segundo Doutor de Patrick Troughton diante de seus companheiros, Polly e Ben Jackson. Troughton fez sua estreia oficial em \"Power of the Daleks\" em novembro de 1966, e Doctor Who nunca mais seria o mesmo.</p>\n<h2>Evolução do Conceito de Regeneração em Doctor Who</h2>\n<p>A ideia de que os Senhores do Tempo de <b>Doctor Who</b> poderiam <b>regenerar</b> – mudando completamente cada célula do corpo ao ficarem doentes, feridos ou envelhecerem – foi inicialmente proposta pelo produtor John Wiles e pelo editor de roteiro Donald Tosh. A equipe de Doctor Who precisava encontrar uma maneira de continuar a série apesar da saída de William Hartnell, devido à sua saúde debilitada. A sucessora de Wiles, Ines Lloyd, é creditada como a criadora do processo biológico em si. No total, o Doutor regenerou quase 20 vezes, e o processo passou por mudanças significativas ao longo do tempo.</p>\n<p>Ao longo dos anos, foi estabelecido que os Senhores do Tempo possuem 13 encarnações diferentes, das quais o Doutor havia utilizado sua décima primeira variação, interpretada por Matt Smith. Supostamente, ele recebeu um novo ciclo de regeneração dos Senhores do Tempo, permitindo que ele continuasse. No entanto, as aventuras mais recentes do personagem principal alteraram drasticamente a forma como encaramos esse evento. A jornada de Jodie Whittaker como a Décima Terceira Doutora revelou que a personagem é, na verdade, a lendária \"Criança Atemporal\", um ser de outro universo com um número ilimitado de regenerações – e a fonte da própria habilidade dos Senhores do Tempo de regenerar.</p>\n<p>Essa revelação trouxe a compreensão de que o Doutor viveu muitas vidas antes que o Primeiro Doutor de William Hartnell roubasse a TARDIS e deixasse Gallifrey. Uma dessas vidas foi a Doutora Fugitiva de Jo Martin, mas existem incontáveis outras que datam de antes mesmo dos Senhores do Tempo começarem, e que ainda não conhecemos. As regras da regeneração mudaram muitas vezes ao longo dos anos, mas o fato permanece: 29 de outubro de 1966 foi a primeira vez que vimos esse processo ocorrer na tela, tornando-o uma das datas mais importantes no calendário de Doctor Who.</p>\n<figure>\n<img src=\"https:
+  "meta_description": "Há 59 anos, Doctor Who apresentava a primeira regeneração, um evento crucial que redefiniu o Doutor e a própria série da BBC.",
+  "focus_keyphrase": "Doctor Who regeneração",
+  "related_keyphrases": [
+    "primeira regeneração Doctor Who",
+    "história Doctor Who",
+    "William Hartnell"
+  ],
+  "slug": "doctor-who-primeira-regeneracao",
+  "categorias": [
+    {
+      "nome": "Doctor Who",
+      "grupo": "obras",
+      "evidence": "Doctor Who"
+    },
+    {
+      "nome": "Cybermen",
+      "grupo": "personagens",
+      "evidence": "Cybermen"
+    },
+    {
+      "nome": "Senhores do Tempo",
+      "grupo": "personagens",
+      "evidence": "Senhores do Tempo"
+    }
+  ],
+  "tags_sugeridas": [
+    "Doctor Who",
+    "regeneração",
+    "William Hartnell",
+    "Patrick Troughton",
+    "Cybermen",
+    "BBC",
+    "ficção científica"
+  ],
+  "image_alt_texts": {
+    "Billie-Piper-regenerating-in-Doctor-Who.jpg?w=1024": "Primeira regeneração de Doctor Who com Billie Piper",
+    "Ex-Machina.jpg?w=300": "Cena de Ex Machina",
+    "Halo-Combat-Evolved.jpg?w=300": "Imagem de Halo Combat Evolved",
+    "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Episode-.jpg?w=300": "Cena de Agents of SHIELD",
+    "PlayStation-Plus-Stray.jpg?w=300": "Imagem do jogo Stray",
+    "netflix-a-house-of-dynamite.jpg?w=300": "Cena de A House of Dynamite",
+    "x-b-o-x-g-a-m-e-p-a-s-s_45a3c5.png?w=300": "Logo do Xbox Game Pass",
+    "pmXoHKzp4Lc/hqdefault.jpg": "Thumbnail do vídeo do YouTube sobre Doctor Who",
+    "pmXoHKzp4Lc/maxresdefault.jpg": "Thumbnail de alta resolução do vídeo do YouTube sobre Doctor Who"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Doctor Who: 59 anos da primeira regeneração que mudou a série",
+    "_yoast_wpseo_metadesc": "Há 59 anos, Doctor Who apresentava a primeira regeneração, um evento crucial que redefiniu o Doutor e a própria série da BBC.",
+    "_yoast_wpseo_focuskw": "Doctor Who regeneração",
+    "_yoast_news_keywords": "Doctor Who, regeneração, William Hartnell, Patrick Troughton, Cybermen, BBC, ficção científica, Senhores do Tempo",
+    "_yoast_wpseo_opengraph-title": "Doctor Who: 59 anos da primeira regeneração que mudou a série",
+    "_yoast_wpseo_opengraph-description": "Há 59 anos, Doctor Who apresentava a primeira regeneração, um evento crucial que redefiniu o Doutor e a própria série da BBC.",
+    "_yoast_wpseo_twitter-title": "Doctor Who: 59 anos da primeira regeneração que mudou a série",
+    "_yoast_wpseo_twitter-description": "Há 59 anos, Doctor Who apresentava a primeira regeneração, um evento crucial que redefiniu o Doutor e a própria série da BBC."
+  }
+}

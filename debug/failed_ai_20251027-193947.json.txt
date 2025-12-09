@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix Quebra Regra de Ouro para \"Stranger Things\" e \"KPop Demon Hunters\"",
+      "conteudo_final": "<p>A <strong>Netflix</strong> está quebrando sua regra número um de não lançar filmes em cinemas de forma ampla, e há motivos claros para isso, especialmente com títulos como <em>Stranger Things</em> e <em>KPop Demon Hunters</em>. Recentemente, uma versão especial de <em>KPop Demon Hunters</em> foi lançada em cinemas por dois dias, alcançando o topo das bilheterias, e terá uma nova exibição no Halloween. </p><h2>Lançamento em Salas de Cinema</h2><p>Além disso, foi revelado que o episódio final de <em>Stranger Things</em>, com cerca de duas horas de duração, terá lançamento nos cinemas no Ano Novo, mesmo dia de sua estreia na plataforma. </p><p>Segundo a analista Alicia Reese, vice-presidente de pesquisa de ações na Wedbush Securities, a estratégia da Netflix para com esses lançamentos cinematográficos não visa o lucro direto das salas, mas sim <strong>maximizar o alcance do público</strong>. A executiva explicou que, enquanto no passado o foco era apenas qualificação para premiações ou satisfazer talentos, agora o objetivo é usar os cinemas como uma ferramenta de marketing.</p><blockquote>"Por muito tempo, o principal interesse da Netflix em levar seus filmes para os cinemas era para consideração em premiações ou para agradar o elenco. Agora, a Netflix tem mais interesse em tentar maximizar o alcance."</blockquote><p>A Netflix tem adotado uma postura diferente em relação aos lançamentos em cinemas. Embora o CEO Ted Sarandos tenha classificado os lançamentos cinematográficos como uma \"<em>ideia ultrapassada</em>\" no início do ano, a empresa tem, nos últimos meses, programado exibições em salas para diversos de seus filmes. </p><p>Essa nova abordagem inclui lançamentos como <em>Frankenstein</em>, de Guillermo Del Toro, que teve uma exibição limitada em 17 de outubro, e <em>Wake Up Dead Man: A Knives Out Mystery</em>, com estreia programada para 26 de novembro. Ambos terão tempo limitado nas salas antes de chegarem à Netflix.</p><h2>Novas Estratégias de Lançamento</h2><p>O filme <em>Narnia</em>, de Greta Gerwig, também está previsto para um lançamento de duas semanas em IMAX em 2026. Adicionalmente, a Netflix considera um lançamento cinematográfico mais amplo para <em>Adventures of Cliff Booth</em>, derivado de David Fincher sobre o personagem de Brad Pitt no filme de Quentin Tarantino.</p><p>A Netflix parece estar abraçando os lançamentos em cinemas, o que reflete uma percepção de que filmes exibidos nas salas de exibição frequentemente possuem um maior impacto cultural. No entanto, diferentemente dos estúdios tradicionais, <strong>a Netflix</strong> não vê as salas como uma fonte de receita primária. Em vez disso, a empresa trata as exibições como uma ferramenta de marketing para energizar o público e, consequentemente, direcioná-lo de volta para a plataforma de streaming.</p>",
+      "meta_description": "Netflix muda estratégia e lança \"Stranger Things\" e \"KPop Demon Hunters\" em cinemas. Descubra o motivo por trás da quebra de sua regra principal.",
+      "focus_keyphrase": "Netflix quebra regra lançamentos cinema",
+      "related_keyphrases": [
+        "Stranger Things cinema",
+        "KPop Demon Hunters cinema",
+        "Netflix lançamentos teatrais"
+      ],
+      "slug": "netflix-quebra-regra-lancamentos-cinema",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "obras",
+          "evidence": "o episódio final de Stranger Things"
+        },
+        {
+          "nome": "KPop Demon Hunters",
+          "grupo": "obras",
+          "evidence": "KPop Demon Hunters"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "franquias",
+          "evidence": "Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "Stranger Things",
+        "KPop Demon Hunters",
+        "lançamento cinema",
+        "streaming",
+        "marketing"
+      ],
+      "image_alt_texts": {
+        "03112487_poster_w780.jpg": "Pôster oficial de Stranger Things com o elenco.",
+        "01893263_poster_w780-1.jpg": "Pôster oficial de KPop Demon Hunters com os personagens principais."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix Quebra Regra de Ouro para \"Stranger Things\" e \"KPop Demon Hunters\"",
+        "_yoast_wpseo_metadesc": "Netflix muda estratégia e lança \"Stranger Things\" e \"KPop Demon Hunters\" em cinemas. Descubra o motivo por trás da quebra de sua regra principal.",
+        "_yoast_wpseo_focuskw": "Netflix quebra regra lançamentos cinema",
+        "_yoast_news_keywords": "Netflix, Stranger Things, KPop Demon Hunters, lançamento cinema, streaming, marketing",
+        "_yoast_wpseo_opengraph-title": "Netflix Quebra Regra de Ouro para \"Stranger Things\" e \"KPop Demon Hunters\"",
+        "_yoast_wpseo_opengraph-description": "Netflix muda estratégia e lança \"Stranger Things\" e \"KPop Demon Hunters\" em cinemas. Descubra o motivo por trás da quebra de sua regra principal.",
+        "_yoast_wpseo_twitter-title": "Netflix Quebra Regra de Ouro para \"Stranger Things\" e \"KPop Demon Hunters\"",
+        "_yoast_wpseo_twitter-description": "Netflix muda estratégia e lança \"Stranger Things\" e \"KPop Demon Hunters\" em cinemas. Descubra o motivo por trás da quebra de sua regra principal."
+      }
+    }
+  ]
+}

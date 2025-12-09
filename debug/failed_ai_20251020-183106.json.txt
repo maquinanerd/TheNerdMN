@@ -1,0 +1,58 @@
+{
+  "titulo_final": "Homem-Aranha 4: Charlie Cox desmente rumor de participação",
+  "conteudo_final": "<p>A produção de <b>Spider-Man: Brand New Day</b> está a todo vapor, e os fãs da Marvel já especulam sobre as surpresas que o próximo capítulo do Universo Cinematográfico Marvel (MCU) reserva. O estúdio confirmou a participação de Mark Ruffalo como Hulk e Jon Bernthal como o Justiceiro, além de um elenco de vilões que promete intensificar a trama. Rumores sobre a presença de Charlie Cox como o Demolidor no filme também ganharam força, mas o próprio ator veio a público para desmentir a informação.</p><h2>Charlie Cox nega participação em Homem-Aranha 4</h2><p>Em entrevista a Brandon Davis, do Phase Hero, Charlie Cox foi enfático ao negar os boatos sobre sua aparição em <b>Spider-Man: Brand New Day</b>. Embora ciente da especulação da comunidade online, que associa sua atual filmagem em Londres à participação no longa do Homem-Aranha, o ator ressaltou que seu foco está inteiramente em <b>Daredevil</b>.</p><p>“Bem, eu não leio nada, então não sei [o que os fãs dizem online],” declarou Cox. “Sei que todos acham que estou em Homem-Aranha porque estou filmando algo em Londres, o que não é verdade. Eu não estou em Homem-Aranha… Estou apenas concentrado em DD no momento.”</p><p>Fãs da Marvel aguardam ansiosamente por uma interação entre o Homem-Aranha de Tom Holland e o Demolidor de Charlie Cox. Nos quadrinhos, a parceria entre os dois heróis de rua é frequente. <b>Daredevil: Born Again</b> chegou a sugerir a presença contínua do Homem-Aranha em Nova York após os eventos de <b>Spider-Man: No Way Home</b>, mas um encontro em tela ainda não ocorreu.</p><p>Apesar da declaração de Cox, é sabido que atores da Marvel frequentemente negam envolvimento em projetos para preservar segredos. Isso cria um dilema para o estúdio: especulações não confirmadas podem gerar decepção, enquanto desmentidos podem ser desacreditados pelos fãs, que esperam confirmações apenas em tela. Essa dualidade se tornou um desafio para a Marvel.</p><p>No entanto, Charlie Cox retornará ao MCU em 2026, com a segunda temporada de <b>Daredevil: Born Again</b> prevista para estrear no Disney+ na primavera. Os fãs aguardarão para ver se sua aparição ocorrerá em <b>Spider-Man 4</b>, que tem lançamento previsto para o verão.</p>",
+  "meta_description": "Charlie Cox nega rumores de sua participação em Spider-Man: Brand New Day. Atores da Marvel frequentemente despistam sobre futuros projetos.",
+  "focus_keyphrase": "Spider-Man: Brand New Day",
+  "related_keyphrases": [
+    "Homem-Aranha 4",
+    "Charlie Cox Demolidor",
+    "MCU"
+  ],
+  "slug": "homem-aranha-4-charlie-cox-desmente-rumor",
+  "categorias": [
+    {
+      "nome": "Spider-Man: Brand New Day",
+      "grupo": "obras",
+      "evidence": "Spider-Man: Brand New Day"
+    },
+    {
+      "nome": "Demolidor",
+      "grupo": "franquias",
+      "evidence": "Charlie Cox’s Daredevil"
+    },
+    {
+      "nome": "MCU",
+      "grupo": "franquias",
+      "evidence": "MCU’s next chapter"
+    }
+  ],
+  "tags_sugeridas": [
+    "homem-aranha",
+    "demolidor",
+    "charlie cox",
+    "mcu",
+    "marvel",
+    "disney+",
+    "daredevil born again"
+  ],
+  "image_alt_texts": {
+    "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Homem-Aranha: Brand New Day rumor negado por Charlie Cox.",
+    "Escape-from-New-York.jpg": "Charlie Cox desmente participação em Homem-Aranha 4.",
+    "Battlestar-Galactica-33.jpg": "Rumor sobre Demolidor em Homem-Aranha 4 é desmentido.",
+    "Star-Cops.jpg": "Charlie Cox foca em Daredevil e nega Homem-Aranha 4.",
+    "comicbook.com-images3.png": "Homem-Aranha 4: Charlie Cox desmente participação em entrevista.",
+    "p-s-5-p-r-o.png": "Spider-Man: Brand New Day sem Demolidor, confirma Charlie Cox.",
+    "p-s-5_aed69f.png": "Marvel desmente rumor de Charlie Cox em Homem-Aranha 4.",
+    "sunshine.jpg": "Charlie Cox sobre Demolidor: Born Again e Homem-Aranha 4."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Homem-Aranha 4: Charlie Cox desmente rumor de participação",
+    "_yoast_wpseo_metadesc": "Charlie Cox desmente rumores de sua participação em Spider-Man: Brand New Day. Atores da Marvel frequentemente despistam sobre futuros projetos.",
+    "_yoast_wpseo_focuskw": "Spider-Man: Brand New Day",
+    "_yoast_news_keywords": "Spider-Man: Brand New Day, Homem-Aranha 4, Charlie Cox, Demolidor, MCU, Marvel Studios, Disney+",
+    "_yoast_wpseo_opengraph-title": "Homem-Aranha 4: Charlie Cox desmente rumor de participação",
+    "_yoast_wpseo_opengraph-description": "Charlie Cox nega boatos sobre sua aparição em Spider-Man: Brand New Day e afirma que seu foco está em Daredevil: Born Again.",
+    "_yoast_wpseo_twitter-title": "Homem-Aranha 4: Charlie Cox desmente rumor",
+    "_yoast_wpseo_twitter-description": "Charlie Cox desmente participação em Homem-Aranha 4, focado em Daredevil: Born Again. Fãs aguardam novidades do MCU."
+  }
+}

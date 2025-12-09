@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Stranger Things: Noah Schnapp e Maya Hawke comentam parceria de Will e Robin",
+      "conteudo_final": "<p>As estrelas de <strong>Stranger Things</strong>, Maya Hawke e Noah Schnapp, reagiram à melhor nova dupla de personagens da quinta temporada. Stranger Things é conhecida por unir personagens improváveis que criam mágica na tela; Steve Harrington (Joe Keery) e Dustin Henderson (Gaten Matarazzo), que se tornaram inseparáveis desde a segunda temporada, certamente vêm à mente.</p><h2>A Nova Dupla em Hawkins</h2><p>Há uma nova e charmosa dupla em Hawkins na quinta temporada de Stranger Things. Enquanto Will Byers (Schnapp) finalmente reivindica seus poderes dados por Vecna e se descobre, Will expande seu círculo social, encontrando conforto e apoio com a melhor amiga de Steve, Robin Buckley (Hawke). Como os únicos personagens LGBTQ+ de destaque de Stranger Things, a conexão deles não é surpreendente, embora tenha sido um dos pontos altos desta temporada.</p><p>Foi um dos destaques nas filmagens da quinta temporada de Stranger Things para os atores também. Em uma entrevista com a TUDUM da Netflix, Hawke e Schnapp descreveram suas experiências no set juntos e o que essa nova amizade significa para Robin e Will, respectivamente. \"A mentoria de Robin para Will, eu assumi como minha responsabilidade com Noah\", disse Hawke à TUDUM.</p><p>\"O personagem dele realmente se descobre nesta [temporada], em mais de uma maneira, e acho que isso faz Robin se sentir menos sozinha e também útil\", continuou ela. Dado que a crença e aceitação inequívocas de Robin por Will desempenham um papel importante em seu confronto superpoderoso no episódio 4 da quinta temporada de Stranger Things, \"Capítulo Quatro: Feiticeiro\", não se pode negar a \"utilidade\" de Robin nesta temporada.</p><h2>O Impacto Emocional da Amizade</h2><p>Uma das cenas mais emocionalmente ressonantes da temporada envolve Robin contando a Will como sua paixão pelo cantor desafinado e piada recorrente, Tammy Thompson, levou à autoaceitação, algo com que Will lutou desde o início da série. Filmar essa cena deixou uma grande impressão em Hawke.</p><p>\"Se fiz um trabalho decente naquela cena, tudo é mérito de Noah, por quão presente ele estava e quão ativo em sua vida emocional ele era e quanto ele me deu para trabalhar\", compartilhou ela.</p><p>Schnapp também ficou grato pelo tempo que passou com Hawke no set nesta temporada, referindo-se a ela como seu \"crush de trabalho\" e descrevendo o relacionamento deles no set como um espelho do relacionamento de seus personagens na tela. \"Eu sempre tive um crush de trabalho em Maya Hawke, que interpreta Robin, e realmente queria trabalhar com ela\", revelou Schnapp à TUDUM.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/will-and-robin-smiling-while-walking-in-the-tunnels-in-stranger-things-season-5.jpg?q=49&fit=crop&w=825&dpr=2" alt="Will e Robin sorrindo enquanto caminham nos túneis na quinta temporada de Stranger Things."/><figcaption>Will e Robin em uma cena da quinta temporada de Stranger Things.</figcaption></figure><p>\"Eu sempre a observava nas outras temporadas e pensava: 'Oh meu Deus, ela é magnética. Eu a amo. Quero ter uma cena com ela'. E eu nunca cheguei a interagir de verdade. Então, quando li os roteiros desta temporada, e era muito sobre mim e Robin por quatro ou cinco episódios, fiquei muito animado para filmar com ela.\".</p><p>O ator continuou: \"Ela foi incrível de trabalhar e me ensinou muito. Ela se tornou como uma irmã mais velha para mim, e foi muito legal. Nosso relacionamento na série versus fora da série meio que se espelhou. Ela foi uma espécie de mentora para mim durante o ano\".</p><p>De acordo com Schnapp, o mesmo nível de respeito e admiração se reflete na dinâmica de seus personagens. \"Acho que foi incrivelmente importante para a história de Will conhecer Robin e ver alguém tão seguro de sua própria identidade e compartilhar sua sabedoria com ele para ajudá-lo a se encontrar\", explicou Schnapp.</p><h2>O Apoio Incondicional</h2><p>Stranger Things deixou claro que tanto a mãe de Will, Joyce (Winona Ryder), quanto seu irmão mais velho, Jonathan (Charlie Heaton), o amarão e apoiarão não importa o quê. Eles iriam e, argumentavelmente, já foram até o fim do mundo por ele, e Will e Jonathan compartilharam um diálogo emocionante na quarta temporada de Stranger Things que desempenhou um papel importante na jornada de autoconhecimento de Will.</p><p>Mesmo assim, Robin pode entender os medos e sonhos de Will de uma forma que eles nunca poderiam, e a amizade deles tem sido um verdadeiro farol de esperança em uma temporada que, de outra forma, é violenta e assustadora. Mais uma vez, <strong>Stranger Things</strong> provou que a maior força da série são seus personagens e sua dependência uns dos outros — especialmente enquanto eles enfrentam o fim do mundo pela última vez.</p>",
+      "meta_description": "Noah Schnapp e Maya Hawke comentam a nova dinâmica entre Will e Robin na 5ª temporada de Stranger Things, destacando a mentoria e o apoio mútuo.",
+      "focus_keyphrase": "Stranger Things Will e Robin",
+      "related_keyphrases": [
+        "Noah Schnapp Maya Hawke",
+        "Stranger Things 5 amizade Will Robin",
+        "Robin Buckley Will Byers"
+      ],
+      "slug": "stranger-things-will-robin-parceria-5-temporada",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "franquias",
+          "evidence": "Stranger Things season 5"
+        },
+        {
+          "nome": "Maya Hawke",
+          "grupo": "atores",
+          "evidence": "Maya Hawke"
+        },
+        {
+          "nome": "Noah Schnapp",
+          "grupo": "atores",
+          "evidence": "Noah Schnapp"
+        }
+      ],
+      "tags_sugeridas": [
+        "Stranger Things",
+        "Maya Hawke",
+        "Noah Schnapp",
+        "Robin Buckley",
+        "Will Byers",
+        "Netflix",
+        "Série"
+      ],
+      "image_alt_texts": {
+        "will-and-robin-smiling-while-walking-in-the-tunnels-in-stranger-things-season-5.jpg?q=49&fit=crop&w=825&dpr=2": "Will e Robin sorrindo enquanto caminham nos túneis na quinta temporada de Stranger Things."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Stranger Things: Noah Schnapp e Maya Hawke comentam parceria de Will e Robin",
+        "_yoast_wpseo_metadesc": "Noah Schnapp e Maya Hawke comentam a nova dinâmica entre Will e Robin na 5ª temporada de Stranger Things, destacando a mentoria e o apoio mútuo.",
+        "_yoast_wpseo_focuskw": "Stranger Things Will e Robin",
+        "_yoast_news_keywords": "Stranger Things, Will Byers, Robin Buckley, Maya Hawke, Noah Schnapp, Netflix",
+        "_yoast_wpseo_opengraph-title": "Stranger Things: Noah Schnapp e Maya Hawke comentam parceria de Will e Robin",
+        "_yoast_wpseo_opengraph-description": "Noah Schnapp e Maya Hawke comentam a nova dinâmica entre Will e Robin na 5ª temporada de Stranger Things, destacando a mentoria e o apoio mútuo.",
+        "_yoast_wpseo_twitter-title": "Stranger Things: Noah Schnapp e Maya Hawke comentam parceria de Will e Robin",
+        "_yoast_wpseo_twitter-description": "Noah Schnapp e Maya Hawke comentam a nova dinâmica entre Will e Robin na 5ª temporada de Stranger Things, destacando a mentoria e o apoio mútuo."
+      }
+    }
+  ]
+}

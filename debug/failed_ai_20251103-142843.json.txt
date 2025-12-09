@@ -1,0 +1,135 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "100 Nights of Hero: Trailer Revela Triângulo Amoroso e Fantasia Romântica",
+      "conteudo_final": "<p>O novo trailer de <strong><em>100 Nights of Hero</em></strong>, estrelado por Maika Monroe, foi divulgado, apresentando um elenco de peso e um intrigante triângulo amoroso em um cenário de fantasia.</p><h2>Sinopse e Enredo</h2><p>Dirigido por Julia Jackman, o filme acompanha Cherry, uma noiva negligenciada que se torna o centro de uma aposta perigosa. Seu marido, desatento, aposta com um amigo que ele conseguirá seduzi-la em 100 noites. A trama promete explorar as complexidades desse jogo de sedução e as consequências que ele trará.</p><h2>Elenco Estrelado</h2><p>O longa conta com um elenco notável, incluindo Emma Corrin como Hero, Nicholas Galltzine como Manfred, Maika Monroe como Cherry, a cantora Charli XCX como Rosa e o veterano Richard E. Grant interpretando Birdman. A diversidade de talentos sugere uma dinâmica interessante entre os personagens.</p><h2>Recepção Inicial</h2><p>Com lançamento previsto para 5 de dezembro, <em>100 Nights of Hero</em> já acumula uma pontuação perfeita de 100% no Rotten Tomatoes. Críticos elogiaram a narrativa \"excêntrica e engraçada\" apresentada por Jackman, indicando que o filme pode ser um sucesso de crítica antes mesmo de chegar ao público.</p>",
+      "meta_description": "Trailer de 100 Nights of Hero com Maika Monroe revela fantasia romântica e triângulo amoroso. Filme estreia em dezembro com elenco estelar.",
+      "focus_keyphrase": "100 Nights of Hero trailer",
+      "related_keyphrases": [
+        "Maika Monroe 100 Nights of Hero",
+        "filme fantasia romântica",
+        "triângulo amoroso cinema"
+      ],
+      "slug": "100-nights-of-hero-trailer-maika-monroe",
+      "categorias": [
+        {
+          "nome": "100 Nights of Hero",
+          "grupo": "obras",
+          "evidence": "100 Nights of Hero"
+        }
+      ],
+      "tags_sugeridas": [
+        "100 Nights of Hero",
+        "Maika Monroe",
+        "Emma Corrin",
+        "Nicholas Galltzine",
+        "Charli XCX",
+        "Julia Jackman"
+      ],
+      "image_alt_texts": {
+        "godzilla-minus-one_x9chdn-cropped.jpg": "Maika Monroe em cena de 100 Nights of Hero, exibindo o triângulo amoroso.",
+        "ghidorah-from-godzilla-king-of-the-monsters.jpg": "Elenco de 100 Nights of Hero reunido em uma cena promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "100 Nights of Hero: Trailer Revela Triângulo Amoroso e Fantasia Romântica",
+        "_yoast_wpseo_metadesc": "Trailer de 100 Nights of Hero com Maika Monroe revela fantasia romântica e triângulo amoroso. Filme estreia em dezembro com elenco estelar.",
+        "_yoast_wpseo_focuskw": "100 Nights of Hero trailer",
+        "_yoast_news_keywords": "100 Nights of Hero, Maika Monroe, Emma Corrin, Nicholas Galltzine, Charli XCX, Julia Jackman, trailer filme",
+        "_yoast_wpseo_opengraph-title": "100 Nights of Hero: Trailer Revela Triângulo Amoroso e Fantasia Romântica",
+        "_yoast_wpseo_opengraph-description": "Trailer de 100 Nights of Hero com Maika Monroe revela fantasia romântica e triângulo amoroso. Filme estreia em dezembro com elenco estelar.",
+        "_yoast_wpseo_twitter-title": "100 Nights of Hero: Trailer Revela Triângulo Amoroso e Fantasia Romântica",
+        "_yoast_wpseo_twitter-description": "Trailer de 100 Nights of Hero com Maika Monroe revela fantasia romântica e triângulo amoroso. Filme estreia em dezembro com elenco estelar."
+      }
+    },
+    {
+      "titulo_final": "Godzilla Minus Zero: Título da Sequência e Possível Tease de Ghidorah",
+      "conteudo_final": "<p>O ano de 2023 marcou uma virada para a franquia <em>Godzilla</em> da Toho. O filme <em>Godzilla Minus One</em>, dirigido por Takashi Yamazaki, não só se tornou um dos melhores filmes do Gojira já feitos, como também foi um sucesso de bilheteria e conquistou um Oscar. Esse sucesso impulsionou a produção de uma sequência, que agora tem seu título revelado: <strong><em>Godzilla Minus Zero</em></strong>.</p><h2>O Significado de \"Minus Zero\"</h2><p>Yamazaki retorna para escrever e dirigir a continuação. Assim como o título do primeiro filme gerou muitas discussões, o mesmo acontece com <em>Godzilla Minus Zero</em>. A escolha do título pode ter múltiplos significados, conectando-se ao filme anterior e antecipando a nova história.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/msIIHSrWjgo\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>Inicialmente, o título <em>Godzilla Minus Zero</em> pode parecer matematicamente impossível. No entanto, no contexto da computação, um zero negativo é usado para representar um número abaixo de zero que foi arredondado para cima, com o sinal negativo indicando que ainda está abaixo do limite.</p><p>No filme anterior, <em>Godzilla Minus One</em>, o título refletia que o Japão já estava em um estado crítico, próximo a zero, após a Segunda Guerra Mundial. A aparição de Godzilla e a destruição causada pioraram ainda mais a situação, justificando o uso do "-1".</p><h2>O Estado do Japão na Sequência</h2><p>A escolha de <em>Minus Zero</em> para a sequência pode indicar a recuperação do Japão após os eventos do primeiro filme. Se o país estava em \"menos um\", a lógica sugere que a situação agora é melhor, embora ainda não ideal. O \"zero negativo\" pode significar que o país ainda enfrenta dificuldades, mas não está mais no ponto mais baixo.</p><p>Essa nuance é importante, pois o título poderia ter sido mais direto, como <em>Minus Two</em>, para indicar uma piora. O uso de -0.0 no título oficial reforça a ideia de um Japão em recuperação, mas ainda fragilizado.</p><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/godzilla-minus-one_x9chdn-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/godzilla-minus-one_x9chdn-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Godzilla causando destruição em Godzilla Minus One\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/godzilla-minus-one_x9chdn-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"928\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/godzilla-minus-one_x9chdn-cropped.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Godzilla causando destruição em Godzilla Minus One.</figcaption></figure><p>Ainda não se sabe quanto tempo se passará entre os dois filmes. Se vários anos se completarem e a história se passar nos anos 1950, o fato de a condição do Japão ainda ser vista como abaixo do ponto mais baixo real da época ilustraria o quão severamente os eventos do primeiro filme impactaram a recuperação do país.</p><h2>Ghidorah em Godzilla Minus Zero?</h2><p>Além das implicações para o Japão, há uma forte possibilidade de que o título <em>Godzilla Minus Zero</em> seja um indício da introdução de Ghidorah. Yamazaki já havia sugerido que uma sequência de <em>Minus One</em> incluiria outros kaijus, e seria lógico que o Rei dos Monstros enfrentasse um deles desta vez.</p><p>O universo Toho possui diversos monstros clássicos, e <em>Godzilla Minus One</em> já explorou vilões icônicos. O título, de forma inteligente, aponta para Ghidorah, um dos mais notórios. O nome \"Monster Zero\" é um dos vários aliases que a criatura com três cabeças já recebeu ao longo de sua história.</p><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ghidorah-from-godzilla-king-of-the-monsters.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ghidorah-from-godzilla-king-of-the-monsters.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Ghidorah em Godzilla: Rei dos Monstros\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ghidorah-from-godzilla-king-of-the-monsters.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"928\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/ghidorah-from-godzilla-king-of-the-monsters.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption>Ghidorah em Godzilla: Rei dos Monstros.</figcaption></figure><p>Assim, <em>Godzilla Minus Zero</em> teria um duplo significado: além de contextualizar o estado do Japão na época, serviria como um prenúncio da chegada de um dos vilões mais icônicos da Toho.</p><p>King Ghidorah estreou em 1964, em <em>Ghidorah, the Three-Headed Monster</em>. A criatura, com suas três cabeças características, foi originalmente apresentada como um alienígena com a missão de destruir a Terra. Filmes posteriores alteraram sua origem para um ser do futuro, um guardião ancestral japonês ou um deus de uma dimensão alternativa.</p><p>Esta seria a 12ª aparição cinematográfica de Ghidorah. Sua última participação foi como o principal antagonista em <em>Godzilla: King of the Monsters</em> (2019), no Monsterverse. Com a sequência de <em>Minus One</em> prevista para 2026, haverá um intervalo de sete anos desde a última vez que o público viu o monstro.</p><p>A inclusão de Ghidorah como vilão em <em>Godzilla Minus Zero</em> permitiria a continuação de uma rivalidade cinematográfica de longa data. Além disso, traria outro monstro importante da Toho, garantindo um aumento significativo na escala do conflito entre Godzilla e Monster Zero.</p><p>Caso o dragão alienígena seja realmente incluído, será fascinante observar como o filme abordará sua história de origem. A tradicional origem extraterrestre pode parecer deslocada, dependendo do quanto a sequência se aprofundar nas dificuldades reais enfrentadas pela humanidade.</p><p>De qualquer forma, o título de <em>Godzilla Minus Zero</em> abre espaço para diversas interpretações e discussões. À medida que mais detalhes sobre o filme forem revelados, novos significados poderão surgir e as leituras atuais serão confirmadas.</p>",
+      "meta_description": "Godzilla Minus Zero: Título da sequência de Godzilla Minus One pode indicar recuperação do Japão e a possível volta de Ghidorah. Saiba mais!",
+      "focus_keyphrase": "Godzilla Minus Zero título",
+      "related_keyphrases": [
+        "Godzilla Minus One sequência",
+        "Toho Kaiju",
+        "King Ghidorah"
+      ],
+      "slug": "godzilla-minus-zero-titulo-ghidorah",
+      "categorias": [
+        {
+          "nome": "Godzilla",
+          "grupo": "franquias",
+          "evidence": "Godzilla franchise"
+        },
+        {
+          "nome": "Godzilla Minus One",
+          "grupo": "obras",
+          "evidence": "Godzilla Minus One"
+        },
+        {
+          "nome": "Godzilla Minus Zero",
+          "grupo": "obras",
+          "evidence": "Godzilla Minus Zero"
+        }
+      ],
+      "tags_sugeridas": [
+        "Godzilla",
+        "Godzilla Minus One",
+        "Godzilla Minus Zero",
+        "Takashi Yamazaki",
+        "Ghidorah",
+        "Toho",
+        "Kaiju"
+      ],
+      "image_alt_texts": {
+        "godzilla-minus-one_x9chdn-cropped.jpg": "Godzilla causando destruição em Godzilla Minus One.",
+        "ghidorah-from-godzilla-king-of-the-monsters.jpg": "Ghidorah em Godzilla: Rei dos Monstros."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Godzilla Minus Zero: Título da Sequência e Possível Tease de Ghidorah",
+        "_yoast_wpseo_metadesc": "Godzilla Minus Zero: Título da sequência de Godzilla Minus One pode indicar recuperação do Japão e a possível volta de Ghidorah. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Godzilla Minus Zero título",
+        "_yoast_news_keywords": "Godzilla, Godzilla Minus One, Godzilla Minus Zero, Takashi Yamazaki, Ghidorah, Toho, Kaiju, Godzilla Minus One sequel",
+        "_yoast_wpseo_opengraph-title": "Godzilla Minus Zero: Título da Sequência e Possível Tease de Ghidorah",
+        "_yoast_wpseo_opengraph-description": "Godzilla Minus Zero: Título da sequência de Godzilla Minus One pode indicar recuperação do Japão e a possível volta de Ghidorah. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Godzilla Minus Zero: Título da Sequência e Possível Tease de Ghidorah",
+        "_yoast_wpseo_twitter-description": "Godzilla Minus Zero: Título da sequência de Godzilla Minus One pode indicar recuperação do Japão e a possível volta de Ghidorah. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Blake Lively Vence Processo de US$ 400 Milhões Contra Justin Baldoni",
+      "conteudo_final": "<p>Uma parte significativa da batalha legal entre Blake Lively e Justin Baldoni, iniciada após o filme <em><strong>It Ends With Us</strong></em>, chegou ao fim. O processo envolvia alegações de difamação e somava US$ 400 milhões.</p><h2>Decisão Judicial</h2><p>O juiz distrital dos EUA, Lewis Liman, decidiu a favor de Blake Lively e Ryan Reynolds, encerrando o contra-processo de difamação movido por Justin Baldoni e sua produtora, Wayfarer Studios. A decisão ocorreu após o diretor e sua empresa falharem em apresentar novas queixas emendadas antes do prazo estabelecido pelo tribunal, após o caso ter sido inicialmente arquivado em junho.</p><h2>Custos Legais</h2><p>No documento judicial, Lively foi a única parte a responder ao pedido do juiz para encerrar o caso completamente. Além da derrota na batalha legal, o juiz concordou com o pedido de Lively para que Baldoni cobrisse seus custos legais. Até o momento, o cineasta de <em>It Ends With Us</em> não exerceu seu direito de apelar da sentença.</p>",
+      "meta_description": "Blake Lively vence processo de US$ 400 milhões contra Justin Baldoni. Juiz encerra contra-processo de difamação, e Baldoni pode cobrir custos legais.",
+      "focus_keyphrase": "Blake Lively Justin Baldoni processo",
+      "related_keyphrases": [
+        "It Ends With Us processo",
+        "Ryan Reynolds",
+        "Wayfarer Studios"
+      ],
+      "slug": "blake-lively-justin-baldoni-processo-vencido",
+      "categorias": [
+        {
+          "nome": "It Ends With Us",
+          "grupo": "obras",
+          "evidence": "It Ends With Us"
+        }
+      ],
+      "tags_sugeridas": [
+        "Blake Lively",
+        "Justin Baldoni",
+        "Ryan Reynolds",
+        "It Ends With Us",
+        "Processo judicial",
+        "Wayfarer Studios"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Blake Lively Vence Processo de US$ 400 Milhões Contra Justin Baldoni",
+        "_yoast_wpseo_metadesc": "Blake Lively vence processo de US$ 400 milhões contra Justin Baldoni. Juiz encerra contra-processo de difamação, e Baldoni pode cobrir custos legais.",
+        "_yoast_wpseo_focuskw": "Blake Lively Justin Baldoni processo",
+        "_yoast_news_keywords": "Blake Lively, Justin Baldoni, Ryan Reynolds, It Ends With Us, Processo judicial, Wayfarer Studios, difamação",
+        "_yoast_wpseo_opengraph-title": "Blake Lively Vence Processo de US$ 400 Milhões Contra Justin Baldoni",
+        "_yoast_wpseo_opengraph-description": "Blake Lively vence processo de US$ 400 milhões contra Justin Baldoni. Juiz encerra contra-processo de difamação, e Baldoni pode cobrir custos legais.",
+        "_yoast_wpseo_twitter-title": "Blake Lively Vence Processo de US$ 400 Milhões Contra Justin Baldoni",
+        "_yoast_wpseo_twitter-description": "Blake Lively vence processo de US$ 400 milhões contra Justin Baldoni. Juiz encerra contra-processo de difamação, e Baldoni pode cobrir custos legais."
+      }
+    }
+  ]
+}

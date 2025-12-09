@@ -1,0 +1,43 @@
+{
+  "titulo_final": "Rocky Horror: Mick Jagger quase substituiu Tim Curry como Dr. Frank-N-Furter",
+  "conteudo_final": "<p>É difícil imaginar <strong><em>The Rocky Horror Picture Show</em></strong> sem Tim Curry no papel do inesquecível Dr. Frank-N-Furter, mas essa possibilidade quase se concretizou com a participação de um icônico roqueiro. Cinquenta anos depois, o filme ainda encanta audiências, e embora nomes como Susan Sarandon e Richard O'Brien sejam brilhantes, a performance de Curry é incomparável.</p>\n\n<h2>Mick Jagger Quase Foi Frank-N-Furter</h2>\n\n<p>Com origens no teatro musical, não é surpresa que <em>The Rocky Horror Picture Show</em> tenha atraído músicos famosos. Meat Loaf interpretou Eddie, e outros artistas como Joan Jett e Nicole Scherzinger já passaram pelos palcos. Curiosamente, um nome muito maior do que eles quase assumiu o papel de Tim Curry.</p>\n\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/Mick-Jagger-Freejack.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" alt=\"Mick Jagger em Freejack.\"></figure>\n\n<p>Segundo o próprio Tim Curry, houve um grande interesse de Mick Jagger em interpretar Frank-N-Furter na adaptação cinematográfica de 1975. Curry explicou à <em>LA Times</em>:</p>\n\n<blockquote>\n<p>“Quando o filme se tornou uma coisa definida, várias grandes estrelas queriam interpretar o papel. Mick Jagger queria interpretar e ele teria feito um ótimo trabalho, se você vir Performance. Mas [Jim Sharman, o diretor] disse que queria que eu fizesse. Acho que o estúdio não ficou feliz por ele ter recusado Mick.”</p>\n</blockquote>\n\n<p>Curry já havia interpretado o papel no musical original de Londres, e a decisão de mantê-lo em vez de Jagger foi crucial para a autenticidade do filme. Richard O'Brien, Little Nell e Patricia Quinn também transitaram do palco para a tela, demonstrando o esforço em recapturar a magia da peça. A permanência de Tim Curry foi um passo gigantesco para manter o espírito original intacto.</p>\n\n<h2>O Legado de Tim Curry em Rocky Horror</h2>\n\n<p>Embora Tim Curry humildemente afirme que Mick Jagger “<em>teria feito um ótimo trabalho</em>”, ele se subestima. Muitos atores assumiram o papel de Curry desde 1975, com alguns sendo bons, outros ótimos, mas nenhum fenomenal. Todos tentaram sequer chegar perto da performance de Curry.</p>\n\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/09/Tim-Curry-in-The-Rocky-Horror-Picture-Show.jpeg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" alt=\"Tim Curry em The Rocky Horror Picture Show.\"></figure>\n\n<p>Não há dúvida de que Mick Jagger teria entregado energia sexual, carisma bruto e excentricidade efervescente, mas ele inevitavelmente estaria emulando seu antecessor. Mais importante, seria difícil olhar para o Frank-N-Furter de Jagger e não ver o vocalista dos Rolling Stones, dada a sua fama. Tim Curry, por outro lado, habitou o papel tão completamente que transportou até o espectador mais conservador para um mundo distante de filmes B e vinil.</p>\n\n<p>O filme de 1975 deu a <em>The Rocky Horror Picture Show</em> a plataforma para se tornar um marco cultural, garantindo que \"The Time Warp\" ainda fosse relevante 50 anos depois. Se o filme tivesse optado pela versão de Mick Jagger de Frank-N-Furter em vez do poder máximo e puro do original em Tim Curry, é difícil imaginar <strong><em>The Rocky Horror Picture Show</strong></em> desfrutando da mesma longevidade e sucesso.</p>\n\n<figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2020/11/The-Rocky-Horror-Picture-Show-Movie-Poster.jpg?q=70&amp;fit=contain&amp;w=480&amp;dpr=1\" alt=\"Poster do filme The Rocky Horror Picture Show.\"></figure>",
+  "meta_description": "Descubra como Mick Jagger quase substituiu Tim Curry como o icônico Dr. Frank-N-Furter em The Rocky Horror Picture Show de 1975.",
+  "focus_keyphrase": "The Rocky Horror Picture Show",
+  "related_keyphrases": [
+    "Tim Curry",
+    "Mick Jagger",
+    "Dr. Frank-N-Furter"
+  ],
+  "slug": "rocky-horror-mick-jagger-tim-curry",
+  "categorias": [
+    {
+      "nome": "The Rocky Horror Picture Show",
+      "grupo": "obras",
+      "evidence": "<em>The Rocky Horror Picture Show</em>"
+    }
+  ],
+  "tags_sugeridas": [
+    "The Rocky Horror Picture Show",
+    "Tim Curry",
+    "Mick Jagger",
+    "Dr. Frank-N-Furter",
+    "Jim Sharman",
+    "Rock Music",
+    "Cult Classics"
+  ],
+  "image_alt_texts": {
+    "Mick-Jagger-Freejack.jpg": "Mick Jagger, o vocalista dos Rolling Stones, em uma cena do filme Freejack.",
+    "Tim-Curry-in-The-Rocky-Horror-Picture-Show.jpeg": "Tim Curry no papel icônico de Dr. Frank-N-Furter em The Rocky Horror Picture Show.",
+    "The-Rocky-Horror-Picture-Show-Movie-Poster.jpg": "Poster do filme cult The Rocky Horror Picture Show."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Rocky Horror: Mick Jagger quase substituiu Tim Curry como Dr. Frank-N-Furter | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "Descubra como Mick Jagger quase substituiu Tim Curry como o icônico Dr. Frank-N-Furter em The Rocky Horror Picture Show de 1975.",
+    "_yoast_wpseo_focuskw": "The Rocky Horror Picture Show",
+    "_yoast_news_keywords": "The Rocky Horror Picture Show, Tim Curry, Mick Jagger, Dr. Frank-N-Furter, Jim Sharman, Musicals, Cult Classics",
+    "_yoast_wpseo_opengraph-title": "Rocky Horror: Mick Jagger quase substituiu Tim Curry como Dr. Frank-N-Furter",
+    "_yoast_wpseo_opengraph-description": "Descubra como Mick Jagger quase substituiu Tim Curry como o icônico Dr. Frank-N-Furter em The Rocky Horror Picture Show de 1975.",
+    "_yoast_wpseo_twitter-title": "Rocky Horror: Mick Jagger quase substituiu Tim Curry como Dr. Frank-N-Furter",
+    "_yoast_wpseo_twitter-description": "Descubra como Mick Jagger quase substituiu Tim Curry como o icônico Dr. Frank-N-Furter em The Rocky Horror Picture Show de 1975."
+  }
+}

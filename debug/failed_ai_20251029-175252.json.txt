@@ -1,0 +1,55 @@
+{
+  "titulo_final": "10 Episódios de Sitcom dos Anos 90 que Superam as Produções Atuais",
+  "conteudo_final": "<p>Embora sejam produções dos anos 90, estes episódios de sitcom continuam excelentes e, em muitos casos, superam as comédias mais recentes. Amamos assistir a comédias contemporâneas como <em>Abbott Elementary</em> e acompanhar novos lançamentos, mas há um conforto especial em revisitar séries queridas daquela década.</p><p>Independentemente da qualidade da TV atual, esses episódios de sitcoms antigas nos fazem refletir sobre temas sérios, relembrar emoções vividas na primeira vez que os assistimos e apreciar a sabedoria e o humor de personagens amados. De episódios que marcaram o início de séries icônicas a aventuras temáticas de terror, estas joias continuam impressionantes.</p><h2>Mad About You, “Neighbors From Hell”</h2><p>A subestimada sitcom <em>Mad About You</em> apresenta um episódio particularmente excelente em sua primeira temporada que demonstra o porquê de sua relevância. É hilário observar Jamie (Helen Hunt) e Paul Buchman (Paul Reiser) tentando se tornar amigos de seus vizinhos no prédio, Maggie (Judy Geeson) e Hal Conway (Paxton Whitehead), que não os suportam.</p><figure><img src=\"https:
+  "meta_description": "Descubra 10 episódios de sitcoms dos anos 90 que continuam relevantes e superam muitas produções atuais em humor e profundidade.",
+  "focus_keyphrase": "episódios de sitcom anos 90",
+  "related_keyphrases": [
+    "sitcoms clássicas",
+    "melhores episódios de TV",
+    "comédias dos anos 90"
+  ],
+  "slug": "sitcoms-anos-90-episodios-classicos",
+  "categorias": [
+    {
+      "nome": "Sitcom",
+      "grupo": "obras",
+      "evidence": "sitcoms"
+    },
+    {
+      "nome": "Anos 90",
+      "grupo": "franquias",
+      "evidence": "1990s"
+    }
+  ],
+  "tags_sugeridas": [
+    "sitcom",
+    "anos 90",
+    "Friends",
+    "Seinfeld",
+    "Mad About You",
+    "Frasier",
+    "Boy Meets World"
+  ],
+  "image_alt_texts": {
+    "mad-about-you.jpg": "Paul e Jamie em Mad About You.",
+    "friends-pilot-rachel-on-the-phone-with-ross-behind-her.jpg": "Rachel em Friends.",
+    "frasier-dinner-party.jpg": "Frasier e Niles em Frasier.",
+    "Boy-Meets-World-And-Then-There-Was-Shawn-Season-5.jpg": "Cory, Shawn, Topanga e Angela em Boy Meets World.",
+    "family-matters-laura.jpg": "Laura Winslow em Family Matters.",
+    "newsradio-smoking-episode.jpg": "Phil Hartman e Dave Foley em Newsradio.",
+    "sex-and-the-city-miranda-carrie.jpg": "Miranda e Carrie em Sex and the City.",
+    "everybody-loves-raymond-debra.jpg": "Debra em Everybody Loves Raymond.",
+    "the-fresh-prince-of-bel-air-will-carlton.jpg": "Will e Carlton em The Fresh Prince Of Bel-Air.",
+    "jerry-elaine-and-george-in-a-chinese-restaurant-in-seinfeld.jpg": "Jerry, Elaine e George em Seinfeld."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "10 Episódios de Sitcom dos Anos 90 que Superam as Produções Atuais",
+    "_yoast_wpseo_metadesc": "Descubra 10 episódios de sitcoms dos anos 90 que continuam relevantes e superam muitas produções atuais em humor e profundidade.",
+    "_yoast_wpseo_focuskw": "episódios de sitcom anos 90",
+    "_yoast_news_keywords": "sitcom, anos 90, Friends, Seinfeld, Mad About You, Frasier, Boy Meets World, comédia, TV",
+    "_yoast_wpseo_opengraph-title": "10 Episódios de Sitcom dos Anos 90 que Superam as Produções Atuais",
+    "_yoast_wpseo_opengraph-description": "Descubra 10 episódios de sitcoms dos anos 90 que continuam relevantes e superam muitas produções atuais em humor e profundidade.",
+    "_yoast_wpseo_twitter-title": "10 Episódios de Sitcom dos Anos 90 que Superam as Produções Atuais",
+    "_yoast_wpseo_twitter-description": "Descubra 10 episódios de sitcoms dos anos 90 que continuam relevantes e superam muitas produções atuais em humor e profundidade."
+  }
+}

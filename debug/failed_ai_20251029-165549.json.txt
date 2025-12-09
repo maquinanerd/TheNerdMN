@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Novo filme de Colleen Hoover supera mistério de Daniel Craig nas bilheterias",
+  "conteudo_final": "<p>Em seu primeiro fim de semana completo em exibição, uma nova adaptação de <a href=\"https:
+  "meta_description": "Novo filme de Colleen Hoover, Regretting You, supera mistério Glass Onion de Daniel Craig nas bilheterias domésticas com US$ 15,1 milhões.",
+  "focus_keyphrase": "Regretting You Colleen Hoover",
+  "related_keyphrases": [
+    "Regretting You bilheteria",
+    "Colleen Hoover adaptação",
+    "Glass Onion bilheteria"
+  ],
+  "slug": "regretting-you-supera-daniel-craig-bilheteria",
+  "categorias": [
+    {
+      "nome": "Regretting You",
+      "grupo": "obras",
+      "evidence": "Colleen Hoover’s new adaptation has already surpassed the U.S. total of a beloved Daniel Craig classic."
+    },
+    {
+      "nome": "Daniel Craig",
+      "grupo": "obras",
+      "evidence": "Daniel Craig classic."
+    },
+    {
+      "nome": "Colleen Hoover",
+      "grupo": "obras",
+      "evidence": "Colleen Hoover’s new adaptation"
+    }
+  ],
+  "tags_sugeridas": [
+    "Regretting You",
+    "Colleen Hoover",
+    "Daniel Craig",
+    "Glass Onion",
+    "Bilheteria",
+    "Paramount Pictures",
+    "Josh Boone"
+  ],
+  "image_alt_texts": {
+    "unnamed.jpg": "Elenco principal do filme Regretting You, adaptado do livro de Colleen Hoover."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Regretting You: Novo filme de Colleen Hoover supera mistério de Daniel Craig nas bilheterias",
+    "_yoast_wpseo_metadesc": "Novo filme de Colleen Hoover, Regretting You, supera mistério Glass Onion de Daniel Craig nas bilheterias domésticas com US$ 15,1 milhões.",
+    "_yoast_wpseo_focuskw": "Regretting You Colleen Hoover",
+    "_yoast_news_keywords": "Regretting You, Colleen Hoover, Daniel Craig, Glass Onion, Bilheteria, Paramount Pictures, Josh Boone, Mckenna Grace, Allison Williams",
+    "_yoast_wpseo_opengraph-title": "Regretting You: Novo filme de Colleen Hoover supera mistério de Daniel Craig nas bilheterias",
+    "_yoast_wpseo_opengraph-description": "Novo filme de Colleen Hoover, Regretting You, supera mistério Glass Onion de Daniel Craig nas bilheterias domésticas com US$ 15,1 milhões.",
+    "_yoast_wpseo_twitter-title": "Regretting You: Novo filme de Colleen Hoover supera mistério de Daniel Craig nas bilheterias",
+    "_yoast_wpseo_twitter-description": "Novo filme de Colleen Hoover, Regretting You, supera mistério Glass Onion de Daniel Craig nas bilheterias domésticas com US$ 15,1 milhões."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Downton Abbey: A Grande Final terá data de estreia no streaming",
+      "conteudo_final": "<p>A novidade é que a Peacock anunciou a data de estreia de <em>Downton Abbey: The Grand Finale</em> na plataforma de streaming.</p><p><em>Downton Abbey: The Grand Finale</em> estará disponível no Peacock a partir de sexta-feira, 7 de novembro, com lançamento previsto para menos de duas semanas.</p>",
+      "meta_description": "O aguardado filme Downton Abbey: The Grand Finale terá sua estreia no streaming no serviço Peacock em breve. Confira a data.",
+      "focus_keyphrase": "Downton Abbey The Grand Finale",
+      "related_keyphrases": [
+        "Downton Abbey streaming",
+        "Peacock Downton Abbey",
+        "data de estreia Downton Abbey"
+      ],
+      "slug": "downton-abbey-a-grande-final-estreia-streaming",
+      "categorias": [
+        {
+          "nome": "Downton Abbey",
+          "grupo": "obras",
+          "evidence": "<em>Downton Abbey: The Grand Finale</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "downton abbey",
+        "the grand finale",
+        "peacock",
+        "streaming",
+        "filme"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Downton Abbey: A Grande Final terá data de estreia no streaming",
+        "_yoast_wpseo_metadesc": "O aguardado filme Downton Abbey: The Grand Finale terá sua estreia no streaming no serviço Peacock em breve. Confira a data.",
+        "_yoast_wpseo_focuskw": "Downton Abbey The Grand Finale",
+        "_yoast_news_keywords": "Downton Abbey, The Grand Finale, Peacock, streaming, série, filme",
+        "_yoast_wpseo_opengraph-title": "Downton Abbey: A Grande Final terá data de estreia no streaming",
+        "_yoast_wpseo_opengraph-description": "O aguardado filme Downton Abbey: The Grand Finale terá sua estreia no streaming no serviço Peacock em breve. Confira a data.",
+        "_yoast_wpseo_twitter-title": "Downton Abbey: A Grande Final terá data de estreia no streaming",
+        "_yoast_wpseo_twitter-description": "O aguardado filme Downton Abbey: The Grand Finale terá sua estreia no streaming no serviço Peacock em breve. Confira a data."
+      }
+    },
+    {
+      "titulo_final": "Star Wars: A Re-release de \"Uma Nova Esperança\" pode prejudicar futuro",
+      "conteudo_final": "<p>O retorno da franquia <em><strong>Star Wars</strong></em> aos cinemas está próximo. Os últimos seis anos, desde o fim da trilogia de sequências com <em>A Ascensão Skywalker</em>, foram marcados por anúncios, atrasos, cancelamentos e despriorizações silenciosas, a ponto de o número de cineastas que <em>quase</em> dirigiram um filme de <em>Star Wars</em> ser maior ou igual aos que realmente o fizeram. Um exemplo é Steven Soderbergh.</p><p>No entanto, a <strong>seca de exibições nos cinemas está chegando ao fim</strong>. <em>The Mandalorian & Grogu</em>, com estreia prevista para 22 de maio de 2026, é tão real que já possui um trailer. Acontece que, por ser uma continuação de uma série já estabelecida no Disney+, não representa o renascimento completo que os fãs esperam.</p><p>Essa distinção caberá a <em>Star Wars: Starfighter</em>, o único projeto original até agora que avançou das ondas de anúncios de desenvolvimento para a produção real, iniciada no começo deste ano. O projeto de Shawn Levy e Ryan Gosling carregará um peso de expectativa que <em>The Mandalorian & Grogu</em> simplesmente não tem, e <strong>será o responsável por determinar a recepção do público em geral.</strong></p><p>Então, por que a Disney está aumentando ainda mais a pressão?</p><h2>A Re-release de \"A Nova Esperança\" no IMAX Pode Prejudicar o Futuro de Star Wars</h2><figure class="video-container"><iframe src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/ryan-gosling-with-flynn-gray-in-front-of-an-ocean-in-a-behind-the-scenes-image-from-star-wars-starfighter-2.jpg?q=70&fit=crop&w=825&dpr=1" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>Ryan Gosling e Flynn Gray em imagem de bastidores de Star Wars Starfighter.</figcaption></figure><p>A apresentação do IMAX em 23 de outubro confirmou o que os fãs esperavam: a Disney exibirá dois filmes de <em>Star Wars</em> nas maiores telas possíveis em 2027. Um deles é o já mencionado <em>Starfighter</em>, com estreia marcada para 28 de maio. O outro é <em>A Nova Esperança</em>, o filme que deu início a tudo, com re-release em 30 de abril para seu 50º aniversário.</p><p>O retorno do filme original de <em>Star Wars</em> é obviamente empolgante, especialmente no formato IMAX. Com rumores de que a Disney exibirá uma nova restauração em 4K, talvez do corte original sem as edições posteriores de George Lucas, é provável que este seja um dos eventos cinematográficos do ano. E o timing faz sentido do ponto de vista clássico de marketing; a re-release construirá antecipação e engajamento antes da estreia do novo filme.</p><p>Mas <strong>isso também pode ter o efeito oposto.</strong> Quando se trata dessas franquias contínuas ou reiniciadas, a cultura de fãs moderna dedica muita energia a comparar o presente com o passado – muitas vezes de forma desfavorável. A era Disney de <em>Star Wars</em> já presenciou sua parcela desse debate, que parece ser reavivado a cada novo projeto. Mas essas comparações não são exatamente injustas quando o timing desses lançamentos praticamente as convida.</p><p>Quando foi lançado originalmente, <em>A Nova Esperança</em> foi um fenômeno como Hollywood nunca tinha visto. É um ótimo filme, testado pelo tempo, e em 2027, o público poderá experimentá-lo da melhor forma já mostrada. Então, apenas um mês depois, verão o que se passa por um filme de <em>Star Wars</em> atualmente, com o original fresco em suas mentes.</p><p>Mesmo que não seja <em>Episódio 10</em>, <em>Starfighter</em> tem a intenção de ser o início de um novo capítulo para a franquia cinematográfica, e após os últimos anos, acredito que um filme que recuperasse parte daquele sentimento de <em>Star Wars</em> que as pessoas sentem falta já seria suficiente. Mas agora, se Levy e sua equipe não entregarem algo digno de ser justaposto a <em>A Nova Esperança</em>, a Disney nunca ouvirá o fim da história. <strong>Qualquer coisa aquém da grandeza fará com que as falhas sejam gritantes.</strong></p><p>A re-release de <em>A Nova Esperança</em> parece uma vitória fácil, mas também é incrivelmente arriscada. O renascimento da franquia com <em>Starfighter</em> pode acabar antes mesmo de começar.</p>",
+      "meta_description": "A re-release de Star Wars: Uma Nova Esperança em IMAX pode gerar comparações que prejudicam o futuro da franquia, especialmente com Starfighter chegando.",
+      "focus_keyphrase": "Star Wars Uma Nova Esperança IMAX",
+      "related_keyphrases": [
+        "Star Wars Starfighter",
+        "futuro Star Wars",
+        "Disney Star Wars"
+      ],
+      "slug": "star-wars-uma-nova-esperanca-imax-risco",
+      "categorias": [
+        {
+          "nome": "Star Wars: Uma Nova Esperança",
+          "grupo": "obras",
+          "evidence": "<em>A New Hope</em>, the movie that started it all"
+        },
+        {
+          "nome": "Star Wars: Starfighter",
+          "grupo": "obras",
+          "evidence": "<em>Star Wars: Starfighter</em>"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "<em>Star Wars</em> franchise's"
+        }
+      ],
+      "tags_sugeridas": [
+        "star wars",
+        "uma nova esperança",
+        "imax",
+        "starfighter",
+        "disney",
+        "ryan gosling",
+        "shawn levy"
+      ],
+      "image_alt_texts": {
+        "ryan-gosling-with-flynn-gray-in-front-of-an-ocean-in-a-behind-the-scenes-image-from-star-wars-starfighter-2.jpg": "Ryan Gosling em bastidores de Star Wars: Starfighter",
+        "star-wars-starfighter-logo-poster.jpg": "Logo do filme Star Wars: Starfighter",
+        "instar53673005.jpg": "Ryan Gosling",
+        "instar53838673.jpg": "Matt Smith",
+        "screen-hub-cast-placeholder-1.png": "Placeholder de imagem de elenco",
+        "instar49868172-1.jpg": "Amy Adams"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: \"Uma Nova Esperança\" no IMAX pode arriscar o futuro",
+        "_yoast_wpseo_metadesc": "A re-release de Star Wars: Uma Nova Esperança em IMAX pode gerar comparações que prejudicam o futuro da franquia, especialmente com Starfighter chegando.",
+        "_yoast_wpseo_focuskw": "Star Wars Uma Nova Esperança IMAX",
+        "_yoast_news_keywords": "Star Wars, Uma Nova Esperança, IMAX, Starfighter, Disney, Ryan Gosling, Shawn Levy, Lucasfilm",
+        "_yoast_wpseo_opengraph-title": "Star Wars: \"Uma Nova Esperança\" no IMAX pode arriscar o futuro",
+        "_yoast_wpseo_opengraph-description": "A re-release de Star Wars: Uma Nova Esperança em IMAX pode gerar comparações que prejudicam o futuro da franquia, especialmente com Starfighter chegando.",
+        "_yoast_wpseo_twitter-title": "Star Wars: \"Uma Nova Esperança\" no IMAX pode arriscar o futuro",
+        "_yoast_wpseo_twitter-description": "A re-release de Star Wars: Uma Nova Esperança em IMAX pode gerar comparações que prejudicam o futuro da franquia, especialmente com Starfighter chegando."
+      }
+    },
+    {
+      "titulo_final": "Rachel Zegler defende Branca de Neve: \"Número 1 no streaming\"",
+      "conteudo_final": "<p>Em 2025, <em><strong>Branca de Neve</strong></em> retornou às telonas como parte da estratégia da Disney em explorar remakes live-action de suas histórias animadas clássicas. Após anos em desenvolvimento, a versão live-action de <em>Branca de Neve</em> foi lançada, tornando-se um dos maiores fracassos comerciais do ano.</p><p>Em uma nova entrevista para a revista <em>Glamour</em>, Rachel Zegler, que interpretou a icônica protagonista, refletiu sobre a recepção do filme <em>Branca de Neve</em> e sua experiência de trabalho. \"Cada experiência que tive até agora foi uma lição maravilhosa\", compartilhou a atriz, acrescentando: \"Eu amei trabalhar em [Branca de Neve] e amo este filme.\".</p><p>A atriz principal, de 24 anos, afirmou ter assistido ao filme \"algumas vezes\", e destacou: \"virou o número um no streaming no Disney+, então sei que é celebrado\". Para Zegler, \"foi uma daquelas experiências em que, às vezes, a negatividade é mais alta que a positividade\".</p><p>\"O que eu tirei disso foi apenas realmente, realmente absorver quando as coisas são boas e entender que é possível quando as coisas são ruins\", explicou Zegler. Ela concluiu compartilhando que \"a coisa mais bonita em Evita para mim — além de todas as pessoas maravilhosas que conheci e todo o trabalho maravilhoso que estamos fazendo — é que eu nunca pensei que faria parte de algo tão celebrado, por causa da maneira como fui condicionada a acreditar que não seria\".</p><h2>Bilheteria e Recepção de Branca de Neve</h2><figure class="video-container"><iframe src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/snow-white-2.jpg?q=49&fit=crop&w=825&dpr=2" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><figcaption>Rachel Zegler em cena do live-action de Branca de Neve.</figcaption></figure><p>O filme, dirigido por Marc Webb, teve Gal Gadot como a Rainha Má e Andrew Burnap como Jonathan. <em>Branca de Neve</em> arrecadou apenas US$ 205,6 milhões em bilheteria mundial. US$ 87,2 milhões vieram das vendas de ingressos domésticas, enquanto os outros US$ 118,4 milhões foram de mercado internacional.</p><p>Embora <em>Branca de Neve</em> possa ser um sucesso no Disney+, o remake teve um custo de produção estimado em US$ 270 milhões, e o filme passou por refilmagens significativas. A produção de 2025 ostenta uma pontuação de 39% no Tomatometer da Rotten Tomatoes para a crítica, enquanto o público deu 69%.</p><p>A análise de <em>ScreenRant</em> para o filme <em>Branca de Neve</em> de Rachel Labonte elogiou Zegler como \"uma princesa Disney perfeita\", mas abordou problemas com a história geral e os controversos efeitos visuais dos Sete Anões. Mesmo com o fracasso deste remake para a Disney, o estúdio apostou alto em sua adaptação live-action de <em>Lilo & Stitch</em>, que arrecadou mais de US$ 1 bilhão.</p><p><em>Branca de Neve</em> está disponível em home media e em streaming no Disney+.</p>",
+      "meta_description": "Rachel Zegler, a estrela do live-action de Branca de Neve, defende o filme após seu desempenho em bilheteria, destacando seu sucesso no streaming.",
+      "focus_keyphrase": "Branca de Neve live-action",
+      "related_keyphrases": [
+        "Rachel Zegler Branca de Neve",
+        "fracasso Branca de Neve",
+        "Disney remakes"
+      ],
+      "slug": "branca-de-neve-live-action-defesa-streaming",
+      "categorias": [
+        {
+          "nome": "Branca de Neve",
+          "grupo": "obras",
+          "evidence": "<em><strong>Snow White</strong></em>"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "editorias",
+          "evidence": "Disney continues to explore"
+        }
+      ],
+      "tags_sugeridas": [
+        "branca de neve",
+        "rachel zegler",
+        "disney",
+        "live-action",
+        "streaming",
+        "gal gadot",
+        "marcg webb"
+      ],
+      "image_alt_texts": {
+        "snow-white-2.jpg": "Rachel Zegler em cena do live-action de Branca de Neve",
+        "01508465_poster_w780.jpg": "Pôster do filme live-action Branca de Neve",
+        "instar53478481.jpg": "Rachel Zegler",
+        "instar52653562.jpg": "Gal Gadot"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Rachel Zegler defende Branca de Neve: \"Número 1 no streaming\"",
+        "_yoast_wpseo_metadesc": "Rachel Zegler, a estrela do live-action de Branca de Neve, defende o filme após seu desempenho em bilheteria, destacando seu sucesso no streaming.",
+        "_yoast_wpseo_focuskw": "Branca de Neve live-action",
+        "_yoast_news_keywords": "Branca de Neve, live-action, Rachel Zegler, Disney, streaming, Gal Gadot, Marc Webb, remake",
+        "_yoast_wpseo_opengraph-title": "Rachel Zegler defende Branca de Neve: \"Número 1 no streaming\"",
+        "_yoast_wpseo_opengraph-description": "Rachel Zegler, a estrela do live-action de Branca de Neve, defende o filme após seu desempenho em bilheteria, destacando seu sucesso no streaming.",
+        "_yoast_wpseo_twitter-title": "Rachel Zegler defende Branca de Neve: \"Número 1 no streaming\"",
+        "_yoast_wpseo_twitter-description": "Rachel Zegler, a estrela do live-action de Branca de Neve, defende o filme após seu desempenho em bilheteria, destacando seu sucesso no streaming."
+      }
+    }
+  ]
+}

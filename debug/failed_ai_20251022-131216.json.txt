@@ -1,0 +1,183 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Georgie & Mandy's First Marriage: Episódio 2 da 2ª Temporada Explora Ciúmes",
+      "conteudo_final": "<p>A série <b>Georgie & Mandy's First Marriage</b>, um spin-off de <b>The Big Bang Theory</b>, entra em sua segunda temporada explorando o casamento de Georgie (Montana Jordan) e Mandy (Emily Osment). Um novo clipe exclusivo do episódio 'Fan Mail and Old-Timey Organ Music' revela um momento de ciúmes entre o casal.</p><h2>Georgie Ciumento Durante Jantar</h2><p>No clipe, Mandy atrai a atenção de um fã em um restaurante que lhe oferece uma taça de vinho. A situação gera um desconforto em Georgie, que demonstra ciúmes. A interação do casal, intercalada com a dificuldade de Georgie em pedir bebidas por ser menor de idade, culmina no garçom solicitando sua identificação.</p><p>A sinopse do episódio 'Fan Mail and Old-Timey Organ Music' indica que Georgie ficará chateado com o novo papel de Mandy como apresentadora do tempo nos fins de semana, que atrai mais atenção masculina. Enquanto isso, Connor busca ajuda de Jim para tocar órgão em um jogo de beisebol escolar.</p><h2>O Legado de The Big Bang Theory</h2><p>A série se beneficia do universo estabelecido por <b>The Big Bang Theory</b> e <b>Young Sheldon</b>. Os fãs já sabem sobre o futuro de alguns personagens, o que adiciona uma camada de interesse à jornada de Georgie e Mandy. Mesmo sem a presença de Sheldon na trama, a série continua a expandir a história da família Cooper, detalhando as origens de eventos e relacionamentos vistos em episódios anteriores.</p><p><b>Georgie & Mandy's First Marriage</b> acompanha Georgie e Mandy desde seu encontro em <b>Young Sheldon</b>. Apesar dos desafios, como a diferença de idade e a relação incomum, o casal construiu uma vida juntos e agora enfrenta novas situações. A série promete aprofundar a dinâmica familiar e os dilemas do início do casamento.</p><p>Novos episódios de <b>Georgie & Mandy's First Marriage</b> vão ao ar toda quinta-feira na CBS às 20h, horário de Brasília.</p>",
+      "meta_description": "Georgie & Mandy's First Marriage: ciúmes e novas dinâmicas marcam o segundo episódio da 2ª temporada. Saiba mais sobre o spin-off de The Big Bang Theory.",
+      "focus_keyphrase": "Georgie & Mandy's First Marriage",
+      "related_keyphrases": [
+        "The Big Bang Theory",
+        "Young Sheldon",
+        "Montana Jordan",
+        "Emily Osment"
+      ],
+      "slug": "georgie-mandy-first-marriage-episodio-2-temporada-2",
+      "categorias": [
+        {
+          "nome": "Georgie & Mandy's First Marriage",
+          "grupo": "obras",
+          "evidence": "Georgie & Mandy's First Marriage"
+        },
+        {
+          "nome": "The Big Bang Theory",
+          "grupo": "franquias",
+          "evidence": "The Big Bang Theory series"
+        },
+        {
+          "nome": "Young Sheldon",
+          "grupo": "obras",
+          "evidence": "Young Sheldon"
+        }
+      ],
+      "tags_sugeridas": [
+        "Georgie & Mandy's First Marriage",
+        "The Big Bang Theory",
+        "Young Sheldon",
+        "Montana Jordan",
+        "Emily Osment",
+        "Comédia"
+      ],
+      "image_alt_texts": {
+        "03215792_poster_w780-1.jpg": "Pôster oficial da série Georgie & Mandy's First Marriage.",
+        "dougie-baldwin-as-connor-and-emily-osment-as-mandy-in-georgie-mandy-s-first-marriage-season-1-episode-16.jpg": "Connor e Mandy em cena da 1ª temporada de Georgie & Mandy's First Marriage.",
+        "emily-osment-s-mandy-and-montana-jordan-s-georgie-look-worried-in-a-restaurant-with-their-baby-in-georgie-mandy-s-first-marriage.jpeg": "Georgie e Mandy apreensivos com o bebê em Georgie & Mandy's First Marriage.",
+        "georgie-mandy-s-first-marriage-season-2.jpg": "Imagem promocional da 2ª temporada de Georgie & Mandy's First Marriage.",
+        "georgiemandy.jpg": "Georgie e Mandy em momento casual da série.",
+        "montana-jordan-as-georgie-cooper-in-georgie-mandy-s-first-marriage-season-1-episode-9.jpg": "Montana Jordan como Georgie Cooper em Georgie & Mandy's First Marriage.",
+        "montana-jordan-s-georgie-and-emily-osment-s-mandy-look-at-a-toaster-as-annie-potts-meemaw-smiles-in-georgie-mandy-s-first-marriage.jpeg": "Georgie e Mandy observam uma torradeira enquanto Meemaw sorri em Georgie & Mandy's First Marriage.",
+        "tcdgean_cb020-1.jpg": "Cena de Georgie & Mandy's First Marriage com o casal e o bebê.",
+        "will-sasso-s-jim-and-montana-jordan-s-georgie-survey-a-car-in-a-garage-from-georgie-mandy-s-first-marriage.jpeg": "Jim e Georgie inspecionam um carro em uma garagem em Georgie & Mandy's First Marriage."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Georgie & Mandy's First Marriage: Ciúmes no Episódio 2 da 2ª Temporada | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Georgie & Mandy's First Marriage: ciúmes e novas dinâmicas marcam o segundo episódio da 2ª temporada. Saiba mais sobre o spin-off de The Big Bang Theory.",
+        "_yoast_wpseo_focuskw": "Georgie & Mandy's First Marriage",
+        "_yoast_news_keywords": "Georgie & Mandy's First Marriage, The Big Bang Theory, Young Sheldon, Montana Jordan, Emily Osment, Comédia",
+        "_yoast_wpseo_opengraph-title": "Georgie & Mandy's First Marriage: Ciúmes no Episódio 2 da 2ª Temporada",
+        "_yoast_wpseo_opengraph-description": "Georgie & Mandy's First Marriage: ciúmes e novas dinâmicas marcam o segundo episódio da 2ª temporada. Saiba mais sobre o spin-off de The Big Bang Theory.",
+        "_yoast_wpseo_twitter-title": "Georgie & Mandy's First Marriage: Ciúmes no Episódio 2 da 2ª Temporada",
+        "_yoast_wpseo_twitter-description": "Georgie & Mandy's First Marriage: ciúmes e novas dinâmicas marcam o segundo episódio da 2ª temporada. Saiba mais sobre o spin-off de The Big Bang Theory."
+      }
+    },
+    {
+      "titulo_final": "Tron: Ares Falha em Superar Morbius em Bilheteria Global",
+      "conteudo_final": "<p>O novo filme de ficção científica da Disney, <b>Tron: Ares</b>, tem enfrentado dificuldades nas bilheterias globais. Apesar de ter ultrapassado a arrecadação de <b>Madame Web</b>, outro filme criticado, a produção ainda não conseguiu superar o desempenho de <b>Morbius</b>, um dos filmes menos aclamados do universo Spider-Man.</p><h2>Arrecadação Global de Tron: Ares Continua Abaixo do Esperado</h2><p>Até o momento, <b>Tron: Ares</b> acumulou US$ 104,1 milhões mundialmente. Embora este valor seja superior aos US$ 100,2 milhões de <b>Madame Web</b>, ainda está significativamente atrás dos US$ 167,4 milhões de <b>Morbius</b>. A diferença atual é de aproximadamente US$ 63,3 milhões.</p><p>A performance doméstica de <b>Tron: Ares</b> alcançou US$ 55,4 milhões, enquanto os mercados internacionais renderam US$ 48,6 milhões. Diferente de <b>Tron: Legacy</b>, que obteve sucesso global apesar de uma estreia modesta nos EUA, <b>Ares</b> não tem demonstrado força fora do mercado americano.</p><h2>Queda Rápida e Poucas Chances de Superar Morbius</h2><p>O filme sofreu uma queda de 66,6% em sua segunda semana nos EUA, arrecadando apenas US$ 11,1 milhões. Mesmo com pouca concorrência direta prevista para outubro, <b>Tron: Ares</b> não conseguiu capturar o público-alvo. Filmes de grande orçamento necessitam de "pernas longas" nas bilheterias para serem considerados sucessos, algo que <b>Ares</b> não tem demonstrado.</p><p>As chances de <b>Tron: Ares</b> ultrapassar <b>Morbius</b> são consideradas remotas. No segundo fim de semana, o filme somou cerca de US$ 25,4 milhões globalmente. Com a diminuição da receita ao longo do tempo e a provável perda de salas de exibição para novos lançamentos, a arrecadação adicional de mais de US$ 60 milhões parece um desafio considerável.</p><h2>Futuro Incerto para a Franquia Tron</h2><p>A expectativa da Disney era revitalizar a franquia <b>Tron</b>, que não tem um sucesso comercial expressivo desde seus primórdios. Com três filmes que não atingiram as expectativas financeiras, há rumores de que a empresa possa desistir da série cinematográfica. Apesar disso, a atração <b>Tron Lightcycle Power Run</b> nos parques temáticos da Disney continua popular.</p>",
+      "meta_description": "Tron: Ares luta nas bilheterias globais, ficando atrás de Morbius e Madame Web. O futuro da franquia Disney é incerto após a baixa performance.",
+      "focus_keyphrase": "Tron: Ares",
+      "related_keyphrases": [
+        "Disney",
+        "Morbius",
+        "Madame Web",
+        "Bilheteria"
+      ],
+      "slug": "tron-ares-fracasso-bilheteria-morbius",
+      "categorias": [
+        {
+          "nome": "Tron",
+          "grupo": "franquias",
+          "evidence": "The Mouse House’s third (and presumably final) attempt to turn the cult favorite sci-fi franchise into a blockbuster hit"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "editorias",
+          "evidence": "Disney has had an uncharacteristically rough year at the box office"
+        },
+        {
+          "nome": "Morbius",
+          "grupo": "obras",
+          "evidence": "Sony’s ill-fated Morbius"
+        }
+      ],
+      "tags_sugeridas": [
+        "Tron: Ares",
+        "Disney",
+        "Morbius",
+        "Madame Web",
+        "Bilheteria",
+        "Ficção Científica"
+      ],
+      "image_alt_texts": {
+        "The-Sims-4-Laundry-List-Image-for-Quality-of-Life-Roadmap.jpg": "Imagem promocional de The Sims 4.",
+        "Army-in-Dune-Part-Two.jpg": "Cena do filme Duna: Parte Dois.",
+        "Battlestar-Galactica-33.jpg": "Imagem relacionada à série Battlestar Galactica.",
+        "dragon-ball-1.jpg": "Imagem promocional de Dragon Ball.",
+        "prime-video-our-fault-culpa-nuestra_786c1f.jpg": "Imagem promocional do filme Nossa Culpa.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Calendário do advento com sabre de luz de Star Wars.",
+        "tron-ares.jpg": "Imagem de Tron: Ares, o novo filme da Disney.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem promocional do Xbox Game Pass."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tron: Ares Falha em Superar Morbius em Bilheteria Global | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Tron: Ares luta nas bilheterias globais, ficando atrás de Morbius e Madame Web. O futuro da franquia Disney é incerto após a baixa performance.",
+        "_yoast_wpseo_focuskw": "Tron: Ares",
+        "_yoast_news_keywords": "Tron: Ares, Disney, Morbius, Madame Web, Bilheteria, Ficção Científica",
+        "_yoast_wpseo_opengraph-title": "Tron: Ares Falha em Superar Morbius em Bilheteria Global",
+        "_yoast_wpseo_opengraph-description": "Tron: Ares luta nas bilheterias globais, ficando atrás de Morbius e Madame Web. O futuro da franquia Disney é incerto após a baixa performance.",
+        "_yoast_wpseo_twitter-title": "Tron: Ares Falha em Superar Morbius em Bilheteria Global",
+        "_yoast_wpseo_twitter-description": "Tron: Ares luta nas bilheterias globais, ficando atrás de Morbius e Madame Web. O futuro da franquia Disney é incerto após a baixa performance."
+      }
+    },
+    {
+      "titulo_final": "IT: Welcome to Derry - Série Explora Origens de Pennywise com Ressalvas",
+      "conteudo_final": "<p>A série prequel <b>IT: Welcome to Derry</b> expande o universo de Pennywise, detalhando as origens do icônico vilão e seu ciclo de terror na cidade. Desenvolvida por Andy Muschietti, Barbara Muschietti e Jason Fuchs, a produção de oito episódios busca aprofundar a mitologia da franquia, mas herda problemas das adaptações cinematográficas.</p><h2>A Nova Abordagem de \"IT: Welcome to Derry\"</h2><p>Ambientada principalmente em 1962, a série foca em um dos ciclos de caça de Pennywise, explorando o despertar da criatura e seu terror contra as crianças de Derry. Uma nova versão do 'Clube dos Perdedores' une crianças excluídas para sobreviver aos ataques do monstro. Paralelamente, uma operação militar secreta nos arredores de Derry se entrelaça com a história de Pennywise.</p><p>Embora as tramas militar e infantil permaneçam em grande parte desconectadas nos episódios iniciais, a série se destaca ao tornar os personagens adultos mais interessantes. Ao contrário de <b>IT: Chapter 2</b>, onde os adultos foram criticados por serem menos cativantes que as crianças, <b>Welcome to Derry</b> concede aos seus personagens adultos objetivos próprios e desafios, explorando ansiedades da época, como o medo nuclear e o racismo, de forma eficaz.</p><h2>Foco nos Temas Sociais e Conexões com o Universo King</h2><p>A série aborda temas sociais relevantes como o medo da Guerra Fria e a luta por direitos civis, integrando-os à narrativa de forma que honra Stephen King. A representação da comunidade nativa americana em Derry é um ponto forte, corrigindo falhas percebidas em <b>IT: Chapter Two</b>. Essas questões sociais se misturam com as ameaças paranormais, criando um pano de fundo rico para a história de Pennywise.</p><p>As conexões com o universo maior de Stephen King são exploradas, especialmente através de Dick Hallorann de <b>O Iluminado</b>, interpretado por Chris Chalk. O elenco adulto, incluindo Jovan Adepo, Taylour Paige e Kimberly Norris Guerrero, recebe elogios por suas performances, adicionando novas camadas aos personagens e ao mundo de IT.</p><h2>O Clube dos Perdedores Enfrenta Críticas</h2><p>Paradoxalmente, a metade da série focada no novo 'Clube dos Perdedores' é o seu aspecto menos envolvente. A jornada das crianças parece uma repetição do primeiro filme, e o conhecimento prévio de que Pennywise sobrevive até o final dos anos 80 diminui a tensão. A estrutura serializada também limita o tempo de tela de alguns personagens jovens.</p><p>A série prioriza o espetáculo em detrimento do desenvolvimento de personagem, optando por ataques grandiosos que, por vezes, se assemelham aos de <b>IT: Chapter Two</b> e dependem excessivamente de CGI. Isso enfraquece o impacto das cenas de terror e prejudica a formação dos laços entre os novos membros do 'Clube dos Perdedores'. Apesar do potencial do jovem elenco, eles são subutilizados em favor de sustos que nem sempre funcionam.</p><p>Apesar de suas falhas, <b>IT: Welcome to Derry</b> oferece uma exploração intrigante da mitologia de Pennywise e conta com um elenco forte. A série estreia na HBO em 26 de outubro, com novos episódios aos domingos.</p>",
+      "meta_description": "Review de IT: Welcome to Derry revela que a série explora a origem de Pennywise e temas sociais, mas tropeça no desenvolvimento do novo Clube dos Perdedores.",
+      "focus_keyphrase": "IT: Welcome to Derry",
+      "related_keyphrases": [
+        "Pennywise",
+        "Stephen King",
+        "Série de Terror",
+        "HBO"
+      ],
+      "slug": "it-welcome-to-derry-review-pennywise-origens",
+      "categorias": [
+        {
+          "nome": "IT",
+          "grupo": "franquias",
+          "evidence": "Andy Muschietti’s two-part IT adaptation"
+        },
+        {
+          "nome": "Pennywise",
+          "grupo": "personagens",
+          "evidence": "based on Pennywise’s (Bill Skarsgård) origins"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "editorias",
+          "evidence": "IT: Welcome to Derry premieres on HBO"
+        }
+      ],
+      "tags_sugeridas": [
+        "IT: Welcome to Derry",
+        "Pennywise",
+        "Stephen King",
+        "Terror",
+        "Série",
+        "HBO",
+        "Clube dos Perdedores"
+      ],
+      "image_alt_texts": {
+        "The-Sims-4-Laundry-List-Image-for-Quality-of-Life-Roadmap.jpg": "Imagem promocional de The Sims 4.",
+        "Army-in-Dune-Part-Two.jpg": "Cena do filme Duna: Parte Dois.",
+        "Battlestar-Galactica-33.jpg": "Imagem relacionada à série Battlestar Galactica.",
+        "Chris-Chalk-as-Dick-Hallorann-near-a-Pennywise-sign-board-in-IT-Welcome-to-Derry.jpg": "Chris Chalk como Dick Hallorann em cena de IT: Welcome to Derry.",
+        "Jovan-Adepo-as-Major-Leroy-Halon-and-Rudy-Mancuso-as-Captain-Pauly-Russo-in-IT-Welcome-to-Derry-and-.jpg": "Jovan Adepo e Rudy Mancuso em cena de IT: Welcome to Derry.",
+        "Mikkal-Karim-Fidler-as-Teddy-Clara-Stack-as-Lilly-Jack-Molloy-Legault-as-Phil-and-Susie-as-the-new-Losers-Club-in-IT-Welcome-to-Derry.jpg": "O novo Clube dos Perdedores em IT: Welcome to Derry.",
+        "Mikkal-Karim-Fidler-as-Teddy-Clara-Stack-as-Lilly-and-Jack-Molloy-Legault-as-Phil-in-IT-Welcome-to-Derry.jpg": "Cena de IT: Welcome to Derry com Teddy, Lilly e Phil.",
+        "dragon-ball-1.jpg": "Imagem promocional de Dragon Ball.",
+        "prime-video-our-fault-culpa-nuestra_786c1f.jpg": "Imagem promocional do filme Nossa Culpa.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Calendário do advento com sabre de luz de Star Wars.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem promocional do Xbox Game Pass."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "IT: Welcome to Derry - Série Explora Origens de Pennywise com Ressalvas | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Review de IT: Welcome to Derry revela que a série explora a origem de Pennywise e temas sociais, mas tropeça no desenvolvimento do novo Clube dos Perdedores.",
+        "_yoast_wpseo_focuskw": "IT: Welcome to Derry",
+        "_yoast_news_keywords": "IT: Welcome to Derry, Pennywise, Stephen King, Terror, Série, HBO, Clube dos Perdedores",
+        "_yoast_wpseo_opengraph-title": "IT: Welcome to Derry - Série Explora Origens de Pennywise com Ressalvas",
+        "_yoast_wpseo_opengraph-description": "Review de IT: Welcome to Derry revela que a série explora a origem de Pennywise e temas sociais, mas tropeça no desenvolvimento do novo Clube dos Perdedores.",
+        "_yoast_wpseo_twitter-title": "IT: Welcome to Derry - Série Explora Origens de Pennywise com Ressalvas",
+        "_yoast_wpseo_twitter-description": "Review de IT: Welcome to Derry revela que a série explora a origem de Pennywise e temas sociais, mas tropeça no desenvolvimento do novo Clube dos Perdedores."
+      }
+    }
+  ]
+}

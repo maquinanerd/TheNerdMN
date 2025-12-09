@@ -1,0 +1,110 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Wars: Visions - Entenda a relação da série com o cânone oficial",
+      "conteudo_final": "<p>A série antológica animada <b>Star Wars: Visions</b> possui uma relação peculiar com o cânone estabelecido da saga, o que, para muitos, a torna ainda mais especial. A produção permite que diferentes estúdios de animação ao redor do mundo explorem o universo criado por George Lucas, resultando em histórias únicas e visualmente deslumbrantes.</p><h2>Star Wars: Visions é oficialmente não canônica</h2><p>A terceira temporada de <b>Star Wars: Visions</b> já está disponível no Disney+, apresentando uma abordagem um pouco diferente das anteriores. Embora três episódios continuem histórias de temporadas passadas e um deles até prepare o terreno para um futuro spin-off de <b>Star Wars</b>, a série não é considerada canônica.</p><p>James Waugh, produtor executivo, confirmou recentemente que todas as temporadas de <b>Star Wars: Visions</b> não fazem parte do cânone oficial. Ele observou que a série não busca focar em personagens já estabelecidos, mas sim em novas perspectivas. \"Não quer dizer que isso seja impossível. Obviamente, tivemos Jabba, o Hutt, e Boba Fett em curtas de Visions, mas não é sobre eles. Geralmente, buscamos perspectivas originais e frescas para que Visions não se torne um tipo de 'E Se...' de Star Wars, mas sim uma expressão única e uma celebração dos elementos de Star Wars que as pessoas amam\", explicou.</p><p>A continuidade e a lore sempre foram partes essenciais de <b>Star Wars</b>, mas podem ser restritivas. <b>Star Wars: Visions</b> oferece aos contadores de histórias uma chance de explorar os temas e ideias centrais da franquia sem a pressão de se alinhar a detalhes previamente estabelecidos. É uma liberdade criativa.</p><h2>Star Wars: Visions subverte deliberadamente o cânone</h2><p>Apesar de não ser canônica, muitas das histórias de <b>Star Wars: Visions</b> são criadas por contadores de histórias que amam a franquia. Naturalmente, muitas narrativas são cuidadosamente elaboradas para se alinharem à linha do tempo de <b>Star Wars</b>, e alguns criadores até tentaram imaginar como suas histórias se encaixariam.</p><figure><img src=\"https:
+      "meta_description": "Descubra a relação de Star Wars: Visions com o cânone oficial da saga. Entenda por que a série animada é considerada não canônica, mas ainda assim valiosa.",
+      "focus_keyphrase": "Star Wars Visions cânone",
+      "related_keyphrases": [
+        "Star Wars Visions temporada 3",
+        "universo Star Wars",
+        "Disney+"
+      ],
+      "slug": "star-wars-visions-canone",
+      "categorias": [
+        {
+          "nome": "Star Wars: Visions",
+          "grupo": "obras",
+          "evidence": "Star Wars: Visions season 3"
+        },
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "Star Wars"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars Visions",
+        "Disney+",
+        "animação",
+        "ficção científica",
+        "universo Star Wars"
+      ],
+      "image_alt_texts": {
+        "a-sith-lord-in-star-wars-visions-season-3.jpg": "Um Lorde Sith em Star Wars Visions temporada 3",
+        "star_wars_visions_2_tv_poster.jpg": "Pôster da série Star Wars: Visions"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Visions - Entenda a relação da série com o cânone oficial",
+        "_yoast_wpseo_metadesc": "Descubra a relação de Star Wars: Visions com o cânone oficial da saga. Entenda por que a série animada é considerada não canônica, mas ainda assim valiosa.",
+        "_yoast_wpseo_focuskw": "Star Wars Visions cânone",
+        "_yoast_news_keywords": "Star Wars Visions, Star Wars, Disney+, animação, cânone",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Visions - Entenda a relação da série com o cânone oficial",
+        "_yoast_wpseo_opengraph-description": "Descubra a relação de Star Wars: Visions com o cânone oficial da saga. Entenda por que a série animada é considerada não canônica, mas ainda assim valiosa.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Visions - Entenda a relação da série com o cânone oficial",
+        "_yoast_wpseo_twitter-description": "Descubra a relação de Star Wars: Visions com o cânone oficial da saga. Entenda por que a série animada é considerada não canônica, mas ainda assim valiosa."
+      }
+    },
+    {
+      "titulo_final": "MCU: 10 Cenas do Hulk que Ninguém Lembra",
+      "conteudo_final": "<p>O <b>Hulk</b> já esmagou, rugiu e salvou o mundo inúmeras vezes no Universo Cinematográfico Marvel (MCU), mas nem todos os grandes momentos do personagem vêm acompanhados de explosões ou socos dignos de memes. Por trás do caos, a história de Bruce Banner é marcada por emoção, autocontrole e crescimento. Esses aspectos são frequentemente exemplificados por momentos mais sutis, que acabam sendo esquecidos.</p><p>Muitos se lembram das maiores rampagens do Hulk no MCU, mas são as cenas mais discretas que revelam a humanidade e o coração do personagem. Ao longo dos filmes, o Hulk não é apenas uma força da natureza; ele é um herói trágico e conflituído, buscando paz interior. Gestos ternos e silêncios introspectivos mostram lados do personagem que muitos ignoram.</p><h2>Smart Hulk oferece um taco a Scott Lang em Vingadores: Ultimato</h2><p>Em meio ao caos de <b>Vingadores: Ultimato</b>, um dos momentos mais silenciosos se destaca. Quando Scott Lang perde seu taco para uma rajada de vento, o <b>Smart Hulk</b> gentilmente lhe oferece um substituto, acompanhado de um sorriso amigável. É uma cena engraçada, sutil e cheia de calor humano.</p><figure><img src=\"https:
+      "meta_description": "Descubra 10 cenas esquecidas do Hulk no MCU que revelam sua profundidade, humanidade e evolução. Momentos sutis que mostram mais do que apenas força bruta.",
+      "focus_keyphrase": "cenas esquecidas Hulk MCU",
+      "related_keyphrases": [
+        "Hulk Vingadores Ultimato",
+        "Bruce Banner",
+        "Smart Hulk"
+      ],
+      "slug": "cenas-hulk-mcu-esquecidas",
+      "categorias": [
+        {
+          "nome": "Hulk",
+          "grupo": "personagens",
+          "evidence": "O Hulk"
+        },
+        {
+          "nome": "MCU",
+          "grupo": "franquias",
+          "evidence": "MCU"
+        },
+        {
+          "nome": "Vingadores: Ultimato",
+          "grupo": "obras",
+          "evidence": "Vingadores: Ultimato"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hulk",
+        "MCU",
+        "Vingadores",
+        "Bruce Banner",
+        "Mark Ruffalo",
+        "O Incrível Hulk",
+        "Thor Ragnarok"
+      ],
+      "image_alt_texts": {
+        "Smart-Hulk-in-Avengers-Endgame.jpg": "Smart Hulk oferecendo seu taco a Scott Lang em Vingadores: Ultimato",
+        "mark-ruffalo-s-smart-hulk-holds-up-the-avengers-compound-in-avengers-endgame.jpg": "Mark Ruffalo como Smart Hulk sustentando o complexo dos Vingadores em Vingadores: Ultimato",
+        "Betty-Ross-and-Hulk-in-The-Incredible-Hulk.jpg": "Betty Ross e Hulk se abrigam em uma caverna em O Incrível Hulk",
+        "bruce-talking-to-a-security-guard-in-the-avengers-2012.jpg": "Bruce conversando com um segurança em Os Vingadores (2012)",
+        "hulk-confused-by-loki-in-avengers-endgame.jpg": "Hulk confuso com Loki em Vingadores: Ultimato",
+        "mark-ruffalo-s-bruce-baner-turns-into-the-hulk-in-front-of-scarlett-johansson-s-black-widow-in-avengers-age-of-ultron-2015.jpg": "Mark Ruffalo como Bruce Banner se transforma em Hulk na frente de Scarlett Johansson como Viúva Negra em Vingadores: Era de Ultron (2015)",
+        "gladiator-hulk-celebrating-in-thor-ragnarok.jpg": "Hulk Gladiador celebrando em Thor: Ragnarok",
+        "Bruce-Banner-Iron-Man-3-cameo.jpg": "Bruce Banner usando um terno e conversando com Tony Stark em uma participação especial em Homem de Ferro 3",
+        "bruce-banner-age-of-ultron.jpg": "Mark Ruffalo como Bruce Banner com uma expressão preocupada em Vingadores: Era de Ultron",
+        "rampaging-hulk-in-avengers-age-of-ultron.jpg": "Hulk em fúria em Vingadores: Era de Ultron",
+        "the-incredible-hulk-official-postert.jpg": "O Incrível Hulk pôster oficial"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "MCU: 10 Cenas do Hulk que Ninguém Lembra | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra 10 cenas esquecidas do Hulk no MCU que revelam sua profundidade, humanidade e evolução. Momentos sutis que mostram mais do que apenas força bruta.",
+        "_yoast_wpseo_focuskw": "cenas esquecidas Hulk MCU",
+        "_yoast_news_keywords": "Hulk, MCU, Vingadores, Bruce Banner, O Incrível Hulk, Thor Ragnarok, Era de Ultron",
+        "_yoast_wpseo_opengraph-title": "MCU: 10 Cenas do Hulk que Ninguém Lembra",
+        "_yoast_wpseo_opengraph-description": "Descubra 10 cenas esquecidas do Hulk no MCU que revelam sua profundidade, humanidade e evolução. Momentos sutis que mostram mais do que apenas força bruta.",
+        "_yoast_wpseo_twitter-title": "MCU: 10 Cenas do Hulk que Ninguém Lembra",
+        "_yoast_wpseo_twitter-description": "Descubra 10 cenas esquecidas do Hulk no MCU que revelam sua profundidade, humanidade e evolução. Momentos sutis que mostram mais do que apenas força bruta."
+      }
+    }
+  ]
+}

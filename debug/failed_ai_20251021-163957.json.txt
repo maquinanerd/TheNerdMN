@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Jennifer Lawrence: Atriz considera aposentadoria e volta ao cinema",
+      "conteudo_final": "<p><strong>Jennifer Lawrence</strong>, estrela de filmes como <em>O Lado Bom da Vida</em> e <em>Trapaça</em>, revelou que chegou a considerar a aposentadoria da atuação. A atriz, que retorna às telas em breve no thriller psicológico <em>Die My Love</em>, da diretora Lynne Ramsay, comentou sobre o hiato de dois anos que tirou após o fim da saga <em>Jogos Vorazes</em> e de sua quarta indicação ao Oscar por <em>Joy</em>.</p><h2>O Impacto do Sucesso na Carreira de Jennifer Lawrence</h2><p>Após uma série de fracassos de bilheteria e com a vida dominada por grandes franquias e produções premiadas, Lawrence decidiu fazer uma pausa. \"Trabalhei por toda a minha juventude e então pensei... o que há aqui fora? O que está acontecendo?\", declarou a atriz em entrevista ao programa <em>The Graham Norton Show</em>. Ela admitiu que estava em paz com a possibilidade de não retornar mais a Hollywood.</p><div class="body-img landscape mobile-optimized"><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/jennifer-lawrence-tilting-her-head-back-while-confetti-falls-in-die-my-love.jpg?q=70&fit=crop&w=825&dpr=1" media="(max-width: 1023px)"/><img alt="Jennifer Lawrence em cena do filme Die My Love" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/jennifer-lawrence-tilting-her-head-back-while-confetti-falls-in-die-my-love.jpg?q=70&fit=crop&w=825&dpr=1" decoding="async" height="413" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/jennifer-lawrence-tilting-her-head-back-while-confetti-falls-in-die-my-love.jpg?q=70&fit=crop&w=825&dpr=1" width="825"/></picture><figcaption>Jennifer Lawrence em cena do filme Die My Love.</figcaption></figure></div><p>\"Eu estava em paz com essa possibilidade\", continuou Lawrence. \"Hollywood é muita coisa... Acho que eu teria ficado bem, mas também teria ficado muito chateada. Não sei.\". A atriz destacou que há prós e contras em ambas as situações, mas a ideia de deixar a carreira para trás a entristeceria.</p><h2>O Retorno de Jennifer Lawrence aos Holofotes</h2><p>Apesar da reflexão sobre o hiato, Lawrence retornou com força. Seu último filme antes de <em>Die My Love</em> foi <em>Que Horas Eu Te Pego?</em>, de 2023, o que significa que a atriz também ficou dois anos afastada das telas antes desse lançamento. No entanto, seu nome consolidado em Hollywood sugere que diretores continuarão interessados em trabalhar com ela.</p><div class="body-img landscape mobile-optimized"><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/08/jennifer-lawrence-in-a-restaurant-in-no-hard-feelings.jpg?q=49&fit=crop&w=825&dpr=2" media="(max-width: 1023px)"/><img alt="Jennifer Lawrence em cena do filme Que Horas Eu Te Pego?" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/08/jennifer-lawrence-in-a-restaurant-in-no-hard-feelings.jpg?q=49&fit=crop&w=825&dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/08/jennifer-lawrence-in-a-restaurant-in-no-hard-feelings.jpg?q=49&fit=crop&w=825&dpr=2" width="1650"/></picture><figcaption>Jennifer Lawrence em cena do filme Que Horas Eu Te Pego?.</figcaption></figure></div><p>Uma das próximas grandes atuações de Lawrence será ao lado de Leonardo DiCaprio em <em>What Happens at Night</em>, o novo filme de Martin Scorsese. A trama acompanha um casal que viaja para uma cidade europeia remota e nevada para adotar uma criança, hospedando-se em um hotel misterioso.</p><h2>Próximos Projetos e o Futuro da Atriz</h2><p>Lawrence também está envolvida em um projeto sem título com Amy Schumer e se prepara para <em>The Wives</em>, dos cineastas Michael Breslin e Patrick Foley. Com a carreira retomada e novos projetos confirmados, a atriz demonstra que, apesar da reflexão sobre o futuro, sua paixão pela atuação a manteve ativa.</p><div class="body-img square"><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/instar53732344.jpg?q=70&fit=contain&w=320&dpr=1" media="(max-width: 1023px)"/><img alt="Jennifer Lawrence em evento da GLAAD Media Awards" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/instar53732344.jpg?q=70&fit=contain&w=420&dpr=1" decoding="async" height="420" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/instar53732344.jpg?q=70&fit=contain&w=420&dpr=1" width="420"/></picture><figcaption>Jennifer Lawrence em evento da GLAAD Media Awards.</figcaption></figure></div><p>A dedicação de Lawrence à sua arte é evidente, e seu retorno promete novos trabalhos memoráveis para o público cinéfilo. A atriz já demonstrou sua versatilidade em diversos gêneros, e sua presença em novas produções é sempre aguardada.</p>",
+      "meta_description": "Jennifer Lawrence revelou que pensou em se aposentar da atuação durante um hiato de dois anos. Saiba mais sobre seus próximos projetos.",
+      "focus_keyphrase": "Jennifer Lawrence",
+      "related_keyphrases": [
+        "Jennifer Lawrence aposentadoria",
+        "Die My Love",
+        "Que Horas Eu Te Pego?"
+      ],
+      "slug": "jennifer-lawrence-considera-aposentadoria",
+      "categorias": [
+        {
+          "nome": "Jennifer Lawrence",
+          "grupo": "personagens",
+          "evidence": "Jennifer Lawrence will shine on the big screen again this year"
+        },
+        {
+          "nome": "Die My Love",
+          "grupo": "obras",
+          "evidence": "starring in the highly anticipated psychological thriller Die My Love"
+        },
+        {
+          "nome": "Que Horas Eu Te Pego?",
+          "grupo": "obras",
+          "evidence": "Lawrence's last movie before Die My Love was 2023's No Hard Feelings"
+        }
+      ],
+      "tags_sugeridas": [
+        "Jennifer Lawrence",
+        "Die My Love",
+        "Que Horas Eu Te Pego?",
+        "Martin Scorsese",
+        "Lynne Ramsay",
+        "Atriz",
+        "Cinema"
+      ],
+      "image_alt_texts": {
+        "jennifer-lawrence-tilting-her-head-back-while-confetti-falls-in-die-my-love.jpg": "Jennifer Lawrence em cena do filme Die My Love.",
+        "jennifer-lawrence-in-a-restaurant-in-no-hard-feelings.jpg": "Jennifer Lawrence em cena do filme Que Horas Eu Te Pego?.",
+        "instar53732344.jpg": "Jennifer Lawrence em evento da GLAAD Media Awards."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Jennifer Lawrence: Atriz considera aposentadoria e volta ao cinema",
+        "_yoast_wpseo_metadesc": "Jennifer Lawrence revelou que pensou em se aposentar da atuação durante um hiato de dois anos. Saiba mais sobre seus próximos projetos.",
+        "_yoast_wpseo_focuskw": "Jennifer Lawrence",
+        "_yoast_news_keywords": "Jennifer Lawrence, Die My Love, Que Horas Eu Te Pego?, Martin Scorsese, Lynne Ramsay, Atriz, Cinema",
+        "_yoast_wpseo_opengraph-title": "Jennifer Lawrence: Atriz considera aposentadoria e volta ao cinema",
+        "_yoast_wpseo_opengraph-description": "Jennifer Lawrence revelou que pensou em se aposentar da atuação durante um hiato de dois anos. Saiba mais sobre seus próximos projetos.",
+        "_yoast_wpseo_twitter-title": "Jennifer Lawrence: Atriz considera aposentadoria e volta ao cinema",
+        "_yoast_wpseo_twitter-description": "Jennifer Lawrence revelou que pensou em se aposentar da atuação durante um hiato de dois anos. Saiba mais sobre seus próximos projetos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Dumbo: O Polêmico Filme da Disney Que Incomoda Há 84 Anos",
+      "conteudo_final": "<p>Clássicos filmes de animação produzidos pela Walt Disney Animation Studios são frequentemente vistos como eternos. Muitos desses filmes resistem ao tempo, tornando-se marcos culturais passados de pais para filhos. No entanto, nem todas as primeiras produções do estúdio envelheceram com a mesma graça. Enquanto muitos permanecem celebrados, algumas produções da Disney carregam o fardo infeliz de representações culturais desatualizadas e ofensivas. Um desses filmes, um longa-metragem de animação lançado há 84 anos, tornou-se uma das entradas mais controversas da biblioteca da Disney, contendo estereótipos impossíveis de ignorar no contexto moderno.</p>\n<h2>A Chegada de Dumbo</h2>\n<p>Em 23 de outubro de 1941, a Walt Disney Productions lançou seu quarto longa-metragem de animação, <b>Dumbo</b>. O filme conta a história de um filhote de elefante de circo que é cruelmente apelidado por suas orelhas anormalmente grandes. Após sua mãe ser trancada por protegê-lo de valentões, Dumbo é ostracizado e humilhado pelos outros animais do circo. Com a ajuda de sua única amiga, um rato chamado Timothy, Dumbo descobre que suas orelhas exageradas lhe dão a incrível capacidade de voar, transformando sua maior insegurança em um presente triunfante. O filme foi um sucesso financeiro para o estúdio e até ganhou um Oscar por sua trilha sonora, mas com o passar do tempo, tornou-se cada vez mais problemático.</p>\n<h2>Por Que Dumbo É Tão Controverso?</h2>\n<p>As caricaturas racistas de <b>Dumbo</b> o tornaram um assunto de intensa investigação. Seu exemplo mais gritante e amplamente criticado é a representação de um grupo de corvos que parecem ajudar Dumbo a aprender a voar. Esses personagens são apresentados como estereótipos inequívocos de afro-americanos, falando em um dialeto específico e cantando músicas animadas no estilo gospel. O detalhe mais condenável é o nome do líder deles: Jim Crow. Esta é uma referência direta ao personagem racista dos shows de menestréis do século XIX, cujo nome se tornou sinônimo das brutais leis de segregação que impunham a desigualdade racial em todo o sul americano. Pior ainda, o corvo principal foi dublado por um ator branco, Cliff Edwards, no que hoje é amplamente visto como o equivalente vocal do blackface.</p>\n<p>Os corvos não são os únicos elementos profundamente problemáticos em <b>Dumbo</b>. Uma sequência inicial apresenta a canção “Song of the Roustabouts”, interpretada por um grupo de trabalhadores de pele escura e sem rosto enquanto montam a tenda do circo em uma tempestade. As letras cantadas por esses personagens, que se autodenominam “roustabouts de coração alegre”, glorificam sua própria exploração com versos como “Trabalhamos o dia todo, trabalhamos a noite. Nunca aprendemos a ler ou escrever”, e “Quando outras pessoas foram para a cama, nós escravizamos até estarmos quase mortos”. A representação desumanizadora desses trabalhadores negros, combinada com letras que relativizam sua analfabetismo e trabalho árduo, apresenta um retrato insensível de suas circunstâncias. A sequência inclui até mesmo uma voz fora de cena gritando: “Pegue aquela corda, seu macaco peludo”, uma observação racista óbvia.</p>\n<h2>Reconhecimento e Adaptação</h2>\n<p>Nos últimos anos, a The Walt Disney Company tomou medidas para reconhecer o conteúdo prejudicial em seus filmes mais antigos. No serviço de streaming Disney+, <b>Dumbo</b> é precedido por um aviso de conteúdo que afirma: “Este programa inclui representações negativas e/ou maus-tratos de pessoas ou culturas. Esses estereótipos estavam errados na época e estão errados agora.” Além disso, os corvos foram completamente removidos da adaptação em live-action de <b>Dumbo</b> de 2019, de Tim Burton, um sinal claro de que o estúdio reconhece os personagens como estereótipos indefensáveis. Esses reconhecimentos, no entanto, não apagam a história do filme original, que ainda é um grande exemplo de como a mídia pode perpetuar ideias prejudiciais mesmo em produções familiares.</p>",
+      "meta_description": "Revelamos as controvérsias de Dumbo, o filme animado da Disney de 1941, que apresenta estereótipos racistas e retratos problemáticos de trabalhadores.",
+      "focus_keyphrase": "Dumbo filme controverso Disney",
+      "related_keyphrases": [
+        "Dumbo racismo",
+        "animação Disney antiga",
+        "estereótipos Dumbo"
+      ],
+      "slug": "dumbo-filme-controversia-disney",
+      "categorias": [
+        {
+          "nome": "Dumbo",
+          "grupo": "obras",
+          "evidence": "its fourth animated feature film, Dumbo."
+        },
+        {
+          "nome": "Walt Disney Animation Studios",
+          "grupo": "franquias",
+          "evidence": "Walt Disney Animation Studios are often viewed as eternal classics."
+        }
+      ],
+      "tags_sugeridas": [
+        "dumbo",
+        "disney",
+        "animação",
+        "racismo",
+        "filmes controversos",
+        "estereótipos"
+      ],
+      "image_alt_texts": {
+        "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Imagem ilustrativa sem relação direta com o artigo.",
+        "Army-in-Dune-Part-Two.jpg": "Imagem ilustrativa sem relação direta com o artigo.",
+        "Battlestar-Galactica-33.jpg": "Imagem ilustrativa sem relação direta com o artigo.",
+        "Gargoyles.jpg": "Imagem ilustrativa sem relação direta com o artigo.",
+        "The-crows-from-Dumbo.jpg": "Corvos do filme Dumbo, representando a polêmica representação racial no filme da Disney.",
+        "star-wars-lightsaber-hilt-advent-calendar.jpg": "Imagem ilustrativa sem relação direta com o artigo.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem ilustrativa sem relação direta com o artigo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Dumbo: O Polêmico Filme da Disney Que Incomoda Há 84 Anos | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Revelamos as controvérsias de Dumbo, o filme animado da Disney de 1941, que apresenta estereótipos racistas e retratos problemáticos de trabalhadores.",
+        "_yoast_wpseo_focuskw": "Dumbo filme controverso Disney",
+        "_yoast_news_keywords": "Dumbo, Disney, animação, racismo, estereótipos, filmes controversos, Jim Crow",
+        "_yoast_wpseo_opengraph-title": "Dumbo: O Polêmico Filme da Disney Que Incomoda Há 84 Anos",
+        "_yoast_wpseo_opengraph-description": "Revelamos as controvérsias de Dumbo, o filme animado da Disney de 1941, que apresenta estereótipos racistas e retratos problemáticos de trabalhadores.",
+        "_yoast_wpseo_twitter-title": "Dumbo: O Polêmico Filme da Disney Que Incomoda Há 84 Anos",
+        "_yoast_wpseo_twitter-description": "Revelamos as controvérsias de Dumbo, o filme animado da Disney de 1941, que apresenta estereótipos racistas e retratos problemáticos de trabalhadores."
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix: Críticas Negativas Atingem Novo Suspense com Milhões de Visualizações",
+      "conteudo_final": "<p>Um novo filme de suspense na Netflix, <b>Taken In Plain Sight</b>, tem gerado reações negativas por parte dos usuários, apesar de ter alcançado milhões de visualizações e figurar entre os dez títulos mais vistos globalmente na plataforma. Lançado em 2024, o longa acumulou 2.9 milhões de visualizações, mas a recepção do público e da crítica tem sido majoritariamente desfavorável.</p><h2>Críticas e Repercussão do Público</h2><p>Apesar do aparente sucesso de audiência, <b>Taken In Plain Sight</b> não obteve avaliações suficientes no Rotten Tomatoes para registrar pontuações no Tomatometer ou Popcornmeter. Os espectadores que assistiram expressaram descontentamento, descrevendo o filme como “absolutamente horrível” e criticando as atuações, o roteiro e a falta de originalidade. Uma espectadora comentou que “cada ator foi horrível, especialmente a atriz principal”, e que o personagem antagonista era “clichê demais e forçado”. A escrita foi considerada “terrível”, “pouco original” e “entediante”, com um final “anti-climático”.</p><p>Outro espectador, após assistir por 39 minutos, buscou opiniões online devido à dificuldade em continuar assistindo, descrevendo a experiência como “dolorosa” e esperando, em vão, por uma melhora. A narrativa, que acompanha uma mãe investigando o sequestro de sua filha e tomando a justiça com as próprias mãos após a polícia descartar suas suspeitas, foi considerada familiar para o gênero, mas executada de forma decepcionante.</p><h2>Opiniões Divergentes e Receita de Fracasso</h2><p>A recepção na internet tem sido implacável. Um usuário afirmou que o filme “tem que ser o primeiro filme escrito por IA”, criticando a pouca duração que conseguiu assistir e a qualidade geral baixa. A falta de naturalidade nos diálogos, especialmente os da filha no início do filme, também foi apontada como um ponto fraco, levantando dúvidas sobre a autenticidade da escrita.</p><p>Apesar das críticas negativas, o filme continua disponível na <a href=\"https://www.maquinanerd.com.br/tag/netflix\">Netflix</a>, acumulando visualizações. A repercussão negativa nas redes sociais e fóruns de discussão demonstra um claro descompasso entre o interesse gerado pelo volume de visualizações e a satisfação do público com a qualidade do conteúdo.</p>",
+      "meta_description": "Novo suspense da Netflix, Taken In Plain Sight, alcança milhões de visualizações, mas recebe críticas pesadas de usuários por atuações e roteiro.",
+      "focus_keyphrase": "Taken In Plain Sight Netflix",
+      "related_keyphrases": [
+        "filmes de suspense Netflix",
+        "críticas Taken In Plain Sight",
+        "audiência Netflix"
+      ],
+      "slug": "taken-in-plain-sight-netflix-criticas",
+      "categorias": [
+        {
+          "nome": "Taken In Plain Sight",
+          "grupo": "obras",
+          "evidence": "Taken In Plain Sight dropped back in 2024"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "obras",
+          "evidence": "top ten <a href=\"https://comicbook.com/tag/netflix/\">Netflix</a> Global Views list"
+        }
+      ],
+      "tags_sugeridas": [
+        "Taken In Plain Sight",
+        "Netflix",
+        "suspense",
+        "críticas de filmes",
+        "audiência",
+        "filmes 2024",
+        "novidades Netflix"
+      ],
+      "image_alt_texts": {
+        "netflix-scifi.jpg": "Cena de suspense de um filme na Netflix.",
+        "Firefly-Out-of-Gas-episode.jpg": "Imagem promocional de um episódio de série.",
+        "Maggie-Cheung-in-martial-arts-movie-Hero.jpg": "Atriz Maggie Cheung em cena de filme de artes marciais.",
+        "Taken-In-Plain-Sight-KJ-Romani-102225-75a60b41141442ae9d33166ca5213ef8.jpg": "Ator KJ Romani em uma cena tensa do filme Taken In Plain Sight.",
+        "i-know-what-you-did-last-summer-2025_1ff292.jpg": "Cena do filme Eu Sei o Que Vocês Fizeram no Verão.",
+        "killjoys-cast.jpg": "Elenco da série Killjoys.",
+        "weapons-2025.jpg": "Imagem promocional do filme Weapons."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: Críticas Negativas Atingem Novo Suspense com Milhões de Visualizações",
+        "_yoast_wpseo_metadesc": "Novo suspense da Netflix, Taken In Plain Sight, alcança milhões de visualizações, mas recebe críticas pesadas de usuários por atuações e roteiro.",
+        "_yoast_wpseo_focuskw": "Taken In Plain Sight Netflix",
+        "_yoast_news_keywords": "Taken In Plain Sight, Netflix, suspense, críticas de filmes, audiência, filmes 2024",
+        "_yoast_wpseo_opengraph-title": "Netflix: Críticas Negativas Atingem Novo Suspense com Milhões de Visualizações",
+        "_yoast_wpseo_opengraph-description": "Novo suspense da Netflix, Taken In Plain Sight, alcança milhões de visualizações, mas recebe críticas pesadas de usuários por atuações e roteiro.",
+        "_yoast_wpseo_twitter-title": "Netflix: Críticas Negativas Atingem Novo Suspense com Milhões de Visualizações",
+        "_yoast_wpseo_twitter-description": "Novo suspense da Netflix, Taken In Plain Sight, alcança milhões de visualizações, mas recebe críticas pesadas de usuários por atuações e roteiro."
+      }
+    }
+  ]
+}

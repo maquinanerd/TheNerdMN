@@ -1,0 +1,97 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Asset: Série de suspense da Netflix conquista o topo global",
+      "conteudo_final": "<p>A minissérie de suspense <b>Netflix</b>, <b>The Asset</b>, surpreendeu ao se tornar a série mais assistida globalmente em seu lançamento em outubro de 2025. Com apenas seis episódios, a produção dinamarquesa superou outros lançamentos populares da plataforma, como <em>Nobody Wants This</em> e <em>The Diplomat</em>.</p><h2>Sucesso Inesperado na Netflix</h2><p>Lançada discretamente em 27 de outubro de 2025, <b>The Asset</b> rapidamente escalou para o topo das paradas globais da Netflix, tornando-se um dos títulos mais comentados da temporada de outono. A série de crime e suspense conquistou o público com sua trama envolvente, que acompanha a agente secreta Tea em uma missão de infiltração em uma gangue criminosa, onde ela se vê dividida entre o dever e a proteção de Ashley, a namorada do líder da organização.</p><p>Apesar de sua popularidade, a série tem recebido pouca atenção da crítica especializada, com poucas resenhas disponíveis em plataformas como o Rotten Tomatoes. No entanto, sua estrutura de apenas seis episódios, com cerca de 50 minutos cada, a torna ideal para maratonas, contribuindo para seu sucesso viral.</p><h2>O Cenário de Suspense em 2025</h2><p>O ano de 2025 tem sido marcado por um forte interesse em séries de suspense e crime. Títulos como <em>Dexter: Resurrection</em> e <em>Task</em>, ambos aclamados pela crítica, dominaram as plataformas de streaming. A própria Netflix viu sucesso com <em>Black Rabbit</em> em setembro, enquanto Paramount+ e Apple TV+ também apostaram em produções do gênero com <em>Mayor of Kingstown</em>, <em>Tulsa King</em> e <em>Slow Horses</em>.</p><p><b>The Asset</b> se junta a essa lista de sucessos, consolidando o gênero de suspense como um dos favoritos do público. Para os fãs de tramas eletrizantes, a série é uma recomendação imperdível desta semana.</p><figure><img src=\"https:
+      "meta_description": "A minissérie dinamarquesa The Asset se tornou um fenômeno global na Netflix, conquistando o topo das paradas com sua trama de suspense e poucos episódios.",
+      "focus_keyphrase": "The Asset Netflix",
+      "related_keyphrases": [
+        "série de suspense Netflix",
+        "The Asset série",
+        "novidades Netflix 2025"
+      ],
+      "slug": "the-asset-netflix-sucesso-global",
+      "categorias": [
+        {
+          "nome": "The Asset",
+          "grupo": "obras",
+          "evidence": "The Asset miniseries"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix miniseries"
+        }
+      ],
+      "tags_sugeridas": [
+        "the-asset",
+        "netflix",
+        "suspense",
+        "minissérie",
+        "crime"
+      ],
+      "image_alt_texts": {
+        "tcdasse_zx007-1.jpg": "Ashley (Maria Cordsen) em uma cena de The Asset.",
+        "03234629_poster_w780.jpg": "Pôster da série The Asset."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Asset: Série de suspense da Netflix conquista o topo global",
+        "_yoast_wpseo_metadesc": "A minissérie dinamarquesa The Asset se tornou um fenômeno global na Netflix, conquistando o topo das paradas com sua trama de suspense e poucos episódios.",
+        "_yoast_wpseo_focuskw": "The Asset Netflix",
+        "_yoast_news_keywords": "The Asset, Netflix, série de suspense, minissérie, crime, streaming",
+        "_yoast_wpseo_opengraph-title": "The Asset: Série de suspense da Netflix conquista o topo global",
+        "_yoast_wpseo_opengraph-description": "A minissérie dinamarquesa The Asset se tornou um fenômeno global na Netflix, conquistando o topo das paradas com sua trama de suspense e poucos episódios.",
+        "_yoast_wpseo_twitter-title": "The Asset: Série de suspense da Netflix conquista o topo global",
+        "_yoast_wpseo_twitter-description": "A minissérie dinamarquesa The Asset se tornou um fenômeno global na Netflix, conquistando o topo das paradas com sua trama de suspense e poucos episódios."
+      }
+    },
+    {
+      "titulo_final": "Hazbin Hotel: Todas as músicas de destaque das temporadas 1 e 2",
+      "conteudo_final": "<p>A série animada <b>Hazbin Hotel</b>, disponível na Prime Video, se destaca não apenas por sua animação única e personagens cativantes, mas também por sua trilha sonora original. As composições de Andrew Underberg e Sam Haft, que retornaram para a segunda temporada, são essenciais para o desenvolvimento da trama e dos arcos dos personagens.</p><h2>Músicas da Primeira Temporada de Hazbin Hotel</h2><p>A primeira temporada de <em>Hazbin Hotel</em> acompanha Charlie Morningstar, filha de Lúcifer, em seu sonho de redimir pecadores através de um hotel. A série é marcada por números musicais que exploram as complexidades dos personagens e do universo infernal.</p><p><strong>Temporada 1, Episódio 1: “Overture”</strong></p><ul><li><strong>“Happy Day in Hell”</strong> (Charlie Morningstar): Charlie expressa seu otimismo e apresenta o mundo do inferno.</li><li><strong>“Hell Is Forever”</strong> (Adam): Adam canta sobre o destino dos pecadores e anuncia a data das extermínios.</li></ul><p><strong>Temporada 1, Episódio 2: “Radio Killed the Video Star”</strong></p><ul><li><strong>“Stayed Gone”</strong> (Vox e Alastor): Um confronto musical entre Vox e Alastor sobre o retorno deste último.</li><li><strong>“It Starts With Sorry”</strong> (Charlie Morningstar e Sir Pentious): Charlie ensina Sir Pentious sobre o perdão e a redenção.</li></ul><p><strong>Temporada 1, Episódio 3: “Scrambled Eggs”</strong></p><ul><li><strong>“Respectless”</strong> (Carmilla Carmine e Velvette): Carmilla confronta a imprudência de Velvette em relação a uma guerra contra os anjos.</li><li><strong>“Whatever It Takes”</strong> (Carmilla Carmine e Vaggie): Carmilla revela seus motivos para proteger suas filhas, enquanto Vaggie reafirma seu compromisso com Charlie.</li></ul><p><strong>Temporada 1, Episódio 4: “Masquerade”</strong></p><ul><li><strong>“Poison”</strong> (Angel Dust): Angel Dust expressa o controle que Valentino exerce sobre ele.</li><li><strong>“Loser, Baby”</strong> (Husk e Angel Dust): Uma canção sobre aceitação e a identidade de ambos os personagens, considerada uma das melhores da temporada.</li></ul><p><strong>Temporada 1, Episódio 5: “Dad Beat Dad”</strong></p><ul><li><strong>“Hell’s Greatest Dad”</strong> (Lucifer Morningstar e Alastor): Lucifer e Alastor competem pela atenção de Charlie.</li><li><strong>“More than Anything”</strong> (Lucifer e Charlie Morningstar): Um momento de conexão entre pai e filha, revelando suas motivações e sentimentos.</li></ul><p><strong>Temporada 1, Episódio 6: “Welcome to Heaven”</strong></p><ul><li><strong>“Welcome to Heaven”</strong> (St. Peter, Emily, e Sera): Uma apresentação otimista do paraíso para Charlie e Vaggie.</li><li><strong>“You Didn’t Know”</strong> (Emily, Charlie Morningstar, Adam): Revelações sobre a corrupção no Paraíso e a verdade sobre Vaggie.</li></ul><p><strong>Temporada 1, Episódio 7: “Hello Rosie”</strong></p><ul><li><strong>“Out for Love”</strong> (Carmilla Carmine): Carmilla aconselha Vaggie a lutar por amor, não por vingança.</li><li><strong>“Ready for This”</strong> (Charlie Morningstar, Rosie, Alastor): Charlie inspira os cidadãos de Cannibal Town a se juntarem à sua causa.</li></ul><p><strong>Temporada 1, Episódio 8: “The Show Must Go On”</strong></p><ul><li><strong>More Than Anything (Reprise)</strong> (Vaggie e Charlie Morningstar): Um momento terno que reforça o amor entre Charlie e Vaggie.</li><li><strong>“The Show Must Go On (Finale)”</strong> (Hazbin Hotel Ensemble): A canção final celebra a resiliência e a reconstrução do hotel.</li></ul><figure><img src=\"https:
+      "meta_description": "Confira a lista completa de músicas de Hazbin Hotel das temporadas 1 e 2, incluindo detalhes sobre as canções e onde ouvi-las.",
+      "focus_keyphrase": "Hazbin Hotel músicas",
+      "related_keyphrases": [
+        "trilha sonora Hazbin Hotel",
+        "músicas Hazbin Hotel temporada 2",
+        "Hazbin Hotel Prime Video"
+      ],
+      "slug": "hazbin-hotel-musicas-temporadas-1-2",
+      "categorias": [
+        {
+          "nome": "Hazbin Hotel",
+          "grupo": "obras",
+          "evidence": "Hazbin Hotel seasons 1 and 2"
+        },
+        {
+          "nome": "Animação",
+          "grupo": "editorias",
+          "evidence": "A+ musical comedy"
+        }
+      ],
+      "tags_sugeridas": [
+        "hazbin-hotel",
+        "musicas",
+        "trilha-sonora",
+        "prime-video",
+        "animacao",
+        "vivienne-medrano"
+      ],
+      "image_alt_texts": {
+        "hazbin-hotel-season-2.png": "Charlie em uma cena da segunda temporada de Hazbin Hotel.",
+        "hazbin-hotel-season-2-poster-cropped.jpg": "Pôster da segunda temporada de Hazbin Hotel.",
+        "vox-hugging-the-vees-as-they-look-standoffish-in-hazbin-hotel-season-2.jpg": "Vox abraçando os Vees em uma cena da segunda temporada de Hazbin Hotel.",
+        "hazbin-hotel-tv-show-poster.jpeg": "Pôster da série Hazbin Hotel."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hazbin Hotel: Todas as músicas de destaque das temporadas 1 e 2",
+        "_yoast_wpseo_metadesc": "Confira a lista completa de músicas de Hazbin Hotel das temporadas 1 e 2, incluindo detalhes sobre as canções e onde ouvi-las.",
+        "_yoast_wpseo_focuskw": "Hazbin Hotel músicas",
+        "_yoast_news_keywords": "Hazbin Hotel, músicas, trilha sonora, Prime Video, animação, Vivienne Medrano, Andrew Underberg, Sam Haft",
+        "_yoast_wpseo_opengraph-title": "Hazbin Hotel: Todas as músicas de destaque das temporadas 1 e 2",
+        "_yoast_wpseo_opengraph-description": "Confira a lista completa de músicas de Hazbin Hotel das temporadas 1 e 2, incluindo detalhes sobre as canções e onde ouvi-las.",
+        "_yoast_wpseo_twitter-title": "Hazbin Hotel: Todas as músicas de destaque das temporadas 1 e 2",
+        "_yoast_wpseo_twitter-description": "Confira a lista completa de músicas de Hazbin Hotel das temporadas 1 e 2, incluindo detalhes sobre as canções e onde ouvi-las."
+      }
+    }
+  ]
+}

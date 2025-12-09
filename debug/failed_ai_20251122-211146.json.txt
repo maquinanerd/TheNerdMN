@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Baldur's Gate 3: Recruta da Mão Flamejante segue jogador após truque bizarro",
+      "conteudo_final": "<p>Jogadores de <b>Baldur's Gate 3</b> continuam descobrindo peculiaridades e exploits, mesmo no primeiro ato do jogo. Um jogador encontrou uma maneira inusitada de fazer uma recruta da Mão Flamejante seguir o personagem pelo Ato 1, após um evento trágico.</p><p>O usuário u/biochip relatou ter descoberto o truque após saquear o corpo de um Mão Flamejante chamado Jacek, que estava sendo rezado por sua colega, a Recruta Ephren. Para distrair Ephren, o jogador usou um truque de bardo para afastá-la enquanto saqueava e, em seguida, pegou o corpo de Jacek e o escondeu na mochila.</p><p>Para a surpresa do jogador, Ephren começou a seguir o personagem, aparentemente reverenciando a mochila que continha o corpo de seu colega. Mesmo quando o jogador se movia rapidamente ou atravessava obstáculos, Ephren o seguia, recitando suas preces para o corpo.</p><h2>Uma Companheira Gratuita da Mão Flamejante?</h2><p>Essa peculiaridade, embora não conceda controle direto sobre Ephren como um membro da party, funciona como um músculo extra em combate. A recruta segue o jogador pelo cenário do Ato 1, auxiliando em batalhas, o que pode ser uma vantagem considerável, especialmente em dificuldades mais elevadas como o modo Tactician.</p><p>O principal inconveniente é que Ephren não atravessa transições de zona, limitando sua atuação ao mapa do Ato 1. No entanto, o jogador observou que ela pode ajudar em uma "quantidade substancial de conteúdo" dentro dessa área.</p><p>Comentários na comunidade sugerem que é possível fazer Ephren aparecer em locais específicos ao esconder o corpo, inclusive no acampamento, e que ela poderia ser recrutada já no Nível 2. Há também curiosidade sobre o que aconteceria se o corpo fosse levado para a casa da filha de Jacek, adicionando um toque mórbido à descoberta.</p><p>A comunidade de <b>Baldur's Gate 3</b> está explorando as possibilidades desse truque, com alguns especulando se ele pode ser a chave para facilitar o modo Honour Mode. Outros, no entanto, veem isso mais como uma peculiaridade divertida para enriquecer a experiência de jogo.</p><h2>Descobertas e Exploits em Baldur's Gate 3</h2><p>A descoberta de u/biochip destaca a profundidade e as surpresas que <b>Baldur's Gate 3</b> ainda oferece aos seus jogadores. A interação de Ephren com o corpo de Jacek, mesmo quando escondido, é um exemplo de como o jogo reage de maneiras inesperadas às ações do jogador.</p><p>A comunidade continua a testar os limites desse exploit, buscando entender sua funcionalidade completa e se ele se mantém após um Long Rest. A possibilidade de ter um aliado extra, mesmo que não controlável, pode mudar a dinâmica de combate em certas partes do jogo.</p><p>A exploração de tais bugs e peculiaridades é uma parte intrínseca da experiência em jogos de RPG complexos como <b>Baldur's Gate 3</b>, incentivando a criatividade e a colaboração entre os jogadores para desvendar todos os seus segredos.</p>",
+      "meta_description": "Descubra um exploit bizarro em Baldur's Gate 3 onde uma recruta da Mão Flamejante segue o jogador após um truque com o corpo de um colega.",
+      "focus_keyphrase": "Baldur's Gate 3 exploit recruta",
+      "related_keyphrases": [
+        "Baldur's Gate 3 Mão Flamejante",
+        "truque Baldur's Gate 3",
+        "exploit Ato 1 Baldur's Gate 3"
+      ],
+      "slug": "baldurs-gate-3-recruta-mao-flamejante-exploit",
+      "categorias": [
+        {
+          "nome": "Baldur's Gate 3",
+          "grupo": "franquias",
+          "evidence": "Baldur's Gate 3 might be over two years old"
+        },
+        {
+          "nome": "RPG",
+          "grupo": "genero",
+          "evidence": "Genre(s) RPG"
+        },
+        {
+          "nome": "Larian Studios",
+          "grupo": "desenvolvedores",
+          "evidence": "Developer(s) Larian Studios"
+        }
+      ],
+      "tags_sugeridas": [
+        "baldurs gate 3",
+        "rpg",
+        "larian studios",
+        "exploit",
+        "mao flamejante",
+        "ato 1"
+      ],
+      "image_alt_texts": {
+        "baldurs-gate-3-flaming-fist-at-waukeen-rest-door.jpg": "Recruta da Mão Flamejante em Baldur's Gate 3 em frente a Waukeen's Rest.",
+        "mixcollage-08-dec-2024-02-20-pm-5221.jpg": "Cena de combate em Baldur's Gate 3 com múltiplos personagens."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Baldur's Gate 3: Recruta da Mão Flamejante segue jogador após truque bizarro",
+        "_yoast_wpseo_metadesc": "Descubra um exploit bizarro em Baldur's Gate 3 onde uma recruta da Mão Flamejante segue o jogador após um truque com o corpo de um colega.",
+        "_yoast_wpseo_focuskw": "Baldur's Gate 3 exploit recruta",
+        "_yoast_news_keywords": "Baldur's Gate 3, RPG, Larian Studios, exploit, Mão Flamejante, truque, Ato 1",
+        "_yoast_wpseo_opengraph-title": "Baldur's Gate 3: Recruta da Mão Flamejante segue jogador após truque bizarro",
+        "_yoast_wpseo_opengraph-description": "Descubra um exploit bizarro em Baldur's Gate 3 onde uma recruta da Mão Flamejante segue o jogador após um truque com o corpo de um colega.",
+        "_yoast_wpseo_twitter-title": "Baldur's Gate 3: Recruta da Mão Flamejante segue jogador após truque bizarro",
+        "_yoast_wpseo_twitter-description": "Descubra um exploit bizarro em Baldur's Gate 3 onde uma recruta da Mão Flamejante segue o jogador após um truque com o corpo de um colega."
+      }
+    }
+  ]
+}

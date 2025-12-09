@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Superman 2025 é sucesso da DC; MCU lamenta trend de bilheteria",
+  "conteudo_final": "<p>Em 2025, enquanto o Universo Cinematográfico Marvel (MCU) enfrentou um ano desafiador em termos de bilheteria, o novo Universo DC, sob a liderança de James Gunn, emergiu como vencedor. O filme <b>Superman</b> se destacou como a produção de super-herói mais lucrativa do ano, superando os lançamentos da Marvel.</p><h2>O Sucesso de Superman 2025 e a Trend Desapontadora do MCU</h2><p>A Marvel lançou três filmes em 2025: <em>Captain America: Brave New World</em>, <em>Thunderbolts*</em> e <em>The Fantastic Four: First Steps</em>. Apesar da importância desses títulos para a continuidade do MCU, especialmente na introdução de novas equipes como os Vingadores, o estúdio ainda não anunciou sequências para nenhum deles. O filme de maior arrecadação da Marvel foi <em>The Fantastic Four: First Steps</em>, com US$ 521,9 milhões mundialmente.</p><p>Em contraste, <b>Superman</b>, o filme do DCU, conquistou o título de maior bilheteria de super-herói em 2025, alcançando US$ 616 milhões. Mais do que apenas o desempenho financeiro, o filme de James Gunn quebrou uma tendência negativa que tem afetado a indústria.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/lex-luthor-and-superman-man-of-tomorrow-concept-art.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Arte conceitual de Lex Luthor e Superman em 'Man of Tomorrow'\"><figcaption>A arte conceitual de Lex Luthor e Superman indica a dinâmica entre os personagens em 'Man of Tomorrow'.</figcaption></figure><h2>Superman 2025 é o Único com Sequência Anunciada</h2><p>A DC demonstrou confiança no sucesso de <b>Superman</b> ao anunciar rapidamente uma sequência. O filme <em>Man of Tomorrow</em> tem previsão de estreia para 9 de julho de 2027, apenas dois anos após a estreia de David Corenswet como o novo Homem de Aço.</p><p><em>Man of Tomorrow</em> promete explorar a relação complexa entre o Superman de Corenswet e o Lex Luthor de Nicholas Hoult. James Gunn revelou que, apesar da rivalidade, os dois heróis serão forçados a se unir contra uma ameaça maior, especulada como sendo Brainiac. O anúncio da sequência reforça o bom momento da DC após o retorno de um filme de super-herói com a maior bilheteria do ano.</p><h2>Por Que o MCU Pode Estar Esperando para Anunciar Sequências</h2><p>Existem várias razões pelas quais o MCU pode estar adiando o anúncio de sequências para seus filmes de 2025. Uma das mais prováveis é a necessidade de preservar spoilers, especialmente considerando que os protagonistas desses filmes retornarão em <em>Avengers: Doomsday</em>, previsto para o próximo ano.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/avengers-doomsday-title-treatment-jpg.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Título de 'Avengers: Doomsday'\"><figcaption>O título de 'Avengers: Doomsday' sugere um evento de grande escala no MCU.</figcaption></figure><p>Além disso, o MCU estaria passando por um "reboot suave" após <em>Avengers: Secret Wars</em>, programado para 2027. Isso pode significar que a Marvel Studios está reavaliando seu futuro e definindo quais personagens e equipes serão centrais para a estratégia do estúdio nos próximos anos. Com o DCU em fase inicial e uma linha editorial mais clara, o anúncio de uma sequência para <b>Superman</b> foi um movimento mais direto e assertivo.</p>",
+  "meta_description": "Superman 2025 da DC supera o MCU em bilheteria e anuncia sequência, quebrando trend negativa do estúdio rival.",
+  "focus_keyphrase": "Superman 2025",
+  "related_keyphrases": [
+    "DCU",
+    "MCU",
+    "Man of Tomorrow"
+  ],
+  "slug": "superman-2025-sucesso-dc-mcu",
+  "categorias": [
+    {
+      "nome": "Superman",
+      "grupo": "franquias",
+      "evidence": "DC's Superman movie took the crown in 2025"
+    },
+    {
+      "nome": "DC Universe",
+      "grupo": "franquias",
+      "evidence": "James Gunn's DC Universe"
+    },
+    {
+      "nome": "Marvel Cinematic Universe",
+      "grupo": "franquias",
+      "evidence": "MCU's 2025 movies"
+    }
+  ],
+  "tags_sugeridas": [
+    "superman",
+    "dcu",
+    "mcu",
+    "james gunn",
+    "lex luthor",
+    "man of tomorrow",
+    "filmes de super-heróis"
+  ],
+  "image_alt_texts": {
+    "lex-luthor-and-superman-man-of-tomorrow-concept-art.jpg": "Arte conceitual de Lex Luthor e Superman em 'Man of Tomorrow', indicando a dinâmica entre os personagens.",
+    "avengers-doomsday-title-treatment-jpg.jpg": "Título de 'Avengers: Doomsday', sugerindo um evento de grande escala no MCU."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Superman 2025: Sucesso da DC quebra trend e supera MCU",
+    "_yoast_wpseo_metadesc": "Superman 2025 da DC supera o MCU em bilheteria e anuncia sequência, quebrando trend negativa do estúdio rival.",
+    "_yoast_wpseo_focuskw": "Superman 2025",
+    "_yoast_news_keywords": "Superman, DCU, MCU, James Gunn, Man of Tomorrow, filmes de super-heróis, bilheteria, Marvel",
+    "_yoast_wpseo_opengraph-title": "Superman 2025: Sucesso da DC quebra trend e supera MCU",
+    "_yoast_wpseo_opengraph-description": "Superman 2025 da DC supera o MCU em bilheteria e anuncia sequência, quebrando trend negativa do estúdio rival.",
+    "_yoast_wpseo_twitter-title": "Superman 2025: Sucesso da DC quebra trend e supera MCU",
+    "_yoast_wpseo_twitter-description": "Superman 2025 da DC supera o MCU em bilheteria e anuncia sequência, quebrando trend negativa do estúdio rival."
+  }
+}

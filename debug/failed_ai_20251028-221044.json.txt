@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Final Fantasy 7 Rebirth: Promessa de versão Switch 2 à altura do original",
+      "conteudo_final": "<p>Fãs da Nintendo podem ficar tranquilos em relação à versão de <b>Final Fantasy 7 Rebirth</b> para o Switch 2. Um executivo sênior da Square Enix garantiu que a empresa almeja entregar um port com qualidade no mínimo igual à versão do primeiro remake para o console, e que o novo título pode até superar seu antecessor em otimização para portáteis.</p>\n<p>A versão para Switch 2 de <b>Final Fantasy 7 Remake Intergrade</b> já tem data de lançamento confirmada: 22 de janeiro de 2026. A Square Enix informou que o restante da trilogia do remake também chegará ao console híbrido da Nintendo futuramente, mas sem detalhes específicos.</p>\n<h2>Final Fantasy 7 Rebirth Poderá Superar FF7 Remake em Performance no Switch 2</h2>\n<p>Apesar de <b>Final Fantasy 7 Rebirth</b> ter sido aclamado por seus impressionantes gráficos em 2024, espera-se que ele se adapte bem ao hardware do Switch 2, considerado modesto em comparação com consoles de atual geração. Segundo Naoki Hamaguchi, produtor de longa data da série <b>Final Fantasy</b>, a Square Enix está \"trabalhando arduamente\" para garantir que o jogo rode da melhor forma possível no console híbrido. \"Os proprietários do Switch 2 terão uma versão tão satisfatória e de alta qualidade quanto o primeiro jogo, se não superior\", declarou o executivo.</p>\n<h3>Port do FF7 Remake Intergrade para Switch 2 Já Mostra Potencial</h3>\n<p>Mesmo antes de chegar ao console da Nintendo, o novo port da primeira parte da trilogia do remake já demonstra grande potencial. A Square Enix divulgou recentemente um vídeo comparando os visuais de <b>Final Fantasy 7 Remake Intergrade</b> no Switch 2 com outras plataformas, indicando que o jogo oferecerá, no mínimo, um nível similar de fidelidade gráfica em suas cenas. Quanto à performance, o desenvolvedor se comprometeu a mirar em 30 quadros por segundo.</p>\n<p>Mesmo que a versão do Switch 2 de <b>Final Fantasy 7 Rebirth</b> busque níveis de performance semelhantes aos de seu antecessor, ainda poderá cumprir a promessa de Hamaguchi de melhoria, por exemplo, oferecendo uma taxa de quadros mais estável. Embora a probabilidade de a Square Enix mirar em mais de 30fps no Switch 2 seja baixa, não pode ser descartada. A performance de <b>FF7 Remake Intergrade</b> no console provavelmente servirá como o indicador mais claro do que esperar de <b>Rebirth</b>, visto que ambos os títulos utilizam o mesmo motor gráfico, compartilham muitos assets e são desenvolvidos pelo mesmo estúdio.</p>\n<p>\"Os proprietários do Switch 2 terão uma versão tão satisfatória e de alta qualidade quanto o primeiro jogo, se não superior.\"</p>\n<p>A Square Enix ainda não especificou quando a segunda entrada da trilogia chegará ao console mais recente da Nintendo. Uma vez que a versão física de <b>Final Fantasy 7 Remake Intergrade</b> para Switch 2 será um lançamento via Cartão de Jogo, é provável que sua sequência siga o mesmo modelo.</p>\n<h2></h2>\n<p>O jogo foi lançado originalmente em 29 de fevereiro de 2024, recebendo a classificação etária T (Adolescente) pela ESRB, devido a violência, linguagem, temas sugestivos e uso de álcool e tabaco.</p>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/tifa-final-fantasy-7-rebirth-cropped.jpg\" alt=\"Tifa em Final Fantasy 7 Rebirth demonstrando seu poder em combate.\"><figcaption>A protagonista Tifa Lockhart exibe sua força em Final Fantasy 7 Rebirth.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/6-final-fantasy-7-rebirth-aerith-death-scene.jpg\" alt=\"Cena emocionante de Aerith em Final Fantasy 7 Rebirth.\"><figcaption>Momento dramático envolvendo Aerith Gainsborough em Final Fantasy 7 Rebirth.</figcaption></figure>\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/ff7-rebirth-party.jpg\" alt=\"Grupo de personagens reunidos em Final Fantasy 7 Rebirth.\"><figcaption>O grupo de heróis reunido para enfrentar novos desafios em Final Fantasy 7 Rebirth.</figcaption></figure>",
+      "meta_description": "Diretor de Final Fantasy 7 Rebirth promete que a versão para Switch 2 terá qualidade igual ou superior à do remake original.",
+      "focus_keyphrase": "Final Fantasy 7 Rebirth Switch 2",
+      "related_keyphrases": [
+        "Final Fantasy 7 Remake Intergrade Switch 2",
+        "Square Enix Switch 2",
+        "FF7 Rebirth otimização portátil"
+      ],
+      "slug": "final-fantasy-7-rebirth-switch-2-promessa",
+      "categorias": [
+        {
+          "nome": "Final Fantasy VII",
+          "grupo": "franquias",
+          "evidence": "Final Fantasy 7 Rebirth"
+        },
+        {
+          "nome": "Switch 2",
+          "grupo": "franquias",
+          "evidence": "Switch 2"
+        }
+      ],
+      "tags_sugeridas": [
+        "Final Fantasy 7 Rebirth",
+        "Switch 2",
+        "Square Enix",
+        "Naoki Hamaguchi",
+        "Final Fantasy 7 Remake Intergrade",
+        "Nintendo"
+      ],
+      "image_alt_texts": {
+        "tifa-final-fantasy-7-rebirth-cropped.jpg": "Tifa em Final Fantasy 7 Rebirth demonstrando seu poder em combate.",
+        "6-final-fantasy-7-rebirth-aerith-death-scene.jpg": "Cena emocionante de Aerith em Final Fantasy 7 Rebirth.",
+        "ff7-rebirth-party.jpg": "Grupo de personagens reunidos em Final Fantasy 7 Rebirth."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Final Fantasy 7 Rebirth: Promessa de versão Switch 2 à altura do original",
+        "_yoast_wpseo_metadesc": "Diretor de Final Fantasy 7 Rebirth promete que a versão para Switch 2 terá qualidade igual ou superior à do remake original.",
+        "_yoast_wpseo_focuskw": "Final Fantasy 7 Rebirth Switch 2",
+        "_yoast_news_keywords": "Final Fantasy 7 Rebirth, Switch 2, Square Enix, Naoki Hamaguchi, Final Fantasy 7 Remake Intergrade, Nintendo",
+        "_yoast_wpseo_opengraph-title": "Final Fantasy 7 Rebirth: Promessa de versão Switch 2 à altura do original",
+        "_yoast_wpseo_opengraph-description": "Diretor de Final Fantasy 7 Rebirth promete que a versão para Switch 2 terá qualidade igual ou superior à do remake original.",
+        "_yoast_wpseo_twitter-title": "Final Fantasy 7 Rebirth: Promessa de versão Switch 2 à altura do original",
+        "_yoast_wpseo_twitter-description": "Diretor de Final Fantasy 7 Rebirth promete que a versão para Switch 2 terá qualidade igual ou superior à do remake original."
+      }
+    }
+  ]
+}

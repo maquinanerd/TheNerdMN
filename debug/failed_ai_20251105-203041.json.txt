@@ -1,0 +1,139 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Predador: Badlands estreia e impulsiona bilheteria após mês fraco",
+      "conteudo_final": "<p>Após o pior outubro em bilheteria desde 1997, o mercado cinematográfico busca recuperação em novembro, impulsionado pela estreia de <strong><em>Predator: Badlands</em></strong>, da Disney/20th Century Studios. O diretor Dan Trachtenberg, responsável pelos recentes <em>Prey</em> e <em>Predator: Killer of Killers</em>, retorna para esta aventura independente.</p><p><em>Predator: Badlands</em> é o nono filme da <a href=\"https://www.maquinanerd.com.br/tag/predator\">franquia <em>Predator</em></a>, que começou em 1987 com Arnold Schwarzenegger. A série inclui ainda <em>Predator 2</em> (1990), <em>Predators</em> (2010), <em>The Predator</em> (2018) e os crossovers <em>Alien vs. Predator</em> (2004) e <em>Aliens vs. Predator: Requiem</em> (2007), marcando o retorno da saga às telonas.</p><p>Com um orçamento de US$ 105 milhões, <em>Predator: Badlands</em> é o único lançamento em ampla distribuição neste fim de semana e deve liderar a bilheteria. Outros filmes com lançamento limitado incluem <em>Nuremburg</em>, com Russell Crowe, <em>Die My Love</em>, com Jennifer Lawrence, e o biopic de boxe de Sydney Sweeney, <em>Christy</em>.</p><p>A previsão é que <strong><em>Predator: Badlands</em> arrecade US$ 29,8 milhões</strong> em seu fim de semana de estreia.</p><h2><em>Predator: Badlands</em> revitaliza a bilheteria em queda</h2><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/thia-and-dek-in-predator-badlands.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Thia e Dek em Predator: Badlands\"/><figcaption>Thia e Dek em cena de Predator: Badlands.</figcaption></figure><p>Ambientado em um futuro distante, <em>Predator: Badlands</em> foca no guerreiro Yautja Dek (Dimitrius Schuster-Kolomatangi), que busca provar seu valor ao caçar uma fera poderosa. Em sua jornada, ele encontra uma adversária inesperada, Thia (Elle Fanning).</p><p>O filme tem recebido críticas positivas, com uma pontuação inicial de 87% no Rotten Tomatoes, que subiu para 88%. Analistas preveem uma estreia entre US$ 25 milhões e US$ 30 milhões, com uma arrecadação internacional adicional de US$ 30 a US$ 35 milhões.</p><p>Mesmo superando as projeções e alcançando a faixa dos US$ 30 milhões, o filme pode não quebrar o recorde de estreia da franquia, que pertence a <em>Alien vs. Predator</em> com US$ 38,2 milhões. No entanto, deve superar <em>Predators</em> (US$ 24,8 milhões) e <em>The Predator</em> (US$ 24,6 milhões).</p><h2>Outros lançamentos com impacto limitado na bilheteria</h2><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/gwen-holding-the-grabber-by-the-collar-as-his-frowning-mask-looks-up-at-her-in-black-phone-2.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Gwen segura o Grabber pela gola em Black Phone 2\"/><figcaption>Cena de Black Phone 2.</figcaption></figure><p>A disputa do fim de semana passado foi acirrada, com o líder das estimativas de domingo sendo ultrapassado na segunda-feira. <em>Regretting You</em> liderou inicialmente com US$ 8,1 milhões, seguido de perto por <em>Black Phone 2</em> com US$ 8 milhões. No entanto, os números finais colocaram <em>Black Phone 2</em> em primeiro com US$ 8,3 milhões e <em>Regretting You</em> em segundo com US$ 7,8 milhões.</p><p>Neste fim de semana, <strong><em>Black Phone 2</em> deve cair para o segundo lugar</strong> com US$ 4,9 milhões, enquanto <em>Regretting You</em> fica em terceiro com US$ 4,2 milhões. <em>Chainsaw Man: The Movie - Reze Arc</em>, após uma queda de 65,5%, deve ficar em oitavo lugar com US$ 2,8 milhões.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/sydney-sweeney-looking-victorious-in-the-boxing-ring-in-christy.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Sydney Sweeney em cena de Christy\"/><figcaption>Sydney Sweeney interpreta a boxeadora Christy Martin.</figcaption></figure><p>Grandes estrelas de Hollywood chegam aos cinemas, mas sem projeções de grande impacto na bilheteria. Sydney Sweeney estrela o biopic <em>Christy</em>, sobre a boxeadora Christy Martin. O filme, que estreou com 70% no Rotten Tomatoes, deve debutar em quarto lugar com US$ 4 milhões.</p><p>Jennifer Lawrence e Robert Pattinson atuam em <em>Die My Love</em>, com estreia prevista para US$ 3,7 milhões. O drama histórico <em>Nuremburg</em>, com Russell Crowe, e o drama biográfico <em>Sarah's Oil</em> completam os lançamentos, com previsões de US$ 3,4 milhões e US$ 3,1 milhões, respectivamente.</p>",
+      "meta_description": "Predador: Badlands estreia nos cinemas e promete impulsionar a bilheteria após um outubro fraco. Saiba as projeções de arrecadação e os outros lançamentos.",
+      "focus_keyphrase": "Predador: Badlands bilheteria",
+      "related_keyphrases": [
+        "previsão bilheteria Predator Badlands",
+        "lançamentos cinema novembro",
+        "franquia Predator"
+      ],
+      "slug": "predador-badlands-bilheteria-estreia",
+      "categorias": [
+        {
+          "nome": "Predator",
+          "grupo": "franquias",
+          "evidence": "<em>Predator: Badlands</em> é o nono installment in the <em>Predator</em> franchise"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "editorias",
+          "evidence": "Disney/20th Century Studios' <em>Predator: Badlands</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Predator Badlands",
+        "Dan Trachtenberg",
+        "Elle Fanning",
+        "Bilheteria",
+        "Cinema"
+      ],
+      "image_alt_texts": {
+        "thia-and-dek-in-predator-badlands.jpg": "Thia e Dek em cena de Predator: Badlands.",
+        "gwen-holding-the-grabber-by-the-collar-as-his-frowning-mask-looks-up-at-her-in-black-phone-2.jpg": "Cena de Black Phone 2.",
+        "sydney-sweeney-looking-victorious-in-the-boxing-ring-in-christy.jpg": "Sydney Sweeney interpreta a boxeadora Christy Martin."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Predador: Badlands Impulsiona Bilheteria Após Outubro Fraco",
+        "_yoast_wpseo_metadesc": "Predador: Badlands estreia nos cinemas e promete impulsionar a bilheteria após um outubro fraco. Saiba as projeções de arrecadação e os outros lançamentos.",
+        "_yoast_wpseo_focuskw": "Predador: Badlands bilheteria",
+        "_yoast_news_keywords": "Predator Badlands, Bilheteria, Cinema, Lançamentos, Novembro, Franquia Predator, Disney",
+        "_yoast_wpseo_opengraph-title": "Predador: Badlands Impulsiona Bilheteria Após Outubro Fraco",
+        "_yoast_wpseo_opengraph-description": "Predador: Badlands estreia nos cinemas e promete impulsionar a bilheteria após um outubro fraco. Saiba as projeções de arrecadação e os outros lançamentos.",
+        "_yoast_wpseo_twitter-title": "Predador: Badlands Impulsiona Bilheteria Após Outubro Fraco",
+        "_yoast_wpseo_twitter-description": "Predador: Badlands estreia nos cinemas e promete impulsionar a bilheteria após um outubro fraco. Saiba as projeções de arrecadação e os outros lançamentos."
+      }
+    },
+    {
+      "titulo_final": "CoComelon: The Movie tem estreia confirmada para fevereiro de 2027",
+      "conteudo_final": "<p>A Universal confirmou a data de lançamento de <strong><em>CoComelon: The Movie</em></strong>, marcando a estreia da popular série infantil nos cinemas. O filme chega em 26 de fevereiro de 2027.</p><p>Produzido pela Moonbug Entertainment, subsidiária da Candle Media, e com a participação da Flywheel Media, o longa-metragem expande o universo de <em>CoComelon</em>, que se tornou um fenômeno desde sua estreia no YouTube em 2006. Atualmente, é um dos programas mais assistidos por crianças globalmente.</p><p><em>CoComelon: The Movie</em> é o único filme com lançamento agendado para a data confirmada, indicando um foco estratégico para atrair o público infantil.</p>",
+      "meta_description": "CoComelon: The Movie ganha data oficial de estreia nos cinemas. O filme baseado na popular série infantil chega em fevereiro de 2027.",
+      "focus_keyphrase": "CoComelon: The Movie estreia",
+      "related_keyphrases": [
+        "lançamento CoComelon filme",
+        "CoComelon cinema",
+        "Universal Pictures CoComelon"
+      ],
+      "slug": "cocomelon-the-movie-estreia",
+      "categorias": [
+        {
+          "nome": "CoComelon",
+          "grupo": "obras",
+          "evidence": "Universal's upcoming <em>CoComelon: The Movie</em>"
+        },
+        {
+          "nome": "Universal Pictures",
+          "grupo": "editorias",
+          "evidence": "Universal's upcoming <em>CoComelon: The Movie</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "CoComelon",
+        "CoComelon: The Movie",
+        "Universal Pictures",
+        "Moonbug Entertainment",
+        "Cinema Infantil"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "CoComelon: The Movie Ganha Data de Estreia em 2027",
+        "_yoast_wpseo_metadesc": "CoComelon: The Movie ganha data oficial de estreia nos cinemas. O filme baseado na popular série infantil chega em fevereiro de 2027.",
+        "_yoast_wpseo_focuskw": "CoComelon: The Movie estreia",
+        "_yoast_news_keywords": "CoComelon, CoComelon: The Movie, Universal Pictures, Cinema Infantil, Lançamento",
+        "_yoast_wpseo_opengraph-title": "CoComelon: The Movie Ganha Data de Estreia em 2027",
+        "_yoast_wpseo_opengraph-description": "CoComelon: The Movie ganha data oficial de estreia nos cinemas. O filme baseado na popular série infantil chega em fevereiro de 2027.",
+        "_yoast_wpseo_twitter-title": "CoComelon: The Movie Ganha Data de Estreia em 2027",
+        "_yoast_wpseo_twitter-description": "CoComelon: The Movie ganha data oficial de estreia nos cinemas. O filme baseado na popular série infantil chega em fevereiro de 2027."
+      }
+    },
+    {
+      "titulo_final": "David Harbour estrela thriller de true crime dirigido por Courteney Cox",
+      "conteudo_final": "<p>David Harbour, conhecido por seu papel em <strong><em>Stranger Things</em></strong>, está escalado para um novo projeto. O ator participará de <em>Evil Genius</em>, um thriller de true crime dirigido por Courteney Cox, estrela de <em>Friends</em> e da franquia <em>Scream</em>.</p><p>O filme é inspirado na série documental de mesmo nome, que aborda o caso do "pizza bomber". A produção promete explorar os detalhes sombrios e intrigantes do crime real.</p>",
+      "meta_description": "David Harbour atuará em novo thriller de true crime, Evil Genius, dirigido por Courteney Cox. O filme é inspirado em caso real.",
+      "focus_keyphrase": "David Harbour Courteney Cox thriller",
+      "related_keyphrases": [
+        "Evil Genius filme",
+        "Courteney Cox direção",
+        "David Harbour novo projeto"
+      ],
+      "slug": "david-harbour-courteney-cox-thriller",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "obras",
+          "evidence": "Ahead of <em>Stranger Things</em>' final season being released, David Harbour has been cast in a new project."
+        },
+        {
+          "nome": "Courteney Cox",
+          "grupo": "atores",
+          "evidence": "directed by <em>Friends</em> and <em>Scream</em> star Courteney Cox."
+        },
+        {
+          "nome": "David Harbour",
+          "grupo": "atores",
+          "evidence": "David Harbour has been cast in <em>Evil Genius</em>"
+        }
+      ],
+      "tags_sugeridas": [
+        "David Harbour",
+        "Courteney Cox",
+        "Evil Genius",
+        "True Crime",
+        "Stranger Things"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "David Harbour Estrela Thriller de True Crime Dirigido por Courteney Cox",
+        "_yoast_wpseo_metadesc": "David Harbour atuará em novo thriller de true crime, Evil Genius, dirigido por Courteney Cox. O filme é inspirado em caso real.",
+        "_yoast_wpseo_focuskw": "David Harbour Courteney Cox thriller",
+        "_yoast_news_keywords": "David Harbour, Courteney Cox, Evil Genius, True Crime, Stranger Things, Cinema",
+        "_yoast_wpseo_opengraph-title": "David Harbour Estrela Thriller de True Crime Dirigido por Courteney Cox",
+        "_yoast_wpseo_opengraph-description": "David Harbour atuará em novo thriller de true crime, Evil Genius, dirigido por Courteney Cox. O filme é inspirado em caso real.",
+        "_yoast_wpseo_twitter-title": "David Harbour Estrela Thriller de True Crime Dirigido por Courteney Cox",
+        "_yoast_wpseo_twitter-description": "David Harbour atuará em novo thriller de true crime, Evil Genius, dirigido por Courteney Cox. O filme é inspirado em caso real."
+      }
+    }
+  ]
+}

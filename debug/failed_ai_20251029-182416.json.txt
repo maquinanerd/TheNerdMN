@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix: 4 Séries Ideais para Assistir com os Pais na Plataforma",
+      "conteudo_final": "<p>Encontrar uma série que agrade a todas as gerações pode ser um desafio, especialmente quando se está em família. Se você busca opções na <b>Netflix</b> que ofereçam entretenimento para pais e filhos sem receio de conteúdo inadequado, estas quatro sugestões são perfeitas para unir diferentes faixas etárias.</p>\n<h2>Unbreakable Kimmy Schmidt (2015-2020)</h2>\n<p>Assim como clássicos como <em>The Office</em>, <em>30 Rock</em> e <em>Friends</em>, <em>Unbreakable Kimmy Schmidt</em> se destaca como uma comédia capaz de agradar a todos. A série, criada por Tina Fey e Robert Carlock, estrela Ellie Kemper como Kimmy Schmidt, uma jovem que, após ser mantida em cativeiro por 15 anos por um líder de culto, acredita que um apocalipse nuclear devastou o mundo.</p>\n<figure class=\"video-container\"><img alt=\"Kimmy (Ellie Kemper) e Jacqueline (Jane Krakowski) caminhando juntas em Unbreakable Kimmy Schmidt\" src=\"https:
+      "meta_description": "Descubra 4 séries imperdíveis da Netflix ideais para maratonar com toda a família, combinando diversão e conteúdo para todas as idades.",
+      "focus_keyphrase": "Netflix séries para assistir com os pais",
+      "related_keyphrases": [
+        "melhores séries netflix família",
+        "séries netflix para todas as idades",
+        "indicações netflix familiar"
+      ],
+      "slug": "netflix-series-para-assistir-com-pais",
+      "categorias": [
+        {
+          "nome": "Netflix",
+          "grupo": "franquias",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "Unbreakable Kimmy Schmidt",
+          "grupo": "obras",
+          "evidence": "Unbreakable Kimmy Schmidt"
+        },
+        {
+          "nome": "The Crown",
+          "grupo": "obras",
+          "evidence": "The Crown"
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "Unbreakable Kimmy Schmidt",
+        "Ripley",
+        "The Crown",
+        "Kingdom",
+        "Séries de TV"
+      ],
+      "image_alt_texts": {
+        "unbreakable-kimmy-schmidt.jpg": "Kimmy (Ellie Kemper) e Jacqueline (Jane Krakowski) caminhando juntas em cena de Unbreakable Kimmy Schmidt.",
+        "andrew-scott-as-tom-ripley-in-a-car-in-ripley-series.jpg": "Andrew Scott como Tom Ripley dirigindo um carro na série da Netflix, Ripley.",
+        "the-crown-season-6-cast.jpg": "Elenco principal da sexta temporada de The Crown em um casamento real.",
+        "kingdom-2019-tv-series-poster.jpg": "Pôster oficial da série de TV sul-coreana Kingdom, com zumbis e ambientação histórica."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: 4 Séries Ideais para Assistir com os Pais na Plataforma",
+        "_yoast_wpseo_metadesc": "Descubra 4 séries imperdíveis da Netflix ideais para maratonar com toda a família, combinando diversão e conteúdo para todas as idades.",
+        "_yoast_wpseo_focuskw": "Netflix séries para assistir com os pais",
+        "_yoast_news_keywords": "Netflix, séries, Unbreakable Kimmy Schmidt, Ripley, The Crown, Kingdom, streaming",
+        "_yoast_wpseo_opengraph-title": "Netflix: 4 Séries Ideais para Assistir com os Pais na Plataforma",
+        "_yoast_wpseo_opengraph-description": "Descubra 4 séries imperdíveis da Netflix ideais para maratonar com toda a família, combinando diversão e conteúdo para todas as idades.",
+        "_yoast_wpseo_twitter-title": "Netflix: 4 Séries Ideais para Assistir com os Pais na Plataforma",
+        "_yoast_wpseo_twitter-description": "Descubra 4 séries imperdíveis da Netflix ideais para maratonar com toda a família, combinando diversão e conteúdo para todas as idades."
+      }
+    }
+  ]
+}

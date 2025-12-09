@@ -1,0 +1,147 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Platonic: Série de Seth Rogen e Rose Byrne é renovada para 3ª temporada na Apple TV+",
+      "conteudo_final": "<p>A sorte de <em>Platonic</em>, série da Apple TV+, foi revelada. Estreando em maio de 2023 com Francesca Delbanco e Nicholas Stoller como criadores, a produção estrelada por Seth Rogen e Rose Byrne como velhos amigos que se reconectam em um momento de estagnação em suas vidas, foi oficialmente renovada para a terceira temporada.</p><p>A reunião dos amigos, apesar de por vezes destrutiva, não agrada a todos. O elenco também conta com Luke Macfarlane, Tre Hale, Andrew Lopez e Carla Gallo.</p><p>A notícia chega após o final da segunda temporada de <em>Platonic</em>, exibido em outubro.</p>",
+      "meta_description": "A série de comédia Platonic, estrelada por Seth Rogen e Rose Byrne, garante sua continuidade com a renovação para a terceira temporada pela Apple TV+.",
+      "focus_keyphrase": "Platonic renovada 3ª temporada",
+      "related_keyphrases": [
+        "Platonic Apple TV+",
+        "Seth Rogen Rose Byrne série",
+        "Renovação Platonic"
+      ],
+      "slug": "platonic-renovada-3-temporada-apple-tv",
+      "categorias": [
+        {
+          "nome": "Platonic",
+          "grupo": "obras",
+          "evidence": "<em>Platonic</em>'s fate has been revealed at Apple TV."
+        },
+        {
+          "nome": "Apple TV+",
+          "grupo": "plataformas",
+          "evidence": "Apple TV has officially renewed the series for season 3."
+        }
+      ],
+      "tags_sugeridas": [
+        "Platonic",
+        "Apple TV+",
+        "Seth Rogen",
+        "Rose Byrne",
+        "Comédia"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Platonic: Série de Seth Rogen e Rose Byrne é renovada para 3ª temporada na Apple TV+",
+        "_yoast_wpseo_metadesc": "A série de comédia Platonic, estrelada por Seth Rogen e Rose Byrne, garante sua continuidade com a renovação para a terceira temporada pela Apple TV+.",
+        "_yoast_wpseo_focuskw": "Platonic renovada 3ª temporada",
+        "_yoast_news_keywords": "Platonic, Apple TV+, Seth Rogen, Rose Byrne, Comédia, Renovação",
+        "_yoast_wpseo_opengraph-title": "Platonic: Série de Seth Rogen e Rose Byrne é renovada para 3ª temporada na Apple TV+",
+        "_yoast_wpseo_opengraph-description": "A série de comédia Platonic, estrelada por Seth Rogen e Rose Byrne, garante sua continuidade com a renovação para a terceira temporada pela Apple TV+.",
+        "_yoast_wpseo_twitter-title": "Platonic: Série de Seth Rogen e Rose Byrne é renovada para 3ª temporada na Apple TV+",
+        "_yoast_wpseo_twitter-description": "A série de comédia Platonic, estrelada por Seth Rogen e Rose Byrne, garante sua continuidade com a renovação para a terceira temporada pela Apple TV+."
+      }
+    },
+    {
+      "titulo_final": "The Agency: Série de espionagem com estrela de Slow Horses é ideal para fãs do gênero",
+      "conteudo_final": "<p><em>Slow Horses</em> se consolidou como uma das melhores produções de espionagem da atualidade. Enquanto os fãs aguardam o retorno da série da Apple TV+, há uma opção perfeita para quem busca um thriller de espionagem com um dos talentos do elenco principal.</p><p>Katherine Waterston, que interpreta a agente do MI5 Alison Dunn em <em>Slow Horses</em>, também brilha em <em>The Agency</em>. A atriz dá vida a Naomi, uma das personagens centrais da série, que acompanha Michael Fassbender como um espião da CIA cujos planos secretos se misturam com sua vida pessoal.</p><h2>Um Elenco de Peso em The Agency</h2><p>Naomi, interpretada por Waterston, é a ex-agente de caso da CIA de Martian (Fassbender). Ela percebe que algo está diferente com ele após seu retorno. Naomi assume a supervisão da jovem estrela em ascensão da CIA, Danny, auxiliando-a em uma missão crucial. A série estreou em novembro de 2024 e já foi renovada para a segunda temporada após um desempenho notável.</p><h2>Por Que The Agency Agrada aos Fãs de Espionagem</h2><p><em>The Agency</em>, agora renomeada para <em>The Agency: Central Intelligence</em>, oferece uma experiência imersiva para os amantes de thrillers de espionagem. Assim como <em>Slow Horses</em>, a série adota um ritmo mais cadenciado, construindo uma atmosfera de suspense que sugere perigo a cada momento.</p><p>As cenas de ação são impactantes, com múltiplas reviravoltas e planos que nem sempre saem como esperado, mantendo o espectador engajado. A série combina extrações, tiroteios, infiltrações e perseguições com momentos mais introspectivos, explorando a política interna das agências de inteligência e os diálogos entre os personagens. Essa combinação torna <em>The Agency</em> uma série envolvente.</p><p>A primeira temporada de <em>The Agency</em> conta com 10 episódios que exploram o passado de Martian e como ele se conecta com seu presente. A atuação de Fassbender é magnética. Embora Martian trabalhe para a CIA, a ambientação em Londres o aproxima tematicamente de <em>Slow Horses</em>, tornando-a uma escolha ideal para quem busca um bom thriller de espionagem.</p>",
+      "meta_description": "Descubra The Agency, série de espionagem com Katherine Waterston, estrela de Slow Horses, que cativa fãs com suspense e ação.",
+      "focus_keyphrase": "The Agency série espionagem",
+      "related_keyphrases": [
+        "Katherine Waterston The Agency",
+        "Slow Horses The Agency",
+        "Thrillers de espionagem"
+      ],
+      "slug": "the-agency-serie-espionagem-slow-horses",
+      "categorias": [
+        {
+          "nome": "Slow Horses",
+          "grupo": "obras",
+          "evidence": "<em>Slow Horses</em> has slowly grown into one of the best spy projects of the last decade"
+        },
+        {
+          "nome": "The Agency",
+          "grupo": "obras",
+          "evidence": "The actress gives life to Naomi, one of the main characters of <em>The Agency</em>"
+        },
+        {
+          "nome": "Apple TV+",
+          "grupo": "plataformas",
+          "evidence": "while waiting for the return of the Apple TV series."
+        }
+      ],
+      "tags_sugeridas": [
+        "The Agency",
+        "Slow Horses",
+        "Katherine Waterston",
+        "Michael Fassbender",
+        "Espionagem",
+        "Thriller"
+      ],
+      "image_alt_texts": {
+        "the-agency-season-1-ep-1-12.jpg": "Katherine Waterston sorri em cena da série The Agency."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Agency: Série de espionagem com estrela de Slow Horses é ideal para fãs do gênero",
+        "_yoast_wpseo_metadesc": "Descubra The Agency, série de espionagem com Katherine Waterston, estrela de Slow Horses, que cativa fãs com suspense e ação.",
+        "_yoast_wpseo_focuskw": "The Agency série espionagem",
+        "_yoast_news_keywords": "The Agency, Slow Horses, Katherine Waterston, Michael Fassbender, Espionagem, Thriller, Apple TV+",
+        "_yoast_wpseo_opengraph-title": "The Agency: Série de espionagem com estrela de Slow Horses é ideal para fãs do gênero",
+        "_yoast_wpseo_opengraph-description": "Descubra The Agency, série de espionagem com Katherine Waterston, estrela de Slow Horses, que cativa fãs com suspense e ação.",
+        "_yoast_wpseo_twitter-title": "The Agency: Série de espionagem com estrela de Slow Horses é ideal para fãs do gênero",
+        "_yoast_wpseo_twitter-description": "Descubra The Agency, série de espionagem com Katherine Waterston, estrela de Slow Horses, que cativa fãs com suspense e ação."
+      }
+    },
+    {
+      "titulo_final": "Apple TV+ tem 6 séries de ficção científica que valem a pena assistir",
+      "conteudo_final": "<p>A Apple TV+ oferece um catálogo de séries de ficção científica que merecem ser vistas. Apesar de ser uma das plataformas de streaming mais recentes, a Apple TV+ se destaca com produções originais que exploram diversos subgêneros da categoria, como <em>Severance</em> e <em>See</em>.</p><p>Enquanto muitas séries de ficção científica da plataforma ainda estão em andamento, como <em>Pluribus</em>, <em>Severance</em> e <em>Foundation</em>, há títulos completos que também valem a pena conferir.</p><h2>Hello Tomorrow! (2023)</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:50%"><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/><img alt="Billy Crudup como Jack Billings em Hello Tomorrow!" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" height="413" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/08/hello-tomorrow-billy-crudup.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" width="825"/></picture></div></div><p>Billy Crudup estrela <em>Hello Tomorrow!</em>, uma série de comédia e ficção científica com uma única temporada. Ambientada em uma Terra retrofuturista, a trama acompanha Jack Billings, um vendedor de tempos compartilhados na Lua com um passado de golpes. Ele vende passagens para a Lua, embora tais viagens ainda não existam, fugindo antes que seus esquemas sejam descobertos.</p><p>A série impressiona visualmente, recriando a estética de <em>Os Jetsons</em> com um toque moderno. Apesar de alguns personagens e tramas um pouco dispersas, as atuações de Crudup e Nicholas Podany (que interpreta o filho de Jack) mantêm a produção envolvente.</p><h2>Constellation (2024)</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:50%"><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Noomi Rapace como Jo Ericsson em Constellation" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/noomi-rapace-in-constellation-on-apple-tv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption style="display: none;"></figcaption></div></div><p><em>Constellation</em>, um thriller psicológico de ficção científica, pode ter sido esquecido por muitos, mas é uma série de uma temporada que merece atenção. Noomi Rapace interpreta Jo Ericsson, uma astronauta sueca que, após um acidente na Estação Espacial Internacional, retorna a uma Terra sutilmente alterada. Elementos de sua vida parecem ter desaparecido, e eventos que ela lembra não ocorreram.</p><p>Embora muitas questões fiquem sem resposta devido ao cancelamento da série após a primeira temporada, <em>Constellation</em> constrói uma atmosfera misteriosa e assustadora. A atuação de Rapace é fundamental para guiar o público através da trama confusa e intrigante.</p><h2>Dr. Brain (2021)</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:50%"><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="Lee Sun-kyun como Sewon Koh em Dr. Brain" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/dr-brain-tv-show-apple-tv.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption style="display: none;">Dr. Brain TV show Apple TV+</figcaption></figure></div></div><p>A série sul-coreana <em>Dr. Brain</em>, com uma temporada, é baseada em um webtoon e foi a primeira produção em língua coreana da Apple TV+. Lee Sun-kyun interpreta Sewon Koh, um cientista cerebral que, após a morte misteriosa de sua família, realiza experimentos para acessar suas memórias.</p><p>A série explora as implicações de mergulhar tão fundo nas memórias de entes queridos falecidos. Apesar da perda do ator principal, a performance de Sun-kyun é central para o sucesso da série, que oferece um olhar filosófico e cerebral sobre o tema.</p><h2>Calls (2021)</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:50%"><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/><img alt="Visual de um rosto neon no thriller Calls da Apple TV." data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" height="413" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/09/The-terror-of-imagination-in-Apple-thriller-Calls.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" width="825"/></picture></div></div><p><em>Calls</em> é uma série de mistério, suspense e ficção científica com um estilo de animação analógico incomum. A produção é composta por chamadas telefônicas interligadas entre estranhos cujas vidas se cruzam de maneiras perturbadoras, culminando em um evento apocalíptico. A série utiliza apenas abstrações visuais mínimas, funcionando quase como um programa de rádio.</p><p>A série conta com um elenco de vozes notável, incluindo Aaron Taylor-Johnson, Aubrey Plaza, Ben Schwartz, Danny Huston e Pedro Pascal. A experiência de assistir <em>Calls</em> exige que o espectador crie as imagens em sua mente enquanto ouve as conversas. A série cria uma atmosfera sombria e tensa apenas com as vozes e luzes neon, oferecendo algo verdadeiramente único.</p><h2>Sunny (2024)</h2><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='""' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:50%"><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/><img alt="Rashida Jones como Suzie em Sunny." data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" height="413" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/untitled-design-228-1.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" width="825"/></picture><figcaption style="display: none;"></figcaption></figure></div></div><p>A série de comédia e ficção científica <em>Sunny</em>, baseada no livro <em>The Dark Manual</em>, teve uma única temporada. Rashida Jones interpreta Suzie Sakamoto, uma americana que vive em Kyoto com seu marido, um engenheiro de robótica, e o filho. Após o desaparecimento da família em um acidente de avião, um robô de assistência doméstica chamado Sunny é criado.</p><p>Suzie desconfia de Sunny devido a experiências passadas, mas descobre que o robô pode ter uma ligação mais profunda com sua família do que imaginava. A atuação de Jones combina timing cômico e momentos dramáticos, conferindo à série um tom único e melancólico.</p><h2>See (2019-2022)</h2><p><em>See</em> é uma das séries da Apple TV+ que começou com uma recepção morna, mas evoluiu significativamente em suas temporadas posteriores. A série de três temporadas se passa séculos após um vírus dizimar a humanidade, deixando os sobreviventes em um mundo adaptado à cegueira.</p><p>A trama explora como a sociedade se desenvolveu sem a visão, misturando elementos medievais e de caçadores-coletores. A série oferece insights fascinantes sobre um mundo sem o sentido da visão, equilibrando questões técnicas com uma narrativa envolvente e brutal.</p>",
+      "meta_description": "Descubra 6 séries de ficção científica completas na Apple TV+ que você deveria assistir, incluindo Hello Tomorrow!, Constellation e Dr. Brain.",
+      "focus_keyphrase": "Séries de ficção científica Apple TV+",
+      "related_keyphrases": [
+        "Melhores séries sci-fi Apple TV+",
+        "Hello Tomorrow! Apple TV+",
+        "Constellation Apple TV+",
+        "Dr. Brain Apple TV+"
+      ],
+      "slug": "series-ficcao-cientifica-apple-tv",
+      "categorias": [
+        {
+          "nome": "Apple TV+",
+          "grupo": "plataformas",
+          "evidence": "Apple TV has some completed sci-fi TV shows that everyone needs to see just once."
+        },
+        {
+          "nome": "Ficção Científica",
+          "grupo": "gêneros",
+          "evidence": "Apple TV has some completed sci-fi TV shows that everyone needs to see just once."
+        }
+      ],
+      "tags_sugeridas": [
+        "Apple TV+",
+        "Ficção Científica",
+        "Hello Tomorrow!",
+        "Constellation",
+        "Dr. Brain",
+        "See",
+        "Sunny"
+      ],
+      "image_alt_texts": {
+        "hello-tomorrow-billy-crudup.jpg": "Billy Crudup como Jack Billings em Hello Tomorrow! na Apple TV+.",
+        "noomi-rapace-in-constellation-on-apple-tv.jpg": "Noomi Rapace como Jo Ericsson em Constellation, série de ficção científica da Apple TV+.",
+        "dr-brain-tv-show-apple-tv.jpg": "Lee Sun-kyun como Sewon Koh em Dr. Brain, série sul-coreana da Apple TV+.",
+        "The-terror-of-imagination-in-Apple-thriller-Calls.jpg": "Visual abstrato em neon na série de suspense Calls da Apple TV+.",
+        "untitled-design-228-1.jpg": "Rashida Jones como Suzie em Sunny, série de ficção científica da Apple TV+."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Apple TV+ tem 6 séries de ficção científica que valem a pena assistir",
+        "_yoast_wpseo_metadesc": "Descubra 6 séries de ficção científica completas na Apple TV+ que você deveria assistir, incluindo Hello Tomorrow!, Constellation e Dr. Brain.",
+        "_yoast_wpseo_focuskw": "Séries de ficção científica Apple TV+",
+        "_yoast_news_keywords": "Apple TV+, Ficção Científica, Hello Tomorrow!, Constellation, Dr. Brain, See, Sunny, Calls",
+        "_yoast_wpseo_opengraph-title": "Apple TV+ tem 6 séries de ficção científica que valem a pena assistir",
+        "_yoast_wpseo_opengraph-description": "Descubra 6 séries de ficção científica completas na Apple TV+ que você deveria assistir, incluindo Hello Tomorrow!, Constellation e Dr. Brain.",
+        "_yoast_wpseo_twitter-title": "Apple TV+ tem 6 séries de ficção científica que valem a pena assistir",
+        "_yoast_wpseo_twitter-description": "Descubra 6 séries de ficção científica completas na Apple TV+ que você deveria assistir, incluindo Hello Tomorrow!, Constellation e Dr. Brain."
+      }
+    }
+  ]
+}

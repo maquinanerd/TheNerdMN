@@ -1,0 +1,55 @@
+{
+  "titulo_final": "Star Wars: Nova facção Jedi em Visions 3 é mais aterrorizante que os Sith",
+  "conteudo_final": "<p>A série <a href=\"https:
+  "meta_description": "Descubra como a nova facção Jedi em Star Wars Visions Vol. 3 é mais aterradora que os Sith, explorando a moralidade complexa e os radicais Cruzados Jedi.",
+  "focus_keyphrase": "Star Wars Visions nova facção Jedi",
+  "related_keyphrases": [
+    "Cruzados Jedi Star Wars",
+    "Jedi mais sombrios",
+    "Star Wars Visions Vol. 3"
+  ],
+  "slug": "star-wars-visions-nova-jedi-sith",
+  "categorias": [
+    {
+      "nome": "Star Wars Visions",
+      "grupo": "franquias",
+      "evidence": "Star Wars: Visions"
+    },
+    {
+      "nome": "Jedi",
+      "grupo": "franquias",
+      "evidence": "ser um Jedi"
+    },
+    {
+      "nome": "Sith",
+      "grupo": "franquias",
+      "evidence": "Sith Lords"
+    }
+  ],
+  "tags_sugeridas": [
+    "star wars",
+    "star wars visions",
+    "jedi",
+    "sith",
+    "animação",
+    "disney plus",
+    "visons vol 3"
+  ],
+  "image_alt_texts": {
+    "sith-vs-jedi-in-star-wars-visions-vol-3-the-duel-payback.jpg": "Sith vs Jedi em Star Wars Visions Vol. 3 The Duel Payback, mostrando um confronto épico entre as forças da galáxia.",
+    "jedi-grandmaster-taunting-ronin-in-star-wars-visions-vol-3-the-duel-payback.jpg": "Grande Mestre Jedi provocando o Ronin em Star Wars Visions Vol. 3 The Duel Payback, com o líder Jedi exibindo uma postura ameaçadora.",
+    "sith-ronin-defending-himself-against-jedi-grandmaster-attack-in-star-wars-visions-vol-3-the-duel-payback.jpg": "Ronin Sith se defendendo do ataque do Grande Mestre Jedi em Star Wars Visions Vol. 3 The Duel Payback, em uma cena de intensa ação e habilidade.",
+    "darth-revan-in-star-wars-kotor-remake.jpg": "Um close-up de Darth Revan brandindo seu sabre de luz em Star Wars: KOTOR Remake, representando a facção Revanchista de Legends.",
+    "star_wars_visions_2_tv_poster.jpg": "Poster oficial de Star Wars: Visions, destacando a diversidade de estilos de animação das diferentes histórias."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Star Wars: Nova facção Jedi em Visions 3 é mais aterrorizante que os Sith",
+    "_yoast_wpseo_metadesc": "Descubra como a nova facção Jedi em Star Wars Visions Vol. 3 é mais aterradora que os Sith, explorando a moralidade complexa e os radicais Cruzados Jedi.",
+    "_yoast_wpseo_focuskw": "Star Wars Visions nova facção Jedi",
+    "_yoast_news_keywords": "Star Wars, Star Wars Visions, Jedi, Sith, animação, Disney Plus, Grande Mestre, Cruzados Jedi",
+    "_yoast_wpseo_opengraph-title": "Star Wars: Nova facção Jedi em Visions 3 é mais aterrorizante que os Sith",
+    "_yoast_wpseo_opengraph-description": "Descubra como a nova facção Jedi em Star Wars Visions Vol. 3 é mais aterradora que os Sith, explorando a moralidade complexa e os radicais Cruzados Jedi.",
+    "_yoast_wpseo_twitter-title": "Star Wars: Nova facção Jedi em Visions 3 é mais aterrorizante que os Sith",
+    "_yoast_wpseo_twitter-description": "Descubra como a nova facção Jedi em Star Wars Visions Vol. 3 é mais aterradora que os Sith, explorando a moralidade complexa e os radicais Cruzados Jedi."
+  }
+}

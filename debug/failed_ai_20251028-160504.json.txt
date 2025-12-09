@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Dungeons and Dragons: Novo Livro Traz Conteúdo Inédito de Baldur's Gate",
+  "conteudo_final": "<p>A nova expansão de <b>Dungeons and Dragons</b> promete o retorno a um dos cenários mais queridos do jogo, com os fãs voltando a <b>Baldur's Gate</b>. A revisão de 2024 do popular RPG de mesa trouxe mudanças significativas, diferenciando-se da "quinta edição" que vigorava desde 2014. Os livros de regras de <b>Dungeons and Dragons</b> de 2024 reintroduziram as classes essenciais, apresentando quatro subclasses distintas entre as 12 classes disponíveis. Agora, uma nova expansão trará uma vasta quantidade de conteúdo para o novo sistema, a partir de um cenário favorito dos fãs.</p><h2>Expansão Heroes of Faerun de Dungeons and Dragons</h2><p>A maior expansão para a versão de 2024 de <b>Dungeons and Dragons</b> será lançada no próximo mês, com <b>Forgotten Realms: Heroes of Faerun</b> chegando em novembro. O livro transportará os jogadores para um dos cenários mais icônicos de <b>D&amp;D</b>, centrado nas Reinos Esquecidos e oferecendo novas magias, facções, origens e muito mais. <b>Dungeons and Dragons</b> também apresentará uma infinidade de novas opções para suas classes recém-redesenhadas, com oito novas subclasses inclusas em <b>Forgotten Realms: Heroes of Faerun</b>. Uma nova revelação agora sugere mais detalhes sobre um local querido de <b>D&amp;D</b>.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/dungeons-and-dragons-series-game-tabletop-franchise.jpg\" alt=\"Cenário de Dungeons and Dragons com miniaturas e dados\"><figcaption>Cenário de Dungeons and Dragons.</figcaption></figure><h2>Teasers de Conteúdo de Baldur's Gate em Dungeons and Dragons</h2><p><b>Dungeons and Dragons</b> compartilhou teasers inéditos do cenário de <b>Baldur's Gate</b> dentro de <b>Forgotten Realms: Heroes of Faerun</b> em suas contas oficiais de mídia social. Os teasers revelam alguns dos ganchos de enredo e histórias contidas no livro, incluindo crime organizado em <b>Baldur's Gate</b>, \"convites sombrios para a alta sociedade\" e muito mais. As prévias mostram um vislumbre dos mapas incluídos no livro para <b>Baldur's Gate</b> e até mesmo sugerem a aparição de personagens populares, como a <b>Karlach de Baldur's Gate 3</b>. <b>Forgotten Realms: Heroes of Faerun</b> tem lançamento previsto para 11 de novembro.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/baldur-s-gate-3-bard-busker-achievement-more-rare-than-honour-mode.jpg\" alt=\"Personagem Karlach de Baldur's Gate 3\"><figcaption>Karlach, personagem de Baldur's Gate 3.</figcaption></figure><h2>Novidades e Próximos Lançamentos de Dungeons and Dragons</h2><p>A mais recente expansão de <b>Dungeons and Dragons</b> focada nas Reinos Esquecidos surge enquanto a Wizards of the Coast continua a lançar novo conteúdo para sua revisão mais recente. A desenvolvedora lançará um suplemento digital menor para <b>Dungeons and Dragons</b> focado em <b>Magic: the Gathering</b> de Lorwyn no próximo mês, incluindo novas origens e espécies. A Wizards of the Coast também tem atualizado sua biblioteca de conteúdo de playtest \"Unearthed Arcana\", recentemente fazendo alterações na classe Psion em desenvolvimento.</p><p><b>Dungeons and Dragons</b> parece ter um feriado agitado pela frente, com muitos livros novos programados para lançamento nos próximos meses. Além do lançamento de <b>Forgotten Realms: Heroes of Faerun</b>, a Wizards of the Coast lançará diversos acessórios para <b>Dungeons and Dragons</b>, incluindo \"Campaign Journals\", um guia para construir personagens e até livros de crochê e colorir de <b>D&amp;D</b>. Fãs de <b>Dungeons of Dragons</b> podem esperar muito conteúdo empolgante do amado jogo de tabuleiro até o final do ano.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/dungeons-and-dragons-inkarnate-map-maker-ai-boycott-controversy.jpg\" alt=\"Mapa de Dungeons and Dragons criado com Inkarnate\"><figcaption>Mapa de Dungeons and Dragons.</figcaption></figure>",
+  "meta_description": "Dungeons and Dragons anuncia Forgotten Realms: Heroes of Faerun, com novo conteúdo para Baldur's Gate e subclasses inéditas. Saiba mais!",
+  "focus_keyphrase": "Dungeons and Dragons Baldur's Gate",
+  "related_keyphrases": [
+    "Forgotten Realms: Heroes of Faerun",
+    "Wizards of the Coast",
+    "Dungeons and Dragons 2024"
+  ],
+  "slug": "dungeons-dragons-baldurs-gate-novo-livro",
+  "categorias": [
+    {
+      "nome": "Dungeons & Dragons",
+      "grupo": "franquias",
+      "evidence": "Dungeons and Dragons"
+    },
+    {
+      "nome": "Baldur's Gate",
+      "grupo": "obras",
+      "evidence": "Baldur's Gate"
+    },
+    {
+      "nome": "Forgotten Realms",
+      "grupo": "franquias",
+      "evidence": "Forgotten Realms"
+    }
+  ],
+  "tags_sugeridas": [
+    "dungeons and dragons",
+    "baldurs gate",
+    "reinos esquecidos",
+    "rpg de mesa",
+    "wizards of the coast",
+    "heroes of faerun"
+  ],
+  "image_alt_texts": {
+    "dungeons-and-dragons-series-game-tabletop-franchise.jpg": "Cenário de Dungeons and Dragons com miniaturas e dados para RPG de mesa.",
+    "baldurs-gate-3-bard-busker-achievement-more-rare-than-honour-mode.jpg": "Karlach, personagem popular do jogo Baldur's Gate 3.",
+    "dungeons-and-dragons-inkarnate-map-maker-ai-boycott-controversy.jpg": "Mapa de Dungeons and Dragons criado utilizando a ferramenta Inkarnate."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Dungeons and Dragons: Novo Livro Traz Conteúdo Inédito de Baldur's Gate",
+    "_yoast_wpseo_metadesc": "Dungeons and Dragons anuncia Forgotten Realms: Heroes of Faerun, com novo conteúdo para Baldur's Gate e subclasses inéditas. Saiba mais!",
+    "_yoast_wpseo_focuskw": "Dungeons and Dragons Baldur's Gate",
+    "_yoast_news_keywords": "Dungeons and Dragons, Baldur's Gate, Forgotten Realms, Heroes of Faerun, Wizards of the Coast, RPG, Tabletop",
+    "_yoast_wpseo_opengraph-title": "Dungeons and Dragons: Novo Livro Traz Conteúdo Inédito de Baldur's Gate",
+    "_yoast_wpseo_opengraph-description": "A nova expansão Forgotten Realms: Heroes of Faerun promete revisitar o icônico cenário de Baldur's Gate, trazendo novidades para Dungeons and Dragons.",
+    "_yoast_wpseo_twitter-title": "Dungeons and Dragons: Novo Livro Traz Conteúdo Inédito de Baldur's Gate",
+    "_yoast_wpseo_twitter-description": "A nova expansão Forgotten Realms: Heroes of Faerun promete revisitar o icônico cenário de Baldur's Gate, trazendo novidades para Dungeons and Dragons."
+  }
+}

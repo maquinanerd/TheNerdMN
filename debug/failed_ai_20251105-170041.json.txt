@@ -1,0 +1,95 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Scrubs: Zach Braff e Donald Faison retornam em vídeo do especial",
+      "conteudo_final": "<p>Um vídeo teaser de <em>Scrubs</em> foi compartilhado para o especial que está em produção na ABC.</p><p>Com a série <em>Scrubs</em> atualmente em produção, a conta oficial compartilhou um novo vídeo no Instagram, apresentando vislumbres de Zach Braff e Donald Faison em seus papéis icônicos, além de outros rostos familiares da série original. O vídeo pode ser conferido abaixo:</p><figure class=\"video-container\"><iframe src=\"https://www.instagram.com/p/C0P968yv_jD/embed/\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>",
+      "meta_description": "Zach Braff e Donald Faison retornam em um vídeo teaser para o especial de Scrubs. Confira os primeiros vislumbres dos atores em seus papéis icônicos.",
+      "focus_keyphrase": "Scrubs especial Zach Braff Donald Faison",
+      "related_keyphrases": [
+        "Scrubs retorno",
+        "Zach Braff Donald Faison Scrubs",
+        "especial Scrubs ABC"
+      ],
+      "slug": "scrubs-zach-braff-donald-faison-retorno-especial",
+      "categorias": [
+        {
+          "nome": "Scrubs",
+          "grupo": "obras",
+          "evidence": "A <em>Scrubs</em> video teaser has been shared for the upcoming sequel on ABC."
+        },
+        {
+          "nome": "Zach Braff",
+          "grupo": "atores",
+          "evidence": "giving new glimpses of Zach Braff and Donald Faison's iconic characters"
+        },
+        {
+          "nome": "Donald Faison",
+          "grupo": "atores",
+          "evidence": "giving new glimpses of Zach Braff and Donald Faison's iconic characters"
+        }
+      ],
+      "tags_sugeridas": [
+        "scrubs",
+        "zach braff",
+        "donald faison",
+        "especial tv",
+        "abc"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Scrubs: Zach Braff e Donald Faison retornam em vídeo do especial",
+        "_yoast_wpseo_metadesc": "Zach Braff e Donald Faison retornam em um vídeo teaser para o especial de Scrubs. Confira os primeiros vislumbres dos atores em seus papéis icônicos.",
+        "_yoast_wpseo_focuskw": "Scrubs especial Zach Braff Donald Faison",
+        "_yoast_news_keywords": "Scrubs, Zach Braff, Donald Faison, especial TV, ABC, série",
+        "_yoast_wpseo_opengraph-title": "Scrubs: Zach Braff e Donald Faison retornam em vídeo do especial",
+        "_yoast_wpseo_opengraph-description": "Zach Braff e Donald Faison retornam em um vídeo teaser para o especial de Scrubs. Confira os primeiros vislumbres dos atores em seus papéis icônicos.",
+        "_yoast_wpseo_twitter-title": "Scrubs: Zach Braff e Donald Faison retornam em vídeo do especial",
+        "_yoast_wpseo_twitter-description": "Zach Braff e Donald Faison retornam em um vídeo teaser para o especial de Scrubs. Confira os primeiros vislumbres dos atores em seus papéis icônicos."
+      }
+    },
+    {
+      "titulo_final": "Squid Game: The Challenge: Jogadores comentam eliminações na 2ª temporada",
+      "conteudo_final": "<p>Os primeiros quatro episódios da segunda temporada de <em>Squid Game: The Challenge</em> já estão disponíveis, e diversos jogadores foram eliminados. Inspirado no sucesso sul-coreano, o reality show reúne 456 participantes competindo por um prêmio de US$ 4,56 milhões em desafios novos e familiares.</p><p>O elenco da segunda temporada de <em>Squid Game: The Challenge</em> inclui participantes de diversas profissões, como administradores, uma líder de torcida da NFL, um técnico de desarmamento de bombas aposentado e o dublê de Robert Pattinson em <em>Crepúsculo</em>. Entre eles estão Viper (Jogador 152), DJ e instrutor de SoulCycle, e Mark (Jogador 100), representante de atendimento ao cliente. Ambos foram eliminados durante o jogo de \"Catch\", Viper quando outro jogador se recusou a participar, e Mark devido à pressão psicológica de Ryan (Jogador 272).</p><p><em>ScreenRant</em> entrevistou Mark e Viper para discutir suas experiências na segunda temporada de <em>Squid Game: The Challenge</em>. Viper comentou sua eliminação, que inadvertidamente causou a saída do colega Jonti (Jogador 118), já que Viper foi escolhido por Jonti para jogar Catch em seu lugar. Ele revelou que \"<em>não tinha ideia nenhuma</em>\" sobre o elemento de eliminação dupla do jogo.</p><blockquote><p>Viper: Quando estávamos no hotel, depois que tudo acabou, eu não tinha a menor ideia de que isso era um elemento do jogo. E fiquei surpreso que Jonti me escolheu porque realmente não tínhamos muita relação.</p></blockquote><p>Viper explicou que \"<em>simplesmente não confiava</em>\" em seu oponente em <em>Squid Game</em>, lembrando de um momento em que Jonti estava chorando e sua resposta interna foi \"<em>Garota, por favor, guarde isso. Vamos lá</em>\". Mesmo assim, embora tenha ficado \"<em>surpreso</em>\" por ter sido escolhido por Jonti, Viper sentiu que foi a escolha certa para ele jogar em seu lugar.</p><h2>Mark e Viper veem suas eliminações em Squid Game como resultado da imprevisibilidade do reality</h2><p><em>ScreenRant: Vocês dois perderam no mesmo desafio de Squid Game. O que vocês conversaram sobre como isso aconteceu?</em></p><blockquote><p>Viper: A maioria dos desafios nesta série é tão imprevisível que você realmente tem que fazer uma escolha e segui-la. Olhando para trás, especificamente para \"Catch\", tivemos que entrar na fila. Havia quatro equipes, então tivemos que fazer uma escolha e segui-la. Quando descobrimos qual era o jogo, foi quando as coisas começaram a se desenvolver, em termos de estratégia e como queríamos realmente seguir em frente. Mas isso é muito revelador de Squid Game: The Challenge em si. Você nunca sabe o que vai acontecer. Você tem que dar um passo de cada vez e esperar que funcione da melhor maneira.</p></blockquote><blockquote><p>Mark: Sim, exatamente isso. Lembro-me de escolher minha fila e depois ver meu parceiro, August (Jogador 111), não em uma fila. Eu pensei: \"Ótimo, ele foi eliminado.\" Lembro-me de sair da sala branca, basicamente chorando. \"É a última vez que verei August?\" Então eu entro em Catch e penso: \"Ok, tudo bem, acho que posso fazer isso.\" Tive aquela conversa estratégica com Ryan, e aliás, estamos bem agora. Sou muito contra o bullying, mas Ryan se desculpou muito rapidamente depois. Foi difícil, é claro, mas também é como, \"Como você sai disso?\" Como você se coloca em uma boa posição enquanto tantas coisas estranhas estão acontecendo? Catch foi muito mais difícil do que eu jamais pensei que seria, considerando que eu consigo pegar uma bola! Só não naquele dia.</p></blockquote><p><em>ScreenRant: Mark, por favor, diga que você foi à Star Wars Celebration no Japão!</em></p><blockquote><p>Mark: Oh, meu Deus! Não, não fomos. Mas fomos à Noite de Star Wars na Disneylândia. Na verdade, fomos à Disney esta semana e andamos nas atrações. Mas eu quero muito ir à Star Wars Celebration!</p></blockquote><p><em>ScreenRant: Olhando para trás na experiência, se você voltasse para o jogo na próxima temporada, faria algo diferente?</em></p><blockquote><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg?q=49&amp;fit=crop&amp;w=360&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg?q=49&amp;fit=crop&amp;w=360&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg?q=70&amp;fit=crop&amp;w=600&amp;dpr=1" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg?q=70&amp;fit=crop&amp;w=600&amp;dpr=1"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg?q=70&amp;fit=crop&amp;w=750&amp;dpr=1" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg?q=70&amp;fit=crop&amp;w=750&amp;dpr=1"/><img alt="Viper com expressão de estresse em Squid Game: The Challenge temporada 2" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg?q=70&amp;fit=crop&amp;w=750&amp;dpr=1" decoding="async" height="858" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg?q=70&amp;fit=crop&amp;w=750&amp;dpr=1" width="750"/></picture><figcaption>Viper com expressão de estresse em Squid Game: The Challenge temporada 2</figcaption></figure><blockquote><p>Viper: Há coisas muito pequenas e minuciosas, mas, no final das contas, eu jogaria o jogo da mesma forma que joguei. Agindo quando precisei, recuando quando senti que deveria. Você não pode planejar muito para uma experiência como essa. Você tem que absorver e seguir em frente no momento. Contanto que eu esteja sendo autêntico comigo mesmo e genuíno com quem sou dentro e fora do jogo, estou satisfeito.</p></blockquote><p><em>ScreenRant: Como você se sente sobre o cara que se virou e se recusou a pegar a bola?</em></p><blockquote><p>Viper: Uma escolha meio fraca, na minha opinião. Pelo menos tente! Minha coisa toda é que você tem que se preparar para o sucesso. Se você já disse a si mesmo que não consegue fazer algo, é provável que não consiga. E foi o caso dele. Infelizmente, ele estava preso a mim naquele momento, então obviamente não avancei além daquele jogo. Mas não foi agradável assistir, e acho que não é algo de que ele se orgulharia. Não temos problemas ou nada; não há sentimentos ruins entre ele e eu, mas poderíamos ter feito melhor.</p></blockquote><p><strong>Os próximos quatro episódios de <em>Squid Game: The Challenge</em> temporada 2 estreiam na terça-feira, 11 de novembro na Netflix, seguidos pela final da temporada em 18 de novembro.</strong></p>",
+      "meta_description": "Jogadores de Squid Game: The Challenge temporada 2, Mark e Viper, comentam suas eliminações e a imprevisibilidade do reality show da Netflix.",
+      "focus_keyphrase": "Squid Game The Challenge eliminações",
+      "related_keyphrases": [
+        "Squid Game The Challenge temporada 2",
+        "jogadores eliminados Squid Game reality",
+        "entrevista Squid Game The Challenge"
+      ],
+      "slug": "squid-game-the-challenge-jogadores-eliminacoes-temporada-2",
+      "categorias": [
+        {
+          "nome": "Squid Game: The Challenge",
+          "grupo": "obras",
+          "evidence": "<em>Squid Game: The Challenge </em>season 2"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "The next four episodes of <em>Squid Game: The Challenge </em>season 2 air Tuesday, November 11 on Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "squid game",
+        "squid game the challenge",
+        "reality show",
+        "netflix",
+        "eliminação"
+      ],
+      "image_alt_texts": {
+        "viper-looking-stressed-with-his-arms-behind-his-neck-in-squid-game-the-challenge-season-2.jpg": "Viper com expressão de estresse em Squid Game: The Challenge temporada 2"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Squid Game: The Challenge: Jogadores comentam eliminações na 2ª temporada",
+        "_yoast_wpseo_metadesc": "Jogadores de Squid Game: The Challenge temporada 2, Mark e Viper, comentam suas eliminações e a imprevisibilidade do reality show da Netflix.",
+        "_yoast_wpseo_focuskw": "Squid Game The Challenge eliminações",
+        "_yoast_news_keywords": "Squid Game, Squid Game The Challenge, reality show, Netflix, eliminação, jogadores",
+        "_yoast_wpseo_opengraph-title": "Squid Game: The Challenge: Jogadores comentam eliminações na 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Jogadores de Squid Game: The Challenge temporada 2, Mark e Viper, comentam suas eliminações e a imprevisibilidade do reality show da Netflix.",
+        "_yoast_wpseo_twitter-title": "Squid Game: The Challenge: Jogadores comentam eliminações na 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Jogadores de Squid Game: The Challenge temporada 2, Mark e Viper, comentam suas eliminações e a imprevisibilidade do reality show da Netflix."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Kill Bill: The Whole Bloody Affair estreia com 100% no Rotten Tomatoes",
+      "conteudo_final": "<p>A versão completa de <strong><em>Kill Bill: The Whole Bloody Affair</em></strong>, que une os dois volumes originais de Quentin Tarantino, estreou com pontuações perfeitas de 100% tanto da crítica quanto do público no Rotten Tomatoes. O filme, que combina os volumes lançados em 2003 e 2004, adiciona uma nova sequência de anime e um intervalo.</p><p>Na data de seu lançamento nos cinemas em 5 de dezembro, <strong><em>Kill Bill: The Whole Bloody Affair</em> alcançou 100% de aprovação</strong> tanto de críticos quanto de audiência no Rotten Tomatoes. No momento da apuração, o filme contava com 10 críticas e mais de 100 avaliações verificadas, mas as pontuações podem variar.</p><p>Para comparação, <em>Kill Bill: Vol. 1</em> (2003) obteve 85% de aprovação da crítica e 81% do público, enquanto <em>Kill Bill: Vol. 2</em> (2004) registrou 84% e 89%, respectivamente.</p><h2>A Noiva em Busca de Vingança</h2><p><em>Kill Bill: The Whole Bloody Affair</em> acompanha a jornada da Noiva (interpretada por Uma Thurman), deixada para morrer após ser emboscada por seu ex-chefe e amante, Bill (David Carradine). Ele ataca a ensaio de seu casamento, atira em sua cabeça e rouba seu filho ainda não nascido. Em busca de vingança, ela precisa primeiro caçar os quatro membros restantes do Esquadrão de Assassinas Viúvas Mortais antes de confrontar Bill.</p><p>O elenco de <strong><em>Kill Bill</em></strong> inclui ainda Lucy Liu, Vivica A. Fox, Michael Madsen, Daryl Hannah, Julie Dreyfus, Chiaki Kuriyama, Sonny Chiba, Chia-Hui Liu, Michael Parks, Michael Bowen, Jun Kunimura, Kenji Oba, Yuki Kazamatsuri, James Parks, Sakichi Sato, Jonathan Loughran, Yoshiyuki Morishita e Samuel L. Jackson.</p><h2>Recepção Crítica da Nova Montagem</h2><p>Em sua análise, Todd Gilchrist, do <em>ScreenRant</em>, comentou: \"<em>Um novo corte faz a obra-prima sangrenta de Tarantino parecer inchada... o novo material — especialmente uma parceria com Fortnite — adiciona valor questionável, mas qualquer chance de ver a história épica de vingança de Tarantino na tela é um presente</em>\".</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/10/uma-thurman-as-the-bride-in-kill-bill.jpg?q=70&fit=crop&w=825&dpr=1" alt="Uma Thurman como A Noiva em Kill Bill: Volume 1, pronta para a ação." loading="lazy"><figcaption>Uma Thurman como A Noiva em Kill Bill: Volume 1.</figcaption></figure><p>As críticas destacam como a montagem unificada proporciona uma experiência mais imersiva e coesa do que a divisão em duas partes. Críticos elogiam seu poder duradouro, apresentação marcante e a forma como a narrativa operística de vingança flui de maneira mais natural, sem interrupções. Embora alguns apontem que o material adicional parece marginal, a maioria concorda que a duração de quatro horas e 35 minutos aprofunda a apreciação do trabalho de Tarantino e contribui para uma experiência cinematográfica mais completa.</p><p>Os críticos também enfatizam como a montagem parece ao mesmo tempo nostálgica e revitalizante, celebrando seu estilo ousado, violência exuberante e homenagem enciclopédica à história do cinema. Muitos a descrevem como Tarantino em sua forma mais pura — uma visão sangrenta que, com o tempo, soa ainda mais confiante. Em suma, a apresentação unificada de <strong><em>Kill Bill: The Whole Bloody Affair</em></strong> reforça por que a lenda do filme perdura.</p>",
+      "meta_description": "Kill Bill: The Whole Bloody Affair, a versão completa do clássico de Quentin Tarantino, estreia com pontuações perfeitas no Rotten Tomatoes. Confira os detalhes.",
+      "focus_keyphrase": "Kill Bill The Whole Bloody Affair Rotten Tomatoes",
+      "related_keyphrases": [
+        "Kill Bill versão completa",
+        "Quentin Tarantino Kill Bill",
+        "Rotten Tomatoes Kill Bill"
+      ],
+      "slug": "kill-bill-whole-bloody-affair-rotten-tomatoes",
+      "categorias": [
+        {
+          "nome": "Kill Bill",
+          "grupo": "obras",
+          "evidence": "Kill Bill: The Whole Bloody Affair"
+        },
+        {
+          "nome": "Quentin Tarantino",
+          "grupo": "diretores",
+          "evidence": "Quentin Tarantino's martial arts masterpiece"
+        }
+      ],
+      "tags_sugeridas": [
+        "kill bill",
+        "quentin tarantino",
+        "uma Thurman",
+        "rotten tomatoes",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "uma-thurman-as-the-bride-in-kill-bill.jpg": "Uma Thurman como A Noiva em Kill Bill: Volume 1, pronta para a ação."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Kill Bill: The Whole Bloody Affair estreia com 100% no Rotten Tomatoes",
+        "_yoast_wpseo_metadesc": "Kill Bill: The Whole Bloody Affair, a versão completa do clássico de Quentin Tarantino, estreia com pontuações perfeitas no Rotten Tomatoes. Confira os detalhes.",
+        "_yoast_wpseo_focuskw": "Kill Bill The Whole Bloody Affair Rotten Tomatoes",
+        "_yoast_news_keywords": "Kill Bill, The Whole Bloody Affair, Quentin Tarantino, Uma Thurman, Rotten Tomatoes, cinema, ação",
+        "_yoast_wpseo_opengraph-title": "Kill Bill: The Whole Bloody Affair estreia com 100% no Rotten Tomatoes",
+        "_yoast_wpseo_opengraph-description": "Kill Bill: The Whole Bloody Affair, a versão completa do clássico de Quentin Tarantino, estreia com pontuações perfeitas no Rotten Tomatoes. Confira os detalhes.",
+        "_yoast_wpseo_twitter-title": "Kill Bill: The Whole Bloody Affair estreia com 100% no Rotten Tomatoes",
+        "_yoast_wpseo_twitter-description": "Kill Bill: The Whole Bloody Affair, a versão completa do clássico de Quentin Tarantino, estreia com pontuações perfeitas no Rotten Tomatoes. Confira os detalhes."
+      }
+    },
+    {
+      "titulo_final": "Netflix: 3 filmes para assistir neste fim de semana (6-7 de dezembro)",
+      "conteudo_final": "<p>A <strong>Netflix</strong> apresenta um catálogo diversificado para este fim de semana, com opções que vão de clássicos a produções originais aclamadas. A plataforma de streaming, que recentemente anunciou a aquisição da Warner Bros., promete enriquecer ainda mais sua biblioteca.</p><p>Para este fim de semana, os assinantes podem conferir novidades que incluem tanto conteúdo licenciado quanto um filme original com potencial para indicações ao Oscar. Duas das três sugestões focam em Hollywood, enquanto a outra é um clássico perfeito para anteceder a temporada de festas.</p><h2>3. Meninas Malvadas (2004)</h2><p>Começando a lista, <em>Meninas Malvadas</em>. Embora a Netflix ofereça diversos clássicos natalinos, uma opção com um toque festivo é ideal para iniciar o mês. Assim, <strong><em>Meninas Malvadas</em> não é um filme de Natal, mas sua performance de \"Jingle Bell Rock\" é icônica</strong>.</p><p><strong>Tanto o <em>Meninas Malvadas</em> original quanto o musical de 2024, baseado na produção da Broadway, chegaram à Netflix</strong> nesta sexta-feira, 5 de dezembro de 2025. Embora o novo musical tenha seus méritos, o original se destaca em todos os aspectos.</p><p><strong>Regina George, interpretada por Rachel McAdams, é uma das vilãs mais citadas da história do cinema</strong>, graças ao seu charme e natureza ardilosa. Em contraste, Cady, vivida por Lindsay Lohan, é uma personagem com quem o público se identifica facilmente. Com o retorno de Lohan à cena cinematográfica nos últimos anos, reassistir <em>Meninas Malvadas</em> nunca foi tão \"fetch\".</p><h2>2. Jay Kelly (2025)</h2><p><strong><em>Jay Kelly</em> é uma das grandes apostas da Netflix para o Oscar deste ano</strong>, e é fácil entender o porquê. George Clooney estrela esta produção original da Netflix, focada na vida de um astro de cinema em declínio que viaja pela Europa com seu empresário, refletindo sobre sua longa carreira e questionando se viveu de fato ou apenas fingiu viver.</p><p>Este é um dos filmes mais tocantes da Netflix nos últimos anos, com uma performance sincera de Clooney no papel principal. Como seu empresário, Ron Sukenick, <strong>Adam Sandler entrega uma atuação dramática que remete ao seu trabalho em <em>Uncut Gems</em></strong>.</p><p>É exatamente isso que <em>Jay Kelly</em> representa: uma joia, oferecendo <strong>um olhar emocional sobre Hollywood através da perspectiva de alguém que vivenciou tudo</strong>: o bom, o mau e o feio.</p><h2>1. Babilônia (2022)</h2><p>Por fim, o último filme recomendado para assistir neste fim de semana na Netflix oferece outra exploração de Hollywood, mas com mais grandiosidade. <em>Babilônia</em> é um filme subestimado <strong>dirigido por Damien Chazelle</strong> (de <em>La La Land</em>), que narra a história de Nellie LaRoy (Margot Robbie), aspirante a estrela, Manny Torres (Diego Calva), um assistente iniciante, e Jack Conrad (Brad Pitt), um astro de cinema veterano.</p><p>O filme se destaca pela sua <strong>deslumbrante representação de uma Hollywood caótica nos anos 1920</strong>, explorando as dinâmicas de poder envolvidas na ascensão à fama na indústria, ambientado na transição de Hollywood dos filmes mudos para os \"talkies\".</p><p>A trilha sonora é impecável, os visuais são impactantes e os atores dão o seu melhor. <strong><em>Babilônia</em> transborda energia</strong>, tornando-se uma descoberta valiosa em sua chegada à <strong>Netflix</strong> em 7 de dezembro.</p>",
+      "meta_description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana, de 6 a 7 de dezembro. Inclui clássicos e produções aclamadas.",
+      "focus_keyphrase": "melhores filmes Netflix fim de semana",
+      "related_keyphrases": [
+        "filmes para assistir na Netflix",
+        "novidades Netflix dezembro",
+        "Netflix lançamentos"
+      ],
+      "slug": "melhores-filmes-netflix-fim-semana-dezembro",
+      "categorias": [
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "Meninas Malvadas",
+          "grupo": "obras",
+          "evidence": "Mean Girls (2004)"
+        },
+        {
+          "nome": "Babilônia",
+          "grupo": "obras",
+          "evidence": "Babylon (2022)"
+        }
+      ],
+      "tags_sugeridas": [
+        "netflix",
+        "meninas malvadas",
+        "jay kelly",
+        "babilônia",
+        "george clooney"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: 3 filmes para assistir neste fim de semana (6-7 de dezembro)",
+        "_yoast_wpseo_metadesc": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana, de 6 a 7 de dezembro. Inclui clássicos e produções aclamadas.",
+        "_yoast_wpseo_focuskw": "melhores filmes Netflix fim de semana",
+        "_yoast_news_keywords": "Netflix, filmes, streaming, Meninas Malvadas, Jay Kelly, Babilônia, George Clooney, Adam Sandler, Margot Robbie, Brad Pitt, Damien Chazelle",
+        "_yoast_wpseo_opengraph-title": "Netflix: 3 filmes para assistir neste fim de semana (6-7 de dezembro)",
+        "_yoast_wpseo_opengraph-description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana, de 6 a 7 de dezembro. Inclui clássicos e produções aclamadas.",
+        "_yoast_wpseo_twitter-title": "Netflix: 3 filmes para assistir neste fim de semana (6-7 de dezembro)",
+        "_yoast_wpseo_twitter-description": "Descubra os 3 melhores filmes para assistir na Netflix neste fim de semana, de 6 a 7 de dezembro. Inclui clássicos e produções aclamadas."
+      }
+    }
+  ]
+}

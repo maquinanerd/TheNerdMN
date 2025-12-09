@@ -1,0 +1,59 @@
+{
+  "titulo_final": "Star Trek: Mistério de 26 anos de Sisko será resolvido em nova série",
+  "conteudo_final": "<p>O destino de Benjamin Sisko, um dos maiores mistérios da franquia <b>Star Trek</b>, está prestes a ser desvendado. A série <b>Starfleet Academy</b> abordará a incógnita deixada no final de <b>Deep Space Nine</b>, que encerrou em 1999.</p><p>No episódio final de Deep Space Nine, intitulado “What You Leave Behind”, o Comandante Sisko se sacrificou nas Cavernas de Fogo de Bajor para deter os Pah-wraiths, transformando-se em uma entidade espiritual com os Profetas. Antes de desaparecer, ele prometeu a sua esposa, Kasidy Yates, que retornaria “um dia”. A confirmação desse retorno permaneceu como um mistério.</p><h2>O Destino de Sisko em Starfleet Academy</h2><p>A nova série <b>Starfleet Academy</b>, ambientada no século XXXII, parece trazer a resposta. Um vislumbre em seu trailer revela um display com as perguntas: ‘O Destino de Benjamin Sisko: Confrontando o inexplicável. O destino de Benjamin Sisko, Emissário dos Profetas. O destino do Capitão Sisko: Ele morreu nas Cavernas de Fogo de Bajor? Ele viveu no Templo Celestial?’</p><p>O fato de seu destino ainda ser uma questão em aberto no currículo da Academia da Frota Estelar sugere que ele pode não ter retornado à sua esposa. Noga Landau, produtora executiva de Starfleet Academy, comentou sobre a abordagem da série:</p><p>“Eu acho que honramos tudo o que veio antes de nós, os 60 anos de legado que vieram antes de nós de tantas maneiras diferentes. Uma delas é com as pessoas que trouxemos para se juntar a essas equipes incríveis. Temos Robert Picardo, que interpreta O Doutor, o mesmo Doutor de Voyager. Temos vários membros do elenco de Discovery se juntando a nós. E sabe, quando você olha para o muro de heróis em nosso átrio, nosso gigantesco cenário, você nos verá honrando tantas pessoas que vieram antes de nós, que nos mostraram o que é heroísmo e que nos mostraram quais são os valores da Frota Estelar.</p><p>E também há mistérios. Fiquem atentos a Benjamin Sisko! Conseguimos fazer coisas muito legais que não são feitas há muito tempo, que acho que realmente honram os fãs que esperavam para ver o que acontece. Então, definitivamente sabemos quem somos e sobre os ombros de quem estamos hoje.”</p><p>A declaração de Landau indica que a série explorará o destino de Sisko, honrando os fãs que aguardam respostas há mais de duas décadas. Embora um retorno físico de Sisko seja improvável, considerando a vasta diferença temporal entre seu desaparecimento e a ambientação de Starfleet Academy, a série promete abordar seu legado e possível intervenção ao longo dos séculos.</p>",
+  "meta_description": "O destino de Benjamin Sisko, um mistério de 26 anos em Star Trek, será finalmente abordado na nova série Starfleet Academy.",
+  "focus_keyphrase": "Benjamin Sisko",
+  "related_keyphrases": [
+    "Star Trek Deep Space Nine",
+    "Starfleet Academy",
+    "Mistérios de Star Trek"
+  ],
+  "slug": "star-trek-misterio-sisko-resolvido",
+  "categorias": [
+    {
+      "nome": "Star Trek",
+      "grupo": "franquias",
+      "evidence": "Like all great sci-fis, Star Trek is as much about questions as it is about answers"
+    },
+    {
+      "nome": "Deep Space Nine",
+      "grupo": "obras",
+      "evidence": "What happened to Benjamin Sisko after the end of Deep Space Nine."
+    },
+    {
+      "nome": "Starfleet Academy",
+      "grupo": "obras",
+      "evidence": "the next Star Trek show, Starfleet Academy is finally going to engage with the question."
+    }
+  ],
+  "tags_sugeridas": [
+    "star-trek",
+    "deep-space-nine",
+    "benjamin-sisko",
+    "starfleet-academy",
+    "fraqueza-de-sisko",
+    "profetas",
+    "pah-wraiths"
+  ],
+  "image_alt_texts": {
+    "n-i-n-t-e-n-d-o-s-w-i-t-c-h.png": "Imagem de arquivo diversa, sem relação com o texto.",
+    "Escape-from-New-York.jpg": "Imagem de arquivo diversa, sem relação com o texto.",
+    "Battlestar-Galactica-33.jpg": "Imagem de arquivo diversa, sem relação com o texto.",
+    "Star-Cops.jpg": "Imagem de arquivo diversa, sem relação com o texto.",
+    "Star-Trek-Starfleet-Academy-Sisko.jpg": "Capitão Benjamin Sisko em pose icônica, com o logo de Starfleet Academy ao fundo.",
+    "black-rain-to-live-and-die-in-LA.jpg": "Imagem de arquivo diversa, sem relação com o texto.",
+    "p-s-2.png": "Imagem de arquivo diversa, sem relação com o texto.",
+    "p-s-5-p-r-o.png": "Imagem de arquivo diversa, sem relação com o texto.",
+    "p-s-5_aed69f.png": "Imagem de arquivo diversa, sem relação com o texto."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Star Trek: Mistério de 26 anos de Sisko será resolvido em nova série",
+    "_yoast_wpseo_metadesc": "O destino de Benjamin Sisko, um mistério de 26 anos em Star Trek, será finalmente abordado na nova série Starfleet Academy.",
+    "_yoast_wpseo_focuskw": "Benjamin Sisko",
+    "_yoast_news_keywords": "Star Trek, Benjamin Sisko, Deep Space Nine, Starfleet Academy, Avery Brooks, Michelle Yeoh, Paramount+, CBS Studios",
+    "_yoast_wpseo_opengraph-title": "Star Trek: Mistério de 26 anos de Sisko será resolvido em nova série",
+    "_yoast_wpseo_opengraph-description": "O destino de Benjamin Sisko, um mistério de 26 anos em Star Trek, será finalmente abordado na nova série Starfleet Academy.",
+    "_yoast_wpseo_twitter-title": "Star Trek: Mistério de 26 anos de Sisko será resolvido em nova série",
+    "_yoast_wpseo_twitter-description": "O destino de Benjamin Sisko, um mistério de 26 anos em Star Trek, será finalmente abordado na nova série Starfleet Academy."
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Marco Polo: A série da Netflix que falhou em ser a nova Game of Thrones",
+      "conteudo_final": "<p>O sucesso estrondoso de <strong><em>Game of Thrones</em></strong> fez com que a Netflix buscasse uma oferta similar. A série original, baseada no universo de George R. R. Martin, apresentou uma narrativa envolvente, sombria e experimental, cativando o público desde sua estreia em 2011.</p><p>Ao trazer o mundo de fantasia para a tela, <em>Game of Thrones</em> gerou um grande interesse por dramas épicos históricos que não temessem tratar personagens como descartáveis e explorar todos os aspectos da vida em seus cenários. Isso, por sua vez, impulsionou outros estúdios e plataformas a aprimorarem suas produções para replicar o feito.</p><h2>Marco Polo falhou em ser a substituta de Game of Thrones na Netflix</h2><div class=\"body-img landscape mobile-optimized\"><div class=\"responsive-img image-expandable img-article-item\" data-img-caption='\"\"' data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg\" data-modal-container-id=\"single-image-modal-container\" data-modal-id=\"single-image-modal\" style=\"padding-bottom:50.016496205873%\"><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\"/><img alt=\"Netflix Marco Polo\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" decoding=\"async\" height=\"826\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/netflix-marco-polo.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" width=\"1650\"/></picture><figcaption style=\"display: none;\">Netflix Marco Polo</figcaption></figure></div></div><p>Neste cenário, surgiu <em>Marco Polo</em>, um drama histórico épico focado na vida do explorador. A série retratava as viagens de Marco Polo e sua vida na Mongólia do século XIII, sem receio de ser gráfica para representar o período histórico. Embora a Netflix não tenha produzido <em>Game of Thrones</em>, reconheceu sua influência e popularidade.</p><p>A plataforma investiu pesadamente em <em>Marco Polo</em> para criar uma oferta comparável. Contudo, a série estagnou e foi cancelada após apenas duas temporadas, não alcançando o sucesso esperado.</p><h2>Netflix aprendeu lições valiosas com o fracasso de Marco Polo</h2><p>A Netflix não é a HBO, e não precisava copiar o sucesso de outra plataforma para se destacar. A Netflix ocupa uma posição única como líder em streaming e, com sua crescente biblioteca de conteúdo original, pode alcançar um público mais amplo do que um único nicho.</p><p>Em vez de investir em uma única série épica, a Netflix reinvestiu em centenas de outros projetos, com foco maior na aquisição de IPs populares. Séries como <em>Wandinha</em> e <em>Cobra Kai</em> demonstraram que usar a base de uma franquia popular e dar um toque único pode ser extremamente bem-sucedido.</p><p>A expansão para alcançar audiências globais com séries como <em>Round 6</em> trouxe um sucesso imprevisto para a Netflix. Atualmente, a plataforma diversificou seu portfólio com uma biblioteca de conteúdo em constante crescimento.</p><p>Apesar de <em>Marco Polo</em> ter tentado replicar o sucesso de <em>Game of Thrones</em>, foi uma lição cara para a Netflix. Essa experiência precedeu o caminho da plataforma para produzir conteúdo premiado e recordista, como <em>Stranger Things</em>. Hoje, <strong><em>Marco Polo</em></strong> pode ser uma memória distante, mas a Netflix se recuperou mais forte do que nunca.</p>",
+      "meta_description": "Marco Polo, a aposta da Netflix para rivalizar com Game of Thrones, foi um fracasso. Entenda as lições aprendidas pela plataforma.",
+      "focus_keyphrase": "Marco Polo Netflix Game of Thrones",
+      "related_keyphrases": [
+        "Marco Polo série Netflix",
+        "fracasso Marco Polo",
+        "Netflix séries épicas"
+      ],
+      "slug": "marco-polo-netflix-game-of-thrones-fracasso",
+      "categorias": [
+        {
+          "nome": "Marco Polo",
+          "grupo": "obras",
+          "evidence": "Enter Marco Polo, the epic historical drama series that centers on the life of the well-known explorer and traveler Marco Polo."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix wanted to cash in on the show's popularity with a similar offering."
+        },
+        {
+          "nome": "Game of Thrones",
+          "grupo": "franquias",
+          "evidence": "Game of Thrones' success was absolutely astonishing"
+        }
+      ],
+      "tags_sugeridas": [
+        "Marco Polo",
+        "Netflix",
+        "Game of Thrones",
+        "Séries Históricas",
+        "Fracassos da Netflix"
+      ],
+      "image_alt_texts": {
+        "netflix-marco-polo.jpg": "Cena da série Marco Polo da Netflix, mostrando o explorador em um cenário histórico."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Marco Polo: A série da Netflix que falhou em ser a nova Game of Thrones",
+        "_yoast_wpseo_metadesc": "Marco Polo, a aposta da Netflix para rivalizar com Game of Thrones, foi um fracasso. Entenda as lições aprendidas pela plataforma.",
+        "_yoast_wpseo_focuskw": "Marco Polo Netflix Game of Thrones",
+        "_yoast_news_keywords": "Marco Polo, Netflix, Game of Thrones, séries, fracasso, streaming",
+        "_yoast_wpseo_opengraph-title": "Marco Polo: A série da Netflix que falhou em ser a nova Game of Thrones",
+        "_yoast_wpseo_opengraph-description": "Marco Polo, a aposta da Netflix para rivalizar com Game of Thrones, foi um fracasso. Entenda as lições aprendidas pela plataforma.",
+        "_yoast_wpseo_twitter-title": "Marco Polo: A série da Netflix que falhou em ser a nova Game of Thrones",
+        "_yoast_wpseo_twitter-description": "Marco Polo, a aposta da Netflix para rivalizar com Game of Thrones, foi um fracasso. Entenda as lições aprendidas pela plataforma."
+      }
+    },
+    {
+      "titulo_final": "White Collar: Reboot é confirmado, mas futuro da série ainda é incerto",
+      "conteudo_final": "<p>Originalmente exibida entre 2009 e 2014 na USA Network, <strong><em>White Collar</em></strong> acompanhava a parceria incomum entre o vigarista Neal Caffrey (Matt Bomer) e o Agente do FBI Peter Burke (Tim DeKay). Recentemente, o interesse pela série ressurgiu com a promessa de um reboot, que ainda não se concretizou.</p><p>O sucesso de <em>White Collar</em> era notável. A premissa simples, combinada com a execução cativante, prendia a atenção dos espectadores. A dinâmica entre o determinado Burke e o charmoso Caffrey, aliada ao formato procedural, funcionava em todos os níveis.</p><p>A série recebeu críticas positivas ao longo de sua exibição, elogiada pela mistura de narrativa procedural tradicional e humor. As atuações carismáticas, especialmente de Bomer e DeKay, eram um grande atrativo. O elenco de apoio, com Tiffani Thiessen como Elizabeth Burke e Willie Garson como o excêntrico amigo de Neal, Mozzie, também contribuía para a qualidade da produção.</p><h2>O reboot de White Collar foi confirmado em junho de 2024</h2><p>Embora o final da série tenha deixado pontas soltas, muitos consideravam improvável um retorno. No entanto, o interesse em um reboot ganhou força, com membros do elenco expressando entusiasmo e o criador Jeff Eastin indicando possíveis direções para uma nova temporada.</p><p>A empolgação dos fãs e o interesse demonstrado pelo elenco e criador indicavam um potencial viável para o retorno de <em>White Collar</em>. A situação em torno do retorno da série, contudo, tornou-se complexa, com questões sobre quem voltaria e qual seria a nova trama ainda em aberto.</p><h3>Criador Jeff Eastin confirmou o desenvolvimento do reboot</h3><div class=\"body-img landscape\"><div class=\"responsive-img image-expandable img-article-item\" data-img-caption='\"\"' data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg\" data-modal-container-id=\"single-image-modal-container\" data-modal-id=\"single-image-modal\" style=\"padding-bottom:50%\"><figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1\"/><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/><img alt='Keller, Peter, Neal, and Mozzie in White Collar season 3 episode 11 \"Checkmate\"' data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" decoding=\"async\" height=\"413\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/white-collar-checkmate-2.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" width=\"825\"/></picture></div></div><p>Em junho de 2024, Jeff Eastin confirmou que estava avançando com a criação de um reboot de <em>White Collar</em>. Durante um evento beneficente em homenagem ao falecido Willie Garson, foi compartilhado que um roteiro piloto já havia sido concluído e que a série estava em desenvolvimento, embora sem um anúncio formal.</p><p>Com o entusiasmo dos fãs, tanto Matt Bomer quanto Tim DeKay expressaram otimismo em retornar para o reboot. Essa confirmação marcou um passo importante, mas <em>White Collar: Renaissance</em>, como o reboot pode ser chamado, enfrentou alguns obstáculos.</p><h2>White Collar: Renaissance chegou ao mercado em fevereiro de 2025</h2><p>Assim que a possibilidade de <em>White Collar: Renaissance</em> se tornou pública, o burburinho em torno da série foi intenso. Em fevereiro de 2025, o projeto foi apresentado ao mercado com o roteiro piloto e materiais de divulgação. Embora não houvesse informações sobre onde o reboot seria distribuído, ele foi oferecido a plataformas de streaming e redes de televisão.</p><p>O fato de Eastin e a equipe criativa estarem confiantes o suficiente na ideia de trazer <em>White Collar</em> de volta para apresentá-la ativamente é um bom sinal. No entanto, apresentar um roteiro não garante o sucesso. Os fãs interpretaram a atualização de fevereiro como uma certeza, apesar da ausência de confirmação.</p><h2>A atualização mais recente de White Collar: Renaissance</h2><p>Apesar da falta de atualizações formais sobre <em>White Collar: Renaissance</em>, o interesse no futuro do reboot é evidente. Com Eastin, Bomer e DeKay confirmados para retornar, <em>White Collar: Renaissance</em> possui o poder de estrelas necessário para um retorno bem-sucedido, o que geralmente é metade da batalha.</p><p>A equipe criativa também enfatizou que a nova série honraria a memória de Garson e integraria seu legado à história, o que pode ser um elemento fascinante. Embora não haja um anúncio oficial sobre onde ou quando os fãs poderão ver o reboot de <em>White Collar</em>, Bomer e DeKay têm discutido ativamente o projeto, o que pode indicar que um acordo está próximo.</p><h2>Quando estreará o reboot de White Collar?</h2><p>Como <em>White Collar: Renaissance</em> ainda está em fase de desenvolvimento, não há um cronograma definido para o projeto. Isso significa que não há uma data de lançamento definitiva. No entanto, se a série conseguir um lar até o início de 2026, os espectadores poderão vê-la até o final do próximo ano.</p><p>Revivals e reboots tendem a progredir mais lentamente do que novas séries devido a agendamentos, orçamentos e disponibilidade. Isso pode resultar em uma espera mais longa para <em>White Collar: Renaissance</em> do que os fãs esperavam. Mesmo assim, saber que o reboot está a caminho deve alegrar os fãs de <strong><em>White Collar</em></strong>.</p>",
+      "meta_description": "O reboot de White Collar, White Collar: Renaissance, foi confirmado em 2024. Saiba os detalhes sobre o desenvolvimento e o futuro da série.",
+      "focus_keyphrase": "White Collar reboot",
+      "related_keyphrases": [
+        "White Collar Renaissance",
+        "Matt Bomer White Collar",
+        "Tim DeKay White Collar"
+      ],
+      "slug": "white-collar-reboot-confirmado-futuro-incerto",
+      "categorias": [
+        {
+          "nome": "White Collar",
+          "grupo": "obras",
+          "evidence": "Originally airing from 2009 to 2014 on the USA Network, White Collar followed the unlikely partnership between con artist Neal Caffrey (Matt Bomer) and FBI Agent Peter Burke (Tim DeKay)"
+        },
+        {
+          "nome": "USA Network",
+          "grupo": "plataformas",
+          "evidence": "Originally airing from 2009 to 2014 on the USA Network"
+        }
+      ],
+      "tags_sugeridas": [
+        "White Collar",
+        "White Collar Reboot",
+        "Matt Bomer",
+        "Tim DeKay",
+        "Jeff Eastin",
+        "Séries de TV"
+      ],
+      "image_alt_texts": {
+        "white-collar-checkmate-2.jpg": "Elenco de White Collar em cena do episódio 'Checkmate'.",
+        "white-collar-payback.jpg": "Neal e Peter em cena do episódio 'Payback' de White Collar.",
+        "burke-s-seven-white-collar.jpg": "Elenco de White Collar no episódio 'Burke's Seven'.",
+        "neal-caffrey-in-white-collar.jpg": "Neal Caffrey, personagem principal de White Collar."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "White Collar: Reboot é confirmado, mas futuro da série ainda é incerto",
+        "_yoast_wpseo_metadesc": "O reboot de White Collar, White Collar: Renaissance, foi confirmado em 2024. Saiba os detalhes sobre o desenvolvimento e o futuro da série.",
+        "_yoast_wpseo_focuskw": "White Collar reboot",
+        "_yoast_news_keywords": "White Collar, reboot, Matt Bomer, Tim DeKay, Jeff Eastin, séries, USA Network",
+        "_yoast_wpseo_opengraph-title": "White Collar: Reboot é confirmado, mas futuro da série ainda é incerto",
+        "_yoast_wpseo_opengraph-description": "O reboot de White Collar, White Collar: Renaissance, foi confirmado em 2024. Saiba os detalhes sobre o desenvolvimento e o futuro da série.",
+        "_yoast_wpseo_twitter-title": "White Collar: Reboot é confirmado, mas futuro da série ainda é incerto",
+        "_yoast_wpseo_twitter-description": "O reboot de White Collar, White Collar: Renaissance, foi confirmado em 2024. Saiba os detalhes sobre o desenvolvimento e o futuro da série."
+      }
+    },
+    {
+      "titulo_final": "Meninas Malvadas (2024) chega à Netflix em dezembro com polêmicas",
+      "conteudo_final": "<p>Ao adaptar um filme amado por uma grande base de fãs, qualquer produtora corre o risco de enfrentar críticas severas. A produção precisa ser impecável para evitar comparações desfavoráveis com o original. No caso de <em><strong>Mean Girls</strong></em>, de 2024, uma adaptação do clássico cult de meados dos anos 2000, essa realidade se impôs com força.</p><p>Apesar de uma abordagem musical, o filme foi criticado por fãs e críticos por não atingir o patamar de seu predecessor. A questão é: o filme merece tanto hate? Julgado por seus próprios méritos, <em>Mean Girls</em> (2024) possui qualidades, como atuações sólidas e números musicais cativantes.</p><p>Mais de um ano após sua estreia controversa, o público poderá formar sua própria opinião. O filme chega oficialmente à Netflix em 5 de dezembro. Estrelado por Angourie Rice e Reneé Rapp, o longa arrecadou mais de US$ 100 milhões mundialmente, quase triplicando seu orçamento de produção de US$ 36 milhões.</p><blockquote><p>"A nova aluna Cady Heron (Rice) é acolhida no topo da cadeia social pelo grupo de elite de garotas populares chamado 'The Plastics', liderado pela rainha abelha manipuladora Regina George (Rapp) e suas seguidoras Gretchen (Bebe Wood) e Karen (Avantika). No entanto, Cady comete o grave erro de se apaixonar pelo ex-namorado de Regina, Aaron Samuels (Christopher Briney), e se torna presa na mira de Regina. Enquanto Cady planeja derrubar a predadora alfa do grupo com a ajuda de suas amigas excluídas Janis (Auli'i Cravalho) e Damian (Jaquel Spivey), ela precisa aprender a permanecer fiel a si mesma enquanto navega pela selva mais cruel de todas: o ensino médio."</p></blockquote><h2>O 'Mean Girls' original arrecadou mais nas bilheterias</h2><p>Apesar da inflação de ingressos ao longo de duas décadas, o <em>Mean Girls</em> de 2024 ficou aquém de seu antecessor em receita total de bilheteria. O reboot recente arrecadou pouco mais de US$ 100 milhões em receita global, cerca de US$ 30 milhões a menos que o original de 2004. Dividido em US$ 86 milhões em receita doméstica e mais US$ 44 milhões de mercados internacionais, os US$ 130 milhões arrecadados pelo <em>Mean Girls</em> de 2004 não foram suficientes para colocá-lo entre os 40 filmes de maior bilheteria do ano, mas não diminuem o brilho de seu legado.</p><p><em>Mean Girls</em> (2024) está em streaming na Netflix a partir de dezembro.</p>",
+      "meta_description": "O reboot musical de Meninas Malvadas (2024) chega à Netflix em dezembro. Saiba mais sobre a recepção controversa e a chegada do filme ao streaming.",
+      "focus_keyphrase": "Meninas Malvadas 2024 Netflix",
+      "related_keyphrases": [
+        "Mean Girls 2024",
+        "reboot Meninas Malvadas",
+        "filme musical Netflix"
+      ],
+      "slug": "meninas-malvadas-2024-netflix-dezembro",
+      "categorias": [
+        {
+          "nome": "Meninas Malvadas",
+          "grupo": "obras",
+          "evidence": "With that in mind, the eventual product must tick every single box and be almost faultless to avoid brutal comparisons to the original. With that in mind, the eventual product must tick every single box and be almost faultless to avoid brutal comparisons to the original. In the case of 2024's Mean Girls, an adaptation of the mid-noughties chick flick classic regularly cited as the best of its genre"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Now, over a year since its controversial debut, you can make up your own mind on the movie as it officially joins Netflix this December 5."
+        }
+      ],
+      "tags_sugeridas": [
+        "Meninas Malvadas",
+        "Mean Girls 2024",
+        "Netflix",
+        "Filmes Musicais",
+        "Reboots"
+      ],
+      "image_alt_texts": {
+        "mean-girls-2024-movie-review.jpg": "Pôster do filme Meninas Malvadas (2024).",
+        "mean-girls-karen-avantika.jpg": "Karen (Avantika) em cena do filme Meninas Malvadas (2024).",
+        "movie-musicals-2020s-best-ranked.jpg": "Montagem de filmes musicais populares."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Meninas Malvadas (2024) chega à Netflix em dezembro com polêmicas",
+        "_yoast_wpseo_metadesc": "O reboot musical de Meninas Malvadas (2024) chega à Netflix em dezembro. Saiba mais sobre a recepção controversa e a chegada do filme ao streaming.",
+        "_yoast_wpseo_focuskw": "Meninas Malvadas 2024 Netflix",
+        "_yoast_news_keywords": "Meninas Malvadas, Mean Girls 2024, Netflix, filmes, reboot, musical",
+        "_yoast_wpseo_opengraph-title": "Meninas Malvadas (2024) chega à Netflix em dezembro com polêmicas",
+        "_yoast_wpseo_opengraph-description": "O reboot musical de Meninas Malvadas (2024) chega à Netflix em dezembro. Saiba mais sobre a recepção controversa e a chegada do filme ao streaming.",
+        "_yoast_wpseo_twitter-title": "Meninas Malvadas (2024) chega à Netflix em dezembro com polêmicas",
+        "_yoast_wpseo_twitter-description": "O reboot musical de Meninas Malvadas (2024) chega à Netflix em dezembro. Saiba mais sobre a recepção controversa e a chegada do filme ao streaming."
+      }
+    }
+  ]
+}

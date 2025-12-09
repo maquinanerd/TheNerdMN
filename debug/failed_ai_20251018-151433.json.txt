@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Hocus Pocus 3: Bette Midler revela que roteiro \"brilhante\" está pronto",
+      "conteudo_final": "<p>Uma nova atualização sobre <b>Hocus Pocus 3</b> foi dada por Bette Midler, dois anos após o anúncio da sequência. A terceira parte da franquia de filmes de Halloween da Disney ganhou novidades após o sucesso de <i>Hocus Pocus 2</i>, que teve a maior estreia de fim de semana da história do Disney+.</p><p>Três anos após a estreia do segundo filme, <i>Hocus Pocus</i> e sua sequência continuam sendo sucessos de streaming. No entanto, a última atualização sobre <b>Hocus Pocus 3</b>, dada por Sarah Jessica Parker, indicava que não havia mais desenvolvimentos além do desejo de realizar o projeto.</p><h2>Atualização promissora de Bette Midler</h2><p>Em participação no programa <i>Watch What Happens Live With Andy Cohen</i>, Midler trouxe um sinal mais animador. A atriz revelou que recebeu um roteiro para <b>Hocus Pocus 3</b> e que \"muito dele foi brilhante\". Ela explicou que, com o roteiro escrito, outros detalhes importantes estão sendo definidos, como o custo da produção.</p><figure><iframe src=\"https://www.youtube.com/embed/tCZCaRaY2io\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Bette Midler fala sobre o roteiro de Hocus Pocus 3.</figcaption></figure><blockquote><p>Eles me enviaram um roteiro e muito dele foi brilhante. Então, fiquei muito animada, e agora estamos tentando descobrir o que é, como está e onde vai ser e quanto vai custar.</p></blockquote><p>A declaração de Midler representa um avanço significativo para o projeto, especialmente após as observações anteriores de Parker em julho de que não houve mais desenvolvimentos. Com o roteiro em mãos, indicações apontam que ele ainda não está finalizado e passará por novas revisões.</p><h2>O futuro da Franquia Hocus Pocus</h2><p>A cena pós-créditos de <i>Hocus Pocus 2</i> sugeriu o retorno das irmãs Sanderson, mesmo após terem sido transformadas em pó. A participação de Midler no terceiro filme confirma isso, já que ela interpreta Winifred \"Winnie\" Sanderson, parte do icônico trio que inclui Sarah Sanderson (Sarah Jessica Parker) e Mary Sanderson (Kathy Najimy).</p><p>Anne Fletcher e Jen D'Angelo, que trabalharam em <i>Hocus Pocus 2</i>, estão ligadas à direção e roteiro do terceiro filme. Embora nenhum membro do elenco tenha sido confirmado ainda, é provável que, além das irmãs Sanderson, o novo círculo de bruxas de Salem, composto por Becca (Whitney Peak), Izzy (Belissa Escobedo) e Cassie (Lilia Buckingham), também retorne.</p><p>O sucesso inicial e contínuo do streaming foi o que impulsionou a decisão da Disney de aprovar o terceiro filme. A menção de Midler sobre o roteiro ser \"brilhante\" e deixá-la \"animada\" são sinais positivos para a história, que a equipe criativa ainda está aprimorando.</p><h2>Previsão de lançamento para Hocus Pocus 3</h2><p>Dado que muitos detalhes cruciais ainda estão sendo trabalhados, o público não deve esperar <b>Hocus Pocus 3</b> tão cedo. É improvável que o filme esteja pronto para o Halloween de 2026, com 2027 sendo uma janela de lançamento mais provável. Contudo, é apropriado que a atualização mais promissora sobre a sequência, desde o anúncio inicial em 2023, chegue durante a atual temporada de Halloween.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/01/01716939_poster_w780.jpg?q=70&fit=contain&w=480&dpr=1\" alt=\"Pôster oficial de Hocus Pocus 3.\"><figcaption>O pôster oficial de Hocus Pocus 3.</figcaption></figure>",
+      "meta_description": "Bette Midler, estrela de Hocus Pocus, deu uma atualização animadora sobre Hocus Pocus 3, confirmando que um roteiro "brilhante" foi recebido.",
+      "focus_keyphrase": "Hocus Pocus 3",
+      "related_keyphrases": [
+        "Hocus Pocus 3 roteiro",
+        "Bette Midler Hocus Pocus 3",
+        "Disney Halloween"
+      ],
+      "slug": "hocus-pocus-3-roteiro-bette-midler",
+      "categorias": [
+        {
+          "nome": "Hocus Pocus",
+          "grupo": "obras",
+          "evidence": "Hocus Pocus 3"
+        },
+        {
+          "nome": "Disney",
+          "grupo": "franquias",
+          "evidence": "Disney Halloween movie"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hocus Pocus 3",
+        "Bette Midler",
+        "Sarah Jessica Parker",
+        "Kathy Najimy",
+        "Disney Plus",
+        "Halloween",
+        "Sessão da Tarde"
+      ],
+      "image_alt_texts": {
+        "01716939_poster_w780.jpg": "Pôster oficial do filme Hocus Pocus 3 com as irmãs Sanderson."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hocus Pocus 3: Bette Midler revela que roteiro \"brilhante\" está pronto",
+        "_yoast_wpseo_metadesc": "Bette Midler, estrela de Hocus Pocus, deu uma atualização animadora sobre Hocus Pocus 3, confirmando que um roteiro \"brilhante\" foi recebido.",
+        "_yoast_wpseo_focuskw": "Hocus Pocus 3",
+        "_yoast_news_keywords": "Hocus Pocus 3, Bette Midler, Disney, Halloween, Cinema",
+        "_yoast_wpseo_opengraph-title": "Hocus Pocus 3: Bette Midler revela que roteiro \"brilhante\" está pronto",
+        "_yoast_wpseo_opengraph-description": "Bette Midler, estrela de Hocus Pocus, deu uma atualização animadora sobre Hocus Pocus 3, confirmando que um roteiro \"brilhante\" foi recebido.",
+        "_yoast_wpseo_twitter-title": "Hocus Pocus 3: Bette Midler revela que roteiro \"brilhante\" está pronto",
+        "_yoast_wpseo_twitter-description": "Bette Midler, estrela de Hocus Pocus, deu uma atualização animadora sobre Hocus Pocus 3, confirmando que um roteiro \"brilhante\" foi recebido."
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Pânico 7: Trailer sugere semelhanças com a franquia Halloween",
+      "conteudo_final": "<p>A franquia <b>Pânico</b> sempre se destacou por um tom específico, misturando paródia de filmes slasher com o próprio gênero. O original de 1996, dirigido por Wes Craven, é um raro exemplo de filme que consegue parodiar o subgênero enquanto se mantém assustador. As sequências seguiram a responsabilidade de parodiar \"o filme de Pânico\", acompanhando outras tendências do terror, culminando no \"requel\" de <b>Pânico (2022)</b> que revitalizou a série.</p><p><b>Pânico 6</b>, focado nas irmãs Carpenter, buscou algo diferente. Embora o interesse em filmes anteriores de <b>Pânico</b> tenha permanecido, o longa mostrou sinais de abandonar a autoconsciência que definiu a instalação anterior, apresentando seus sustos de forma mais direta. Essa abordagem funcionou, e a franquia pareceu vibrante novamente, mais interessada em construir um futuro do que em reviver o passado. <b>Pânico 6</b> foi o primeiro da série a ultrapassar a marca de US$ 100 milhões em bilheteria doméstica.</p><p>No entanto, o futuro da franquia sofreu um revés. Em 2023, Melissa Barrera foi demitida da sequência por comentários sobre a guerra em Gaza, e Jenna Ortega deixou o projeto logo depois. O filme foi completamente reestruturado, com o retorno da estrela original Neve Campbell e do roteirista Kevin Williamson na direção. Agora, antes do lançamento em 27 de fevereiro de 2026, o primeiro trailer de <b>Pânico 7</b> foi divulgado.</p><h2>O trailer de Pânico 7 lembra Halloween?</h2><p>Em vez de continuar em sua nova direção, o trailer inicial sugere que <b>Pânico 7</b> encontrou outra franquia de terror para emular. A comparação imediata é com <b>Halloween</b>, tanto o original de John Carpenter quanto o reboot de 2018 de David Gordon Green. Em termos de tom, o reencontro entre Sydney e Ghostface se assemelha mais ao confronto pesado entre Laurie e Michael no filme mais recente do que a qualquer coisa vista nos filmes anteriores de <b>Pânico</b>.</p><p>O próprio Ghostface parece ter uma caracterização diferente. Uma das características marcantes desta franquia é que os diversos assassinos Ghostface são claramente humanos e sofrem muitos danos. Contudo, <b>Pânico 7</b> o posiciona como algo mais. Ele se move com precisão e propósito implacável, menos como uma nova pessoa (ou duas, ou três) vestindo a máscara e mais como o próprio bicho-papão retornando para casa.</p><p>A sensação de <i>déjà vu</i> é ainda mais específica. A nova casa branca de Sydney lembra a de Michael Myers. A filha de Sydney andando com suas amigas por uma rua suburbana evoca uma cena similar do <b>Halloween</b> original. Ghostface executa o infame "sit-up" de Michael Myers. Sydney ensina à filha habilidades de sobrevivência para enfrentar o assassino, assim como Laurie fez com sua filha e neta. Até mesmo a cena de Ghostface envolto em chamas de um prédio em colapso é familiar.</p><p>Por um lado, é decepcionante ter a prova visual de que a direção que animava a franquia realmente acabou. Por outro lado, a abordagem é intrigante. Há uma boa chance de ser apenas marketing; o ângulo do confronto após tantos anos funcionou para <b>Halloween</b> nas bilheterias, então por que não adotá-lo como a nova direção de <b>Pânico 7</b>?</p><p>No entanto, dado que Williamson está envolvido, essas semelhanças podem ser mais do que aparentam. O <b>Halloween</b> de Carpenter é um texto fundamental do terror slasher original de <b>Pânico</b>, a ponto de os adolescentes o assistirem durante uma festa, quando Randy faz comentários memoráveis. Canalizar os filmes de 1978 e 2018 pode ser uma forma meta para <b>Pânico 7</b>, como uma sequência de 30 anos, retornar às suas raízes.</p>",
+      "meta_description": "O trailer de Pânico 7 revela semelhanças com a franquia Halloween, levantando questões sobre a direção da nova sequência.",
+      "focus_keyphrase": "Pânico 7",
+      "related_keyphrases": [
+        "Pânico 7 trailer",
+        "Halloween vs Pânico",
+        "franquia Pânico"
+      ],
+      "slug": "panico-7-trailer-halloween",
+      "categorias": [
+        {
+          "nome": "Pânico",
+          "grupo": "franquias",
+          "evidence": "A <strong><a href=\"https://screenrant.com/tag/scream/\" target=\"_blank\"><em>Scream</em></a></strong> franchise has traditionally struck a very specific tone."
+        },
+        {
+          "nome": "Halloween",
+          "grupo": "franquias",
+          "evidence": "Tonally, this reunion between Sydney and Ghostface compares more to Laurie and Michael's weighty confrontation in the latter than anything in the previous <em>Scream</em> movies."
+        }
+      ],
+      "tags_sugeridas": [
+        "Pânico 7",
+        "Halloween",
+        "Wes Craven",
+        "Kevin Williamson",
+        "Ghostface",
+        "Neve Campbell"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Pânico 7: Trailer sugere semelhanças com a franquia Halloween",
+        "_yoast_wpseo_metadesc": "O trailer de Pânico 7 revela semelhanças com a franquia Halloween, levantando questões sobre a direção da nova sequência.",
+        "_yoast_wpseo_focuskw": "Pânico 7",
+        "_yoast_news_keywords": "Pânico 7, Pânico, Halloween, Ghostface, Neve Campbell, Kevin Williamson",
+        "_yoast_wpseo_opengraph-title": "Pânico 7: Trailer sugere semelhanças com a franquia Halloween",
+        "_yoast_wpseo_opengraph-description": "O trailer de Pânico 7 revela semelhanças com a franquia Halloween, levantando questões sobre a direção da nova sequência.",
+        "_yoast_wpseo_twitter-title": "Pânico 7: Trailer sugere semelhanças com a franquia Halloween",
+        "_yoast_wpseo_twitter-description": "O trailer de Pânico 7 revela semelhanças com a franquia Halloween, levantando questões sobre a direção da nova sequência."
+      }
+    },
+    {
+      "titulo_final": "Superman: Legado é o filme de herói de 2025 com maior bilheteria",
+      "conteudo_final": "<p>Nem a <b>DC</b> nem a <b>Marvel</b> tiveram um ano espetacular em 2025, mas se há uma vencedora clara, é o <b>Universo DC</b> de James Gunn. Não apenas teve o filme de super-herói de maior bilheteria, mas também foi a única franquia a fazer um anúncio importante. Os próximos filmes do <b>MCU</b> incluem duas entradas de Vingadores e o retorno do Homem-Aranha de Tom Holland.</p><p>Embora o futuro da Marvel seja promissor, é inegável que os filmes do <b>MCU</b> em 2025 decepcionaram nas bilheterias. O filme de maior arrecadação foi <em>The Fantastic Four: First Steps</em>, que faturou US$ 521,9 milhões mundialmente. O filme <em>Superman</em> da DC assumiu a liderança em 2025 com US$ 616 milhões. Não só <em>Superman</em> foi o filme de super-herói de maior bilheteria de 2025, como também quebrou uma tendência negativa.</p><h2>Superman: Legado é o único filme de super-herói de 2025 com sequência anunciada</h2><p>A Marvel lançou três filmes neste ano: <em>Captain America: Brave New World</em>, <em>Thunderbolts*</em> e <em>The Fantastic Four: First Steps</em>. Os dois primeiros filmes prepararam novas equipes para os Vingadores no MCU, enquanto o último finalmente introduziu a versão da Marvel do Quarteto Fantástico. <strong>Apesar de sua importância, o MCU ainda não anunciou sequências para nenhum de seus filmes de 2025.</strong></p><p>A DC fez o oposto. O estúdio não apenas anunciou uma sequência para o filme <em>Superman</em> de James Gunn, mas ela será lançada em breve e detalhes da trama já foram revelados. <strong><em>Man of Tomorrow</em> chegará aos cinemas em 9 de julho de 2027</strong>, apenas dois anos após a estreia de David Corenswet como o novo Superman.</p><p><em>Man of Tomorrow</em> reunirá o Superman de Corenswet e o Lex Luthor de Nicholas Hoult. Embora os dois não sejam amigos, Gunn revelou que <strong>Superman e Lex são forçados a se unir contra uma ameaça maior — supostamente Brainiac</strong>. Dado que <em>Superman</em> deu lucro e finalmente fez a DC ter o filme de super-herói de maior bilheteria do ano após muito tempo, uma sequência faz sentido.</p><h2>Por que o MCU pode estar esperando para anunciar sequências de seus filmes de 2025</h2><p>Além de quaisquer questões relacionadas ao desempenho de bilheteria, acredito que há uma razão muito simples pela qual a Marvel Studios ainda não anunciou uma sequência para os filmes do MCU de 2025. <strong>Todos os três filmes terão seus personagens principais retornando no próximo ano como parte do elenco de <em>Avengers: Doomsday</em>.</strong> A Marvel pode querer preservar spoilers, como quem vive e quem morre.</p><p>Além disso, <strong>o MCU passará por um soft reboot após <em>Avengers: Secret Wars</em> em 2027.</strong> Como tal, a Marvel pode ainda estar decidindo quais personagens e equipes fazem sentido para o futuro da franquia após o filme. Com o DCU de Gunn apenas começando, <strong>a DC</strong> tem uma linha mais simplificada do que a <strong>Marvel</strong>, permitindo que <em>Superman</em> ganhe uma sequência tão rapidamente, algo que mal posso esperar.</p>",
+      "meta_description": "Superman: Legado se destaca em 2025 com maior bilheteria e anúncio de sequência, enquanto o MCU enfrenta desafios e adia novidades.",
+      "focus_keyphrase": "Superman Legado",
+      "related_keyphrases": [
+        "DCU",
+        "MCU",
+        "James Gunn",
+        "filmes de super-heróis"
+      ],
+      "slug": "superman-legado-bilheteria-sequencia",
+      "categorias": [
+        {
+          "nome": "Superman",
+          "grupo": "franquias",
+          "evidence": "DC's <em>Superman </em>movie took the crown in 2025 with $616 million."
+        },
+        {
+          "nome": "DC Universe",
+          "grupo": "franquias",
+          "evidence": "<strong><a href=\"https://screenrant.com/tag/dceu/\" target=\"_blank\"><strong>DC</strong></a></strong> nor <a href=\"https://screenrant.com/tag/mcu/\" target=\"_blank\"><strong>Marvel</strong></a> had the best possible year in 2025, but if there is a clear winner, it is <a href=\"https://screenrant.com/dc-universe-chapter-one-movies-shows-list/\" target=\"_blank\">James Gunn's DC Universe</a>"
+        },
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "The <a href=\"https://screenrant.com/marvel-upcoming-movies-list-release-dates/\" target=\"_blank\">MCU's upcoming movies</a> include two Avengers entries and the return of Tom Holland's Spider-Man."
+        }
+      ],
+      "tags_sugeridas": [
+        "Superman Legado",
+        "DCU",
+        "James Gunn",
+        "Marvel",
+        "MCU",
+        "Lex Luthor",
+        "Brainiac"
+      ],
+      "image_alt_texts": {
+        "lex-luthor-and-superman-man-of-tomorrow-concept-art.jpg": "Arte conceitual de Lex Luthor e Superman para o filme Man of Tomorrow.",
+        "avengers-doomsday-title-treatment-jpg.jpg": "Título do filme Vingadores: Doomsday."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Superman: Legado é o filme de herói de 2025 com maior bilheteria",
+        "_yoast_wpseo_metadesc": "Superman: Legado se destaca em 2025 com maior bilheteria e anúncio de sequência, enquanto o MCU enfrenta desafios e adia novidades.",
+        "_yoast_wpseo_focuskw": "Superman Legado",
+        "_yoast_news_keywords": "Superman Legado, DCU, James Gunn, Marvel, MCU, Lex Luthor, Brainiac",
+        "_yoast_wpseo_opengraph-title": "Superman: Legado é o filme de herói de 2025 com maior bilheteria",
+        "_yoast_wpseo_opengraph-description": "Superman: Legado se destaca em 2025 com maior bilheteria e anúncio de sequência, enquanto o MCU enfrenta desafios e adia novidades.",
+        "_yoast_wpseo_twitter-title": "Superman: Legado é o filme de herói de 2025 com maior bilheteria",
+        "_yoast_wpseo_twitter-description": "Superman: Legado se destaca em 2025 com maior bilheteria e anúncio de sequência, enquanto o MCU enfrenta desafios e adia novidades."
+      }
+    },
+    {
+      "titulo_final": "Filmes de Super-Heróis 2025: DC supera MCU com Superman",
+      "conteudo_final": "<p>Nem a <b>DC</b> nem a <b>Marvel</b> tiveram um ano espetacular em 2025, mas se há uma vencedora clara, é o <b>Universo DC</b> de James Gunn. Não apenas teve o filme de super-herói de maior bilheteria, mas também foi a única franquia a fazer um anúncio importante. Os próximos filmes do <b>MCU</b> incluem duas entradas de Vingadores e o retorno do Homem-Aranha de Tom Holland.</p><p>Embora o futuro da Marvel seja promissor, é inegável que os filmes do <b>MCU</b> em 2025 decepcionaram nas bilheterias. O filme de maior arrecadação foi <em>The Fantastic Four: First Steps</em>, que faturou US$ 521,9 milhões mundialmente. O filme <em>Superman</em> da DC assumiu a liderança em 2025 com US$ 616 milhões. Não só <em>Superman</em> foi o filme de super-herói de maior bilheteria de 2025, como também quebrou uma tendência negativa.</p><h2>Superman: Legado é o único filme de super-herói de 2025 com sequência anunciada</h2><p>A Marvel lançou três filmes neste ano: <em>Captain America: Brave New World</em>, <em>Thunderbolts*</em> e <em>The Fantastic Four: First Steps</em>. Os dois primeiros filmes prepararam novas equipes para os Vingadores no MCU, enquanto o último finalmente introduziu a versão da Marvel do Quarteto Fantástico. <strong>Apesar de sua importância, o MCU ainda não anunciou sequências para nenhum de seus filmes de 2025.</strong></p><p>A DC fez o oposto. O estúdio não apenas anunciou uma sequência para o filme <em>Superman</em> de James Gunn, mas ela será lançada em breve e detalhes da trama já foram revelados. <strong><em>Man of Tomorrow</em> chegará aos cinemas em 9 de julho de 2027</strong>, apenas dois anos após a estreia de David Corenswet como o novo Superman.</p><p><em>Man of Tomorrow</em> reunirá o Superman de Corenswet e o Lex Luthor de Nicholas Hoult. Embora os dois não sejam amigos, Gunn revelou que <strong>Superman e Lex são forçados a se unir contra uma ameaça maior — supostamente Brainiac</strong>. Dado que <em>Superman</em> deu lucro e finalmente fez a DC ter o filme de super-herói de maior bilheteria do ano após muito tempo, uma sequência faz sentido.</p><h2>Por que o MCU pode estar esperando para anunciar sequências de seus filmes de 2025</h2><p>Além de quaisquer questões relacionadas ao desempenho de bilheteria, acredito que há uma razão muito simples pela qual a Marvel Studios ainda não anunciou uma sequência para os filmes do MCU de 2025. <strong>Todos os três filmes terão seus personagens principais retornando no próximo ano como parte do elenco de <em>Avengers: Doomsday</em>.</strong> A Marvel pode querer preservar spoilers, como quem vive e quem morre.</p><p>Além disso, <strong>o MCU passará por um soft reboot após <em>Avengers: Secret Wars</em> em 2027.</strong> Como tal, a Marvel pode ainda estar decidindo quais personagens e equipes fazem sentido para o futuro da franquia após o filme. Com o DCU de Gunn apenas começando, <strong>a DC</strong> tem uma linha mais simplificada do que a <strong>Marvel</strong>, permitindo que <em>Superman</em> ganhe uma sequência tão rapidamente, algo que mal posso esperar.</p>",
+      "meta_description": "Superman: Legado lidera bilheteria de 2025 entre filmes de heróis, superando o MCU e quebrando tendências negativas com anúncio de sequência.",
+      "focus_keyphrase": "Filmes de Super-Heróis 2025",
+      "related_keyphrases": [
+        "DC vs Marvel",
+        "Superman Legado",
+        "MCU futuro"
+      ],
+      "slug": "filmes-super-herois-2025-dc-mcu",
+      "categorias": [
+        {
+          "nome": "Superman",
+          "grupo": "franquias",
+          "evidence": "DC's <em>Superman </em>movie took the crown in 2025 with $616 million."
+        },
+        {
+          "nome": "DC Universe",
+          "grupo": "franquias",
+          "evidence": "<strong><a href=\"https://screenrant.com/tag/dceu/\" target=\"_blank\"><strong>DC</strong></a></strong> nor <a href=\"https://screenrant.com/tag/mcu/\" target=\"_blank\"><strong>Marvel</strong></a> had the best possible year in 2025, but if there is a clear winner, it is <a href=\"https://screenrant.com/dc-universe-chapter-one-movies-shows-list/\" target=\"_blank\">James Gunn's DC Universe</a>"
+        },
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "The <a href=\"https://screenrant.com/marvel-upcoming-movies-list-release-dates/\" target=\"_blank\">MCU's upcoming movies</a> include two Avengers entries and the return of Tom Holland's Spider-Man."
+        }
+      ],
+      "tags_sugeridas": [
+        "Filmes de Super-Heróis 2025",
+        "DC",
+        "Marvel",
+        "MCU",
+        "Superman Legado",
+        "James Gunn"
+      ],
+      "image_alt_texts": {
+        "lex-luthor-and-superman-man-of-tomorrow-concept-art.jpg": "Arte conceitual de Lex Luthor e Superman para o filme Man of Tomorrow.",
+        "avengers-doomsday-title-treatment-jpg.jpg": "Título do filme Vingadores: Doomsday."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Filmes de Super-Heróis 2025: DC supera MCU com Superman",
+        "_yoast_wpseo_metadesc": "Superman: Legado lidera bilheteria de 2025 entre filmes de heróis, superando o MCU e quebrando tendências negativas com anúncio de sequência.",
+        "_yoast_wpseo_focuskw": "Filmes de Super-Heróis 2025",
+        "_yoast_news_keywords": "Filmes de Super-Heróis 2025, DC, Marvel, MCU, Superman Legado, James Gunn",
+        "_yoast_wpseo_opengraph-title": "Filmes de Super-Heróis 2025: DC supera MCU com Superman",
+        "_yoast_wpseo_opengraph-description": "Superman: Legado lidera bilheteria de 2025 entre filmes de heróis, superando o MCU e quebrando tendências negativas com anúncio de sequência.",
+        "_yoast_wpseo_twitter-title": "Filmes de Super-Heróis 2025: DC supera MCU com Superman",
+        "_yoast_wpseo_twitter-description": "Superman: Legado lidera bilheteria de 2025 entre filmes de heróis, superando o MCU e quebrando tendências negativas com anúncio de sequência."
+      }
+    }
+  ]
+}

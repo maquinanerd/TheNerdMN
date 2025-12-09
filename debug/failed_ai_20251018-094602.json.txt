@@ -1,0 +1,46 @@
+{
+  "titulo_final": "Pokémon Legends: Z-A Confirma: Pokémons Fazem Cocô e Têm Problemas de Estômago",
+  "conteudo_final": "<p>A confirmação tão esperada para os fãs de <b>Pokémon</b> chegou: em <b>Pokémon Legends: Z-A</b>, fica estabelecido que os monstrinhos fazem cocô e alguns podem até apresentar \"problemas de estômago\". A novidade foi revelada através de diálogos de NPCs na versão japonesa do jogo, que abordam o tema de forma explícita.</p><h2>Pokémon Legends: Z-A Confirma o Hábito de Fazer Cocô dos Pokémons</h2><p>O universo de <b>Pokémon</b>, que já conta com quase 30 anos de história, ainda guarda alguns mistérios. Questões como o funcionamento interno de uma Pokébola ou a aparência de Cubone sem sua máscara continuam gerando debates. No entanto, uma dúvida antiga dos fãs sobre as necessidades fisiológicas dos Pokémons foi finalmente respondida.</p><p>Um NPC na versão japonesa de <b>Pokémon Legends: Z-A</b> expressou preocupação com seu Pikachu, que estaria "defecando mais do que o normal". Embora a tradução para o inglês tenha suavizado a frase para \"tummy troubles\" (problemas de estômago), a implicação sobre a excreção dos Pokémons é clara.</p><p>Anteriormente, jogos da série já haviam dado indícios, como o uso do \"Mulch\" (adubo), mas <b>Pokémon Legends: Z-A</b> aborda o assunto de maneira direta e inegável.</p><p>A versão em inglês do jogo também confirma a função, com um NPC admitindo limpar \"as fezes\" de Pokémons selvagens. Usuários em redes sociais compartilharam capturas de tela de outros diálogos que mencionam \"fezes de monstrinhos\", indicando que a cidade de Lumiose é mais aberta sobre o tema do que outras regiões.</p><figure><img src=\"https://static0.thegamerimages.com/wordpress/wp-content/uploads/sharedimages/2025/08/pokemon-z-a-cover-art-1.jpg\" alt=\"Arte da capa de Pokémon Legends: Z-A com Pikachu e outros Pokémons.\"><figcaption>A arte da capa de Pokémon Legends: Z-A sugere uma nova aventura com foco em Lumiose.</figcaption></figure><p>A ênfase repentina em <b>Pokémon Legends: Z-A</b> sobre a capacidade dos Pokémons de excretar pode parecer peculiar, mas serve para encerrar de vez qualquer debate sobre o assunto. A cidade de Lumiose, com sua nova abordagem, certamente mudará a forma como muitos fãs veem seus Pokémons.</p>",
+  "meta_description": "Pokémon Legends: Z-A confirma que Pokémons excretam e podem ter problemas de estômago, com diálogos explícitos na versão japonesa e indícios na inglesa.",
+  "focus_keyphrase": "Pokémon Legends: Z-A",
+  "related_keyphrases": [
+    "Pokémon",
+    "Pokémons fazem cocô",
+    "Pokémon Legends: Z-A problemas de estômago"
+  ],
+  "slug": "pokemon-legends-z-a-confirma-excrecao",
+  "categorias": [
+    {
+      "nome": "Pokémon Legends: Z-A",
+      "grupo": "obras",
+      "evidence": "Pokemon Legends: Z-A"
+    },
+    {
+      "nome": "Pokémon",
+      "grupo": "franquias",
+      "evidence": "Pokemon"
+    }
+  ],
+  "tags_sugeridas": [
+    "pokemon-legends-z-a",
+    "pokemon",
+    "nintendo",
+    "game freak",
+    "pikachu",
+    "jogos",
+    "cultura pop"
+  ],
+  "image_alt_texts": {
+    "pokemon-z-a-cover-art-1.jpg": "Arte da capa de Pokémon Legends: Z-A com Pikachu e outros Pokémons."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Pokémon Legends: Z-A Confirma: Pokémons Fazem Cocô e Têm Problemas de Estômago",
+    "_yoast_wpseo_metadesc": "Pokémon Legends: Z-A confirma que Pokémons excretam e podem ter problemas de estômago, com diálogos explícitos na versão japonesa e indícios na inglesa.",
+    "_yoast_wpseo_focuskw": "Pokémon Legends: Z-A",
+    "_yoast_news_keywords": "Pokémon Legends: Z-A, Pokémon, Nintendo, Game Freak, Pikachu, jogos, cultura pop",
+    "_yoast_wpseo_opengraph-title": "Pokémon Legends: Z-A Confirma: Pokémons Fazem Cocô e Têm Problemas de Estômago",
+    "_yoast_wpseo_opengraph-description": "Pokémon Legends: Z-A confirma que Pokémons excretam e podem ter problemas de estômago, com diálogos explícitos na versão japonesa e indícios na inglesa.",
+    "_yoast_wpseo_twitter-title": "Pokémon Legends: Z-A Confirma: Pokémons Fazem Cocô e Têm Problemas de Estômago",
+    "_yoast_wpseo_twitter-description": "Pokémon Legends: Z-A confirma que Pokémons excretam e podem ter problemas de estômago, com diálogos explícitos na versão japonesa e indícios na inglesa."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Wicked: For Good remove cena crucial com ator do SNL, explica diretor",
+      "conteudo_final": "<p><strong>Wicked: For Good</strong> já se consolida como um dos primeiros sucessos de bilheteria da temporada de festas de 2025. Concluindo a história de <em>Wicked</em> de 2024, o filme é estrelado por Cynthia Erivo, Ariana Grande, Jonathan Bailey, Jeff Goldblum, Michelle Yeoh, Marissa Bode, Ethan Slater, Bronwyn James e Bowen Yang.</p><p>A trama acompanha Elphaba (Erivo) após descobrir que o Mágico de Oz (Goldblum) era uma fraude e desafiá-lo no primeiro filme, e também sua ex-amiga Glinda (Grande), que se tornou parte do regime do Mágico. Curiosamente, o filme trouxe de volta Pfannee (Yang) e ShenShen (James), amigas bajuladoras de Glinda de seus dias de escola, embora elas estejam ausentes do segundo ato do musical em que ambos os filmes se baseiam.</p><p>Segundo o diretor Jon M. Chu, a decisão de incluí-las visava refletir o público de Oz. No entanto, ele acabou cortando Yang e James de uma versão inicial do arco de redenção de Glinda. Durante a cena em que Glinda decide avisar Elphaba sobre uma multidão que viria para matá-la, Pfannee e ShenShen quase desempenharam um papel em ajudá-la.</p><h2>Cena cortada focava em Glinda</h2><p>Chu explicou que houve um momento em que ele pensou em fazer com que elas ajudassem Glinda a escapar, como pegar um cavalo ou distrair os soldados. Contudo, ele percebeu que isso tiraria o foco da jornada de Glinda. Essa cena, em que Glinda escolhe avisar Elphaba, é fundamental para o arco da personagem e também apresenta uma nova canção, \"The Girl in the Bubble\".</p><figure class="video-container"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/wicked-8.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Pfannee (Bowen Yang) e Shenshen (Bronwyn James) posam em Wicked\"><figcaption>Imagem via Universal Pictures</figcaption></figure><p>Ainda assim, <em>For Good</em> mostra um lampejo de humanidade em Pfannee e ShenShen quando elas ficam visivelmente desconfortáveis com a multidão que se dirige para matar Elphaba. Chu adicionou que incluiu essa nuance porque não queria que elas participassem ativamente da ação contra Elphaba, buscando que esse grupo de estudantes tivesse consciência, independentemente de seu comportamento no filme anterior.</p><h2>Consciência e Escolhas em Wicked</h2><p>Anteriormente, Chu observou que cada personagem deve questionar a realidade em algum momento e fazer uma escolha sobre qual realidade seguir. Glinda aceita que precisa ajudar Elphaba, enquanto Boq (Slater) escolheu \"uma realidade de ódio como comunidade\".</p><p>Chu acrescentou que a ideia central é que \"somos ambos bons e maus\". Ele explicou que \"somos todas essas coisas, e todos os dias fazemos uma escolha sobre qual seremos\". Nesse sentido, Pfannee e ShenShen, ao observarem os caçadores de bruxas e ficarem um pouco chocadas, ofereceram uma pequena pista de que \"eles iriam se redimir no final\", permitindo saber que \"há uma consciência\".</p><p><em>Wicked: For Good</em> está em exibição nos cinemas.</p>",
+      "meta_description": "Diretor Jon M. Chu explica por que uma cena importante de Wicked: For Good com Bowen Yang foi cortada, focando na jornada de Glinda.",
+      "focus_keyphrase": "Wicked: For Good cena cortada",
+      "related_keyphrases": [
+        "Jon M. Chu Wicked",
+        "Bowen Yang Wicked",
+        "Glinda Wicked For Good"
+      ],
+      "slug": "wicked-for-good-cena-bowen-yang-diretor",
+      "categorias": [
+        {
+          "nome": "Wicked",
+          "grupo": "franquias",
+          "evidence": "<em>Wicked: For Good</em> é já se consolida como um dos primeiros sucessos de bilheteria da temporada de festas de 2025."
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "O filme é estrelado por Cynthia Erivo, Ariana Grande, Jonathan Bailey, Jeff Goldblum, Michelle Yeoh, Marissa Bode, Ethan Slater, Bronwyn James e Bowen Yang."
+        }
+      ],
+      "tags_sugeridas": [
+        "Wicked: For Good",
+        "Jon M. Chu",
+        "Bowen Yang",
+        "Ariana Grande",
+        "Cynthia Erivo",
+        "Universal Pictures",
+        "Mágico de Oz"
+      ],
+      "image_alt_texts": {
+        "wicked-8.jpg": "Bowen Yang e Bronwyn James como Pfannee e Shenshen em uma cena promocional de Wicked: For Good."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wicked: For Good remove cena crucial com ator do SNL, explica diretor",
+        "_yoast_wpseo_metadesc": "Diretor Jon M. Chu explica por que uma cena importante de Wicked: For Good com Bowen Yang foi cortada, focando na jornada de Glinda.",
+        "_yoast_wpseo_focuskw": "Wicked: For Good cena cortada",
+        "_yoast_news_keywords": "Wicked: For Good, Jon M. Chu, Bowen Yang, Ariana Grande, Cynthia Erivo, Universal Pictures, Mágico de Oz, SNL",
+        "_yoast_wpseo_opengraph-title": "Wicked: For Good remove cena crucial com ator do SNL, explica diretor",
+        "_yoast_wpseo_opengraph-description": "Diretor Jon M. Chu explica por que uma cena importante de Wicked: For Good com Bowen Yang foi cortada, focando na jornada de Glinda.",
+        "_yoast_wpseo_twitter-title": "Wicked: For Good remove cena crucial com ator do SNL, explica diretor",
+        "_yoast_wpseo_twitter-description": "Diretor Jon M. Chu explica por que uma cena importante de Wicked: For Good com Bowen Yang foi cortada, focando na jornada de Glinda."
+      }
+    }
+  ]
+}

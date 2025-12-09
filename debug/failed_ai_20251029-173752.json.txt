@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Batman Ninja: O Filme de Ação DC Disponível na HBO Max",
+      "conteudo_final": "<p>Se você é um fã de fantasia, o HBO Max oferece um tesouro escondido: o filme de ação <b>Batman Ninja</b>, uma produção da DC que agrada o gênero. Embora os filmes de super-heróis tenham dominado Hollywood na última década, com o sucesso do Universo Cinematográfico Marvel e o reboot do universo DC, o cansaço do público tem levado a algumas falhas em bilheteria. No entanto, nem todos os projetos desse gênero são decepções.</p>\n\n<p><b>Batman Ninja</b>, lançado em 2018, detém uma impressionante pontuação de 83% no <i>Rotten Tomatoes</i> e reinventa o icônico herói da DC. Em uma reviravolta surpreendente, o Batman, seus vilões e aliados são transportados para o Japão feudal por uma máquina do tempo do Gorila Grodd. O filme apresenta uma visão fantástica desse período histórico, com os personagens icônicos da DC inseridos em um novo contexto.</p>\n\n<h2>Batman Ninja: Uma Fusão de Gêneros Inovadora</h2>\n\n<p>A animação de <b>Batman Ninja</b> é notável por seu estilo 3D estilizado, que confere vivacidade ao filme e realça a natureza fantástica da aventura. A escolha de incorporar o gênero anime <i>isekai</i> em um filme da DC é particularmente interessante, permitindo que os fãs explorem seus personagens favoritos sob uma perspectiva completamente nova e envolvente.</p>\n\n<p>O filme conta com a participação de diversos personagens da DC, incluindo <b>Nightwing, Catwoman, Coringa, Arlequina, Capuz Vermelho, Capuz Vermelho, Damian Wayne</b> e muitos outros. A combinação do universo de Batman, o cenário do Japão feudal e castelos robóticos torna <i>Batman Ninja</i> um dos conceitos mais intrigantes da DC para os entusiastas de super-heróis e para aqueles que buscam um mundo imersivo para se perder na plataforma HBO Max.</p>\n\n<figure>\n<img src=\"https:
+      "meta_description": "Descubra Batman Ninja, um filme de ação e fantasia da DC disponível na HBO Max, com uma pontuação alta no Rotten Tomatoes e animação inspirada em animes.",
+      "focus_keyphrase": "Batman Ninja",
+      "related_keyphrases": [
+        "filme DC",
+        "animação japonesa",
+        "HBO Max"
+      ],
+      "slug": "batman-ninja-filme-acao-fantasia-hbo-max",
+      "categorias": [
+        {
+          "nome": "Batman Ninja",
+          "grupo": "franquias",
+          "evidence": "2018's Batman Ninja movie"
+        },
+        {
+          "nome": "DC",
+          "grupo": "franquias",
+          "evidence": "DC film"
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "obras",
+          "evidence": "HBO Max is the home"
+        }
+      ],
+      "tags_sugeridas": [
+        "Batman Ninja",
+        "DC Comics",
+        "Animação",
+        "Anime",
+        "HBO Max",
+        "Japão Feudal"
+      ],
+      "image_alt_texts": {
+        "batman-ninja-vs-yakuza-league.jpg": "Batman Ninja em confronto contra ligas do submundo japonês",
+        "batman-ninja-poster.jpg": "Poster oficial do filme Batman Ninja"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Batman Ninja: Filme de Ação DC Imperdível na HBO Max",
+        "_yoast_wpseo_metadesc": "Descubra Batman Ninja, um filme de ação e fantasia da DC disponível na HBO Max, com uma pontuação alta no Rotten Tomatoes e animação inspirada em animes.",
+        "_yoast_wpseo_focuskw": "Batman Ninja",
+        "_yoast_news_keywords": "Batman Ninja, DC Comics, animação, anime, Japão feudal, HBO Max, filme de ação",
+        "_yoast_wpseo_opengraph-title": "Batman Ninja: O Filme de Ação DC Disponível na HBO Max",
+        "_yoast_wpseo_opengraph-description": "Descubra Batman Ninja, um filme de ação e fantasia da DC disponível na HBO Max, com uma pontuação alta no Rotten Tomatoes e animação inspirada em animes.",
+        "_yoast_wpseo_twitter-title": "Batman Ninja: Filme de Ação DC Imperdível na HBO Max",
+        "_yoast_wpseo_twitter-description": "Descubra Batman Ninja, um filme de ação e fantasia da DC disponível na HBO Max, com uma pontuação alta no Rotten Tomatoes e animação inspirada em animes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Michael Bay: 'A Ilha' é sucesso esquecido na Netflix 20 anos depois",
+      "conteudo_final": "<p>O filme de ficção científica de Michael Bay, <em><strong>A Ilha</strong></em>, lançado em 2005, alcançou o nono lugar entre os filmes mais populares na Netflix nos Estados Unidos na semana de 24 a 30 de novembro. Dirigido por Michael Bay, conhecido por seus filmes de ação como a franquia <em>Transformers</em>, o longa estrelado por Ewan McGregor e Scarlett Johansson estava amplamente esquecido desde seu lançamento.</p><h2>Sucesso Inesperado na Netflix</h2><p>Agora, duas décadas após sua estreia, <em><strong>A Ilha</strong></em> figura no Top 10 de filmes da Netflix nos EUA. Vale notar que outro filme de Bay, o thriller de ação <em>Ambulance</em> (2022), também aparece na lista, em sexto lugar.</p><p>A lista desta semana inclui ainda <em>Jingle Bell Heist</em> em primeiro, seguido por <em>KPop Demon Hunters</em>, <em>Champagne Problems</em>, <em>Aquaman e o Reino Perdido</em>, <em>In Your Dreams</em>, <em>Dog</em>, <em>The Carman Family Deaths</em> e <em>Frankenstein</em> na décima posição.</p><h2>Sinopse e Elenco de Peso</h2><p>Com roteiro de Alex Kurtzman e Roberto Orci, <strong><em>A Ilha</em> acompanha dois clones</strong>, interpretados por Ewan McGregor e Scarlett Johansson. Eles escapam de uma instalação de pesquisa ao descobrirem seu verdadeiro destino e são perseguidos por um mercenário, papel de Djimon Hounsou, enquanto tentam expor o movimento ilegal de clonagem.</p><p>Além de Ewan McGregor e Scarlett Johansson, o elenco de <em>A Ilha</em> conta com nomes como Djimon Hounsou, Sean Bean (conhecido por <em>Game of Thrones</em>) e Michael Clarke Duncan (de <em>À Espera de um Milagre</em>).</p><h2>Recepção Crítica e Bilheteria</h2><p>Assim como muitos filmes de Michael Bay, <strong><em>A Ilha</em> recebeu críticas mistas</strong>. O longa foi comparado a outros filmes de ficção científica de fuga de distopias dos anos 60 e 70, como <em>THX 1183</em>, <em>Coma</em> e <em>Fuga do Século 23</em>. A produção foi criticada por priorizar perseguições e explosões em detrimento de personagens e roteiro profundos.</p><p>No Rotten Tomatoes, o filme possui uma pontuação de 39% entre os críticos e 63% do público. Diferente de outros sucessos de Bay, <strong><em>A Ilha</em> não obteve um bom desempenho nas bilheterias</strong>, arrecadando apenas US$ 162,9 milhões contra um orçamento de US$ 126 milhões.</p><h2>Redescoberta do Filme</h2><p>Recentemente, <em>A Ilha</em> foi classificado por alguns veículos como o filme "<em>mais subestimado</em>" de Michael Bay, apesar de ter sido seu primeiro grande fracasso. A obra tem sido redescoberta e elogiada por oferecer mais do que sua reputação inicial sugeria.</p>",
+      "meta_description": "O filme de ficção científica 'A Ilha', de Michael Bay, estrela Ewan McGregor e Scarlett Johansson, torna-se um sucesso na Netflix 20 anos após seu lançamento.",
+      "focus_keyphrase": "A Ilha Michael Bay Netflix",
+      "related_keyphrases": [
+        "filme A Ilha elenco",
+        "A Ilha Ewan McGregor Scarlett Johansson",
+        "Michael Bay ficção científica"
+      ],
+      "slug": "a-ilha-michael-bay-netflix-sucesso",
+      "categorias": [
+        {
+          "nome": "A Ilha",
+          "grupo": "obras",
+          "evidence": "<em><strong>The Island</strong></em> has become a hit on Netflix."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "ranks ninth on <a href=\"https://www.netflix.com/tudum/top10/united-states\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Netflix</a>'s Top 10 movies"
+        },
+        {
+          "nome": "Michael Bay",
+          "grupo": "diretores",
+          "evidence": "Directed by Michael Bay"
+        }
+      ],
+      "tags_sugeridas": [
+        "A Ilha",
+        "Michael Bay",
+        "Netflix",
+        "Ewan McGregor",
+        "Scarlett Johansson",
+        "Ficção Científica",
+        "Filme de 2005"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Michael Bay: 'A Ilha' é sucesso esquecido na Netflix 20 anos depois",
+        "_yoast_wpseo_metadesc": "O filme de ficção científica 'A Ilha', de Michael Bay, estrela Ewan McGregor e Scarlett Johansson, torna-se um sucesso na Netflix 20 anos após seu lançamento.",
+        "_yoast_wpseo_focuskw": "A Ilha Michael Bay Netflix",
+        "_yoast_news_keywords": "A Ilha, Michael Bay, Netflix, Ewan McGregor, Scarlett Johansson, Ficção Científica, Filme de 2005",
+        "_yoast_wpseo_opengraph-title": "Michael Bay: 'A Ilha' é sucesso esquecido na Netflix 20 anos depois",
+        "_yoast_wpseo_opengraph-description": "O filme de ficção científica 'A Ilha', de Michael Bay, estrela Ewan McGregor e Scarlett Johansson, torna-se um sucesso na Netflix 20 anos após seu lançamento.",
+        "_yoast_wpseo_twitter-title": "Michael Bay: 'A Ilha' é sucesso esquecido na Netflix 20 anos depois",
+        "_yoast_wpseo_twitter-description": "O filme de ficção científica 'A Ilha', de Michael Bay, estrela Ewan McGregor e Scarlett Johansson, torna-se um sucesso na Netflix 20 anos após seu lançamento."
+      }
+    }
+  ]
+}

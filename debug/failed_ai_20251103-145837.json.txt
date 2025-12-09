@@ -1,0 +1,101 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Filme de Ação com Gerard Butler Acha Sucesso Inesperado no Streaming",
+      "conteudo_final": "<p>O thriller de ação <b>Gerard Butler</b>, <em>Last Seen Alive</em>, está finalmente encontrando seu público no streaming após não ter tido destaque nas bilheterias. Dirigido por Brian Goodman, o filme chegou aos cinemas em 2022, arrecadando apenas US$ 5,9 milhões mundialmente.</p><h2>Sucesso no Streaming</h2><p>Agora, <em>Last Seen Alive</em> está se redimindo no streaming. Em 3 de novembro, o thriller de ação com Butler se tornou o segundo filme mais popular no Hulu nos EUA, atrás apenas de <em>The Hand that Rocks the Cradle</em> (2025).</p><p>O longa de 2022 superou diversos títulos populares, incluindo <em>Halloween</em> (2018), <em>The Unholy Trinity</em> (2025), <em>Hotel Transylvania</em> (2012), <em>Crepúsculo</em> (2008), <em>The Rocky Horror Picture Show</em> (1975), <em>A Saga Crepúsculo: Lua Nova</em> (2009), <em>A Saga Crepúsculo: Eclipse</em> (2010) e, em décimo lugar, <em>Hotel Transylvania 2</em> (2015).</p><figure class="video-container"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2022/09/Last-Seen-Alive.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Gerard Butler em cena do filme Last Seen Alive\" loading=\"lazy\"/></figure><h2>Enredo e Recepção</h2><p>Butler estrela como Will, um marido que precisa mergulhar no submundo criminal de uma pequena cidade para encontrar sua futura ex-esposa após ela desaparecer em um posto de gasolina. Jaimie Alexander contracena com ele, com Ethan Embry, Russell Hornsby, Cindy Hogan e Michael Irby também no elenco.</p><p>Butler continua a aparecer regularmente em filmes de ação, e <em>Last Seen Alive</em> marca um de seus trabalhos com críticas mais fracas nos últimos anos. No Rotten Tomatoes, o filme tem apenas 14% de aprovação da crítica, com resenhas apontando a falta de emoção e a previsibilidade da narrativa.</p><p>Com 47% de aprovação do público, <em>Last Seen Alive</em> parece ter se saído melhor com os espectadores, mas a recepção ainda é mista. Essa resposta morna do público se reflete no fraco desempenho do filme nas bilheterias, e a produção ficou significativamente aquém de recuperar seu orçamento estimado de US$ 10 milhões.</p><h2>Próximos Projetos de Gerard Butler</h2><p>Para Butler, <em>Last Seen Alive</em> chegou após <em>Greenland</em> (2020) e antes de <em>Plane</em> (2023), e ambos os filmes foram sucessos maiores e mais bem recebidos. O ator retornará em breve ao mundo de <em>Greenland</em>, com <em>Greenland: Migration</em> previsto para o início do próximo ano.</p><p><em>Migration</em> não é a única sequência que Butler tem em andamento, pois ele também deve aparecer em <em>How to Train Your Dragon 2</em>, uma sequência de 2027 do remake live-action deste ano, e no aguardado <em>Den of Thieves 3</em>.</p><p>Embora <em>Last Seen Alive</em> possa não ter causado grande impacto, o ator evidentemente continuará ocupado nos próximos anos. O sucesso no Hulu provavelmente não compensa o fraco desempenho teatral de <em>Last Seen Alive</em>, mas fala sobre o apelo de Butler em plataformas de visualização doméstica. Embora seja um nome conhecido nas telonas, o ator se tornou conhecido por filmes que realmente decolam quando chegam ao VOD ou streaming, e seu rosto em um título de filme é claramente suficiente para atrair assinantes.</p>",
+      "meta_description": "Filme de ação com Gerard Butler, Last Seen Alive, encontra sucesso inesperado no streaming Hulu após fraco desempenho nas bilheterias.",
+      "focus_keyphrase": "Last Seen Alive Gerard Butler",
+      "related_keyphrases": [
+        "filme de ação Gerard Butler",
+        "Last Seen Alive streaming",
+        "sucesso no Hulu"
+      ],
+      "slug": "last-seen-alive-sucesso-streaming",
+      "categorias": [
+        {
+          "nome": "Last Seen Alive",
+          "grupo": "obras",
+          "evidence": "Now, though, Last Seen Alive is redeeming itself on streaming."
+        },
+        {
+          "nome": "Gerard Butler",
+          "grupo": "atores",
+          "evidence": "Gerard Butler's underseen action thriller"
+        }
+      ],
+      "tags_sugeridas": [
+        "gerard butler",
+        "last seen alive",
+        "thriller de ação",
+        "streaming",
+        "hulu",
+        "filmes de ação"
+      ],
+      "image_alt_texts": {
+        "Last-Seen-Alive.jpg": "Gerard Butler em cena do filme de ação Last Seen Alive."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Filme de Ação com Gerard Butler Acha Sucesso Inesperado no Streaming",
+        "_yoast_wpseo_metadesc": "Filme de ação com Gerard Butler, Last Seen Alive, encontra sucesso inesperado no streaming Hulu após fraco desempenho nas bilheterias.",
+        "_yoast_wpseo_focuskw": "Last Seen Alive Gerard Butler",
+        "_yoast_news_keywords": "Last Seen Alive, Gerard Butler, filme de ação, streaming, Hulu, thriller",
+        "_yoast_wpseo_opengraph-title": "Filme de Ação com Gerard Butler Acha Sucesso Inesperado no Streaming",
+        "_yoast_wpseo_opengraph-description": "Filme de ação com Gerard Butler, Last Seen Alive, encontra sucesso inesperado no streaming Hulu após fraco desempenho nas bilheterias.",
+        "_yoast_wpseo_twitter-title": "Filme de Ação com Gerard Butler Acha Sucesso Inesperado no Streaming",
+        "_yoast_wpseo_twitter-description": "Filme de ação com Gerard Butler, Last Seen Alive, encontra sucesso inesperado no streaming Hulu após fraco desempenho nas bilheterias."
+      }
+    },
+    {
+      "titulo_final": "Alexandra Daddario se Manifesta Sobre Papel de Mulher-Maravilha no DCU",
+      "conteudo_final": "<p>Alexandra Daddario comentou sobre suas chances de integrar o novo <b>Universo DC</b>, e após se tornar uma escolha popular de fãs para <strong>Mulher-Maravilha</strong>, as novas declarações da estrela podem ser o que a franquia precisa. O filme da Mulher-Maravilha no DCU está atualmente sendo escrito por Ana Nogueira, roteirista de <em>Supergirl</em>. James Gunn afirmou que as filmagens começarão assim que o roteiro estiver pronto.</p><h2>Interesse em Novo DCU</h2><p>Paralelamente, Daddario, que há anos é especulada como candidata a personagens da DC como Zatanna e Mulher-Gato, tornou-se uma das escolhas mais populares entre os fãs para interpretar a Mulher-Maravilha no <b>DCU de James Gunn</b>. Suas últimas declarações sobre o papel foram positivas, embora datem de 2013. Felizmente, uma nova atualização mostra que Daddario continua interessada nos futuros filmes da DC.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/08/alexandra-daddario-in-mayfair-witches.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Alexandra Daddario na série Mayfair Witches\" loading=\"lazy\"/></figure><p>Em uma entrevista de 2013 com a <em>Collider</em>, Daddario afirmou que adoraria fazer parte de um filme da Mulher-Maravilha. Anos se passaram, e em uma nova entrevista com a <em>ScreenRant</em>, Alexandra Daddario abordou a possibilidade de interpretar a nova Mulher-Maravilha do DCU. A estrela revelou que não estava ciente do aumento de fan art com ela como Diana Prince.</p><p>Dito isso, Daddario se juntaria ao DCU com prazer. Segundo a atriz de <em>Mayfair Witches</em>, \"trabalhar com James Gunn seria incrível em qualquer capacidade\". Assim, Daddario estaria disposta não apenas a interpretar a Mulher-Maravilha do DCU, mas também a assumir outro papel se Gunn considerar que essa seria a melhor escolha para a estrela.</p><h2>Comparativo com Gal Gadot</h2><p>Aos 39 anos, Daddario é um ano mais nova que a ex-Mulher-Maravilha Gal Gadot, que estrelou dois filmes como Diana Prince e apareceu em todo o antigo DCEU. Dado que David Corenswet, o novo Superman da DC, tem 32 anos, a atriz tornaria a Mulher-Maravilha mais velha que o Superman na franquia, o que poderia funcionar, já que Batman também deve ser ligeiramente mais velho que o Superman.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/adobe-express-file-18.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Gal Gadot como Mulher-Maravilha em Mulher-Maravilha 1984\" loading=\"lazy\"/></figure><h2>Por que Daddario Seria Ideal para a Nova Mulher-Maravilha</h2><p>Alguns nomes se tornaram populares na corrida para se tornar a próxima Mulher-Maravilha, com Daddario, Ana de Armas e Adria Arjona (de <em>Andor</em>) entre as favoritas dos fãs. No que diz respeito a Daddario, ela possui todas as qualidades para a Mulher-Maravilha do DCU. Para começar, ela já dublou Lois Lane, uma das personagens femininas mais fortes da DC, na franquia de filmes animados do Tomorrowverse.</p><p>Considerando que os atores do DCU dublarão seus personagens em animação e videogames, Daddario tem experiência nesse quesito. Além disso, Annabeth Chase, de <em>Percy Jackson</em>, filha de Atena, é um papel que demonstra a capacidade de Daddario de interpretar uma guerreira inteligente e compassiva como a Mulher-Maravilha, além de explorar suas origens gregas, algo que o DCEU mal explorou, tornando-a perfeita para a Mulher-Maravilha do DCU.</p>",
+      "meta_description": "Alexandra Daddario se mostra aberta a interpretar a Mulher-Maravilha no novo DCU de James Gunn, aumentando as chances de ser a escolha ideal para o papel.",
+      "focus_keyphrase": "Alexandra Daddario Mulher-Maravilha DCU",
+      "related_keyphrases": [
+        "Alexandra Daddario DCU",
+        "Mulher-Maravilha James Gunn",
+        "novos filmes DC"
+      ],
+      "slug": "alexandra-daddario-mulher-maravilha-dcu",
+      "categorias": [
+        {
+          "nome": "Mulher-Maravilha",
+          "grupo": "obras",
+          "evidence": "DC Universe\n<strong>Wonder Woman</strong>"
+        },
+        {
+          "nome": "DC Universe",
+          "grupo": "franquias",
+          "evidence": "new <a href=\"https://screenrant.com/tag/dceu/\" target=\"_blank\">DC Universe</a>"
+        },
+        {
+          "nome": "Alexandra Daddario",
+          "grupo": "atores",
+          "evidence": "Alexandra Daddario has commented on her chances"
+        }
+      ],
+      "tags_sugeridas": [
+        "alexandra daddario",
+        "mulher maravilha",
+        "dc universe",
+        "james gunn",
+        "dcu",
+        "gal gadot",
+        "superman"
+      ],
+      "image_alt_texts": {
+        "alexandra-daddario-in-mayfair-witches.jpg": "Alexandra Daddario na série Mayfair Witches.",
+        "adobe-express-file-18.jpg": "Gal Gadot como Mulher-Maravilha em Mulher-Maravilha 1984."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Alexandra Daddario se Manifesta Sobre Papel de Mulher-Maravilha no DCU",
+        "_yoast_wpseo_metadesc": "Alexandra Daddario se mostra aberta a interpretar a Mulher-Maravilha no novo DCU de James Gunn, aumentando as chances de ser a escolha ideal para o papel.",
+        "_yoast_wpseo_focuskw": "Alexandra Daddario Mulher-Maravilha DCU",
+        "_yoast_news_keywords": "Alexandra Daddario, Mulher-Maravilha, DCU, James Gunn, DC Universe, Gal Gadot, David Corenswet",
+        "_yoast_wpseo_opengraph-title": "Alexandra Daddario se Manifesta Sobre Papel de Mulher-Maravilha no DCU",
+        "_yoast_wpseo_opengraph-description": "Alexandra Daddario se mostra aberta a interpretar a Mulher-Maravilha no novo DCU de James Gunn, aumentando as chances de ser a escolha ideal para o papel.",
+        "_yoast_wpseo_twitter-title": "Alexandra Daddario se Manifesta Sobre Papel de Mulher-Maravilha no DCU",
+        "_yoast_wpseo_twitter-description": "Alexandra Daddario se mostra aberta a interpretar a Mulher-Maravilha no novo DCU de James Gunn, aumentando as chances de ser a escolha ideal para o papel."
+      }
+    }
+  ]
+}

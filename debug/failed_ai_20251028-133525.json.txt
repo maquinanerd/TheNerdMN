@@ -1,0 +1,178 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "O Exorcista do Mal 2 chega à Netflix em novembro com sustos garantidos",
+      "conteudo_final": "<p>O gênero de terror continua sua sequência de sucessos em Hollywood, com prequels, sequências e requels como <b>Halloween (2018)</b> e <b>28 Anos Depois</b>. A tendência não mostra sinais de desaceleração, com filmes como <b>The Exorcist: Deceiver</b> e <b>Five Nights at Freddy's 2</b> previstos para chegar às telonas.</p><p>Em 2023, uma das maiores franquias de terror lançou uma nova entrada que se tornou uma das sequências mais divisivas dos últimos tempos. Agora, o filme está finalmente chegando à <a href=\"https://www.maquinanerd.com.br/tag/netflix\">Netflix</a>.</p><h2><b>O Exorcista do Mal 2</b>: terror sombrio no universo de Invocação do Mal</h2><p>Trata-se de <b>O Exorcista do Mal 2</b>, continuação de <b>O Exorcista do Mal</b> e oitavo capítulo do universo de <b>Invocação do Mal</b>. O filme, dirigido por Michael Chaves, tem estreia marcada na Netflix para 1º de novembro. A trama se passa na França de 1956 e acompanha Taissa Farmiga reprisando seu papel como Irmã Irene. Ela se vê em uma corrida contra o tempo para salvar um convento e a comunidade local do mal, confrontando novamente Valak, a freira demoníaca que assombra a franquia.</p><p>Jonas Bloquet e Bonnie Aarons retornam como Maurice e Irmã Debra, respectivamente, ao lado de um elenco que inclui Anna Popplewell e Katelyn Rose. A ambientação europeia gótica cria uma atmosfera mais rica e sombria, intensificando o terror e a tensão, o que torna os sustos, mais criativos e frequentes, ainda mais aterrorizantes.</p><h2>Um capítulo controverso na saga Invocação do Mal</h2><p><b>O Exorcista do Mal 2</b> foi um sucesso estrondoso de bilheteria, arrecadando mais de US$ 270 milhões mundialmente. No entanto, o filme dividiu opiniões, recebendo críticas mistas tanto da crítica quanto do público. As queixas incluíram a falta de originalidade, um enredo confuso e o desenvolvimento fraco dos personagens, resultando em uma pontuação de 51% de críticos e 72% de audiência no Rotten Tomatoes.</p><p>Apesar das divergências, o filme se destaca como uma das entradas mais assustadoras da franquia <b>Invocação do Mal</b>, abraçando plenamente os elementos de terror gótico e religioso. A produção entrega uma experiência mais intensa e consistentemente assustadora, mas a eficácia dos sustos ainda gerou debates, com alguns espectadores sentindo que o filme se apoiou demais em clichês, oferecendo pouco mais.</p><h2>Novos filmes para assistir na Netflix em novembro</h2><p>Os assinantes da Netflix terão uma vasta opção de títulos para adicionar às suas listas de observação em novembro. Além de <b>O Exorcista do Mal 2</b>, a plataforma receberá outros filmes a partir de 1º de novembro, como <b>De Volta para o Futuro</b>, <b>Podres de Ricos</b>, <b>Doutor Sono</b>, <b>Um Pequeno Favor</b>, <b>Oito Mulheres e um Segredo</b> e <b>Paddington 2</b>.</p>",
+      "meta_description": "O terror divisivo O Exorcista do Mal 2, sucesso de bilheteria, chega à Netflix em novembro com novos sustos e atmosfera gótica sombria.",
+      "focus_keyphrase": "O Exorcista do Mal 2",
+      "related_keyphrases": [
+        "Invocação do Mal",
+        "The Conjuring Universe",
+        "terror na Netflix"
+      ],
+      "slug": "o-exorcista-do-mal-2-netflix-novembro",
+      "categorias": [
+        {
+          "nome": "O Exorcista do Mal 2",
+          "grupo": "obras",
+          "evidence": "That movie is The Nun II"
+        },
+        {
+          "nome": "Invocação do Mal",
+          "grupo": "franquias",
+          "evidence": "eighth installment in The Conjuring Universe franchise."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "finally coming to Netflix."
+        }
+      ],
+      "tags_sugeridas": [
+        "o exorcista do mal 2",
+        "the nun 2",
+        "invocação do mal",
+        "the conjuring universe",
+        "terror",
+        "netflix"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Logo de um serviço de streaming.",
+        "Ex-Machina.jpg": "Capa do filme Ex Machina.",
+        "Firefly-Out-of-Gas-episode.jpg": "Imagem da série Firefly.",
+        "Halo-Combat-Evolved.jpg": "Capa do jogo Halo Combat Evolved.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Cena da série Agents of S.H.I.E.L.D.",
+        "mackenzie-davis.jpg": "Atriz Mackenzie Davis em foto promocional.",
+        "QF-oyCwaArU": "Trailer do filme O Exorcista do Mal 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "O Exorcista do Mal 2: Terror Divisivo Chega à Netflix em Novembro",
+        "_yoast_wpseo_metadesc": "O Exorcista do Mal 2, sequência de terror que arrecadou US$ 270 milhões, chega à Netflix em novembro com sustos e atmosfera sombria.",
+        "_yoast_wpseo_focuskw": "O Exorcista do Mal 2",
+        "_yoast_news_keywords": "O Exorcista do Mal 2, The Nun 2, Invocação do Mal, The Conjuring Universe, Netflix, terror, filme",
+        "_yoast_wpseo_opengraph-title": "O Exorcista do Mal 2: Terror Divisivo Chega à Netflix em Novembro",
+        "_yoast_wpseo_opengraph-description": "O Exorcista do Mal 2, sequência de terror que arrecadou US$ 270 milhões, chega à Netflix em novembro com sustos e atmosfera sombria.",
+        "_yoast_wpseo_twitter-title": "O Exorcista do Mal 2: Terror Divisivo Chega à Netflix em Novembro",
+        "_yoast_wpseo_twitter-description": "O Exorcista do Mal 2, sequência de terror que arrecadou US$ 270 milhões, chega à Netflix em novembro com sustos e atmosfera sombria."
+      }
+    },
+    {
+      "titulo_final": "Wicked: For Good recebe reações positivas; sequência pode brilhar no Oscar?",
+      "conteudo_final": "<p><b>Wicked</b> foi um dos filmes de maior sucesso do ano passado, arrecadando US$ 756,4 milhões mundialmente e recebendo diversas honrarias. A produção foi destaque na temporada de premiações, com 10 indicações ao Oscar, incluindo Melhor Filme, Melhor Atriz e Melhor Atriz Coadjuvante. Esse sucesso estabeleceu um patamar elevado para <b>Wicked: For Good</b>, projetado para ser um dos maiores filmes deste outono no hemisfério norte. Embora a sequência deva atrair grande público, fãs têm curiosidade para saber se o segundo filme manterá a qualidade do primeiro.</p><p>A conclusão de histórias é notoriamente desafiadora, mas parece que o diretor Jon M. Chu e sua equipe conseguiram entregar um final emocionante para a jornada de Elphaba e Glinda.</p><h2>Primeiras impressões de Wicked: For Good agitam as redes</h2><p>À frente do lançamento de <b>Wicked: For Good</b> no final de novembro, as primeiras reações começaram a surgir nas redes sociais. Em geral, os críticos estão com excelente impressão do filme, elogiando as atuações de Cynthia Erivo e Ariana Grande, além da habilidade de Chu em expandir o material de origem, mantendo-se fiel à história original. Uma amostra das opiniões pode ser vista abaixo:</p><p><i>[Espaço para tweets de reação – a serem inseridos se disponíveis em um artigo real]</i></p><h2>Wicked: For Good pode ser indicado a Melhor Filme?</h2><p>Assumindo que essas reações sejam um indicativo do que está por vir, <b>Wicked: For Good</b> tem potencial para se tornar um dos principais concorrentes na corrida pelo Oscar deste ano. Será interessante observar sua recepção entre os votantes, especialmente nas semanas que antecedem as indicações. Existem casos em que sequências não alcançam o mesmo nível de apoio de seus antecessores. Um exemplo recente é <b>Duna: Parte Dois</b>, que conquistou dois Oscars a partir de cinco indicações, enquanto o primeiro <b>Duna</b> recebeu seis estatuetas de dez indicações. Da mesma forma, <b>Avatar: O Caminho da Água</b> não obteve tantas indicações quanto o original de 2009.</p><p>Além disso, apenas seis atores na história receberam múltiplas indicações por interpretar o mesmo personagem, uma estatística que parece não favorecer as chances de Erivo ou Grande. Contudo, <b>Wicked: For Good</b> é um final épico, e talvez possa seguir o caminho de <b>O Senhor dos Anéis: O Retorno do Rei</b>, alcançando vitórias importantes. A Academia pode usar <b>Wicked: For Good</b> como uma forma de recompensar os cineastas pelo projeto completo de dois filmes, reconhecendo o feito de trazer o amado musical para as telonas.</p><p>Se Erivo e Grande continuarem recebendo altas notas por suas performances, ambas poderão entrar no seleto grupo de atrizes com múltiplas indicações pelo mesmo papel. As categorias de atuação parecem bastante abertas neste momento (embora Jessie Buckley tenha surgido como favorita para Hamnet), então a Universal certamente organizará uma campanha dedicada às suas duas estrelas.</p><p>Claro, outros filmes aclamados também disputam a categoria de Melhor Filme. <b>One Battle After Another</b>, de Paul Thomas Anderson, é considerado por alguns um dos melhores filmes da década e dialoga com o atual clima sociopolítico. <b>Sinners</b> também encontrou uma maneira convincente de misturar entretenimento de gênero com comentários sociais afiados, tornando-se um grande sucesso no processo. <b>Hamnet</b> conquistou o People's Choice Award no Festival de Toronto, indicando uma paixão considerável pelo projeto. Até que os pré-candidatos ao Oscar comecem a surgir e vejamos quais premiações garantem indicações importantes, o cenário da corrida permanece incerto. A combinação de aclamação crítica e sucesso de bilheteria torna <b>Wicked: For Good</b> impossível de ignorar, mas ainda não está posicionado para dominar todas as categorias.</p><p>Mesmo que <b>Wicked: For Good</b> não conquiste o Oscar, é fantástico ver as reações entusiasmadas que está recebendo com antecedência. O fato de a Universal permitir que o boca a boca se espalhe com tanta antecedência é um sinal de grande confiança no filme. Se os executivos temessem que <b>Wicked: For Good</b> fosse um erro, o embargo provavelmente não seria levantado tão perto da estreia nos cinemas. Este é um desenvolvimento empolgante para os fãs do musical; uma crença comum é que o segundo ato de <b>Wicked</b> é mais fraco que o primeiro, mas parece que Chu encontrou uma maneira de transformá-lo em uma conclusão cinematográfica poderosa.</p>",
+      "meta_description": "A sequência Wicked: For Good recebe elogios iniciais por atuações e direção, com potencial para disputar o Oscar de Melhor Filme.",
+      "focus_keyphrase": "Wicked: For Good",
+      "related_keyphrases": [
+        "Wicked",
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Oscar 2025"
+      ],
+      "slug": "wicked-for-good-reacoes-positivas-oscar",
+      "categorias": [
+        {
+          "nome": "Wicked: For Good",
+          "grupo": "obras",
+          "evidence": "Wicked: For Good"
+        },
+        {
+          "nome": "Wicked",
+          "grupo": "obras",
+          "evidence": "Wicked was one of the most successful films last year"
+        },
+        {
+          "nome": "Oscar",
+          "grupo": "editorias",
+          "evidence": "awards circuit, receiving 10 Oscar nominations"
+        }
+      ],
+      "tags_sugeridas": [
+        "wicked for good",
+        "wicked",
+        "cynthia erivo",
+        "ariana grande",
+        "jon m. chu",
+        "oscar 2025",
+        "musical"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Logo de um serviço de streaming.",
+        "Ex-Machina.jpg": "Capa do filme Ex Machina.",
+        "Firefly-Out-of-Gas-episode.jpg": "Imagem da série Firefly.",
+        "Halo-Combat-Evolved.jpg": "Capa do jogo Halo Combat Evolved.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Cena da série Agents of S.H.I.E.L.D.",
+        "mackenzie-davis.jpg": "Atriz Mackenzie Davis em foto promocional."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Wicked: For Good Recebe Elogios Iniciais e Mira o Oscar 2025",
+        "_yoast_wpseo_metadesc": "Wicked: For Good, sequência do musical de sucesso, ganha reações positivas da crítica e entra na corrida pelo Oscar de Melhor Filme.",
+        "_yoast_wpseo_focuskw": "Wicked: For Good",
+        "_yoast_news_keywords": "Wicked: For Good, Wicked, Cynthia Erivo, Ariana Grande, Jon M. Chu, Oscar 2025, musical",
+        "_yoast_wpseo_opengraph-title": "Wicked: For Good Recebe Elogios Iniciais e Mira o Oscar 2025",
+        "_yoast_wpseo_opengraph-description": "Wicked: For Good, sequência do musical de sucesso, ganha reações positivas da crítica e entra na corrida pelo Oscar de Melhor Filme.",
+        "_yoast_wpseo_twitter-title": "Wicked: For Good Recebe Elogios Iniciais e Mira o Oscar 2025",
+        "_yoast_wpseo_twitter-description": "Wicked: For Good, sequência do musical de sucesso, ganha reações positivas da crítica e entra na corrida pelo Oscar de Melhor Filme."
+      }
+    },
+    {
+      "titulo_final": "Final Fantasy 7 Rebirth: Diretor promete versão para Switch 2 superior ao Remake",
+      "conteudo_final": "<p>A biblioteca de jogos do <a href=\"https://www.maquinanerd.com.br/tag/nintendo-switch-2\">Nintendo Switch 2</a> apresenta um cenário misto. Embora haja excelentes títulos first-party, ainda não vimos um grande volume de jogos third-party. Alguns exemplos como <b>Elden Ring</b> tiveram seus ports adiados devido a problemas de performance. Outros títulos serão lançados bem depois de suas estreias originais, como <b>Borderlands 4</b>, que ainda não tem data de lançamento confirmada para o console.</p><p>No entanto, a Square Enix oferece um raio de esperança com o próximo port de <b>Final Fantasy 7 Remake</b> Intergrade. As prévias indicam que o jogo roda excepcionalmente bem no sistema, mesmo em modo portátil, com pouca perda visual. Agora, o diretor do jogo, Naoki Hamaguchi, indica que podemos esperar o mesmo nível de qualidade para o port de <b>Final Fantasy 7 Rebirth</b>, quando ele finalmente for lançado.</p><h2>Final Fantasy 7 Rebirth para Switch 2 promete rodar melhor que o Remake</h2><p>Em entrevista à VGC, Hamaguchi afirmou que a equipe está “trabalhando muito duro” para garantir que <b>Rebirth</b> rode tão bem quanto possível no Switch 2. Ele também mencionou que a experiência da equipe em otimizar o jogo para PC e Steam Deck ajudará nesse processo.</p><p>“Eu acho que vimos uma reação semelhante na época, onde as pessoas disseram, 'uau, está rodando no Steam Deck, parece muito bom, a qualidade é muito maior do que eu esperava para o Steam Deck'”, Hamaguchi relembra. “Obviamente, há uma diferença nas especificações e na capacidade entre o Steam Deck, o Switch 2 e outros sistemas de jogos portáteis. Mas acho que conseguimos um resultado tão bom lá, e isso realmente ajudou no planejamento e na compreensão de como fazer isso daqui para frente na série.”</p><p>No geral, Hamaguchi assegura que os fãs da Nintendo “não precisam se preocupar com nada” em relação ao futuro port de <b>Rebirth</b>. “Eles receberão uma versão que é tão satisfatória e de alta qualidade quanto o primeiro jogo, se não superior”, ele garante.</p><p>Enquanto isso, os proprietários do Switch 2 poderão jogar <b>Final Fantasy 7 Remake</b> a partir de 22 de janeiro de 2026.</p>",
+      "meta_description": "Diretor de Final Fantasy 7 Rebirth garante que o port para Nintendo Switch 2 será de alta qualidade, possivelmente superior ao do Remake.",
+      "focus_keyphrase": "Final Fantasy 7 Rebirth Switch 2",
+      "related_keyphrases": [
+        "Final Fantasy 7 Remake",
+        "Nintendo Switch 2",
+        "Square Enix",
+        "Naoki Hamaguchi"
+      ],
+      "slug": "final-fantasy-7-rebirth-switch-2-promessa",
+      "categorias": [
+        {
+          "nome": "Final Fantasy 7 Rebirth",
+          "grupo": "obras",
+          "evidence": "Final Fantasy 7 Rebirth"
+        },
+        {
+          "nome": "Final Fantasy 7 Remake",
+          "grupo": "obras",
+          "evidence": "Final Fantasy 7 Remake"
+        },
+        {
+          "nome": "Nintendo Switch 2",
+          "grupo": "franquias",
+          "evidence": "The Switch 2's library of games"
+        }
+      ],
+      "tags_sugeridas": [
+        "final fantasy 7 rebirth",
+        "final fantasy 7 remake",
+        "nintendo switch 2",
+        "square enix",
+        "naoki hamaguchi",
+        "games",
+        "portabilidade"
+      ],
+      "image_alt_texts": {
+        "final-fantasy-vii-rebirth.jpeg": "Capa do jogo Final Fantasy VII Rebirth.",
+        "final-fantasy-vii-rebirth-cloud-strife.jpg": "Personagem Cloud Strife em Final Fantasy VII Rebirth.",
+        "ff7-rebirth-cover.jpg": "Arte da capa de Final Fantasy VII Rebirth.",
+        "tifa-final-fantasy-7-rebirth-cropped.jpg": "Personagem Tifa Lockhart em Final Fantasy VII Rebirth.",
+        "6-final-fantasy-7-rebirth-aerith-death-scene.jpg": "Cena do jogo Final Fantasy VII Rebirth com Aerith.",
+        "ff7-rebirth-party.jpg": "Grupo de personagens em Final Fantasy VII Rebirth.",
+        "final-fantasy-vii-rebirth.jpeg": "Cena do jogo Final Fantasy VII Rebirth.",
+        "playing-the-chocobo-racing-mini-game-in-final-fantasy-7-rebirth.jpg": "Cena do minigame de corrida de Chocobo em Final Fantasy VII Rebirth.",
+        "rebirth3.jpg": "Imagem promocional de Final Fantasy VII Rebirth.",
+        "rebirth-4.jpg": "Imagem de Final Fantasy VII Rebirth."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Final Fantasy 7 Rebirth: Versão Switch 2 Promete Superar o Remake",
+        "_yoast_wpseo_metadesc": "Diretor Naoki Hamaguchi confirma que Final Fantasy 7 Rebirth para Nintendo Switch 2 rodará com alta qualidade, possivelmente superior ao Remake.",
+        "_yoast_wpseo_focuskw": "Final Fantasy 7 Rebirth Switch 2",
+        "_yoast_news_keywords": "Final Fantasy 7 Rebirth, Final Fantasy 7 Remake, Nintendo Switch 2, Square Enix, Naoki Hamaguchi, games, portabilidade",
+        "_yoast_wpseo_opengraph-title": "Final Fantasy 7 Rebirth: Versão Switch 2 Promete Superar o Remake",
+        "_yoast_wpseo_opengraph-description": "Diretor Naoki Hamaguchi confirma que Final Fantasy 7 Rebirth para Nintendo Switch 2 rodará com alta qualidade, possivelmente superior ao Remake.",
+        "_yoast_wpseo_twitter-title": "Final Fantasy 7 Rebirth: Versão Switch 2 Promete Superar o Remake",
+        "_yoast_wpseo_twitter-description": "Diretor Naoki Hamaguchi confirma que Final Fantasy 7 Rebirth para Nintendo Switch 2 rodará com alta qualidade, possivelmente superior ao Remake."
+      }
+    }
+  ]
+}

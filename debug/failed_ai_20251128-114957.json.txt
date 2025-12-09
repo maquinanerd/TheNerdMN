@@ -1,0 +1,120 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Zootopia 2: Bilheteria na China Supera Recordes em Um Dia",
+      "conteudo_final": "<p>A animação <b>Zootopia 2</b> está a caminho de quebrar recordes de bilheteria, especialmente no mercado chinês. Informações recentes indicam que o filme alcançou um marco impressionante em seu primeiro dia de exibição no país.</p><h2>Desempenho Inicial na China</h2><p>O desempenho inicial de <b>Zootopia 2</b> na China tem sido notável. O filme conseguiu superar outras produções de grande porte em arrecadação no dia de sua estreia, demonstrando um forte interesse do público asiático pela sequência.</p><h2>Expectativas de Bilheteria</h2><p>Com o início promissor, as expectativas para a bilheteria total de <b>Zootopia 2</b> aumentam. A animação, que dá continuidade à história de Judy Hopps e Nick Wilde, promete atrair um público familiar e fãs do primeiro filme, que foi um sucesso global em 2016.</p><h2>Novos Personagens e Enredo</h2><p>A trama de <b>Zootopia 2</b> deve explorar novas aventuras na metrópole de Zootopia, introduzindo personagens inéditos e aprofundando os conflitos já estabelecidos. A expectativa é que a animação mantenha o tom divertido e as mensagens sociais que marcaram o original.</p>",
+      "meta_description": "Zootopia 2 quebra recordes de bilheteria na China em seu primeiro dia de exibição. Descubra os detalhes e expectativas para a sequência.",
+      "focus_keyphrase": "Zootopia 2 bilheteria China",
+      "related_keyphrases": [
+        "Zootopia 2 recorde China",
+        "bilheteria Zootopia 2",
+        "animação Zootopia 2"
+      ],
+      "slug": "zootopia-2-bilheteria-china-recordes",
+      "categorias": [
+        {
+          "nome": "Zootopia",
+          "grupo": "franquias",
+          "evidence": "A animação <b>Zootopia 2</b> está a caminho de quebrar recordes de bilheteria"
+        }
+      ],
+      "tags_sugeridas": [
+        "Zootopia 2",
+        "Disney",
+        "animação",
+        "bilheteria",
+        "China"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Zootopia 2: Bilheteria na China Supera Recordes em Um Dia",
+        "_yoast_wpseo_metadesc": "Zootopia 2 quebra recordes de bilheteria na China em seu primeiro dia de exibição. Descubra os detalhes e expectativas para a sequência.",
+        "_yoast_wpseo_focuskw": "Zootopia 2 bilheteria China",
+        "_yoast_news_keywords": "Zootopia 2, Disney, animação, bilheteria, China, recorde",
+        "_yoast_wpseo_opengraph-title": "Zootopia 2: Bilheteria na China Supera Recordes em Um Dia",
+        "_yoast_wpseo_opengraph-description": "Zootopia 2 quebra recordes de bilheteria na China em seu primeiro dia de exibição. Descubra os detalhes e expectativas para a sequência.",
+        "_yoast_wpseo_twitter-title": "Zootopia 2: Bilheteria na China Supera Recordes em Um Dia",
+        "_yoast_wpseo_twitter-description": "Zootopia 2 quebra recordes de bilheteria na China em seu primeiro dia de exibição. Descubra os detalhes e expectativas para a sequência."
+      }
+    },
+    {
+      "titulo_final": "Avatar 3: Bob Iger Elogia Sequência de James Cameron",
+      "conteudo_final": "<p>James Cameron revelou que Bob Iger, CEO da Disney, assistiu a uma versão inicial de <b>Avatar: Fire & Ash</b> e a considerou "magnífica". A declaração indica um forte apoio do estúdio à nova produção da franquia.</p><h2>Revisão de Bob Iger</h2><p>Durante uma conversa com outros executivos, Iger expressou sua admiração pelo filme, mesmo em uma versão mais longa. Ele teria defendido a obra contra críticas de outros líderes de estúdio, demonstrando confiança no trabalho de Cameron.</p><h2>Novos Conflitos em Pandora</h2><p><b>Avatar: Fire & Ash</b> promete expandir o universo de Pandora, apresentando um novo grupo de Na'vi como antagonistas. A história também abordará as consequências da morte de Neteyam e como a família Sully lida com a perda.</p><h2>Expectativas de Bilheteria</h2><p>Apesar do apoio de Iger, o sucesso de <b>Avatar: Fire & Ash</b> nas bilheterias é crucial para viabilizar as sequências planejadas. As projeções iniciais indicam uma arrecadação doméstica de cerca de US$ 110 milhões em seu fim de semana de estreia.</p><h2>Lançamento e Elenco</h2><p><b>Avatar: Fire & Ash</b> chega aos cinemas em 19 de dezembro de 2025. O elenco conta com novas adições como Oona Chaplin como Varang e Edie Falco como General Ardmore, prometendo aprofundar os conflitos da saga.</p>",
+      "meta_description": "Bob Iger, CEO da Disney, elogia Avatar: Fire & Ash em sua versão inicial. Saiba mais sobre as expectativas para a sequência de James Cameron.",
+      "focus_keyphrase": "Avatar Fire & Ash Bob Iger",
+      "related_keyphrases": [
+        "Avatar 3 Iger",
+        "James Cameron Avatar 3",
+        "Disney Avatar 3"
+      ],
+      "slug": "avatar-3-bob-iger-elogia-sequencia",
+      "categorias": [
+        {
+          "nome": "Avatar",
+          "grupo": "franquias",
+          "evidence": "James Cameron revelou que Bob Iger, CEO da Disney, assistiu a uma versão inicial de <b>Avatar: Fire & Ash</b>"
+        }
+      ],
+      "tags_sugeridas": [
+        "Avatar 3",
+        "James Cameron",
+        "Disney",
+        "Bob Iger",
+        "Avatar Fire & Ash"
+      ],
+      "image_alt_texts": {
+        "jake-sully-riding-the-toruk-in-avatar-fire-and-ash.jpg": "Jake Sully montando o Toruk em uma cena de batalha em Avatar: Fire & Ash."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Avatar 3: Bob Iger Elogia Sequência de James Cameron",
+        "_yoast_wpseo_metadesc": "Bob Iger, CEO da Disney, elogia Avatar: Fire & Ash em sua versão inicial. Saiba mais sobre as expectativas para a sequência de James Cameron.",
+        "_yoast_wpseo_focuskw": "Avatar Fire & Ash Bob Iger",
+        "_yoast_news_keywords": "Avatar 3, James Cameron, Disney, Bob Iger, Avatar Fire & Ash, Pandora",
+        "_yoast_wpseo_opengraph-title": "Avatar 3: Bob Iger Elogia Sequência de James Cameron",
+        "_yoast_wpseo_opengraph-description": "Bob Iger, CEO da Disney, elogia Avatar: Fire & Ash em sua versão inicial. Saiba mais sobre as expectativas para a sequência de James Cameron.",
+        "_yoast_wpseo_twitter-title": "Avatar 3: Bob Iger Elogia Sequência de James Cameron",
+        "_yoast_wpseo_twitter-description": "Bob Iger, CEO da Disney, elogia Avatar: Fire & Ash em sua versão inicial. Saiba mais sobre as expectativas para a sequência de James Cameron."
+      }
+    },
+    {
+      "titulo_final": "The Northman Chega à Netflix em Dezembro",
+      "conteudo_final": "<p>O aclamado thriller de ação viking <b>The Northman</b>, dirigido por Robert Eggers, finalmente estará disponível na Netflix nos Estados Unidos a partir de 3 de dezembro.</p><h2>Elenco Estelar e Trama</h2><p>O filme conta com um elenco impressionante, incluindo Alexander Skarsgård como o príncipe viking em busca de vingança, Nicole Kidman, Ethan Hawke, Anya Taylor-Joy e Willem Dafoe. A trama acompanha a jornada de Amleth para vingar o assassinato de seu pai.</p><h2>Recepção Crítica e Sucesso em Streaming</h2><p>Embora <b>The Northman</b> não tenha sido um grande sucesso de bilheteria em seu lançamento original em 2022, o filme recebeu críticas positivas e agora tem a oportunidade de encontrar um novo público na Netflix. A plataforma é conhecida por impulsionar a popularidade de filmes.</p><h2>O Momento Certo para o Lançamento</h2><p>A chegada de <b>The Northman</b> à Netflix coincide com o período de inverno, o que pode ser ideal para o tom sombrio e a ambientação do filme. A produção, com seu orçamento elevado, busca agora consolidar seu nome entre os espectadores.</p><h2>Obras Recentes de Robert Eggers</h2><p>Robert Eggers, diretor de <b>The Northman</b>, também alcançou maior reconhecimento com seu trabalho mais recente, <i>Nosferatu</i>, que foi bem recebido pela crítica e indicado a prêmios.</p>",
+      "meta_description": "O filme viking The Northman, com Anya Taylor-Joy e Ethan Hawke, chega à Netflix em dezembro. Saiba mais sobre a estreia e o elenco.",
+      "focus_keyphrase": "The Northman Netflix",
+      "related_keyphrases": [
+        "The Northman estreia Netflix",
+        "filme viking Netflix",
+        "Robert Eggers Netflix"
+      ],
+      "slug": "the-northman-netflix-dezembro",
+      "categorias": [
+        {
+          "nome": "The Northman",
+          "grupo": "obras",
+          "evidence": "O aclamado thriller de ação viking <b>The Northman</b>, dirigido por Robert Eggers, finalmente estará disponível na Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Northman",
+        "Netflix",
+        "Robert Eggers",
+        "Anya Taylor-Joy",
+        "Ethan Hawke",
+        "Viking"
+      ],
+      "image_alt_texts": {
+        "ralph-ineson-looking-down-in-the-northman.jpg": "Ralph Ineson em uma cena de The Northman."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Northman Chega à Netflix em Dezembro",
+        "_yoast_wpseo_metadesc": "O filme viking The Northman, com Anya Taylor-Joy e Ethan Hawke, chega à Netflix em dezembro. Saiba mais sobre a estreia e o elenco.",
+        "_yoast_wpseo_focuskw": "The Northman Netflix",
+        "_yoast_news_keywords": "The Northman, Netflix, Robert Eggers, Anya Taylor-Joy, Ethan Hawke, Viking, filme",
+        "_yoast_wpseo_opengraph-title": "The Northman Chega à Netflix em Dezembro",
+        "_yoast_wpseo_opengraph-description": "O filme viking The Northman, com Anya Taylor-Joy e Ethan Hawke, chega à Netflix em dezembro. Saiba mais sobre a estreia e o elenco.",
+        "_yoast_wpseo_twitter-title": "The Northman Chega à Netflix em Dezembro",
+        "_yoast_wpseo_twitter-description": "O filme viking The Northman, com Anya Taylor-Joy e Ethan Hawke, chega à Netflix em dezembro. Saiba mais sobre a estreia e o elenco."
+      }
+    }
+  ]
+}

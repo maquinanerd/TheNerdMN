@@ -1,0 +1,103 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Witcher 4: Netflix muda estratégia de lançamento de episódios",
+      "conteudo_final": "<p>A quarta temporada de <strong><em>The Witcher</em></strong> sugere uma mudança na estratégia da Netflix. O trailer da nova temporada, que traz Liam Hemsworth no papel de Geralt de Rívia, substituindo Henry Cavill, gerou grande repercussão desde o final da terceira temporada.</p>\n<figure>\n<img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/liam-hemsworth-as-geralt-smiling-in-the-witcher-season-4.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Liam Hemsworth como Geralt sorrindo em The Witcher 4\"/>\n<figcaption>Liam Hemsworth assume o papel de Geralt de Rívia na quarta temporada de The Witcher.</figcaption>\n</figure>\n<p>A principal novidade, que pode indicar o fim de uma tendência frustrante da plataforma, é que <strong><em>The Witcher</em></strong> temporada 4 será lançada integralmente em <strong>30 de outubro de 2025</strong>. Anteriormente, a Netflix dividia lançamentos de séries populares em várias partes, como aconteceu com <em>Stranger Things</em>, <em>Wandinha</em> e <em>Cobra Kai</em>. A própria terceira temporada de <em>The Witcher</em> foi dividida em duas partes.</p>\n<h2>Netflix abandona estratégia de dividir temporadas em partes</h2>\n<p>Essa divisão de temporadas em partes foi implementada para manter o público engajado por mais tempo e gerar discussões contínuas sobre o conteúdo. No entanto, a prática tem sido criticada por fragmentar a experiência de maratona e diminuir o impacto de certas temporadas. A decisão de lançar a quarta temporada de <em>The Witcher</em> de uma vez só parece reconhecer esses problemas.</p>\n<figure>\n<img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/millie-bobby-brown-s-eleven-looking-intense-while-david-harbour-s-hopper-stands-behind-her-aiming-a-shotgun-in-stranger-things-season-5.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Millie Bobby Brown como Eleven e David Harbour como Hopper em Stranger Things 5\"/>\n<figcaption>Stranger Things 5 também terá um lançamento dividido em partes.</figcaption>\n</figure>\n<p>Apesar dessa mudança com <em>The Witcher</em>, a Netflix não parece disposta a abandonar completamente sua estratégia de lançamentos fragmentados. A aclamada série <em>Stranger Things</em>, por exemplo, terá sua quinta e última temporada dividida em três partes, com lançamentos escalonados entre novembro e dezembro de 2025, culminando em um episódio final especial na véspera de Ano Novo.</p>\n<h2>Futuro dos lançamentos da Netflix</h2>\n<p>A expectativa agora se volta para outros grandes lançamentos de 2026, como <em>One Piece</em> e <em>Avatar: The Last Airbender</em>, para verificar se a Netflix adotará de vez o modelo de lançamento completo de temporada após o sucesso e a recepção de <em>The Witcher</em> temporada 4.</p>\n<figure>\n<img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/jenna-ortega-holding-a-jar-in-wednesday-season-2.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Jenna Ortega como Wandinha em Wandinha 2\"/>\n<figcaption>Wandinha também teve sua segunda temporada dividida.</figcaption>\n</figure>\n<p>Apesar da frustração de alguns fãs mais dedicados, a popularidade de séries como <em>Stranger Things</em> e <em>Wandinha</em> sugere que, para o público em geral, a estratégia de divisão de temporadas ainda se mostra eficaz para manter o interesse e o engajamento com o catálogo da Netflix.</p>",
+      "meta_description": "The Witcher 4 adota lançamento completo de episódios, mudando a tendência da Netflix de dividir temporadas. Saiba mais.",
+      "focus_keyphrase": "The Witcher temporada 4",
+      "related_keyphrases": [
+        "Netflix The Witcher",
+        "Liam Hemsworth Geralt",
+        "estratégia de lançamento Netflix"
+      ],
+      "slug": "the-witcher-4-netflix-lancamento",
+      "categorias": [
+        {
+          "nome": "The Witcher",
+          "grupo": "franquias",
+          "evidence": "<em>The Witcher</em> season 4 hints that Netflix is changing its most frustrating recent tradition."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Netflix is Officially Breaking The Streamer's Most Frustrating Trend This Week"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Witcher",
+        "Netflix",
+        "Liam Hemsworth",
+        "Henry Cavill",
+        "Gerald de Rivia",
+        "Stranger Things",
+        "Wandinha"
+      ],
+      "image_alt_texts": {
+        "liam-hemsworth-as-geralt-smiling-in-the-witcher-season-4.jpg": "Liam Hemsworth como Geralt sorrindo em The Witcher 4.",
+        "millie-bobby-brown-s-eleven-looking-intense-while-david-harbour-s-hopper-stands-behind-her-aiming-a-shotgun-in-stranger-things-season-5.jpg": "Millie Bobby Brown como Eleven e David Harbour como Hopper em Stranger Things 5.",
+        "jenna-ortega-holding-a-jar-in-wednesday-season-2.jpg": "Jenna Ortega como Wandinha em Wandinha 2."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Witcher 4: Netflix Muda Estratégia de Lançamento de Episódios",
+        "_yoast_wpseo_metadesc": "The Witcher 4 adota lançamento completo de episódios, mudando a tendência da Netflix de dividir temporadas. Saiba mais.",
+        "_yoast_wpseo_focuskw": "The Witcher temporada 4",
+        "_yoast_news_keywords": "The Witcher, Netflix, Liam Hemsworth, Henry Cavill, Gerald de Rivia, Stranger Things, Wandinha, séries, streaming",
+        "_yoast_wpseo_opengraph-title": "The Witcher 4: Netflix Muda Estratégia de Lançamento de Episódios",
+        "_yoast_wpseo_opengraph-description": "A quarta temporada de The Witcher sugere uma mudança na estratégia da Netflix, com lançamento integral de episódios.",
+        "_yoast_wpseo_twitter-title": "The Witcher 4: Netflix Muda Estratégia de Lançamento de Episódios",
+        "_yoast_wpseo_twitter-description": "A quarta temporada de The Witcher sugere uma mudança na estratégia da Netflix, com lançamento integral de episódios."
+      }
+    },
+    {
+      "titulo_final": "Sylvester Stallone defende \"O Demolidor\" dos anos 90",
+      "conteudo_final": "<p><strong>Sylvester Stallone</strong>, uma lenda do cinema com filmes que arrecadaram mais de US$ 7,5 bilhões mundialmente, revelou qual de seus filmes mais antigos ainda se sustenta: surpreendentemente, ele escolheu o sci-fi de 1993, <strong><em>O Demolidor</em></strong> (<em>Demolition Man</em>), classificando-o como \"um dos poucos filmes que realmente se sustentam\" e \"muito contemporâneo\".</p>\n<figure>\n<img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/0196397_poster_w780-2.jpg\" alt=\"Pôster do filme O Demolidor com Sylvester Stallone\"/>\n<figcaption>Sylvester Stallone em O Demolidor.</figcaption>\n</figure>\n<p>Em entrevista ao GQ, Stallone refletiu sobre a comédia de ação distópica, que o reuniu com <strong>Wesley Snipes</strong> e <strong>Sandra Bullock</strong>. Na trama, ambientada em um futuro Los Angeles onde o crime foi erradicado devido à polidez excessiva dos cidadãos, Stallone interpreta John Spartan, um policial criogenado que é descongelado décadas depois para caçar o vilão Simon Phoenix. O filme foi um sucesso de bilheteria, arrecadando US$ 159 milhões globalmente, e se tornou um cult entre os fãs de ação.</p>\n<h2>Desafios na produção de O Demolidor</h2>\n<p>Apesar do sucesso posterior, a produção de <em>O Demolidor</em> foi árdua. Stallone admitiu que o roteiro passou por várias reescritas e que ele não foi a primeira opção do estúdio; <strong>Steven Seagal</strong> chegou a ser considerado para o papel de Spartan. Ao lado de <em>O Vingador</em> (<em>Cliffhanger</em>) e <em>Cop Land</em>, <em>O Demolidor</em> é um dos filmes de ação mais bem avaliados de Stallone nos anos 90, com 66% de aprovação no Rotten Tomatoes.</p>\n<p>Stallone comentou sobre os desafios práticos no set:</p>\n<blockquote>\n<p>\"Eu achei o design de set brilhante. Era o que chamamos de set prático. Aquelas coisas realmente funcionavam. Esses são os dois dublês mais perigosos que já fiz: o com aquela garra gigante... às vezes os hidráulicos saíam de lado, e a força daquelas garras de metal poderiam te machucar. E a outra coisa é, quando me congelaram originalmente, e me colocaram naquela banheira redonda [com] plexiglass espesso, você não conseguia quebrá-la com um martelo. E eles começaram a derramar óleo morno, e ele encheu, e deveria cortar. Se durasse mais de 30 segundos, chegaria aqui [aponta para a boca], e você não conseguiria sair.\".</p>\n</blockquote>\n<h2>Atividades recentes de Sylvester Stallone</h2>\n<p>Décadas depois, <em>O Demolidor</em> parece profético, antecipando elementos como a cultura do cancelamento e a sanitização do discurso público. Atualmente, Stallone está focado em <strong><em>Tulsa King</em></strong>, série de sucesso da Paramount+ onde interpreta Dwight “The General” Manfredi. Seus trabalhos mais recentes, como os thrillers de ação <em>Alarum</em> e <em>Armour</em>, não alcançaram o mesmo sucesso de seus filmes anteriores. Nesta fase da vida, Stallone também tem se dedicado à produção e mentoria em spin-offs de <em>Creed</em>, além de ter escrito e produzido o thriller de ação de 2025, <em>A Working Man</em>, estrelado por <strong>Jason Statham</strong>.</p>",
+      "meta_description": "Sylvester Stallone defende \"O Demolidor\" (1993), destacando sua relevância e desafios de produção. Saiba mais sobre o astro e seus projetos.",
+      "focus_keyphrase": "O Demolidor Stallone",
+      "related_keyphrases": [
+        "filme Demolition Man",
+        "Sylvester Stallone anos 90",
+        "Wesley Snipes Sandra Bullock"
+      ],
+      "slug": "sylvester-stallone-defende-o-demolidor",
+      "categorias": [
+        {
+          "nome": "O Demolidor",
+          "grupo": "obras",
+          "evidence": "Demolition Man"
+        },
+        {
+          "nome": "Sylvester Stallone",
+          "grupo": "pessoas",
+          "evidence": "Sylvester Stallone has had a spectacular career."
+        },
+        {
+          "nome": "Wesley Snipes",
+          "grupo": "pessoas",
+          "evidence": " Wesley Snipes"
+        }
+      ],
+      "tags_sugeridas": [
+        "Sylvester Stallone",
+        "O Demolidor",
+        "Demolition Man",
+        "Wesley Snipes",
+        "Sandra Bullock",
+        "Ação",
+        "Ficção Científica"
+      ],
+      "image_alt_texts": {
+        "0196397_poster_w780-2.jpg": "Pôster do filme O Demolidor com Sylvester Stallone."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Sylvester Stallone defende \"O Demolidor\" (1993) dos anos 90",
+        "_yoast_wpseo_metadesc": "Sylvester Stallone defende \"O Demolidor\" (1993), destacando sua relevância e desafios de produção. Saiba mais sobre o astro e seus projetos.",
+        "_yoast_wpseo_focuskw": "O Demolidor Stallone",
+        "_yoast_news_keywords": "Sylvester Stallone, O Demolidor, Demolition Man, Wesley Snipes, Sandra Bullock, Ação, Ficção Científica, anos 90, cinema",
+        "_yoast_wpseo_opengraph-title": "Sylvester Stallone defende \"O Demolidor\" (1993) dos anos 90",
+        "_yoast_wpseo_opengraph-description": "Sylvester Stallone defende \"O Demolidor\" (1993), destacando sua relevância e desafios de produção. Saiba mais sobre o astro e seus projetos.",
+        "_yoast_wpseo_twitter-title": "Sylvester Stallone defende \"O Demolidor\" (1993) dos anos 90",
+        "_yoast_wpseo_twitter-description": "Sylvester Stallone defende \"O Demolidor\" (1993), destacando sua relevância e desafios de produção. Saiba mais sobre o astro e seus projetos."
+      }
+    }
+  ]
+}

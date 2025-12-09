@@ -1,0 +1,54 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "One Piece: Anime adota novo formato em 2026 e encerra tradição de 27 anos",
+      "conteudo_final": "<p>O anime de <b>One Piece</b> passará por uma grande mudança em 2026. A Toei Animation, estúdio responsável pela produção desde 1999, anunciou que a série adotará um novo modelo de transmissão, encerrando a tradição de episódios semanais. A alteração visa permitir que o anime acompanhe com mais fidelidade o ritmo do mangá.</p><p>A partir de janeiro de 2026, o anime fará uma pausa de três meses, retornando em abril com o Arco de Elbaph. Após esse hiato, a produção passará a ser dividida em temporadas, com um limite de 26 episódios por ano, distribuídos em duas partes. Essa mudança visa incorporar mais conteúdo do material original e evitar longas pausas, que anteriormente podiam durar até seis meses.</p><h2>O que é One Piece?</h2><p><b>One Piece</b> é uma franquia de sucesso mundial criada por Eiichiro Oda. A história acompanha Monkey D. Luffy e os Piratas do Chapéu de Palha em sua jornada pela Grand Line em busca do lendário tesouro One Piece. Tanto o mangá, com mais de 100 volumes, quanto o anime, com mais de 1000 episódios, continuam em andamento. Além disso, a série live-action da Netflix, que entrará em sua segunda temporada em 2026, e uma nova adaptação em anime pela WIT Studios também estão em desenvolvimento.</p><p>A data exata para o fim da saga ainda é incerta. Eiichiro Oda já mencionou que o mangá deveria ser concluído por volta de 2025, mas a história, incluindo o anime, está atualmente na segunda parte da Saga Final. O autor já compartilhou sua visão para o desfecho da franquia.</p><p>A série original de anime está disponível para streaming na Crunchyroll, enquanto a adaptação live-action pode ser assistida na Netflix.</p><figure><img src=\"https:
+      "meta_description": "Anime de One Piece muda de formato em 2026, saindo do modelo semanal para temporadas. Saiba mais sobre a nova produção e o futuro da série.",
+      "focus_keyphrase": "One Piece anime",
+      "related_keyphrases": [
+        "anime One Piece",
+        "produção One Piece",
+        "Eiichiro Oda"
+      ],
+      "slug": "one-piece-anime-novo-formato-2026",
+      "categorias": [
+        {
+          "nome": "One Piece",
+          "grupo": "obras",
+          "evidence": "One Piece"
+        }
+      ],
+      "tags_sugeridas": [
+        "One Piece",
+        "anime",
+        "Toei Animation",
+        "Eiichiro Oda",
+        "Monkey D. Luffy",
+        "Piratas do Chapéu de Palha",
+        "Elbaph Arc"
+      ],
+      "image_alt_texts": {
+        "2025_01_0388694_poster_w780.jpg": "Pôster oficial de One Piece com Monkey D. Luffy em destaque.",
+        "2025_10_one-piece-episode-1131-revolutionary-army.jpg": "Cena do anime One Piece com a presença do Exército Revolucionário.",
+        "2025_10_one-piece-episode-1136-bonney-pirate.jpg": "Cena do anime One Piece com Bonney e piratas.",
+        "2025_10_one-piece-episode-1136-straw-hats-flashback.jpg": "Cena de flashback dos Piratas do Chapéu de Palha no anime One Piece.",
+        "2025_10_one-piece-episode-1141-caribou.jpg": "Cena do anime One Piece com Caribou.",
+        "2025_10_one-piece-episode-1142-luffy-kizaru-saturn.jpg": "Cena do anime One Piece com Luffy, Kizaru e Saturn.",
+        "2025_10_one-piece-luffy-getting-ready-to-fight.jpg": "Luffy se preparando para lutar no anime One Piece.",
+        "2025_10_one-piece-opening-28-vegapunk-speech.jpg": "Cena do anime One Piece com o discurso de Vegapunk.",
+        "2025_10_one-piece-opening-28-zoro-lucci.jpg": "Cena do anime One Piece com Zoro e Lucci.",
+        "2025_10_one-piece-sanji-nosebleed-death.jpg": "Cena do anime One Piece com Sanji."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "One Piece: Anime adota novo formato em 2026 e encerra tradição de 27 anos",
+        "_yoast_wpseo_metadesc": "Anime de One Piece muda de formato em 2026, saindo do modelo semanal para temporadas. Saiba mais sobre a nova produção e o futuro da série.",
+        "_yoast_wpseo_focuskw": "One Piece anime",
+        "_yoast_news_keywords": "One Piece, anime, Toei Animation, Eiichiro Oda, Monkey D. Luffy, Piratas do Chapéu de Palha, Elbaph Arc",
+        "_yoast_wpseo_opengraph-title": "One Piece: Anime adota novo formato em 2026 e encerra tradição de 27 anos",
+        "_yoast_wpseo_opengraph-description": "Anime de One Piece muda de formato em 2026, saindo do modelo semanal para temporadas. Saiba mais sobre a nova produção e o futuro da série.",
+        "_yoast_wpseo_twitter-title": "One Piece: Anime adota novo formato em 2026 e encerra tradição de 27 anos",
+        "_yoast_wpseo_twitter-description": "Anime de One Piece muda de formato em 2026, saindo do modelo semanal para temporadas. Saiba mais sobre a nova produção e o futuro da série."
+      }
+    }
+  ]
+}

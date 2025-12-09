@@ -1,0 +1,62 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Vampire: The Masquerade - Bloodlines 2 Recebe Atualização de Halloween com Correções",
+      "conteudo_final": "<p>Lançado com resenhas mistas e polêmicas, <b>Vampire: The Masquerade - Bloodlines 2</b> recebe sua primeira grande atualização pós-lançamento, focada em corrigir bugs e adicionar novas opções de customização. O estúdio The Chinese Room reafirma seu compromisso com o jogo, prometendo melhorias futuras.</p>\n<h2>Correções e Novidades na Atualização de Halloween</h2>\n<p>A atualização, intitulada \"Halloween\", traz um pacote de novas opções cosméticas para a personagem Phyre, incluindo oito novos penteados, estilos de maquiagem e cores de olhos. Além disso, diversas correções técnicas foram implementadas, abordando crashes e bugs que afetavam a experiência dos jogadores. Duas conquistas que antes estavam inacessíveis foram corrigidas e agora podem ser desbloqueadas.</p>\n<p>O estúdio também indicou que recursos solicitados pelos fãs, como um slider de FOV (campo de visão) e opções de salvamento manual, podem chegar em atualizações futuras. No entanto, essas adições ainda não estão confirmadas.</p>\n<figure><img src=\"https:
+      "meta_description": "Vampire: The Masquerade - Bloodlines 2 recebe atualização de Halloween com novas customizações, correções de bugs e promessas de mais recursos futuros.",
+      "focus_keyphrase": "Vampire: The Masquerade - Bloodlines 2",
+      "related_keyphrases": [
+        "Bloodlines 2 atualização",
+        "The Chinese Room",
+        "RPG de vampiros"
+      ],
+      "slug": "vampire-bloodlines-2-atualizacao-halloween",
+      "categorias": [
+        {
+          "nome": "Vampire: The Masquerade - Bloodlines 2",
+          "grupo": "obras",
+          "evidence": "Vampire: The Masquerade - Bloodlines 2 isn't off to a great start."
+        },
+        {
+          "nome": "The Chinese Room",
+          "grupo": "editorias",
+          "evidence": "The Chinese Room is sticking by the game"
+        },
+        {
+          "nome": "World of Darkness",
+          "grupo": "franquias",
+          "evidence": "Enter the World of Darkness and rise through vampire society"
+        }
+      ],
+      "tags_sugeridas": [
+        "Vampire The Masquerade Bloodlines 2",
+        "The Chinese Room",
+        "Paradox Interactive",
+        "RPG",
+        "Vampiros",
+        "The World of Darkness"
+      ],
+      "image_alt_texts": {
+        "vampire-the-masquerade-bloodlines-2-press-image-1.jpg": "Phyre customizada em Vampire: The Masquerade - Bloodlines 2 com novas opções de penteado e maquiagem.",
+        "vampire-the-masquerade-bloodlines-2-press-image-2.jpg": "Cena noturna e sombria de Seattle em Vampire: The Masquerade - Bloodlines 2, mostrando a arquitetura neo-noir.",
+        "vampire-the-masquerade-bloodlines-2-press-image-3.jpg": "Vampiro em combate corpo a corpo em Vampire: The Masquerade - Bloodlines 2, utilizando força sobrenatural.",
+        "vampire-the-masquerade-bloodlines-2-press-image-4.jpg": "Diversos personagens e facções em Vampire: The Masquerade - Bloodlines 2, indicando a complexidade da trama.",
+        "vampire-the-masquerade-bloodlines-2-press-image-5.jpg": "Uso de magia de sangue por um vampiro em Vampire: The Masquerade - Bloodlines 2, demonstrando as disciplinas sobrenaturais.",
+        "vampire-the-masquerade-bloodlines-2-press-image-6.jpg": "Um olhar ameaçador de um personagem em Vampire: The Masquerade - Bloodlines 2, reforçando o tom neo-noir.",
+        "vampire-the-masquerade-bloodlines-2-press-image-7.jpg": "Um vampiro caçando e se alimentando de um mortal em Vampire: The Masquerade - Bloodlines 2, mecânica essencial do jogo.",
+        "vampire-the-masquerade-bloodlines-2-press-image-8.jpg": "A Masquerade sendo quebrada em Vampire: The Masquerade - Bloodlines 2, com um vampiro exposto e em perigo.",
+        "vampire-the-masquerade-bloodlines-2-tag-page-cover-art.jpg": "Capa oficial do jogo Vampire: The Masquerade - Bloodlines 2, com arte conceitual de vampiros."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Vampire: Bloodlines 2: Atualização de Halloween Traz Correções e Customização",
+        "_yoast_wpseo_metadesc": "Vampire: The Masquerade - Bloodlines 2 recebe atualização de Halloween com novas customizações, correções de bugs e promessas de mais recursos futuros.",
+        "_yoast_wpseo_focuskw": "Vampire: The Masquerade - Bloodlines 2",
+        "_yoast_news_keywords": "Vampire The Masquerade Bloodlines 2, The Chinese Room, Paradox Interactive, RPG, Vampiros, World of Darkness, Atualização de Jogo",
+        "_yoast_wpseo_opengraph-title": "Vampire: Bloodlines 2: Atualização de Halloween Traz Correções e Customização",
+        "_yoast_wpseo_opengraph-description": "Vampire: The Masquerade - Bloodlines 2 recebe atualização de Halloween com novas customizações, correções de bugs e promessas de mais recursos futuros.",
+        "_yoast_wpseo_twitter-title": "Vampire: Bloodlines 2: Atualização de Halloween Traz Correções e Customização",
+        "_yoast_wpseo_twitter-description": "Vampire: The Masquerade - Bloodlines 2 recebe atualização de Halloween com novas customizações, correções de bugs e promessas de mais recursos futuros."
+      }
+    }
+  ]
+}

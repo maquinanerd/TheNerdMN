@@ -1,0 +1,48 @@
+{
+  "titulo_final": "Doctor Who: Retorno de Billie Piper em 2026 pode ser temporário",
+  "conteudo_final": "<p>A nova fase de <b>Doctor Who</b> traz novidades animadoras, incluindo a possibilidade de resolver o dilema sobre o retorno de Billie Piper. A temporada 15 da série encerrou com Ncuti Gatwa se regenerando em Billie Piper, que agora surge como a 16ª Doutora.</p><p>Essa escolha de elenco, no entanto, pode ser vista como um artifício excessivo. Embora o retorno de antigos Doutores seja comum, transformar companheiras em Doutoras levanta questões. A atuação de Piper como Doutora corre o risco de desvalorizar a trajetória de Rose Tyler e pode parecer uma repetição do que aconteceu com Jodie Whittaker, que se regenerou em David Tennant no final de 2022.</p><p><b>Doctor Who's 2026 Plan Provides A Route Away From Billie Piper Being A Full-Time Doctor</b></p><figure class=\"video-container\"><img src=\"https:
+  "meta_description": "Doctor Who confirma retorno em 2026 com especial de Natal. Entenda por que a volta de Billie Piper pode ser temporária e o plano da BBC para o futuro.",
+  "focus_keyphrase": "Doctor Who",
+  "related_keyphrases": [
+    "Billie Piper Doctor Who",
+    "Ncuti Gatwa",
+    "Russell T Davies"
+  ],
+  "slug": "doctor-who-retorno-billie-piper-2026",
+  "categorias": [
+    {
+      "nome": "Doctor Who",
+      "grupo": "franquias",
+      "evidence": "Doctor Who is back"
+    },
+    {
+      "nome": "BBC",
+      "grupo": "editorias",
+      "evidence": "The BBC has confirmed"
+    }
+  ],
+  "tags_sugeridas": [
+    "doctor-who",
+    "billie-piper",
+    "ncuti-gatwa",
+    "russell-t-davies",
+    "bbc",
+    "especial-de-natal",
+    "sci-fi"
+  ],
+  "image_alt_texts": {
+    "doctor-who_tai9pf-cropped.jpg": "A Doutora se regenerando como Billie Piper em Doctor Who.",
+    "untitled-2025-06-04t110635-329.jpg": "Ncuti Gatwa como o Décimo Quinto Doutor em Doctor Who.",
+    "03221152_poster_w780.jpg": "Poster oficial da série Doctor Who."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Doctor Who: Retorno de Billie Piper em 2026 pode ser temporário",
+    "_yoast_wpseo_metadesc": "Doctor Who confirma retorno em 2026 com especial de Natal. Entenda por que a volta de Billie Piper pode ser temporária e o plano da BBC para o futuro.",
+    "_yoast_wpseo_focuskw": "Doctor Who",
+    "_yoast_news_keywords": "Doctor Who, Billie Piper, Ncuti Gatwa, Russell T Davies, BBC, Especial de Natal, Sci-Fi",
+    "_yoast_wpseo_opengraph-title": "Doctor Who: Retorno de Billie Piper em 2026 pode ser temporário",
+    "_yoast_wpseo_opengraph-description": "Doctor Who confirma retorno em 2026 com especial de Natal. Entenda por que a volta de Billie Piper pode ser temporária e o plano da BBC para o futuro.",
+    "_yoast_wpseo_twitter-title": "Doctor Who: Retorno de Billie Piper em 2026 pode ser temporário",
+    "_yoast_wpseo_twitter-description": "Doctor Who confirma retorno em 2026 com especial de Natal. Entenda por que a volta de Billie Piper pode ser temporária e o plano da BBC para o futuro."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Star Wars: Adam Driver revela plano cancelado de filme sobre Kylo Ren",
+      "conteudo_final": "<p>Adam Driver, intérprete de Kylo Ren na saga <strong>Star Wars</strong>, revelou em entrevista que ele e o diretor Steven Soderbergh desenvolveram por dois anos um roteiro para um filme derivado focado em Ben Solo. A Disney, no entanto, rejeitou a ideia.</p><h2>O Plano para \"The Hunt for Ben Solo\"</h2><p>Durante a promoção do filme <em>Father Mother Sister Brother</em>, Driver contou que o projeto, intitulado <em>The Hunt for Ben Solo</em>, foi apresentado à Lucasfilm e recebeu aprovação inicial. A equipe criativa considerou a ideia \"uma das melhores do universo Star Wars\". Contudo, a cúpula da Disney, liderada por Bob Iger e Alan Bergman na época, vetou o projeto, pois não via como o personagem Ben Solo poderia estar vivo após os eventos de <em>Star Wars: A Ascensão Skywalker</em>.</p><p>O ator expressou frustração com a decisão, mas afirmou que agora pode falar abertamente sobre o projeto cancelado. Driver, que interpretou o complexo vilão/anti-herói, demonstrou interesse em retornar ao universo <strong>Star Wars</strong> desde 2021, caso houvesse uma boa história e um diretor de destaque.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/kylo-ren-star-wars.jpg?w=1024\" alt=\"Adam Driver como Kylo Ren em Star Wars\"><figcaption>Adam Driver como Kylo Ren em Star Wars: A Ascensão Skywalker.</figcaption></figure><h2>O Potencial Perdido de Kylo Ren</h2><p>Steven Soderbergh também lamentou a não realização do filme, descrevendo a experiência de imaginar a produção como algo prazeroso. A cancelamento do filme sobre Ben Solo é vista por muitos fãs como uma oportunidade perdida, especialmente considerando o impacto e a complexidade do personagem na mais recente trilogia. A expectativa é que a ausência de novos projetos de Kylo Ren não prejudique a recepção da nova era de <strong>Star Wars</strong> sob a gestão da Disney.</p><p>Fãs do personagem lamentam a decisão, argumentando que uma história focada em Ben Solo poderia ter aprofundado um dos aspectos mais criticados do final da trilogia, que foi a resolução apressada de seu arco narrativo. A possibilidade de ver mais do conflito interno de Ben Solo agrada muitos entusiastas da saga.</p>",
+      "meta_description": "Adam Driver confirmou que ele e Steven Soderbergh criaram um roteiro para um filme de Star Wars focado em Kylo Ren, mas a Disney cancelou o projeto.",
+      "focus_keyphrase": "filme de Kylo Ren cancelado",
+      "related_keyphrases": [
+        "Adam Driver Ben Solo",
+        "Star Wars spin-off",
+        "Disney cancela filme"
+      ],
+      "slug": "star-wars-filme-kylo-ren-cancelado",
+      "categorias": [
+        {
+          "nome": "Star Wars",
+          "grupo": "franquias",
+          "evidence": "<a href=\"https://comicbook.com/category/starwars/\">Star Wars</a>"
+        },
+        {
+          "nome": "Kylo Ren",
+          "grupo": "personagens",
+          "evidence": "Kylo Ren"
+        },
+        {
+          "nome": "Ben Solo",
+          "grupo": "personagens",
+          "evidence": "Ben Solo"
+        }
+      ],
+      "tags_sugeridas": [
+        "star wars",
+        "kylo ren",
+        "ben solo",
+        "adam driver",
+        "disney",
+        "lucasfilm",
+        "steven soderbergh"
+      ],
+      "image_alt_texts": {
+        "kylo-ren-star-wars.jpg": "Adam Driver como Kylo Ren em Star Wars: A Ascensão Skywalker."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Adam Driver revela plano cancelado de filme sobre Kylo Ren",
+        "_yoast_wpseo_metadesc": "Adam Driver confirmou que ele e Steven Soderbergh criaram um roteiro para um filme de Star Wars focado em Kylo Ren, mas a Disney cancelou o projeto.",
+        "_yoast_wpseo_focuskw": "filme de Kylo Ren cancelado",
+        "_yoast_news_keywords": "Star Wars, Kylo Ren, Ben Solo, Adam Driver, Disney, Lucasfilm, Steven Soderbergh",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Adam Driver revela plano cancelado de filme sobre Kylo Ren",
+        "_yoast_wpseo_opengraph-description": "Adam Driver confirmou que ele e Steven Soderbergh criaram um roteiro para um filme de Star Wars focado em Kylo Ren, mas a Disney cancelou o projeto.",
+        "_yoast_wpseo_twitter-title": "Star Wars: Adam Driver revela plano cancelado de filme sobre Kylo Ren",
+        "_yoast_wpseo_twitter-description": "Adam Driver confirmou que ele e Steven Soderbergh criaram um roteiro para um filme de Star Wars focado em Kylo Ren, mas a Disney cancelou o projeto."
+      }
+    },
+    {
+      "titulo_final": "5 Grandes Filmes Sem Mortes: \"Os Outros\" e \"Challengers\" em destaque",
+      "conteudo_final": "<p>Em um universo cinematográfico onde mortes frequentemente pontuam narrativas e criam momentos dramáticos, alguns filmes se destacam por apresentarem histórias envolventes sem que nenhum personagem venha a óbito. Essa raridade demonstra que a ausência de falecimentos não diminui o impacto emocional ou a qualidade de uma obra. De romances a suspenses psicológicos, confira cinco produções notáveis que provam que é possível contar histórias cativantes sem recorrer a mortes.</p><h2>Filmes que Subvertem Expectativas</h2><p>A maioria dos filmes contém pelo menos uma morte, tornando desafiador encontrar aqueles que fogem a essa regra. No entanto, alguns títulos excepcionais conseguem esse feito. Seja na tela ou fora dela, o tema da morte costuma ser um pilar para o desenvolvimento de tramas e momentos emocionantes. Mas as melhores produções que evitam essa temática confirmam que tais pontos de virada não são essenciais para uma narrativa comovente.</p><p>Os filmes a seguir não apresentam nenhuma morte de personagem em suas histórias, e estão entre os melhores exemplos desse critério.</p><h2>5) Os Outros (2001)</h2><p>Um dos poucos <strong>filmes de terror</strong> em que ninguém morre, “Os Outros” justifica essa peculiaridade pelo fato de a maioria de seus personagens já estarem mortos no início da trama. Uma reviravolta surpreendente revela que a viúva e seus dois filhos, que acreditavam estar sendo assombrados por uma presença sobrenatural, são, na verdade, os fantasmas. O suspense psicológico construído por meio de pistas sutis ao longo do filme o torna uma experiência cativante.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/the-others-movie-nicole-kidman-and-child.jpg?w=1024\" alt=\"Nicole Kidman e crianças em Os Outros\"><figcaption>Nicole Kidman e as crianças em uma cena de Os Outros.</figcaption></figure><h2>4) Amor à Flor da Pele (2000)</h2><p>Muitos <strong>filmes românticos</strong> optam por não incluir mortes, e “Amor à Flor da Pele” é um dos melhores exemplos do gênero. Uma história de amor lenta e envolvente, o filme se destaca pela química impecável entre os protagonistas, roteiro e direção magistrais. A trilha sonora vibrante mantém a atmosfera encantadora, enquanto dois estranhos se aproximam ao descobrir os casos extraconjugais de seus cônjuges e desenvolver sentimentos um pelo outro. As atuações de Maggie Cheung e Tony Leung Chiu-wai elevam ainda mais a excelência do filme, que prende a atenção do espectador do início ao fim.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/in-the-mood-for-love-movie-maggie-cheung-tony-leung-still.jpg?w=1024\" alt=\"Maggie Cheung e Tony Leung Chiu-wai em Amor à Flor da Pele\"><figcaption>Maggie Cheung e Tony Leung Chiu-wai em Amor à Flor da Pele.</figcaption></figure><h2>3) 12 Homens e Uma Sentença (1957)</h2><p>“12 Homens e Uma Sentença” gira em torno de um assassinato, mas a trama foca inteiramente na tensa deliberação de um júri durante o julgamento subsequente. Quase inteiramente ambientado em uma pequena sala, onde os 12 jurados debatem a culpa do réu, o filme é envolvente do começo ao fim. O enredo conciso é sustentado por diálogos afiados e atuações brilhantes, especialmente de Henry Fonda e Lee J. Cobb. A conversa dos jurados, com suas perspectivas, teorias e vieses, transforma a premissa instigante em uma guerra de vontades.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/12-angry-men-movie-jurors-standing-together.jpg?w=1024\" alt=\"O júri em 12 Homens e Uma Sentença\"><figcaption>Os jurados em uma tensa reunião em 12 Homens e Uma Sentença.</figcaption></figure><h2>2) Desafiadores (2024)</h2><p>“Challengers” é uma fusão emocionante de esporte e romance que fãs de cinema não sabiam que precisavam. O filme de Luca Guadagnino não apresenta mortes, mas a intensa rivalidade no tênis e o triângulo amoroso apaixonado entre os três personagens entregam uma dose considerável de drama. A narrativa cativante é elevada pelo humor bem executado e uma trilha sonora eletrizante. Zendaya, Mike Faist e Josh O’Connor brilham como protagonistas, exibindo uma demonstração magistral de tensão romântica e fogo competitivo. A ausência de mortes em “Challengers” contribui para que este filme seja um dos melhores lançamentos da década.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/challengers-movie-josh-oconnor-zendaya-red-light.jpg?w=1024\" alt=\"Zendaya, Mike Faist e Josh O’Connor em Desafiadores\"><figcaption>Zendaya, Mike Faist e Josh O’Connor em Desafiadores.</figcaption></figure><h2>1) Retrato de uma Jovem em Chamas (2019)</h2><p>“Retrato de uma Jovem em Chamas” supera outros filmes de romance de época e não envolve nenhuma morte de personagem. A trama hipnotizante sobre o relacionamento proibido entre uma noiva relutante e a artista encarregada de pintar seu retrato é muito mais profunda do que apenas o conceito de amor proibido. O filme examina poderosamente o valor da perspectiva e representa de forma convincente o desejo e a memória através dos olhos de suas personagens principais. A narrativa se desenvolve lentamente, mas o impacto emocional é gratificante. Tematicamente rico, visualmente deslumbrante e excepcionalmente interpretado por Adèle Haenel e Noémie Merlant, é o melhor filme que não retrata mortes.</p><figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/portrait-of-a-lady-on-fire-movie-still.jpg?w=1024\" alt=\"Cena de Retrato de Uma Jovem em Chamas\"><figcaption>Uma cena do filme Retrato de Uma Jovem em Chamas.</figcaption></figure>",
+      "meta_description": "Descubra 5 filmes aclamados, como \"Os Outros\" e \"Challengers\", que contam histórias emocionantes e envolventes sem nenhuma morte de personagem.",
+      "focus_keyphrase": "filmes sem mortes",
+      "related_keyphrases": [
+        "cinema sem violência",
+        "filmes com finais felizes",
+        "histórias sem óbitos"
+      ],
+      "slug": "grandes-filmes-sem-mortes",
+      "categorias": [
+        {
+          "nome": "Os Outros",
+          "grupo": "obras",
+          "evidence": "Os Outros (2001)"
+        },
+        {
+          "nome": "Amor à Flor da Pele",
+          "grupo": "obras",
+          "evidence": "In the Mood for Love (2000)"
+        },
+        {
+          "nome": "12 Homens e Uma Sentença",
+          "grupo": "obras",
+          "evidence": "12 Angry Men (1957)"
+        },
+        {
+          "nome": "Desafiadores",
+          "grupo": "obras",
+          "evidence": "Challengers (2024)"
+        },
+        {
+          "nome": "Retrato de Uma Jovem em Chamas",
+          "grupo": "obras",
+          "evidence": "Portrait of a Lady on Fire (2019)"
+        }
+      ],
+      "tags_sugeridas": [
+        "filmes sem mortes",
+        "os outros",
+        "amor à flor da pele",
+        "12 homens e uma sentença",
+        "desafiadores",
+        "retrato de uma jovem em chamas",
+        "drama"
+      ],
+      "image_alt_texts": {
+        "the-others-movie-nicole-kidman-and-child.jpg": "Nicole Kidman e crianças em Os Outros.",
+        "in-the-mood-for-love-movie-maggie-cheung-tony-leung-still.jpg": "Maggie Cheung e Tony Leung Chiu-wai em Amor à Flor da Pele.",
+        "12-angry-men-movie-jurors-standing-together.jpg": "Os jurados em uma tensa reunião em 12 Homens e Uma Sentença.",
+        "challengers-movie-josh-oconnor-zendaya-red-light.jpg": "Zendaya, Mike Faist e Josh O’Connor em Desafiadores.",
+        "portrait-of-a-lady-on-fire-movie-still.jpg": "Uma cena do filme Retrato de Uma Jovem em Chamas."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "5 Grandes Filmes Sem Mortes: \"Os Outros\" e \"Challengers\" em destaque",
+        "_yoast_wpseo_metadesc": "Descubra 5 filmes aclamados, como \"Os Outros\" e \"Challengers\", que contam histórias emocionantes e envolventes sem nenhuma morte de personagem.",
+        "_yoast_wpseo_focuskw": "filmes sem mortes",
+        "_yoast_news_keywords": "filmes sem mortes, os outros, amor à flor da pele, 12 homens e uma sentença, desafiadores, retrato de uma jovem em chamas, drama",
+        "_yoast_wpseo_opengraph-title": "5 Grandes Filmes Sem Mortes: \"Os Outros\" e \"Challengers\" em destaque",
+        "_yoast_wpseo_opengraph-description": "Descubra 5 filmes aclamados, como \"Os Outros\" e \"Challengers\", que contam histórias emocionantes e envolventes sem nenhuma morte de personagem.",
+        "_yoast_wpseo_twitter-title": "5 Grandes Filmes Sem Mortes: \"Os Outros\" e \"Challengers\" em destaque",
+        "_yoast_wpseo_twitter-description": "Descubra 5 filmes aclamados, como \"Os Outros\" e \"Challengers\", que contam histórias emocionantes e envolventes sem nenhuma morte de personagem."
+      }
+    }
+  ]
+}

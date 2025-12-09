@@ -1,0 +1,49 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Millie Bobby Brown revela ranking polêmico das temporadas de Stranger Things",
+      "conteudo_final": "<p>A atriz Millie Bobby Brown, intérprete de Eleven em <strong>Stranger Things</strong>, compartilhou seu ranking pessoal das temporadas da série, gerando discussões entre os fãs. A declaração foi feita durante uma entrevista à <em>Vanity Fair</em>.</p><h2>O Ranking de Millie Bobby Brown</h2><p>Ao lado de outros membros do elenco, como Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink e Finn Wolfhard, Brown classificou as temporadas da seguinte forma:</p><ol><li>Temporada 1</li><li>Temporada 5</li><li>Temporada 3</li><li>Temporada 4</li><li>Temporada 2</li></ol><p>A atriz justificou sua escolha, destacando o fator nostalgia da primeira temporada e o impacto geral da quinta. \"A temporada um, em termos de nostalgia, é minha favorita. Pessoalmente, foi o momento mais emocionante da minha vida. Mas a temporada cinco, a forma como está, como se sente, o enredo – tudo isso é meu favorito\", explicou.</p><h2>Reações do Elenco e Críticas</h2><p>A classificação de Brown não foi unanimidade entre os colegas. Noah Schnapp discordou, afirmando que a segunda temporada recebe \"muita crítica injusta\", opinião compartilhada por Gaten Matarazzo, que a descreveu como uma \"temporada subestimada\".</p><p>O episódio 7 da segunda temporada, intitulado \"A Irmã Perdida\", é frequentemente citado como o mais fraco da série, recebendo avaliações ruins e críticas pelo diálogo. No entanto, a quinta temporada, volume 1, já trouxe de volta a personagem Eight/Kali, interpretada por Linnea Berthelsen, que estava sendo mantida refém pelos militares no Mundo Invertido.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Eleven encontrando Kali em Stranger Things temporada 5" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="928" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/eleven-finding-kali-in-stranger-things-season-5.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Eleven reencontra Kali em um momento crucial da quinta temporada de Stranger Things. (Imagem: Netflix)</figcaption></figure><h2>Recepção e Impacto da Série</h2><p>Apesar de algumas críticas mistas, o volume 1 da quinta temporada de <em>Stranger Things</em> alcançou o episódio mais bem avaliado da série no IMDb, com o episódio 4, \"Sorcerer\", recebendo uma nota 9.8/10. A série se consolidou como um fenômeno global, <strong>gerando mais de US$ 1 bilhão em receita para a Netflix</strong>.</p><p>O lançamento de novos episódios frequentemente causa picos de acesso na plataforma, chegando a derrubar o site em ocasiões anteriores. O volume 1 da quinta temporada já está disponível na Netflix, com o volume 2 previsto para 25 de dezembro e o final da série em 31 de dezembro.</p>",
+      "meta_description": "Millie Bobby Brown, a Eleven de Stranger Things, revela seu ranking polêmico das temporadas da série. Saiba qual temporada ela considera a favorita e as reações do elenco.",
+      "focus_keyphrase": "Millie Bobby Brown ranking temporadas Stranger Things",
+      "related_keyphrases": [
+        "ranking Stranger Things Millie Bobby Brown",
+        "temporadas Stranger Things",
+        "Millie Bobby Brown Eleven"
+      ],
+      "slug": "millie-bobby-brown-ranking-temporadas-stranger-things",
+      "categorias": [
+        {
+          "nome": "Stranger Things",
+          "grupo": "franquias",
+          "evidence": "Stranger Things season 5, volume 1, has been released, and the stars have been sharing their thoughts on the season so far."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "Volume 1 of Stranger Things season 5 is now available on Netflix."
+        }
+      ],
+      "tags_sugeridas": [
+        "Stranger Things",
+        "Millie Bobby Brown",
+        "Eleven",
+        "Netflix",
+        "Vanity Fair",
+        "ranking de temporadas"
+      ],
+      "image_alt_texts": {
+        "eleven-finding-kali-in-stranger-things-season-5.jpg": "Millie Bobby Brown como Eleven encontrando Kali em uma cena da quinta temporada de Stranger Things."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Millie Bobby Brown revela ranking polêmico das temporadas de Stranger Things",
+        "_yoast_wpseo_metadesc": "Millie Bobby Brown, a Eleven de Stranger Things, revela seu ranking polêmico das temporadas da série. Saiba qual temporada ela considera a favorita e as reações do elenco.",
+        "_yoast_wpseo_focuskw": "Millie Bobby Brown ranking temporadas Stranger Things",
+        "_yoast_news_keywords": "Stranger Things, Millie Bobby Brown, Eleven, Netflix, Vanity Fair, ranking de temporadas, Duffer Brothers",
+        "_yoast_wpseo_opengraph-title": "Millie Bobby Brown revela ranking polêmico das temporadas de Stranger Things",
+        "_yoast_wpseo_opengraph-description": "Millie Bobby Brown, a Eleven de Stranger Things, revela seu ranking polêmico das temporadas da série. Saiba qual temporada ela considera a favorita e as reações do elenco.",
+        "_yoast_wpseo_twitter-title": "Millie Bobby Brown revela ranking polêmico das temporadas de Stranger Things",
+        "_yoast_wpseo_twitter-description": "Millie Bobby Brown, a Eleven de Stranger Things, revela seu ranking polêmico das temporadas da série. Saiba qual temporada ela considera a favorita e as reações do elenco."
+      }
+    }
+  ]
+}

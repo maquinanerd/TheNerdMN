@@ -1,0 +1,148 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Task 2ª Temporada: Criador da Série da HBO dá novidades empolgantes",
+      "conteudo_final": "<p>A série <strong><em>Task</em></strong>, um thriller policial da HBO, acaba de receber uma atualização animadora de seu criador e showrunner, Brad Ingelsby. A produção, que estreou em setembro de 2025, acompanha um agente do FBI na Filadélfia investigando uma série de assaltos a bancos realizados por um homem aparentemente comum, que tem como alvo gangues de traficantes. A primeira temporada, composta por sete episódios, está caminhando para seu desfecho.</p>\n\n<h2>Crítica e Recepção</h2>\n<p>Desde seu lançamento, <em>Task</em> tem sido aclamada pela crítica especializada por seu trabalho de personagens, realismo cru e comentários sociais. A série já foi comparada a outro drama criminal de sucesso de Ingelsby, <em>Mare of Easttown</em>. Apesar de a primeira temporada estar chegando ao fim, o universo da série oferece potencial para novas histórias em temporadas futuras.</p>\n\n<figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/03199142_poster_w780-1.jpg?q=70&amp;fit=contain&amp;w=480&amp;dpr=1\" alt=\"Pôster da série Task.\"><figcaption>O pôster da série Task indica o tom sombrio da produção.</figcaption></figure>\n\n<h2>Atualização sobre a Segunda Temporada</h2>\n<p>Em uma entrevista recente, Ingelsby expressou seu desejo de produzir uma segunda temporada de <em>Task</em>. Ele afirmou que adoraria contar mais histórias dentro desse universo, desde que o público continue receptivo. O criador destacou seu apreço pela televisão como um meio que permite a exploração profunda de personagens, algo que ele considera seu ponto forte, em contraste com a escrita de tramas complexas, o que o leva a preferir o formato de séries para desenvolver múltiplos personagens, como os Grasso, Lizzie e Aleah.</p>\n\n<blockquote>\n<p>“Eu adoraria fazer outra temporada de Task. Se as pessoas responderem a Task e continuarem respondendo a Task, eu adoraria contar mais histórias sobre este lugar, porque adoro escrever sobre este lugar. Sinto que tenho mais histórias para contar. O que eu amo na TV é quantos personagens você pode explorar. Eu realmente me vejo como um escritor de personagens, não um grande escritor de tramas. Você pode explorar os Grassos, as Lizzies e as Aleahs. Se eu fosse fazer um filme, a menos que fosse Robert Altman, eu simplesmente não conseguiria abordar tantos personagens.”</p>\n</blockquote>\n\n<p>Essas declarações de Ingelsby são bastante promissoras e indicam que um planejamento, mesmo que inicial, para <em>Task</em> temporada 2 já existe em sua mente. No entanto, é importante lembrar que Ingelsby já demonstrou interesse em uma continuação para <em>Mare of Easttown</em>, que ainda não se concretizou. A série atualmente possui uma aprovação de 95% no Rotten Tomatoes.</p>\n\n<p>Embora <em>Task</em> seja uma minissérie e o episódio 6 tenha encerrado de forma bastante conclusiva o arco principal da temporada, ainda há muito a ser explorado com o personagem do agente do FBI Tom Brandis, interpretado por Mark Ruffalo, e sua força-tarefa. O desenvolvimento de uma segunda temporada dependerá da convicção de Ingelsby de que existe uma história forte o suficiente para justificar a expansão.</p>\n\n<p>Um dos pontos fortes de <em>Task</em> é justamente ser uma série limitada, com jornadas de história e personagens contidas em uma única temporada, proporcionando uma narrativa completa do início ao fim. O risco de uma nova temporada seria perder parte da magia que caracteriza uma minissérie.</p>\n\n<p>Com um episódio final ainda a ser exibido, existe a possibilidade de Ingelsby concluir a série de uma forma que justifique e prepare o terreno para uma segunda temporada. Isso poderia trazer um futuro emocionante para a produção e, quem sabe, reavivar a possibilidade de mais episódios de <em>Mare of Easttown</em>.</p>",
+      "meta_description": "Criador de 'Task', série da HBO, Brad Ingelsby revela empolgantes novidades sobre a possibilidade de uma segunda temporada. Saiba mais!",
+      "focus_keyphrase": "Task 2ª temporada",
+      "related_keyphrases": [
+        "série Task HBO",
+        "Brad Ingelsby",
+        "continuação Task"
+      ],
+      "slug": "task-2-temporada-atualizacao",
+      "categorias": [
+        {
+          "nome": "Task",
+          "grupo": "obras",
+          "evidence": "<strong><em>Task</em></strong> season 2 has received an exciting update from creator and showrunner Brad Ingelsby."
+        },
+        {
+          "nome": "HBO",
+          "grupo": "editorias",
+          "evidence": "Debuting on HBO Max in September 2025"
+        }
+      ],
+      "tags_sugeridas": [
+        "Task",
+        "HBO",
+        "Brad Ingelsby",
+        "Mark Ruffalo",
+        "Thriller"
+      ],
+      "image_alt_texts": {
+        "03199142_poster_w780-1.jpg": "Pôster da série Task.",
+        "mark-ruffalo-and-allison-oliver-hold-guns-as-they-approach-a-crime-scene-in-task.jpg": "Mark Ruffalo e Allison Oliver portam armas em cena de crime na série Task.",
+        "mark-ruffalo-in-hbo-s-task.jpg": "Mark Ruffalo em cena da série Task da HBO.",
+        "tom-pelphrey-as-robbie-getting-into-a-car-in-task.jpg": "Tom Pelphrey como Robbie entrando em um carro na série Task.",
+        "mark-ruffalo-looking-suspicious-in-task.jpg": "Mark Ruffalo com olhar de suspeita na série Task.",
+        "alison-oliver-in-task-episode-2.jpg": "Alison Oliver em cena do episódio 2 da série Task."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Task 2ª Temporada: Criador dá novidades empolgantes sobre a série da HBO",
+        "_yoast_wpseo_metadesc": "Criador de 'Task', série da HBO, Brad Ingelsby revela empolgantes novidades sobre a possibilidade de uma segunda temporada. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Task 2ª temporada",
+        "_yoast_news_keywords": "Task, HBO, Brad Ingelsby, Mark Ruffalo, Thriller, Série",
+        "_yoast_wpseo_opengraph-title": "Task 2ª Temporada: Criador dá novidades empolgantes sobre a série da HBO",
+        "_yoast_wpseo_opengraph-description": "Criador de 'Task', série da HBO, Brad Ingelsby revela empolgantes novidades sobre a possibilidade de uma segunda temporada. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Task 2ª Temporada: Criador dá novidades empolgantes sobre a série da HBO",
+        "_yoast_wpseo_twitter-description": "Criador de 'Task', série da HBO, Brad Ingelsby revela empolgantes novidades sobre a possibilidade de uma segunda temporada. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "The Beast in Me: Trailer da série da Netflix com Claire Danes",
+      "conteudo_final": "<p>A Netflix divulgou o trailer oficial e o pôster de <strong><em>The Beast in Me</em></strong>, nova série de suspense que une <strong>Claire Danes</strong>, conhecida por <em>Homeland</em>, e <strong>Matthew Rhys</strong>, de <em>The Americans</em>. A produção, que chega ao streaming em 13 de novembro, promete manter os espectadores em suspense até o último momento.</p>\n\n<h2>A Trama de 'The Beast in Me'</h2>\n<p>Na trama, Danes interpreta Aggie Wiggs, uma famosa autora que busca respostas e inspiração após passar por um trauma significativo com a morte de seu filho. Ela se muda para ficar isolada, mas sua vida muda com a chegada de um novo vizinho, Nile Jarvis (Rhys). Jarvis possui um passado sombrio e misterioso, sendo apontado por muitos como o responsável pelo desaparecimento de sua própria esposa. Uma conexão inesperada surge entre eles, mas Aggie logo se depara com possibilidades aterrorizantes sobre Jarvis e sobre si mesma.</p>\n\n<figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/10/en-us_thebeastinme_windowwindow_vka_27x40_srgb_pre.jpg\" alt=\"Pôster da série The Beast in Me.\"><figcaption>O pôster de The Beast in Me anuncia a chegada da série da Netflix.</figcaption></figure>\n\n<h2>Equipe Criativa e Elenco</h2>\n<p><em>The Beast in Me</em> marca o reencontro de Claire Danes com <strong>Howard Gordon</strong>, showrunner, roteirista e produtor executivo, com quem trabalhou na aclamada série <em>Homeland</em>. Gordon também é conhecido por seu trabalho em <em>The X-Files</em> e <em>24 Horas</em>. Além de estrelar, Danes também atua como produtora executiva, ao lado de Gordon, do diretor Antonio Campos (<em>The Staircase</em>) e do criador e roteirista Gabe Rotter (<em>The X-Files</em>).</p>\n\n<p>O elenco de apoio é igualmente impressionante e inclui Brittany Snow (<em>The Hunting Wives</em>), Natalie Morales (<em>The Morning Show</em>), Jonathan Banks (<em>Better Call Saul</em>), Tim Guinee (<em>Stargate SG-1</em>), Deirdre O’Connell (<em>The Penguin</em>), David Lyons (<em>Game of Silence</em>), Hettienne Park (<em>Hannibal</em>), Will Brill (<em>The Marvelous Mrs. Maisel</em>), Amir Arison (<em>The Blacklist</em>), Aleyse Shannon (<em>Black Christmas</em>), Bill Irwin (<em>Lady in the Water</em>), Julie Ann Emery (<em>Better Call Saul</em>) e a duas vezes vencedora do Oscar, Jodie Foster.</p>\n\n<p>A série terá todos os seus oito episódios lançados de uma vez, proporcionando uma experiência ideal para maratonar.</p>\n\n<p>Confira o trailer oficial acima e assista a <em>The Beast in Me</em> na Netflix a partir de 13 de novembro.</p>",
+      "meta_description": "Claire Danes e Matthew Rhys estrelam 'The Beast in Me', novo suspense da Netflix com trailer divulgado. Série estreia em 13 de novembro. Veja!",
+      "focus_keyphrase": "The Beast in Me",
+      "related_keyphrases": [
+        "série Netflix suspense",
+        "Claire Danes Matthew Rhys",
+        "trailer The Beast in Me"
+      ],
+      "slug": "the-beast-in-me-trailer-netflix",
+      "categorias": [
+        {
+          "nome": "The Beast in Me",
+          "grupo": "obras",
+          "evidence": "its upcoming gripping series, <a href=\"https://collider.com/jodie-foster-a-private-life-rebecca-zlotowski/\">The Beast in Me</a>."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix’s debut trailer and poster"
+        },
+        {
+          "nome": "Homeland",
+          "grupo": "obras",
+          "evidence": "Danes’ Aggie Wiggs is looking for answers and maybe even some inspiration at the beginning of the trailer for The Beast in Me."
+        }
+      ],
+      "tags_sugeridas": [
+        "The Beast in Me",
+        "Netflix",
+        "Claire Danes",
+        "Matthew Rhys",
+        "Suspense",
+        "Howard Gordon"
+      ],
+      "image_alt_texts": {
+        "en-us_thebeastinme_windowwindow_vka_27x40_srgb_pre.jpg": "Pôster da série The Beast in Me."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Beast in Me: Trailer da série da Netflix com Claire Danes e Matthew Rhys",
+        "_yoast_wpseo_metadesc": "Claire Danes e Matthew Rhys estrelam 'The Beast in Me', novo suspense da Netflix com trailer divulgado. Série estreia em 13 de novembro. Veja!",
+        "_yoast_wpseo_focuskw": "The Beast in Me",
+        "_yoast_news_keywords": "The Beast in Me, Netflix, Claire Danes, Matthew Rhys, Suspense, Howard Gordon, Gabe Rotter",
+        "_yoast_wpseo_opengraph-title": "The Beast in Me: Trailer da série da Netflix com Claire Danes e Matthew Rhys",
+        "_yoast_wpseo_opengraph-description": "Claire Danes e Matthew Rhys estrelam 'The Beast in Me', novo suspense da Netflix com trailer divulgado. Série estreia em 13 de novembro. Veja!",
+        "_yoast_wpseo_twitter-title": "The Beast in Me: Trailer da série da Netflix com Claire Danes e Matthew Rhys",
+        "_yoast_wpseo_twitter-description": "Claire Danes e Matthew Rhys estrelam 'The Beast in Me', novo suspense da Netflix com trailer divulgado. Série estreia em 13 de novembro. Veja!"
+      }
+    },
+    {
+      "titulo_final": "Chicago Med: Torrey DeVitto aberta a retornar para a série da NBC",
+      "conteudo_final": "<p>A atriz Torrey DeVitto demonstrou abertura para um retorno à série <strong><em>Chicago Med</em></strong>, onde interpretou a Dra. Natalie Manning. Sua personagem fez uma breve aparição no terceiro episódio da 11ª temporada, intitulado \"Horseshoes and Hand Grenades\", após anos afastada. A atriz revelou que, apesar de morar em Michigan em tempo integral, o set da série é como uma \"segunda casa\" para ela.</p>\n\n<p>DeVitto comentou sua participação especial em entrevista, classificando-a como agridoce. Ela confirmou que sua aparição foi a última \"por enquanto\", mas deixou as portas abertas para futuras participações. \"Eu me divirto tanto naquele set e vivo em Michigan em tempo integral agora, então é como se eu sempre estivesse aberta a voltar. É como uma segunda casa e me divertir tanto quanto me diverti agora; estar de volta, eu estaria sempre aberta a voltar.\", declarou a atriz.</p>\n\n<h2>O Retorno de Natalie Manning</h2>\n<p>Natalie Manning retornou a Chicago sob circunstâncias dramáticas. Sua volta foi motivada por uma ligação sobre seu filho, Owen, que havia sido baleado. No episódio, Will Halstead, que se tornou namorado de Natalie, levou Owen para um jogo do Bears. Durante um incidente no hospital, quando uma paciente tentava recuperar drogas escondidas, o menino foi pego no fogo cruzado e baleado. A situação se complicou ainda mais quando Owen precisou de um transplante de rim, e Natalie, apesar de estar grávida, insistiu em ser a doadora.</p>\n\n<figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/01/0321718_poster_w780-1.jpg\" alt=\"Imagem promocional da série Chicago Med.\"><figcaption>A série Chicago Med continua a explorar tramas emocionantes.</figcaption></figure>\n\n<h2>O Retorno de Will Halstead e Owen</h2>\n<p>Na semana anterior, a série já havia contado com o retorno de Nick Gehlfuss como Dr. Will Halstead. Ele voltou à cidade com Owen, mas a relação entre os dois não era simples. Gehlfuss mencionou que Will enfrentava dificuldades para se conectar com o garoto. No entanto, no final de \"Horseshoes and Hand Grenades\", a dinâmica familiar se fortalece quando Will expressa, através de uma nota, o desejo de adotar legalmente Owen, com o menino concordando.</p>\n\n<p><em>Chicago Med</em> é exibida às quartas-feiras, às 20h (horário de Brasília), pela NBC, e o conteúdo fica disponível no dia seguinte no serviço de streaming Peacock.</p>",
+      "meta_description": "Torrey DeVitto, a Dra. Natalie Manning, mostra interesse em retornar para 'Chicago Med' após aparição emocionante. Veja detalhes sobre seu futuro na série.",
+      "focus_keyphrase": "Chicago Med Torrey DeVitto",
+      "related_keyphrases": [
+        "Chicago Med retorno Natalie",
+        "Dra. Natalie Manning NBC",
+        "Will Halstead Owen"
+      ],
+      "slug": "chicago-med-torrey-devitto-retorno",
+      "categorias": [
+        {
+          "nome": "Chicago Med",
+          "grupo": "obras",
+          "evidence": "Last night, <a href=\"https://collider.com/tag/chicago-med/\">Chicago Med</a> saw the return of another fan-favorite"
+        },
+        {
+          "nome": "NBC",
+          "grupo": "editorias",
+          "evidence": "Chicago Med airs on Wednesdays at 8/7c on NBC"
+        }
+      ],
+      "tags_sugeridas": [
+        "Chicago Med",
+        "Torrey DeVitto",
+        "Natalie Manning",
+        "NBC",
+        "Will Halstead",
+        "Série Médica"
+      ],
+      "image_alt_texts": {
+        "0321718_poster_w780-1.jpg": "Imagem promocional da série Chicago Med."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Chicago Med: Torrey DeVitto aberta a retornar para a série da NBC",
+        "_yoast_wpseo_metadesc": "Torrey DeVitto, a Dra. Natalie Manning, mostra interesse em retornar para 'Chicago Med' após aparição emocionante. Veja detalhes sobre seu futuro na série.",
+        "_yoast_wpseo_focuskw": "Chicago Med Torrey DeVitto",
+        "_yoast_news_keywords": "Chicago Med, Torrey DeVitto, Natalie Manning, NBC, Will Halstead, Série Médica",
+        "_yoast_wpseo_opengraph-title": "Chicago Med: Torrey DeVitto aberta a retornar para a série da NBC",
+        "_yoast_wpseo_opengraph-description": "Torrey DeVitto, a Dra. Natalie Manning, mostra interesse em retornar para 'Chicago Med' após aparição emocionante. Veja detalhes sobre seu futuro na série.",
+        "_yoast_wpseo_twitter-title": "Chicago Med: Torrey DeVitto aberta a retornar para a série da NBC",
+        "_yoast_wpseo_twitter-description": "Torrey DeVitto, a Dra. Natalie Manning, mostra interesse em retornar para 'Chicago Med' após aparição emocionante. Veja detalhes sobre seu futuro na série."
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Ninguém Quer Isto 2: O Fim de Joanne e Noah Explicado pela Criadora",
+      "conteudo_final": "<p>A criadora de <b>Ninguém Quer Isto</b>, Erin Foster, e a estrela Kristen Bell desvendaram o final da segunda temporada, focando na decisão de conversão de Joanne e no status de seu relacionamento com Noah.</p><h2>A Conversão de Joanne</h2><p>Ao longo da segunda temporada, Joanne (Kristen Bell) confronta a ideia de se converter ao judaísmo, um ponto crucial em seu relacionamento com Noah (Adam Brody). A decisão de não converter inicialmente parece levar ao fim do casal, mas logo é revertida.</p><p>Kristen Bell explicou que a conversão de Joanne é essencial para a continuidade do relacionamento, mas a protagonista deseja que seja uma escolha genuína, não feita apenas para agradar Noah. \"Noah não pode ficar com Joanne a menos que ela se converta, mas não quer que ela faça isso por ele. Joanne não quer mudar por um cara, mas quer ficar com Noah. Então, há uma quantidade incrível de atrito\", disse Bell.</p><h2>Estrutura, Propósito e Valores</h2><p>Erin Foster abordou as dúvidas de Joanne sobre sua identidade judaica. A criadora revelou que, ao se focar demais nessas questões, Joanne não percebeu até o final da temporada que o judaísmo lhe oferecia a estrutura, o propósito e os valores que ela buscava. \"Ela está ansiando por algo que lhe dê estrutura, propósito, limites, valores e tradições. O judaísmo pode dar todas essas coisas a ela\", explicou Foster.</p><p>Foster também destacou a importância da personagem Esther (Jackie Tohn) em auxiliar Joanne em sua epifania. A relação entre as atrizes Kristen Bell e Jackie Tohn na vida real adicionou uma camada especial a essa dinâmica.</p><blockquote>"É bom que tenha sido Esther. No início da 1ª temporada, ela a rejeita completamente. No final da 2ª temporada, ela é quem diz: 'É tão óbvio que você é uma de nós'. E na vida real, Kristen e Jackie são melhores amigas. Então, isso foi legal", comentou Foster.</blockquote><h2>Romance Acima da Religião</h2><p>Ao contrário do final da primeira temporada, onde Noah corre para Joanne, a segunda temporada termina com Joanne correndo para ele. Foster enfatizou que o foco era o romance, com Noah aceitando Joanne independentemente de sua fé. A conversão de Joanne já estava implícita e confirmada com sua interação com Esther.</p><p>A inspiração para <b>Ninguém Quer Isto</b> vem da própria vida de Foster, que se converteu ao judaísmo antes de se casar. A jornada de Joanne na série busca tornar essa conversão um desenvolvimento natural e merecido, mostrando sua imersão gradual nas tradições judaicas e a percepção do que isso representa para ela.</p><p>O relacionamento de Noah e Joanne, que se aprofunda com a conversão de Joanne, continua a explorar o equilíbrio entre romance e religião, com a possibilidade de uma terceira temporada.</p>",
+      "meta_description": "O final de Nobody Wants This 2ª temporada é explicado pela criadora Erin Foster e Kristen Bell. Descubra o destino de Joanne e Noah.",
+      "focus_keyphrase": "Ninguém Quer Isto 2ª temporada",
+      "related_keyphrases": [
+        "Ninguém Quer Isto final explicado",
+        "Joanne e Noah Nobody Wants This",
+        "Conversão de Joanne"
+      ],
+      "slug": "ninguem-quer-isto-2-fim-joanne-noah",
+      "categorias": [
+        {
+          "nome": "Ninguém Quer Isto",
+          "grupo": "obras",
+          "evidence": "<em>Nobody Wants This</em> creator Erin Foster and star Kristen Bell break down Joanne's conversion decision"
+        },
+        {
+          "nome": "Kristen Bell",
+          "grupo": "pessoas",
+          "evidence": "star Kristen Bell break down Joanne's conversion decision"
+        },
+        {
+          "nome": "Adam Brody",
+          "grupo": "pessoas",
+          "evidence": "relationship with Noah (Adam Brody)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Nobody Wants This",
+        "Kristen Bell",
+        "Adam Brody",
+        "Erin Foster",
+        "Netflix",
+        "Série",
+        "Comédia Romântica"
+      ],
+      "image_alt_texts": {
+        "03222889_poster_w780.jpg": "Pôster oficial da série Nobody Wants This com Kristen Bell e Adam Brody.",
+        "adam-brody-as-noah-in-nobody-wants-this-season-2.jpg": "Adam Brody como Noah na segunda temporada de Nobody Wants This.",
+        "adam-brody-and-kristen-bell-as-noah-and-joanne-in-nobody-wants-this-season-2.jpg": "Adam Brody como Noah e Kristen Bell como Joanne em uma cena de Nobody Wants This.",
+        "nobody-wants-this.jpg": "Noah (Adam Brody) e Joanne (Kristen Bell) em um momento romântico na série.",
+        "nobody-wants-this_mr8g56.jpg": "Adam Brody como Noah e Kristen Bell como Joanne prestes a se beijar em Nobody Wants This.",
+        "kristen-bell-s-joanne-smiling-while-playing-a-card-game-in-nobody-wants-this-season-2.jpg": "Kristen Bell como Joanne sorrindo em uma cena de jogo de cartas de Nobody Wants This.",
+        "nobody-wants-this-adam-brody-as-noah.jpg": "Adam Brody como Noah na série Nobody Wants This."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Ninguém Quer Isto 2ª Temporada: Fim de Joanne e Noah Explicado",
+        "_yoast_wpseo_metadesc": "Entenda o final da 2ª temporada de Nobody Wants This. Criadora Erin Foster e Kristen Bell revelam o desfecho de Joanne e Noah.",
+        "_yoast_wpseo_focuskw": "Ninguém Quer Isto 2ª temporada",
+        "_yoast_news_keywords": "Ninguém Quer Isto, Nobody Wants This, Kristen Bell, Adam Brody, Erin Foster, Netflix, Comédia Romântica, Série",
+        "_yoast_wpseo_opengraph-title": "Ninguém Quer Isto 2ª Temporada: Fim de Joanne e Noah Explicado",
+        "_yoast_wpseo_opengraph-description": "Entenda o final da 2ª temporada de Nobody Wants This. Criadora Erin Foster e Kristen Bell revelam o desfecho de Joanne e Noah.",
+        "_yoast_wpseo_twitter-title": "Ninguém Quer Isto 2ª Temporada: Fim de Joanne e Noah Explicado",
+        "_yoast_wpseo_twitter-description": "Entenda o final da 2ª temporada de Nobody Wants This. Criadora Erin Foster e Kristen Bell revelam o desfecho de Joanne e Noah."
+      }
+    },
+    {
+      "titulo_final": "Watson: Ingrid Retorna em Novo Clipe da 2ª Temporada",
+      "conteudo_final": "<p>Um clipe inédito de <b>Watson</b> revela o retorno de Ingrid na segunda temporada, episódio 3. A volta da personagem promete trazer momentos de constrangimento, honestidade e, aparentemente, bolo.</p>",
+      "meta_description": "Assista ao clipe exclusivo de Watson 2ª temporada, episódio 3, onde o retorno de Ingrid ao time gera situações inusitadas.",
+      "focus_keyphrase": "Watson 2ª temporada",
+      "related_keyphrases": [
+        "Watson episódio 3",
+        "Ingrid retorna Watson",
+        "Sherlock Holmes série"
+      ],
+      "slug": "watson-ingrid-retorno-temporada-2",
+      "categorias": [
+        {
+          "nome": "Watson",
+          "grupo": "obras",
+          "evidence": "clip from Watson season 2, episode 3"
+        }
+      ],
+      "tags_sugeridas": [
+        "Watson",
+        "Sherlock Holmes",
+        "Série",
+        "Drama",
+        "Mistério",
+        "CBS"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Watson 2ª Temporada: Clipe Revela Retorno de Ingrid",
+        "_yoast_wpseo_metadesc": "Confira um clipe exclusivo de Watson 2ª temporada, episódio 3, que marca o retorno de Ingrid e a expectativa para novas tramas.",
+        "_yoast_wpseo_focuskw": "Watson 2ª temporada",
+        "_yoast_news_keywords": "Watson, Sherlock Holmes, Série, Drama, Mistério, CBS, Ingrid",
+        "_yoast_wpseo_opengraph-title": "Watson 2ª Temporada: Clipe Revela Retorno de Ingrid",
+        "_yoast_wpseo_opengraph-description": "Confira um clipe exclusivo de Watson 2ª temporada, episódio 3, que marca o retorno de Ingrid e a expectativa para novas tramas.",
+        "_yoast_wpseo_twitter-title": "Watson 2ª Temporada: Clipe Revela Retorno de Ingrid",
+        "_yoast_wpseo_twitter-description": "Confira um clipe exclusivo de Watson 2ª temporada, episódio 3, que marca o retorno de Ingrid e a expectativa para novas tramas."
+      }
+    }
+  ]
+}

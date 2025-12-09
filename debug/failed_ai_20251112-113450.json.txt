@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Capitão América: Morte brutal de Steve Rogers quase ocorreu em Ultimato",
+      "conteudo_final": "<p>Uma versão de Capitão América esteve perto de ter um fim trágico em <strong><em>Vingadores: Ultimato</em></strong>, com uma reviravolta que poderia ter tornado o filme da Marvel ainda mais impactante. Chris Evans, como Capitão América, é um dos pilares da franquia do Universo Cinematográfico Marvel (MCU), estrelando em muitos dos maiores sucessos.</p><h2>Thanos quase matou Capitão América em Ultimato</h2><p>Os filmes dos Vingadores sempre contaram com o Capitão América em papéis centrais, e <em>Vingadores: Ultimato</em> não foi diferente. Steve Rogers liderou os Vingadores em uma missão que culminou em uma batalha épica contra Thanos. Embora o final de <em>Vingadores: Ultimato</em> tenha sido positivo para Steve, houve uma ideia original que previa um desfecho sombrio para o herói.</p><figure><img alt=\"Thanos atacando Capitão América em Vingadores: Guerra Infinita\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/08/thanos-captain-america-avengers-infinity-war.jpg?q=70&fit=crop&w=825&dpr=1\" loading=\"lazy\"/><figcaption>A ideia original previa um final muito mais sombrio para o Capitão América.</figcaption></figure><p>Os Vingadores perderam dois membros principais em <em>Ultimato</em>: Viúva Negra (Scarlett Johansson) e Homem de Ferro (Robert Downey Jr.). Chris Evans, como Capitão América, teve seu final feliz, viajando para o passado para se reunir com Peggy Carter e viver o resto de sua vida ao lado dela. No entanto, o roteiro quase tomou um rumo muito mais drástico.</p><p>Joe Russo revelou que a ideia original dos diretores de <em>Vingadores: Ultimato</em> era que <strong>Thanos "caminhasse até os Vingadores e jogasse a cabeça do Capitão América no chão."</strong> Contudo, não seria a versão principal de Steve Rogers. Em vez disso, ao saber do plano dos Vingadores, Thanos de 2014 mataria os Vingadores de sua linha do tempo.</p><p>Após isso, quando Thanos aparecesse para lutar contra os Vingadores no final de <em>Ultimato</em>, o filme mostraria ele arremessando a cabeça decapitada do Capitão América. <strong>O impacto da cabeça caindo aos pés de um Steve Rogers vivo teria sido um momento chocante.</strong> No fim, a Marvel optou por não ter nenhum Vingador decapitado no filme.</p><h2>Por que a morte do Capitão América tornaria Vingadores: Ultimato ainda melhor</h2><p>Embora fosse traumático ver a cabeça decepada do Capitão América em <em>Vingadores: Ultimato</em>, talvez seja exatamente por isso que a Marvel não deveria ter descartado essa ideia. Afinal, <em>Ultimato</em> é o maior filme de super-heróis de todos os tempos, então qualquer elemento que elevasse suas apostas teria sido bem-vindo. <strong>Não há como ser mais sombrio do que o Capitão América sendo decapitado.</strong></p><figure><img alt=\"Chris Evans como Capitão América em frente ao exército reunido dos Vingadores em Vingadores: Ultimato\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/06/chris-evans-as-captain-america-standing-in-front-of-the-gathering-avengers-army-in-avengers-endgame-jpg.jpg?q=49&fit=crop&w=825&dpr=2\" loading=\"lazy\"/><figcaption>O Capitão América lidera os heróis na batalha final.</figcaption></figure><p>A cena cortada do MCU teria chocado tanto o público quanto os heróis. Ela também poderia ter servido para motivar o Capitão América de Chris Evans a liderar os Vingadores e outros heróis do MCU contra Thanos, solidificando sua determinação. Além disso, <strong>Thanos matou o Capitão América nos quadrinhos de The Infinity Gauntlet</strong>, então <strong><em>Vingadores: Ultimato</em></strong> poderia ter prestado uma homenagem a isso.</p>",
+      "meta_description": "Descubra a cena brutal de morte do Capitão América que quase aconteceu em Vingadores: Ultimato e por que ela tornaria o filme da Marvel ainda mais épico.",
+      "focus_keyphrase": "Capitão América morte Vingadores Ultimato",
+      "related_keyphrases": [
+        "Chris Evans Capitão América",
+        "Cena cortada Vingadores Ultimato",
+        "Thanos Capitão América"
+      ],
+      "slug": "capitao-america-morte-vingadores-ultimato",
+      "categorias": [
+        {
+          "nome": "Vingadores",
+          "grupo": "franquias",
+          "evidence": "Vingadores: Ultimato"
+        },
+        {
+          "nome": "Capitão América",
+          "grupo": "personagens",
+          "evidence": "Capitão América"
+        },
+        {
+          "nome": "MCU",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        }
+      ],
+      "tags_sugeridas": [
+        "Capitão América",
+        "Chris Evans",
+        "Vingadores Ultimato",
+        "Marvel Studios",
+        "MCU",
+        "Thanos",
+        "Cena deletada"
+      ],
+      "image_alt_texts": {
+        "thanos-captain-america-avengers-infinity-war.jpg": "Thanos atacando Capitão América em Vingadores: Guerra Infinita.",
+        "chris-evans-as-captain-america-standing-in-front-of-the-gathering-avengers-army-in-avengers-endgame-jpg.jpg": "Chris Evans como Capitão América em frente ao exército reunido dos Vingadores em Vingadores: Ultimato."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Capitão América: Morte brutal de Steve Rogers quase ocorreu em Ultimato",
+        "_yoast_wpseo_metadesc": "Descubra a cena brutal de morte do Capitão América que quase aconteceu em Vingadores: Ultimato e por que ela tornaria o filme da Marvel ainda mais épico.",
+        "_yoast_wpseo_focuskw": "Capitão América morte Vingadores Ultimato",
+        "_yoast_news_keywords": "Capitão América, Chris Evans, Vingadores Ultimato, Marvel Studios, MCU, Thanos, Cena deletada, Steve Rogers",
+        "_yoast_wpseo_opengraph-title": "Capitão América: Morte brutal de Steve Rogers quase ocorreu em Ultimato",
+        "_yoast_wpseo_opengraph-description": "Descubra a cena brutal de morte do Capitão América que quase aconteceu em Vingadores: Ultimato e por que ela tornaria o filme da Marvel ainda mais épico.",
+        "_yoast_wpseo_twitter-title": "Capitão América: Morte brutal de Steve Rogers quase ocorreu em Ultimato",
+        "_yoast_wpseo_twitter-description": "Descubra a cena brutal de morte do Capitão América que quase aconteceu em Vingadores: Ultimato e por que ela tornaria o filme da Marvel ainda mais épico."
+      }
+    }
+  ]
+}

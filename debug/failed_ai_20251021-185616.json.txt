@@ -1,0 +1,45 @@
+{
+  "titulo_final": "Esquadrão Classe A: Remake com Liam Neeson faz sucesso na Netflix",
+  "conteudo_final": "<p>Um remake de sucesso da década de 2010, baseado em um clássico dos anos 80, está conquistando o público na Netflix. O filme <b>Esquadrão Classe A</b> (The A-Team), estrelado por Liam Neeson, alcançou a sétima posição entre os filmes mais assistidos globalmente na plataforma, provando que a ação nostálgica ainda tem seu lugar.</p><h2>Nova Vida para um Clássico dos Anos 80</h2><p>Os anos 80 foram uma era de ouro para filmes de ação como <b>Predador</b>, <b>Top Gun</b> e <b>Fuga de Nova York</b>, além do fenômeno televisivo <b>Esquadrão Classe A</b>. Quarenta e dois anos após a série original estrear, seu remake cinematográfico, lançado em 2010, está inesperadamente encontrando uma nova audiência. Quase 15 anos depois de ser considerado uma atualização \"desnecessária\", o longa agora figura entre os mais populares da Netflix.</p><h2>Elenco e Trama do Remake</h2><p>Dirigido por Joe Carnahan, o filme de 2010 reimagina a icônica equipe como veteranos da Guerra do Iraque que são incriminados por um crime que não cometeram. Liderados pelo Hannibal Smith de Neeson, a equipe conta com Bradley Cooper como o carismático Face, Sharlto Copley como o irreverente Murdock e Quinton “Rampage” Jackson como B.A. Baracus. Jessica Biel e Patrick Wilson completam o elenco principal, interpretando os perseguidores militares determinados a capturá-los.</p><p>A sinopse oficial descreve a trama: \"Um homem que adora quando um plano dá certo, Hannibal Smith lidera uma equipe unida de operações de elite. Incriminado por um crime terrível, Smith e seus homens fogem, usando seus talentos especiais para limpar seus nomes e encontrar o perpetrador. Na sua cola está Charissa Sosa, que já se envolveu com um membro da equipe de Smith e jurou capturá-los, não importa o que aconteça.\".</p><h2>Recepção Crítica e Audiência</h2><p>Quando <b>Esquadrão Classe A</b> chegou aos cinemas em 2010, as críticas foram, na melhor das hipóteses, mistas. O filme ostenta uma pontuação de 48% no <b>Rotten Tomatoes</b>, com o público avaliando-o ligeiramente melhor, com 66%. Críticos o descreveram como barulhento, exagerado e excessivamente sério, enquanto fãs da série original questionavam a necessidade de sua existência.</p><p>Apesar de suas falhas, o filme entrega espetáculo. Suas acrobacias absurdas e cenas exageradas conferem a ele uma energia que falta em muitos blockbusters modernos. É um filme assistível, com cenas memoráveis, e que agora pode ser uma ótima opção para quem busca ação nostálgica.</p><p><b>Esquadrão Classe A</b>, estrelado por Liam Neeson e Bradley Cooper, está disponível na Netflix.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/01375848_poster_w780.jpg\" alt=\"Liam Neeson e Bradley Cooper no poster de Esquadrão Classe A.\"><figcaption>O filme de 2010 está subindo nas paradas da Netflix.</figcaption></figure>",
+  "meta_description": "O remake de Esquadrão Classe A, com Liam Neeson e Bradley Cooper, surpreende ao se tornar um sucesso na Netflix, revivendo a ação dos anos 80.",
+  "focus_keyphrase": "Esquadrão Classe A Netflix",
+  "related_keyphrases": [
+    "Remake Esquadrão Classe A",
+    "Liam Neeson filmes ação",
+    "Netflix filmes 2010"
+  ],
+  "slug": "esquadrao-classe-a-netflix-sucesso",
+  "categorias": [
+    {
+      "nome": "Esquadrão Classe A",
+      "grupo": "obras",
+      "evidence": "The A-Team"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "plataformas",
+      "evidence": "Netflix charts"
+    }
+  ],
+  "tags_sugeridas": [
+    "esquadrao-classe-a",
+    "liam-neeson",
+    "bradley-cooper",
+    "netflix",
+    "filmes-anos-80",
+    "acao"
+  ],
+  "image_alt_texts": {
+    "201375848_poster_w780.jpg": "Liam Neeson e Bradley Cooper no poster de Esquadrão Classe A."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Esquadrão Classe A: Remake com Liam Neeson faz sucesso na Netflix | MaquinaNerd",
+    "_yoast_wpseo_metadesc": "O remake de Esquadrão Classe A, com Liam Neeson e Bradley Cooper, surpreende ao se tornar um sucesso na Netflix, revivendo a ação dos anos 80.",
+    "_yoast_wpseo_focuskw": "Esquadrão Classe A Netflix",
+    "_yoast_news_keywords": "Esquadrão Classe A, Liam Neeson, Bradley Cooper, Netflix, Joe Carnahan, filmes de ação, anos 80, remake",
+    "_yoast_wpseo_opengraph-title": "Esquadrão Classe A: Remake com Liam Neeson faz sucesso na Netflix",
+    "_yoast_wpseo_opengraph-description": "O remake de Esquadrão Classe A, com Liam Neeson e Bradley Cooper, surpreende ao se tornar um sucesso na Netflix, revivendo a ação dos anos 80.",
+    "_yoast_wpseo_twitter-title": "Esquadrão Classe A: Remake com Liam Neeson faz sucesso na Netflix",
+    "_yoast_wpseo_twitter-description": "O remake de Esquadrão Classe A, com Liam Neeson e Bradley Cooper, surpreende ao se tornar um sucesso na Netflix, revivendo a ação dos anos 80."
+  }
+}

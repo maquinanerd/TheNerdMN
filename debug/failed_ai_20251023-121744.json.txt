@@ -1,0 +1,144 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Monstro de Frankenstein ganha vida em nova exposição de terror",
+      "conteudo_final": "<p>O icônico <b>Monstro de Frankenstein</b>, criado por Mary Shelley, continua a assombrar a imaginação popular quase um século após sua concepção literária. Personagens modernos como Ghostface de <b>Scream</b> e Pennywise de <b>IT</b> são reconhecíveis, mas seu legado atemporal ainda não foi testado. Em contraste, os <b>Universal Monsters</b> provaram sua durabilidade, com filmes clássicos como <b>Dracula</b> de 1931 e até mesmo <b>The Hunchback of Notre Dame</b> de 1923, que alguns consideram o verdadeiro ponto de partida.</p>\n\n<p>Essas criaturas lendárias solidificaram sua presença no cinema, música e arte, e agora ganham vida em uma nova exposição em Los Angeles e Austin, a partir de 24 de outubro. A mostra, apoiada pela CODA, Sideshow Art Prints e Universal Studios, traz o trabalho de diversos artistas que reinterpretam esses ícones do terror. O Collider apresenta um vislumbre exclusivo dos esboços de Joao Ruas para a criação do seu Monstro de Frankenstein.</p>\n\n<h2>O Processo Criativo de Frankenstein</h2>\n<p>Os esboços revelam o meticuloso processo de Joao Ruas para a exposição <b>Universal Monsters</b>. O Monstro de Frankenstein, conforme imaginado por Mary Shelley em 1818, aparece com seu visual clássico: um parafuso no pescoço, em meio a estudos científicos e poções. Outro desenho o retrata caminhando em direção a um castelo sombrio ao fundo. A peça final captura a visão que Ruas apresentará ao lado de obras de outros artistas.</p>\n\n<p>A exposição contará com trabalhos de artistas renomados como Martin Ansin, Olivia de Berardinis, Ryan Heshka e muitos outros. De <b>Dracula</b> ao <b>Creature from the Black Lagoon</b>, a mostra celebra o universo dos monstros clássicos com esculturas, pinturas e ilustrações digitais.</p>\n\n<h2>O Retorno do Monstro de Frankenstein</h2>\n<p>A história de Dr. Frankenstein e sua criação tem sido recontada inúmeras vezes. Recentemente, <b>Guillermo del Toro</b> apresentou sua visão do clássico em seu filme <b>Frankenstein</b>, com Jacob Elordi no papel do monstro e Oscar Isaac como Victor Frankenstein. O filme, já em exibição em cinemas selecionados, chega à Netflix em 7 de novembro.</p>\n\n<p>Confira os esboços e a obra final de Joao Ruas para a exposição Universal Monsters.</p>\n\n<h3>Detalhes da Obra de Frankenstein:</h3>\n<ul>\n  <li><b>Título:</b> Frankenstein</li>\n  <li><b>Artista:</b> Joao Ruas</li>\n  <li><b>Técnica:</b> Poster serigrafado</li>\n  <li><b>Dimensões:</b> 36\" x 24\"</li>\n  <li><b>Edição:</b> 200 (Regular)</li>\n  <li><b>Ano:</b> 2025</li>\n</ul>",
+      "meta_description": "Exclusiva: veja os esboços e a arte final de Joao Ruas para o Monstro de Frankenstein na nova exposição dos Universal Monsters em Los Angeles e Austin.",
+      "focus_keyphrase": "Monstro de Frankenstein",
+      "related_keyphrases": [
+        "Universal Monsters",
+        "Joao Ruas",
+        "Exposição de terror"
+      ],
+      "slug": "monstro-frankenstein-exposicao-universal-monsters",
+      "categorias": [
+        {
+          "nome": "Universal Monsters",
+          "grupo": "franquias",
+          "evidence": "the Universal Monsters have proven to withstand the test of time"
+        },
+        {
+          "nome": "Frankenstein",
+          "grupo": "obras",
+          "evidence": "Joao Ruas’s Frankenstein"
+        }
+      ],
+      "tags_sugeridas": [
+        "Frankenstein",
+        "Universal Monsters",
+        "Joao Ruas",
+        "Exposição",
+        "Terror"
+      ],
+      "image_alt_texts": {
+        "frankenstein-sketches.jpg": "Esboços de Joao Ruas para o Monstro de Frankenstein, mostrando detalhes do processo criativo.",
+        "frankenstein-final-art.jpg": "Arte final de Joao Ruas para o Monstro de Frankenstein, exibida na mostra dos Universal Monsters."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Monstro de Frankenstein ganha vida em nova exposição de terror",
+        "_yoast_wpseo_metadesc": "Exclusiva: veja os esboços e a arte final de Joao Ruas para o Monstro de Frankenstein na nova exposição dos Universal Monsters em Los Angeles e Austin.",
+        "_yoast_wpseo_focuskw": "Monstro de Frankenstein",
+        "_yoast_news_keywords": "Monstro de Frankenstein, Universal Monsters, Joao Ruas, Exposição, Terror, Cinema Clássico",
+        "_yoast_wpseo_opengraph-title": "Monstro de Frankenstein ganha vida em nova exposição de terror",
+        "_yoast_wpseo_opengraph-description": "Exclusiva: veja os esboços e a arte final de Joao Ruas para o Monstro de Frankenstein na nova exposição dos Universal Monsters em Los Angeles e Austin.",
+        "_yoast_wpseo_twitter-title": "Monstro de Frankenstein ganha vida em nova exposição de terror",
+        "_yoast_wpseo_twitter-description": "Exclusiva: veja os esboços e a arte final de Joao Ruas para o Monstro de Frankenstein na nova exposição dos Universal Monsters em Los Angeles e Austin."
+      }
+    },
+    {
+      "titulo_final": "Tom Felton estrela paródia de drama de época 'Fackham Hall'",
+      "conteudo_final": "<p>Para os fãs de dramas de época que buscam um toque de humor, '<b>Fackham Hall</b>' promete misturar o suntuoso com o cômico. O filme é descrito como uma paródia que cruza o universo de '<b>Downton Abbey</b>' com o humor de '<b>Airplane!</b>' e '<b>Monty Python</b>'. O diretor Jim O'Hanlon compartilhou detalhes sobre a concepção do projeto, suas inspirações e o elenco estelar.</p>\n\n<p>Estrelado por Ben Radcliffe como Eric Noone, um charmoso pick-pocket que se infiltra em uma mansão inglesa, e Thomasin McKenzie como Rose Davenport, com quem ele vive um romance proibido. A trama se complica com um assassinato que incrimina Eric, forçando-o a provar sua inocência e ajudar a família Davenport a superar a tragédia.</p>\n\n<h2>Elenco de Peso em 'Fackham Hall'</h2>\n<p>O filme reúne um elenco diversificado, incluindo Jimmy Carr como um padre, Damian Lewis, Nathan McMullen, e Katherine Waterston. <b>Tom Felton</b>, conhecido por seu papel na franquia <b>Harry Potter</b>, também integra o elenco, ao lado de Emma Laird, Tom Goodman-Hill, Ramon Tikaram, Tim McMullan, Anna Maxwell Martin e Sue Johnston.</p>\n\n<h2>A Visão de Jim O'Hanlon</h2>\n<p>Jim O'Hanlon expressou que dirigir 'Fackham Hall' era um sonho antigo, combinando seus gêneros favoritos para criar uma produção divertida. Inspirado por paródias como 'Airplane!' e 'The Naked Gun', e após dirigir a série 'A Touch of Cloth', ele viu no roteiro de 'Fackham Hall' a oportunidade ideal.</p>\n\n<blockquote>\n<p>“O que eu amei no roteiro foi que ele era ao mesmo tempo uma paródia hilariamente engraçada e brilhantemente inventiva de dramas de época britânicos como Downton Abbey ou Gosford Park, mas também, ao mesmo tempo, algo totalmente próprio – eu me peguei torcendo por Rose e Eric, o jovem casal no centro do romance proibido, mas ao mesmo tempo rindo alto da loucura e da loucura das artimanhas ao redor deles. Pensei que, se pudermos fazer o público fazer o mesmo, então estaremos no caminho certo para o sucesso.”</p>\n</blockquote>\n\n<p>O diretor focou em atores com talento para drama, para que interpretassem as cenas cômicas com a máxima seriedade, criando um contraste que amplifica o humor. Ele compara a abordagem a ter um amplificador que não chega ao 10, mas sim a \"dez e meio\".</p>\n\n<h2>Um Riso Garantido</h2>\n<p>O'Hanlon promete uma mistura de comédia verbal e visual, sutil e nem tanto, boba e sofisticada. O roteiro conta com aproximadamente 278 piadas, desde gags físicas até o humor peculiar do personagem do Padre, interpretado por Jimmy Carr.</p>\n\n<p>O diretor espera que o público se divirta com a paródia afetuosa dos dramas de época e filmes de mistério, ao mesmo tempo em que se envolve com o romance e a trama de assassinato. 'Fackham Hall' estreia nos cinemas em 5 de dezembro.</p>",
+      "meta_description": "Tom Felton e elenco estelar em 'Fackham Hall', uma paródia de drama de época que mistura humor e mistério. Descubra os bastidores e a visão do diretor.",
+      "focus_keyphrase": "Fackham Hall",
+      "related_keyphrases": [
+        "Tom Felton",
+        "Paródia de drama de época",
+        "Comédia"
+      ],
+      "slug": "fackham-hall-parodia-tom-felton",
+      "categorias": [
+        {
+          "nome": "Fackham Hall",
+          "grupo": "obras",
+          "evidence": "Fackham Hall, a movie that mixes the seemingly unmixable."
+        },
+        {
+          "nome": "Tom Felton",
+          "grupo": "atores",
+          "evidence": "Tom Felton (the Harry Potter franchise)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Fackham Hall",
+        "Tom Felton",
+        "Jim O'Hanlon",
+        "Comédia",
+        "Drama de época"
+      ],
+      "image_alt_texts": {
+        "fackham-hall-image1.jpg": "Tom Felton e Katherine Waterston em uma cena de 'Fackham Hall', paródia de drama de época.",
+        "fackham-hall-image2.jpg": "Jimmy Carr como padre e outros atores em 'Fackham Hall', filme de comédia e mistério."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Tom Felton estrela paródia de drama de época 'Fackham Hall'",
+        "_yoast_wpseo_metadesc": "Tom Felton e elenco estelar em 'Fackham Hall', uma paródia de drama de época que mistura humor e mistério. Descubra os bastidores e a visão do diretor.",
+        "_yoast_wpseo_focuskw": "Fackham Hall",
+        "_yoast_news_keywords": "Fackham Hall, Tom Felton, Jim O'Hanlon, Comédia, Drama de época, Harry Potter",
+        "_yoast_wpseo_opengraph-title": "Tom Felton estrela paródia de drama de época 'Fackham Hall'",
+        "_yoast_wpseo_opengraph-description": "Tom Felton e elenco estelar em 'Fackham Hall', uma paródia de drama de época que mistura humor e mistério. Descubra os bastidores e a visão do diretor.",
+        "_yoast_wpseo_twitter-title": "Tom Felton estrela paródia de drama de época 'Fackham Hall'",
+        "_yoast_wpseo_twitter-description": "Tom Felton e elenco estelar em 'Fackham Hall', uma paródia de drama de época que mistura humor e mistério. Descubra os bastidores e a visão do diretor."
+      }
+    },
+    {
+      "titulo_final": "James Gunn confirma cancelamento de série spin-off do Batman",
+      "conteudo_final": "<p>A aguardada série spin-off do universo de <b>Matt Reeves</b>, focada em Arkham, foi oficialmente cancelada. James Gunn, co-CEO da DC Studios, confirmou em entrevista que o projeto não está mais em desenvolvimento.</p>\n\n<p>“Isso não é algo que está sendo desenvolvido... no momento”, afirmou Gunn. Ao ser questionado sobre a possibilidade de a série retornar no futuro, ele respondeu: “Espero que sim. Mas isso não é algo que está sendo desenvolvido por ninguém no momento. Sabe, simplesmente não funcionou.”</p>\n\n<h2>O Fim do Projeto 'Arkham'</h2>\n<p>Anunciada após o sucesso de <b>The Batman</b> em 2022, a série 'Arkham' prometia uma imersão profunda no sombrio asilo e em seus vilões icônicos. Inicialmente prevista para o universo <b>Elseworlds</b> de Gotham, a série chegou a ser cogitada para o DCU principal sob a nova gestão de Gunn e Peter Safran. No entanto, os planos criativos não se concretizaram.</p>\n\n<p>A notícia é um desapontamento para os fãs que esperavam explorar os personagens e a corrupta força policial de Gotham sob a mesma perspectiva realista que marcou o filme 'The Batman'.</p>\n\n<h2>O Futuro do Universo 'The Batman'</h2>\n<p>Apesar do cancelamento de 'Arkham', o universo de Matt Reeves continua expandindo. A série <b>The Penguin</b>, protagonizada por Colin Farrell, foi um grande sucesso e vencedora de Emmy, consolidando-se como um dos projetos mais aclamados da DC.</p>\n\n<p>Com o sucesso de 'The Penguin', uma segunda temporada parece quase garantida, prometendo mais exploração do submundo do crime em Gotham. A série está disponível na HBO Max.</p>",
+      "meta_description": "James Gunn confirma que a série spin-off 'Arkham', ambientada no universo de The Batman, foi cancelada e não está mais em desenvolvimento pela DC Studios.",
+      "focus_keyphrase": "Série spin-off do Batman cancelada",
+      "related_keyphrases": [
+        "DC Studios",
+        "Arkham",
+        "Matt Reeves"
+      ],
+      "slug": "serie-arkham-batman-cancelada-dc",
+      "categorias": [
+        {
+          "nome": "Batman",
+          "grupo": "franquias",
+          "evidence": "part of Matt Reeves’ The Batman universe"
+        },
+        {
+          "nome": "DC Studios",
+          "grupo": "editorias",
+          "evidence": "DC Studios co-CEO"
+        },
+        {
+          "nome": "Arkham",
+          "grupo": "obras",
+          "evidence": "the Arkham TV series"
+        }
+      ],
+      "tags_sugeridas": [
+        "Batman",
+        "Arkham",
+        "James Gunn",
+        "DC Studios",
+        "The Batman",
+        "The Penguin"
+      ],
+      "image_alt_texts": {
+        "the-penguin-serie.jpg": "Logo da série 'The Penguin', spin-off do universo de The Batman."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "James Gunn confirma cancelamento de série spin-off do Batman",
+        "_yoast_wpseo_metadesc": "James Gunn confirma que a série spin-off 'Arkham', ambientada no universo de The Batman, foi cancelada e não está mais em desenvolvimento pela DC Studios.",
+        "_yoast_wpseo_focuskw": "Série spin-off do Batman cancelada",
+        "_yoast_news_keywords": "Batman, Arkham, James Gunn, DC Studios, The Batman, The Penguin, Matt Reeves",
+        "_yoast_wpseo_opengraph-title": "James Gunn confirma cancelamento de série spin-off do Batman",
+        "_yoast_wpseo_opengraph-description": "James Gunn confirma que a série spin-off 'Arkham', ambientada no universo de The Batman, foi cancelada e não está mais em desenvolvimento pela DC Studios.",
+        "_yoast_wpseo_twitter-title": "James Gunn confirma cancelamento de série spin-off do Batman",
+        "_yoast_wpseo_twitter-description": "James Gunn confirma que a série spin-off 'Arkham', ambientada no universo de The Batman, foi cancelada e não está mais em desenvolvimento pela DC Studios."
+      }
+    }
+  ]
+}

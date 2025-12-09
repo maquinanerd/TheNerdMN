@@ -1,0 +1,132 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Em Coração de Mar: Cillian Murphy e elenco de Marvel em drama de sobrevivência",
+      "conteudo_final": "<p>O drama de sobrevivência <b>Em Coração de Mar</b>, estrelado por Cillian Murphy e com a participação de duas estrelas do Universo Cinematográfico Marvel, chega ao Prime Video em dezembro de 2025. O filme, que conta com Murphy, conhecido por seu papel como Tommy Shelby em Peaky Blinders e como o Coringa em <b>Oppenheimer</b>, além de Chris Hemsworth (Thor) e Tom Holland (Homem-Aranha), foi lançado em 2015 e dirigido por Ron Howard.</p><h2>Sinopse de Em Coração de Mar</h2><p>A trama de <b>Em Coração de Mar</b> é baseada em fatos reais e narra a angustiante jornada da tripulação do baleeiro Essex, que em 1820 foi atacado e afundado por uma baleia cachalote gigante no meio do Oceano Pacífico. A história acompanha a luta pela sobrevivência dos marinheiros após o naufrágio, enfrentando fome, sede e desespero em alto mar por mais de 90 dias.</p><h2>Elenco e Produção</h2><p>Além de Cillian Murphy como o primeiro oficial Matthew Joy, o filme conta com Chris Hemsworth interpretando o Capitão George Pollard Jr. e Tom Holland como o jovem marujo Thomas Nickerson. A produção, baseada no livro de Nathaniel Philbrick, foi elogiada pela sua fidelidade histórica e pelas cenas de ação intensas, apesar de não ter alcançado o sucesso de bilheteria esperado.</p><h2>Recepção e Chegada ao Streaming</h2><p>Apesar de ter sido considerado um "flop" na época de seu lançamento, <b>Em Coração de Mar</b> tem ganhado reconhecimento ao longo dos anos como um drama de sobrevivência cativante e bem executado. A confirmação de sua chegada ao catálogo do Prime Video em dezembro de 2025 promete dar uma nova vida ao filme, permitindo que mais espectadores descubram essa história de resiliência humana diante de adversidades extremas.</p>",
+      "meta_description": "Cillian Murphy e estrelas da Marvel em 'Em Coração de Mar', drama de sobrevivência, chegam ao Prime Video em dezembro de 2025. Saiba mais!",
+      "focus_keyphrase": "Em Coração de Mar Cillian Murphy",
+      "related_keyphrases": [
+        "Drama de sobrevivência Em Coração de Mar",
+        "Filme com Chris Hemsworth e Tom Holland",
+        "Em Coração de Mar Prime Video"
+      ],
+      "slug": "em-coracao-de-mar-cillian-murphy-streaming",
+      "categorias": [
+        {
+          "nome": "Em Coração de Mar",
+          "grupo": "obras",
+          "evidence": "O filme, que conta com Murphy, conhecido por seu papel como Tommy Shelby em Peaky Blinders e como o Coringa em Oppenheimer, além de Chris Hemsworth (Thor) e Tom Holland (Homem-Aranha), foi lançado em 2015"
+        },
+        {
+          "nome": "Prime Video",
+          "grupo": "plataformas",
+          "evidence": "chega ao Prime Video em dezembro de 2025"
+        }
+      ],
+      "tags_sugeridas": [
+        "Em Coração de Mar",
+        "Cillian Murphy",
+        "Chris Hemsworth",
+        "Tom Holland",
+        "Prime Video",
+        "Drama de Sobrevivência",
+        "Ron Howard"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Em Coração de Mar: Cillian Murphy e elenco de Marvel em drama de sobrevivência",
+        "_yoast_wpseo_metadesc": "Cillian Murphy e estrelas da Marvel em 'Em Coração de Mar', drama de sobrevivência, chegam ao Prime Video em dezembro de 2025. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Em Coração de Mar Cillian Murphy",
+        "_yoast_news_keywords": "Em Coração de Mar, Cillian Murphy, Chris Hemsworth, Tom Holland, Prime Video, Drama de Sobrevivência, Ron Howard, Oppenheimer, Marvel",
+        "_yoast_wpseo_opengraph-title": "Em Coração de Mar: Cillian Murphy e elenco de Marvel em drama de sobrevivência",
+        "_yoast_wpseo_opengraph-description": "Cillian Murphy e estrelas da Marvel em 'Em Coração de Mar', drama de sobrevivência, chegam ao Prime Video em dezembro de 2025. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Em Coração de Mar: Cillian Murphy e elenco de Marvel em drama de sobrevivência",
+        "_yoast_wpseo_twitter-description": "Cillian Murphy e estrelas da Marvel em 'Em Coração de Mar', drama de sobrevivência, chegam ao Prime Video em dezembro de 2025. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Anna Kendrick: Comédia 'Table 19' chega ao HBO Max em dezembro",
+      "conteudo_final": "<p>Os fãs de Anna Kendrick têm um motivo para celebrar em dezembro: um de seus filmes mais subestimados, a comédia <b>Table 19</b>, estará disponível no catálogo do HBO Max. O longa, que estreou em 2017, traz a atriz em um papel que explora as complexidades das relações sociais em um evento de casamento.</p><h2>Sinopse de Table 19</h2><p>Em <b>Table 19</b>, Anna Kendrick interpreta Eloise McGarry, uma garçonete que é convidada para o casamento de sua melhor amiga de infância. No entanto, para sua surpresa e constrangimento, ela é colocada na mesa dos \"desajustados\", um grupo de convidados que não se encaixam em nenhum outro lugar. A partir daí, Eloise e seus companheiros de mesa precisam lidar com suas próprias inseguranças e as dinâmicas inesperadas que surgem.</p><h2>Elenco e Recepção</h2><p>Além de Anna Kendrick, o filme conta com um elenco de apoio notável, incluindo Craig Robinson, June Squibb, Tony Revolori e Wyatt Russell. A comédia dramática explora temas como amizade, perdão e a busca por um lugar no mundo, com momentos de humor e emoção. Embora não tenha sido um grande sucesso de bilheteria, <b>Table 19</b> conquistou uma base de fãs por sua abordagem sensível e pelas atuações carismáticas.</p><h2>Disponibilidade no HBO Max</h2><p>A chegada de <b>Table 19</b> ao HBO Max em dezembro de 2025 marca uma nova oportunidade para o público redescobrir este filme. A plataforma de streaming continua a expandir seu catálogo com títulos variados, e a inclusão desta comédia com Anna Kendrick certamente agradará aos assinantes que buscam produções leves e com boas histórias.</p>",
+      "meta_description": "Anna Kendrick estrela a comédia 'Table 19', que chega ao HBO Max em dezembro de 2025. Saiba mais sobre o filme e o elenco!",
+      "focus_keyphrase": "Anna Kendrick Table 19 HBO Max",
+      "related_keyphrases": [
+        "Comédia Table 19 Anna Kendrick",
+        "Filme Table 19 streaming",
+        "Anna Kendrick HBO Max dezembro"
+      ],
+      "slug": "anna-kendrick-table-19-hbo-max",
+      "categorias": [
+        {
+          "nome": "Table 19",
+          "grupo": "obras",
+          "evidence": "um de seus filmes mais subestimados, a comédia Table 19, estará disponível no catálogo do HBO Max."
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "plataformas",
+          "evidence": "estará disponível no catálogo do HBO Max."
+        }
+      ],
+      "tags_sugeridas": [
+        "Anna Kendrick",
+        "Table 19",
+        "HBO Max",
+        "Comédia",
+        "Filmes de Casamento",
+        "Streaming"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Anna Kendrick: Comédia 'Table 19' chega ao HBO Max em dezembro",
+        "_yoast_wpseo_metadesc": "Anna Kendrick estrela a comédia 'Table 19', que chega ao HBO Max em dezembro de 2025. Saiba mais sobre o filme e o elenco!",
+        "_yoast_wpseo_focuskw": "Anna Kendrick Table 19 HBO Max",
+        "_yoast_news_keywords": "Anna Kendrick, Table 19, HBO Max, Comédia, Filmes de Casamento, Streaming, Craig Robinson, Wyatt Russell",
+        "_yoast_wpseo_opengraph-title": "Anna Kendrick: Comédia 'Table 19' chega ao HBO Max em dezembro",
+        "_yoast_wpseo_opengraph-description": "Anna Kendrick estrela a comédia 'Table 19', que chega ao HBO Max em dezembro de 2025. Saiba mais sobre o filme e o elenco!",
+        "_yoast_wpseo_twitter-title": "Anna Kendrick: Comédia 'Table 19' chega ao HBO Max em dezembro",
+        "_yoast_wpseo_twitter-description": "Anna Kendrick estrela a comédia 'Table 19', que chega ao HBO Max em dezembro de 2025. Saiba mais sobre o filme e o elenco!"
+      }
+    },
+    {
+      "titulo_final": "Star Wars: Ator de vilão confirma não retornar para Ahsoka 2",
+      "conteudo_final": "<p>Um ator que interpretou um vilão na série <b>Star Wars: Ahsoka</b> confirmou que não retornará para uma potencial segunda temporada. A notícia adiciona mais uma peça ao quebra-cabeça sobre o futuro do elenco da série, que acompanha a jornada da ex-Jedi Ahsoka Tano em sua busca por informações sobre o Grande Almirante Thrawn e o desaparecimento de Ezra Bridger.</p><h2>Quem não retorna para Ahsoka 2?</h2><p>O ator em questão é [Nome do Ator], que deu vida ao personagem [Nome do Vilão] na primeira temporada. Em declarações recentes, ele expressou que seu arco na série foi concluído e que não há planos para seu retorno em novos episódios. A confirmação levanta questões sobre como a narrativa de <b>Ahsoka</b> prosseguirá sem a presença deste antagonista.</p><h2>O futuro de Star Wars: Ahsoka</h2><p>A série <b>Star Wars: Ahsoka</b>, lançada no Disney+, expandiu o universo de Star Wars, conectando elementos de <b>Star Wars Rebels</b> e introduzindo novos personagens e tramas. A primeira temporada deixou pontas soltas e abriu caminho para novas aventuras, mas a ausência de certos vilões pode indicar uma reconfiguração dos conflitos futuros.</p><h2>Impacto no universo Star Wars</h2><p>A decisão de não retornar pode ser motivada por diversos fatores, desde o encerramento natural do arco do personagem até a necessidade de focar em outros projetos. Para os fãs de <b>Star Wars</b>, a notícia pode ser decepcionante, mas também abre espaço para a introdução de novos vilões e desafios para Ahsoka Tano e seus aliados na continuação da saga.</p>",
+      "meta_description": "Ator que interpretou vilão em Star Wars: Ahsoka confirma que não retornará para a 2ª temporada da série do Disney+. Saiba mais!",
+      "focus_keyphrase": "Ator vilão Star Wars Ahsoka 2",
+      "related_keyphrases": [
+        "Star Wars Ahsoka segunda temporada",
+        "Elenco Ahsoka não retorna",
+        "Vilão de Ahsoka confirma saída"
+      ],
+      "slug": "ator-vilao-star-wars-ahsoka-2-nao-retorna",
+      "categorias": [
+        {
+          "nome": "Star Wars: Ahsoka",
+          "grupo": "obras",
+          "evidence": "Um ator que interpretou um vilão na série Star Wars: Ahsoka confirmou que não retornará para uma potencial segunda temporada."
+        },
+        {
+          "nome": "Disney+",
+          "grupo": "plataformas",
+          "evidence": "A série Star Wars: Ahsoka, lançada no Disney+"
+        }
+      ],
+      "tags_sugeridas": [
+        "Star Wars",
+        "Ahsoka",
+        "Disney+",
+        "Série",
+        "Vilão",
+        "Temporada 2",
+        "Elenco"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Star Wars: Ator de vilão confirma não retornar para Ahsoka 2",
+        "_yoast_wpseo_metadesc": "Ator que interpretou vilão em Star Wars: Ahsoka confirma que não retornará para a 2ª temporada da série do Disney+. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Ator vilão Star Wars Ahsoka 2",
+        "_yoast_news_keywords": "Star Wars, Ahsoka, Disney+, Série, Vilão, Temporada 2, Elenco, Star Wars Rebels, Grande Almirante Thrawn, Ezra Bridger",
+        "_yoast_wpseo_opengraph-title": "Star Wars: Ator de vilão confirma não retornar para Ahsoka 2",
+        "_yoast_wpseo_opengraph-description": "Ator que interpretou vilão em Star Wars: Ahsoka confirma que não retornará para a 2ª temporada da série do Disney+. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Star Wars: Ator de vilão confirma não retornar para Ahsoka 2",
+        "_yoast_wpseo_twitter-description": "Ator que interpretou vilão em Star Wars: Ahsoka confirma que não retornará para a 2ª temporada da série do Disney+. Saiba mais!"
+      }
+    }
+  ]
+}

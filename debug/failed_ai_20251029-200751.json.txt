@@ -1,0 +1,104 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Buck Rogers: Novo filme de ficção científica com roteirista de Deadpool & Wolverine",
+      "conteudo_final": "<p>Um novo remake de <b>Buck Rogers</b> está em desenvolvimento. O herói de ficção científica, conhecido por suas aventuras espaciais, foi originalmente criado na década de 1930 e alcançou fama mundial através de tirinhas de jornal.</p><h2>História e Reimaginações de Buck Rogers</h2><p>Ao longo dos anos, Buck Rogers foi adaptado em diversas mídias, incluindo filmes, séries de rádio e televisão. Inspirada pelo sucesso de <b>Star Wars</b>, uma série de TV estrelada por Gil Gerard foi exibida pela NBC entre 1979 e 1981.</p><figure><img src=\"https:
+      "meta_description": "Novo filme de Buck Rogers em desenvolvimento pela Legendary, com roteiro de Zeb Wells, roteirista de Deadpool & Wolverine. Saiba mais sobre o projeto.",
+      "focus_keyphrase": "Buck Rogers filme",
+      "related_keyphrases": [
+        "Zeb Wells",
+        "Legendary",
+        "Deadpool & Wolverine"
+      ],
+      "slug": "buck-rogers-filme-legendary",
+      "categorias": [
+        {
+          "nome": "Buck Rogers",
+          "grupo": "franquias",
+          "evidence": "A new Buck Rogers remake is in the works."
+        },
+        {
+          "nome": "Deadpool & Wolverine",
+          "grupo": "obras",
+          "evidence": "Deadpool & Wolverine writer Zeb Wells penning the latest draft of the screenplay"
+        }
+      ],
+      "tags_sugeridas": [
+        "Buck Rogers",
+        "Zeb Wells",
+        "Legendary",
+        "Deadpool & Wolverine",
+        "Ficção Científica"
+      ],
+      "image_alt_texts": {
+        "Buck-Rogers-TV-show-poster.jpg": "Pôster da série de TV de Buck Rogers.",
+        "buck-rogers-poster.jpg": "Pôster do filme Buck Rogers."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Buck Rogers: Novo filme de ficção científica com roteirista de Deadpool & Wolverine",
+        "_yoast_wpseo_metadesc": "Novo filme de Buck Rogers em desenvolvimento pela Legendary, com roteiro de Zeb Wells, roteirista de Deadpool & Wolverine. Saiba mais sobre o projeto.",
+        "_yoast_wpseo_focuskw": "Buck Rogers filme",
+        "_yoast_news_keywords": "Buck Rogers, Zeb Wells, Legendary, Deadpool & Wolverine, Ficção Científica",
+        "_yoast_wpseo_opengraph-title": "Buck Rogers: Novo filme de ficção científica com roteirista de Deadpool & Wolverine",
+        "_yoast_wpseo_opengraph-description": "Novo filme de Buck Rogers em desenvolvimento pela Legendary, com roteiro de Zeb Wells, roteirista de Deadpool & Wolverine. Saiba mais sobre o projeto.",
+        "_yoast_wpseo_twitter-title": "Buck Rogers: Novo filme de ficção científica com roteirista de Deadpool & Wolverine",
+        "_yoast_wpseo_twitter-description": "Novo filme de Buck Rogers em desenvolvimento pela Legendary, com roteiro de Zeb Wells, roteirista de Deadpool & Wolverine. Saiba mais sobre o projeto."
+      }
+    },
+    {
+      "titulo_final": "Netflix: 5 filmes imperdíveis para assistir no Halloween",
+      "conteudo_final": "<p>Com a chegada do Halloween, a busca por filmes temáticos se intensifica. A <b>Netflix</b> oferece um catálogo robusto de títulos perfeitos para a temporada, que vão desde o terror puro até filmes que capturam o clima outonal e festivo.</p><h2>E.T. - O Extraterrestre (1982)</h2><p>Um clássico que transcende o gênero de terror, <b>E.T. - O Extraterrestre</b>, de Steven Spielberg, é ideal para o clima de Halloween. Embora não seja um filme de terror, a história se passa durante a celebração, permitindo que o protagonista, Elliott, esconda seu amigo alienígena. O filme se tornou um sucesso estrondoso, arrecadando quase US$ 800 milhões mundialmente.</p><figure><img src=\"https:
+      "meta_description": "Descubra 5 filmes essenciais para assistir na Netflix neste Halloween, incluindo clássicos e novidades que capturam o espírito da data.",
+      "focus_keyphrase": "filmes Netflix Halloween",
+      "related_keyphrases": [
+        "Netflix Halloween",
+        "Melhores filmes de terror",
+        "Filmes para assistir no Halloween"
+      ],
+      "slug": "netflix-filmes-halloween-2025",
+      "categorias": [
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix is probably the best streaming service"
+        },
+        {
+          "nome": "Halloween",
+          "grupo": "eventos",
+          "evidence": "as Halloween arrives"
+        },
+        {
+          "nome": "E.T. - O Extraterrestre",
+          "grupo": "obras",
+          "evidence": "E.T. The Extra-Terrestrial (1982)"
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "Halloween",
+        "E.T. - O Extraterrestre",
+        "Invasão Zumbi",
+        "Rua do Medo",
+        "Sorria",
+        "Os Fantasmas Se Divertem 2"
+      ],
+      "image_alt_texts": {
+        "ET-with-a-glowing-fingertip-in-ET-the-Extra-Terrestrial.jpg": "E.T. com a ponta do dedo brilhando em E.T. - O Extraterrestre.",
+        "netflix-s-korean-zombie-show-with-89_-on-rotten-tomatoes-is-the-train-to-busan-sequel-we-never-got.jpg": "Gong Yoo se escondendo atrás de uma cadeira com um taco em Invasão Zumbi.",
+        "Fear-Street-Killer-.jpg": "O Assassino da Rua do Medo usando máscara de esqueleto e manto preto em Rua do Medo Parte Um: 1994.",
+        "Sosie-Bacon-Smile.jpg": "Sosie Bacon em Sorria.",
+        "beetlejuice-3-introducing-a-missing-deetz-family-member-makes-sense-after-beetlejuice-beetlejuice-s-biggest-death.jpg": "Beetlejuice-3-Introducing-A-Missing-Deetz-Family-Member-Makes-Sense-After-Beetlejuice-Beetlejuice's-Biggest-Death."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix: 5 filmes imperdíveis para assistir no Halloween",
+        "_yoast_wpseo_metadesc": "Descubra 5 filmes essenciais para assistir na Netflix neste Halloween, incluindo clássicos e novidades que capturam o espírito da data.",
+        "_yoast_wpseo_focuskw": "filmes Netflix Halloween",
+        "_yoast_news_keywords": "Netflix, Halloween, E.T. - O Extraterrestre, Invasão Zumbi, Rua do Medo, Sorria, Os Fantasmas Se Divertem 2",
+        "_yoast_wpseo_opengraph-title": "Netflix: 5 filmes imperdíveis para assistir no Halloween",
+        "_yoast_wpseo_opengraph-description": "Descubra 5 filmes essenciais para assistir na Netflix neste Halloween, incluindo clássicos e novidades que capturam o espírito da data.",
+        "_yoast_wpseo_twitter-title": "Netflix: 5 filmes imperdíveis para assistir no Halloween",
+        "_yoast_wpseo_twitter-description": "Descubra 5 filmes essenciais para assistir na Netflix neste Halloween, incluindo clássicos e novidades que capturam o espírito da data."
+      }
+    }
+  ]
+}

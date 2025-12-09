@@ -1,0 +1,149 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Boys: Criador critica previsões de fãs sobre reviravolta em Gen V",
+      "conteudo_final": "<p>Eric Kripke, cocriador de <em>The Boys</em> e <em>Gen V</em>, expressou sua frustração com a capacidade dos fãs de preverem o grande reviravolta envolvendo o personagem Dean Cipher (Hamish Linklater) na segunda temporada de <em>Gen V</em>. O episódio 7, intitulado \"Hell Week\", revelou que o corpo aprisionado e ferido que Marie (Jaz Sinclair) cura não era Cipher, mas sim Dr. Thomas Godolkin (Ethan Slater), o verdadeiro mentor por trás do projeto Odessa.</p><h2>A reviravolta que irritou o criador</h2><p>Em entrevista, Kripke admitiu que, embora dê crédito à inteligência dos fãs em decifrar as pistas, ele se sente \"irritado\" por terem descoberto o segredo antes da exibição do episódio. A ideia do roteiro partiu dos produtores Michele Fazekas e Tom Schnauz, que conceberam a surpresa de que o vilão principal seria, na verdade, Thomas Godolkin, o personagem introduzido no início da temporada.</p><p>Kripke elogiou a performance de Hamish Linklater como o vilão astuto e, posteriormente, como o desajeitado Godolkin, destacando a versatilidade do ator. Ethan Slater também foi elogiado por sua atuação como o verdadeiro antagonista.</p><h2>Pistas e antecipações na série</h2><p>A série apresentou diversas pistas sutis ao longo da temporada, como a incapacidade de Marie em detectar os poderes de Cipher, sua dieta peculiar e a falta de conexão aparente entre ele e Godolkin. A showrunner Michele Fazekas também compartilhou suas preocupações com a possibilidade de os fãs desvendarem a reviravolta, mas acreditava que seria difícil prever a ligação íntima entre Cipher e Godolkin.</p><p>Fazekas explicou que as pistas eram intencionais, visando criar uma experiência envolvente para o público, onde os detalhes, como a dieta de Cipher, indicavam seu desinteresse pelo próprio corpo, focado apenas em atingir seu objetivo final. A ideia de que Cipher era apenas um receptáculo para os poderes de Godolkin foi considerada um ponto crucial para surpreender os espectadores.</p><h2>Consequências para o universo de The Boys</h2><p>O retorno de Thomas Godolkin, com sua missão de eliminar supers considerados fracos ou vergonhosos, promete ter sérias consequências no universo compartilhado de <em>The Boys</em> e <em>Gen V</em>. Considerando a crescente tensão entre supers e humanos, a ressurreição de Godolkin pode agravar o conflito.</p><p>Eric Kripke confirmou que a quinta e última temporada de <em>The Boys</em> ocorrerá cerca de seis meses após o final de <em>Gen V</em>. A conexão entre os eventos das duas séries parece cada vez mais forte, especialmente com o interesse de Starlight em Godolkin e no Projeto Odessa, sugerindo que a temporada final de <em>The Boys</em> pode apresentar reviravoltas igualmente impactantes.</p><p>O final da segunda temporada de <em>Gen V</em> estreia em 22 de outubro, exclusivamente no Prime Video.</p>",
+      "meta_description": "Criador de The Boys, Eric Kripke, reage com irritação à capacidade dos fãs de preverem reviravolta crucial em Gen V S2, envolvendo Dean Cipher.",
+      "focus_keyphrase": "Gen V reviravolta Dean Cipher",
+      "related_keyphrases": [
+        "Eric Kripke Gen V",
+        "The Boys universo",
+        "Thomas Godolkin Gen V"
+      ],
+      "slug": "gen-v-criador-critica-previsoes-reviravolta",
+      "categorias": [
+        {
+          "nome": "Gen V",
+          "grupo": "obras",
+          "evidence": "<em>Gen V</em> season 2"
+        },
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "<em>The Boys</em> and <em>Gen V</em> co-creator"
+        }
+      ],
+      "tags_sugeridas": [
+        "Gen V",
+        "The Boys",
+        "Eric Kripke",
+        "Prime Video",
+        "Super-heróis"
+      ],
+      "image_alt_texts": {
+        "image001-2.jpg": "Pôster da série Gen V, destacando o universo sombrio e violento.",
+        "jordan-marie-and-emma-looking-down-in-gen-v.jpg": "Jordan, Marie e Emma em uma cena de Gen V, investigando um mistério."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Boys: Criador critica previsões de fãs sobre reviravolta em Gen V | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Eric Kripke, criador de The Boys, expressa irritação com fãs que anteciparam a grande reviravolta de Dean Cipher em Gen V S2.",
+        "_yoast_wpseo_focuskw": "Gen V reviravolta Dean Cipher",
+        "_yoast_news_keywords": "Gen V, The Boys, Eric Kripke, Prime Video, Super-heróis, Thomas Godolkin",
+        "_yoast_wpseo_opengraph-title": "The Boys: Criador critica previsões de fãs sobre reviravolta em Gen V",
+        "_yoast_wpseo_opengraph-description": "Eric Kripke, criador de The Boys, expressa irritação com fãs que anteciparam a grande reviravolta de Dean Cipher em Gen V S2.",
+        "_yoast_wpseo_twitter-title": "The Boys: Criador critica previsões de fãs sobre reviravolta em Gen V",
+        "_yoast_wpseo_twitter-description": "Eric Kripke, criador de The Boys, expressa irritação com fãs que anteciparam a grande reviravolta de Dean Cipher em Gen V S2."
+      }
+    },
+    {
+      "titulo_final": "10 Vilões de TV que Precisam de um Abraço (e um deles Quebra Corações)",
+      "conteudo_final": "<p>O universo das séries de TV está repleto de personagens complexos, e alguns dos vilões mais memoráveis, apesar de suas ações questionáveis, revelam uma humanidade que os torna surpreendentemente simpáticos. Muitas vezes, o que separa um monstro de um herói é o ambiente em que cresceram e a falta de apoio.</p><h2>Ben Linus – Lost</h2><p>Introduzido como o enigmático líder dos \"Outros\" em <em>Lost</em>, Ben Linus (Michael Emerson) parecia ser o grande antagonista da ilha. No entanto, à medida que a série avançava, sua complexidade e vulnerabilidade vieram à tona. Criado na ilha, Ben foi marcado por um passado de abuso paterno, um trauma que o moldou e o levou a um caminho sombrio. Sua jornada de vilão para aliado relutante mostrou que, com o apoio de um grupo, ele poderia ter se tornado uma pessoa melhor.</p><h2>Homelander – The Boys</h2><p>Homelander (Antony Starr) representa a antítese do Superman, um ser de poder ilimitado, mas desprovido de emoções e com tendências sociopatas. Sua infância em um laboratório, sob o jugo de cientistas cruéis e sem afeto, é a chave para entender sua instabilidade. A série contrasta seu desenvolvimento com o de Clark Kent, mostrando como a ausência de amor e apoio pode levar à monstruosidade.</p><h2>Negan – The Walking Dead</h2><p>Negan (Jeffrey Dean Morgan) causou repulsa em <em>The Walking Dead</em> com atos brutais, como a morte de Glenn. Por temporadas, foi o vilão sádico que atormentava os sobreviventes. Contudo, o episódio \"Here's Negan\" revelou sua trágica história de perda, onde a morte de sua esposa o quebrou e o levou a fundar um culto violento. Essa vulnerabilidade exposta o tornou uma figura mais compreensível.</p><h2>Cersei Lannister – Game of Thrones</h2><p>A jornada de Cersei Lannister (Lena Headey) em <em>Game of Thrones</em> foi marcada por dor e humilhação, incluindo a infame caminhada da vergonha. Apesar de suas maquinações e crueldade, sua busca por poder e segurança em um mundo brutal a torna uma figura trágica. A profundidade de seu sofrimento, especialmente em seus relacionamentos destrutivos, a torna mais compreensível, mesmo que não perdoável.</p><h2>Don Draper – Mad Men</h2><p>Don Draper (Jon Hamm) iniciou <em>Mad Men</em> como um homem enigmático e infiel, vivendo uma mentira sobre sua identidade. Sua dificuldade em manter relacionamentos e seu medo da solidão o consumiam. No entanto, seu esforço genuíno em tentar ser um bom marido e pai, especialmente em seu segundo casamento, demonstra um desejo por conexão e redenção, apesar de seu ciclo vicioso de autodestruição.</p><h2>Stringer Bell – The Wire</h2><p>Stringer Bell (Idris Elba) em <em>The Wire</em> se destacava por sua abordagem empresarial ao tráfico de drogas, aspirando a uma vida legítima no ramo imobiliário. Sua história é um exemplo trágico da premissa da série: uma vez envolvido no submundo, a saída é quase impossível. Ele foi vítima de suas próprias ambições e conflitos, selando seu destino de forma irônica.</p><h2>Mr. Burns – The Simpsons</h2><p>O magnata ganancioso e inescrupuloso de <em>Os Simpsons</em>, Sr. Burns (Harry Shearer), esconde um lado mais terno e uma história trágica. Sua infância foi marcada pela separação de seus pais e pela criação por um bilionário frio. A série sugere que uma infância com mais afeto o teria transformado em uma pessoa emocionalmente mais rica, apesar da menor riqueza material.</p><h2>Logan Roy – Succession</h2><p>Logan Roy (Brian Cox) de <em>Succession</em> é um pai disfuncional que prioriza seu império midiático. No entanto, vislumbres de seu passado revelam cicatrizes físicas e emocionais decorrentes de uma infância abusiva. Essa experiência traumática explica sua dificuldade em demonstrar afeto e sua natureza implacável, tornando sua trajetória mais compreensível dentro do contexto de sua criação.</p><h2>Ralph Cifaretto – The Sopranos</h2><p>Ralph Cifaretto (Joe Pantoliano) em <em>The Sopranos</em> é frequentemente abjeto em suas ações, mas o episódio \"Whoever Did This\" revela sua dor profunda quando seu filho sofre um acidente. O momento de fragilidade, onde ele chora nos braços de Tony, expõe um ser que, em essência, anseia por cuidado e afeto, desmentindo sua fachada violenta.</p><h2>Saul Goodman – Breaking Bad/Better Call Saul</h2><p>Visto em <em>Breaking Bad</em> como o advogado de defesa de criminosos, Saul Goodman (Bob Odenkirk) era a personificação da falta de moralidade. No entanto, <em>Better Call Saul</em> desvendou a história de Jimmy McGill, um jovem advogado que, por causa de seu irmão e colegas condescendentes, recaiu na amoralidade. Suas escolhas foram moldadas por um ambiente que o empurrou para o abismo, alimentando sua fachada cínica.</p>",
+      "meta_description": "Descubra 10 vilões de TV que, apesar de suas maldades, mostram um lado vulnerável e humano, precisando, em muitos casos, de um abraço.",
+      "focus_keyphrase": "vilões de TV que precisam de um abraço",
+      "related_keyphrases": [
+        "personagens de TV complexos",
+        "vilões trágicos na TV",
+        "heróis e vilões"
+      ],
+      "slug": "viloes-tv-precisam-abraco",
+      "categorias": [
+        {
+          "nome": "Lost",
+          "grupo": "obras",
+          "evidence": "Ben Linus was introduced as the big bad in Lost"
+        },
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "Homelander is perhaps the best ever take on the well-worn “evil Superman” concept. He’s an emotionless sociopath with pretty much unlimited power — he’s like Anthony Fremont from The Twilight Zone."
+        },
+        {
+          "nome": "The Walking Dead",
+          "grupo": "obras",
+          "evidence": "When Negan popped Glenn’s eye out of his head in the season 7 premiere, he instantly overtook Shane, Gareth, and the Governor to become The Walking Dead’s most hateable villain."
+        },
+        {
+          "nome": "Game of Thrones",
+          "grupo": "obras",
+          "evidence": "Cersei Lannister is one of the least sympathetic characters in Game of Thrones"
+        },
+        {
+          "nome": "Mad Men",
+          "grupo": "obras",
+          "evidence": "When we first meet Don Draper, he’s not even trying to be a good husband to his wife Betty."
+        },
+        {
+          "nome": "The Wire",
+          "grupo": "obras",
+          "evidence": "Stringer Bell is not your average drug lord."
+        },
+        {
+          "nome": "The Simpsons",
+          "grupo": "obras",
+          "evidence": "Mr. Burns is a great comedy character"
+        },
+        {
+          "nome": "Succession",
+          "grupo": "obras",
+          "evidence": "Logan Roy is a terrible father who valued his media conglomerate over any of his children."
+        },
+        {
+          "nome": "The Sopranos",
+          "grupo": "obras",
+          "evidence": "Ralph Cifaretto is the last character I ever expected to empathize with."
+        },
+        {
+          "nome": "Breaking Bad",
+          "grupo": "franquias",
+          "evidence": "In Breaking Bad, we only ever saw Saul Goodman’s clown mask."
+        },
+        {
+          "nome": "Better Call Saul",
+          "grupo": "obras",
+          "evidence": "And then, in Better Call Saul, we saw how he ended up like that."
+        }
+      ],
+      "tags_sugeridas": [
+        "Vilões de TV",
+        "Ben Linus",
+        "Homelander",
+        "Negan",
+        "Cersei Lannister",
+        "Don Draper",
+        "Saul Goodman"
+      ],
+      "image_alt_texts": {
+        "michael-emerson-as-ben-linus-in-lost.jpg": "Michael Emerson como Ben Linus em Lost, transmitindo ambiguidade.",
+        "homelander-looking-off-screen-with-contempt-in-the-boys.jpg": "Homelander em The Boys, com um olhar de desprezo e arrogância.",
+        "negan-smith-holding-his-iconic-bat-lucille-in-the-walking-dead.jpg": "Jeffrey Dean Morgan como Negan Smith, empunhando seu icônico bastão Lucille em The Walking Dead.",
+        "lena-headey-as-cersei-in-game-of-thrones.jpg": "Lena Headey como Cersei Lannister em Game of Thrones, mostrando determinação sombria.",
+        "jon-hamm-s-don-draper-smiles-in-mad-men.jpg": "Jon Hamm como Don Draper em Mad Men, com um sorriso enigmático.",
+        "stringer-looking-serious-in-the-wire.jpg": "Idris Elba como Stringer Bell em The Wire, com uma expressão séria e calculista.",
+        "mr-burns-in-a-tank-looking-surprised-in-the-simpsons.jpg": "Sr. Burns em The Simpsons, em um tanque e com uma expressão de surpresa.",
+        "logan-roy-shiv-discussion.jpg": "Brian Cox como Logan Roy em Succession, em uma pose de poder e autoridade.",
+        "tony-grabs-ralph-in-the-sopranos.jpg": "Cena de Tony e Ralph em The Sopranos.",
+        "i-m-so-glad-bob-odenkirk-was-wrong-about-how-better-call-saul-was-going-to-end.jpg": "Bob Odenkirk como Saul Goodman/Jimmy McGill em Better Call Saul, com um sorriso astuto."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "10 Vilões de TV que Precisam de um Abraço (e um deles Quebra Corações) | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Descubra 10 vilões de TV icônicos, de Homelander a Cersei, que revelam um lado vulnerável e surpreendentemente humano.",
+        "_yoast_wpseo_focuskw": "vilões de TV que precisam de um abraço",
+        "_yoast_news_keywords": "Vilões de TV, Ben Linus, Homelander, Negan, Cersei Lannister, Don Draper, Saul Goodman, Lost, The Boys, The Walking Dead, Game of Thrones, Mad Men, The Wire, The Simpsons, Succession, The Sopranos, Breaking Bad, Better Call Saul",
+        "_yoast_wpseo_opengraph-title": "10 Vilões de TV que Precisam de um Abraço",
+        "_yoast_wpseo_opengraph-description": "Descubra 10 vilões de TV icônicos, de Homelander a Cersei, que revelam um lado vulnerável e surpreendentemente humano.",
+        "_yoast_wpseo_twitter-title": "10 Vilões de TV que Precisam de um Abraço",
+        "_yoast_wpseo_twitter-description": "Descubra 10 vilões de TV icônicos, de Homelander a Cersei, que revelam um lado vulnerável e surpreendentemente humano."
+      }
+    }
+  ]
+}

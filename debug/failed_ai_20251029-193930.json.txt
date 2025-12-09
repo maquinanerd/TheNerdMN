@@ -1,0 +1,63 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Os Melhores Cenários de Ficção Científica da TV: Da Terra à Galáxia",
+      "conteudo_final": "<p>A ficção científica (sci-fi) nos transporta para além das naves espaciais e aventuras intergalácticas. Muitas séries exploram cenários na Terra ou locais imaginários, demonstrando o potencial ilimitado do gênero. A ambientação é crucial para o sucesso, com alguns locais se tornando quase personagens em si.</p><h2>A Terra na Ficção Científica</h2><p>O Reino Unido, com sua excentricidade característica, oferece um tom distinto para séries de sci-fi. Mesmo produções espaciais como <em>Doctor Who</em> frequentemente retornam para explorar a cultura britânica. Séries como <em>Primeval</em> utilizam uma versão alternativa do Reino Unido, onde portais temporais trazem criaturas pré-históricas, criando um charme peculiar mesmo com efeitos especiais datados.</p><figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Explore os cenários icônicos de ficção científica que moldaram séries como Star Trek, Doctor Who, Black Mirror e The Expanse.",
+      "focus_keyphrase": "cenários de ficção científica",
+      "related_keyphrases": [
+        "melhores cenários sci-fi TV",
+        "ambientação em séries de ficção científica",
+        "locações de ficção científica famosas"
+      ],
+      "slug": "melhores-cenarios-ficcao-cientifica-tv",
+      "categorias": [
+        {
+          "nome": "Star Trek",
+          "grupo": "franquias",
+          "evidence": "Star Trek Franchise"
+        },
+        {
+          "nome": "Doctor Who",
+          "grupo": "franquias",
+          "evidence": "Doctor Who"
+        },
+        {
+          "nome": "Black Mirror",
+          "grupo": "obras",
+          "evidence": "Black Mirror"
+        }
+      ],
+      "tags_sugeridas": [
+        "ficção científica",
+        "sci-fi",
+        "cenários",
+        "séries de TV",
+        "Star Trek",
+        "Doctor Who",
+        "Black Mirror"
+      ],
+      "image_alt_texts": {
+        "untitled-design-363.jpg": "Cena de Primeval mostrando uma mulher armada em um cenário de ficção científica.",
+        "untitled-design-365.jpg": "Chrisjen em The Expanse diante de bandeiras e uma representação do sistema solar.",
+        "untitled-design-364.jpg": "Personagens de Firefly, incluindo Jayne, Zoe e Mal, em frente à nave Serenity.",
+        "star-trek-spock-zachary-quinto.jpg": "Zachary Quinto como Spock em Star Trek, representando o planeta Vulcan.",
+        "untitled-design-366.jpg": "Donna e o Doutor em Doctor Who em frente à TARDIS icônica.",
+        "the-upside-down-in-stranger-things-season-5.jpg": "O sombrio cenário do Upside Down em Stranger Things.",
+        "untitled-design-367.jpg": "Susan Ivanova em uma cena da estação espacial Babylon 5.",
+        "untitled-design-368.jpg": "Maeve em Westworld, sentada em um bar com expressão preocupada.",
+        "Mackenzie-Davis-in-Black-Mirror-San-Junipero.jpg": "Mackenzie Davis em San Junipero, um episódio de Black Mirror com foco em realidade virtual."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Os Melhores Cenários de Ficção Científica da TV: Da Terra à Galáxia | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Explore os cenários icônicos de ficção científica que moldaram séries como Star Trek, Doctor Who, Black Mirror e The Expanse.",
+        "_yoast_wpseo_focuskw": "cenários de ficção científica",
+        "_yoast_news_keywords": "cenários de ficção científica, sci-fi, séries de TV, Star Trek, Doctor Who, Black Mirror, The Expanse, Primeval, Firefly, Stranger Things, Babylon 5, Westworld",
+        "_yoast_wpseo_opengraph-title": "Os Melhores Cenários de Ficção Científica da TV: Da Terra à Galáxia",
+        "_yoast_wpseo_opengraph-description": "Explore os cenários icônicos de ficção científica que moldaram séries como Star Trek, Doctor Who, Black Mirror e The Expanse.",
+        "_yoast_wpseo_twitter-title": "Os Melhores Cenários de Ficção Científica da TV: Da Terra à Galáxia",
+        "_yoast_wpseo_twitter-description": "Explore os cenários icônicos de ficção científica que moldaram séries como Star Trek, Doctor Who, Black Mirror e The Expanse."
+      }
+    }
+  ]
+}

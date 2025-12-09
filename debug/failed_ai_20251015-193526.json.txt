@@ -1,0 +1,54 @@
+{
+  "titulo_final": "Star Trek: Discovery Quebrou Tabu com Primeiro \"F*ck\" em 2017",
+  "conteudo_final": "<p>Embora a imagem tradicional de <b>Star Trek</b> sempre tenha sido associada a um futuro utópico e livre de palavrões, a franquia, especialmente com a chegada de séries mais modernas, tem explorado novas fronteiras. Para a surpresa de muitos, a série quebrou um tabu de décadas ao introduzir a primeira ocorrência de um palavrão explícito, e não foi em <b>Star Trek: Picard</b>, como muitos poderiam imaginar.</p><h2>O Momento Chocante em Star Trek: Discovery</h2><p>Foi no quinto episódio de <b>Star Trek: Discovery</b>, em 2017, que a franquia quebrou seu próprio paradigma. Durante uma discussão científica crucial sobre a esporo-drive, a Cadete Tilly (Mary Wiseman) expressou sua empolgação com a descoberta de uma nova forma de utilizar a tecnologia, exclamando: “You guys, this is so f*cking cool!”. Essa fala marcou a primeira vez que a palavra “f*ck” foi dita em uma série de televisão de Star Trek, um momento que gerou discussões sobre a evolução da linguagem na ficção científica e o legado de Gene Roddenberry.</p><p>A cena foi ainda espelhada quando Anthony Rapp, como Stamets, também utilizou a expressão. A quebra dessa regra implícita gerou críticas de alguns fãs mais puristas, que viam a profanidade como um desvio da visão idealizada de Roddenberry para um futuro mais evoluído. No entanto, outros argumentaram que o uso foi contextualmente apropriado, refletindo a emoção genuína dos personagens em um momento de triunfo científico.</p><h2>O Impacto da Quebra de Regras na TV Canadense</h2><p>A ousadia de <b>Star Trek: Discovery</b> não passou despercebida e causou problemas para a emissora canadense Space, que transmitiu o episódio dublado em um horário nobre. Ao exibir o conteúdo sem aviso prévio sobre a linguagem explícita, a Space violou as regras do Canadian Broadcast Standards Council. Como consequência, o canal foi obrigado a emitir um pedido oficial de desculpas em horário nobre, duas vezes na semana seguinte.</p><p>A emissora justificou sua decisão de transmitir o episódio sem cortes, explicando que, após assistir, reconheceram que o uso da palavra "f*ck" foi surpreendente, dado o histórico de 51 anos da franquia ser relativamente livre de palavrões. No entanto, levaram em consideração a base de fãs leal e engajada de Star Trek e decidiram entregar o conteúdo esperado pelos espectadores da Space.</p><p>Curiosamente, a palavra “f*ck” quase fez sua estreia em <b>Star Trek IV: A Volta Para Casa</b>. Originalmente, um personagem secundário deveria ter dito “What the f*ck was that?”, mas a fala foi suavizada para “hell” na versão final do filme, demonstrando que a franquia já flertava com a ideia de usar linguagem mais forte há muito tempo.</p>",
+  "meta_description": "Em 2017, Star Trek: Discovery chocou ao usar um palavrão explícito, quebrando um tabu de 5 décadas e gerando polêmica na TV.",
+  "focus_keyphrase": "Star Trek profanidade",
+  "related_keyphrases": [
+    "Star Trek Discovery \"f*ck\"",
+    "Primeiro palavrão em Star Trek",
+    "Linguagem em Star Trek"
+  ],
+  "slug": "star-trek-discovery-palavrao-2017",
+  "categorias": [
+    {
+      "nome": "Star Trek: Discovery",
+      "grupo": "obras",
+      "evidence": "Star Trek: Discovery‘s fifth episode"
+    },
+    {
+      "nome": "Star Trek",
+      "grupo": "franquias",
+      "evidence": "Star Trek isn’t exactly known for profanity"
+    }
+  ],
+  "tags_sugeridas": [
+    "Star Trek",
+    "Star Trek Discovery",
+    "Gene Roddenberry",
+    "Cadete Tilly",
+    "Mary Wiseman",
+    "Profanidade",
+    "TV Canadense"
+  ],
+  "image_alt_texts": {
+    "2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png": "Imagem genérica com elementos de ficção científica para ilustrar o universo de Star Trek.",
+    "f-i-n-a-l-f-a-n-t-a-s-y.png": "Imagem genérica ilustrando o gênero fantasia, possivelmente relacionada a elementos de ficção científica.",
+    "King-of-the-Hill-Hank-Angry.jpg": "Hank Hill da animação King of the Hill, com expressão de raiva.",
+    "Star-Trek-Discovery-Stamet-and-Tilly.jpg": "Cadete Tilly e Stamets de Star Trek: Discovery em cena na série.",
+    "The-Simpsons-Bart-Gets-an-F-2.jpg": "Bart Simpson de Os Simpsons recebendo uma nota F.",
+    "blue-steel-congo.jpg": "Imagem de arquivo ou ilustrativa, possivelmente sem relação direta com o texto.",
+    "s-e-g-a.png": "Logo da Sega, empresa de videogames.",
+    "s-t-e-a-m.png": "Imagem genérica representando o elemento vapor ou tecnologia.",
+    "this-is-us-streaming-free-tubi.jpg": "Imagem promocional da série This Is Us, com menção ao streaming."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Star Trek: Discovery Quebrou Tabu com Primeiro \"F*ck\" em 2017",
+    "_yoast_wpseo_metadesc": "Em 2017, Star Trek: Discovery chocou ao usar um palavrão explícito, quebrando um tabu de 5 décadas e gerando polêmica na TV.",
+    "_yoast_wpseo_focuskw": "Star Trek profanidade",
+    "_yoast_news_keywords": "Star Trek,Star Trek Discovery,Profanidade,TV,Série,2017,Cadete Tilly",
+    "_yoast_wpseo_opengraph-title": "Star Trek: Discovery Quebrou Tabu com Primeiro \"F*ck\" em 2017",
+    "_yoast_wpseo_opengraph-description": "Em 2017, Star Trek: Discovery chocou ao usar um palavrão explícito, quebrando um tabu de 5 décadas e gerando polêmica na TV.",
+    "_yoast_wpseo_twitter-title": "Star Trek: Discovery Quebrou Tabu com Primeiro \"F*ck\" em 2017",
+    "_yoast_wpseo_twitter-description": "Em 2017, Star Trek: Discovery chocou ao usar um palavrão explícito, quebrando um tabu de 5 décadas e gerando polêmica na TV."
+  }
+}

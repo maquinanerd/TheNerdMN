@@ -1,0 +1,181 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Victorioso: Série derivada \"Hollywood Arts\" é confirmada pela Netflix",
+      "conteudo_final": "<p>A <strong>Netflix</strong> confirmou o desenvolvimento de uma série derivada de <em>Victorioso</em>, intitulada <em>Hollywood Arts</em>. A nova produção trará de volta as atrizes Daniella Monet e Yvette Nicole Brown em seus papéis.</p><h2>Revelação nas Redes Sociais</h2><p>O anúncio foi feito através da conta oficial da plataforma de streaming no X (antigo Twitter), com a publicação de um vídeo que apresentou os detalhes da nova série. A postagem gerou grande expectativa entre os fãs, que aguardavam por novidades sobre o universo de Victorioso.</p><figure><iframe src=\"https://platform.twitter.com/embed/Tweet.html?id=1981737447282086058\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe><figcaption>Anúncio de Hollywood Arts, derivado de Victorioso, feito pela Netflix.</figcaption></figure><p>A série spin-off foca no universo de <em>Hollywood Arts</em>, a escola de artes cênicas que serviu de palco para as aventuras originais. A confirmação da produção marca um momento significativo para os fãs da série que marcou uma geração.</p><h2>Elenco e Expectativas</h2><p>Daniella Monet, que interpretou Trina Vega, e Yvette Nicole Brown, no papel de Dina, retornam para dar vida a seus personagens. A expectativa é que a nova série explore novas histórias e desenvolva ainda mais o carisma de seus protagonistas, mantendo o tom que conquistou o público.</p>",
+      "meta_description": "Netflix anuncia \"Hollywood Arts\", série derivada de Victorioso, com retorno de Daniella Monet e Yvette Nicole Brown. Saiba mais!",
+      "focus_keyphrase": "Victorioso série derivada Hollywood Arts",
+      "related_keyphrases": [
+        "Netflix Victorioso",
+        "Hollywood Arts série",
+        "Daniella Monet Yvette Nicole Brown"
+      ],
+      "slug": "victorioso-serie-derivada-hollywood-arts-netflix",
+      "categorias": [
+        {
+          "nome": "Victorioso",
+          "grupo": "obras",
+          "evidence": "popular Nickelodeon show Victorious"
+        },
+        {
+          "nome": "Hollywood Arts",
+          "grupo": "obras",
+          "evidence": "spinoff called Hollywood Arts"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix just announced"
+        }
+      ],
+      "tags_sugeridas": [
+        "Victorioso",
+        "Hollywood Arts",
+        "Netflix",
+        "Daniella Monet",
+        "Yvette Nicole Brown",
+        "Série Derivada",
+        "Nickelodeon"
+      ],
+      "image_alt_texts": {
+        "image_placeholder.jpg": "Logo da Netflix com o título Hollywood Arts, indicando a nova série derivada de Victorioso."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Victorioso: Série derivada \"Hollywood Arts\" é confirmada pela Netflix",
+        "_yoast_wpseo_metadesc": "Netflix anuncia \"Hollywood Arts\", série derivada de Victorioso, com retorno de Daniella Monet e Yvette Nicole Brown. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Victorioso série derivada Hollywood Arts",
+        "_yoast_news_keywords": "Victorioso, Hollywood Arts, Netflix, Daniella Monet, Yvette Nicole Brown, Série Derivada, Nickelodeon",
+        "_yoast_wpseo_opengraph-title": "Victorioso: Série derivada \"Hollywood Arts\" é confirmada pela Netflix",
+        "_yoast_wpseo_opengraph-description": "Netflix anuncia \"Hollywood Arts\", série derivada de Victorioso, com retorno de Daniella Monet e Yvette Nicole Brown. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Victorioso: Série derivada \"Hollywood Arts\" é confirmada pela Netflix",
+        "_yoast_wpseo_twitter-description": "Netflix anuncia \"Hollywood Arts\", série derivada de Victorioso, com retorno de Daniella Monet e Yvette Nicole Brown. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Hulk no MCU: 8 vezes em que o Gigante Esmeralda piorou as coisas",
+      "conteudo_final": "<p>O <strong>Hulk</strong> é um dos heróis mais poderosos do Universo Cinematográfico Marvel (MCU), mas seu temperamento explosivo e, por vezes, sua falta de intelecto, causaram mais estragos do que benefícios. Ao longo de sua jornada, as tentativas de Bruce Banner de equilibrar sua inteligência e sua fúria frequentemente resultaram em desastres, por vezes catastróficos. Seja esmagando cidades ou mexendo com ciência perigosa, o Gigante Esmeralda tem um longo histórico de desastres bem-intencionados.</p><h2>Experimentos de Viagem no Tempo do Smart Hulk</h2><p>Quando <em>Vingadores: Ultimato</em> apresentou o Smart Hulk, uma versão mais calma e inteligente da fusão entre Bruce Banner e Hulk, a expectativa era de um herói mais estável. No entanto, suas primeiras tentativas de viagem no tempo quase eliminaram a equipe antes mesmo de a missão começar. Ao testar o traje quântico de Scott Lang, o Smart Hulk cometeu um erro de cálculo nos mecanismos do vórtice temporal.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/07/smart-hulk-trying-to-invent-time-travel-in-avengers-endgame.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Smart Hulk tentando inventar viagem no tempo em Vingadores: Ultimato.\"><figcaption>Smart Hulk em Vingadores: Ultimato, tentando dominar a viagem no tempo.</figcaption></figure><p>Hulk transformou Ant-Man em um bebê, um adolescente e um idoso em rápida sucessão. A cena é cômica, mas aterrorizante, demonstrando que um pequeno erro poderia ter desfeito a própria realidade. Sem a intervenção de Tony Stark para aperfeiçoar o GPS temporal, o roubo poderia ter falhado antes mesmo de começar. É a prova de que até o Hulk \"mais inteligente\" pode causar caos, desta vez com equações em vez de punhos.</p><h2>Hulk Destrói Acidentalmente o Quinjet</h2><p>Em <em>Thor: Ragnarok</em>, as emoções infantis de Hulk tomaram conta quando Thor tentou deixar Sakaar. Após anos de isolamento, Hulk encontrou um lugar onde era admirado e tratado como herói. Quando Thor tentou fugir secretamente a bordo do antigo Quinjet, Hulk o seguiu, desesperado para que ele ficasse.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/04/hulk-breaking-the-quinjet-in-thor-ragnarok.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Hulk destruindo o Quinjet em Thor: Ragnarok.\"><figcaption>A incapacidade de Hulk em controlar suas emoções levou à destruição do Quinjet.</figcaption></figure><p>Ao entrar na nave desajeitadamente, ele a esmagou sem se dar conta ou se importar com seu tamanho colossal. A cena é trágica sob a comédia. Hulk não quis destruir nada, mas sua incapacidade de controlar emoções e força arruinou a única chance de Thor de escapar. O incidente exemplifica o conflito interno de Hulk: anseia por conexão, mas colide constantemente com sua natureza destrutiva, transformando até atos de afeto em destruição inadvertida.</p><h2>Bruce Banner Dá Sangue Gama ao Líder</h2><p>Em <em>O Incrível Hulk</em>, a desesperança de Bruce Banner em se curar levou a um dos erros mais esquecidos, mas catastróficos, do MCU. Ao buscar ajuda do Dr. Samuel Sterns, ele compartilhou amostras de seu sangue irradiado por gama, na esperança de que Sterns reverteria a transformação. Em vez disso, o mesmo sangue mutou Sterns após pingar em uma ferida na cabeça.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/11/samuel-sterns-transforming-in-the-incredible-hulk.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Samuel Sterns se transformando em O Incrível Hulk.\"><figcaption>O sangue gama de Bruce Banner transformou Samuel Sterns no vilão Líder.</figcaption></figure><p>A exposição ao sangue gama fez com que seu crânio se expandisse e sua inteligência disparasse. Esse momento marca o nascimento do Líder, um vilão cujo gênio rivaliza com o de Banner, mas cuja moralidade desapareceu completamente. O MCU pareceu esquecer esse momento até anos depois, quando o Líder finalmente ressurgiu. A decisão de Banner de confiar em um cientista desconhecido mostra como sua mente brilhante ainda pode tomar decisões perigosamente imprudentes. Ao tentar eliminar o Hulk, Bruce efetivamente criou outro monstro movido a gama. De fato, alguns dos piores danos causados pelo Hulk não vêm de esmagar, mas sim de sua ciência.</p><h2>Hulk Quase Mata Viúva Negra no Helicarrier</h2><p>Em <em>Os Vingadores</em> (2012), a calma de Bruce Banner se desintegra quando ele é acionado por uma explosão no Helicarrier da S.H.I.E.L.D. Perdendo o controle, ele se transforma no Hulk e atravessa a nave, colocando em risco todos a bordo, incluindo a Viúva Negra. A tensa perseguição pelos corredores do Helicarrier é uma das sequências mais assustadoras do MCU.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/hulk-pursues-black-widow-on-the-helicarrier-in-the-avengers-2012.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Hulk perseguindo Viúva Negra no Helicarrier em Os Vingadores.\"><figcaption>A fúria de Hulk no Helicarrier quase levou à morte de Viúva Negra.</figcaption></figure><p>A cena mostra o quão pouca humanidade resta quando Hulk assume o controle. Natasha sobrevive por pouco, forçada a se esconder do monstro que mais tarde consideraria uma amiga. O dano infligido por Hulk quase derruba a base flutuante, pondo em risco toda a Iniciativa Vingadores em seu início. O momento destaca o perigo da volatilidade de Banner; ele é uma arma imprevisível mesmo entre heróis. A cena também estabelece o tom trágico de seu relacionamento posterior com Natasha, construído sobre o conhecimento de que, em seu pior momento, ele quase a destruiu.</p><h2>O Ódio de Hulk por Escadas Atrapalha o Roubo Temporal</h2><p>O roubo temporal meticulosamente coordenado pelos Vingadores desmorona em <em>Vingadores: Ultimato</em> por algo tão simples quanto o temperamento de Hulk. Após recuperar a Joia do Tempo durante a Batalha de Nova York, o Hulk de 2012 é instruído a usar as escadas. Isso leva a um acesso de raiva que derruba o eu futuro de Tony Stark.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/01/loki-stealing-the-tesseract-in-avengers-endgame.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Loki com o Tesseract em Vingadores: Ultimato.\"><figcaption>A fúria de Hulk em relação às escadas permitiu que Loki escapasse com o Tesseract.</figcaption></figure><p>Isso permite que Loki escape com o Tesseract, forçando a equipe a procurar a Joia do Espaço em outra linha do tempo. O que começa como uma piada descartável sobre a raiva de Hulk induzida por escadas atrapalha a equipe e tem consequências enormes para o MCU. A fuga de Loki cria a linha do tempo alternativa que impulsiona a série <em>Loki</em> e o caos da Saga Multiversal. O pequeno surto de Hulk muda literalmente o curso da história do MCU. É hilário, mas encapsula perfeitamente o Hulk Selvagem – não importa quantas vezes ele seja instruído a manter a calma, a frustração sempre vence. A falta de paciência de Hulk mostra que alguns hábitos (e problemas de raiva) nunca morrem, muitas vezes com consequências não intencionais.</p><h2>Bruce Cria Acidentalmente o Apex Hulk</h2><p>Na série agora cancelada <em>What If?</em>, no episódio \"E se... O Hulk Lutasse contra os Vingadores Mecânicos?\", Bruce Banner tenta se curar do Hulk absorvendo doses massivas de radiação gama. Em vez disso, ele cria algo muito pior. O experimento de Banner o separa de sua identidade Hulk e dá origem ao Apex, que reúne um exército de Bestas Gama e desencadeia uma Guerra Gama em larga escala.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/12/hulk-creates-the-apex-in-what-if-season-3.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Hulk cria o Apex em What If? Temporada 3.\"><figcaption>O experimento de Banner para se curar criou o Apex, uma ameaça ainda maior.</figcaption></figure><p>Os Vingadores implantam unidades Mech Hulkbuster sob o \"Protocolo Mighty Avenger\" para revidar. No entanto, Apex os sobrepuja, mostrando o quão destrutiva foi a \"solução\" de Banner. Ao tentar suprimir o monstro interior, Bruce inadvertidamente engendrou um novo. Isso destaca um padrão trágico na vida de Hulk. Mesmo em um mundo onde Bruce consegue se curar do Hulk, as repercussões são muito piores. Para Banner, Hulk é inescapável, uma parte de seu destino. Nas raras ocasiões em que ele consegue se separar dele, o mundo sofre por causa disso.</p><h2>Hulk Destrói Joanesburgo</h2><p>O devastador ataque de Hulk através de Joanesburgo em <em>Vingadores: Era de Ultron</em> continua sendo uma das sequências mais sombrias do MCU. Manipulado pelo controle mental de Wanda Maximoff, Hulk perde todo o autocontrole e transforma a cidade em uma zona de desastre. Civis fogem aterrorizados enquanto prédios desabam, carros explodem e o Homem de Ferro é forçado a usar sua armadura \"Hulkbuster\" apenas para conter o caos.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/04/hulk-is-mind-controlled-by-wanda-in-avengers-age-of-ultron.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Hulk sob controle mental de Wanda em Vingadores: Era de Ultron.\"><figcaption>A destruição de Joanesburgo por Hulk em Era de Ultron teve consequências políticas e sociais.</figcaption></figure><p>O dano colateral é imenso – tanto físico quanto político. A destruição de Hulk semeia a desconfiança pública e introduz a ideia de legislação sobre super-humanos antes de <em>Capitão América: Guerra Civil</em>. Para Bruce Banner, é mais uma cicatriz psicológica que aprofunda sua culpa e autodesprezo. Embora ele não estivesse agindo por vontade própria, a devastação cimentou a reputação de Hulk como uma ameaça global – mesmo aos seus próprios olhos. Isso leva ao autoexílio de Hulk no espaço. Em uma tarde horrível, o Vingador mais forte do mundo se tornou a arma mais temida do mundo, deixando cicatrizes que moldaram a política do MCU por anos.</p><h2>Bruce Banner Ajuda a Criar Ultron</h2><p>Poucos erros no MCU são tão catastróficos quanto a decisão de Bruce Banner de ajudar Tony Stark a criar Ultron. Impulsionados por seu desejo compartilhado de proteger o mundo, os dois cientistas usaram a Joia da Mente para desenvolver um sistema de defesa autoconsciente. No entanto, em vez de paz, eles deram à luz uma inteligência artificial genocida que via a humanidade como descartável.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/s.jpg?q=70&fit=crop&w=825&dpr=1\" alt=\"Bruce Banner e Tony Stark criando Ultron em Vingadores: Era de Ultron.\"><figcaption>A criação de Ultron por Banner e Stark é um dos maiores erros do MCU.</figcaption></figure><p>A criação de Ultron levou a incontáveis mortes, a destruição de Sokovia e o colapso quase total dos Vingadores. Embora Tony seja frequentemente culpado, o papel de Bruce é igualmente significativo – ele também sabia dos riscos, mas prosseguiu mesmo assim. Sua curiosidade científica e desejo de redenção ofuscaram seu julgamento, transformando intelecto em arrogância. Banner queria prevenir ameaças globais, mas em vez disso ajudou a criar uma. Ao tentar salvar a humanidade, ele lembrou a todos (incluindo a si mesmo) que sua mente pode ser tão perigosa quanto seu alter ego monstruoso. É o exemplo mais catastrófico de Hulk simplesmente piorando as coisas.</p>",
+      "meta_description": "Descubra 8 momentos no MCU em que a força e a ciência do Hulk levaram a consequências desastrosas. Veja como o Gigante Esmeralda piorou as situações.",
+      "focus_keyphrase": "Hulk MCU erros",
+      "related_keyphrases": [
+        "Hulk Vingadores",
+        "Bruce Banner MCU",
+        "Gigante Esmeralda problemas"
+      ],
+      "slug": "hulk-mcu-momentos-piores",
+      "categorias": [
+        {
+          "nome": "O Incrível Hulk",
+          "grupo": "obras",
+          "evidence": "The Incredible Hulk"
+        },
+        {
+          "nome": "Os Vingadores",
+          "grupo": "obras",
+          "evidence": "The Avengers"
+        },
+        {
+          "nome": "Thor: Ragnarok",
+          "grupo": "obras",
+          "evidence": "Thor: Ragnarok"
+        },
+        {
+          "nome": "Vingadores: Era de Ultron",
+          "grupo": "obras",
+          "evidence": "Avengers: Age of Ultron"
+        },
+        {
+          "nome": "Vingadores: Ultimato",
+          "grupo": "obras",
+          "evidence": "Avengers: Endgame"
+        }
+      ],
+      "tags_sugeridas": [
+        "Hulk",
+        "MCU",
+        "Bruce Banner",
+        "Vingadores",
+        "Marvel Studios",
+        "Gigante Esmeralda",
+        "Smart Hulk"
+      ],
+      "image_alt_texts": {
+        "smart-hulk-trying-to-invent-time-travel-in-avengers-endgame.jpg": "Smart Hulk em Vingadores: Ultimato, tentando inventar viagem no tempo.",
+        "hulk-breaking-the-quinjet-in-thor-ragnarok.jpg": "Hulk destruindo o Quinjet em Thor: Ragnarok.",
+        "samuel-sterns-transforming-in-the-incredible-hulk.jpg": "Samuel Sterns se transformando no Líder em O Incrível Hulk.",
+        "hulk-pursues-black-widow-on-the-helicarrier-in-the-avengers-2012.jpg": "Hulk perseguindo Viúva Negra no Helicarrier em Os Vingadores.",
+        "loki-stealing-the-tesseract-in-avengers-endgame.jpg": "Loki escapando com o Tesseract em Vingadores: Ultimato, após o incidente com Hulk.",
+        "hulk-creates-the-apex-in-what-if-season-3.jpg": "Criação do Apex Hulk em \"What If...?\"",
+        "hulk-is-mind-controlled-by-wanda-in-avengers-age-of-ultron.jpg": "Hulk sob controle de Wanda em Vingadores: Era de Ultron.",
+        "s.jpg": "Bruce Banner e Tony Stark criando Ultron em Vingadores: Era de Ultron.",
+        "the-incredible-hulk-official-postert.jpg": "Poster oficial de O Incrível Hulk."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Hulk no MCU: 8 vezes em que o Gigante Esmeralda piorou as coisas",
+        "_yoast_wpseo_metadesc": "Descubra 8 momentos no MCU em que a força e a ciência do Hulk levaram a consequências desastrosas. Veja como o Gigante Esmeralda piorou as situações.",
+        "_yoast_wpseo_focuskw": "Hulk MCU erros",
+        "_yoast_news_keywords": "Hulk, MCU, Bruce Banner, Vingadores, Marvel Studios, Gigante Esmeralda, Smart Hulk, O Incrível Hulk, Os Vingadores, Thor: Ragnarok, Vingadores: Era de Ultron, Vingadores: Ultimato",
+        "_yoast_wpseo_opengraph-title": "Hulk no MCU: 8 vezes em que o Gigante Esmeralda piorou as coisas",
+        "_yoast_wpseo_opengraph-description": "Descubra 8 momentos no MCU em que a força e a ciência do Hulk levaram a consequências desastrosas. Veja como o Gigante Esmeralda piorou as situações.",
+        "_yoast_wpseo_twitter-title": "Hulk no MCU: 8 vezes em que o Gigante Esmeralda piorou as coisas",
+        "_yoast_wpseo_twitter-description": "Descubra 8 momentos no MCU em que a força e a ciência do Hulk levaram a consequências desastrosas. Veja como o Gigante Esmeralda piorou as situações."
+      }
+    },
+    {
+      "titulo_final": "Fionna & Cake: Showrunner fala sobre novas vozes na 2ª temporada",
+      "conteudo_final": "<p>A segunda temporada de <em><strong>Adventure Time: Fionna &amp; Cake</strong></em> trará algumas mudanças vocais para seus personagens principais. Agora que o universo foi salvo, Fionna e seu companheiro felino estão desfrutando da adulação por impedirem a ameaça que assolava seu planeta. Com o episódio de estreia já disponível na HBO Max, a nova temporada promete manter a essência, mesmo com a ausência de alguns dubladores originais.</p><h2>Mudanças no Elenco de Vozes</h2><p>Donald Glover e Jenny Slate, que emprestavam suas vozes aos personagens Marshall Lee e Huntress Wizard, respectivamente, não retornarão para a nova temporada. Em seus lugares, assumem Kris Kollins e Ashly Burch. Em uma conversa recente, o showrunner e produtor executivo Adam Muto abordou como a equipe lidou com essa grande mudança.</p><p>“Eu diria que é muito mais a primeira opção”, confirmou Muto, referindo-se à liberdade dos novos atores para interpretar os personagens. Ele explicou que impor a necessidade de imitar as vozes originais seria um fardo para os atores. “Os atores têm suas próprias vozes únicas, então seria um esforço inútil tentar soar como Jenny Slate. Nós definitivamente escolhemos atores que combinam com uma certa vibe, mas tentamos evitar fazer dublagens que sejam apenas cópias sonoras.”</p><h2>A Terra de Ooo em Transformação</h2><p>Muto também comentou sobre o processo de decisão e a abordagem para permitir que os dubladores tragam suas próprias interpretações. “É difícil, porque são personagens estabelecidos, então também não dizemos necessariamente: ‘faça sua própria coisa com isso! Torne completamente diferente! É uma forma de equilibrar essas duas coisas”. Ele destacou que, em geral, a equipe busca evitar a dublagem idêntica, pois é complicado e já existem muitos exemplos de outras séries fazendo isso.</p><p>“Pensamos que poderíamos tentar torná-lo distinto de uma forma diferente. Por exemplo, Harvey Guillen interpretando Gary é diferente, mas ainda parece estar no mesmo tipo de bairro”, exemplificou Muto, indicando que as novas vozes trarão uma nova energia aos personagens, mantendo a conexão com o universo estabelecido.</p><h2>Lançamento Semanal na HBO Max</h2><p>Diferente do modelo de lançamento de temporada completa, <em>Adventure Time: Fionna &amp; Cake</em> terá episódios lançados semanalmente na HBO Max. Com o episódio de estreia já apresentando desafios significativos para os personagens principais, a série spin-off promete explorar territórios inéditos e continuar a expandir o amado universo de Hora de Aventura.</p>",
+      "meta_description": "Showrunner de Fionna & Cake, Adam Muto, explica como novas vozes para Marshall Lee e Huntress Wizard foram escolhidas para a 2ª temporada. Saiba mais!",
+      "focus_keyphrase": "Fionna & Cake novas vozes",
+      "related_keyphrases": [
+        "Adventure Time spin-off",
+        "Adam Muto entrevista",
+        "HBO Max Hora de Aventura"
+      ],
+      "slug": "fionna-cake-segunda-temporada-dublagem",
+      "categorias": [
+        {
+          "nome": "Adventure Time: Fionna & Cake",
+          "grupo": "obras",
+          "evidence": "Adventure Time: Fionna And Cake’s second season"
+        },
+        {
+          "nome": "Hora de Aventura",
+          "grupo": "franquias",
+          "evidence": "Adventure Time franchise"
+        },
+        {
+          "nome": "HBO Max",
+          "grupo": "editorias",
+          "evidence": "streaming on HBO Max"
+        }
+      ],
+      "tags_sugeridas": [
+        "Fionna & Cake",
+        "Hora de Aventura",
+        "Adam Muto",
+        "HBO Max",
+        "Dublagem",
+        "Série Animada",
+        "Marshall Lee"
+      ],
+      "image_alt_texts": {
+        "Adventure-Time.jpg": "Arte promocional de Adventure Time: Fionna & Cake com os personagens principais.",
+        "hbo-max-binge-dramas.jpg": "Logo da HBO Max.",
+        "netflix-scifi.jpg": "Logo da Netflix.",
+        "Army-in-Dune-Part-Two.jpg": "Poster do filme Duna: Parte Dois.",
+        "IT-Welcome-to-derry-rotten-tomatoes-score.jpg": "Título da série Welcome to Derry.",
+        "The-Division.jpg": "Imagem do jogo The Division.",
+        "vampire-movies-daybreakers-stake-land-only-lovers-left-alive.jpg": "Montagem de pôsteres de filmes de vampiro."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Fionna & Cake: Showrunner fala sobre novas vozes na 2ª temporada",
+        "_yoast_wpseo_metadesc": "Showrunner de Fionna & Cake, Adam Muto, explica como novas vozes para Marshall Lee e Huntress Wizard foram escolhidas para a 2ª temporada. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Fionna & Cake novas vozes",
+        "_yoast_news_keywords": "Fionna & Cake, Hora de Aventura, Adam Muto, HBO Max, Dublagem, Série Animada, Marshall Lee, Huntress Wizard, Donald Glover, Jenny Slate",
+        "_yoast_wpseo_opengraph-title": "Fionna & Cake: Showrunner fala sobre novas vozes na 2ª temporada",
+        "_yoast_wpseo_opengraph-description": "Showrunner de Fionna & Cake, Adam Muto, explica como novas vozes para Marshall Lee e Huntress Wizard foram escolhidas para a 2ª temporada. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Fionna & Cake: Showrunner fala sobre novas vozes na 2ª temporada",
+        "_yoast_wpseo_twitter-description": "Showrunner de Fionna & Cake, Adam Muto, explica como novas vozes para Marshall Lee e Huntress Wizard foram escolhidas para a 2ª temporada. Saiba mais!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "titulo_final": "Colossal: O Filme de Monstro Subestimado que Você Precisa Ver",
+  "conteudo_final": "<p>Às vezes, filmes incríveis não alcançam o sucesso esperado nas bilheterias. A história do cinema está repleta de produções aclamadas pela crítica e pelo público, mas que não atraíram multidões aos cinemas. Alguns se tornam favoritos cult ou encontram seu público no streaming, enquanto outros permanecem esquecidos. Um desses filmes, uma verdadeira joia do gênero de monstros, merece ser redescoberto e está disponível gratuitamente para streaming.</p><h2>Colossal: Uma Abordagem Única de Filme Kaiju</h2><p>Em 2016, Anne Hathaway estrelou <b>Colossal</b>, um filme que mescla múltiplos gêneros, entregando uma comédia de ficção científica com elementos de <b>kaiju</b>. Apesar de ter sido um fracasso de bilheteria, arrecadando apenas US$ 4,5 milhões globalmente contra um orçamento de produção de US$ 15 milhões, o longa foi um sucesso de crítica. Agora, todos que não o viram nos cinemas podem acompanhá-lo em streaming gratuito.</p><p>O filme acompanha Gloria (Hathaway), uma escritora desempregada que luta contra o alcoolismo. Seu namorado, Tim (Dan Stevens), a deixa e a expulsa de casa, forçando-a a retornar à sua cidade natal em New Hampshire. Lá, ela se reconecta com uma amiga de infância, Oscar (Jason Sudeikis), que lhe oferece um emprego em um bar, permitindo que ela aprofunde sua dependência de álcool. Simultaneamente, um monstro gigante aparece em Seul, Coreia do Sul, aterrorizando os moradores. Gloria começa a perceber uma conexão entre ela e o misterioso monstro, e que Oscar pode ter intenções mais sombrias.</p><p>A premissa de <b>Colossal</b> pode parecer bizarra, mas é um filme fantástico, sustentado em grande parte pelas atuações. Hathaway está particularmente excelente como Gloria, que não só precisa lidar com o fato de ser capaz de manifestar e controlar um kaiju gigante, mas também examinar o impacto de seu alcoolismo em sua vida. Sudeikis também se destaca em uma de suas melhores performances como um personagem que, superficialmente, parece um “cara legal”, mas que representa um aspecto mais sombrio que Gloria precisa confrontar.</p><p>Os temas maiores do filme o tornam uma obra realmente valiosa. Embora <b>Colossal</b> se apresente como um filme de monstros kaiju, é, na verdade, um estudo de personagem de Gloria. O monstro que ela manifesta é uma personificação em grande escala de suas próprias falhas pessoais e profissionais, e o filme usa isso para explorar ideias de vício e recuperação, bem como crescimento e autodescoberta. E, claro, há muita destruição de cidades, como se espera de um filme do gênero.</p><p>Com seus múltiplos temas e camadas, <b>Colossal</b> é um filme que o público pode ter perdido nos cinemas em 2017, mas que definitivamente não deveria perder agora. É perfeito para fãs de ficção científica que apreciam ação kaiju, mas também agrada fãs de drama que buscam explorar aspectos complexos da condição humana. A atuação é de primeira linha e o filme é diferente de tudo que existe. Você não vai querer perder.</p><p><b>Colossal</b> está disponível gratuitamente no Tubi.</p>",
+  "meta_description": "Descubra Colossal, o filme de monstro com Anne Hathaway que foi um fracasso de bilheteria, mas se tornou um sucesso de crítica e está disponível gratuitamente.",
+  "focus_keyphrase": "Colossal filme",
+  "related_keyphrases": [
+    "filme de monstro",
+    "Anne Hathaway",
+    "kaiju"
+  ],
+  "slug": "colossal-filme-monstro-subestimado",
+  "categorias": [
+    {
+      "nome": "Colossal",
+      "grupo": "obras",
+      "evidence": "Colossal, a film that blends multiple genres to deliver a sci-fi comedy that just so happens to also feature a kaiju."
+    },
+    {
+      "nome": "Anne Hathaway",
+      "grupo": "franquias",
+      "evidence": "While the idea of Anne Hathaway starring in a monster movie might seem a little out there, we promise you it’s not. In 2016, Hathaway starred in Colossal"
+    },
+    {
+      "nome": "kaiju",
+      "grupo": "franquias",
+      "evidence": "a kaiju"
+    }
+  ],
+  "tags_sugeridas": [
+    "colossal",
+    "anne hathaway",
+    "jason sudeikis",
+    "filme de monstro",
+    "kaiju",
+    "tubi",
+    "sci-fi"
+  ],
+  "image_alt_texts": {
+    "p-l-a-y-s-t-a-t-i-o-n-s-t-o-r-e.png": "Imagem promocional para Colossal, o filme de monstro.",
+    "Army-in-Dune-Part-Two.jpg": "Imagem promocional para Colossal, o filme de monstro.",
+    "Battlestar-Galactica-33.jpg": "Imagem promocional para Colossal, o filme de monstro.",
+    "colossal.jpg": "Anne Hathaway como Gloria em uma cena de Colossal, o filme de monstro.",
+    "dragon-ball-1.jpg": "Imagem promocional para Colossal, o filme de monstro.",
+    "prime-video-our-fault-culpa-nuestra_786c1f.jpg": "Imagem promocional para Colossal, o filme de monstro.",
+    "star-wars-lightsaber-hilt-advent-calendar.jpg": "Imagem promocional para Colossal, o filme de monstro.",
+    "x-b-o-x-g-a-m-e-p-a-s-s_a5caf8.png": "Imagem promocional para Colossal, o filme de monstro."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Colossal: O Filme de Monstro Subestimado que Você Precisa Ver",
+    "_yoast_wpseo_metadesc": "Descubra Colossal, o filme de monstro com Anne Hathaway que foi um fracasso de bilheteria, mas se tornou um sucesso de crítica e está disponível gratuitamente.",
+    "_yoast_wpseo_focuskw": "Colossal filme",
+    "_yoast_news_keywords": "Colossal, filme de monstro, Anne Hathaway, Jason Sudeikis, kaiju, Tubi, sci-fi, comédia",
+    "_yoast_wpseo_opengraph-title": "Colossal: O Filme de Monstro Subestimado que Você Precisa Ver",
+    "_yoast_wpseo_opengraph-description": "Descubra Colossal, o filme de monstro com Anne Hathaway que foi um fracasso de bilheteria, mas se tornou um sucesso de crítica e está disponível gratuitamente.",
+    "_yoast_wpseo_twitter-title": "Colossal: O Filme de Monstro Subestimado que Você Precisa Ver",
+    "_yoast_wpseo_twitter-description": "Descubra Colossal, o filme de monstro com Anne Hathaway que foi um fracasso de bilheteria, mas se tornou um sucesso de crítica e está disponível gratuitamente."
+  }
+}

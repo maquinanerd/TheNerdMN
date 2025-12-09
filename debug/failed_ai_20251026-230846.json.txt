@@ -1,0 +1,122 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "IT: Welcome to Derry - Por que Pennywise não apareceu no 1º episódio",
+      "conteudo_final": "<p>A entidade conhecida como <b>Pennywise</b>, que aterroriza a cidade de Derry, no Maine, e as mentes de leitores e espectadores desde o lançamento do livro de Stephen King em 1986, está de volta às telas em <b>IT: Welcome to Derry</b>. No entanto, a forma mais comum e famosa do personagem – o Palhaço Dançarino Pennywise – ainda não deu as caras na série da HBO, que serve como prequela para os dois filmes de <b>IT</b> lançados na década passada.</p><h2>O Retorno Atrasado de Pennywise</h2><p>O personagem aparecerá eventualmente, com <b>Bill Skarsgård</b> reprisando o papel que interpretou de forma brilhante e assustadora nos filmes de <b>IT</b>, e também com um crédito de produtor executivo. Contudo, a série adota uma abordagem deliberadamente paciente e cautelosa para apresentar o palhaço. Em entrevista ao ScreenRant, a cocriadora Barbara Muschietti explicou: “Eu já disse isso antes, mas ele é o nosso tubarão. Você tem que apresentá-lo com toda a sua complexidade nos momentos certos, caso contrário, <b>IT</b> perde seu poder. Tenho total convicção de que ele ainda é tão aterrorizante quanto é por causa dessa dosagem.”</p><p>Complementando, Andy Muschietti, que dirigiu os filmes de <b>IT</b> e os quatro primeiros episódios de <b>Welcome to Derry</b>, além de ter cocriado a série, afirmou que a abordagem fará sentido dentro da história e que o objetivo é manter o público adivinhando. “Ele está lá, mas não está. Ou não está lá, mas está.” Essa tática faz sentido e se alinha com o uso de <b>IT</b> no primeiro episódio, onde há substitutos para Pennywise.</p><h2>Mais Horrores em IT: Welcome To Derry</h2><p>Outro motivo para o atraso na introdução de Pennywise é explorar outras formas da entidade. No livro, a criatura assume cerca de 30 formas, embora o palhaço seja a principal. Um gostinho disso é dado logo no primeiro episódio. Desde o início, a presença de <b>IT</b> é sentida de forma arrepiante quando o jovem fugitivo Matty Clements pede carona ao carro errado.</p><p>A tensão aumenta gradualmente, desde a sensação inicial de que algo está errado até o horror explícito de um nascimento gráfico e um bebê monstruoso voador. Mas há vislumbres de Pennywise nos olhos e sorrisos dos personagens. É extremamente eficaz, e essa abertura é talvez a melhor cena do episódio, por ser tão assustadora e fundamentada na ideia horripilante de que <b>IT</b> poderia aparecer em qualquer lugar, a qualquer momento, sob qualquer disfarce.</p><p>Há mais por vir, incluindo um pesadelo com um abajur e o retorno daquele bebê, mais horrível do que nunca, matando alguns membros do que pareciam ser a versão do Clube dos Perdedores de <b>Welcome to Derry</b>. Embora os efeitos visuais sejam um pouco questionáveis – e, assim como nos filmes de <b>IT</b>, os sustos são mais eficazes quando dependem da atuação e do suspense do que de criações digitais – é, sem dúvida, uma reviravolta fantástica ter aquelas crianças mortas antes mesmo que Pennywise apareça, pois torna tudo mais imprevisível. Afinal, se é isso que eles estão fazendo agora, no primeiro episódio, que inferno será desencadeado quando o palhaço aparecer?</p><p>Podemos saber parte da resposta. <b>Welcome to Derry</b> adaptará a queima do Black Spot, um dos interlúdios do romance de King. O Black Spot é uma boate frequentada principalmente por clientes negros – e cofundada por <b>Dick Hallorann</b> de <b>O Iluminado</b> no livro – que é incendiada em um ataque racista por supremacistas brancos, embora também haja uma sugestão da influência de Pennywise. Presumivelmente, a série se dedicará a essa história, que será uma das grandes sequências a envolver o palhaço quando ele finalmente surgir, o que provavelmente ocorrerá em alguns episódios.</p><p>Isso também explica por que <b>IT: Welcome to Derry</b> pode se dar ao luxo de usar Pennywise com moderação: porque existem horrores do mundo real para explorar nesta série também. Mesmo apenas a partir do episódio 1, a série aborda o racismo da cidade – e o cenário de 1962 a posiciona bem para o movimento pelos direitos civis – ao lado de medos nucleares. A série vai entrelaçar esses elementos com <b>IT</b>/Pennywise, e essa combinação de monstros que são tanto humanos quanto místicos deve permitir que a série seja verdadeiramente aterrorizante.</p><p>Novos episódios de <b>IT: Welcome to Derry</b> estreiam aos domingos às 21h na HBO e HBO Max.</p>",
+      "meta_description": "Saiba por que Pennywise não apareceu no primeiro episódio de IT: Welcome to Derry e as razões criativas por trás da estratégia dos criadores da série.",
+      "focus_keyphrase": "Pennywise em IT: Welcome to Derry",
+      "related_keyphrases": [
+        "IT: Welcome to Derry Pennywise",
+        "Bill Skarsgård Pennywise",
+        "Stephen King Pennywise"
+      ],
+      "slug": "pennywise-em-welcome-to-derry",
+      "categorias": [
+        {
+          "nome": "IT: Welcome to Derry",
+          "grupo": "obras",
+          "evidence": "IT: Welcome to Derry"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "franquias",
+          "evidence": "Stephen King’s book"
+        },
+        {
+          "nome": "Pennywise",
+          "grupo": "personagens",
+          "evidence": "Pennywise the Dancing Clown"
+        }
+      ],
+      "tags_sugeridas": [
+        "it welcome to derry",
+        "pennywise",
+        "bill skarsgard",
+        "hbo max",
+        "stephen king",
+        "terror",
+        "prequel"
+      ],
+      "image_alt_texts": {
+        "PS2-PlayStation-2.png": "Logo do jogo PlayStation 2, sem relação com o conteúdo.",
+        "u-b-i-s-o-f-t.png": "Logo da Ubisoft, sem relação com o conteúdo.",
+        "Bill-Skarsgard-as-Pennywise-in-IT-Welcome-to-Derry.jpg": "Bill Skarsgård como Pennywise, aterrorizante na série IT: Welcome to Derry.",
+        "Ex-Machina.jpg": "Pôster do filme Ex Machina, sem relação com o conteúdo.",
+        "Firefly-Out-of-Gas-episode.jpg": "Cena do episódio 'Out of Gas' de Firefly, sem relação com o conteúdo.",
+        "Maggie-Cheung-in-martial-arts-movie-Hero.jpg": "Maggie Cheung no filme Hero, sem relação com o conteúdo.",
+        "Young-boy-and-Pennywise-in-IT-Welcome-to-Derry.jpg": "Um jovem menino e Pennywise em uma cena assustadora de IT: Welcome to Derry.",
+        "killjoys-cast.jpg": "Elenco da série Killjoys, sem relação com o conteúdo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "IT: Welcome to Derry - Por que Pennywise não apareceu no 1º episódio",
+        "_yoast_wpseo_metadesc": "Saiba por que Pennywise não apareceu no primeiro episódio de IT: Welcome to Derry e as razões criativas por trás da estratégia dos criadores da série.",
+        "_yoast_wpseo_focuskw": "Pennywise em IT: Welcome to Derry",
+        "_yoast_news_keywords": "IT: Welcome to Derry, Pennywise, Bill Skarsgård, Stephen King, HBO Max, Terror, Prequel",
+        "_yoast_wpseo_opengraph-title": "IT: Welcome to Derry - Por que Pennywise não apareceu no 1º episódio",
+        "_yoast_wpseo_opengraph-description": "Saiba por que Pennywise não apareceu no primeiro episódio de IT: Welcome to Derry e as razões criativas por trás da estratégia dos criadores da série.",
+        "_yoast_wpseo_twitter-title": "IT: Welcome to Derry - Por que Pennywise não apareceu no 1º episódio",
+        "_yoast_wpseo_twitter-description": "Saiba por que Pennywise não apareceu no primeiro episódio de IT: Welcome to Derry e as razões criativas por trás da estratégia dos criadores da série."
+      }
+    },
+    {
+      "titulo_final": "IT: Welcome to Derry subverte expectativas com o Clube dos Perdedores",
+      "conteudo_final": "<p>Em <b>IT: Welcome to Derry</b>, a nova série da HBO que explora o universo de Stephen King, a familiaridade com o Clube dos Perdedores dos filmes de <b>IT</b> é utilizada para surpreender o público. Ambientada no início dos anos 1960, a série promete desvendar as origens de Pennywise (Bill Skarsgård) e sua conexão profunda com a cidade, além de se conectar a outros marcos do universo King, como Dick Hallorann de <b>O Iluminado</b>. A série também aborda traumas geracionais e os males sociais que criam um ambiente propício para uma criatura alimentada pelo medo.</p><p>Os filmes de <b>IT</b> (2017) se tornaram um fenômeno cultural em grande parte pela química do jovem elenco do Clube dos Perdedores, transformando um filme de monstro em uma história poderosa sobre amizade e resiliência. Naturalmente, todo material promocional de <b>IT: Welcome to Derry</b> apresentou uma nova geração de crianças, estabelecendo a expectativa clara de que um novo Clube dos Perdedores ancoraria a narrativa da prequela. A série intencionalmente constrói sobre essa familiaridade, introduzindo um novo grupo de excluídos que se unem contra a escuridão que assola a cidade. No entanto, o episódio de estreia de <b>IT: Welcome to Derry</b> usa essa mesma expectativa a seu favor, entregando uma reviravolta chocante que sinaliza que a série não tem a intenção de simplesmente repetir uma fórmula de sucesso.</p><h2>O Novo Clube dos Perdedores em IT: Welcome to Derry</h2><p>O primeiro episódio apresenta Matty (Miles Ekhardt), um garoto de 12 anos que frequentemente invade o cinema da cidade para assistir a um filme de graça. Matty usa o cinema como forma de escapar da dura realidade de sua casa, onde vive com um pai abusivo que o deixou com um olho roxo. Obviamente, o trauma de Matty o torna presa fácil para Pennywise. Numa noite de neve, ele tenta pegar carona com uma família que passa por Derry e pede para levá-lo para longe de casa. A princípio, Matty pensa ter encontrado um refúgio, mas, ao que tudo indica, toda a viagem de carro é uma armadilha criada por Pennywise para extrair o medo de Matty antes de matar o garoto. Assim como a morte de Georgie (Jackson Robert Scott) inicia a formação do Clube dos Perdedores no filme de <b>IT</b>, o desaparecimento de Matty leva a um novo grupo de crianças a se unir.</p><p>Cada jovem estrela de <b>Welcome to Derry</b> possui uma personalidade única e um papel a desempenhar no conjunto, dando a entender que são os personagens principais da série de TV. Temos Terry (Mikkal Karim-Fidler), um garoto judeu criado em uma família ortodoxa, que prefere ler quadrinhos a estudar a Torá. Ele e seu melhor amigo, Phil (Jack Molloy Legault), aceitaram um suborno de doces da família de Matty para comparecer à festa de aniversário do garoto. Consequentemente, eles se sentem culpados pelo desaparecimento de Matty, acreditando que poderiam ter sido verdadeiros amigos para o garoto ostracizado enquanto ele estava por perto. Phil também tem uma irmã mais nova, Susie (Matilda Legault), que acaba se juntando ao grupo quando seus pais não conseguem encontrar uma babá.</p><p>O novo Clube dos Perdedores de <b>IT: Welcome to Derry</b> também inclui “Loony” Lilly (Clara Stack), uma das ex-colegas de Matty. Lilly recebeu seu apelido maldoso após ser internada no Asilo Juniper Hill após a morte de seu pai. O pai de Lilly trabalhava na fábrica de picles de Derry e foi despedaçado em um violento acidente com maquinário. Lilly assistiu a tudo, o que causou um colapso mental que sua mãe decidiu lidar enviando a garota para longe. Completando o grupo está Ronnie (Amanda Christine), filha do projetor Hank Grogan (Stephen Rider). Como Hank é um homem negro e uma das últimas pessoas a ver Matty, a polícia está ansiosa para culpar ele pelo desaparecimento do garoto.</p><p>Assim como no filme de <b>IT</b>, o novo Clube dos Perdedores começa a vivenciar fenômenos paranormais inexplicáveis, que eles deduzem estar ligados ao desaparecimento de Matty. Juntando suas cabeças, eles percebem que todas as pistas levam a <b>The Music Man</b>, o filme que Matty estava assistindo na noite em que morreu. Até então, parece óbvio que <b>IT: Welcome to Derry</b> seguirá essas crianças enquanto elas investigam Pennywise, imitando a estrutura narrativa do primeiro filme. O novo Clube dos Perdedores tem até seu próprio esconderijo, localizado no topo de um observatório abandonado que lhes proporciona uma bela vista de Derry. No entanto, <b>IT: Welcome to Derry</b> está jogando astutamente com as expectativas do público, preparando-os para uma reversão chocante na cena final do primeiro episódio.</p><h2>Como IT: Welcome to Derry Subverte Expectativas</h2><p>No final do Episódio 1 de <b>IT: Welcome to Derry</b>, Ronnie leva as crianças ao cinema para assistir <b>The Music Man</b> em segredo, em busca de pistas. Enquanto Ronnie permanece na sala de projeção, os outros quatro membros do novo Clube dos Perdedores sentam-se no cinema vazio. Para a surpresa deles, Matty está de alguma forma incorporado ao filme, acusando-os de negligência. Então, o inferno se solta quando a mesma criatura sinistra que matou Matty irrompe da tela.</p><p>Em uma exibição chocante de sangue e vísceras, a criatura persegue as crianças uma a uma, arrancando seus membros e jogando seus corpos sem vida contra as paredes. Logo, Terry, Phil e até mesmo a pequena Susie estão mortos. As únicas sobreviventes da provação são Lilly, que escapa a tempo, e Ronnie, que estava na sala de projeção. Assim, <b>IT: Welcome to Derry</b> estilhaça nosso senso de segurança, traindo todo o material promocional ao dizimar as crianças que pensávamos ser os heróis da história.</p><p>A reviravolta é brilhante porque o episódio passa a maior parte de sua duração construindo cuidadosamente as personalidades e conflitos internos de cada criança, tornando suas mortes súbitas verdadeiramente inesperadas. Esse investimento narrativo garante que suas mortes registrem um choque genuíno, não apenas um truque de terror barato. É também uma forma poderosa para o spin-off declarar sua independência dos filmes. Ao deixar claro que não vai simplesmente repetir a narrativa do filme, a série estabelece que está trilhando seu próprio caminho sombrio e imprevisível, onde nenhum personagem está a salvo.</p><p>Novos episódios de <b>IT: Welcome to Derry</b> estreiam na HBO todos os domingos.</p>",
+      "meta_description": "IT: Welcome to Derry choca o público ao eliminar o novo Clube dos Perdedores no primeiro episódio, subvertendo expectativas com uma reviravolta sangrenta.",
+      "focus_keyphrase": "Clube dos Perdedores em IT: Welcome to Derry",
+      "related_keyphrases": [
+        "IT: Welcome to Derry reviravolta",
+        "Pennywise ataca crianças",
+        "Stephen King série"
+      ],
+      "slug": "welcome-to-derry-clube-dos-perdedores",
+      "categorias": [
+        {
+          "nome": "IT: Welcome to Derry",
+          "grupo": "obras",
+          "evidence": "IT: Welcome to Derry"
+        },
+        {
+          "nome": "Stephen King",
+          "grupo": "franquias",
+          "evidence": "Stephen King’s cursed town"
+        },
+        {
+          "nome": "O Iluminado",
+          "grupo": "obras",
+          "evidence": "The Shining‘s Dick Hallorann"
+        }
+      ],
+      "tags_sugeridas": [
+        "it welcome to derry",
+        "clube dos perdedores",
+        "pennywise",
+        "hbo max",
+        "stephen king",
+        "terror",
+        "reviravolta"
+      ],
+      "image_alt_texts": {
+        "PS2-PlayStation-2.png": "Logo do jogo PlayStation 2, sem relação com o conteúdo.",
+        "u-b-i-s-o-f-t.png": "Logo da Ubisoft, sem relação com o conteúdo.",
+        "A-child-screaming-in-It-Welcome-to-Derry.jpg": "Uma criança gritando aterrorizada em uma cena de IT: Welcome to Derry.",
+        "Ex-Machina.jpg": "Pôster do filme Ex Machina, sem relação com o conteúdo.",
+        "Firefly-Out-of-Gas-episode.jpg": "Cena do episódio 'Out of Gas' de Firefly, sem relação com o conteúdo.",
+        "Maggie-Cheung-in-martial-arts-movie-Hero.jpg": "Maggie Cheung no filme Hero, sem relação com o conteúdo.",
+        "Mikkal-Karim-Fidler-as-Teddy-Clara-Stack-as-Lilly-and-Jack-Molloy-Legault-as-Phil-in-IT-Welcome-to-Derry.jpg": "Mikkal Karim-Fidler como Teddy, Clara Stack como Lilly e Jack Molloy Legault como Phil em IT: Welcome to Derry.",
+        "Mikkal-Karim-Fidler-as-Teddy-Clara-Stack-as-Lilly-and-Jack-Molloy-Legault-as-Phil-in-IT-Welcome-to-Derry.jpg": "Mikkal Karim-Fidler como Teddy, Clara Stack como Lilly e Jack Molloy Legault como Phil em IT: Welcome to Derry.",
+        "Miles-Ekhardt-as-Matty-in-IT-Welcome-to-Derry.jpg": "Miles Ekhardt como Matty em uma cena de IT: Welcome to Derry.",
+        "killjoys-cast.jpg": "Elenco da série Killjoys, sem relação com o conteúdo."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "IT: Welcome to Derry subverte expectativas com o Clube dos Perdedores",
+        "_yoast_wpseo_metadesc": "IT: Welcome to Derry choca o público ao eliminar o novo Clube dos Perdedores no primeiro episódio, subvertendo expectativas com uma reviravolta sangrenta.",
+        "_yoast_wpseo_focuskw": "Clube dos Perdedores em IT: Welcome to Derry",
+        "_yoast_news_keywords": "IT: Welcome to Derry, Clube dos Perdedores, Pennywise, HBO Max, Stephen King, Terror, Reviravolta",
+        "_yoast_wpseo_opengraph-title": "IT: Welcome to Derry subverte expectativas com o Clube dos Perdedores",
+        "_yoast_wpseo_opengraph-description": "IT: Welcome to Derry choca o público ao eliminar o novo Clube dos Perdedores no primeiro episódio, subvertendo expectativas com uma reviravolta sangrenta.",
+        "_yoast_wpseo_twitter-title": "IT: Welcome to Derry subverte expectativas com o Clube dos Perdedores",
+        "_yoast_wpseo_twitter-description": "IT: Welcome to Derry choca o público ao eliminar o novo Clube dos Perdedores no primeiro episódio, subvertendo expectativas com uma reviravolta sangrenta."
+      }
+    }
+  ]
+}

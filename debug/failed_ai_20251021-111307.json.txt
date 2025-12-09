@@ -1,0 +1,125 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Terror em 2025: Os 5 filmes de terror mais aguardados do ano",
+      "conteudo_final": "<p>O ano de 2025 se consolidou como um período de grande destaque para o gênero de terror. Filmes originais dominaram as bilheterias, como <b>Sinners</b>, o terror gótico de Ryan Coogler, que se tornou um fenômeno cultural, arrecadando impressionantes US$ 367 milhões mundialmente. Pouco atrás, <b>Weapons</b>, o mistério sobrenatural de Zach Cregger, cativou o público, faturando US$ 267 milhões e confirmando-se como mais uma vitória para o terror original.</p><h2>Franquias Clássicas e Novas Apostas</h2><p>Franquias já estabelecidas também tiveram resultados variados. <b>Premonição: O Legado da Morte</b> revitalizou a série com uma arrecadação massiva de US$ 314,9 milhões, enquanto <b>Invocação do Mal 4: Sem Saída</b> concluiu sua linha narrativa principal com uma performance recordista, apesar de recepção crítica mista. Contudo, o ano também expôs a volatilidade do gênero, com projetos de alto perfil que falharam em conectar com as audiências.</p><p>O aguardado reboot de <b>Wolf Man</b>, dirigido por Leigh Whannell, foi um notável tropeço, criticado por sua narrativa confusa e falta de sustos genuínos, resultando em decepção nas bilheterias. A fadiga de franquia também pareceu afetar alguns títulos, como a antologia de <i>found footage</i> <b>V/H/S/Beyond</b>, que obteve recepção inconsistente da crítica. Adaptações de Stephen King também tiveram um desempenho misto; apesar das críticas positivas pelas performances, <b>The Long Walk</b> foi, no fim das contas, um sucesso modesto nas bilheterias. Ainda assim, o ano se aproxima do fim com vários filmes altamente antecipados prometendo encerrar 2025 com chave de ouro.</p><h2>Os Filmes de Terror Mais Aguardados de 2025</h2><p>À medida que o ano avança, alguns títulos prometem marcar o calendário do terror:</p><h3>5) Anaconda</h3><p>Com estreia prevista para 25 de dezembro, o clássico de 1997 <b>Anaconda</b> retorna às telonas com uma pegada cômica. A nova versão traz Paul Rudd e Jack Black como amigos em crise de meia-idade que decidem recriar seu filme favorito da infância. A aventura cinematográfica amadora os leva para as profundezas da Amazônia, onde a produção caótica é interrompida pela aparição de uma cobra gigante real e mortal. Dirigido por Tom Gormican, conhecido por <b>O Peso do Talento</b>, este <i>meta-reboot</i> promete uma mistura de horror e comédia, transformando a premissa original em uma farsa intencional.</p><h3>4) Shelby Oaks</h3><p>Previsto para 24 de outubro, <b>Shelby Oaks</b> nasceu de uma campanha viral de marketing online centrada em uma equipe fictícia de investigadores paranormais. O filme segue a busca desesperada de uma mulher por sua irmã desaparecida, Riley, que sumiu após se tornar o foco da última investigação do grupo “Paranormal Paranoids” no YouTube. Este assustador mistério sobrenatural marca a estreia na direção do popular YouTuber Chris Stuckmann e tem gerado um burburinho considerável nos festivais. Recebendo críticas positivas por sua tensão atmosférica e performances realistas, o filme tem potencial para ser um sucesso que revitaliza o subgênero <i>found footage</i>.</p><h3>3) Dust Bunny</h3><p>Com lançamento marcado para 12 de dezembro, <b>Dust Bunny</b> vem da mente visionária de Bryan Fuller, criador de <b>Hannibal</b>. O filme é um thriller de terror fantástico que mescla maravilha infantil com tons sinistros. A história acompanha uma menina de dez anos que, após testemunhar um monstro comer sua família, pede ajuda ao vizinho para caçá-lo. Estrelado por Mads Mikkelsen e Sigourney Weaver, o filme promete uma narrativa inventiva que explora como crianças processam traumas através da imaginação.</p><h3>2) Silent Night, Deadly Night</h3><p>O controverso clássico slasher de 1984, <b>Um Duende de Natal</b> (Silent Night, Deadly Night), ganha uma nova roupagem com um reboot previsto para 12 de dezembro. Dirigido por Mike P. Nelson, esta nova versão acompanha Billy Chapman, um jovem traumatizado por ter visto seus pais assassinados por um homem vestido de Papai Noel. A cada Natal, ele mesmo assume o traje vermelho para entregar uma forma brutal de justiça festiva. Estrelado por Rohan Campbell, o filme promete um massacre sangrento que honra o tom irreverente do original.</p><h3>1) Five Nights at Freddy's 2</h3><p>Após o enorme sucesso do primeiro filme, a sequência de <b>Five Nights at Freddy's</b> é, sem dúvida, o evento de terror mais aguardado de 2025. O filme continuará a história de Mike Schmidt e os animatrônicos assombrados da Freddy Fazbear’s Pizza, com a trama prometendo draw forte do segundo jogo da popular série. Isso pode significar a introdução de personagens como The Puppet e os assustadores “Withered Animatronics”. Com Matthew Lillard e Josh Hutcherson confirmados, e a diretora Emma Tammi de volta, o filme tem tudo para expandir o terror atmosférico que tornou o original um sucesso de bilheteria.</p>",
+      "meta_description": "Conheça os 5 filmes de terror mais esperados para 2025, incluindo sequências de franquias e novas histórias assustadoras. Saiba tudo sobre os lançamentos!",
+      "focus_keyphrase": "filmes de terror 2025",
+      "related_keyphrases": [
+        "lançamentos de terror 2025",
+        "novos filmes de terror",
+        "sequências de terror"
+      ],
+      "slug": "filmes-terror-2025-aguardados",
+      "categorias": [
+        {
+          "nome": "Five Nights at Freddy's 2",
+          "grupo": "obras",
+          "evidence": "Five Nights at Freddy's 2"
+        },
+        {
+          "nome": "Anaconda",
+          "grupo": "obras",
+          "evidence": "Anaconda"
+        },
+        {
+          "nome": "Dust Bunny",
+          "grupo": "obras",
+          "evidence": "Dust Bunny"
+        }
+      ],
+      "tags_sugeridas": [
+        "Five Nights at Freddy's 2",
+        "Anaconda",
+        "Dust Bunny",
+        "Shelby Oaks",
+        "Silent Night Deadly Night",
+        "terror 2025",
+        "franquias de terror"
+      ],
+      "image_alt_texts": {
+        "Five-Nights-At-Freddys-2.jpg": "Logo do filme Five Nights at Freddy's 2 com animatrônicos assustadores.",
+        "Mads-Mikkelsen-in-Dust-Bunny.jpg": "Mads Mikkelsen em cena do filme de terror Dust Bunny.",
+        "Alan-Cumming-blue-as-Nightcrawler-in-X2-X-Men-United.jpg": "Alan Cumming como Noturno no filme X2: X-Men United.",
+        "Army-in-Dune-Part-Two.jpg": "Austin Butler como Feyd-Rautha Harkonnen em Duna: Parte Dois.",
+        "Battlestar-Galactica-33.jpg": "Arte conceitual da série Battlestar Galactica.",
+        "Camille-Sullivan-in-Shelby-Oaks.jpg": "Camille Sullivan em uma cena do filme de terror Shelby Oaks.",
+        "Paul-Rudd-and-Jack-Black-in-2025-Anaconda.jpg": "Paul Rudd e Jack Black em cena da nova versão de Anaconda.",
+        "Rohan-Campbell-as-the-killer-Santa-of-Silent-Night-Deadly-Night.jpg": "Rohan Campbell como o assassino Papai Noel em Silent Night Deadly Night.",
+        "Solo-Leveling-Jinwoo.jpg": "Jinwoo Sung no anime Solo Leveling.",
+        "Star-Cops.jpg": "Imagem promocional da série Star Cops.",
+        "p-s-5-p-r-o.png": "Logotipo do PlayStation 5.",
+        "p-s-5_aed69f.png": "Imagem do console PlayStation 5.",
+        "sunshine.jpg": "Arte conceitual do filme Sunshine."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Terror em 2025: Os 5 filmes mais aguardados do ano | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Conheça os 5 filmes de terror mais esperados para 2025, incluindo sequências de franquias e novas histórias assustadoras. Saiba tudo sobre os lançamentos!",
+        "_yoast_wpseo_focuskw": "filmes de terror 2025",
+        "_yoast_news_keywords": "Five Nights at Freddy's 2, Anaconda, Dust Bunny, Shelby Oaks, Silent Night Deadly Night, terror 2025, Ryan Coogler, Zach Cregger, Bryan Fuller",
+        "_yoast_wpseo_opengraph-title": "Terror em 2025: Os 5 filmes mais aguardados do ano",
+        "_yoast_wpseo_opengraph-description": "Conheça os 5 filmes de terror mais esperados para 2025, incluindo sequências de franquias e novas histórias assustadoras. Saiba tudo sobre os lançamentos!",
+        "_yoast_wpseo_twitter-title": "Terror em 2025: Os 5 filmes mais aguardados do ano",
+        "_yoast_wpseo_twitter-description": "Conheça os 5 filmes de terror mais esperados para 2025, incluindo sequências de franquias e novas histórias assustadoras. Saiba tudo sobre os lançamentos!"
+      }
+    },
+    {
+      "titulo_final": "Halo Co-Creator Critica Créditos de Battlefield 6 por Omissão",
+      "conteudo_final": "<p>Marcus Lehto, um dos criadores de <b>Halo</b>, expressou desapontamento com a Electronic Arts (EA) devido à forma como os créditos de <b>Battlefield 6</b> não reconheceram adequadamente a equipe da Ridgeline Games que trabalhou no título. O desenvolvimento do jogo foi um esforço colaborativo massivo, envolvendo a união de múltiplos estúdios para revitalizar a franquia.</p><h2>Críticas à Omissão de Créditos da Ridgeline Games</h2><p>Lehto utilizou o LinkedIn para manifestar sua insatisfação, afirmando que a equipe da Ridgeline Games "trabalhou incansavelmente por 1 a 2,5 anos" em <b>Battlefield 6</b> e não foi devidamente creditada. Embora alguns ex-desenvolvedores da Ridgeline apareçam nos créditos do jogo, seus nomes estão relegados a uma seção de \"Agradecimentos Especiais\". Lehto ressalta que essa menção, mesmo assim, deixa de fora alguns colaboradores, incluindo ele próprio. O co-criador de <b>Halo</b> deixou a Ridgeline Games discretamente em 2024, mas sua saída ocorreu após o estúdio já ter iniciado o trabalho na campanha de <b>Battlefield 6</b>. Embora não seja claro o quanto ele moldou a narrativa do jogo, ele e outros membros da Ridgeline contribuíram para o título.</p><p>A omissão de créditos pode ser ainda mais dolorosa para Lehto, considerando que seu antigo estúdio foi fechado pouco antes do lançamento de <b>Battlefield 6</b>. Logo após a saída de Lehto, a EA encerrou as atividades da Ridgeline Games como parte de uma onda de demissões em suas subsidiárias. Na época das demissões, Lehto expressou estar \"devastado\" e que os desenvolvedores afetados eram \"incrivelmente valiosos para a franquia <b>Battlefield</b>\".</p><h2>Contexto de Demissões na Indústria de Games</h2><p>As demissões têm sido um tema recorrente e controverso na indústria de games, conhecida por sua volatilidade. Mesmo após as demissões que afetaram a Ridgeline Games, a EA continuou com cortes, dispensando centenas de funcionários em 2025 em diversos estúdios. Desenvolvedoras ligadas a Microsoft e Tencent também sofreram layoffs no último ano, tornando este um período desafiador para muitos profissionais do setor.</p><p><b>Battlefield 6</b>, lançado em outubro de 2025, obteve um início forte de vendas, atingindo 7 milhões de cópias e faturando cerca de US$ 350 milhões nos primeiros cinco dias. No entanto, a polêmica em torno dos créditos destaca os desafios e as questões de reconhecimento profissional dentro de grandes projetos de desenvolvimento de jogos.</p>",
+      "meta_description": "Marcus Lehto, criador de Halo, critica a EA pela falta de reconhecimento à equipe da Ridgeline Games nos créditos de Battlefield 6. Entenda o caso.",
+      "focus_keyphrase": "Battlefield 6",
+      "related_keyphrases": [
+        "Marcus Lehto",
+        "Ridgeline Games",
+        "créditos de jogos",
+        "EA",
+        "Halo"
+      ],
+      "slug": "battlefield-6-creditos-omissao",
+      "categorias": [
+        {
+          "nome": "Battlefield",
+          "grupo": "franquias",
+          "evidence": "Battlefield Studios"
+        },
+        {
+          "nome": "EA",
+          "grupo": "editorias",
+          "evidence": "Publisher(s) EA"
+        }
+      ],
+      "tags_sugeridas": [
+        "Battlefield 6",
+        "Marcus Lehto",
+        "Ridgeline Games",
+        "EA",
+        "Halo",
+        "desenvolvimento de jogos",
+        "créditos de jogos"
+      ],
+      "image_alt_texts": {
+        "battlefield-6-press-image-1.jpg": "Cena de ação do jogo Battlefield 6 com veículos militares.",
+        "battlefield-6-press-image-2.jpg": "Soldados em combate em Battlefield 6.",
+        "battlefield-6-press-image-3.jpg": "Ambiente de combate aéreo em Battlefield 6.",
+        "battlefield-6-press-image-4.jpg": "Vista de um mapa em Battlefield 6.",
+        "battlefield-6-press-image-5.jpg": "Detalhe de personagem em Battlefield 6.",
+        "battlefield-6-press-image-6.jpg": "Mapa multijogador de Battlefield 6.",
+        "battlefield-6-press-image-7.jpg": "Um dos veículos presentes em Battlefield 6.",
+        "battlefield-6-tag-page-cover-art.jpg": "Arte da capa oficial de Battlefield 6.",
+        "battlefield-6-fighter-jets-helicopters.jpg": "Caças e helicópteros em ação em Battlefield 6.",
+        "battlefield-6-gameplay-vehicle-gunner.jpg": "Visão do artilheiro em um veículo no gameplay de Battlefield 6.",
+        "featured-image-1-10.jpg": "Imagem principal do jogo Battlefield 6."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Halo Co-Creator Critica Créditos de Battlefield 6 por Omissão | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Marcus Lehto, criador de Halo, critica a EA pela falta de reconhecimento à equipe da Ridgeline Games nos créditos de Battlefield 6. Entenda o caso.",
+        "_yoast_wpseo_focuskw": "Battlefield 6",
+        "_yoast_news_keywords": "Battlefield 6, Marcus Lehto, Ridgeline Games, EA, Halo, créditos de jogos, desenvolvimento de jogos",
+        "_yoast_wpseo_opengraph-title": "Halo Co-Creator Critica Créditos de Battlefield 6 por Omissão",
+        "_yoast_wpseo_opengraph-description": "Marcus Lehto, criador de Halo, critica a EA pela falta de reconhecimento à equipe da Ridgeline Games nos créditos de Battlefield 6. Entenda o caso.",
+        "_yoast_wpseo_twitter-title": "Halo Co-Creator Critica Créditos de Battlefield 6 por Omissão",
+        "_yoast_wpseo_twitter-description": "Marcus Lehto, criador de Halo, critica a EA pela falta de reconhecimento à equipe da Ridgeline Games nos créditos de Battlefield 6. Entenda o caso."
+      }
+    }
+  ]
+}

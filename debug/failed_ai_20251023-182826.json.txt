@@ -1,0 +1,58 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Marvel: Dois filmes de 2025 repetem o mesmo final contra vilões",
+      "conteudo_final": "<p>Os três filmes lançados pelo <strong>Universo Cinematográfico Marvel</strong> em 2025 apresentaram desfechos onde a forma de derrotar os vilões se tornou uma questão. Enquanto <em>Captain America: Brave New World</em> e <em>Thunderbolts*</em> compartilharam uma abordagem similar, <em>The Fantastic Four: First Steps</em> introduziu a nova encarnação da Família Real.</p>\n<h2>Dois filmes da Marvel com finais idênticos</h2>\n<p>Em <em>Captain America: Brave New World</em>, Sam Wilson (Anthony Mackie) enfrentou o General Ross, agora como Red Hulk, manipulado pelo Pensador. Já <em>Thunderbolts*</em> trouxe um grupo de anti-heróis contra um ser com poderes divinos, e <em>The Fantastic Four: First Steps</em> apresentou a nova Família Real protegendo o mundo da ameaça de Galactus.</p>\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/aZ89H_F_3-Y\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n<p>O ponto em comum entre <em>Brave New World</em> e <em>Thunderbolts*</em> reside na maneira como os heróis superaram seus antagonistas: através do diálogo e da compreensão. Em ambos os casos, a solução não foi a força bruta, mas sim a capacidade de reverter o estado do vilão por meio de apelos emocionais ou memórias.</p>\n<p>No caso de Capitão América, lembranças da filha do Presidente Ross foram cruciais para que ele recuperasse o controle de seu corpo transformado. Similarmente, em <em>Thunderbolts*</em>, Yelena Belova (Florence Pugh) conseguiu resgatar Bucky do controle de The Void, ajudando-o a retomar o controle de si mesmo.</p>\n<h2>Um padrão preocupante no MCU</h2>\n<p>Embora ambas as resoluções tenham sido aplicadas com diferentes níveis de sucesso, elas destacam um problema crescente no MCU: a introdução de personagens excessivamente poderosos para serem derrotados por meios convencionais. Isso se tornou um padrão, lembrando a fase inicial do universo, onde os vilões frequentemente eram apenas versões malignas dos heróis.</p>\n<div class=\"body-img landscape mobile-optimized\">\n<div class=\"responsive-img image-expandable img-article-item\" data-img-caption='""' data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg\" data-modal-container-id=\"single-image-modal-container\" data-modal-id=\"single-image-modal\" style=\"padding-bottom:50%\">\n<figure><picture><source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\" media=\"(max-width: 480px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2\"/>\n<source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1\" media=\"(max-width: 767px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1\"/>\n<source data-srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" media=\"(max-width: 1023px)\" srcset=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\"/>\n<img alt=\"G'iah derrotando Gravik em Invasão Secreta\" data-img-url=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" decoding=\"async\" height=\"413\" loading=\"lazy\" src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/g-iah-defeating-gravik-in-secret-invasion.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1\" width=\"825\"/>\n</picture><figcaption style=\"display: none;\">G'iah derrotando Gravik em Invasão Secreta</figcaption></figure>\n</div>\n</div>\n<p>Séries como <em>Invasão Secreta</em> já apresentaram desafios semelhantes, com personagens como G'iah adquirindo poderes de diversas entidades. Até mesmo <em>Doutor Estranho no Multiverso da Loucura</em> teve um final onde a Feiticeira Escarlate se auto-derrotou. Esse padrão de vilões poderosos que precisam ser convencidos a parar é um desafio que a Marvel Studios precisa superar.</p>\n<p>A esperança reside nos próximos lançamentos. <em>Spider-Man: Brand New Day</em> apresentará um herói com um vasto leque de vilões, e <em>Avengers: Doomsday</em> promete trazer o icônico Doutor Destino, figuras que podem oferecer desafios dignos aos heróis do MCU, revitalizando a dinâmica de confronto.</p>",
+      "meta_description": "Dois filmes da Marvel em 2025, Capitão América e Thunderbolts*, terminaram com vilões derrotados da mesma forma. Entenda a tendência.",
+      "focus_keyphrase": "filmes da Marvel 2025",
+      "related_keyphrases": [
+        "Universo Cinematográfico Marvel",
+        "Captain America: Brave New World",
+        "Thunderbolts*"
+      ],
+      "slug": "marvel-filmes-2025-finais-iguais",
+      "categorias": [
+        {
+          "nome": "Marvel Cinematic Universe",
+          "grupo": "franquias",
+          "evidence": "Marvel Cinematic Universe"
+        },
+        {
+          "nome": "Captain America: Brave New World",
+          "grupo": "obras",
+          "evidence": "Captain America: Brave New World"
+        },
+        {
+          "nome": "Thunderbolts*",
+          "grupo": "obras",
+          "evidence": "Thunderbolts*"
+        }
+      ],
+      "tags_sugeridas": [
+        "Marvel Studios",
+        "MCU",
+        "Capitão América",
+        "Thunderbolts",
+        "Anthony Mackie",
+        "Florence Pugh",
+        "Filmes de 2025"
+      ],
+      "image_alt_texts": {
+        "anthony-mackie-in-full-captain-america-costume-with-red-wing-drones-standing-in-front-of-cherry-blossoms-in-captain-america-brave-new-world-jpg.jpg": "Anthony Mackie como Capitão América em 'Captain America: Brave New World', com drones Redwing.",
+        "g-iah-defeating-gravik-in-secret-invasion.jpg": "G'iah derrota Gravik em uma cena de combate de 'Invasão Secreta'.",
+        "captain-america-brave-new-world-poster.jpg": "Poster oficial do filme 'Captain America: Brave New World', destacando o Capitão América.",
+        "01685606_poster_w780.jpg": "Poster oficial do filme 'Thunderbolts*', apresentando a equipe principal."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Marvel: Dois filmes de 2025 repetem o mesmo final contra vilões | MaquinaNerd",
+        "_yoast_wpseo_metadesc": "Dois filmes da Marvel em 2025, Capitão América e Thunderbolts*, terminaram com vilões derrotados da mesma forma. Entenda a tendência.",
+        "_yoast_wpseo_focuskw": "filmes da Marvel 2025",
+        "_yoast_news_keywords": "Marvel Studios, MCU, Capitão América, Thunderbolts, Anthony Mackie, Florence Pugh, Filmes de 2025, Doutor Destino",
+        "_yoast_wpseo_opengraph-title": "Marvel: Dois filmes de 2025 repetem o mesmo final contra vilões",
+        "_yoast_wpseo_opengraph-description": "Dois filmes da Marvel em 2025, Capitão América e Thunderbolts*, terminaram com vilões derrotados da mesma forma. Entenda a tendência.",
+        "_yoast_wpseo_twitter-title": "Marvel: Dois filmes de 2025 repetem o mesmo final contra vilões",
+        "_yoast_wpseo_twitter-description": "Dois filmes da Marvel em 2025, Capitão América e Thunderbolts*, terminaram com vilões derrotados da mesma forma. Entenda a tendência."
+      }
+    }
+  ]
+}

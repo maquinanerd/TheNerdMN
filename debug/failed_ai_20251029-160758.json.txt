@@ -1,0 +1,149 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Predator: Badlands pode quebrar recordes de bilheteria da franquia",
+      "conteudo_final": "<p>As primeiras projeções para <b>Predator: Badlands</b> indicam que o filme tem potencial para quebrar um recorde histórico na franquia de nove filmes. O longa, que estreia nos cinemas em 7 de novembro, é dirigido por Dan Trachtenberg, responsável por <i>Prey</i> (2022) e <i>Predator: Killer of Killers</i> (2025), ambos lançados no streaming Hulu.</p>\n\n<h2>Projeções de Bilheteria</h2>\n<p>A consultoria <i>Cinelytic</i> divulgou suas previsões, estimando que <b>Predator: Badlands</b> arrecade entre US$ 48,7 milhões e US$ 189,2 milhões em bilheteria doméstica. As projeções internacionais variam de US$ 76,1 milhões a US$ 295,6 milhões, com a expectativa de que o filme fique no meio dessas faixas.</p>\n\n<p>Os dados sugerem um total global combinado de US$ 253,9 milhões (US$ 99,1 milhões domésticos e US$ 154,8 milhões internacionais). Se confirmada, essa marca superaria o recorde anterior da franquia, estabelecido por <i>Alien vs. Predator</i> em 2004, com US$ 172,5 milhões.</p>\n\n<p>As projeções também incluem receitas de mídia física, VOD e TV, com estimativas de US$ 186,1 milhões na América do Norte e US$ 233,8 milhões internacionalmente, totalizando US$ 419,9 milhões mundialmente. Com um orçamento reportado de US$ 100 milhões, o ponto de equilíbrio estimado em US$ 250 milhões parece alcançável apenas com a bilheteria.</p>\n\n<h2>Desempenho Histórico da Franquia</h2>\n<p>Comparando o desempenho projetado com os filmes anteriores, mesmo ajustados pela inflação, <b>Predator: Badlands</b> se posicionaria bem. Embora não lidere o ranking ajustado, suas projeções o colocariam em terceiro lugar, atrás do filme original de 1987 (US$ 281,3 milhões ajustados) e <i>Alien vs. Predator</i> (US$ 295,7 milhões ajustados).</p>\n\n<p>A tabela abaixo detalha o desempenho global dos filmes da saga <i>Predator</i>:</p>\n\n<table>\n<thead>\n<tr>\n<th>Título</th>\n<th>Bilheteria Mundial</th>\n<th>Bilheteria Mundial (Ajustada)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><i>Predator</i> (1987)</td>\n<td>US$ 98,3 milhões</td>\n<td>US$ 281,3 milhões</td>\n</tr>\n<tr>\n<td><i>Predator 2</i> (1990)</td>\n<td>US$ 54,8 milhões</td>\n<td>US$ 133 milhões</td>\n</tr>\n<tr>\n<td><i>Alien vs. Predator</i> (2004)</td>\n<td>US$ 172,5 milhões</td>\n<td>US$ 295,7 milhões</td>\n</tr>\n<tr>\n<td><i>Aliens vs. Predator: Requiem</i> (2007)</td>\n<td>US$ 128,9 milhões</td>\n<td>US$ 199,3 milhões</td>\n</tr>\n<tr>\n<td><i>Predators</i> (2010)</td>\n<td>US$ 127,2 milhões</td>\n<td>US$ 189,5 milhões</td>\n</tr>\n<tr>\n<td><i>The Predator</i> (2018)</td>\n<td>US$ 159,5 milhões</td>\n<td>US$ 205,2 milhões</td>\n</tr>\n<tr>\n<td><i>Prey</i> (2022)</td>\n<td>N/A</td>\n<td>N/A</td>\n</tr>\n<tr>\n<td><i>Predator: Killer of Killers</i> (2025)</td>\n<td>N/A</td>\n<td>N/A</td>\n</tr>\n</tbody>\n</table>\n\n<h2>Recepção e Expectativas</h2>\n<p>É importante notar que a <i>Cinelytic</i> é uma empresa relativamente nova em previsões de bilheteria, e outras fontes apresentam números diferentes. Por exemplo, a <i>Box Office Theory</i> projeta um máximo de US$ 60 milhões para a bilheteria doméstica.</p>\n\n<p>No entanto, há razões para otimismo. <i>Killer of Killers</i> e <i>Prey</i> são os filmes mais bem avaliados da franquia no Rotten Tomatoes, com 95% e 94% de aprovação, respectivamente, superando os 81% do original.</p>\n\n<p>Se o bom desempenho dos filmes anteriores de Trachtenberg se refletir em <b>Predator: Badlands</b>, o novo capítulo pode se tornar um grande sucesso de bilheteria.</p>",
+      "meta_description": "Predator: Badlands tem projeções animadoras de bilheteria, podendo superar recordes históricos da franquia. Saiba mais sobre as expectativas.",
+      "focus_keyphrase": "Predator: Badlands bilheteria",
+      "related_keyphrases": [
+        "Predator: Badlands recorde",
+        "Franquia Predator bilheteria",
+        "Projeções de bilheteria Predator"
+      ],
+      "slug": "predator-badlands-recorde-bilheteria",
+      "categorias": [
+        {
+          "nome": "Predator: Badlands",
+          "grupo": "obras",
+          "evidence": "Predator: Badlands"
+        },
+        {
+          "nome": "Predator",
+          "grupo": "franquias",
+          "evidence": "Predator: Badlands"
+        }
+      ],
+      "tags_sugeridas": [
+        "Predator: Badlands",
+        "Dan Trachtenberg",
+        "Prey",
+        "Alien vs. Predator",
+        "Bilheteria de cinema"
+      ],
+      "image_alt_texts": {
+        "predator-badlands-official-poster.jpeg": "Pôster oficial do filme Predator: Badlands com o título em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Predator: Badlands pode quebrar recordes de bilheteria da franquia",
+        "_yoast_wpseo_metadesc": "Predator: Badlands tem projeções animadoras de bilheteria, podendo superar recordes históricos da franquia. Saiba mais sobre as expectativas.",
+        "_yoast_wpseo_focuskw": "Predator: Badlands bilheteria",
+        "_yoast_news_keywords": "Predator: Badlands, Predator, Dan Trachtenberg, Bilheteria, Cinema, Franquia Predator",
+        "_yoast_wpseo_opengraph-title": "Predator: Badlands pode quebrar recordes de bilheteria da franquia",
+        "_yoast_wpseo_opengraph-description": "Predator: Badlands tem projeções animadoras de bilheteria, podendo superar recordes históricos da franquia. Saiba mais sobre as expectativas.",
+        "_yoast_wpseo_twitter-title": "Predator: Badlands pode quebrar recordes de bilheteria da franquia",
+        "_yoast_wpseo_twitter-description": "Predator: Badlands tem projeções animadoras de bilheteria, podendo superar recordes históricos da franquia. Saiba mais sobre as expectativas."
+      }
+    },
+    {
+      "titulo_final": "After the Hunt: Julia Roberts recebe cachê milionário apesar do fracasso",
+      "conteudo_final": "<p>Apesar do desempenho decepcionante nas bilheterias, o filme <b>After the Hunt</b> garantiu o pagamento prometido à sua estrela principal, Julia Roberts. Produzido com um orçamento entre US$ 70 e US$ 80 milhões, o thriller psicológico arrecadou apenas US$ 5,599 milhões mundialmente.</p>\n\n<h2>Elenco e Trama</h2>\n<p>Além de Roberts, vencedora do Oscar, o filme conta com Andrew Garfield, duas vezes indicado ao Oscar, e Ayo Edebiri, vencedora do Emmy. A trama acompanha uma professora de Yale (Roberts), candidata à permanência, que se vê envolvida em uma acusação de assédio contra outro professor (Garfield) por parte de sua aluna favorita (Edebiri). O filme teve sua estreia mundial no Festival de Cinema de Veneza em agosto de 2025.</p>\n\n<h2>Recepção Crítica e de Público</h2>\n<p>Após uma recepção morna em Veneza, <b>After the Hunt</b> obteve uma pontuação decepcionante de 38% tanto no Tomatometer quanto no Popcornmeter. Essa recepção negativa se refletiu nas bilheterias, com o filme tendo pouca expressão em um mês marcado pelo lançamento de potenciais indicados ao Oscar em 2026.</p>\n\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Julia Roberts recebeu US$ 20 milhões por After the Hunt, filme que fracassou nas bilheterias. Saiba mais sobre o alto cachê e o desempenho do longa.",
+      "focus_keyphrase": "After the Hunt Julia Roberts cachê",
+      "related_keyphrases": [
+        "After the Hunt bilheteria",
+        "Julia Roberts salário",
+        "Fracasso de bilheteria After the Hunt"
+      ],
+      "slug": "after-the-hunt-julia-roberts-cache",
+      "categorias": [
+        {
+          "nome": "After the Hunt",
+          "grupo": "obras",
+          "evidence": "After the Hunt"
+        },
+        {
+          "nome": "Julia Roberts",
+          "grupo": "pessoas",
+          "evidence": "Julia Roberts"
+        },
+        {
+          "nome": "Andrew Garfield",
+          "grupo": "pessoas",
+          "evidence": "Andrew Garfield"
+        }
+      ],
+      "tags_sugeridas": [
+        "After the Hunt",
+        "Julia Roberts",
+        "Andrew Garfield",
+        "Ayo Edebiri",
+        "Luca Guadagnino",
+        "Bilheteria de cinema"
+      ],
+      "image_alt_texts": {
+        "maggie-talking-to-a-severe-looking-alma-in-after-the-hunt-2.jpg": "Maggie conversando com Alma em uma cena tensa do filme After the Hunt.",
+        "after-the-hunt-2025-updated-film-poster.jpg": "Pôster atualizado do filme After the Hunt, com o título em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "After the Hunt: Julia Roberts recebe cachê milionário apesar do fracasso",
+        "_yoast_wpseo_metadesc": "Julia Roberts recebeu US$ 20 milhões por After the Hunt, filme que fracassou nas bilheterias. Saiba mais sobre o alto cachê e o desempenho do longa.",
+        "_yoast_wpseo_focuskw": "After the Hunt Julia Roberts cachê",
+        "_yoast_news_keywords": "After the Hunt, Julia Roberts, Andrew Garfield, Ayo Edebiri, Luca Guadagnino, Bilheteria, Cinema",
+        "_yoast_wpseo_opengraph-title": "After the Hunt: Julia Roberts recebe cachê milionário apesar do fracasso",
+        "_yoast_wpseo_opengraph-description": "Julia Roberts recebeu US$ 20 milhões por After the Hunt, filme que fracassou nas bilheterias. Saiba mais sobre o alto cachê e o desempenho do longa.",
+        "_yoast_wpseo_twitter-title": "After the Hunt: Julia Roberts recebe cachê milionário apesar do fracasso",
+        "_yoast_wpseo_twitter-description": "Julia Roberts recebeu US$ 20 milhões por After the Hunt, filme que fracassou nas bilheterias. Saiba mais sobre o alto cachê e o desempenho do longa."
+      }
+    },
+    {
+      "titulo_final": "Minority Report: Tom Cruise irritado com Colin Farrell por 46 takes",
+      "conteudo_final": "<p>Colin Farrell, estrela de <b>Minority Report</b>, relembrou um dia particularmente difícil nas filmagens do clássico de ficção científica de 2002, dirigido por Steven Spielberg. O ator revelou que sua dificuldade em gravar uma única linha irritou Tom Cruise, seu colega de elenco.</p>\n\n<h2>O Dia Difícil de Farrell</h2>\n<p>Durante uma participação no programa <i>The Late Show With Stephen Colbert</i>, Farrell contou que, em seu aniversário, pediu para não trabalhar. No entanto, a produção o convocou para as filmagens. Na noite anterior, ele celebrou seu aniversário com excessos, o que o deixou despreparado para o dia seguinte.</p>\n\n<p>\"Eu tive um dos piores dias que já tive em um set de filmagem em 'Minority Report'. Era meu aniversário em 31 de maio, e estávamos filmando. Eu implorei à produção – quem eu pensava que era? – para não me fazer trabalhar no meu aniversário\", relatou Farrell.</p>\n\n<p>Ao chegar ao set, o assistente de direção o alertou sobre seu estado. Mesmo assim, Farrell pediu seis cervejas e um maço de cigarros para tentar se recompor. Ele admitiu que essa atitude não foi profissional, especialmente considerando que buscou reabilitação anos depois.</p>\n\n<h2>A Linha Problemática</h2>\n<p>A linha que causou o problema foi: \"Tenho certeza de que todos vocês captaram o paradoxo fundamental da metodologia de precriminação\". Farrell precisou de 46 tentativas para gravá-la corretamente. Ele descreveu a pressão de ter que acertar a fala, temendo que sair para tomar ar fresco piorasse a situação.</p>\n\n<p>\"Eu nunca vou esquecer a linha que eu tinha e que não conseguia dizer. Foi: 'Tenho certeza de que todos vocês captaram o paradoxo fundamental da metodologia de precriminação'. Essa foi a linha que iniciou a cena\", explicou.</p>\n\n<p>Farrell comentou sobre a reação de Cruise: \"Tom não ficou muito feliz comigo. Tom, a quem eu amo, não ficou muito feliz.\"</p>\n\n<figure class=\"video-container\"><iframe src=\"https:
+      "meta_description": "Colin Farrell revela que Tom Cruise ficou irritado após ele precisar de 46 takes para gravar uma única linha em Minority Report. Saiba mais.",
+      "focus_keyphrase": "Minority Report Tom Cruise Colin Farrell",
+      "related_keyphrases": [
+        "Minority Report bastidores",
+        "Tom Cruise Minority Report",
+        "Colin Farrell Minority Report"
+      ],
+      "slug": "minority-report-cruise-farrell-takes",
+      "categorias": [
+        {
+          "nome": "Minority Report",
+          "grupo": "obras",
+          "evidence": "Minority Report"
+        },
+        {
+          "nome": "Tom Cruise",
+          "grupo": "pessoas",
+          "evidence": "Tom Cruise"
+        },
+        {
+          "nome": "Colin Farrell",
+          "grupo": "pessoas",
+          "evidence": "Colin Farrell"
+        }
+      ],
+      "tags_sugeridas": [
+        "Minority Report",
+        "Tom Cruise",
+        "Colin Farrell",
+        "Steven Spielberg",
+        "Bastidores de cinema",
+        "Ficção científica"
+      ],
+      "image_alt_texts": {
+        "Minority-Report-Movie-Poster.jpg": "Pôster do filme Minority Report com Tom Cruise em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Minority Report: Tom Cruise irritado com Colin Farrell por 46 takes",
+        "_yoast_wpseo_metadesc": "Colin Farrell revela que Tom Cruise ficou irritado após ele precisar de 46 takes para gravar uma única linha em Minority Report. Saiba mais.",
+        "_yoast_wpseo_focuskw": "Minority Report Tom Cruise Colin Farrell",
+        "_yoast_news_keywords": "Minority Report, Tom Cruise, Colin Farrell, Steven Spielberg, Bastidores de cinema, Ficção científica",
+        "_yoast_wpseo_opengraph-title": "Minority Report: Tom Cruise irritado com Colin Farrell por 46 takes",
+        "_yoast_wpseo_opengraph-description": "Colin Farrell revela que Tom Cruise ficou irritado após ele precisar de 46 takes para gravar uma única linha em Minority Report. Saiba mais.",
+        "_yoast_wpseo_twitter-title": "Minority Report: Tom Cruise irritado com Colin Farrell por 46 takes",
+        "_yoast_wpseo_twitter-description": "Colin Farrell revela que Tom Cruise ficou irritado após ele precisar de 46 takes para gravar uma única linha em Minority Report. Saiba mais."
+      }
+    }
+  ]
+}

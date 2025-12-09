@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Filme de Nicolas Cage favorito de Quentin Tarantino faz sucesso no streaming",
+  "conteudo_final": "<p>O filme <b>Pig</b>, protagonizado por Nicolas Cage, tem ganhado destaque nas plataformas de streaming anos após seu lançamento. Lançado em 2021, o suspense psicológico que segue um caçador de trufas solitário que precisa confrontar seu passado em Portland para encontrar sua porca desaparecida, está atualmente entre os 10 filmes mais populares no <b>Prime Video</b> globalmente.</p><p>Em território americano, <b>Pig</b> está disponível na <b>Netflix</b>, onde já havia retornado ao catálogo anteriormente. O filme foi aclamado pela crítica, ostentando uma impressionante aprovação de 97% no Rotten Tomatoes, com o público concedendo 83% em sua pontuação. Apesar de ter tido um lançamento limitado nos cinemas em 2021, arrecadou quase US$ 4 milhões mundialmente.</p><p>Além de ser o filme favorito da filmografia de Nicolas Cage, <b>Pig</b> também é a escolha pessoal de Quentin Tarantino. O renomado diretor citou o desempenho de Cage em <b>Pig</b> como um dos melhores de sua carreira e o descreveu como um dos melhores filmes que viu nos últimos cinco anos. A obra foi escrita e dirigida por Michael Sarnoski, que também dirigiu o prelúdio de terror <b>A Quiet Place: Day One</b>, da franquia de John Krasinski.</p><h2>Nicolas Cage pode estrelar em nova temporada de True Detective</h2><p>Recentemente, surgiram rumores de que Nicolas Cage estaria cotado para um papel principal na quinta temporada de <b>True Detective</b>, que teria locação em Nova York. Embora a HBO Max não tenha confirmado nem desmentido os boatos, a produção da nova temporada é esperada para começar no próximo ano, com uma possível estreia em 2027.</p><p><b>Pig</b> está disponível para streaming no <b>Prime Video</b> mundialmente e na <b>Netflix</b> nos Estados Unidos.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/04/pig-movie-poster.jpg\" alt=\"Pôster do filme Pig com Nicolas Cage em destaque.\"><figcaption>Pôster do filme Pig, estrelado por Nicolas Cage.</figcaption></figure>",
+  "meta_description": "O filme Pig, estrelado por Nicolas Cage e aclamado por Quentin Tarantino, conquista o público no Prime Video e Netflix. Saiba mais!",
+  "focus_keyphrase": "Filme de Nicolas Cage favorito de Quentin Tarantino",
+  "related_keyphrases": [
+    "Pig filme Nicolas Cage",
+    "Quentin Tarantino Pig",
+    "sucesso streaming Pig"
+  ],
+  "slug": "filme-nicolas-cage-tarantino-streaming",
+  "categorias": [
+    {
+      "nome": "Pig",
+      "grupo": "obras",
+      "evidence": "Nicolas Cage has starred in plenty of movies over the years, but one that he once called “lightning in a bottle” has resurfaced at the top of streaming charts a few years after its release."
+    },
+    {
+      "nome": "Nicolas Cage",
+      "grupo": "obras",
+      "evidence": "Nicolas Cage has starred in plenty of movies over the years"
+    },
+    {
+      "nome": "Prime Video",
+      "grupo": "plataformas",
+      "evidence": "Pig is streaming on Prime Video globally"
+    }
+  ],
+  "tags_sugeridas": [
+    "nicolas cage",
+    "pig",
+    "quentin tarantino",
+    "prime video",
+    "netflix",
+    "suspense",
+    "streaming"
+  ],
+  "image_alt_texts": {
+    "pig-movie-poster.jpg": "Pôster do filme Pig com Nicolas Cage em destaque."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Filme de Nicolas Cage favorito de Quentin Tarantino faz sucesso no streaming",
+    "_yoast_wpseo_metadesc": "O filme Pig, estrelado por Nicolas Cage e aclamado por Quentin Tarantino, conquista o público no Prime Video e Netflix. Saiba mais!",
+    "_yoast_wpseo_focuskw": "Filme de Nicolas Cage favorito de Quentin Tarantino",
+    "_yoast_news_keywords": "Nicolas Cage, Pig, Quentin Tarantino, Prime Video, Netflix, True Detective, Michael Sarnoski",
+    "_yoast_wpseo_opengraph-title": "Filme de Nicolas Cage favorito de Quentin Tarantino faz sucesso no streaming",
+    "_yoast_wpseo_opengraph-description": "O filme Pig, estrelado por Nicolas Cage e aclamado por Quentin Tarantino, conquista o público no Prime Video e Netflix. Saiba mais!",
+    "_yoast_wpseo_twitter-title": "Filme de Nicolas Cage favorito de Quentin Tarantino faz sucesso no streaming",
+    "_yoast_wpseo_twitter-description": "O filme Pig, estrelado por Nicolas Cage e aclamado por Quentin Tarantino, conquista o público no Prime Video e Netflix. Saiba mais!"
+  }
+}

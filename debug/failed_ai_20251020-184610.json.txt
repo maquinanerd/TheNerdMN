@@ -1,0 +1,102 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Eric Dane, de Grey's Anatomy, retorna a dramas médicos em novo papel",
+      "conteudo_final": "<p>O ator <b>Eric Dane</b>, conhecido por seu papel em <em>Grey's Anatomy</em>, fará uma participação especial em outro drama médico, a série da NBC <em>Brilliant Minds</em>. Em um papel que espelha seu diagnóstico da vida real, Dane interpretará Matthew, um bombeiro que busca a ajuda do Dr. Oliver Wolf (Zachary Quinto) para lidar com sua doença.</p><h2>Novo Papel em 'Brilliant Minds'</h2><p>O ator aparecerá no nono episódio da segunda temporada de <em>Brilliant Minds</em>, com previsão de exibição para 24 de novembro de 2025. Dane revelou em abril de 2025 que foi diagnosticado com Esclerose Lateral Amiotrófica (ELA), uma condição que também afetará seu personagem na série.</p><p>Dane tem sido transparente sobre sua batalha contra a ELA, expressando gratidão pelos recursos a que tem acesso. Ele também comentou sobre a sorte de ainda poder trabalhar e demonstrou entusiasmo em retornar para a série <em>Euphoria</em>.</p><blockquote><p>“Sinto-me sortudo por poder continuar trabalhando e estou ansioso para voltar ao set de Euphoria na próxima semana. Peço gentilmente que deem privacidade à minha família e a mim durante este período.”</p></blockquote><h2>Ativismo e Inspiração</h2><p>Além de sua carreira como ator, Eric Dane é porta-voz da organização sem fins lucrativos <em>I Am ALS</em>. Ele discute seu desejo de usar sua plataforma para ajudar pessoas afetadas pela doença, mencionando o impacto que a ELA teve na vida de muitos, incluindo amigos e familiares de pessoas que o abordaram.</p><p>Em entrevista ao <em>Washington Post</em>, Dane refletiu sobre as dificuldades, mas também sobre as alegrias que a vida ainda oferece. Ele expressou seu desejo de dedicar o resto de sua vida a ajudar os outros a lidar com a doença, afirmando: “Não para ser excessivamente mórbido, mas sabe, se eu for sair, vou sair ajudando alguém.”</p><h2>Sobre 'Brilliant Minds'</h2><p><em>Brilliant Minds</em> é um drama médico baseado em livros do autor Oliver Sacks, como <em>O Homem que Confundiu sua Mulher com um Chapéu</em>. A série acompanha o neurologista Dr. Wolf e sua equipe, explorando suas vidas pessoais e profissionais. A série exibe novos episódios toda segunda-feira na NBC.</p>",
+      "meta_description": "Eric Dane, de Grey's Anatomy, retorna a dramas médicos em 'Brilliant Minds'. O ator interpretará um personagem diagnosticado com ELA, condição que ele mesmo enfrenta.",
+      "focus_keyphrase": "Eric Dane Grey's Anatomy Brilliant Minds",
+      "related_keyphrases": [
+        "Eric Dane ELA",
+        "Brilliant Minds nova série",
+        "ator de Grey's Anatomy"
+      ],
+      "slug": "eric-dane-retorna-drama-medico",
+      "categorias": [
+        {
+          "nome": "Brilliant Minds",
+          "grupo": "obras",
+          "evidence": "NBC's Brilliant Minds"
+        },
+        {
+          "nome": "Grey's Anatomy",
+          "grupo": "obras",
+          "evidence": "Grey's Anatomy actor"
+        }
+      ],
+      "tags_sugeridas": [
+        "Eric Dane",
+        "Brilliant Minds",
+        "Grey's Anatomy",
+        "ELA",
+        "dramas médicos",
+        "Zachary Quinto",
+        "NBC"
+      ],
+      "image_alt_texts": {
+        "03209435_poster_w780.jpg": "Poster da série Brilliant Minds, com Zachary Quinto em destaque."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Eric Dane, de Grey's Anatomy, retorna a dramas médicos em novo papel",
+        "_yoast_wpseo_metadesc": "Eric Dane, de Grey's Anatomy, retorna a dramas médicos em 'Brilliant Minds'. O ator interpretará um personagem diagnosticado com ELA, condição que ele mesmo enfrenta.",
+        "_yoast_wpseo_focuskw": "Eric Dane Grey's Anatomy Brilliant Minds",
+        "_yoast_news_keywords": "Eric Dane, Grey's Anatomy, Brilliant Minds, ELA, Zachary Quinto, NBC",
+        "_yoast_wpseo_opengraph-title": "Eric Dane, de Grey's Anatomy, retorna a dramas médicos em novo papel",
+        "_yoast_wpseo_opengraph-description": "Eric Dane, de Grey's Anatomy, retorna a dramas médicos em 'Brilliant Minds'. O ator interpretará um personagem diagnosticado com ELA, condição que ele mesmo enfrenta.",
+        "_yoast_wpseo_twitter-title": "Eric Dane, de Grey's Anatomy, retorna a dramas médicos em novo papel",
+        "_yoast_wpseo_twitter-description": "Eric Dane, de Grey's Anatomy, retorna a dramas médicos em 'Brilliant Minds'. O ator interpretará um personagem diagnosticado com ELA, condição que ele mesmo enfrenta."
+      }
+    },
+    {
+      "titulo_final": "Task: Finale da série desperdiça Lilli Kay de Yellowstone",
+      "conteudo_final": "<p>A série da HBO, <em>Task</em>, introduziu a atriz <b>Lilli Kay</b>, conhecida por seus papéis em <em>Yellowstone</em> e <em>Your Honor</em>, em seu episódio final, uma participação que acabou sendo desperdiçada, assim como o potencial de sua personagem. Kay interpretou Frankie Grasso, a irmã de Anthony Grasso (Fabien Frankel).</p><h2>Introdução Tardía de Personagem</h2><p>A entrada de Frankie Grasso serviu para humanizar Anthony, que até então se apresentava como um antagonista. A interação mostrou que, apesar de suas ações, Grasso ainda possuía laços familiares e era visto como uma boa pessoa por sua irmã. No entanto, a breve aparição de Kay em <em>Task</em> deixou um sentimento de potencial não explorado.</p><div class=\"figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/lilli-kay-in-yellowstone.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Lilli Kay em Yellowstone\"/></div><p>A atriz entregou uma atuação impactante em seu curto tempo de tela, retratando a relação próxima e afetuosa entre Frankie e Grasso. A cena culminou com Grasso alertando a irmã sobre suas ações e sua intenção de se entregar, recebendo em troca um conforto emocionante que a fez acreditar em sua bondade intrínseca. Essa performance intensificou a tensão do episódio, deixando em aberto se as palavras de Frankie influenciariam a decisão de Grasso.</p><p>A participação de Kay em <em>Task</em> foi limitada a esses poucos momentos. Embora Grasso tenha tomado a decisão correta no final, a questão sobre sua redenção permanece. A personagem de Kay poderia ter adicionado mais profundidade a essa resolução, talvez com uma visita a Grasso no hospital ou uma conversa com Tom (Mark Ruffalo). Sua perspectiva teria enriquecido os temas de moralidade e perdão explorados na série.</p><h2 id=\"por-que-a-irma-de-grasso-foi-introduzida-tao-tarde\">Por Que a Irmã de Grasso Foi Introduzida Tão Tarde?</h2><p>Considerando as excelentes atuações de Lilli Kay em séries como <em>Your Honor</em> e <em>Yellowstone</em>, é surpreendente que sua personagem em <em>Task</em> não tenha sido apresentada antes. Mais cenas com a família de Grasso poderiam ter aprofundado seu arco e tornado o conflito moral do público mais intenso.</p><div class=\"figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/lilli-kay-in-task.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Lilli Kay em Task\"/></div><p>O criador Brad Ingelsby provavelmente optou por introduzir Frankie Grasso apenas no final para garantir que o público percebesse a complexidade de Anthony. A relação com sua irmã o humanizou o suficiente, sem anular a percepção de que ele era o informante dos Dark Hearts. Vimos o verdadeiro Anthony apenas no final, o que foi impactante. No entanto, é uma pena que isso tenha significado menos tempo de tela para Lilli Kay.</p>",
+      "meta_description": "Lilli Kay, de Yellowstone, teve uma participação curta e desperdiçada em Task. Sua personagem, irmã de Anthony Grasso, foi introduzida tarde demais no final da série.",
+      "focus_keyphrase": "Lilli Kay Task Yellowstone",
+      "related_keyphrases": [
+        "Task série HBO",
+        "Lilli Kay atuação",
+        "Yellowstone atriz"
+      ],
+      "slug": "task-finale-lilli-kay-desperdicada",
+      "categorias": [
+        {
+          "nome": "Task",
+          "grupo": "obras",
+          "evidence": "Task's finale ahead!"
+        },
+        {
+          "nome": "Yellowstone",
+          "grupo": "obras",
+          "evidence": "Yellowstone star Lilli Kay"
+        },
+        {
+          "nome": "Your Honor",
+          "grupo": "obras",
+          "evidence": "Your Honor"
+        }
+      ],
+      "tags_sugeridas": [
+        "Task",
+        "Lilli Kay",
+        "Yellowstone",
+        "Your Honor",
+        "HBO",
+        "dramas criminais",
+        "Fabien Frankel"
+      ],
+      "image_alt_texts": {
+        "lilli-kay-in-yellowstone.jpg": "Lilli Kay em uma cena da série Yellowstone.",
+        "lilli-kay-in-task.jpg": "Lilli Kay como Frankie Grasso na série Task."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Task: Finale da série desperdiça Lilli Kay de Yellowstone",
+        "_yoast_wpseo_metadesc": "Lilli Kay, de Yellowstone, teve uma participação curta e desperdiçada em Task. Sua personagem, irmã de Anthony Grasso, foi introduzida tarde demais no final da série.",
+        "_yoast_wpseo_focuskw": "Lilli Kay Task Yellowstone",
+        "_yoast_news_keywords": "Lilli Kay, Task, Yellowstone, Your Honor, HBO",
+        "_yoast_wpseo_opengraph-title": "Task: Finale da série desperdiça Lilli Kay de Yellowstone",
+        "_yoast_wpseo_opengraph-description": "Lilli Kay, de Yellowstone, teve uma participação curta e desperdiçada em Task. Sua personagem, irmã de Anthony Grasso, foi introduzida tarde demais no final da série.",
+        "_yoast_wpseo_twitter-title": "Task: Finale da série desperdiça Lilli Kay de Yellowstone",
+        "_yoast_wpseo_twitter-description": "Lilli Kay, de Yellowstone, teve uma participação curta e desperdiçada em Task. Sua personagem, irmã de Anthony Grasso, foi introduzida tarde demais no final da série."
+      }
+    }
+  ]
+}

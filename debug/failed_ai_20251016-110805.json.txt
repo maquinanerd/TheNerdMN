@@ -1,0 +1,94 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Boys: Gen V entrega sequência de ação épica em nova temporada",
+      "conteudo_final": "<p>A qualidade de um projeto de super-heróis é frequentemente medida por suas sequências de ação. Enquanto a segunda temporada de <em>Peacemaker</em> foi criticada por focar mais no desenvolvimento de personagens do que em combates, outras séries como <strong>Gen V</strong> parecem entender essa expectativa. A série derivada de <em>The Boys</em>, em sua segunda temporada, está colocando seus personagens em situações extremas.</p>\n\n<p>O objetivo dos personagens de <em>Gen V</em> é levar vidas normais, mas a ameaça do líder do campus de God U os força a lutar. A busca por derrotar o vilão Cipher resulta em uma cena de ação que se equipara ao que há de melhor na franquia <em>The Boys</em>, superando até mesmo a icônica luta contra Stormfront.</p>\n\n<h2>“Girls Get It Done” - O Melhor de The Boys</h2>\n\n<p>Na segunda temporada de <em>The Boys</em>, uma nova Supre se junta à Vought: Stormfront. A equipe principal reúne informações sobre a vilã e as vaza para a imprensa, revelando que ela é uma nazista. Ao descobrir, Stormfront confronta Starlight, mas encontra Kimiko, que a defende. A luta é intensa, mas Stormfront, com um poder próximo ao de Homelander, não é facilmente contida, necessitando da intervenção de Queen Maeve.</p>\n\n<p>As três mulheres unem forças contra Stormfront, canalizando suas frustrações. Hughie, Mother’s Milk e Frenchie observam, com Frenchie comentando ironicamente sobre o slogan da Vought, \"Girls really do get it done\". Embora a cena seja satisfatória, <em>Gen V</em> eleva o nível ao colocar seus personagens em uma situação única que permite a todos demonstrarem seu potencial.</p>\n\n<h2>A Luta Final de Cipher em Gen V Supera Expectativas</h2>\n\n<p>No episódio 6 da segunda temporada de <em>Gen V</em>, \"Cooking Lessons\", Marie Moreau acredita ter encontrado a chave para derrotar Cipher. Stan Edgar sugere que Thomas Godolkin pode estar vivo e ser o homem idoso que acompanha Cipher. No episódio seguinte, \"Hell Week\", Marie, acompanhada por Cate e Polarity, vai confrontar Cipher. O plano é que Polarity distraia Cipher enquanto Marie tenta resgatar Godolkin. No entanto, Cipher interfere, controlando os corpos dos outros para atacar Polarity.</p>\n\n<p>A cada tentativa de Polarity de se aproximar de Cipher, ele é atacado por Jordan Li, Sam Riordan e Gary, todos com força sobre-humana. A luta é brutal, com os quatro personagens trocando golpes antes que Polarity decida encerrar o confronto com uma onda eletromagnética massiva. Infelizmente, a batalha não termina com a morte de Cipher, pois descobre-se que Godolkin controlava um homem comum o tempo todo. Antes da revelação, a ação foi espetacular, demonstrando o poder dos Supes quando liberados.</p>\n\n<p>A segunda temporada de <em>Gen V</em> está disponível no Prime Video.</p>\n\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2025/10/polarity-gen-v-season-2.jpg?w=1024\" alt=\"Polarity em cena de ação na segunda temporada de Gen V.\"><figcaption>A cena de ação em Gen V é comparada com a de The Boys.</figcaption></figure>\n\n<figure><img src=\"https://comicbook.com/wp-content/uploads/sites/4/2023/02/2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png?w=300\" alt=\"Personagens de Gen V em momento de combate.\"><figcaption>Gen V apresenta sequências de ação intensas.</figcaption></figure>",
+      "meta_description": "Gen V, spin-off de The Boys, entrega uma sequência de ação inovadora e eletrizante que redefine o padrão para séries de super-heróis.",
+      "focus_keyphrase": "Gen V sequência de ação",
+      "related_keyphrases": [
+        "The Boys Gen V",
+        "Gen V Season 2",
+        "ações de super-heróis"
+      ],
+      "slug": "gen-v-sequencia-acao-episodio",
+      "categorias": [
+        {
+          "nome": "Gen V",
+          "grupo": "obras",
+          "evidence": "Gen V"
+        },
+        {
+          "nome": "The Boys",
+          "grupo": "franquias",
+          "evidence": "The Boys franchise"
+        }
+      ],
+      "tags_sugeridas": [
+        "gen v",
+        "the boys",
+        "super herois",
+        "amazon prime video",
+        "series de tv"
+      ],
+      "image_alt_texts": {
+        "polarity-gen-v-season-2.jpg?w=1024": "Polarity em cena de ação na segunda temporada de Gen V.",
+        "2b0fe375-3d69-4f32-8c94-8fe9af796ecd.png?w=300": "Personagens de Gen V em momento de combate."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Gen V: Sequência de Ação em Nova Temporada é a Melhor da Franquia The Boys",
+        "_yoast_wpseo_metadesc": "Gen V, spin-off de The Boys, entrega uma sequência de ação inovadora e eletrizante que redefine o padrão para séries de super-heróis.",
+        "_yoast_wpseo_focuskw": "Gen V sequência de ação",
+        "_yoast_news_keywords": "Gen V, The Boys, Amazon Prime Video, Series de TV, Super Herois",
+        "_yoast_wpseo_opengraph-title": "Gen V: Sequência de Ação em Nova Temporada é a Melhor da Franquia The Boys",
+        "_yoast_wpseo_opengraph-description": "Gen V, spin-off de The Boys, entrega uma sequência de ação inovadora e eletrizante que redefine o padrão para séries de super-heróis.",
+        "_yoast_wpseo_twitter-title": "Gen V: Sequência de Ação em Nova Temporada é a Melhor da Franquia The Boys",
+        "_yoast_wpseo_twitter-description": "Gen V, spin-off de The Boys, entrega uma sequência de ação inovadora e eletrizante que redefine o padrão para séries de super-heróis."
+      }
+    },
+    {
+      "titulo_final": "ARK: Ultimate Survivor Edition recebe grande update de performance no Switch",
+      "conteudo_final": "<p>A <strong>ARK: Ultimate Survivor Edition</strong> no Nintendo Switch recebeu uma atualização significativa de performance. O patch, identificado como versão 2.0.14, promete aprimorar desde o suporte a resolução mais alta até taxas de quadros mais estáveis, visando oferecer a "experiência definitiva de ARK" no console. Além disso, a edição especial do jogo está com um desconto de 60% na eShop.</p>\n\n<p>Lançada em novembro de 2022, a edição agrupa <em>ARK: Survival Evolved</em> com cinco de suas expansões: Aberration, Extinction, Scorched Earth, e Genesis Parts 1 e 2. A atualização visa aproveitar o hardware aprimorado do Switch, melhorando também a qualidade das sombras e o anti-aliasing.</p>\n\n<h2>Melhorias Visuais e de Performance para ARK no Switch</h2>\n\n<p>A atualização, disponibilizada em 15 de outubro, eleva a resolução do modo portátil para 1080p, tirando proveito da tela Full HD do Switch. Muitos jogadores notaram melhorias no anti-aliasing, com bordas mais suaves. No entanto, as impressões sobre a performance geral são mistas. Relatos iniciais sugerem que, em alguns cenários, a atualização pode ter degradado a performance. Anteriormente, era possível desbloquear a taxa de quadros e alcançar 1080p no Switch 2 utilizando comandos de console. Um jogador relatou que, após a atualização, o jogo roda em 1080p sem comandos, mas a uma taxa de 25 FPS, chegando a 60 FPS apenas ao olhar para o céu.</p>\n\n<h2>Servidores de ARK: Survival Evolved Serão Desativados</h2>\n\n<p>A Grove Street Games, desenvolvedora responsável pela porta do jogo para o Switch, ainda não comentou oficialmente sobre os problemas de performance reportados. A empresa confirmou que o patch 2.0.14 será lançado no Japão e em outras partes da Ásia durante a semana de 20 de outubro. Paralelamente, a desenvolvedora planeja reduzir o número de servidores oficiais para melhorar a moderação e a experiência multijogador, consolidando a base de jogadores.</p>\n\n<p>Jogadores de <em>ARK: Survival Evolved</em> nos servidores afetados são aconselhados a usar o sistema de transferência do jogo para migrar para um novo servidor antes de 5 de novembro, data em que alguns servidores serão desativados. Entre os servidores que serão desativados estão diversas listas PVE e PVP na Ásia, Europa e América do Norte, incluindo mapas como Aberration, Extinction, Genesis, Scorched Earth, Ragnarok e The Island.</p>\n\n<h2>Patch Notes da Atualização 2.0.14 de ARK: Survival Evolved</h2>\n<ul>\n  <li>Suporte ao Nintendo Switch 2: Performance e resolução aprimoradas.</li>\n  <li>Correção para perda de dados da missão Genesis.</li>\n  <li>Correção para perda de inventário ao des-cryopods de Carcharodontosaurus.</li>\n  <li>Multiplayer: Mensagens de login agora aparecem no chat.</li>\n  <li>Multiplayer: Estruturas decaídas agora são auto-destruídas como esperado.</li>\n  <li>Multiplayer: Nomes de jogadores agora aparecem em terceira pessoa.</li>\n  <li>Multiplayer: Correção para posicionamento de Industrial Grinder em PvE.</li>\n  <li>Single Player: Novos sobreviventes possuirão automaticamente estruturas e domados existentes no mapa.</li>\n  <li>Single Player: Recursos agora reaparecem com base no relógio do mundo real, não no relógio do jogo.</li>\n  <li>Single Player: Limite de estrutura em Selas Plataforma aumentado.</li>\n  <li>Notificações de HUD para itens adicionados e removidos encurtadas para '+' e '-'.</li>\n  <li>Dezenas de correções de travamentos e exploits.</li>\n  <li>Dezenas de correções de bugs e melhorias de estabilidade.</li>\n</ul>\n\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/mixcollage-25-dec-2024-07-32-am-958.jpg\" alt=\"Interface do jogo ARK: Survival Evolved na edição Ultimate Survivor.\"><figcaption>A edição Ultimate Survivor traz conteúdos adicionais para ARK.</figcaption></figure>\n\n<figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/09/fighting-a-t-rex-in-ark-survival-evolved.jpeg\" alt=\"Jogador lutando contra um T-Rex em ARK: Survival Evolved.\"><figcaption>Combate contra dinossauros é um dos destaques de ARK.</figcaption></figure>",
+      "meta_description": "ARK: Ultimate Survivor Edition recebe grande atualização de performance e resolução para o Nintendo Switch, com melhorias visuais, mas relatos de FPS instável persistem.",
+      "focus_keyphrase": "ARK Ultimate Survivor Edition Switch",
+      "related_keyphrases": [
+        "ARK Survival Evolved Switch",
+        "Update ARK Switch",
+        "Nintendo Switch performance"
+      ],
+      "slug": "ark-ultimate-survivor-edition-switch",
+      "categorias": [
+        {
+          "nome": "ARK: Survival Evolved",
+          "grupo": "obras",
+          "evidence": "ARK: Survival Evolved"
+        },
+        {
+          "nome": "Nintendo Switch",
+          "grupo": "plataformas",
+          "evidence": "Switch"
+        }
+      ],
+      "tags_sugeridas": [
+        "ark survival evolved",
+        "ark ultimate survivor edition",
+        "nintendo switch",
+        "gameplay",
+        "atualizacao de jogo"
+      ],
+      "image_alt_texts": {
+        "mixcollage-25-dec-2024-07-32-am-958.jpg": "Interface do jogo ARK: Survival Evolved na edição Ultimate Survivor.",
+        "fighting-a-t-rex-in-ark-survival-evolved.jpeg": "Jogador lutando contra um T-Rex em ARK: Survival Evolved."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "ARK: Ultimate Survivor Edition Ganha Update de Performance no Nintendo Switch",
+        "_yoast_wpseo_metadesc": "ARK: Ultimate Survivor Edition recebe grande atualização de performance e resolução para o Nintendo Switch, com melhorias visuais, mas relatos de FPS instável persistem.",
+        "_yoast_wpseo_focuskw": "ARK Ultimate Survivor Edition Switch",
+        "_yoast_news_keywords": "ARK, ARK Survival Evolved, Nintendo Switch, Grove Street Games, Studio Wildcard",
+        "_yoast_wpseo_opengraph-title": "ARK: Ultimate Survivor Edition Ganha Update de Performance no Nintendo Switch",
+        "_yoast_wpseo_opengraph-description": "ARK: Ultimate Survivor Edition recebe grande atualização de performance e resolução para o Nintendo Switch, com melhorias visuais, mas relatos de FPS instável persistem.",
+        "_yoast_wpseo_twitter-title": "ARK: Ultimate Survivor Edition Ganha Update de Performance no Nintendo Switch",
+        "_yoast_wpseo_twitter-description": "ARK: Ultimate Survivor Edition recebe grande atualização de performance e resolução para o Nintendo Switch, com melhorias visuais, mas relatos de FPS instável persistem."
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Nobody Wants This: Nova série da Netflix conquista o mundo",
+      "conteudo_final": "<p>A segunda temporada de <b>Nobody Wants This</b> já está disponível na Netflix e rapidamente escalou as paradas de streaming globais. Lançada no final do ano passado, a primeira temporada foi um sucesso instantâneo, garantindo a renovação para uma nova leva de episódios que estreou recentemente. Atualmente, a série figura como o programa mais popular da Netflix, figurando no top 10 em mais de 50 países.</p>\n\n<p>Desde a estreia da primeira temporada, <b>Nobody Wants This</b> tem sido comparada a <b>How I Met Your Mother</b>, e as semelhanças são notáveis. A série, criada por Erin Foster, que atuou como roteirista em poucos episódios de <i>The New Normal</i>, tornou-se um grande acerto para a plataforma de streaming. Foster também é conhecida por seu trabalho como atriz em séries como <b>NCIS: Los Angeles</b> e <i>Law & Order: LA</i>.</p>\n\n<h2>Elenco Estelar Impulsiona o Sucesso</h2>\n<p>O sucesso de <b>Nobody Wants This</b> é amplamente atribuído às atuações de seus protagonistas, <b>Kristen Bell</b> e <b>Adam Brody</b>. Bell é mundialmente famosa por dublar Anna em <b>Frozen</b> e por seu papel como Veronica Mars. Brody ganhou destaque com seu papel em <b>Mr. and Mrs. Smith</b> e mais recentemente em <i>Shazam! Fury of the Gods</i> e <i>American Fiction</i>.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Nova série da Netflix, Nobody Wants This, conquista o público global e lidera paradas de streaming. Estrelada por Kristen Bell e Adam Brody.",
+      "focus_keyphrase": "Nobody Wants This",
+      "related_keyphrases": [
+        "série Netflix",
+        "Kristen Bell",
+        "Adam Brody"
+      ],
+      "slug": "nobody-wants-this-netflix-sucesso",
+      "categorias": [
+        {
+          "nome": "Nobody Wants This",
+          "grupo": "obras",
+          "evidence": "The second season of Nobody Wants This is now streaming on Netflix"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix dropped the first season of Nobody Wants This"
+        },
+        {
+          "nome": "How I Met Your Mother",
+          "grupo": "obras",
+          "evidence": "Nobody Wants This has drawn comparisons to How I Met Your Mother"
+        }
+      ],
+      "tags_sugeridas": [
+        "Nobody Wants This",
+        "Netflix",
+        "Kristen Bell",
+        "Adam Brody",
+        "How I Met Your Mother",
+        "Comédia Romântica"
+      ],
+      "image_alt_texts": {
+        "adam-brody-and-kristen-bell-as-noah-and-joanne-in-nobody-wants-this-season-2.jpg": "Adam Brody e Kristen Bell em cena da segunda temporada de Nobody Wants This.",
+        "nobody-wants-this.jpg": "Poster oficial da série Nobody Wants This, disponível na Netflix."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Nobody Wants This: Nova série da Netflix conquista o mundo",
+        "_yoast_wpseo_metadesc": "Nova série da Netflix, Nobody Wants This, conquista o público global e lidera paradas de streaming. Estrelada por Kristen Bell e Adam Brody.",
+        "_yoast_wpseo_focuskw": "Nobody Wants This",
+        "_yoast_news_keywords": "Nobody Wants This, Netflix, Kristen Bell, Adam Brody, How I Met Your Mother, Série de TV",
+        "_yoast_wpseo_opengraph-title": "Nobody Wants This: Nova série da Netflix conquista o mundo",
+        "_yoast_wpseo_opengraph-description": "Nova série da Netflix, Nobody Wants This, conquista o público global e lidera paradas de streaming. Estrelada por Kristen Bell e Adam Brody.",
+        "_yoast_wpseo_twitter-title": "Nobody Wants This: Nova série da Netflix conquista o mundo",
+        "_yoast_wpseo_twitter-description": "Nova série da Netflix, Nobody Wants This, conquista o público global e lidera paradas de streaming. Estrelada por Kristen Bell e Adam Brody."
+      }
+    },
+    {
+      "titulo_final": "Bura: The Way the Wind Blows une Ghibli e Breath of the Wild no Steam",
+      "conteudo_final": "<p>O novo jogo de aventura e relaxamento, <b>Bura: The Way the Wind Blows</b>, já está disponível no Steam, inspirando-se artisticamente no Studio Ghibli e combinando mecânicas de exploração de <b>Breath of the Wild</b>. Promovido como parte da celebração de Jogos da Croácia no Steam, o título oferece uma demo gratuita e um desconto especial de lançamento.</p>\n\n<p>Diversos jogos já se inspiraram no universo do <b>Studio Ghibli</b>, conhecido por seus filmes de animação com histórias emocionantes e trilhas sonoras marcantes. Embora a franquia <b>The Legend of Zelda</b> frequentemente seja comparada aos filmes do estúdio japonês, <b>Bura: The Way the Wind Blows</b> une o melhor de ambas as influências em uma nova jornada encantadora.</p>\n\n<h2>Bura: The Way the Wind Blows: A União Perfeita</h2>\n<p><b>Bura: The Way the Wind Blows</b> é descrito como um jogo de aventura aconchegante, onde os jogadores exploram a costa do Adriático e aprendem sobre o folclore croata e mediterrâneo através de interações charmosas e descobertas visuais. Guiados por um companheiro espiritual, os jogadores desbloqueiam habilidades únicas e redescobrem monumentos e tradições culturais perdidas. Acompanhando a história de uma jovem garota em uma pequena vila, a experiência permite atravessar terra, mar e céu, utilizando saltos, natação e planagem, em uma jogabilidade que remete a títulos como <b>Breath of the Wild</b>.</p>\n\n<figure><img src=\"https:
+      "meta_description": "Novo jogo no Steam, Bura: The Way the Wind Blows, combina a magia do Studio Ghibli com a exploração de Breath of the Wild. Jogo aconchegante já disponível.",
+      "focus_keyphrase": "Bura: The Way the Wind Blows",
+      "related_keyphrases": [
+        "jogos Studio Ghibli",
+        "Breath of the Wild",
+        "jogos Steam"
+      ],
+      "slug": "bura-the-way-the-wind-blows-ghibli-zelda",
+      "categorias": [
+        {
+          "nome": "Bura: The Way the Wind Blows",
+          "grupo": "obras",
+          "evidence": "The brand-new cozy adventure game Bura: The Way the Wind Blows"
+        },
+        {
+          "nome": "Studio Ghibli",
+          "grupo": "franquias",
+          "evidence": "takes artistic and storytelling inspiration from the classic film catalog of Studio Ghibli"
+        },
+        {
+          "nome": "Breath of the Wild",
+          "grupo": "obras",
+          "evidence": "blending in the immersive exploration gameplay mechanics of Breath of the Wild"
+        }
+      ],
+      "tags_sugeridas": [
+        "Bura: The Way the Wind Blows",
+        "Steam",
+        "Studio Ghibli",
+        "Breath of the Wild",
+        "Jogos Indie",
+        "Aventura"
+      ],
+      "image_alt_texts": {
+        "bura-the-way-the-wind-blows-gameplay-gliding.jpg": "Cena de jogabilidade de Bura: The Way the Wind Blows mostrando a mecânica de planagem.",
+        "zelda-breath-of-the-wild-cove.jpg": "Arte de capa oficial do jogo The Legend of Zelda: Breath of the Wild."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bura: The Way the Wind Blows une Ghibli e Breath of the Wild no Steam",
+        "_yoast_wpseo_metadesc": "Novo jogo no Steam, Bura: The Way the Wind Blows, combina a magia do Studio Ghibli com a exploração de Breath of the Wild. Jogo aconchegante já disponível.",
+        "_yoast_wpseo_focuskw": "Bura: The Way the Wind Blows",
+        "_yoast_news_keywords": "Bura: The Way the Wind Blows, Steam, Studio Ghibli, Breath of the Wild, Jogos Indie, Aventura",
+        "_yoast_wpseo_opengraph-title": "Bura: The Way the Wind Blows une Ghibli e Breath of the Wild no Steam",
+        "_yoast_wpseo_opengraph-description": "Novo jogo no Steam, Bura: The Way the Wind Blows, combina a magia do Studio Ghibli com a exploração de Breath of the Wild. Jogo aconchegante já disponível.",
+        "_yoast_wpseo_twitter-title": "Bura: The Way the Wind Blows une Ghibli e Breath of the Wild no Steam",
+        "_yoast_wpseo_twitter-description": "Novo jogo no Steam, Bura: The Way the Wind Blows, combina a magia do Studio Ghibli com a exploração de Breath of the Wild. Jogo aconchegante já disponível."
+      }
+    },
+    {
+      "titulo_final": "Resident Evil Requiem: Vazamento revela conteúdo da Edição Deluxe",
+      "conteudo_final": "<p>Embora <b>Resident Evil Requiem</b> só chegue em 27 de fevereiro, um novo vazamento sugere que a próxima aposta da Capcom pode incluir uma Edição Deluxe com cosméticos adicionais. Estes itens incluem trajes para a protagonista Grace Ashcroft, que fazem referência a títulos anteriores da série, além de skins de armas e outros bônus.</p>\n\n<p>A Capcom já revelou que <b>Resident Evil Requiem</b> levará os jogadores de volta a Raccoon City, cenário central para a maioria dos eventos notórios da franquia. Com Grace Ashcroft investigando o assassinato de sua mãe, Alyssa, o jogo permitirá alternar entre perspectivas em primeira e terceira pessoa. Rumores sobre o retorno de Leon Kennedy, protagonista clássico da série, circulam, mas a Capcom tem focado em apresentar a história de Grace.</p>\n\n<h2>Conteúdo Rumorizado da Edição Deluxe de Resident Evil Requiem</h2>\n<p>Apesar de todos os rumores sobre <b>Resident Evil Requiem</b> deverem ser encarados com cautela, o conteúdo suposto da Edição Deluxe pode agradar aos fãs da franquia. Segundo o usuário do Twitter SpookyHoo, a edição incluirá diversos itens cosméticos. Um dos destaques é um traje para Grace inspirado em Lady Dimitrescu, antagonista de <b>Resident Evil Village</b>, mantendo o cabelo curto e loiro da personagem. Além disso, foram mencionados uma skin de arma Apocalypse para a pistola S&S M232 e um filtro de tela. Outros bônus incluem um chaveiro do Mr. Raccoon, um pacote de áudio e arquivos que remetem ao incidente de Raccoon City.</p>\n\n<ul>\n<li>Jogo Principal</li>\n<li>Cinco Trajes para Grace (incluindo Lady Dimitrescu)</li>\n<li>Quatro Skins de Armas</li>\n<li>Dois Filtros de Tela</li>\n<li>Dois Chaveiros (incluindo Mr. Raccoon Charm)</li>\n<li>Pacote de Áudio: Raccoon City Classic</li>\n<li>Arquivos: Cartas de 1998</li>\n</ul>\n\n<figure><img src=\"https:
+      "meta_description": "Vazamento de Resident Evil Requiem sugere Edição Deluxe com trajes de Lady Dimitrescu e outros bônus. Jogo chega em fevereiro de 2025.",
+      "focus_keyphrase": "Resident Evil Requiem",
+      "related_keyphrases": [
+        "Capcom",
+        "Edição Deluxe",
+        "Raccoon City"
+      ],
+      "slug": "resident-evil-requiem-deluxe-vazamento",
+      "categorias": [
+        {
+          "nome": "Resident Evil Requiem",
+          "grupo": "obras",
+          "evidence": "Although Resident Evil Requiem will not arrive until February 27"
+        },
+        {
+          "nome": "Capcom",
+          "grupo": "editorias",
+          "evidence": "Capcom previously revealed that Resident Evil Requiem will take players back to Raccoon City"
+        },
+        {
+          "nome": "Raccoon City",
+          "grupo": "obras",
+          "evidence": "take players back to Raccoon City"
+        }
+      ],
+      "tags_sugeridas": [
+        "Resident Evil Requiem",
+        "Capcom",
+        "Edição Deluxe",
+        "Raccoon City",
+        "Grace Ashcroft",
+        "Lady Dimitrescu",
+        "Survival Horror"
+      ],
+      "image_alt_texts": {
+        "resident-evil-requiem-ashcroft.jpg": "Protagonista Grace Ashcroft em Resident Evil Requiem.",
+        "resident-evil-requiem-police-station.jpg": "Ruínas do Departamento de Polícia de Raccoon City em Resident Evil Requiem."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Resident Evil Requiem: Vazamento revela conteúdo da Edição Deluxe",
+        "_yoast_wpseo_metadesc": "Vazamento de Resident Evil Requiem sugere Edição Deluxe com trajes de Lady Dimitrescu e outros bônus. Jogo chega em fevereiro de 2025.",
+        "_yoast_wpseo_focuskw": "Resident Evil Requiem",
+        "_yoast_news_keywords": "Resident Evil Requiem, Capcom, Edição Deluxe, Raccoon City, Grace Ashcroft, Lady Dimitrescu, Survival Horror",
+        "_yoast_wpseo_opengraph-title": "Resident Evil Requiem: Vazamento revela conteúdo da Edição Deluxe",
+        "_yoast_wpseo_opengraph-description": "Vazamento de Resident Evil Requiem sugere Edição Deluxe com trajes de Lady Dimitrescu e outros bônus. Jogo chega em fevereiro de 2025.",
+        "_yoast_wpseo_twitter-title": "Resident Evil Requiem: Vazamento revela conteúdo da Edição Deluxe",
+        "_yoast_wpseo_twitter-description": "Vazamento de Resident Evil Requiem sugere Edição Deluxe com trajes de Lady Dimitrescu e outros bônus. Jogo chega em fevereiro de 2025."
+      }
+    }
+  ]
+}

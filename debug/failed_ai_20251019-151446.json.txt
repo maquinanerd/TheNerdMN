@@ -1,0 +1,52 @@
+{
+  "titulo_final": "It: Welcome to Derry explica demora na aparição de Pennywise",
+  "conteudo_final": "<p>A série <b>It: Welcome to Derry</b> revisita o universo de <i>It: A Coisa</i> e <i>It: Capítulo Dois</i>, servindo como uma prequela. Com estreia prevista para 26 de outubro, a produção se passará 27 anos antes dos filmes, e Bill Skarsgård retornará como Pennywise, o Palhaço Dançarino.</p><p>Em entrevista, a produtora executiva Barbara Muschietti explicou a abordagem para introduzir o vilão na série: \"<em>Tem sido muito importante, desde o primeiro filme, tratá-lo como um personagem muito imprevisível. Para fazer isso, você não pode deixar a audiência se acostumar com ele.</em>\"</p><p>Ela continuou: \"<em>Eu já disse isso antes, mas ele é o nosso tubarão. Você tem que apresentá-lo com toda a sua complexidade nos momentos certos, caso contrário, a Coisa perde seu poder. Tenho absoluta certeza de que ele ainda é tão aterrorizante quanto é por causa dessa dosagem.</em>\"</p><p>O diretor Andy Muschietti acrescentou que a produção é uma \"<em>slow burn</em>\" (queima lenta) e que a antecipação é intencional para atrasar a aparição do palhaço, mantendo o público em suspense.</p><h2>Pennywise: A Estratégia de Atraso na Aparição</h2><p>Barbara Muschietti detalhou a tática de criar suspense: \"<em>Ele está lá, mas não está. Ou não está lá, mas está.</em>\"</p><p>O showrunner Brad Caleb Kane também comentou sobre a introdução tardia de Pennywise na série, observando que \"<em>há dois filmes que são cheios de Pennywise</em>\". Embora fãs e roteiristas \"<em>o amem</em>\" e Skarsgard \"<em>seja absolutamente incrível</em>\", os criadores de <i>Welcome to Derry</i> queriam explorar mais as outras formas que A Coisa pode assumir.</p><p>\"<em>O benefício da narrativa longa é que podemos gastar um pouco mais de tempo nas outras formas que Pennywise pode assumir para assustar os personagens, e você pode se aprofundar mais nos personagens</em>\", disse Kane. \"<em>Você pode aprender mais sobre o que os faz funcionar e o que eles realmente temem, com base nas coisas que eles passaram.</em>\"</p><p>Segundo Kane, \"<em>se você realmente quer assustar as pessoas, torne isso pessoal.</em>\" A equipe da série tentou \"<em>pegar esses personagens e fazer com que as coisas com que Pennywise os ataca sejam muito pessoais; muito próximas de casa.</em>\"</p><p>Falando mais diretamente sobre como Pennywise aparece na série, Kane explicou:</p><blockquote><p>Você quer dosar Bill. Sabemos que o personagem Pennywise está lá no início. Você ouve a voz dele, ouve a risada, vê o balão. Às vezes você vê os olhos dele se abrindo em um lugar que você não esperaria, então sabemos que ele está chegando.</p><p>Você realmente quer aumentar essa antecipação porque quando o encontrarmos novamente, e o usarmos, será espetacular. E será muito mais brutal do que qualquer coisa que você já viu nos filmes.</p></blockquote><figure class="video-container"><iframe src="https://www.youtube.com/embed/Yx440w96c0U" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></figure><p>Anteriormente, Muschietti comentou sobre a relutância de Skarsgard em reprisar o papel, afirmando: \"<em>Quando começamos a falar sobre a série como algo real e tangível, ele já tinha interpretado muitos personagens sombrios e estava um pouco hesitante em entrar nisso novamente.</em>\"</p><p>Embora o ator estivesse hesitante em reprisar um papel tão pesado, os roteiristas colocaram muito cuidado em quando e como Pennywise é usado em <i>Welcome to Derry</i>, o que o convenceu. Em última análise, a reprise do papel por Skarsgard é um grande atrativo para os fãs, solidificando-a como uma verdadeira prequela de <i>It</i>, mesmo que suas aparições sejam limitadas no início da série.</p>",
+  "meta_description": "Produtores de It: Welcome to Derry explicam a estratégia de aparições limitadas de Pennywise para manter o terror e a imprevisibilidade do vilão.",
+  "focus_keyphrase": "It: Welcome to Derry Pennywise",
+  "related_keyphrases": [
+    "Pennywise série",
+    "Bill Skarsgard Pennywise",
+    "It A Coisa prequel"
+  ],
+  "slug": "it-welcome-to-derry-pennywise-delay",
+  "categorias": [
+    {
+      "nome": "It: Welcome to Derry",
+      "grupo": "obras",
+      "evidence": "It: Welcome to Derry revisita o mundo de Andy Muschietti's It e It Chapter Two"
+    },
+    {
+      "nome": "It",
+      "grupo": "franquias",
+      "evidence": "It: Welcome to Derry revisita o mundo de Andy Muschietti's It e It Chapter Two"
+    },
+    {
+      "nome": "Pennywise",
+      "grupo": "personagens",
+      "evidence": "Bill Skarsgard reprisará seu papel como Pennywise, o Palhaço Dançarino."
+    }
+  ],
+  "tags_sugeridas": [
+    "It: Welcome to Derry",
+    "Pennywise",
+    "Bill Skarsgard",
+    "Andy Muschietti",
+    "Barbara Muschietti",
+    "Stephen King",
+    "HBO"
+  ],
+  "image_alt_texts": {
+    "it_owotca-cropped-1.jpg": "Pennywise segurando um balão vermelho e fazendo uma careta em It (2017).",
+    "imgi_1_tease-art-4.jpeg": "Poster da primeira temporada de IT: Welcome to Derry."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "It: Welcome to Derry explica demora na aparição de Pennywise",
+    "_yoast_wpseo_metadesc": "Produtores de It: Welcome to Derry explicam a estratégia de aparições limitadas de Pennywise para manter o terror e a imprevisibilidade do vilão.",
+    "_yoast_wpseo_focuskw": "It: Welcome to Derry Pennywise",
+    "_yoast_news_keywords": "It: Welcome to Derry, Pennywise, Bill Skarsgard, Andy Muschietti, Stephen King, HBO",
+    "_yoast_wpseo_opengraph-title": "It: Welcome to Derry explica demora na aparição de Pennywise",
+    "_yoast_wpseo_opengraph-description": "Produtores de It: Welcome to Derry explicam a estratégia de aparições limitadas de Pennywise para manter o terror e a imprevisibilidade do vilão.",
+    "_yoast_wpseo_twitter-title": "It: Welcome to Derry explica demora na aparição de Pennywise",
+    "_yoast_wpseo_twitter-description": "Produtores de It: Welcome to Derry explicam a estratégia de aparições limitadas de Pennywise para manter o terror e a imprevisibilidade do vilão."
+  }
+}

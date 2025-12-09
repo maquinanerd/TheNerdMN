@@ -1,0 +1,110 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Last Witch Hunter 2: Sequência de Vin Diesel ganha título e data",
+      "conteudo_final": "<p>A sequência do filme de fantasia e ação de <b>Vin Diesel</b>, <i>The Last Witch Hunter</i>, oficialmente confirmada, ganhou seu título e ano de lançamento. Intitulado <b>The Lion's Oath</b>, o longa tem previsão de estreia para 2026.</p><p>Diesel compartilhou a novidade em suas redes sociais, marcando o 10º aniversário do primeiro filme e agradecendo aos fãs pelo apoio que tornou a sequência possível. O anúncio oficial veio com a declaração: “Dez anos de aniversário! Uma década atrás, neste fim de semana, Kaulder foi apresentado pela primeira vez… Este ano, vocês o ressuscitaram… The Lion's Oath! 2026!”</p><h2>A História de Kaulder em The Last Witch Hunter</h2><p>O filme original, lançado em 2015, acompanha Kaulder (Diesel), um guerreiro medieval membro da ordem do “Machado e Cruz”, responsável por caçar bruxas. Após um confronto com a Rainha das Bruxas, Kaulder foi amaldiçoado com a vida eterna, impedido de alcançar a morte e a reunião espiritual com sua esposa. Oito séculos depois, vivendo uma existência solitária no mundo moderno, Kaulder descobre um plano para ressuscitar a Rainha das Bruxas, com a cumplicidade de membros corruptos da própria ordem do Machado e Cruz.</p><p>Apesar do orçamento considerável, que ultrapassou os 100 milhões de dólares, e da popularidade de Diesel na época, o filme não obteve o sucesso esperado nas bilheterias, arrecadando apenas 146,9 milhões de dólares mundialmente. No entanto, Vin Diesel sempre demonstrou o desejo de expandir a franquia para além do cinema.</p><h2>Potencial para The Last Witch Hunter 2</h2><p>Recentemente, <i>The Last Witch Hunter</i> teve uma pequena ressurreição de popularidade ao figurar entre os filmes mais assistidos na Netflix, o que parece ter impulsionado os produtores a capitalizar o momento. As incertezas agora giram em torno do retorno do elenco original, especialmente considerando a aposentadoria parcial de Michael Caine, intérprete de Dolan 36º.</p><p>O final do primeiro filme deixou Kaulder formando uma nova parceria com seu fiel companheiro, Dolan 36º, e uma bruxa aliada, Chloe. O trio buscava reconstruir a ordem de caçadores de bruxas fora da influência do Machado e Cruz. A maldição de Kaulder também implicava a necessidade de manter o coração da Rainha das Bruxas vivo, guardado em seu cofre.</p><p>Há diversas possibilidades para a narrativa de <i>The Lion's Oath</i>, incluindo um filme de origem focado na vida anterior de Kaulder, uma continuação direta que explora a nova equipe, ou até mesmo um salto temporal de dez anos, apresentando uma versão reinventada da série.</p>",
+      "meta_description": "A sequência de The Last Witch Hunter, com Vin Diesel, ganha o título \"The Lion's Oath\" e estreia confirmada para 2026. Saiba mais!",
+      "focus_keyphrase": "The Last Witch Hunter 2",
+      "related_keyphrases": [
+        "The Lion's Oath",
+        "Vin Diesel",
+        "sequência The Last Witch Hunter"
+      ],
+      "slug": "last-witch-hunter-2-sequel-vin-diesel",
+      "categorias": [
+        {
+          "nome": "The Last Witch Hunter",
+          "grupo": "obras",
+          "evidence": "The Last Witch Hunter"
+        },
+        {
+          "nome": "Vin Diesel",
+          "grupo": "ator",
+          "evidence": "Vin Diesel"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Last Witch Hunter",
+        "The Lion's Oath",
+        "Vin Diesel",
+        "filmes de fantasia",
+        "sequência de filme"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Arte conceitual do jogo Ubisoft para The Last Witch Hunter 2",
+        "Ex-Machina.jpg": "Imagem promocional de Ex Machina, possivelmente associada à estética de The Last Witch Hunter",
+        "Halo-Combat-Evolved.jpg": "Logo de Halo Combat Evolved, em um contexto de jogos de ação",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Episode-.jpg": "Cena da série Agents of SHIELD, mostrando a fusão de ficção científica e fantasia",
+        "The-Last-Witch-Hunter-Ending-Sets-Up-Sequel.jpg": "Cena final de The Last Witch Hunter, indicando a possibilidade de uma sequência",
+        "Vin-Diesel-The-Last-Witch-Hunter-2-Lions-Oath-Announcement-Post-1.jpg": "Postagem de Vin Diesel anunciando The Last Witch Hunter 2: The Lion's Oath",
+        "netflix-a-house-of-dynamite.jpg": "Imagem promocional de um filme da Netflix, possivelmente A House of Dynamite",
+        "stephen-king-misery.jpg": "Imagem relacionada à obra de Stephen King, neste caso, Misery"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Last Witch Hunter 2: Sequência de Vin Diesel ganha título e data",
+        "_yoast_wpseo_metadesc": "A sequência de The Last Witch Hunter, com Vin Diesel, ganha o título \"The Lion's Oath\" e estreia confirmada para 2026. Saiba mais!",
+        "_yoast_wpseo_focuskw": "The Last Witch Hunter 2",
+        "_yoast_news_keywords": "The Last Witch Hunter, The Lion's Oath, Vin Diesel, Lionsgate, fantasia, ação, filme de bruxaria",
+        "_yoast_wpseo_opengraph-title": "The Last Witch Hunter 2: Sequência de Vin Diesel ganha título e data",
+        "_yoast_wpseo_opengraph-description": "A sequência de The Last Witch Hunter, com Vin Diesel, ganha o título \"The Lion's Oath\" e estreia confirmada para 2026. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "The Last Witch Hunter 2: Sequência de Vin Diesel ganha título e data",
+        "_yoast_wpseo_twitter-description": "A sequência de The Last Witch Hunter, com Vin Diesel, ganha o título \"The Lion's Oath\" e estreia confirmada para 2026. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "ARC Raiders: Nível máximo de 75 é revelado em vazamento",
+      "conteudo_final": "<p>O próximo shooter PvPvE <b>ARC Raiders</b>, com lançamento previsto para 30 de outubro, pode ter seu nível máximo estabelecido em 75. Essa informação surgiu a partir de conquistas (achievements) que foram datamined recentemente nos arquivos do jogo.</p><p>Após uma série de testes de jogabilidade bem-sucedidos, incluindo o \"server slam\" realizado entre 17 e 19 de outubro, os fãs do gênero extraction shooter já têm uma boa noção de como o jogo se comportará em seu lançamento. A Embark Studios, desenvolvedora do game, tem considerado o feedback dos jogadores durante o \"server slam\" e anunciou mudanças para o dia do lançamento.</p><h2>Nível Máximo de 75 em ARC Raiders, segundo vazamento</h2><p>Com o pré-carregamento de <i>ARC Raiders</i> já disponível para PlayStation, Xbox e Steam, dataminers conseguiram extrair dados importantes. Entre eles, a conquista \"Legend of Speranza\", que recompensa o jogador por atingir o nível 75. Embora exista a possibilidade de 75 ser um \"soft cap\" (limite flexível), é mais provável que seja o nível máximo, dada a existência de uma conquista específica para alcançá-lo.</p><p>É importante notar que, devido a um problema inesperado, o pré-carregamento de <i>ARC Raiders</i> não estará disponível na Epic Games Store.</p><p>Um nível máximo de 75 permite aos jogadores de <i>ARC Raiders</i> atingirem os nós finais de pelo menos duas árvores de habilidades. Isso ocorre porque são necessários 37 pontos de habilidade para alcançar o nó final sem preencher completamente a árvore. Essa escolha de design oferece maior diversidade nas builds dos jogadores, que poderão alcançar os nós finais de duas árvores ou distribuir seus pontos de habilidade de forma mais ampla entre as três árvores de habilidades disponíveis no jogo.</p><p>Outras conquistas intrigantes que vazaram incluem \"Hook, Line, and Sinker\" (feita ao usar uma Granada de Isca para fazer um drone ARC atacar outro drone) e \"Death from Above\" (obtida ao causar 50 de dano a um inimigo enquanto se está em cima de um Rocketeer). Caçadores de conquistas terão um grande trabalho para completar 100% do jogo, pois a maioria das conquistas exige a participação e conclusão de cenários multiplayer específicos.</p><p>Com a informação de que o nível máximo é 75, os jogadores já podem começar a planejar suas estratégias e builds para o lançamento de <i>ARC Raiders</i>, utilizando os dados do \"server slam\" para estarem preparados para o sucesso na Zona de Ferrugem.</p>",
+      "meta_description": "Nível máximo de ARC Raiders é vazado: jogadores poderão alcançar o nível 75. Conquistas e detalhes sobre progressão do jogo.",
+      "focus_keyphrase": "ARC Raiders nível máximo",
+      "related_keyphrases": [
+        "ARC Raiders conquistas",
+        "Embark Studios",
+        "shooter PvPvE"
+      ],
+      "slug": "arc-raiders-nivel-maximo-vazamento",
+      "categorias": [
+        {
+          "nome": "ARC Raiders",
+          "grupo": "obras",
+          "evidence": "ARC Raiders"
+        },
+        {
+          "nome": "Embark Studios",
+          "grupo": "editorias",
+          "evidence": "Embark Studios"
+        }
+      ],
+      "tags_sugeridas": [
+        "ARC Raiders",
+        "Embark Studios",
+        "shooter",
+        "PvPvE",
+        "lançamento de jogo",
+        "vazamento"
+      ],
+      "image_alt_texts": {
+        "Arc-Raiders.jpg": "Imagem de divulgação do jogo ARC Raiders",
+        "arc-raiders-mecha.jpg": "Mecha em ação no jogo ARC Raiders",
+        "arc-raiders-world.jpg": "Cenário pós-apocalíptico de ARC Raiders",
+        "arc-raiders-character.jpg": "Personagem jogável em ARC Raiders",
+        "arc-raiders-key-art.jpg": "Arte principal de ARC Raiders",
+        "arc-raiders-machines-survival.jpg": "Máquinas hostis em ARC Raiders",
+        "arc-raiders-press-image-3.jpg": "Imagem promocional de ARC Raiders",
+        "mixcollage-10-feb-2025-05-28-am-1209-1.jpg": "Colagem de imagens promocionais de jogos",
+        "arc-raiders-frequently-asked-questions.jpg": "Imagem de FAQ para ARC Raiders",
+        "arc-raiders-screenshot-2.jpg": "Captura de tela do jogo ARC Raiders",
+        "play-arc-raiders-server-slam-on-pc-xbox-playstation.jpg": "Jogadores em ARC Raiders durante o Server Slam"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "ARC Raiders: Nível máximo de 75 é revelado em vazamento",
+        "_yoast_wpseo_metadesc": "Nível máximo de ARC Raiders é vazado: jogadores poderão alcançar o nível 75. Conquistas e detalhes sobre progressão do jogo.",
+        "_yoast_wpseo_focuskw": "ARC Raiders nível máximo",
+        "_yoast_news_keywords": "ARC Raiders, Embark Studios, shooter, PvPvE, nível máximo, vazamento, conquistas",
+        "_yoast_wpseo_opengraph-title": "ARC Raiders: Nível máximo de 75 é revelado em vazamento",
+        "_yoast_wpseo_opengraph-description": "Nível máximo de ARC Raiders é vazado: jogadores poderão alcançar o nível 75. Conquistas e detalhes sobre progressão do jogo.",
+        "_yoast_wpseo_twitter-title": "ARC Raiders: Nível máximo de 75 é revelado em vazamento",
+        "_yoast_wpseo_twitter-description": "Nível máximo de ARC Raiders é vazado: jogadores poderão alcançar o nível 75. Conquistas e detalhes sobre progressão do jogo."
+      }
+    }
+  ]
+}

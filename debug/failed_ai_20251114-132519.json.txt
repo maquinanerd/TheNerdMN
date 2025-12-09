@@ -1,0 +1,135 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Fallout: New Vegas Remaster é confirmado por insider confiável",
+      "conteudo_final": "<p>Um remaster de <strong><em>Fallout: New Vegas</em></strong> pode estar a caminho. Fãs da série <em>Fallout</em> pedem há tempos uma versão para consoles atuais do clássico de 2010, mas as esperanças diminuíam com o passar do tempo sem anúncios da Bethesda. Contudo, uma declaração recente reacendeu a expectativa.</p><p>A expectativa para o Dia Fallout de 2025 foi alta, mas diminuiu quando a Bethesda revelou apenas mais uma versão de <em>Fallout 4</em> e nenhum novo jogo ou remaster. Após a decepção, jogadores criticaram <em>Fallout 4</em> no Steam, expressando frustração pela oportunidade perdida em relação a <em>New Vegas</em>. Agora, parece haver boas notícias para o futuro.</p><h2>Jez Corden confirma remaster de Fallout: New Vegas</h2><p>Em resposta a um tweet sobre um suposto remaster de <em>Fallout 3</em>, Jez Corden, do Windows Central, afirmou que <em>Fallout: New Vegas</em> também receberá um remaster. Corden não forneceu detalhes ou fontes, mas sua posição como um insider com histórico de informações precisas confere peso à sua confirmação.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/08/fallout-new-vegas_key-art.jpg\" alt=\"Arte principal de Fallout: New Vegas\"><figcaption>A arte principal de Fallout: New Vegas sugere a possibilidade de um futuro remaster.</figcaption></figure><p>Meses antes do Dia Fallout de 2025, o jornalista Jordan Middler sugeriu que múltiplos projetos de <em>Fallout</em> estão em desenvolvimento, incluindo "aquele que todos vocês querem". É improvável que seja apenas uma edição de aniversário de <em>Fallout 4</em>, e a ideia de que <em>Fallout</em> tenha pelo menos dois projetos em andamento se alinha com o que Corden disse. Embora um remaster de <em>Fallout 3</em> pareça cada vez mais provável, isso não descarta a possibilidade de <em>Fallout: New Vegas</em> receber o mesmo tratamento.</p><p>É importante notar que essas teorias e alegações não são oficiais. A sobreposição entre as informações e a confiabilidade das fontes, no entanto, as torna dignas de atenção.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/shooting-enemies-in-fallout-new-vegas.jpg\" alt=\"Jogador em combate em Fallout: New Vegas\"><figcaption>Combate em Fallout: New Vegas, um dos momentos marcantes do jogo.</figcaption></figure><p>Ainda não há indicação de quando os remasters podem ser lançados. A Bethesda perdeu a chance de causar impacto no 15º aniversário de <em>Fallout: New Vegas</em>, mas futuros Dias Fallout podem ser oportunidades para anúncios. Até que os desenvolvedores revelem mais detalhes, os fãs terão que lidar com a incerteza.</p>",
+      "meta_description": "Insider Jez Corden confirma que um remaster de Fallout: New Vegas está em desenvolvimento, reacendendo esperanças dos fãs por uma versão atualizada do clássico.",
+      "focus_keyphrase": "Fallout: New Vegas remaster confirmado",
+      "related_keyphrases": [
+        "remaster Fallout New Vegas",
+        "Bethesda Fallout",
+        "insider Jez Corden"
+      ],
+      "slug": "fallout-new-vegas-remaster-confirmado",
+      "categorias": [
+        {
+          "nome": "Fallout",
+          "grupo": "franquias",
+          "evidence": "Fallout fans have been asking for a current-gen version of the 2010 classic"
+        },
+        {
+          "nome": "Bethesda",
+          "grupo": "editorias",
+          "evidence": "no word from Bethesda on the matter"
+        }
+      ],
+      "tags_sugeridas": [
+        "Fallout",
+        "Fallout: New Vegas",
+        "Bethesda",
+        "remaster",
+        "Jez Corden"
+      ],
+      "image_alt_texts": {
+        "fallout-new-vegas_key-art.jpg": "Arte principal de Fallout: New Vegas, indicando um possível remaster.",
+        "shooting-enemies-in-fallout-new-vegas.jpg": "Jogador em combate em Fallout: New Vegas, mostrando a jogabilidade clássica."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Fallout: New Vegas Remaster é confirmado por insider confiável",
+        "_yoast_wpseo_metadesc": "Insider Jez Corden confirma que um remaster de Fallout: New Vegas está em desenvolvimento, reacendendo esperanças dos fãs por uma versão atualizada do clássico.",
+        "_yoast_wpseo_focuskw": "Fallout: New Vegas remaster confirmado",
+        "_yoast_news_keywords": "Fallout, Fallout: New Vegas, Bethesda, remaster, Jez Corden, insider",
+        "_yoast_wpseo_opengraph-title": "Fallout: New Vegas Remaster é confirmado por insider confiável",
+        "_yoast_wpseo_opengraph-description": "Insider Jez Corden confirma que um remaster de Fallout: New Vegas está em desenvolvimento, reacendendo esperanças dos fãs por uma versão atualizada do clássico.",
+        "_yoast_wpseo_twitter-title": "Fallout: New Vegas Remaster é confirmado por insider confiável",
+        "_yoast_wpseo_twitter-description": "Insider Jez Corden confirma que um remaster de Fallout: New Vegas está em desenvolvimento, reacendendo esperanças dos fãs por uma versão atualizada do clássico."
+      }
+    },
+    {
+      "titulo_final": "Call of Duty: Black Ops 7 chega ao Xbox Game Pass Ultimate e PC",
+      "conteudo_final": "<p><em>Call of Duty: Black Ops 7</em> já está disponível no <strong>Xbox Game Pass</strong>, incluído em dois de seus planos. Este é o 12º lançamento de 2025 no serviço e o 201º título adicionado ao catálogo do Xbox Game Pass neste ano.</p><p><em>Call of Duty: Black Ops 7</em> é um dos maiores lançamentos de 2025, tanto em estimativas de orçamento quanto em expectativas de receita. O jogo oferece uma campanha que pode ser jogada solo ou em modo cooperativo em esquadrões, 16 mapas multiplayer 6v6, dois grandes campos de batalha 20v20 e o maior mapa de Zombies baseado em rodadas da série até agora, Ashes of the Damned.</p><h2>Call of Duty: Black Ops 7 disponível em dois planos do Xbox Game Pass</h2><p>O mais recente título da franquia <em>Call of Duty</em> foi lançado em 14 de novembro. Assim como seu antecessor, <em>Black Ops 7</em> é um título do Xbox Game Pass desde o primeiro dia, disponível nos planos PC e Ultimate. A versão para PC ocupa cerca de 116GB, com as versões para console sendo ligeiramente menores. Membros do Xbox Game Pass com pouco espaço de armazenamento, mas com acesso à internet de alta velocidade, também podem experimentar <em>Black Ops 7</em> via Xbox Cloud Gaming, que recentemente expandiu para todos os planos não-PC do serviço.</p><h3>Quando Black Ops 7 chegará ao Xbox Game Pass Premium?</h3><p>Em 1º de outubro, a Microsoft se comprometeu a trazer títulos publicados pela Xbox para o Game Pass Premium dentro de um ano de sua estreia nos planos Ultimate e PC. Essa promessa, combinada com o histórico da empresa com o XGP Standard, sugere que <em>Black Ops 7</em> pode chegar à biblioteca Premium entre maio e novembro de 2026. Se isso realmente acontecer, permanece incerto, especialmente considerando que <em>Black Ops 6</em> ainda não chegou ao plano intermediário do serviço, apesar de ter celebrado seu primeiro aniversário no final de outubro de 2025.</p><p>O lançamento de <em>Black Ops 7</em> conclui a primeira leva de jogos do Xbox Game Pass para novembro de 2025. A Microsoft deve anunciar o restante do catálogo para a segunda quinzena do mês em ou por volta de 19 de novembro, quando <em>Moonlighter 2: The Endless Vault</em> está programado para chegar ao serviço após um pequeno atraso de um mês.</p><h3>Novos e futuros jogos do Xbox Game Pass com datas de lançamento confirmadas</h3><div class=\"table-container\"><table><thead><tr><th>Jogo</th><th>Plano(s) Game Pass</th><th>Plataforma(s)</th><th>Data</th><th>Observações</th></tr></thead><tbody><tr><td>Call of Duty: Black Ops 7</td><td>Ultimate, PC</td><td>Cloud, Console, PC</td><td>14 de Nov</td><td>Lançamento no dia 1.</td></tr><tr><td>Moonlighter 2: The Endless Vault</td><td>Ultimate, PC</td><td>Cloud, PC</td><td>19 de Nov</td><td>Lançamento no dia 1. Game Preview. Versão XSX chega ao XGP em 2026.</td></tr><tr><td>Routine</td><td>Ultimate, PC</td><td>Cloud, Console, PC</td><td>4 de Dez</td><td>Lançamento no dia 1.</td></tr><tr><td>Dome Keeper</td><td>Ultimate, PC</td><td>Cloud, PC, Series X/S</td><td>9 de Dez</td><td>Lançamento no dia 1 (Series X/S).</td></tr><tr><td>Menace</td><td>Ultimate, PC</td><td>PC</td><td>5 de Fev</td><td>Game Preview; lançamento no dia 1.</td></tr><tr><td>High on Life 2</td><td>Ultimate, PC</td><td>Cloud, PC, Series X/S</td><td>13 de Fev</td><td>Lançamento no dia 1.</td></tr></tbody></table></div><p>A mais recente reformulação do Xbox Game Pass viu a Microsoft se comprometer a entregar mais de 75 lançamentos no primeiro dia para o serviço Ultimate por ano. Atualmente, há mais de duas dúzias de títulos confirmados para 2026, incluindo <em>Fable</em>, <em>Subnautica 2</em>, <em>Forza Horizon 6</em>, <em>Tropico 7</em> e <em>Mixtape</em> — que originalmente era um título de 2025 antes de ser adiado no início de novembro. <em>Halo: Campaign Evolved</em>, <em>Super Meat Boy 3D</em>, <em>Wildekin</em>, <em>Planet of Lana 2</em> e <em>There Are No Ghosts at the Grand</em> também fazem parte do roteiro do Xbox Game Pass para 2026. Nenhum desses títulos de lançamento no dia 1 tem datas de lançamento firmes, embora alguns — como <em>TCG Card Shop Simulator</em> — tenham sido anunciados com estreia prevista para o primeiro trimestre de 2026.</p>",
+      "meta_description": "Call of Duty: Black Ops 7 chega ao Xbox Game Pass Ultimate e PC como um lançamento no primeiro dia, expandindo o catálogo de jogos do serviço em novembro de 2025.",
+      "focus_keyphrase": "Call of Duty Black Ops 7 no Game Pass",
+      "related_keyphrases": [
+        "Xbox Game Pass Ultimate",
+        "lançamentos Xbox Game Pass",
+        "Black Ops 7 Game Pass"
+      ],
+      "slug": "call-of-duty-black-ops-7-game-pass",
+      "categorias": [
+        {
+          "nome": "Xbox Game Pass",
+          "grupo": "serviços",
+          "evidence": "Xbox Game Pass"
+        },
+        {
+          "nome": "Call of Duty",
+          "grupo": "franquias",
+          "evidence": "Call of Duty: Black Ops 7"
+        }
+      ],
+      "tags_sugeridas": [
+        "Call of Duty",
+        "Black Ops 7",
+        "Xbox Game Pass",
+        "Game Pass Ultimate",
+        "Microsoft"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Call of Duty: Black Ops 7 chega ao Xbox Game Pass Ultimate e PC",
+        "_yoast_wpseo_metadesc": "Call of Duty: Black Ops 7 chega ao Xbox Game Pass Ultimate e PC como um lançamento no primeiro dia, expandindo o catálogo de jogos do serviço em novembro de 2025.",
+        "_yoast_wpseo_focuskw": "Call of Duty Black Ops 7 no Game Pass",
+        "_yoast_news_keywords": "Call of Duty, Black Ops 7, Xbox Game Pass, Game Pass Ultimate, Microsoft, lançamento",
+        "_yoast_wpseo_opengraph-title": "Call of Duty: Black Ops 7 chega ao Xbox Game Pass Ultimate e PC",
+        "_yoast_wpseo_opengraph-description": "Call of Duty: Black Ops 7 chega ao Xbox Game Pass Ultimate e PC como um lançamento no primeiro dia, expandindo o catálogo de jogos do serviço em novembro de 2025.",
+        "_yoast_wpseo_twitter-title": "Call of Duty: Black Ops 7 chega ao Xbox Game Pass Ultimate e PC",
+        "_yoast_wpseo_twitter-description": "Call of Duty: Black Ops 7 chega ao Xbox Game Pass Ultimate e PC como um lançamento no primeiro dia, expandindo o catálogo de jogos do serviço em novembro de 2025."
+      }
+    },
+    {
+      "titulo_final": "Destiny 2 revela roadmap de conteúdo e recursos de Renegades",
+      "conteudo_final": "<p>Às vésperas do lançamento da aguardada expansão Renegades, a Bungie oferece aos jogadores de <strong><em>Destiny 2</em></strong> um vislumbre do que está por vir nas próximas atualizações. Tradicionalmente, os jogadores de <em>Destiny 2</em> têm uma boa ideia do conteúdo futuro, mas a incerteza paira, já que pouco se sabe além da expansão Renegades.</p><p>Em anos anteriores, a Bungie costumava apresentar as temporadas futuras e um ano de conteúdo. No entanto, com <em>Destiny 2</em> enfrentando dificuldades e perdendo jogadores, muitos temem pelo futuro do jogo além da expansão Renegades, inspirada em Star Wars. Enquanto a Bungie começa a divulgar mais detalhes sobre Renegades, o futuro de longo prazo de <em>Destiny 2</em> permanece um mistério. A empresa, contudo, finalmente concedeu aos jogadores uma pequena janela para seus planos futuros.</p><h2>Roadmap de Conteúdo e Recursos de Destiny 2 Renegades</h2><p>Com a chegada de Destiny 2 Renegades em poucas semanas, a Bungie tem compartilhado mais informações com os fãs sobre o que esperar. Em um novo post, o desenvolvedor destaca o passado do jogo com Edge of Fate e para onde ele está indo. Embora não seja uma visão de longo prazo, o anúncio detalha novidades importantes, como os novos exóticos e armas de <em>Destiny 2: Renegades</em>, adições ao conteúdo do Portal, uma atualização de Recompensas e novas funcionalidades muito aguardadas.</p><figure><img src=\"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/11/destiny-2-renegades-exotic-weapons-and-armor.jpg\" alt=\"Jogadores em equipe em Destiny 2: Renegades\"><figcaption>A expansão Renegades trará novas armas e recursos para Destiny 2.</figcaption></figure><p>O post reconhece os diversos erros de <em>Destiny 2: Edge of Fate</em>, enfatizando como o feedback dos jogadores foi crucial para moldar a experiência nos últimos meses. Essas lições aprendidas continuam com o lançamento de Renegades em 3 de dezembro e a atualização subsequente planejada para 9 de dezembro. Esta atualização facilitará o alcance do nível de poder, removerá a restrição de \"equipamento em destaque\" e oferecerá um mecanismo de recuperação para novos ou retornantes jogadores atingirem instantaneamente o nível de poder 300.</p><p>Em uma das revelações mais significativas, a Bungie aumentará o Cofre em 300 espaços, permitindo que os jogadores armazenem até 1000 itens. Além disso, o sistema de filtragem será reformulado, com opções para ordenar por nível, poder, data de adição e visualizar tipos específicos de equipamento, como armas, armaduras ou shells de fantasma. Mais ainda, a Bungie permitirá que os jogadores apliquem ornamentos de armadura exótica da mesma classe e slot em suas armaduras exóticas em PvE, semelhante a um sistema de transmog, mas agora incluindo armaduras exóticas.</p><p>Por fim, há um grande esforço para reduzir as frustrações em torno do Portal de <em>Destiny 2</em>, que a Bungie admitiu \"entrega demais a sensação de lugar e exploração de Destiny\". Especificamente, <em>Destiny 2</em> reintroduzirá objetivos semanais, incluindo um novo sistema de Alertas da Vanguarda, que permite aos jogadores ver rapidamente e facilmente as playlists e atividades disponíveis para a semana atual. O objetivo é resgatar a antiga sensação das atividades semanais de Falha, consolidando os modos de jogo semanais de Esquadrão, Arena, Grande Mestre e PvP em uma única tela de fácil visualização.</p>",
+      "meta_description": "Destiny 2 revela roadmap para a expansão Renegades, detalhando novas armas, recursos do Cofre, sistema de transmog para exóticos e melhorias no Portal.",
+      "focus_keyphrase": "Destiny 2 Renegades roadmap",
+      "related_keyphrases": [
+        "Destiny 2 expansão",
+        "Bungie Destiny 2",
+        "recursos Destiny 2"
+      ],
+      "slug": "destiny-2-renegades-roadmap",
+      "categorias": [
+        {
+          "nome": "Destiny 2",
+          "grupo": "franquias",
+          "evidence": "Destiny 2"
+        },
+        {
+          "nome": "Bungie",
+          "grupo": "editorias",
+          "evidence": "Bungie gives"
+        }
+      ],
+      "tags_sugeridas": [
+        "Destiny 2",
+        "Renegades",
+        "Bungie",
+        "roadmap",
+        "jogos"
+      ],
+      "image_alt_texts": {
+        "destiny-2-renegades-exotic-weapons-and-armor.jpg": "Jogadores em equipe em Destiny 2: Renegades, mostrando a expansão e seus novos recursos."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Destiny 2 revela roadmap de conteúdo e recursos de Renegades",
+        "_yoast_wpseo_metadesc": "Destiny 2 revela roadmap para a expansão Renegades, detalhando novas armas, recursos do Cofre, sistema de transmog para exóticos e melhorias no Portal.",
+        "_yoast_wpseo_focuskw": "Destiny 2 Renegades roadmap",
+        "_yoast_news_keywords": "Destiny 2, Renegades, Bungie, roadmap, jogos, expansão",
+        "_yoast_wpseo_opengraph-title": "Destiny 2 revela roadmap de conteúdo e recursos de Renegades",
+        "_yoast_wpseo_opengraph-description": "Destiny 2 revela roadmap para a expansão Renegades, detalhando novas armas, recursos do Cofre, sistema de transmog para exóticos e melhorias no Portal.",
+        "_yoast_wpseo_twitter-title": "Destiny 2 revela roadmap de conteúdo e recursos de Renegades",
+        "_yoast_wpseo_twitter-description": "Destiny 2 revela roadmap para a expansão Renegades, detalhando novas armas, recursos do Cofre, sistema de transmog para exóticos e melhorias no Portal."
+      }
+    }
+  ]
+}

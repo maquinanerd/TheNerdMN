@@ -1,0 +1,106 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix Confirma Nova Série Baseada em Philip K. Dick em Espanhol",
+      "conteudo_final": "<p>A <b>Netflix</b> está expandindo seu catálogo de ficção científica com uma nova série inspirada em 'The World Jones Made', romance distópico do icônico autor <b>Philip K. Dick</b>. Intitulada <b>'The Future is Ours'</b>, a produção marca a primeira adaptação de uma obra de Dick para uma série em língua espanhola.</p><h2>Nova Série em Espanhol de Philip K. Dick</h2><p>A série limitada terá oito episódios e se passará na América do Sul em 2047. Em um cenário de colapso ecológico, a Federação Sul-Americana (FedSur) impõe medidas rigorosas para proteger a natureza e conter a instabilidade social. A trama acompanha Hugo Crussí, um oficial de polícia que descobre uma jovem pregadora, Jonás Flores, capaz de prever o futuro, e que se torna um líder espiritual popular. Crussí se vê envolvido com a resistência e é perseguido.</p><p>Francisco Ramos, VP de Conteúdo para América Latina na Netflix, expressou entusiasmo com o projeto, destacando a relevância das obras de Dick para os tempos atuais e o potencial da América Latina como cenário para tais narrativas.</p><p>“Temos abordado a obra de Philip K. Dick com grande respeito e admiração, encontrando temas que são poderosamente relevantes hoje. Sem dúvida, o desafio é imenso, mas temos orgulho de contar uma história que mostrará a América Latina como uma força de resistência na nova ordem. Será uma produção sem precedentes de maior ambição na América Latina, que demonstrará que esses tipos de histórias também podem ser contadas a partir de nossos países, em espanhol e com qualidade excepcional”, declarou Ramos.</p><h2>Equipe Criativa e Elenco</h2><p>Mateo Gil será o showrunner da série, com Vicente Amorim, Daniel Rezende e Jesús Braceras na direção. A equipe criativa já colaborou em sucessos recentes da Netflix em espanhol, como 'The Eternaut', 'Cem Anos de Solidão', 'Pedro Páramo' e 'Senna'. O elenco é composto por talentos hispanófonos, incluindo Emiliano Zurita, Delfina Chaves, Enzo Vogrincic, Marleyda Soto e Marco Antonio Caponi.</p><p>Isa Dick Hackett, filha do autor, endossou a adaptação, elogiando a visão inventiva e ousada de Mateo Gil, que mantém a essência da obra original. Ela ressaltou o potencial da América Latina para projetos ambiciosos.</p><p>A data de lançamento de 'The Future is Ours' ainda não foi divulgada pela Netflix.</p><p>A obra de Philip K. Dick, conhecida por explorar temas como realidade, identidade e tecnologia, inspirou diversos filmes e séries de sucesso, solidificando seu legado na ficção científica.</p>",
+      "meta_description": "Netflix anuncia 'The Future is Ours', nova série em espanhol baseada na obra de Philip K. Dick, explorando um futuro distópico na América do Sul.",
+      "focus_keyphrase": "Philip K. Dick Netflix série",
+      "related_keyphrases": [
+        "The Future is Ours série",
+        "Adaptação Philip K. Dick",
+        "Netflix ficção científica"
+      ],
+      "slug": "netflix-nova-serie-philip-k-dick",
+      "categorias": [
+        {
+          "nome": "The Future is Ours",
+          "grupo": "obras",
+          "evidence": "The Future is Ours will be an eight-episode limited series."
+        },
+        {
+          "nome": "Philip K. Dick",
+          "grupo": "obras",
+          "evidence": "inspired by iconic sci-fi author Philip K. Dick’s dystopian novel"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix has been tapping into sci-fi"
+        }
+      ],
+      "tags_sugeridas": [
+        "philip k. dick",
+        "netflix",
+        "the future is ours",
+        "ficção científica",
+        "séries em espanhol",
+        "distopia"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Logo da Netflix em uma arte promocional.",
+        "Ex-Machina.jpg": "Cena do filme Ex Machina, com Ava e Caleb.",
+        "Firefly-Out-of-Gas-episode.jpg": "Elenco da série Firefly em uma cena.",
+        "Halo-Combat-Evolved.jpg": "Imagem do jogo Halo: Combat Evolved.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Agentes da S.H.I.E.L.D. em uma sala de controle.",
+        "Netflix-The-Future-Is-Ours-Production-Start-Announcement-Cast.jpg": "Elenco principal da série 'The Future is Ours' posando para foto.",
+        "mackenzie-davis.jpg": "Atriz Mackenzie Davis em uma cena."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix Confirma Nova Série Baseada em Philip K. Dick em Espanhol",
+        "_yoast_wpseo_metadesc": "Netflix anuncia 'The Future is Ours', nova série em espanhol baseada na obra de Philip K. Dick, explorando um futuro distópico na América do Sul.",
+        "_yoast_wpseo_focuskw": "Philip K. Dick Netflix série",
+        "_yoast_news_keywords": "Philip K. Dick, Netflix, The Future is Ours, ficção científica, séries em espanhol, Mateo Gil, Isa Dick Hackett",
+        "_yoast_wpseo_opengraph-title": "Netflix Confirma Nova Série Baseada em Philip K. Dick em Espanhol",
+        "_yoast_wpseo_opengraph-description": "Netflix anuncia 'The Future is Ours', nova série em espanhol baseada na obra de Philip K. Dick, explorando um futuro distópico na América do Sul.",
+        "_yoast_wpseo_twitter-title": "Netflix Confirma Nova Série Baseada em Philip K. Dick em Espanhol",
+        "_yoast_wpseo_twitter-description": "Netflix anuncia 'The Future is Ours', nova série em espanhol baseada na obra de Philip K. Dick, explorando um futuro distópico na América do Sul."
+      }
+    },
+    {
+      "titulo_final": "The Simpsons: Al Jean Deixa o Cargo de Showrunner Após 25 Anos",
+      "conteudo_final": "<p>Uma mudança significativa nos bastidores de <b>The Simpsons</b> marca o início de uma nova era para a animação. <b>Al Jean</b>, que ocupava o cargo de showrunner desde a 13ª temporada, anunciou que o próximo episódio será o último sob sua liderança direta.</p><h2>Fim de uma Era para Al Jean em The Simpsons</h2><p>Com a série renovada até a 40ª temporada e um novo filme previsto para 2027, a saída de Jean como showrunner principal representa uma transição importante. Embora ainda não haja confirmação oficial sobre quem assumirá o posto, Matt Selman, que atua como co-showrunner há algumas temporadas, é um forte candidato. Al Jean, no entanto, continuará envolvido com a franquia em novas funções.</p><p>O episódio final de Al Jean como showrunner principal, intitulado \"Bad Boys… For Life?\", faz parte da 37ª temporada e promete revisitar o passado de Bart. Escrito pelo próprio Jean e dirigido por Eric Koenig, o episódio sinaliza o fim de um ciclo de 25 anos.</p><h2>Próximos Passos para The Simpsons</h2><p>A produção de um novo filme de <b>The Simpsons</b>, com lançamento previsto para 2027, ocorrerá em paralelo ao desenvolvimento da série. Esse cenário espelha o lançamento do primeiro filme há 20 anos, o que pode explicar a demora pela sequência.</p><p>A série tem demonstrado experimentação em seus episódios mais recentes, explorando novas facetas de personagens já conhecidos, indicando que a animação continua em constante evolução. A renovação até a 40ª temporada garante conteúdo para os fãs por muitos anos.</p><p>A transição de showrunner e as mudanças nos bastidores sinalizam um novo capítulo para a animação. Assim como temporadas anteriores marcaram diferentes eras, os próximos anos prometem ser uma nova fase para o icônico programa.</p>",
+      "meta_description": "Al Jean deixa o cargo de showrunner de The Simpsons após 25 anos, marcando o início de uma nova era para a animação com um filme previsto para 2027.",
+      "focus_keyphrase": "The Simpsons Al Jean showrunner",
+      "related_keyphrases": [
+        "The Simpsons nova era",
+        "Al Jean The Simpsons",
+        "The Simpsons filme 2027"
+      ],
+      "slug": "the-simpsons-al-jean-showrunner",
+      "categorias": [
+        {
+          "nome": "The Simpsons",
+          "grupo": "franquias",
+          "evidence": "The Simpsons is going to be making a major change"
+        }
+      ],
+      "tags_sugeridas": [
+        "the simpsons",
+        "al jean",
+        "showrunner",
+        "animação",
+        "fox",
+        "the simpsons movie"
+      ],
+      "image_alt_texts": {
+        "The-Simpsons-Watch-Order-Disney-Plus.jpg": "Personagens de The Simpsons reunidos.",
+        "u-b-i-s-o-f-t.png": "Logo da Netflix em uma arte promocional.",
+        "Ex-Machina.jpg": "Cena do filme Ex Machina, com Ava e Caleb.",
+        "Firefly-Out-of-Gas-episode.jpg": "Elenco da série Firefly em uma cena.",
+        "Halo-Combat-Evolved.jpg": "Imagem do jogo Halo: Combat Evolved.",
+        "Marvel-Best-MCU-Sci-Fi-Agents-of-SHIELD-4722-Hours-Episode-.jpg": "Agentes da S.H.I.E.L.D. em uma sala de controle.",
+        "mackenzie-davis.jpg": "Atriz Mackenzie Davis em uma cena."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Simpsons: Al Jean Deixa o Cargo de Showrunner Após 25 Anos",
+        "_yoast_wpseo_metadesc": "Al Jean deixa o cargo de showrunner de The Simpsons após 25 anos, marcando o início de uma nova era para a animação com um filme previsto para 2027.",
+        "_yoast_wpseo_focuskw": "The Simpsons Al Jean showrunner",
+        "_yoast_news_keywords": "The Simpsons, Al Jean, showrunner, animação, Fox, The Simpsons Movie, Matt Selman",
+        "_yoast_wpseo_opengraph-title": "The Simpsons: Al Jean Deixa o Cargo de Showrunner Após 25 Anos",
+        "_yoast_wpseo_opengraph-description": "Al Jean deixa o cargo de showrunner de The Simpsons após 25 anos, marcando o início de uma nova era para a animação com um filme previsto para 2027.",
+        "_yoast_wpseo_twitter-title": "The Simpsons: Al Jean Deixa o Cargo de Showrunner Após 25 Anos",
+        "_yoast_wpseo_twitter-description": "Al Jean deixa o cargo de showrunner de The Simpsons após 25 anos, marcando o início de uma nova era para a animação com um filme previsto para 2027."
+      }
+    }
+  ]
+}

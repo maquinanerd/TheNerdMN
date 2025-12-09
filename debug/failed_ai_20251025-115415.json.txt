@@ -1,0 +1,103 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Elixir: Terror indonésio domina streaming global sem pontuação oficial",
+      "conteudo_final": "<p>Um filme de zumbi inesperado da Indonésia, intitulado <b>The Elixir</b>, está conquistando o público global no streaming, alcançando o primeiro lugar nas paradas de audiência da Netflix. O longa-metragem superou até mesmo produções de renome, como a aguardada sequência de Danny Boyle, <i>28 Years Later</i>.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2025/09/01833931_poster_w780.jpg\" alt=\"Pôster do filme The Elixir\"><figcaption>Pôster oficial de The Elixir.</figcaption></figure><p>De acordo com dados divulgados, <b>The Elixir</b> assumiu a liderança em 24 de outubro e manteve a posição nos dias seguintes. Superou filmes como <i>The Woman in Cabin 10</i>, estrelado por Keira Knightley, e <i>KPop Demon Hunters</i>, que ficou em terceiro lugar. O top 5 foi completado por <i>The Perfect Neighbor</i> e a adaptação de Roald Dahl, <i>The Twits</i>, todos títulos originais da plataforma.</p><h2><b>The Elixir</b> oferece uma crítica à indústria farmacêutica</h2><p>Dirigido por Kimo Stamboel, conhecido por seu trabalho em filmes de terror como parte da dupla The Mo Brothers, <b>The Elixir</b> se passa na Indonésia rural. A trama acompanha uma família em busca de sobrevivência após o lançamento de um "elixir" experimental por um executivo farmacêutico. O filme ainda não possui uma pontuação oficial no Rotten Tomatoes, mas as críticas disponíveis apontam para uma recepção positiva do público. O crescente boca a boca e a visibilidade do cinema indonésio no cenário global podem impulsionar ainda mais o sucesso de <b>The Elixir</b>.</p><p>A produção está disponível na Netflix.</p>",
+      "meta_description": "The Elixir, filme de terror indonésio, surpreende e domina o streaming global da Netflix, superando grandes produções. Saiba mais!",
+      "focus_keyphrase": "The Elixir filme indonésio",
+      "related_keyphrases": [
+        "filme de zumbi Netflix",
+        "terror indonésio streaming",
+        "The Elixir Rotten Tomatoes"
+      ],
+      "slug": "the-elixir-filme-indonesio-streaming",
+      "categorias": [
+        {
+          "nome": "The Elixir",
+          "grupo": "obras",
+          "evidence": "The Elixir, which hails from Indonesia, not only beat Boyle's $60 million tent pole"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "The Elixir claimed the top spot on October 24, and held on to it on October 25."
+        }
+      ],
+      "tags_sugeridas": [
+        "the elixir",
+        "filme de zumbi",
+        "terror",
+        "indonesia",
+        "netflix"
+      ],
+      "image_alt_texts": {
+        "01833931_poster_w780.jpg": "Pôster do filme indonésio de terror The Elixir, em destaque no streaming."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Elixir: Filme indonésio de terror domina streaming global",
+        "_yoast_wpseo_metadesc": "The Elixir, filme de terror indonésio, surpreende e domina o streaming global da Netflix, superando grandes produções. Saiba mais!",
+        "_yoast_wpseo_focuskw": "The Elixir filme indonésio",
+        "_yoast_news_keywords": "The Elixir, filme indonésio, filme de zumbi, terror, Netflix, Kimo Stamboel",
+        "_yoast_wpseo_opengraph-title": "The Elixir: Filme indonésio de terror domina streaming global",
+        "_yoast_wpseo_opengraph-description": "The Elixir, filme de terror indonésio, surpreende e domina o streaming global da Netflix, superando grandes produções. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "The Elixir: Filme indonésio de terror domina streaming global",
+        "_yoast_wpseo_twitter-description": "The Elixir, filme de terror indonésio, surpreende e domina o streaming global da Netflix, superando grandes produções. Saiba mais!"
+      }
+    },
+    {
+      "titulo_final": "Yaiba: Samurai Legend estreia dublado na Netflix e Hulu em novembro",
+      "conteudo_final": "<p>A animação <b>Yaiba: Samurai Legend</b>, produzida pelo Wit Studio, conhecido por <i>Attack on Titan</i>, terá sua segunda metade da primeira temporada lançada com dublagem em inglês e espanhol. A estreia global em novas plataformas ocorrerá em <b>21 de novembro de 2025</b>, simultaneamente na Netflix e na Hulu.</p><p>Esta nova leva de episódios marca a primeira vez que a temporada 1B estará amplamente disponível em formato dublado fora do Japão. A conclusão da temporada no país asiático ocorreu em 27 de setembro, garantindo um curto intervalo até o lançamento global dublado, o que é uma excelente notícia para os fãs que preferem o áudio em suas línguas nativas ou desejam evitar spoilers.</p><p>A animação é baseada no mangá de 1988 de Gosho Aoyama, com a Wit Studio sendo responsável por uma nova adaptação moderna. A equipe criativa inclui Takahiro Hasui na direção, Touko Machida no roteiro e Yoshimichi Kameda nos designs de personagem e direção de animação principal, com o apoio de Yutaka Yamada e Yoshiaka Dewa na trilha sonora.</p><h2>Sobre o que é <b>Yaiba: Samurai Legend</b>?</h2><p><b>Yaiba: Samurai Legend</b> segue a jornada de Yaiba Kurogane, um espadachim criado na floresta, que se envolve em conflitos com rivais e figuras lendárias inspiradas na mitologia japonesa. A primeira parte da temporada encerrou em um ponto de alta tensão, com alianças cruciais e um confronto iminente em aberto. A temporada 1B promete continuar a história a partir desse momento, explorando novas locações, adversários mais desafiadores e aumentando as apostas na jornada de Yaiba.</p><blockquote><p>“O protagonista, Yaiba (Kurogane Yaiba), é um garoto samurai selvagem que treina na selva com seu pai, Kenjuro! Por acaso, Yaiba retorna ao Japão, onde encontra seu rival Takeshi Onimaru, que possui o mesmo espírito de samurai de Yaiba, em um novo campo de treinamento. Yaiba vive uma vida de competição séria, mas quando Onimaru obtém a Lendária Espada Demoníaca, ele embarca em uma jornada cheia de espetáculo e grande aventura.”</p></blockquote><p>O lançamento simultâneo em 21 de novembro na Netflix e Hulu é estratégico, permitindo que os espectadores possam mergulhar diretamente nas novas aventuras de Yaiba logo após o final da primeira parte.</p><figure><img src=\"https://static0.colliderimages.com/wordpress/wp-content/uploads/sharedimages/2024/11/03225915_poster_w780.jpg\" alt=\"Pôster da animação Yaiba: Samurai Legend\"><figcaption>Pôster oficial de Yaiba: Samurai Legend.</figcaption></figure>",
+      "meta_description": "Yaiba: Samurai Legend, do estúdio de Attack on Titan, ganha data de lançamento dublado na Netflix e Hulu para novembro de 2025. Saiba mais!",
+      "focus_keyphrase": "Yaiba Samurai Legend Netflix Hulu",
+      "related_keyphrases": [
+        "Yaiba Samurai Legend dublado",
+        "lançamento anime novembro 2025",
+        "Wit Studio anime"
+      ],
+      "slug": "yaiba-samurai-legend-netflix-hulu",
+      "categorias": [
+        {
+          "nome": "Yaiba: Samurai Legend",
+          "grupo": "obras",
+          "evidence": "Wit Studio’s Yaiba: Samurai Legend has locked in its next global push."
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "The new episodes are also slated to arrive the same day, according to the show’s listing on the platform."
+        },
+        {
+          "nome": "Hulu",
+          "grupo": "plataformas",
+          "evidence": "will now be landing on Hulu in English and Spanish dubs on November 21, 2025"
+        },
+        {
+          "nome": "Attack on Titan",
+          "grupo": "franquias",
+          "evidence": "Wit Studio (the powerhouse behind the first seasons of Attack on Titan"
+        }
+      ],
+      "tags_sugeridas": [
+        "yaiba samurai legend",
+        "wit studio",
+        "anime",
+        "netflix",
+        "hulu",
+        "attack on titan"
+      ],
+      "image_alt_texts": {
+        "03225915_poster_w780.jpg": "Pôster da animação Yaiba: Samurai Legend, com lançamento dublado confirmado."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Yaiba: Samurai Legend chega dublado à Netflix e Hulu em novembro",
+        "_yoast_wpseo_metadesc": "Yaiba: Samurai Legend, do estúdio de Attack on Titan, ganha data de lançamento dublado na Netflix e Hulu para novembro de 2025. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Yaiba Samurai Legend Netflix Hulu",
+        "_yoast_news_keywords": "Yaiba Samurai Legend, Wit Studio, Netflix, Hulu, anime, Attack on Titan, dublado",
+        "_yoast_wpseo_opengraph-title": "Yaiba: Samurai Legend chega dublado à Netflix e Hulu em novembro",
+        "_yoast_wpseo_opengraph-description": "Yaiba: Samurai Legend, do estúdio de Attack on Titan, ganha data de lançamento dublado na Netflix e Hulu para novembro de 2025. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Yaiba: Samurai Legend chega dublado à Netflix e Hulu em novembro",
+        "_yoast_wpseo_twitter-description": "Yaiba: Samurai Legend, do estúdio de Attack on Titan, ganha data de lançamento dublado na Netflix e Hulu para novembro de 2025. Saiba mais!"
+      }
+    }
+  ]
+}

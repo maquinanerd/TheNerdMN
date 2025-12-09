@@ -1,0 +1,118 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Netflix Remove 12 Títulos Originais em Novembro; Veja Lista",
+      "conteudo_final": "<p>Novembro será um mês movimentado para a <b>Netflix</b>, não apenas pela chegada de novos conteúdos. A plataforma de streaming removerá 12 títulos originais de seu catálogo ao longo do mês, o que significa que o tempo está acabando para os assinantes darem uma última conferida.</p>\n<h2>Primeira Semana de Novembro: Adeus a Séries e Filmes Originais</h2>\n<p>A Netflix planeja começar o mês com força, e a primeira semana trará o maior número de títulos originais a serem removidos. A partir de 2 de novembro, ambas as temporadas de <b>Can You Hear Me?</b>, série franco-canadense sobre um grupo de amigos em um bairro de baixa renda, deixarão a plataforma, exatamente cinco anos após a estreia da segunda temporada. Poucos dias depois, em 6 de novembro, todos os 12 episódios de <b>Care Bears & Cousins</b> e o filme <b>Citation</b> (2020) também serão removidos. Em 7 de novembro, será a vez das temporadas 1 e 2 da série de anime <b>Fate/Apocrypha</b> e o especial de stand-up <b>The Improv: 60 and Still Standing</b>, com participação de Craig Robinson, Fortune Feimster e Whitney Cummings.</p>\n<h2>Segunda Semana: Mais Despedidas de Conteúdo Original</h2>\n<p>A segunda semana de novembro também trará o cancelamento de dois títulos. Todos os 13 episódios do drama japonês sobre amadurecimento <b>Atelier</b> (também conhecido como Underwear) estão programados para sair em 10 de novembro. Em seguida, em 13 de novembro, a primeira temporada de <b>Oh My Ghost</b>, focada em uma chef tímida possuída por um espírito atrevido, desaparecerá do catálogo.</p>\n<h2>Terceira Semana: Terror e Animação Deixam a Netflix</h2>\n<p>Mais três perdas impactarão o catálogo na terceira semana. Começando com o filme de terror original da Netflix, <b>Cam</b>. O longa, estrelado por Madeline Brewer como uma camgirl cuja conta é tomada por uma sósia, deixará de ser transmitido em 16 de novembro. Apenas um dia depois, todas as oito temporadas da série animada da DreamWorks Television, <b>Trolls: The Beat Goes On!</b>, também serão removidas. Em 20 de novembro, a primeira e única temporada da docussérie chinesa de culinária <b>Flavorful Origins</b> deixará a plataforma.</p>\n<h2>Semana Final de Novembro: Drama Romântico e Documentário Musical</h2>\n<p>A onda de títulos originais que deixam a Netflix será concluída na última semana do mês. Em 24 de novembro, o drama romântico japonês <b>The Many Faces of Ito</b> será removido, seguido pelo documentário de show e musical <b>Shawn Mendes: Live in Concert</b> em 25 de novembro.</p>\n<p>No momento, não está claro se esses títulos originais da Netflix encontrarão um lar em outras plataformas ou retornarão à Netflix no futuro.</p>\n<h2>Novidades Chegando à Netflix em Novembro</h2>\n<p>O catálogo da Netflix sofrerá perdas significativas em novembro, mas também receberá ótimas adições. Enquanto filmes e séries desaparecem, eles serão substituídos por outros, como a franquia <b>De Volta Para o Futuro</b>, <b>Podres de Ricos</b> e <b>Paddington 2</b>, todos disponíveis a partir de 1º de novembro. Mais títulos chegarão mais tarde no mês, incluindo a segunda temporada de <b>Squid Game: The Challenge</b> em 4 de novembro, <b>Labirinto</b> em 7 de novembro, e <b>Frankenstein</b> de Guillermo del Toro, também em 7 de novembro.</p>",
+      "meta_description": "Netflix removerá 12 títulos originais em novembro. Saiba quais séries e filmes deixarão o catálogo e planeje sua maratona antes que seja tarde.",
+      "focus_keyphrase": "Netflix remove títulos originais",
+      "related_keyphrases": [
+        "Netflix novembro 2024",
+        "séries originais Netflix saindo",
+        "filmes originais Netflix removidos"
+      ],
+      "slug": "netflix-remove-titulos-originais-novembro",
+      "categorias": [
+        {
+          "nome": "Netflix",
+          "grupo": "editorias",
+          "evidence": "Netflix"
+        },
+        {
+          "nome": "Can You Hear Me?",
+          "grupo": "obras",
+          "evidence": "Can You Hear Me?"
+        },
+        {
+          "nome": "Care Bears & Cousins",
+          "grupo": "obras",
+          "evidence": "Care Bears & Cousins"
+        }
+      ],
+      "tags_sugeridas": [
+        "Netflix",
+        "streaming",
+        "series",
+        "filmes",
+        "Can You Hear Me?",
+        "Care Bears & Cousins",
+        "Fate/Apocrypha"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Logo da Ubisoft.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_8d231e.png": "Logo do Xbox Game Pass.",
+        "Ex-Machina.jpg": "Pôster do filme Ex Machina.",
+        "Firefly-Out-of-Gas-episode.jpg": "Cena do episódio Out of Gas da série Firefly.",
+        "Halo-Combat-Evolved.jpg": "Capa do jogo Halo: Combat Evolved.",
+        "mackenzie-davis.jpg": "Foto da atriz Mackenzie Davis."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Netflix Remove 12 Títulos Originais em Novembro; Veja Lista",
+        "_yoast_wpseo_metadesc": "Netflix removerá 12 títulos originais em novembro. Saiba quais séries e filmes deixarão o catálogo e planeje sua maratona antes que seja tarde.",
+        "_yoast_wpseo_focuskw": "Netflix remove títulos originais",
+        "_yoast_news_keywords": "Netflix, streaming, séries, filmes, originais Netflix, novembro",
+        "_yoast_wpseo_opengraph-title": "Netflix Remove 12 Títulos Originais em Novembro; Veja Lista",
+        "_yoast_wpseo_opengraph-description": "Netflix removerá 12 títulos originais em novembro. Saiba quais séries e filmes deixarão o catálogo e planeje sua maratona antes que seja tarde.",
+        "_yoast_wpseo_twitter-title": "Netflix Remove 12 Títulos Originais em Novembro; Veja Lista",
+        "_yoast_wpseo_twitter-description": "Netflix removerá 12 títulos originais em novembro. Saiba quais séries e filmes deixarão o catálogo e planeje sua maratona antes que seja tarde."
+      }
+    },
+    {
+      "titulo_final": "The Batman: Trilogia Deve Ignorar Coringa por 36 Anos",
+      "conteudo_final": "<p>A franquia <b>The Batman</b>, de Matt Reeves, tem a oportunidade de fazer uma jogada ousada em relação ao Coringa, começando com <b>The Batman: Part II</b> e se estendendo para um terceiro filme. Embora ainda não tenha sido oficializado que a série de Reeves será uma trilogia, <b>The Batman 3</b> é amplamente esperado. Seria necessário um surpreendente fracasso de bilheteria da primeira sequência para impedir isso, já que o diretor já expressou seu desejo de entregar um trio de filmes, o que seria apenas a segunda trilogia live-action do Batman após a de Christopher Nolan.</p>\n<h2>O Coringa e a Necessidade de Inovação no Universo do Batman</h2>\n<p>Qualquer filme do <b>Batman</b> precisa de um grande vilão, e não há personagem que defina o Cavaleiro das Trevas – e <b>The Dark Knight</b>, para citar um exemplo – como o Coringa. Ele é o antagonista mais icônico da galeria de vilões do Cruzado Encapuzado, e um confronto com o herói de Robert Pattinson foi sugerido no final de <b>The Batman</b>, com Barry Keoghan no papel. Dada a probabilidade de mais dois filmes na saga, a presença do Príncipe Palhaço do Crime parece muito provável, mas Reeves já está adotando uma abordagem diferente.</p>\n<h2>Por Que o Coringa Não Será o Vilão Principal em The Batman: Part II</h2>\n<p>Apesar de o Coringa estar em Arkham, ele <b>não será o vilão de The Batman: Part II</b>. Reeves confirmou que o antagonista do filme será alguém que “nunca foi realmente explorado” em um filme – presumivelmente, ele se refere ao cinema live-action, o que abre perspectivas intrigantes. Algumas das opções mais prováveis incluem o Silêncio (Hush), a Corte das Corujas e Hugo Strange, qualquer um deles seria um adversário fascinante para o Batman de Pattinson.</p>\n<p>Essa decisão é surpreendente, em certo sentido, porque o Coringa é, bem, o Coringa, e é raro que não o vejamos enfrentar o Batman rapidamente. Antes de Pattinson, os únicos atores a interpretarem o Batman em dois filmes foram Michael Keaton e Christian Bale, e ambos enfrentaram o Sr. J em seus dois primeiros filmes. No entanto, talvez devêssemos ter prestado atenção ao que Reeves nos dizia o tempo todo. Em 2022, ele disse que o Coringa de Keoghan não era necessariamente uma provocação para uma sequência.</p>\n<p>\"Não é uma cena de Easter egg. Não é uma daquelas cenas pós-créditos da Marvel ou DC onde se diz: 'Ei, aqui está o próximo filme!' Na verdade, não tenho ideia de quando ou se retornaremos a esse personagem nos cinemas\", declarou o diretor.</p>\n<h2>O Coringa Também Não Deveria Ser o Vilão Principal em The Batman 3</h2>\n<p>O Coringa não ser o vilão da sequência é um passo incomum, mas acredito que Reeves deveria ir além, evitando que ele seja o principal antagonista de <b>The Batman 3</b> também (assumindo que aconteça). Sim, ele é o vilão mais icônico do Batman; talvez o vilão mais icônico dos quadrinhos. Mas esse é, de certa forma, o problema: já o vimos muitas vezes. De fato, incluindo Keoghan, já o vimos em três filmes diferentes nesta década (com Jared Leto em <b>Zack Snyder's Justice League</b> e Joaquin Phoenix em <b>Joker: Folie à Deux</b>). Podemos até vê-lo novamente no filme do Batman do próprio DCU quando ele eventualmente acontecer.</p>\n<p>Há algo a se dizer sobre a trilogia de Reeves ser aquela que foge do comum e faz algo diferente com seus vilões. Quando você tem um personagem como o Batman, que será reiniciado pelo menos uma vez a cada década, vale a pena variar e manter as coisas frescas – o que é, em parte, o motivo pelo qual <b>The Batman</b> foi tão bom, pois era um tipo diferente de filme do Morcego em comparação com versões anteriores.</p>\n<p>É também simplesmente o caso de que existem tantos <b>grandes vilões do Batman que merecem um filme live-action</b>, e simplesmente não há espaço para todos eles. Então, em vez de voltar ao Coringa pela 182ª vez, por que não continuar usando vilões que nunca foram explorados antes? Se o Silêncio (Hush) for o vilão de <b>The Batman: Part II</b>, por exemplo, o filme poderia sugerir a Corte das Corujas ao fundo e colocá-los em destaque em <b>Part III</b>. Alternativamente, poderia usar vilões que já apareceram em filmes, mas não foram bem aproveitados, como o Sr. Frio ou Hera Venenosa. Existem dezenas de opções, então não precisa ser sempre o mesmo personagem.</p>\n<p>Isso seria um desperdício da dica do Keoghan e do design de personagem admitidamente interessante? Não necessariamente. Isso não significaria que o Coringa nunca apareceria, mas ele poderia ser muito mais contido, semelhante à <b>cena deletada de The Batman com o Batman o visitando em Arkham</b>, onde aprendemos que eles têm um histórico (algo que poderia até ser mostrado em flashbacks). O mero fato de o Coringa existir neste mundo o enriquece, fazendo com que pareça uma Gotham mais vivida e texturizada, algo que o próprio Reeves falou que queria alcançar:</p>\n<p>“Achei que seria muito legal se grande parte da estrutura de Gotham já existisse. E era como um velho filme de gângster da Warner Bros., e se você virasse em uma certa direção, poderia ver um personagem em suas origens. Eu nunca tentei dizer: 'Ei, adivinhe, aqui está o Coringa. Próximo filme!' A ideia era mais dizer: 'Ei, olhe, se você acha que os problemas vão desaparecer em Gotham, pode esquecer. Já está aqui. E já é delicioso.'”</p>\n<p>É uma ideia atraente e fala sobre a construção de mundo de Reeves: ele já criou uma Gotham mais estranha que a de Nolan (se algo, é quase como uma combinação perfeita daquela e da de Burton, enquanto ainda é distinta), e sua abordagem ao Coringa adiciona à história da cidade e do próprio Batman. Se tivermos Keoghan contra Pattinson em <b>The Batman 3</b>, tenho certeza de que seria ótimo, mas não fazer isso pode ser a escolha ainda melhor.</p>\n<p><b>The Batman: Part II</b> tem estreia prevista para 1º de outubro de 2027.</p>",
+      "meta_description": "A trilogia The Batman de Matt Reeves pode inovar ao dar um novo rumo ao vilão Coringa, evitando seu protagonismo e explorando outros antagonistas icônicos.",
+      "focus_keyphrase": "The Batman trilogia Coringa",
+      "related_keyphrases": [
+        "The Batman Part II",
+        "Matt Reeves Coringa",
+        "Barry Keoghan Coringa"
+      ],
+      "slug": "the-batman-trilogia-coringa-inovacao",
+      "categorias": [
+        {
+          "nome": "The Batman",
+          "grupo": "obras",
+          "evidence": "Matt Reeves’ The Batman franchise"
+        },
+        {
+          "nome": "DC",
+          "grupo": "franquias",
+          "evidence": "DC"
+        },
+        {
+          "nome": "The Batman: Part II",
+          "grupo": "obras",
+          "evidence": "The Batman: Part II"
+        }
+      ],
+      "tags_sugeridas": [
+        "The Batman",
+        "Batman",
+        "Coringa",
+        "Matt Reeves",
+        "Robert Pattinson",
+        "Barry Keoghan",
+        "DC Comics"
+      ],
+      "image_alt_texts": {
+        "u-b-i-s-o-f-t.png": "Logo da Ubisoft.",
+        "x-b-o-x-g-a-m-e-p-a-s-s_8d231e.png": "Logo do Xbox Game Pass.",
+        "Robert-Pattinson-as-Batman-and-Barry-Keoghan-as-Joker-in-The-Batman.jpg": "Robert Pattinson como Batman e Barry Keoghan como Coringa em The Batman.",
+        "Ex-Machina.jpg": "Pôster do filme Ex Machina.",
+        "Firefly-Out-of-Gas-episode.jpg": "Cena do episódio Out of Gas da série Firefly.",
+        "Halo-Combat-Evolved.jpg": "Capa do jogo Halo: Combat Evolved.",
+        "The-Joker-Barry-Keoghan-in-The-Batman.jpg": "Barry Keoghan como Coringa em uma cena de The Batman.",
+        "mackenzie-davis.jpg": "Foto da atriz Mackenzie Davis."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Batman: Trilogia Deve Ignorar Coringa por 36 Anos",
+        "_yoast_wpseo_metadesc": "A trilogia The Batman de Matt Reeves pode inovar ao dar um novo rumo ao vilão Coringa, evitando seu protagonismo e explorando outros antagonistas icônicos.",
+        "_yoast_wpseo_focuskw": "The Batman trilogia Coringa",
+        "_yoast_news_keywords": "The Batman, Batman, Coringa, Matt Reeves, Robert Pattinson, Barry Keoghan, DC Comics",
+        "_yoast_wpseo_opengraph-title": "The Batman: Trilogia Deve Ignorar Coringa por 36 Anos",
+        "_yoast_wpseo_opengraph-description": "A trilogia The Batman de Matt Reeves pode inovar ao dar um novo rumo ao vilão Coringa, evitando seu protagonismo e explorando outros antagonistas icônicos.",
+        "_yoast_wpseo_twitter-title": "The Batman: Trilogia Deve Ignorar Coringa por 36 Anos",
+        "_yoast_wpseo_twitter-description": "A trilogia The Batman de Matt Reeves pode inovar ao dar um novo rumo ao vilão Coringa, evitando seu protagonismo e explorando outros antagonistas icônicos."
+      }
+    }
+  ]
+}

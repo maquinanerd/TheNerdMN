@@ -1,0 +1,51 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Andy Richter critica Donald Trump em entrevista: \"Foda-se esse cara\"",
+      "conteudo_final": "<p>Em meio à batalha de Donald Trump contra a mídia, o ex-co-host de Conan O'Brien, <strong>Andy Richter</strong>, decidiu expressar sua opinião sobre o comportamento do presidente. Ele não poupou críticas.</p><p>Em entrevista à <em>Entertainment Weekly</em>, Richter revelou que se ele e Conan O'Brien ainda estivessem no ar, também criticariam as ações de Trump, especialmente seus ataques a apresentadores do <em>late-night</em>. Ele explicou que o presidente precisa ser responsabilizado por suas atitudes. Ao veículo, disse: \"<em>Faríamos o que todos os outros estão fazendo. Com tudo para frente e sem freios. Porque f‑‑‑ aquele cara, sabe?</em>\"</p><h2>Carreira e Crítica a Trump</h2><p>Richter foi escritor, locutor e co-host em três programas de O'Brien por quase trinta anos (<em>Late Night</em>, <em>The Tonight Show</em> e <em>Conan</em>). Ele acredita que, mesmo não estando mais na cena do <em>late-night</em>, os apresentadores atuais devem continuar usando suas plataformas para combater a injustiça e os ataques de Trump à liberdade de expressão.</p><p>Esta não é a primeira vez que Richter se manifesta contra o atual presidente. Durante a infame suspensão de Jimmy Kimmel, ele defendeu o apresentador ao lado de seus colegas. Antes da suspensão ser suspensa, Richter foi questionado se Kimmel deveria parar de falar sobre Trump ao retornar à ABC. Ele respondeu que o apresentador deveria intensificar suas críticas e não ceder às exigências do presidente ou da emissora. \"<em>Não, ele deveria ir mais longe. Não há dúvida</em>\".</p><h2>Insegurança e Falta de Criatividade do Governo</h2><p>Ele prosseguiu chamando Trump de \"<em>fraco</em>\" e criticou sua sensibilidade. Acrescentou que o profissionalismo exigiria ignorar os apresentadores que faziam piada dele e seguir em frente, em vez de reagir.</p><p>“<em>Isso é ultrajante. É anti-americano e também mostra a completa covardia de alguém que não aguenta uma piada</em>.” Embora reconheça que os negócios não estão prosperando para o <em>late-night TV</em> como eram há 30, 20, ou mesmo 10 anos, Richter considera a resposta de Trump ao ser satirizado inaceitável.</p><p>“<em>Você ignora. Se alguém está fazendo piada de você, ignore-os. Mas isso mostra a profunda insegurança, fraqueza, infantilidade e também a falta de conteúdo que esta administração tem. Que eles precisam levar tão a sério e usar os mecanismos do governo para esmagar criadores de piadas. É tão indicativo de, quero dizer, pênis pequeno</em>", brinca Richter, "<em>mas apenas pessoas fracas, fracas, fracas, fracas. Pessoas fracas, sem criatividade, nem muito inteligentes</em>.”</p><p>Richter concluiu a entrevista oferecendo um conselho, não apenas para Trump, mas para todas as figuras públicas. \"<em>Se você está atacando aqueles que fazem piada, provavelmente está errado. Essa é apenas uma regra geral que eu recomendaria a todos seguirem</em>.\""</p>",
+      "meta_description": "Andy Richter, ex-co-host de Conan O'Brien, critica Donald Trump em entrevista, chamando o presidente de covarde e fraco.",
+      "focus_keyphrase": "Andy Richter critica Donald Trump",
+      "related_keyphrases": [
+        "Andy Richter Donald Trump",
+        "Andy Richter entrevista",
+        "Donald Trump mídia"
+      ],
+      "slug": "andy-richter-critica-donald-trump",
+      "categorias": [
+        {
+          "nome": "Entretenimento",
+          "grupo": "editorias",
+          "evidence": "Conan O'Brien's Former Co-Host Slams Donald Trump"
+        },
+        {
+          "nome": "Andy Richter",
+          "grupo": "personalidades",
+          "evidence": "Conan O'Brien's Former Co-Host Slams Donald Trump: F*** That Guy"
+        },
+        {
+          "nome": "Donald Trump",
+          "grupo": "personalidades",
+          "evidence": "Donald Trump's seemingly endless fight against the media"
+        }
+      ],
+      "tags_sugeridas": [
+        "Andy Richter",
+        "Donald Trump",
+        "Conan O'Brien",
+        "late-night",
+        "entrevista"
+      ],
+      "image_alt_texts": {},
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Andy Richter critica Donald Trump: \"Foda-se esse cara\"",
+        "_yoast_wpseo_metadesc": "Andy Richter, ex-co-host de Conan O'Brien, critica Donald Trump em entrevista, chamando o presidente de covarde e fraco.",
+        "_yoast_wpseo_focuskw": "Andy Richter critica Donald Trump",
+        "_yoast_news_keywords": "Andy Richter, Donald Trump, Conan O'Brien, late-night, entrevista",
+        "_yoast_wpseo_opengraph-title": "Andy Richter critica Donald Trump: \"Foda-se esse cara\"",
+        "_yoast_wpseo_opengraph-description": "Andy Richter, ex-co-host de Conan O'Brien, critica Donald Trump em entrevista, chamando o presidente de covarde e fraco.",
+        "_yoast_wpseo_twitter-title": "Andy Richter critica Donald Trump: \"Foda-se esse cara\"",
+        "_yoast_wpseo_twitter-description": "Andy Richter, ex-co-host de Conan O'Brien, critica Donald Trump em entrevista, chamando o presidente de covarde e fraco."
+      }
+    }
+  ]
+}

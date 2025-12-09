@@ -1,0 +1,52 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "HBO adota nova estratégia de produção após sucesso de The Pitt",
+      "conteudo_final": "<p>A <b>HBO</b> está mudando a forma como produz seu conteúdo original, inspirada pelo sucesso de <em><strong>The Pitt</strong></em>. O drama médico de 15 episódios conquistou o público desde seu lançamento no início do ano e a emissora deseja replicar sua estrutura de produção em futuros projetos, buscando resultados semelhantes.</p><p>De acordo com um relatório recente, a nova estrutura de produção da HBO será similar à de <em><strong>The Pitt</strong></em>, com uma temporada contendo 15 episódios, lançamento anual e um orçamento considerado modesto. Essa nova abordagem já começou a ser implementada com a aprovação de duas novas séries: um drama policial intitulado <em><strong>American Blue</strong></em>, do showrunner de <em><strong>Supernatural</strong></em>, Jeremy Carver, e um drama familiar com título provisório <em><strong>How To Survive Without Me</strong></em>. Fontes indicam que a HBO tem outros dramas planejados sob este novo modelo.</p><p>Sarah Aubrey, Chefe de Originais da HBO Max, explicou que o novo modelo surge da percepção de uma lacuna no mercado de streaming: produtoras não estão mais criando "shows no estilo de rede com mais de 15 episódios que retornam anualmente". Ela também destacou que o público se interessou por <em>The Pitt</em> porque a história prendeu a atenção, e o número de episódios permitiu que a qualidade do programa se espalhasse organicamente, atraindo mais espectadores.</p><blockquote><p>“Interessantemente, o que <em>The Pitt</em> fez, que é incomum e empolgante, foi engajar nosso público principal de prestígio, mas também se expandiu e realmente cativou espectadores que vinham ao serviço mais para um filme ou nosso acervo, e realmente os fisgou. Devido aos 15 episódios e ao tempo para gerar o boca a boca sobre a qualidade do programa, conseguimos todos no final. Essa amplitude de público com esses tipos de programas é importante para nós e para nosso modelo de negócios.”</p></blockquote><h2>O que tornou 'The Pitt' um sucesso?</h2><p><em>The Pitt</em> é um drama médico criado por <strong>R. Scott Gemmill</strong>, que narra um extenuante turno de 15 horas na sala de emergência do Pittsburgh Trauma Medical Center, apelidado de "the Pitt". O que diferencia este drama de outros programas médicos é que toda a primeira temporada se desenrola ao longo desse turno de 15 horas que a equipe e os estudantes de medicina precisam enfrentar, mostrando as complexidades e desafios em um hospital movimentado.</p><p>Desde seu lançamento, <em>The Pitt - Temporada 1</em> tem sido amplamente elogiado por fãs e críticos, conquistando 95% de aprovação da crítica e 87% do público no Rotten Tomatoes. Além disso, o The New York Times relatou que a comunidade médica dos EUA elogiou <em>The Pitt</em> por sua representação precisa do sistema de saúde americano. A série contou com médicos reais em todos os níveis da produção, o que explica por que a comunidade médica apreciou o reflexo de um dia real em um hospital, ao mesmo tempo em que tornou os personagens cativantes.</p><p><em>The Pitt</em> está disponível para streaming na HBO Max. A <strong>segunda temporada</strong> está programada para estrear em 8 de janeiro de 2026.</p>",
+      "meta_description": "HBO adota nova estratégia de produção inspirada no sucesso de The Pitt, com temporadas de 15 episódios e lançamentos anuais. Saiba mais.",
+      "focus_keyphrase": "HBO nova estratégia produção The Pitt",
+      "related_keyphrases": [
+        "HBO Max",
+        "The Pitt temporada 2",
+        "produção de séries"
+      ],
+      "slug": "hbo-nova-estrategia-producao-the-pitt",
+      "categorias": [
+        {
+          "nome": "The Pitt",
+          "grupo": "obras",
+          "evidence": "Following the Success of 'The Pitt,' HBO Reveals New Production Strategy"
+        },
+        {
+          "nome": "HBO",
+          "grupo": "plataformas",
+          "evidence": "HBO is changing how it produces its original content"
+        },
+        {
+          "nome": "Drama Médico",
+          "grupo": "gêneros",
+          "evidence": "The 15-episode medical drama has found massive success"
+        }
+      ],
+      "tags_sugeridas": [
+        "HBO",
+        "HBO Max",
+        "The Pitt",
+        "Jeremy Carver",
+        "American Blue",
+        "How To Survive Without Me",
+        "Sarah Aubrey"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "HBO adota nova estratégia de produção após sucesso de The Pitt",
+        "_yoast_wpseo_metadesc": "HBO adota nova estratégia de produção inspirada no sucesso de The Pitt, com temporadas de 15 episódios e lançamentos anuais. Saiba mais.",
+        "_yoast_wpseo_focuskw": "HBO nova estratégia produção The Pitt",
+        "_yoast_news_keywords": "HBO, HBO Max, The Pitt, drama médico, estratégia de produção, American Blue, How To Survive Without Me",
+        "_yoast_wpseo_opengraph-title": "HBO adota nova estratégia de produção após sucesso de The Pitt",
+        "_yoast_wpseo_opengraph-description": "HBO adota nova estratégia de produção inspirada no sucesso de The Pitt, com temporadas de 15 episódios e lançamentos anuais. Saiba mais.",
+        "_yoast_wpseo_twitter-title": "HBO adota nova estratégia de produção após sucesso de The Pitt",
+        "_yoast_wpseo_twitter-description": "HBO adota nova estratégia de produção inspirada no sucesso de The Pitt, com temporadas de 15 episódios e lançamentos anuais. Saiba mais."
+      }
+    }
+  ]
+}

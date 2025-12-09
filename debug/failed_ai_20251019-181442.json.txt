@@ -1,0 +1,48 @@
+{
+  "titulo_final": "Boston Blue: Ernie Hudson quer retorno de Tom Selleck na série",
+  "conteudo_final": "<p>Após a estreia de <b>Boston Blue</b>, Ernie Hudson, intérprete do Reverendo Peters, expressou o desejo de ver um personagem icônico de <i>Blue Bloods</i> retornar à série. O spin-off do drama policial policial estreou em 17 de outubro de 2025 e foi aclamado pela crítica.</p><figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/example-video-id\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><h2>Desejo de Colaboração com Selleck</h2><p>Em entrevista, Hudson revelou que adoraria que Tom Selleck reprisasse seu papel como Frank Reagan, pai do protagonista de <b>Boston Blue</b>, Danny Reagan (Donnie Wahlberg). O ator, que nunca trabalhou com Selleck, admitiu admiração pela trajetória do colega e o desejo de uma colaboração profissional.</p><p>“Eu adoraria trabalhar com Tom. Eu nunca trabalhei com ele. Ao longo dos anos, certamente admirei o trabalho dele. Eu admiro o trabalho dele, e ele ainda está pronto para fazer o que for”, declarou Hudson.</p><h2>Expectativas para o Retorno de Frank Reagan</h2><p>O desejo de Ernie Hudson ecoa o anseio de muitos espectadores da série original. Embora a ligação telefônica entre Danny e seu pai, Sean Reagan (Mika Amonsen), durante a internação do filho, tenha sido vista como um sinal positivo, as declarações do ator sugerem que um retorno de Selleck em <b>Boston Blue</b> na primeira temporada é improvável.</p><p>No entanto, a alta recepção de <b>Boston Blue</b>, com uma pontuação perfeita no Rotten Tomatoes, aumenta as chances de renovação da série. Assim, a menção a Frank Reagan pode ser um prenúncio de seu retorno em futuras temporadas.</p><h2>Elenco e Novidades de Boston Blue</h2><p>Além de Wahlberg e Hudson, <b>Boston Blue</b> conta com o retorno de Bridget Moynahan como Erin Reagan e Marisa Ramirez como a detetive Maria Baez. A série também introduz novos talentos ao universo, como Sonequa Martin-Green (Lena Silver), Maggie Lawson (Sarah Silver), Gloria Reuben (Mae Silver) e Marcus Scribner (Jonah Silver).</p><p>Novos episódios de <b>Boston Blue</b> são exibidos pela CBS às sextas-feiras. A série original, <i>Blue Bloods</i>, está disponível para streaming no Paramount+.</p>",
+  "meta_description": "Ernie Hudson, de Boston Blue, revela que gostaria de ver Tom Selleck (Frank Reagan) retornar à série. Saiba mais sobre o desejo do ator.",
+  "focus_keyphrase": "Boston Blue Tom Selleck",
+  "related_keyphrases": [
+    "Ernie Hudson Boston Blue",
+    "Frank Reagan retorno",
+    "Blue Bloods spin-off"
+  ],
+  "slug": "boston-blue-ernie-hudson-tom-selleck",
+  "categorias": [
+    {
+      "nome": "Boston Blue",
+      "grupo": "obras",
+      "evidence": "After the explosive premiere of Boston Blue"
+    },
+    {
+      "nome": "Blue Bloods",
+      "grupo": "obras",
+      "evidence": "which Blue Bloods character he would like to come back to the show."
+    }
+  ],
+  "tags_sugeridas": [
+    "boston blue",
+    "blue bloods",
+    "ernie hudson",
+    "tom selleck",
+    "frank reagan",
+    "cbs",
+    "paramount+"
+  ],
+  "image_alt_texts": {
+    "boston-blue-2025-tv-show-poster.jpg": "Pôster oficial da série Boston Blue de 2025, com o título em destaque e o elenco principal.",
+    "instar53577779.jpg": "Donnie Wahlberg como Danny Reagan em uma cena de Blue Bloods, personagem central em Boston Blue.",
+    "instar51285856.jpg": "Sonequa Martin-Green como a Detetive Lena Silver no elenco de Boston Blue."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Boston Blue: Ernie Hudson quer retorno de Tom Selleck na série",
+    "_yoast_wpseo_metadesc": "Ernie Hudson, de Boston Blue, revela que gostaria de ver Tom Selleck (Frank Reagan) retornar à série. Saiba mais sobre o desejo do ator.",
+    "_yoast_wpseo_focuskw": "Boston Blue Tom Selleck",
+    "_yoast_news_keywords": "Boston Blue, Blue Bloods, Ernie Hudson, Tom Selleck, Frank Reagan, CBS, Paramount+, Donnie Wahlberg, Bridget Moynahan, Sonequa Martin-Green",
+    "_yoast_wpseo_opengraph-title": "Boston Blue: Ernie Hudson quer retorno de Tom Selleck na série",
+    "_yoast_wpseo_opengraph-description": "Ernie Hudson, intérprete do Reverendo Peters em Boston Blue, expressou o desejo de ver Tom Selleck reprisando seu papel como Frank Reagan.",
+    "_yoast_wpseo_twitter-title": "Boston Blue: Ernie Hudson quer retorno de Tom Selleck na série",
+    "_yoast_wpseo_twitter-description": "Ernie Hudson, de Boston Blue, revela que gostaria de ver Tom Selleck (Frank Reagan) retornar à série. Saiba mais sobre o desejo do ator."
+  }
+}

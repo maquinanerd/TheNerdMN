@@ -1,0 +1,56 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Avatar 3: ABC News revela bastidores de 'Fire and Ash' em especial",
+      "conteudo_final": "<p>Em menos de três semanas, a franquia de sucesso de <strong>James Cameron</strong>, <strong><em>Avatar</em></strong>, retorna aos cinemas com sua terceira parte, <strong><em>Fire and Ash</em></strong>. Em preparação para a sequência, que acompanhará a família de Jake Sully (<strong>Sam Worthington</strong>) e Neytiri (<strong>Zoe Saldaña</strong>) em sua luta por Pandora, a ABC News Studios prepara um especial para levar os espectadores aos bastidores. O trailer oficial de <strong><em>Avatar: A New Era - A Special Edition of 20/20</em></strong> promete acesso raro a Cameron e ao elenco, explorando o vasto mundo criado pelo diretor. O programa vai ao ar na ABC em 12 de dezembro, como um dos dois novos especiais de <strong><em>20/20</em></strong>, e estará disponível em 15 de dezembro na ABC News Live, Disney+ e Hulu.</p>\n<p>O trailer de <em>A New Era</em> destaca o que <em>Avatar</em> representa: "belo", um "fenômeno", uma janela para outro mundo e, para Cameron, "o trabalho mais legal do planeta". Com cenas dos esforços monumentais por trás das câmeras que tornaram <em>Fire and Ash</em> uma realidade, o especial é um mergulho na mente de Cameron e sua equipe, e em seus objetivos para a série. Desde que o primeiro filme quebrou recordes de bilheteria em 2009, o objetivo tem sido criar algo sem paralelo na tela grande em termos de beleza e história, com o diretor sempre buscando expandir os limites a cada nova entrada. Há uma ênfase tanto no porquê de <em>Avatar</em> quanto no como, abordando o amor de Cameron pelo mundo natural, a celebração dos povos indígenas como protetores do planeta e o impacto das obras na arte, tecnologia e espírito humano.</p>\n<figure class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/Mc1-m3MftUE\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure>\n<p>O especial de uma hora inclui uma visita à Lightstorm Entertainment, o centro criativo de Cameron e sua equipe, além de entrevistas com membros do elenco, como Sigourney Weaver, Kate Winslet e a novata Oona Chaplin. O programa também apresenta Miley Cyrus, que criou a nova música \"Dream as One” para <em>Fire and Ash</em>. Ela discutirá a natureza pessoal da faixa, inspirada pela perda de sua casa em um incêndio em 2018, e como ela se alinha com os temas do filme. Combinado com o especial \"All Access\" com Linsey Davis, que cobrirá a estreia europeia e conversará com Stephen Lang, Jack Champion, Bailey Bass e Trinity Bliss, o especial oferecerá aos espectadores da ABC News uma exploração completa para prepará-los para as maravilhas do capítulo mais recente.</p>\n<h2>O que é 'Avatar: Fire and Ash'?</h2>\n<p>Após explorar novas regiões de Pandora e continuar a guerra dos Na'vi contra os humanos em <strong><em>The Way of Water</em></strong>, o novo filme de Cameron apresentará a Jake e Neytiri alguns de seus maiores desafios. Ainda lidando com a morte de Neteyam, a família é apresentada a uma nova e violenta tribo chamada Povo das Cinzas, liderada por seu líder cruel, Varang. Eles estão determinados a ver o resto do planeta queimar e se uniram ao arqui-inimigo de Jake, Miles Quaritch, para atingir esse objetivo. Isso desencadeia uma batalha para salvar Pandora que exigirá que os outros Na'vi se unam em uma nova batalha moral para impedir as chamas antes que consumam tudo.</p>\n<p><em>Avatar: A New Era</em> vai ao ar na ABC em 12 de dezembro e estará disponível para streaming no dia seguinte no Hulu. <em>ABC News Live Prime with Linsey Davis</em> estará disponível na ABC News Live, Disney+ e Hulu em 15 de dezembro. Ambos os especiais antecedem o lançamento de <em>Avatar: Fire and Ash</em> em 19 de dezembro.</p>",
+      "meta_description": "Descubra os bastidores de 'Avatar: Fire and Ash' no especial 'Avatar: A New Era' da ABC News, com James Cameron e elenco. Estreia em dezembro.",
+      "focus_keyphrase": "Avatar Fire and Ash bastidores",
+      "related_keyphrases": [
+        "Avatar 3 especial ABC",
+        "James Cameron Avatar Fire and Ash",
+        "trailer Avatar A New Era"
+      ],
+      "slug": "avatar-3-abc-news-fire-and-ash-especial",
+      "categorias": [
+        {
+          "nome": "Avatar",
+          "grupo": "franquias",
+          "evidence": "James Cameron's epic blockbuster franchise, Avatar"
+        },
+        {
+          "nome": "Fire and Ash",
+          "grupo": "obras",
+          "evidence": "its third installment, Fire and Ash"
+        },
+        {
+          "nome": "ABC News",
+          "grupo": "editorias",
+          "evidence": "ABC News Studios is preparing"
+        }
+      ],
+      "tags_sugeridas": [
+        "Avatar",
+        "Avatar 3",
+        "Fire and Ash",
+        "James Cameron",
+        "ABC News",
+        "20/20",
+        "Disney+"
+      ],
+      "image_alt_texts": {
+        "2020-avatar-dec-12-3.jpg": "James Cameron em cena de bastidores de Avatar: Fire and Ash.",
+        "cast-of-avatar-_fire-and-ash_monday-8pm.jpeg": "Elenco principal de Avatar: Fire and Ash reunido."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Avatar 3: ABC News revela bastidores de 'Fire and Ash' em especial",
+        "_yoast_wpseo_metadesc": "Descubra os bastidores de 'Avatar: Fire and Ash' no especial 'Avatar: A New Era' da ABC News, com James Cameron e elenco. Estreia em dezembro.",
+        "_yoast_wpseo_focuskw": "Avatar Fire and Ash bastidores",
+        "_yoast_news_keywords": "Avatar, Avatar 3, Fire and Ash, James Cameron, ABC News, 20/20, Disney+, Sam Worthington, Zoe Saldaña, Sigourney Weaver, Kate Winslet, Oona Chaplin, Miley Cyrus",
+        "_yoast_wpseo_opengraph-title": "Avatar 3: ABC News revela bastidores de 'Fire and Ash' em especial",
+        "_yoast_wpseo_opengraph-description": "Descubra os bastidores de 'Avatar: Fire and Ash' no especial 'Avatar: A New Era' da ABC News, com James Cameron e elenco. Estreia em dezembro.",
+        "_yoast_wpseo_twitter-title": "Avatar 3: ABC News revela bastidores de 'Fire and Ash' em especial",
+        "_yoast_wpseo_twitter-description": "Descubra os bastidores de 'Avatar: Fire and Ash' no especial 'Avatar: A New Era' da ABC News, com James Cameron e elenco. Estreia em dezembro."
+      }
+    }
+  ]
+}
