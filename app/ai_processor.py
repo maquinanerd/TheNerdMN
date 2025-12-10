@@ -187,7 +187,8 @@ class AIProcessor:
 
             parsed_data = self._parse_batch_response(response_text, len(batch_data))
             if parsed_data is None:  # Robust fallback: reprocess items individualmente
-                logger.error("Batch JSON parse failed; falling back to per-article processing.")
+                logger.error(f"Batch JSON parse failed for {len(batch_data)} articles; falling back to per-article processing.")
+                logger.debug(f"Failed batch response (first 500 chars): {response_text[:500]}")
                 fallback_results: List[Tuple[Optional[Dict[str, Any]], Optional[str]]] = []
                 for data in batch_data:
                     res, err = self.rewrite_content(

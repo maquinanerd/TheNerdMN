@@ -1,0 +1,213 @@
+"Ativando o ambiente virtual..."
+"Iniciando o programa..."
+2025-12-10 09:10:30 - INFO - main - Verificando o esquema do banco de dados...
+2025-12-10 09:10:30 - INFO - store - Initializing database tables if they don't exist...
+2025-12-10 09:10:31 - INFO - store - Database initialized successfully.
+2025-12-10 09:10:31 - INFO - store - Database connection closed.
+2025-12-10 09:10:31 - INFO - main - Verificação do banco de dados concluída com sucesso.
+2025-12-10 09:10:31 - INFO - main - Agendador iniciado. O pipeline será executado a cada 15 minutos.
+2025-12-10 09:10:31 - INFO - base - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-12-10 09:10:31 - INFO - main - Pressione Ctrl+C para sair.
+2025-12-10 09:10:31 - INFO - base - Added job "run_pipeline_cycle" to job store "default"
+2025-12-10 09:10:31 - INFO - base - Scheduler started
+2025-12-10 09:10:31 - INFO - base - Running job "run_pipeline_cycle (trigger: interval[0:15:00], next run at: 2025-12-10 12:10:31 UTC)" (scheduled at 2025-12-10 12:10:31.043705+00:00)
+2025-12-10 09:10:31 - INFO - pipeline - Starting new pipeline ingestion cycle.
+2025-12-10 09:10:31 - INFO - pipeline - Ingesting feed: screenrant_movie_lists
+2025-12-10 09:10:31 - INFO - feeds - Reading rss feed from https://screenrant.com/feed/movie-lists/ for source 'screenrant_movie_lists'
+2025-12-10 09:10:32 - INFO - feeds - Found 10 total unique items for screenrant_movie_lists.
+2025-12-10 09:10:32 - INFO - pipeline - Enqueued 3 articles from screenrant_movie_lists. Total in cycle: 3.
+2025-12-10 09:10:32 - INFO - pipeline - Processing article: 10 Best Western Movie Antiheroes (DB ID: 11764) from screenrant_movie_lists
+2025-12-10 09:10:34 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id '' / 'the-man-with-no-name-the-good-the-bad-and-the-ugly-1966'
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Frank Nero as Django pointing a gun at someone in Django
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: John Wayne as the Ringo Kid with a rifle in Stagecoach
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Guy Pearce as Charlie Burns with a gun in The Proposition
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Clint Eastwood in The Outlaw Josey Wales, posing with two re
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Robert Redford as Butch Cassidy in Butch Cassidy and the Sun
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Clint Eastwood as The Strangerin High Plains Drifter
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: John Wayne as Ethan Edwards inThe Searchers
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Clint Eastwood as William Munny in Unforgiven
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Val Kilmer looking sick as DocHolliday in Tombstone
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Clint Eastwood's Man With No Name staring ahead in The Good,
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-10 09:10:34 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-10 09:10:34 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-10 09:10:34 - INFO - pipeline - Processing article: Top 10 Greatest Superhero Sequels (DB ID: 11765) from screenrant_movie_lists
+2025-12-10 09:10:34 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id '' / 'the-suicide-squad-2021'
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Christopher Reeve in Superman II
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Margot Robbie's Harley Quinn checks her revolver in The Suic
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Michael Fassbender as Magneto in X-Men: Days of Future Past
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Sebastian Stan's Bucky Barnes looks to the side in Captain A
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Chris Evans' Captain America in Avengers: Infinity War looki
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Wolverine driving Laura in 2017's Logan
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Spider-Man reaching one hand out in Spider-Man Across The Sp
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Christian Bale as Batman in Christopher Nolan's The Dark Kni
+2025-12-10 09:10:34 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-10 09:10:34 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-10 09:10:34 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-10 09:10:34 - INFO - pipeline - Processing article: All 17 Animatronics In Five Nights At Freddy's 2 (DB ID: 11766) from screenrant_movie_lists
+2025-12-10 09:10:35 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: A close-up of Chica's new design in Five Nights at Freddy's
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Freddy Fazbear in Five Nights at Freddy's 2
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Bonnie in Five Nights at Freddy's 2
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Foxy, Chica, Freddy, and Bonnie animatronics in Five Nights
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Balloon Boy in Five Nights at Freddy's 2
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Circus Baby from Five Nights at Freddy's
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Mckenna Grace and Toy Bonnie in Five Nights at Freddy's 2
+2025-12-10 09:10:35 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-10 09:10:35 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-10 09:10:35 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-10 09:10:35 - INFO - ai_processor - Sending batch of 3 articles to AI.
+2025-12-10 09:11:17 - INFO - pipeline - Ingesting feed: screenrant_movie_news
+2025-12-10 09:11:17 - INFO - feeds - Reading rss feed from https://screenrant.com/feed/movie-news/ for source 'screenrant_movie_news'
+2025-12-10 09:11:17 - INFO - feeds - Found 10 total unique items for screenrant_movie_news.
+2025-12-10 09:11:17 - INFO - pipeline - Enqueued 3 articles from screenrant_movie_news. Total in cycle: 6.
+2025-12-10 09:12:02 - INFO - pipeline - Ingesting feed: screenrant_tv_news
+2025-12-10 09:12:02 - INFO - feeds - Reading rss feed from https://screenrant.com/tv-news/ for source 'screenrant_tv_news'
+2025-12-10 09:12:03 - WARNING - feeds - Feed from https://screenrant.com/tv-news/ is not well-formed: <unknown>:53:130:not well-formed (invalid token)
+2025-12-10 09:12:03 - INFO - feeds - Found 0 total unique items for screenrant_tv_news.
+2025-12-10 09:12:03 - INFO - pipeline - No new articles found for screenrant_tv_news.
+2025-12-10 09:12:03 - INFO - pipeline - Ingesting feed: screenrant_tv_lists
+2025-12-10 09:12:03 - INFO - feeds - Reading rss feed from https://screenrant.com/tv-lists/ for source 'screenrant_tv_lists'
+2025-12-10 09:12:03 - WARNING - feeds - Feed from https://screenrant.com/tv-lists/ is not well-formed: <unknown>:53:130: not well-formed (invalid token)
+2025-12-10 09:12:03 - INFO - feeds - Found 0 total unique items for screenrant_tv_lists.
+2025-12-10 09:12:03 - INFO - pipeline - No new articles found for screenrant_tv_lists.
+2025-12-10 09:12:03 - INFO - store - Database connection closed.
+2025-12-10 09:12:03 - INFO - pipeline - Pipeline ingestion cycle finished.
+2025-12-10 09:12:03 - INFO - base - Job "run_pipeline_cycle (trigger: interval[0:15:00], next run at: 2025-12-10 12:25:31 UTC)" executed successfully
+2025-12-10 09:12:59 - INFO - ai_processor - Successfully processed batch of 3 articles.
+2025-12-10 09:13:00 - INFO - seo_title_optimizer - Título otimizado: 'Os 10 anti-heróis mais marcantes do cinema Western' → 'Os 10 anti-heróis mais marcantes do cinema Western'
+2025-12-10 09:13:00 - INFO - seo_title_optimizer - Score: 95.0 → 95.0 (melhoria: +0.0)
+2025-12-10 09:13:00 - INFO - pipeline - Título otimizado: 95.0 → 95.0
+2025-12-10 09:13:06 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/clint-eastwood-as-the-preacher-in-pale-rider.jpg?w=1600&h=900&fit=crop
+2025-12-10 09:13:08 - INFO - wordpress - Resolved category names ['Western', 'Clint Eastwood', 'John Wayne'] to IDs: [18541, 19931, 19642]
+2025-12-10 09:13:08 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-10 09:13:12 - INFO - wordpress - Resolved tags ['western', 'anti-heroi', 'clint eastwood', 'john wayne', 'cinema'] to IDs: [5103, 9051, 9740, 7924, 76]
+2025-12-10 09:13:12 - INFO - wordpress - WP payload: title_len=50 content_len=32215 cat=[18541, 20, 24, 19642, 19931] tags=[5103, 9051, 9740, 7924, 76]
+2025-12-10 09:13:16 - INFO - pipeline - ✅ Post 70298 published and sanitized if CTA present.
+2025-12-10 09:13:16 - INFO - store - Successfully recorded published post for article DB ID 11764 (WP Post ID: 70298).
+2025-12-10 09:13:16 - INFO - pipeline - Successfully published post 70298 for article DB ID 11764
+2025-12-10 09:13:16 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-10 09:14:01 - INFO - seo_title_optimizer - Título otimizado: 'Os 10 melhores filmes de super-heróis em formato de sequência' → 'Os 10 melhores filmes de super-heróis em formato de sequência'
+2025-12-10 09:14:01 - INFO - seo_title_optimizer - Score: 95.0 → 95.0 (melhoria: +0.0)
+2025-12-10 09:14:01 - INFO - pipeline - Título otimizado: 95.0 → 95.0
+2025-12-10 09:14:06 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/mcdspma_sp065-cropped.jpg?w=1600&h=900&fit=crop
+2025-12-10 09:14:08 - INFO - wordpress - Created new category 'Esquadrão Suicida' with ID 29115.
+2025-12-10 09:14:13 - INFO - wordpress - Resolved category names ['Superman', 'Esquadrão Suicida', 'X-Men', 'Guardiões da Galáxia', 'Homem-Aranha', 'Capitão América', 'Vingadores', 'Logan', 'Batman'] to IDs: [16097, 29115, 16458, 18040, 16997, 17199, 16457, 23227, 16107]
+2025-12-10 09:14:13 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-10 09:14:20 - INFO - wordpress - Resolved tags ['super-herois', 'sequencias', 'cinema', 'marvel', 'dc comics'] to IDs: [203, 380, 76, 115, 173]
+2025-12-10 09:14:20 - INFO - wordpress - WP payload: title_len=61 content_len=32084 cat=[16097, 16997, 16457, 16458, 16107, 18040, 17199, 20, 24, 29115, 23227] tags=[203, 380, 76, 115, 173]
+2025-12-10 09:14:22 - INFO - pipeline - ✅ Post 70300 published and sanitized if CTA present.
+2025-12-10 09:14:23 - INFO - store - Successfully recorded published post for article DB ID 11765 (WP Post ID: 70300).
+2025-12-10 09:14:23 - INFO - pipeline - Successfully published post 70300 for article DB ID 11765
+2025-12-10 09:14:23 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-10 09:15:08 - INFO - seo_title_optimizer - Título otimizado: 'Five Nights at Freddy's 2: Todos os 17 animatrônicos revelados' → 'Five Nights at Freddy's 2: Todos os 17 animatrônicos revelados'
+2025-12-10 09:15:08 - INFO - seo_title_optimizer - Score: 100.0 → 100.0 (melhoria: +0.0)
+2025-12-10 09:15:08 - INFO - pipeline - Título otimizado: 100.0 → 100.0
+2025-12-10 09:15:14 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/toy-freddy-and-toy-bonnie-in-five-nights-at-freddy-s-2.jpg?w=1600&h=900&fit=crop
+2025-12-10 09:15:15 - INFO - wordpress - Resolved category names ["Five Nights at Freddy's", 'Terror'] to IDs: [18178, 15987]
+2025-12-10 09:15:15 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-10 09:15:21 - INFO - wordpress - Created new tag 'blumbhouse' with ID 29116.
+2025-12-10 09:15:21 - INFO - wordpress - Resolved tags ["five nights at freddy's 2", 'animatrônicos', 'terror', 'filmesde terror', 'blumbhouse'] to IDs: [3372, 3371, 6505, 491, 29116]
+2025-12-10 09:15:21 - INFO - wordpress - WP payload: title_len=62 content_len=28222 cat=[24, 18178, 15987, 20] tags=[3372, 3371, 6505, 491, 29116]
+2025-12-10 09:15:23 - INFO - pipeline - ✅ Post 70302 published and sanitized if CTA present.
+2025-12-10 09:15:24 - INFO - store - Successfully recorded published post for article DB ID 11766 (WP Post ID: 70302).
+2025-12-10 09:15:24 - INFO - pipeline - Successfully published post 70302 for article DB ID 11766
+2025-12-10 09:15:24 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-10 09:16:09 - INFO - store - Database connection closed.
+2025-12-10 09:16:09 - INFO - pipeline - Worker: 3 artigos processados. Total requisições neste ciclo: 3/10. Dormindo por 60s.
+2025-12-10 09:17:09 - INFO - pipeline - Processing article: Warner Bros. Sale To Extend Into 2026 Amid Netflix & Paramount Bidding War (DB ID: 11774) from screenrant_movie_news
+2025-12-10 09:17:10 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-10 09:17:10 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-10 09:17:10 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id 'display-card tag type-generic small' / 'e028-49c5-aa290a76014b'
+2025-12-10 09:17:10 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-10 09:17:10 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-10 09:17:10 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-10 09:17:10 - INFO - pipeline - Processing article: Timothée Chalamet Declares Marty Supreme His Best Performance Yet: "This Is Top-Level Sh*t" (DB ID: 11775) from screenrant_movie_news
+2025-12-10 09:17:11 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-10 09:17:11 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-10 09:17:11 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id 'display-card type-screen large' / '8164-4aa8-94bd1e3be2f5'
+2025-12-10 09:17:11 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-10 09:17:11 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-10 09:17:11 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-10 09:17:11 - INFO - pipeline - Processing article: Beloved Indie Game Wobbly Life Tapped For Movie & TV Adaptation By Hitman Producers (DB ID: 11776) from screenrant_movie_news
+2025-12-10 09:17:11 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-10 09:17:11 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-10 09:17:11 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-10 09:17:11 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-10 09:17:11 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-10 09:17:11 - INFO - ai_processor - Sending batch of 3 articles to AI.
+2025-12-10 09:17:53 - INFO - ai_processor - Successfully processed batch of 3 articles.
+2025-12-10 09:17:53 - WARNING - pipeline - ⚠️ Título com avisos editoriais: Warner Bros.: Venda se estende para 2026 após oferta hostil da Paramount
+2025-12-10 09:17:53 - WARNING - pipeline -    ⚠️ Título acima do recomendado (72 chars). Prefira até 65 caracteres.
+2025-12-10 09:17:53 - INFO - seo_title_optimizer - Título otimizado: 'Warner Bros.: Venda se estende para 2026 após oferta hostil da Paramount' → 'Warner Bros.: Venda se estende para 2026 após oferta hostil da Paramount'
+2025-12-10 09:17:53 - INFO - seo_title_optimizer - Score: 97.0 → 97.0 (melhoria: +0.0)
+2025-12-10 09:17:53 - INFO - pipeline - Título otimizado: 97.0 → 97.0
+2025-12-10 09:17:59 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/instar55325445-cropped.jpg?w=1600&h=900&fit=crop
+2025-12-10 09:18:02 - INFO - wordpress - Resolved category names ['Warner Bros.', 'Netflix', 'Paramount'] to IDs: [16453, 15960, 16076]
+2025-12-10 09:18:02 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-10 09:18:07 - INFO - wordpress - Resolved tags ['Warner Bros.', 'Netflix', 'Paramount', 'Aquisição', 'Fusão', 'Indústria do Cinema'] to IDs: [6512, 109, 166, 1817, 14193, 5086]
+2025-12-10 09:18:07 - INFO - wordpress - WP payload: title_len=72 content_len=2907 cat=[16453, 15960, 16076, 20, 24] tags=[6512, 109, 166, 1817, 14193, 5086]
+2025-12-10 09:18:09 - INFO - pipeline - ✅ Post 70304 published and sanitized if CTA present.
+2025-12-10 09:18:10 - INFO - store - Successfully recorded published post for article DB ID 11774 (WP Post ID: 70304).
+2025-12-10 09:18:10 - INFO - pipeline - Successfully published post 70304 for article DB ID 11774
+2025-12-10 09:18:10 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-10 09:18:55 - INFO - seo_title_optimizer - Título otimizado: 'Timothée Chalamet elogia 'Marty Supreme' como suamelhor atuação' → 'Timothée Chalamet elogia 'Marty Supreme' como sua melhor atuação'
+2025-12-10 09:18:55 - INFO - seo_title_optimizer - Score: 95.0 → 95.0 (melhoria: +0.0)
+2025-12-10 09:18:55 - INFO - pipeline - Título otimizado: 95.0 → 95.0
+2025-12-10 09:19:03 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/marty-supreme-timoth-e-chalamet-as-marty-mauser.jpg?w=1600&h=900&fit=crop
+2025-12-10 09:19:04 - INFO - wordpress - Resolved category names ['Marty Supreme', 'Timothée Chalamet'] to IDs: [16541,16543]
+2025-12-10 09:19:04 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-10 09:19:10 - INFO - wordpress - Resolved tags ['Timothée Chalamet', 'Marty Supreme', 'Josh Safdie', 'Atuação','Cinema', 'Premiações'] to IDs: [1109, 18794, 25312, 9852, 76, 2190]
+2025-12-10 09:19:10 - INFO - wordpress - WP payload: title_len=64 content_len=3430 cat=[24, 20, 16541, 16543] tags=[1109, 18794, 25312, 9852, 76, 2190]
+2025-12-10 09:19:12 - INFO - pipeline - ✅ Post 70306 published and sanitized if CTA present.
+2025-12-10 09:19:13 - INFO - store - Successfully recorded published post for article DB ID 11775 (WP Post ID: 70306).
+2025-12-10 09:19:13 - INFO - pipeline - Successfully published post 70306 for article DB ID 11775
+2025-12-10 09:19:13 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-10 09:19:58 - INFO - seo_title_optimizer - Título otimizado: 'Wobbly Life: Jogo indie ganha adaptação para cinema e TV' → 'Wobbly Life: Jogo indie ganha adaptação para cinema e TV'
+2025-12-10 09:19:58 - INFO - seo_title_optimizer - Score: 95.0 → 95.0 (melhoria: +0.0)
+2025-12-10 09:19:58 - INFO - pipeline - Título otimizado: 95.0 → 95.0
+2025-12-10 09:20:24 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/wobbly-life-art.jpg?w=1600&h=900&fit=crop
+2025-12-10 09:20:26 - INFO - wordpress - Created new category 'Wobbly Life' with ID 29117.
+2025-12-10 09:20:28 - INFO - wordpress - Created new category 'Prime Universe Films' with ID 29118.
+2025-12-10 09:20:28 - INFO - wordpress - Resolved category names ['Wobbly Life', 'Jogos', 'Prime Universe Films'] to IDs: [29117, 16818, 29118]
+2025-12-10 09:20:28 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-10 09:20:29 - INFO - wordpress - Created new tag 'Wobbly Life' with ID 29119.
+2025-12-10 09:20:34 - WARNING - wordpress - Tag 'TV' already exists (race condition). Re-fetching ID.
+2025-12-10 09:20:38 - INFO - wordpress - Created new tag 'RubberBandGames' with ID 29120.
+2025-12-10 09:20:39 - INFO - wordpress - Created new tag 'Prime Universe Films' with ID 29121.
+2025-12-10 09:20:39 - INFO - wordpress - Resolved tags ['Wobbly Life', 'Adaptação de Jogos', 'Cinema', 'TV', 'RubberBandGames', 'Prime Universe Films'] to IDs: [29119, 3548, 76, 29120, 29121]
+2025-12-10 09:20:39 - INFO - wordpress - WP payload: title_len=56 content_len=2666 cat=[16818, 20, 24, 29117, 29118] tags=[29119, 3548, 76, 29120, 29121]
+2025-12-10 09:20:42 - INFO - pipeline - ✅ Post 70308 published and sanitized if CTA present.
+2025-12-10 09:20:42 - INFO - store - Successfully recorded published post for article DB ID 11776 (WP Post ID: 70308).
+2025-12-10 09:20:42 - INFO - pipeline - Successfully published post 70308 for article DB ID 11776
+2025-12-10 09:20:42 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-10 09:21:27 - INFO - store - Database connection closed.
+2025-12-10 09:21:27 - INFO - pipeline - Worker: 3 artigos processados. Total requisições neste ciclo: 6/10. Dormindo por 60s.
+2025-12-10 09:25:31 - INFO - base - Running job "run_pipeline_cycle (trigger: interval[0:15:00], next run at: 2025-12-10 12:40:31 UTC)" (scheduled at 2025-12-10 12:25:31.043705+00:00)
+2025-12-10 09:25:31 - INFO - pipeline - Starting new pipeline ingestion cycle.
+2025-12-10 09:25:31 - INFO - pipeline - Ingesting feed: screenrant_movie_lists
+2025-12-10 09:25:31 - INFO - feeds - Reading rss feed from https://screenrant.com/feed/movie-lists/ for source 'screenrant_movie_lists'
+2025-12-10 09:25:32 - INFO - feeds - Found 10 total unique items for screenrant_movie_lists.
+2025-12-10 09:25:32 - INFO - pipeline - No new articles found for screenrant_movie_lists.
+2025-12-10 09:25:32 - INFO - pipeline - Ingesting feed: screenrant_movie_news
+2025-12-10 09:25:32 - INFO - feeds - Reading rss feed from https://screenrant.com/feed/movie-news/ for source 'screenrant_movie_news'
+2025-12-10 09:25:32 - INFO - feeds - Found 10 total unique items for screenrant_movie_news.
+2025-12-10 09:25:32 - INFO - pipeline - No new articles found for screenrant_movie_news.
+2025-12-10 09:25:32 - INFO - pipeline - Ingesting feed: screenrant_tv_news
+2025-12-10 09:25:32 - INFO - feeds - Reading rss feed from https://screenrant.com/tv-news/ for source 'screenrant_tv_news'
+2025-12-10 09:25:33 - WARNING - feeds - Feed from https://screenrant.com/tv-news/ is not well-formed: <unknown>:53:130:not well-formed (invalid token)
+2025-12-10 09:25:33 - INFO - feeds - Found 0 total unique items for screenrant_tv_news.
+2025-12-10 09:25:33 - INFO - pipeline - No new articles found for screenrant_tv_news.
+2025-12-10 09:25:33 - INFO - pipeline - Ingesting feed: screenrant_tv_lists
+2025-12-10 09:25:33 - INFO - feeds - Reading rss feed from https://screenrant.com/tv-lists/ for source 'screenrant_tv_lists'
+2025-12-10 09:25:33 - WARNING - feeds - Feed from https://screenrant.com/tv-lists/ is not well-formed: <unknown>:53:130: not well-formed (invalid token)
+2025-12-10 09:25:33 - INFO - feeds - Found 0 total unique items for screenrant_tv_lists.
+2025-12-10 09:25:33 - INFO - pipeline - No new articles found for screenrant_tv_lists.
+2025-12-10 09:25:33 - INFO - store - Database connection closed.
+2025-12-10 09:25:33 - INFO - pipeline - Pipeline ingestion cycle finished.
+2025-12-10 09:25:33 - INFO - base - Job "run_pipeline_cycle (trigger: interval[0:15:00], next run at: 2025-12-10 12:40:31 UTC)" executed successfully
