@@ -9,8 +9,7 @@ load_dotenv()
 PIPELINE_ORDER: List[str] = [
     'screenrant_movie_lists',
     'screenrant_movie_news',
-    'screenrant_tv_news',
-    'screenrant_tv_lists',
+    'screenrant_tv',
 ]
 
 # --- Feeds RSS (padronizados, sem "synthetic_from") ---
@@ -25,13 +24,8 @@ RSS_FEEDS: Dict[str, Dict[str, Any]] = {
         'category': 'movies',
         'source_name': 'ScreenRant',
     },
-    'screenrant_tv_news': {
-        'urls': ['https://screenrant.com/tv-news/'],
-        'category': 'tv',
-        'source_name': 'ScreenRant',
-    },
-    'screenrant_tv_lists': {
-        'urls': ['https://screenrant.com/tv-lists/'],
+    'screenrant_tv': {
+        'urls': ['https://screenrant.com/feed/tv/'],
         'category': 'tv',
         'source_name': 'ScreenRant',
     },
@@ -103,8 +97,7 @@ WORDPRESS_CATEGORIES: Dict[str, int] = {
 SOURCE_CATEGORY_MAP: Dict[str, List[str]] = {
     'screenrant_movie_lists': ['Filmes'],
     'screenrant_movie_news': ['Filmes'],
-    'screenrant_tv_news': ['Séries'],
-    'screenrant_tv_lists': ['Séries'],
+    'screenrant_tv': ['Séries'],
 }
 
 
