@@ -11,7 +11,6 @@ PIPELINE_ORDER: List[str] = [
     'screenrant_movie_news',
     'screenrant_tv_news',
     'screenrant_tv_lists',
-    'thegamer_gamenews',
 ]
 
 # --- Feeds RSS (padronizados, sem "synthetic_from") ---
@@ -35,11 +34,6 @@ RSS_FEEDS: Dict[str, Dict[str, Any]] = {
         'urls': ['https://screenrant.com/tv-lists/'],
         'category': 'tv',
         'source_name': 'ScreenRant',
-    },
-    'thegamer_gamenews': {
-        'urls': ['https://www.thegamer.com/feed/category/game-news/'],
-        'category': 'gaming',
-        'source_name': 'TheGamer',
     },
 }
 
@@ -111,7 +105,6 @@ SOURCE_CATEGORY_MAP: Dict[str, List[str]] = {
     'screenrant_movie_news': ['Filmes'],
     'screenrant_tv_news': ['Séries'],
     'screenrant_tv_lists': ['Séries'],
-    'thegamer_gamenews': ['Games'],
 }
 
 
