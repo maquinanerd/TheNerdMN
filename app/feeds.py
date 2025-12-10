@@ -251,8 +251,20 @@ class FeedReader:
                 feed = feedparser.parse(content)
                 if feed.bozo:
                     logger.warning(f"Feed from {url} is not well-formed: {feed.bozo_exception}")
+                    # Even with bozo flag, try to extract what we can
+                    logger.info(f"Attempting to extract articles from malformed feed despite bozo flag...")
                 
                 entries = feed.entries
+                if len(entries) == 0 and feed.bozo:
+                    logger.warning(f"Feed returned 0 entries due to malformation. Trying with relaxed parsing...")
+                    # Try with feedparser's built-in error recovery
+                    import time
+                    time.sleep(2)  # Small delay before retry
+                    feed = feedparser.parse(content, sanitize_html=False, resolve_relative_uris=False)
+                    entries = feed.entries
+                    if entries:
+                        logger.info(f"Recovered {len(entries)} entries with relaxed parsing")
+                
                 if deny:
                     entries = [e for e in entries if not deny.search(e.get('title', ''))]
                 
