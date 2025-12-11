@@ -202,8 +202,9 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                     try:
                         if not rewritten_data:
                             reason = failure_reason or "AI processing failed"
-                            logger.warning(f"Article '{art_data['title']}' marked as FAILED (Reason: {reason})")
-                            db.update_article_status(art_data['db_id'], 'FAILED', reason=reason)
+                            logger.warning(f"Article '{art_data['title']}' - Marking as QUEUED for retry (Reason: {reason})")
+                            # Mark as QUEUED instead of FAILED so it retries in next cycle (quota-friendly)
+                            db.update_article_status(art_data['db_id'], 'QUEUED', reason=reason)
                             continue
 
                         # Process content

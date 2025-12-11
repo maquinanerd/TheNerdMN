@@ -187,24 +187,12 @@ class AIProcessor:
             response_text = self._ai_client.generate_text(batch_prompt, generation_config=generation_config)
 
             parsed_data = self._parse_batch_response(response_text, len(batch_data))
-            if parsed_data is None:  # Robust fallback: reprocess items individualmente
-                logger.error(f"Batch JSON parse failed for {len(batch_data)} articles; falling back to per-article processing.")
+            if parsed_data is None:  # Batch parsing failed
+                logger.error(f"Batch JSON parse failed for {len(batch_data)} articles. NOT falling back to per-article to save quota.")
                 logger.debug(f"Failed batch response (first 500 chars): {response_text[:500]}")
-                fallback_results: List[Tuple[Optional[Dict[str, Any]], Optional[str]]] = []
-                for data in batch_data:
-                    res, err = self.rewrite_content(
-                        title=data.get("title"),
-                        content_html=data.get("content_html"),
-                        source_url=data.get("source_url"),
-                        domain=data.get("domain"),
-                        source_name=data.get("source_name"),
-                        category=data.get("category"),
-                        schema_original=data.get("schema_original"),
-                        videos=data.get("videos", []),
-                        images=data.get("images", []),
-                    )
-                    fallback_results.append((res, err))
-                return fallback_results
+                # Return error for all items - they'll be retried in next cycle
+                error_msg = "Batch JSON parsing failed (insufficient quota budget to retry individually)"
+                return [(None, error_msg)] * len(batch_data)
 
             logger.info(f"Successfully processed batch of {len(batch_data)} articles.")
             return [(result, None) if result else (None, "Article data missing or invalid in batch response") 
