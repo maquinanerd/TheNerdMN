@@ -182,7 +182,7 @@ class AIProcessor:
                 "response_mime_type": "application/json",
                 "temperature": 0.2,
                 "top_p": 0.9,
-                "max_output_tokens": 8192,  # Aumentado para evitar truncamento de resposta
+                "max_output_tokens": 16000,  # 16K para garantir resposta completa sem truncamento
             }
             response_text = self._ai_client.generate_text(batch_prompt, generation_config=generation_config)
 
@@ -252,7 +252,7 @@ class AIProcessor:
             
             generation_config = {
                 "response_mime_type": "application/json",
-                "max_output_tokens": 8192,  # Aumentado para evitar truncamento
+                "max_output_tokens": 16000,  # 16K para garantir resposta completa
             }
             response_text = self._ai_client.generate_text(prompt, generation_config=generation_config)
             
