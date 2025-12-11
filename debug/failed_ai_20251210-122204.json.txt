@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Hugh Jackman revela retorno emocionante como Wolverine após sucesso de US$ 1,3 bilhão no MCU",
+  "conteudo_final": "<p>Hugh Jackman, estrela de <strong><em>Deadpool &amp; Wolverine</em></strong>, ofereceu novas informações sobre seu possível futuro no Universo Cinematográfico Marvel (MCU). Seu personagem, Wolverine, foi uma presença constante nos filmes dos <em>X-Men</em>, aparecendo como protagonista ou em participações especiais em quase todas as produções, com exceção de <em>Dark Phoenix</em>, <em>The New Mutants</em> e os dois primeiros filmes derivados de <em>Deadpool</em>.</p><h2>O Retorno de Wolverine no MCU</h2><p>A maioria desses filmes não apresentava Wolverine porque foram lançados após a morte do personagem no filme neo-western <em>Logan</em>, de 2017. No entanto, <strong>Jackman reprisou seu papel no sucesso de bilheteria de 2024, <em>Deadpool &amp; Wolverine</em></strong>. Esta foi a primeira aparição de ambos os personagens no MCU, após a aquisição da 20th Century Studios pela Disney.</p><p>Em uma conversa com Cynthia Erivo, de <em>Wicked: For Good</em>, como parte da série <a href=\"https://www.maquinanerd.com.br/tag/variety\" target=\"_blank\"><em>Variety</em></a>'s Actors on Actors, Hugh Jackman discutiu os motivos que o levaram a concordar em retornar ao papel de Wolverine em <em>Deadpool &amp; Wolverine</em>.</p><h2>Motivações para o Retorno</h2><p>Jackman revelou que precisou acreditar que a morte de Wolverine em <em>Logan</em> seria definitiva para que o filme funcionasse e que inicialmente resistiu à ideia de reprisar o papel. No entanto, ele mudou de ideia ao ler o roteiro, que o lembrou do filme de parceiros policiais <em>48 Horas</em>. Ele descreveu como <strong>"tão incrível" retornar ao personagem de uma nova maneira</strong> após tomar sua decisão.</p><p>Embora ele tenha dito que "<em>realmente pareceu o fim depois de Logan</em>", Jackman agora afirma que <strong>"<em>não parece o fim</em>" mais</strong>. Ele comentou:</p><blockquote><p>Aprendi que é tão importante marcar o fim de algo quanto o começo... Não parece o fim [quando se trata de Wolverine.] Realmente pareceu o fim depois de “Logan.” Na verdade, eu precisava reivindicá-lo como o fim, porque eu realmente acreditava em algumas coisas que queria que aquele filme fosse, e tive que lutar por elas. Tive que dizer: “Esta é a última vez que faço isso.” Então, quando vi “Deadpool”, pensei: “Ah. Vejo ‘48 Hrs.’ Vejo Eddie Murphy e Nick Nolte.” Mas eu o reprimia. “Eu disse a todos que tinha acabado. Não sou um desses caras.” Então eu pensei: “Sabe de uma coisa? Mudei de ideia. Não é tão importante. Nem vou pedir desculpas.” E foi tão incrível.</p></blockquote>",
+  "meta_description": "Hugh Jackman compartilha detalhes sobre seu retorno como Wolverine em Deadpool & Wolverine, indicando que o fim de Logan não foi o ponto final para o personagem no MCU.",
+  "focus_keyphrase": "Hugh Jackman retorna como Wolverine",
+  "related_keyphrases": [
+    "Wolverine no MCU",
+    "Deadpool & Wolverine",
+    "Futuro de Wolverine"
+  ],
+  "slug": "hugh-jackman-wolverine-retorno-mcu",
+  "categorias": [
+    {
+      "nome": "Deadpool & Wolverine",
+      "grupo": "franquias",
+      "evidence": "<em>Deadpool &amp; Wolverine</em> star Hugh Jackman"
+    },
+    {
+      "nome": "Marvel Cinematic Universe",
+      "grupo": "franquias",
+      "evidence": "Marvel Cinematic Universe"
+    },
+    {
+      "nome": "X-Men",
+      "grupo": "franquias",
+      "evidence": "<em>X-Men movies</em>"
+    }
+  ],
+  "tags_sugeridas": [
+    "Hugh Jackman",
+    "Wolverine",
+    "Deadpool & Wolverine",
+    "MCU",
+    "Marvel Studios",
+    "Logan"
+  ],
+  "image_alt_texts": {
+    "deadpool-wolverine-hugh-jackman.jpg": "Hugh Jackman como Wolverine em Deadpool & Wolverine, com seu traje icônico.",
+    "logan-hugh-jackman.jpg": "Hugh Jackman como Wolverine em Logan, em uma cena dramática."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Hugh Jackman revela retorno emocionante como Wolverine após sucesso de US$ 1,3 bilhão no MCU",
+    "_yoast_wpseo_metadesc": "Hugh Jackman compartilha detalhes sobre seu retorno como Wolverine em Deadpool & Wolverine, indicando que o fim de Logan não foi o ponto final para o personagem no MCU.",
+    "_yoast_wpseo_focuskw": "Hugh Jackman retorna como Wolverine",
+    "_yoast_news_keywords": "Hugh Jackman, Wolverine, Deadpool & Wolverine, MCU, Marvel Studios, Logan, X-Men",
+    "_yoast_wpseo_opengraph-title": "Hugh Jackman revela retorno emocionante como Wolverine após sucesso de US$ 1,3 bilhão no MCU",
+    "_yoast_wpseo_opengraph-description": "Hugh Jackman compartilha detalhes sobre seu retorno como Wolverine em Deadpool & Wolverine, indicando que o fim de Logan não foi o ponto final para o personagem no MCU.",
+    "_yoast_wpseo_twitter-title": "Hugh Jackman revela retorno emocionante como Wolverine após sucesso de US$ 1,3 bilhão no MCU",
+    "_yoast_wpseo_twitter-description": "Hugh Jackman compartilha detalhes sobre seu retorno como Wolverine em Deadpool & Wolverine, indicando que o fim de Logan não foi o ponto final para o personagem no MCU."
+  }
+}

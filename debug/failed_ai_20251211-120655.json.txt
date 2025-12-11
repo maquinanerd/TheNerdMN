@@ -1,0 +1,47 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Spartacus: Korris e seu romance secreto ganham destaque em série",
+      "conteudo_final": "<p>A série <a href=\"https://www.maquinanerd.com.br/tag/spartacus-house-of-ashur\"><strong>Spartacus: House of Ashur</strong></a> apresenta um dos casais românticos mais inesperados, conforme revelado pelo ator Graham McTavish, que interpreta Korris. Na trama, Korris é um ex-gladiador que conquistou sua liberdade, tornando-se uma figura chave na jornada de Ashur. Sua homossexualidade, e o relacionamento com outro homem livre, representa um grande risco em Roma.</p><h2>Korris: Um amor proibido em Roma</h2><p>Em entrevista, McTavish detalhou a importância do romance surpreendente de Korris em <em>Spartacus: House of Ashur</em> e os perigos que o personagem enfrenta. O ator explicou que, enquanto um relacionamento gay entre um mestre e um escravo era tolerado, a união entre dois homens livres colocava Korris em perigo de vida.</p><blockquote><p>“Interessantemente, naquela época, um relacionamento gay na Roma antiga era aceitável entre um mestre e um escravo, mas não entre dois homens livres. Essas duas pessoas estão correndo um risco enorme ao fazer o que estão fazendo, mas o que supera isso é o desejo de Korris de finalmente abrir seu coração e deixar alguém entrar. Isso é algo universal. Todos nós já passamos por uma situação assim, onde um ou ambos estão hesitantes em se revelar ao outro. E então, quando você faz isso, não há como fechar essa porta. Essa é a beleza de explorar relacionamentos reais, emocionais e ternos em qualquer show – e este não é exceção.”</p></blockquote><p>A participação de Korris em <em>Spartacus: House of Ashur</em> marca a primeira vez que McTavish interpreta um personagem gay. O ator contrastou essa experiência com seus papéis anteriores, como em <em>Outlander</em>, onde seus personagens, Dougal MacKenzie e William MacKenzie, não tiveram o foco em histórias românticas.</p><p>A trama de Korris na série é um desvio do que McTavish está acostumado em seus trabalhos para televisão. Embora Korris se mostre um defensor fervoroso da Irmandade, chegando a quase matar Achillia, ele esconde segredos, como seu relacionamento amoroso com outro homem livre, o que vai contra as regras sociais.</p><figure><picture><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/korris-graham-mctavish-staring-at-someone-in-spartacus-house-of-ashur.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/korris-graham-mctavish-staring-at-someone-in-spartacus-house-of-ashur.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)"/><source srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/korris-graham-mctavish-staring-at-someone-in-spartacus-house-of-ashur.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)"/><img alt="Korris (Graham McTavish) em uma cena de Spartacus: House of Ashur." decoding="async" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/korris-graham-mctavish-staring-at-someone-in-spartacus-house-of-ashur.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Korris, interpretado por Graham McTavish, em Spartacus: House of Ashur.</figcaption></figure><h2>Impacto do romance secreto na trama</h2><p>A declaração de McTavish sugere que o relacionamento proibido do personagem será um ponto central no desenvolvimento dos eventos na série. Dada a importância de Korris para a Casa de Ashur, é provável que o protagonista se envolva nas consequências dessa relação.</p><h2>Os dois lados de Korris</h2><p>O romance gay de Korris adiciona uma camada complexa ao personagem. O ex-gladiador também demonstra orgulho em manter a ordem, o que o levou a quase matar Achillia. No entanto, seu relacionamento secreto o torna ambíguo, podendo afetar sua lealdade a Roma.</p><p>Espera-se que os próximos episódios de <em>Spartacus: House of Ashur</em> explorem a fundo as dificuldades enfrentadas por Korris. A expectativa é que a série aborde sua situação de forma realista e dramática, torcendo-se para que o desfecho não seja trágico, dadas as circunstâncias de seu relacionamento.</p>",
+      "meta_description": "Graham McTavish revela o romance surpreendente de Korris em Spartacus: House of Ashur e os riscos envolvidos em sua relação em Roma.",
+      "focus_keyphrase": "Spartacus: House of Ashur romance Korris",
+      "related_keyphrases": [
+        "Graham McTavish Spartacus",
+        "Korris relação gay Roma",
+        "Série Spartacus Ashur"
+      ],
+      "slug": "spartacus-house-of-ashur-romance-korris",
+      "categorias": [
+        {
+          "nome": "Spartacus: House of Ashur",
+          "grupo": "obras",
+          "evidence": "Spartacus: House of Ashur"
+        },
+        {
+          "nome": "Starz",
+          "grupo": "plataformas",
+          "evidence": "New episodes of Spartacus: House of Ashur air Fridays on Starz."
+        }
+      ],
+      "tags_sugeridas": [
+        "spartacus",
+        "house of ashur",
+        "graham mctavish",
+        "korris",
+        "starz",
+        "romance proibido",
+        "lgbtqia+"
+      ],
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Spartacus: Korris e seu romance secreto ganham destaque em série | Maquina Nerd",
+        "_yoast_wpseo_metadesc": "Graham McTavish revela o romance surpreendente de Korris em Spartacus: House of Ashur e os riscos envolvidos em sua relação em Roma.",
+        "_yoast_wpseo_focuskw": "Spartacus: House of Ashur romance Korris",
+        "_yoast_news_keywords": "Spartacus, House of Ashur, Graham McTavish, Korris, Starz, romance, série, cultura pop, LGBT",
+        "_yoast_wpseo_opengraph-title": "Spartacus: Korris e seu romance secreto ganham destaque em série",
+        "_yoast_wpseo_opengraph-description": "Graham McTavish revela o romance surpreendente de Korris em Spartacus: House of Ashur e os riscos envolvidos em sua relação em Roma.",
+        "_yoast_wpseo_twitter-title": "Spartacus: Korris e seu romance secreto ganham destaque em série",
+        "_yoast_wpseo_twitter-description": "Graham McTavish revela o romance surpreendente de Korris em Spartacus: House of Ashur e os riscos envolvidos em sua relação em Roma."
+      }
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+"Ativando o ambiente virtual..."
+"Iniciando o programa..."
+2025-12-11 18:35:50 - INFO - main - Verificando o esquema do banco de dados...
+2025-12-11 18:35:50 - INFO - store - Initializing database tables if they don't exist...
+2025-12-11 18:35:50 - INFO - store - Database initialized successfully.
+2025-12-11 18:35:50 - INFO - store - Database connection closed.
+2025-12-11 18:35:50 - INFO - main - Verificação do banco de dados concluída com sucesso.
+2025-12-11 18:35:50 - INFO - main - Agendador iniciado. O pipeline será executado a cada 15 minutos.
+2025-12-11 18:35:50 - INFO - base - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-12-11 18:35:50 - INFO - main - Pressione Ctrl+C para sair.
+2025-12-11 18:35:50 - INFO - base - Added job "run_pipeline_cycle" to job store "default"
+2025-12-11 18:35:50 - INFO - base - Scheduler started
+2025-12-11 18:35:50 - INFO - base - Running job "run_pipeline_cycle (trigger: interval[0:15:00], next run at: 2025-12-11 21:35:50 UTC)" (scheduled at 2025-12-11 21:35:50.355400+00:00)
+2025-12-11 18:35:50 - INFO - pipeline - Starting new pipeline ingestion cycle.
+2025-12-11 18:35:50 - INFO - pipeline - Ingesting feed: screenrant_movie_lists
+2025-12-11 18:35:50 - INFO - feeds - Reading rss feed from https://screenrant.com/feed/movie-lists/ for source 'screenrant_movie_lists'
+2025-12-11 18:35:51 - INFO - feeds - Found 10 total unique items for screenrant_movie_lists.
+2025-12-11 18:35:52 - INFO - pipeline - Enqueued 3 articles from screenrant_movie_lists. Total in cycle: 3.
+2025-12-11 18:35:52 - INFO - pipeline - Processing article: 10 Greatest Martial Arts Movie Villains Of All Time (DB ID:11857) from screenrant_movie_lists
+2025-12-11 18:35:53 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Martin Kove as John Kreese in The Karate Kid (1984)
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Benny The Jet Urquidez as Hua’s henchman - Dragons Forever (
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Shih Kien as Han in the mirrorscene in Enter the Dragon
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: The Ghost-Faced Killer attacking villagers inThe Mystery of
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Fu Sheng Wu Chi holds the flying guillotine in The Master of
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Jackie Chan and Hwang Jang Leefighting in Drunken Master
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Lo Lieh, as Pai Mei closeup
+2025-12-11 18:35:53 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-11 18:35:53 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-11 18:35:53 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-11 18:35:53 - INFO - pipeline - Processing article: Supergirl Trailer Breakdown: 15 Biggest Reveals From DC Movie Trailer Explained (DB ID: 11858) from screenrant_movie_lists
+2025-12-11 18:35:54 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-11 18:35:54 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-11 18:35:54 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Krypton with a protective barrier in Supergirl
+2025-12-11 18:35:54 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Milly Alcock as Kara Zor-El sitting at a bus station in Supe
+2025-12-11 18:35:54 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-11 18:35:54 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-11 18:35:54 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-11 18:35:54 - INFO - pipeline - Processing article: Top 10 Sylvester Stallone Action Scenes Ranked (DB ID: 11859) from screenrant_movie_lists
+2025-12-11 18:35:54 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id '' / 'bullet-to-the-head-2012---the-ax-fight'
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id 'display-card tag type-generic small' / '7c07-4597-bca17227cd74'
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Sylvester Stallone as John Rambo using a bow and arrow in Ra
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Sylvester Stallone as Cobra pointing a handgun.
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Sylvester Stallone as John Spartan in Demolition Man.
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Sylvester Stallone and Jason Momoa ax fighting in Bullet to
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Sylvester Stallone and AntonioBanderas in Assassins.
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Sylvester Stallone, Arnold Schwarzenegger, and Bruce Willis
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Cliffhanger Sylvester Stalloneas Gabe Walker Hanging From O
+2025-12-11 18:35:55 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-11 18:35:55 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-11 18:35:55 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-11 18:35:55 - INFO - ai_processor - Sending batch of 2 articles to AI.
+2025-12-11 18:36:29 - INFO - ai_processor - Successfully processed batch of 2 articles.
+2025-12-11 18:36:29 - INFO - seo_title_optimizer - Título otimizado: 'Os 10 Vilões Mais Icônicos do Cinema de Artes Marciais' → 'Os 10 Vilões Mais Icônicos do Cinema de Artes Marciais'
+2025-12-11 18:36:29 - INFO - seo_title_optimizer - Score: 95.0 → 95.0 (melhoria: +0.0)
+2025-12-11 18:36:29 - INFO - pipeline - Título otimizado: 95.0 → 95.0
+2025-12-11 18:36:34 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/shang-tsung-mortal-kombat-1995-closeup.jpg?w=1600&h=900&fit=crop
+2025-12-11 18:36:36 - INFO - wordpress - Created new category 'Kickboxer' with ID 29180.
+2025-12-11 18:36:37 - INFO - pipeline - Ingesting feed: screenrant_movie_news
+2025-12-11 18:36:37 - INFO - feeds - Reading rss feed from https://screenrant.com/feed/movie-news/ for source 'screenrant_movie_news'
+2025-12-11 18:36:37 - INFO - feeds - Found 10 total unique items for screenrant_movie_news.
+2025-12-11 18:36:37 - INFO - pipeline - Enqueued 3 articles from screenrant_movie_news. Total in cycle: 6.
+2025-12-11 18:36:37 - INFO - wordpress - Created new category 'Operação Dragão' with ID 29181.
+2025-12-11 18:36:37 - INFO - wordpress - Resolved category names ['Karatê Kid', 'Kickboxer', 'Operação Dragão'] to IDs:[26639, 29180, 29181]
+2025-12-11 18:36:37 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-11 18:36:41 - INFO - wordpress - Resolved tags ['artes marciais', 'cinema de ação', 'vilões', 'kung fu', 'Jackie Chan', 'Bruce Lee', 'Jean-Claude Van Damme'] to IDs: [3086, 1609, 7789, 17553, 5104, 10991, 6127]
+2025-12-11 18:36:41 - INFO - wordpress - WP payload: title_len=54 content_len=14854 cat=[26639, 20, 24, 29180, 29181] tags=[3086, 1609, 7789, 17553, 5104, 10991, 6127]
+2025-12-11 18:36:44 - INFO - pipeline - ✅ Post 70395 published and sanitized if CTA present.
+2025-12-11 18:36:44 - INFO - store - Successfully recorded published post for article DB ID 11857 (WP Post ID: 70395).
+2025-12-11 18:36:44 - INFO - pipeline - Successfully published post 70395 for article DB ID 11857
+2025-12-11 18:36:44 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-11 18:37:22 - INFO - pipeline - Ingesting feed: screenrant_tv
+2025-12-11 18:37:22 - INFO - feeds - Reading rss feed from https://screenrant.com/feed/tv/ for source 'screenrant_tv'
+2025-12-11 18:37:23 - INFO - feeds - Found 10 total unique items for screenrant_tv.
+2025-12-11 18:37:23 - INFO - pipeline - Enqueued 3 articles from screenrant_tv. Total in cycle: 9.
+2025-12-11 18:37:29 - INFO - seo_title_optimizer - Título otimizado: 'Supergirl: Trailer Revela Detalhes Cruciais do DCU' → 'Supergirl: Trailer Revela Detalhes Cruciais do DCU'
+2025-12-11 18:37:29 - INFO - seo_title_optimizer - Score: 100.0 → 100.0 (melhoria: +0.0)
+2025-12-11 18:37:29 - INFO - pipeline - Título otimizado: 100.0 → 100.0
+2025-12-11 18:37:33 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/supergirl-using-heat-vision-n-supergirl-trailer.jpg?w=1600&h=900&fit=crop
+2025-12-11 18:37:34 - INFO - wordpress - Resolved category names ['Supergirl', 'DC Studios', 'Superman'] to IDs: [22284, 16416, 16097]
+2025-12-11 18:37:34 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-11 18:37:38 - INFO - wordpress - Resolved tags ['Supergirl', 'DCU', 'Milly Alcock', 'James Gunn', 'Superman', 'DC Studios', 'Woman of Tomorrow'] to IDs: [213, 207, 212, 200, 206, 236, 23489]
+2025-12-11 18:37:38 - INFO - wordpress - WP payload: title_len=50 content_len=6940 cat=[16416, 16097, 22284, 20, 24] tags=[213, 207, 212, 200, 206, 236, 23489]
+2025-12-11 18:37:40 - INFO - pipeline - ✅ Post 70397 published and sanitized if CTA present.
+2025-12-11 18:37:40 - INFO - store - Successfully recorded published post for article DB ID 11858 (WP Post ID: 70397).
+2025-12-11 18:37:40 - INFO - pipeline - Successfully published post 70397 for article DB ID 11858
+2025-12-11 18:37:40 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-11 18:38:08 - INFO - store - Database connection closed.
+2025-12-11 18:38:08 - INFO - pipeline - Pipeline ingestion cycle finished.
+2025-12-11 18:38:08 - INFO - base - Job "run_pipeline_cycle (trigger: interval[0:15:00], next run at: 2025-12-11 21:50:50 UTC)" executed successfully
+2025-12-11 18:38:25 - INFO - pipeline - Aguardando 90s entre batches (garantindo processamento de qualidade)...
+2025-12-11 18:39:55 - INFO - ai_processor - Sending batch of 1 articles to AI.
+2025-12-11 18:40:15 - INFO - ai_processor - Successfully processed batch of 1 articles.
+2025-12-11 18:40:15 - INFO - seo_title_optimizer - Título otimizado: 'Sylvester Stallone: As 10 Cenas de Ação Mais Impactantes do Astro' → 'Sylvester Stallone: As 10 Cenas de Ação Mais Impactantes do Astro'
+2025-12-11 18:40:15 - INFO - seo_title_optimizer - Score: 95.0 → 95.0 (melhoria: +0.0)
+2025-12-11 18:40:15 - INFO - pipeline - Título otimizado: 95.0 → 95.0
+2025-12-11 18:40:20 - INFO - wordpress - Successfully uploaded image: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/sylvester-stallone-as-rambo-aiming-a-bow-and-arrow-toward-the-camera-in-rambo-last-blood.jpg?w=1600&h=900&fit=crop
+2025-12-11 18:40:22 - INFO - wordpress - Resolved category names ['Sylvester Stallone', 'Rambo', 'Rocky'] to IDs: [16235, 17999, 16934]
+2025-12-11 18:40:22 - INFO - pipeline - ✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.
+2025-12-11 18:40:25 - INFO - wordpress - Created new tag 'cobra' with ID 29182.
+2025-12-11 18:40:26 - INFO - wordpress - Resolved tags ['sylvester-stallone', 'rambo', 'rocky', 'cobra', 'demolition-man', 'cliffhanger', 'os-mercenarios'] to IDs: [2688, 5459, 7815, 29182, 25866, 1787, 12117]
+2025-12-11 18:40:26 - INFO - wordpress - WP payload: title_len=65 content_len=11958 cat=[16934, 16235, 17999, 20, 24] tags=[2688, 5459, 7815, 29182, 25866, 1787, 12117]
+2025-12-11 18:40:28 - INFO - pipeline - ✅ Post 70399 published and sanitized if CTA present.
+2025-12-11 18:40:29 - INFO - store - Successfully recorded published post for article DB ID 11859 (WP Post ID: 70399).
+2025-12-11 18:40:29 - INFO - pipeline - Successfully published post 70399 for article DB ID 11859
+2025-12-11 18:40:29 - INFO - pipeline - Aguardando 45s antes de publicar próximo artigo...
+2025-12-11 18:41:14 - INFO - store - Database connection closed.
+2025-12-11 18:41:14 - INFO - pipeline - Worker: 3 artigos processados. Total requisições neste ciclo: 3/10. Dormindo por 60s.
+2025-12-11 18:42:14 - INFO - pipeline - Processing article: Disney CEO Raises Concerns Over Netflix’s Warner Bros. Deal, Saying It’s “Not Necessarily Healthy” (DB ID: 11860) from screenrant_movie_news
+2025-12-11 18:42:15 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-11 18:42:15 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-11 18:42:15 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id 'display-card-hyperlink display-card-hyperlink-no-vignette' / ''
+2025-12-11 18:42:15 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id 'display-card-hyperlink display-card-hyperlink-no-vignette' / ''
+2025-12-11 18:42:15 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id 'display-card tag type-generic large' / '2eca-4fa8-bc55d2948164'
+2025-12-11 18:42:15 - INFO - extractor - INFO (ScreenRant): Removendo figura decorativa/logo: https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/netflix-and-warner-bros-logos-side-by-side.jpg?q=70&fit=crop&w=825&dpr=1
+2025-12-11 18:42:15 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-11 18:42:15 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-11 18:42:15 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-11 18:42:15 - INFO - pipeline - Processing article: Ryan Coogler On How Chadwick Boseman's Death Inspired Sinners (DB ID: 11861) from screenrant_movie_news
+2025-12-11 18:42:16 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-11 18:42:16 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-11 18:42:16 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id 'display-card type-screen large' / '5f59-4da8-b1701cd30f16'
+2025-12-11 18:42:16 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Michael B. Jordan and Miles Caton in Sinners
+2025-12-11 18:42:16 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-11 18:42:16 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-11 18:42:16 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-11 18:42:16 - INFO - pipeline - Processing article: DCU's New Supergirl Movie Won't Take Place On Earth, Confirms James Gunn & Director (DB ID: 11862) from screenrant_movie_news
+2025-12-11 18:42:16 - INFO - extractor - [SUCCESS] Imagem encontrada com sucesso via Open Graph (og:image).
+2025-12-11 18:42:16 - INFO - extractor - INFO (ScreenRant): Iniciando limpeza de widgets e blocos indesejados...
+2025-12-11 18:42:16 - INFO - extractor - INFO (ScreenRant): Removendo elemento com classe/id 'display-card type-screen large' / 'bb54-48ad-add567dac25e'
+2025-12-11 18:42:16 - INFO - extractor - INFO (ScreenRant): Removendo legenda em inglês: Supergirl arrives in the fortress of Solitude in Superman (2
+2025-12-11 18:42:16 - INFO - extractor - INFO (ScreenRant): Limpeza agressiva concluída. Retornando HTML final.
+2025-12-11 18:42:16 - INFO - extractor - INFO (screenrant.com): Usando limpador específico para ScreenRant
+2025-12-11 18:42:16 - INFO - extractor - Successfully cleaned content for screenrant.com using specific extractor.
+2025-12-11 18:42:16 - INFO - ai_processor - Sending batch of 2 articles to AI.
+2025-12-11 18:42:17 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 42.033442343s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2025-12-11 18:42:26 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:43:03 - ERROR - ai_processor - Initial JSON decoding failed: Expecting ',' delimiter: line 55 column 2014(char 7024). Trying with secondary fixes.
+2025-12-11 18:43:03 - ERROR - ai_processor - Secondary JSON decoding failed: Expecting ',' delimiter: line 55 column 2014 (char 7024). Trying aggressive escape.
+2025-12-11 18:43:03 - CRITICAL - ai_processor - JSON decoding failed permanently. Raw response saved to debug\failed_ai_20251211-184303.json.txt
+2025-12-11 18:43:03 - ERROR - ai_processor - Error parsing or normalizing AI batch response: Failed to decode JSON fromAI response after multiple attempts.
+2025-12-11 18:43:03 - ERROR - ai_processor - Batch JSON parse failed for 2 articles; falling back to per-article processing.
+2025-12-11 18:43:03 - INFO - ai_processor - Sending content from https://screenrant.com/netflix-warner-bros-pricing-consumerism-impact-bob-iger-disney/ to AI.
+2025-12-11 18:43:03 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 55.638759725s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-12-11 18:43:11 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:43:36 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 23.310391075s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2025-12-11 18:43:42 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:44:07 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 51.588775851s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 51
+}
+]
+2025-12-11 18:44:16 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:44:40 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 19.136730686s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-12-11 18:44:48 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:45:11 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 47.985759449s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2025-12-11 18:45:19 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:45:43 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 16.313060272s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-12-11 18:45:50 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:46:14 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 45.120655671s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2025-12-11 18:46:22 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:46:46 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 13.277596982s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2025-12-11 18:46:54 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]
+2025-12-11 18:47:17 - WARNING - ai_client_gemini - 429 na chave ****EQ5g; 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite
+Please retry in 42.026761978s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2025-12-11 18:47:26 - WARNING - ai_client_gemini - 429 na chave ****yTUk; 429 Quota exceeded for quota metric 'GenerateContent API requests per minute' and limit 'GenerateContent request limit per minute for a region' of service 'generativelanguage.googleapis.com' for consumer 'project_number:301870415349'. [reason: "RATE_LIMIT_EXCEEDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "quota_unit"
+  value: "1/min/{project}/{region}"
+}
+metadata {
+  key: "quota_metric"
+  value: "generativelanguage.googleapis.com/generate_content_requests"
+}
+metadata {
+  key: "quota_location"
+  value: "us-south1"
+}
+metadata {
+  key: "quota_limit"
+  value: "GenerateContentRequestsPerMinutePerProjectPerRegion"
+}
+metadata {
+  key: "quota_limit_value"
+  value: "0"
+}
+metadata {
+  key: "consumer"
+  value: "projects/301870415349"
+}
+, links {
+  description: "Request a higher quota limit."
+  url: "https://cloud.google.com/docs/quotas/help/request_increase"
+}
+]

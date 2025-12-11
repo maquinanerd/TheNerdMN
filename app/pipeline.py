@@ -50,9 +50,9 @@ ai_processor = AIProcessor()
 # --- Environment variables for pipeline control ---
 MAX_PER_FEED_CYCLE = int(os.getenv('MAX_PER_FEED_CYCLE', 3))
 MAX_PER_CYCLE = int(os.getenv('MAX_PER_CYCLE', 10))
-ARTICLE_SLEEP_S = int(os.getenv('ARTICLE_SLEEP_S', 120))  # 2 minutos entre ciclos (antes era 60s)
-BETWEEN_BATCH_DELAY_S = int(os.getenv('BETWEEN_BATCH_DELAY_S', 90))  # 90s entre processamento de batches
-BETWEEN_PUBLISH_DELAY_S = int(os.getenv('BETWEEN_PUBLISH_DELAY_S', 45))  # 45s entre publicações
+ARTICLE_SLEEP_S = int(os.getenv('ARTICLE_SLEEP_S', 120))  # 2 minutos entre ciclos
+BETWEEN_BATCH_DELAY_S = int(os.getenv('BETWEEN_BATCH_DELAY_S', 180))  # 3 minutos entre artigos (aumentado para evitar rate limit)
+BETWEEN_PUBLISH_DELAY_S = int(os.getenv('BETWEEN_PUBLISH_DELAY_S', 60))  # 60s entre publicações
 
 CLEANER_FUNCTIONS = {
     'globo.com': clean_html_for_globo_esporte,
@@ -165,9 +165,9 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                 logger.error(f"Error extracting article {article_data.get('title', 'N/A')}: {e}", exc_info=True)
                 db.update_article_status(article_db_id, 'FAILED', reason=str(e))
 
-        # Process all extracted articles in batches via AI
+        # Process all extracted articles in batches via AI (BATCH SIZE 1 - Gemini response truncation)
         batch_count = 0
-        for batch in [extracted_articles[i:i+2] for i in range(0, len(extracted_articles), 2)]:
+        for batch in [extracted_articles[i:i+1] for i in range(0, len(extracted_articles), 1)]:
             # Aguardar entre batches para garantir qualidade SEO
             if batch_count > 0:
                 logger.info(f"Aguardando {BETWEEN_BATCH_DELAY_S}s entre batches (garantindo processamento de qualidade)...")
