@@ -167,7 +167,7 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
 
         # Process all extracted articles in batches via AI
         batch_count = 0
-        for batch in [extracted_articles[i:i+2] for i in range(0, len(extracted_articles), 2)]:
+        for batch in [extracted_articles[i:i+3] for i in range(0, len(extracted_articles), 3)]:
             # Aguardar entre batches para garantir qualidade SEO
             if batch_count > 0:
                 logger.info(f"Aguardando {BETWEEN_BATCH_DELAY_S}s entre batches (garantindo processamento de qualidade)...")
