@@ -240,33 +240,22 @@ class Database:
         return new_articles
 
 
-    def save_processed_post(self, article_db_id: int, wp_post_id: int = None, post_data: Dict[str, Any] = None) -> None:
-        """Saves a record of a processed post (with or without WP publication)."""
+    def save_processed_post(self, article_db_id: int, wp_post_id: int) -> None:
+        """Saves a record of a successfully published post."""
         try:
-            import json
             cursor = self._get_cursor()
-            
-            if wp_post_id:
-                # Full publication: update status to PUBLISHED and save WP ID
-                cursor.execute(
-                    "UPDATE seen_articles SET status = 'PUBLISHED', fail_reason = NULL WHERE id = ?",
-                    (article_db_id,)
-                )
-                cursor.execute(
-                    "INSERT INTO posts (seen_article_id, wp_post_id) VALUES (?, ?)",
-                    (article_db_id, wp_post_id)
-                )
-                logger.info(f"Successfully recorded published post for article DB ID {article_db_id} (WP Post ID: {wp_post_id}).")
-            elif post_data:
-                # Save as PROCESSED with post_data for later publishing
-                post_data_json = json.dumps(post_data, ensure_ascii=False, default=str)
-                cursor.execute(
-                    "UPDATE seen_articles SET status = 'PROCESSED', fail_reason = ? WHERE id = ?",
-                    (post_data_json, article_db_id)
-                )
-                logger.info(f"Saved post data for article DB ID {article_db_id} (status: PROCESSED)")
-            
+            # First, update the article's status to 'PUBLISHED' and clear any previous failure reason
+            cursor.execute(
+                "UPDATE seen_articles SET status = 'PUBLISHED', fail_reason = NULL WHERE id = ?",
+                (article_db_id,)
+            )
+            # Then, insert the record into the 'posts' table
+            cursor.execute(
+                "INSERT INTO posts (seen_article_id, wp_post_id) VALUES (?, ?)",
+                (article_db_id, wp_post_id)
+            )
             self.conn.commit()
+            logger.info(f"Successfully recorded published post for article DB ID {article_db_id} (WP Post ID: {wp_post_id}).")
         except sqlite3.IntegrityError:
             logger.warning(f"Post record for article DB ID {article_db_id} already exists.")
         except sqlite3.Error as e:
@@ -401,47 +390,6 @@ class Database:
             logger.error(f"Error during database cleanup: {e}", exc_info=True)
             self.conn.rollback()
             return 0
-
-    def get_articles_by_status(self, status: str, limit: int = 3) -> List[Dict[str, Any]]:
-        """Gets articles with a specific status (e.g., PROCESSED)."""
-        try:
-            cursor = self._get_cursor()
-            cursor.execute(
-                "SELECT id, source_id, url, status, fail_reason FROM seen_articles WHERE status = ? LIMIT ?",
-                (status, limit)
-            )
-            articles = []
-            for row in cursor.fetchall():
-                articles.append({
-                    'id': row['id'],
-                    'source_id': row['source_id'],
-                    'url': row['url'],
-                    'status': row['status'],
-                    'reason': row['fail_reason'],
-                    'post_data': self._get_post_data(row['id'])  # Retrieve stored post data
-                })
-            return articles
-        except sqlite3.Error as e:
-            logger.error(f"Error getting articles by status '{status}': {e}")
-            return []
-    
-    def _get_post_data(self, article_id: int) -> Optional[Dict[str, Any]]:
-        """Retrieves stored post data from fail_reason column (where we save JSON)."""
-        try:
-            import json
-            cursor = self._get_cursor()
-            cursor.execute("SELECT fail_reason FROM seen_articles WHERE id = ? AND status = 'PROCESSED'", (article_id,))
-            row = cursor.fetchone()
-            if row and row['fail_reason']:
-                try:
-                    return json.loads(row['fail_reason'])
-                except json.JSONDecodeError:
-                    logger.error(f"Failed to parse post_data JSON for article {article_id}")
-                    return None
-            return None
-        except sqlite3.Error as e:
-            logger.error(f"Error retrieving post data for article {article_id}: {e}")
-            return None
 
     def close(self):
         """Closes the database connection."""

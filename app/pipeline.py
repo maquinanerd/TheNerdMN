@@ -464,16 +464,8 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
 
                         logger.info("✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.")
                         
-                        # Mark as PROCESSED (ready to publish) but don't publish yet
-                        # Wait until 3 articles are processed, then publish all together
-                        db.update_article_status(
-                            art_data['db_id'], 
-                            'PROCESSED',  # New status: ready but not published
-                            reason="AI processing completed, waiting for batch accumulation"
-                        )
-                        
-                        # Save the processed data for later publishing
-                        db.save_processed_post(art_data['db_id'], post_data={
+                        # Publish to WordPress immediately (but processing was done in batch of 3)
+                        post_payload = {
                             'title': title,
                             'slug': rewritten_data.get('slug'),
                             'content': content_html,
@@ -482,9 +474,28 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                             'tags': rewritten_data.get('tags_sugeridas', []),
                             'featured_media': featured_media_id,
                             'meta': yoast_meta,
-                        })
-                        
-                        logger.info(f"Article {art_data['db_id']} saved as PROCESSED. Waiting for batch of 3 to publish together...")
+                        }
+
+                        wp_post_id = wp_client.create_post(post_payload)
+                        if wp_post_id:
+                            try:
+                                sanitized_ok = wp_client.sanitize_published_post(wp_post_id)
+                                if sanitized_ok:
+                                    logger.info(f"✅ Post {wp_post_id} published and sanitized.")
+                                else:
+                                    logger.warning(f"⚠️ Post {wp_post_id} published but sanitation reported failure.")
+                            except Exception as e:
+                                logger.error(f"Error during post-publish sanitation for {wp_post_id}: {e}")
+
+                            db.save_processed_post(art_data['db_id'], wp_post_id)
+                            logger.info(f"Successfully published post {wp_post_id} for article DB ID {art_data['db_id']}")
+                            
+                            # Small delay between posts
+                            logger.info(f"Aguardando {BETWEEN_PUBLISH_DELAY_S}s antes de publicar próximo artigo...")
+                            time.sleep(BETWEEN_PUBLISH_DELAY_S)
+                        else:
+                            logger.error(f"Failed to publish post for {art_data['url']}")
+                            db.update_article_status(art_data['db_id'], 'FAILED', reason="WordPress publishing failed")
 
                     except Exception as e:
                         logger.error(f"Error processing article result {art_data['title']}: {e}", exc_info=True)
@@ -566,74 +577,12 @@ def worker_loop():
         process_batch(articles, link_map)
         requests_in_cycle += len(articles)
         
-        # Try to publish batch of 3 PROCESSED articles
-        publish_batch_of_three()
-        
         logger.info(
             f"Worker: {len(articles)} artigos processados. "
             f"Total requisições neste ciclo: {requests_in_cycle}/{MAX_REQUESTS_PER_CYCLE}. "
             f"Dormindo por {ARTICLE_SLEEP_S}s."
         )
         time.sleep(ARTICLE_SLEEP_S)
-
-def publish_batch_of_three():
-    """Publica 3 artigos PROCESSED de uma vez."""
-    db = Database()
-    wp_client = WordPressClient(config=WORDPRESS_CONFIG, categories_map=WORDPRESS_CATEGORIES)
-    
-    try:
-        # Get articles with PROCESSED status
-        processed_articles = db.get_articles_by_status('PROCESSED', limit=3)
-        
-        if len(processed_articles) < 3:
-            logger.debug(f"Only {len(processed_articles)} articles ready (need 3 for batch publish). Waiting...")
-            return
-        
-        logger.info(f"🎯 Publicando batch de 3 artigos PROCESSED!")
-        
-        for article in processed_articles[:3]:
-            try:
-                article_id = article['id']
-                post_data = article.get('post_data', {})
-                
-                if not post_data:
-                    logger.error(f"No post data found for article {article_id}")
-                    db.update_article_status(article_id, 'FAILED', reason="Missing post data for publishing")
-                    continue
-                
-                # Publish to WordPress
-                wp_post_id = wp_client.create_post(post_data)
-                if wp_post_id:
-                    try:
-                        sanitized_ok = wp_client.sanitize_published_post(wp_post_id)
-                        if sanitized_ok:
-                            logger.info(f"✅ Post {wp_post_id} published and sanitized.")
-                        else:
-                            logger.warning(f"⚠️ Post {wp_post_id} published but sanitation reported failure.")
-                    except Exception as e:
-                        logger.error(f"Error during post-publish sanitation for {wp_post_id}: {e}")
-                    
-                    # Mark as PUBLISHED in DB with WP ID
-                    db.update_article_status(article_id, 'PUBLISHED', reason=f"Published as WP post {wp_post_id}")
-                    logger.info(f"✅ Article {article_id} published as WP post {wp_post_id}")
-                    
-                    # Small delay between posts
-                    time.sleep(5)
-                else:
-                    logger.error(f"Failed to publish article {article_id}")
-                    db.update_article_status(article_id, 'FAILED', reason="WordPress publishing failed")
-                    
-            except Exception as e:
-                logger.error(f"Error publishing article {article_id}: {e}", exc_info=True)
-                db.update_article_status(article_id, 'FAILED', reason=str(e))
-        
-        logger.info("✅ Batch de 3 publicado com sucesso!")
-        
-    except Exception as e:
-        logger.error(f"Error in publish_batch_of_three: {e}", exc_info=True)
-    finally:
-        wp_client.close()
-        db.close()
 
 def run_pipeline_cycle():
     """Read feeds and enqueue articles for the worker."""
