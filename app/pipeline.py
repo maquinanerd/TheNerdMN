@@ -548,10 +548,10 @@ def worker_loop():
     last_pause_time = 0
 
     while True:
-        # Get up to 2 articles from queue (batch size 2)
+        # Get articles from queue (prefer batch of 2, but accept 1 if timeout)
         articles = []
         retry_count = 0
-        max_retries = 180  # Wait up to 3 minutes (180 * 1s) for 2 articles
+        max_retries = 30  # Wait up to 30 seconds for 2 articles (batch size)
         
         while len(articles) < 2 and retry_count < max_retries:
             if article := article_queue.pop():
@@ -573,6 +573,8 @@ def worker_loop():
             if time.time() - last_pause_time > 60:
                 requests_in_cycle = 0
             continue
+        
+        # Process whatever we have (1 or 2 articles)
 
         # Check if we've hit request limit
         if requests_in_cycle >= MAX_REQUESTS_PER_CYCLE:
