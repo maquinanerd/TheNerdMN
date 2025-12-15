@@ -548,17 +548,17 @@ def worker_loop():
     last_pause_time = 0
 
     while True:
-        # Get up to 3 articles from queue (wait until we have at least 3)
+        # Get up to 2 articles from queue (batch size 2)
         articles = []
         retry_count = 0
-        max_retries = 180  # Wait up to 3 minutes (180 * 1s) for 3 articles
+        max_retries = 180  # Wait up to 3 minutes (180 * 1s) for 2 articles
         
-        while len(articles) < 3 and retry_count < max_retries:
+        while len(articles) < 2 and retry_count < max_retries:
             if article := article_queue.pop():
                 articles.append(article)
             else:
                 if len(articles) > 0:
-                    # If we have some but not 3, wait a bit more
+                    # If we have some but not 2, wait a bit more
                     time.sleep(1)
                     retry_count += 1
                 else:
