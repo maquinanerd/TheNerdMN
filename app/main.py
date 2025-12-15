@@ -56,12 +56,19 @@ def main():
     else:
         # Agenda as execuções futuras
         interval = SCHEDULE_CONFIG.get('check_interval_minutes', 15)
-        logger.info(f"Agendador iniciado. O pipeline será executado a cada {interval} minutos.")
+        logger.info(f"Agendador iniciado. O pipeline será executado a cada {interval} minutos entre 9h-19h (horário de Brasília).")
 
-        scheduler = BlockingScheduler(timezone='UTC')
+        scheduler = BlockingScheduler(timezone='America/Sao_Paulo')
 
-        # Executa o ciclo uma vez imediatamente e depois a cada `interval` minutos.
-        scheduler.add_job(run_pipeline_cycle, 'interval', minutes=interval, next_run_time=datetime.now(timezone.utc))
+        # Executa a cada `interval` minutos, apenas entre 9h-19h horário de Brasília
+        # cron: minute='*' = a cada minuto, hour='9-18' = 9h até 18h:59 (antes de 19h)
+        scheduler.add_job(
+            run_pipeline_cycle, 
+            'cron',
+            minute=f'*/{ interval}',  # A cada N minutos
+            hour='9-18',  # 9h até 18h:59 (horário de Brasília)
+            timezone='America/Sao_Paulo'
+        )
 
         logger.info("Pressione Ctrl+C para sair.")
         try:
