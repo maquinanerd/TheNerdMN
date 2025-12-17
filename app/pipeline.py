@@ -165,9 +165,9 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                 logger.error(f"Error extracting article {article_data.get('title', 'N/A')}: {e}", exc_info=True)
                 db.update_article_status(article_db_id, 'FAILED', reason=str(e))
 
-        # Process all extracted articles in batches via AI
+        # Process all extracted articles individually via AI (batch size 1)
         batch_count = 0
-        for batch in [extracted_articles[i:i+2] for i in range(0, len(extracted_articles), 2)]:
+        for batch in [extracted_articles[i:i+1] for i in range(0, len(extracted_articles), 1)]:
             # Aguardar entre batches para garantir qualidade SEO
             if batch_count > 0:
                 logger.info(f"Aguardando {BETWEEN_BATCH_DELAY_S}s entre batches (garantindo processamento de qualidade)...")
@@ -548,12 +548,12 @@ def worker_loop():
     last_pause_time = 0
 
     while True:
-        # Get articles from queue (prefer batch of 2, but accept 1 if timeout)
+        # Get articles from queue (batch size 1)
         articles = []
         retry_count = 0
-        max_retries = 30  # Wait up to 30 seconds for 2 articles (batch size)
+        max_retries = 30  # Wait up to 30 seconds for 1 article
         
-        while len(articles) < 2 and retry_count < max_retries:
+        while len(articles) < 1 and retry_count < max_retries:
             if article := article_queue.pop():
                 articles.append(article)
             else:
