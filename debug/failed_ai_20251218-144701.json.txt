@@ -1,0 +1,51 @@
+{
+  "titulo_final": "Younger: Comédia de Hilary Duff vira fenômeno global na Netflix",
+  "conteudo_final": "<p>A comédia de ambiente de trabalho de sete temporadas <strong><em>Younger</em></strong>, estrelada por Hilary Duff, tornou-se um fenômeno de streaming global após seu lançamento internacional na Netflix nesta semana. <em>Younger</em>, criada por Darren Star, criador de <em>Sex and the City</em> e <em>Emily in Paris</em>, acompanha Kelsey (Hilary Duff), uma editora de livros em ascensão, e Liza Miller (Sutton Foster), que retorna ao mercado de trabalho, enquanto navegam em carreiras promissoras, autores complicados, amizades, família, novas fases da vida e, mais proeminentemente, romance.</p><h2>Origem e Sucesso da Série</h2><p>Baseada no livro de mesmo nome de Pamela Redmond Satran, <em>Younger</em> se tornou um sucesso duradouro após sua estreia original na TV Land em 2015, encerrando após 84 episódios e conquistando uma pontuação de 97% no Rotten Tomatoes.</p><p>Em 18 de dezembro, <em>Younger</em> ocupava o quarto lugar na lista global das 10 principais séries de streaming da Netflix, logo acima da produção original espanhola <em>City of Shadows</em> e do K-drama <em>Dynamite Kiss</em>. A série também manteve a quarta posição em 17 de dezembro. Atualmente, <em>Man Vs Baby</em>, de Rowan Atkinson, lidera a lista, seguida por <em>Stranger Things</em> em segundo lugar e a docussérie <em>Sean Combs: The Reckoning</em> em terceiro.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/example\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><p>Esta é a segunda vez que <em>Younger</em> aparece nos charts da Netflix em 2025. A série também alcançou um lugar no Top 10 após seu lançamento completo na Netflix nos EUA em janeiro.</p><h2>Paralelos com Emily in Paris e Futuro da Série</h2><p>É importante notar que outra criação de Darren Star, <em>Emily in Paris</em>, pode alterar a ordem atual antes do final da semana, já que sua quinta temporada de 10 episódios acaba de ser lançada na plataforma. Assim como <em>Emily in Paris</em>, <em>Younger</em> apresenta duas mulheres focadas na carreira de gerações diferentes navegando por eras distintas de suas vidas; Kelsey (Duff) e Liza (Foster) formavam uma dupla cativante, especialmente após a revelação do maior segredo de Liza.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2024/04/molly-bernard-hilary-duff-and-sutton-foster-in-younger.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Molly Bernard, Hilary Duff e Sutton Foster em cena de Younger\" loading=\"lazy\"/><figcaption>Molly Bernard, Hilary Duff e Sutton Foster em uma cena de Younger.</figcaption></figure><p>A série foi bem-sucedida o suficiente para que a personagem de Hilary Duff fosse considerada para liderar um <a href=\"https://www.maquinanerd.com.br/tag/younger\">spin-off oficial de <em>Younger</em></a> após o final da série em 2021, embora, infelizmente, nunca tenha se concretizado. O spin-off, que estava em desenvolvimento com Star e ViacomCBS, seguiria Kelsey em sua ascensão profissional em uma editora na Califórnia.</p><p>Em vez disso, Duff logo estrelou outro grande spin-off de sitcom, <em>How I Met Your Father</em>, que foi cancelado após duas temporadas no Hulu, para a decepção dos espectadores, antes que a série pudesse revelar com quem a personagem de Duff, Sophie, terminaria.</p><h2>Carreira Musical e Novos Projetos de Hilary Duff</h2><p>Essa decisão de cancelamento não desacelerou Duff. A atriz retornou às suas raízes como estrela pop — Duff lançará seu sexto álbum de estúdio em fevereiro de 2026. O primeiro single do novo álbum, \"Mature\", já está disponível para streaming. Ela também estrelará em breve o drama do Hulu, <em>Pretty Ugly</em>, baseado no romance de Kirker Butler.</p><p>Resta saber se o renovado sucesso de <em>Younger</em> no streaming reacenderá o potencial do spin-off da série, embora Star tenha sinalizado seu interesse em um <a href=\"https://www.maquinanerd.com.br/tag/hilary-duff\">revival de <em>Younger</em></a>. Independentemente do que acontecer a seguir, Hilary Duff, sem dúvida, continuará a deixar sua marca em Hollywood e no cenário televisivo em constante mudança.</p><p>Todos os episódios de <em>Younger</em> estão disponíveis para streaming na Netflix e Paramount+.</p>",
+  "meta_description": "A comédia Younger, com Hilary Duff, se torna um sucesso global na Netflix, alcançando o Top 10 mundial. Saiba mais sobre a série.",
+  "focus_keyphrase": "Younger série Netflix Hilary Duff",
+  "related_keyphrases": [
+    "Younger streaming global",
+    "Comédia de Hilary Duff na Netflix",
+    "Darren Star séries"
+  ],
+  "slug": "younger-serie-netflix-fenomeno-hilary-duff",
+  "categorias": [
+    {
+      "nome": "Younger",
+      "grupo": "obras",
+      "evidence": "Hilary Duff's seven-season workplace comedy Younger"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "plataformas",
+      "evidence": "following its international release on Netflix"
+    },
+    {
+      "nome": "Hilary Duff",
+      "grupo": "atores",
+      "evidence": "Hilary Duff's seven-season workplace comedy"
+    }
+  ],
+  "tags_sugeridas": [
+    "Younger",
+    "Hilary Duff",
+    "Netflix",
+    "Darren Star",
+    "Sutton Foster",
+    "Comédia",
+    "Streaming"
+  ],
+  "image_alt_texts": {
+    "molly-bernard-hilary-duff-and-sutton-foster-in-younger.jpg": "Molly Bernard, Hilary Duff e Sutton Foster em cena da série Younger."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Younger: Comédia de Hilary Duff vira fenômeno global na Netflix",
+    "_yoast_wpseo_metadesc": "A comédia Younger, com Hilary Duff, se torna um sucesso global na Netflix, alcançando o Top 10 mundial. Saiba mais sobre a série.",
+    "_yoast_wpseo_focuskw": "Younger série Netflix Hilary Duff",
+    "_yoast_news_keywords": "Younger, Netflix, Hilary Duff, Darren Star, Sutton Foster, Comédia, Streaming, Younger série Netflix",
+    "_yoast_wpseo_opengraph-title": "Younger: Comédia de Hilary Duff vira fenômeno global na Netflix",
+    "_yoast_wpseo_opengraph-description": "A comédia Younger, com Hilary Duff, se torna um sucesso global na Netflix, alcançando o Top 10 mundial. Saiba mais sobre a série.",
+    "_yoast_wpseo_twitter-title": "Younger: Comédia de Hilary Duff vira fenômeno global na Netflix",
+    "_yoast_wpseo_twitter-description": "A comédia Younger, com Hilary Duff, se torna um sucesso global na Netflix, alcançando o Top 10 mundial. Saiba mais sobre a série."
+  }
+}

@@ -58,6 +58,13 @@ def main():
         interval = SCHEDULE_CONFIG.get('check_interval_minutes', 15)
         logger.info(f"Agendador iniciado. O pipeline será executado a cada {interval} minutos entre 9h-19h (horário de Brasília).")
 
+        # Executa imediatamente ao iniciar
+        logger.info("🚀 Executando primeira verificação imediatamente...")
+        try:
+            run_pipeline_cycle()
+        except Exception as e:
+            logger.error(f"Erro na execução inicial do pipeline: {e}", exc_info=True)
+
         scheduler = BlockingScheduler(timezone='America/Sao_Paulo')
 
         # Executa a cada `interval` minutos, apenas entre 9h-19h horário de Brasília

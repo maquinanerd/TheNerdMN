@@ -1,0 +1,48 @@
+{
+  "titulo_final": "Paramount processa Warner Bros. por detalhes financeiros de acordo com Netflix",
+  "conteudo_final": "<p>A <b>Paramount</b> entrou com um processo contra a Warner Bros. Discovery (WBD), buscando informações financeiras detalhadas sobre o acordo entre a WBD e a Netflix. O CEO da Paramount, David Ellison, alega que a WBD tem se recusado a fornecer dados cruciais para que os acionistas da WBD possam tomar uma decisão informada sobre a oferta de aquisição.</p><h2>Paramount exige informações financeiras da Warner Bros.</h2><p>No processo, a Paramount solicita que a Delaware Chancery Court obrigue a WBD a divulgar como avaliou o patrimônio líquido das redes globais, o valor da transação com a Netflix, como funciona a redução do preço de compra para dívidas e a base para o ajuste de risco na oferta em dinheiro de US$ 30 por ação feita pela Paramount. Ellison expressou sua necessidade por esses números para que os acionistas da WBD possam decidir se desejam aceitar a oferta da Paramount.</p><h2>Warner Bros. rejeita oferta da Paramount e mantém acordo com Netflix</h2><p>A Warner Bros. e seu conselho rejeitaram a oferta da Paramount em oito ocasiões. A Paramount havia oferecido um valor empresarial de US$ 108,4 bilhões, a US$ 30 por ação. Apesar do valor considerado vantajoso, a WBD e seu conselho declararam desconforto com a forma como Ellison e a Paramount estavam obtendo os fundos para a aquisição. A WBD optou por prosseguir com seu acordo multibilionário com a Netflix, avaliado em US$ 83 bilhões.</p><h2>Motivações por trás do processo da Paramount</h2><p>Ainda não está claro quais são os planos de David Ellison após obter os números financeiros da WBD. A ação pode ser uma tentativa de detectar quaisquer negociações consideradas "ilícitas", como alegado anteriormente por Ellison. A Paramount busca transparência no processo de negociação da WBD, especialmente no que diz respeito ao seu acordo com a Netflix, para embasar sua própria proposta de aquisição.</p>",
+  "meta_description": "Paramount entra com processo contra Warner Bros. Discovery exigindo detalhes financeiros do acordo bilionário com a Netflix. Saiba mais.",
+  "focus_keyphrase": "Paramount processa Warner Bros. Netflix",
+  "related_keyphrases": [
+    "Paramount busca informações financeiras WBD",
+    "Acordo Warner Bros. Netflix",
+    "Processo judicial Paramount Warner Bros."
+  ],
+  "slug": "paramount-processa-warner-bros-netflix",
+  "categorias": [
+    {
+      "nome": "Paramount",
+      "grupo": "franquias",
+      "evidence": "Paramount's plans to take over Warner Bros. Discovery"
+    },
+    {
+      "nome": "Warner Bros. Discovery",
+      "grupo": "franquias",
+      "evidence": "Warner Bros. Discovery (WBD)"
+    },
+    {
+      "nome": "Netflix",
+      "grupo": "plataformas",
+      "evidence": "deal with streaming giant Netflix"
+    }
+  ],
+  "tags_sugeridas": [
+    "Paramount",
+    "Warner Bros. Discovery",
+    "Netflix",
+    "David Ellison",
+    "Processo judicial",
+    "Streaming"
+  ],
+  "image_alt_texts": {},
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Paramount processa Warner Bros. por detalhes financeiros de acordo com Netflix",
+    "_yoast_wpseo_metadesc": "Paramount entra com processo contra Warner Bros. Discovery exigindo detalhes financeiros do acordo bilionário com a Netflix. Saiba mais.",
+    "_yoast_wpseo_focuskw": "Paramount processa Warner Bros. Netflix",
+    "_yoast_news_keywords": "Paramount, Warner Bros. Discovery, Netflix, David Ellison, Processo judicial, Streaming",
+    "_yoast_wpseo_opengraph-title": "Paramount processa Warner Bros. por detalhes financeiros de acordo com Netflix",
+    "_yoast_wpseo_opengraph-description": "Paramount entra com processo contra Warner Bros. Discovery exigindo detalhes financeiros do acordo bilionário com a Netflix. Saiba mais.",
+    "_yoast_wpseo_twitter-title": "Paramount processa Warner Bros. por detalhes financeiros de acordo com Netflix",
+    "_yoast_wpseo_twitter-description": "Paramount entra com processo contra Warner Bros. Discovery exigindo detalhes financeiros do acordo bilionário com a Netflix. Saiba mais."
+  }
+}

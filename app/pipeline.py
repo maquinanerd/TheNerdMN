@@ -448,6 +448,12 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                             featured_media_id = uploaded_id_map.get(k)
                         if not featured_media_id and uploaded_id_map:
                             featured_media_id = next(iter(uploaded_id_map.values()), None)
+                        
+                        if featured_media_id:
+                            logger.info(f"✅ Featured media set to ID: {featured_media_id}")
+                        else:
+                            logger.warning("⚠️ No featured media available for this post (upload may have failed)")
+
 
                         # SEO meta
                         yoast_meta = rewritten_data.get('yoast_meta', {})
@@ -545,43 +551,44 @@ def worker_loop():
     requests_in_cycle = 0
     MAX_REQUESTS_PER_CYCLE = 10
     PAUSE_ON_LIMIT_S = 300  # 5 minutos
-    last_pause_time = 0
+    last_pause_time = time.time()
+    QUEUE_TIMEOUT_S = 30  # 30 segundos timeout para esperar artigo
 
     while True:
         # Get articles from queue (batch size 1)
         articles = []
-        retry_count = 0
-        max_retries = 30  # Wait up to 30 seconds for 1 article
+        start_wait = time.time()
         
-        while len(articles) < 1 and retry_count < max_retries:
+        # Wait up to QUEUE_TIMEOUT_S for an article to appear in queue
+        while time.time() - start_wait < QUEUE_TIMEOUT_S:
             if article := article_queue.pop():
                 articles.append(article)
+                break
             else:
-                if len(articles) > 0:
-                    # If we have some but not 2, wait a bit more
-                    time.sleep(1)
-                    retry_count += 1
-                else:
-                    # Empty queue, wait longer
-                    time.sleep(2)
-                    retry_count += 1
+                # Esperar um pouco antes de tentar novamente
+                time.sleep(1)
 
         if not articles:
-            # Still no articles after all retries, reset and continue
-            time.sleep(2)
-            # Reset cycle counter after quiet period (1 min)
-            if time.time() - last_pause_time > 60:
+            # Still no articles after timeout, reset cycle counter and continue
+            logger.debug("[WORKER] Nenhum artigo na fila após timeout de 30s")
+            
+            # Reset cycle counter after quiet period (2 minutos sem processar)
+            if time.time() - last_pause_time > 120:
+                logger.info("[RPM PROTECTION] Período de inatividade detectado. Resetando contador de requisições.")
                 requests_in_cycle = 0
+                last_pause_time = time.time()
+            
+            time.sleep(5)  # Esperar 5s antes de tentar novamente
             continue
         
-        # Process whatever we have (1 or 2 articles)
-
-        # Check if we've hit request limit
+        # Check if we've hit request limit BEFORE processing
         if requests_in_cycle >= MAX_REQUESTS_PER_CYCLE:
             logger.warning(
                 f"[RPM PROTECTION] Atingido limite de {MAX_REQUESTS_PER_CYCLE} requisições por ciclo. "
                 f"Pausando pipeline por {PAUSE_ON_LIMIT_S}s (5 minutos)."
             )
+            # Retornar o artigo à fila para processar depois da pausa
+            article_queue.push(articles[0])
             last_pause_time = time.time()
             time.sleep(PAUSE_ON_LIMIT_S)
             requests_in_cycle = 0
@@ -591,6 +598,7 @@ def worker_loop():
         # Process batch and count requests
         process_batch(articles, link_map)
         requests_in_cycle += len(articles)
+        last_pause_time = time.time()  # Atualizar timestamp de última atividade
         
         logger.info(
             f"Worker: {len(articles)} artigos processados. "

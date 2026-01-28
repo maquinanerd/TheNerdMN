@@ -1,0 +1,45 @@
+{
+  "titulo_final": "The Studio: Apple TV+ comédia premiada inicia filmagens da 2ª temporada",
+  "conteudo_final": "<p>A aclamada comédia da Apple TV+, <em>The Studio</em>, recebeu uma atualização animadora sobre as filmagens de sua segunda temporada no Globo de Ouro. A série, estrelada por Seth Rogen, foi recebida positivamente pela crítica em 2025, com uma pontuação de 92% no Rotten Tomatoes. A produção conquistou o prêmio de Melhor Série de Televisão — Musical ou Comédia e Melhor Ator em Série de Televisão — Musical ou Comédia no Globo de Ouro.</p><h2>Atualização sobre as filmagens da 2ª temporada</h2><p>Durante uma conversa com a imprensa nos bastidores do Globo de Ouro, Rogen confirmou que a segunda temporada de <em>The Studio</em> começará a ser filmada na próxima semana. O ator e criador da série sugeriu que elementos da cerimônia de premiação podem ser incorporados na nova temporada, indicando que parte do roteiro já está em desenvolvimento.</p><p>A primeira temporada de <em>The Studio</em> terminou com Matt Remick (interpretado por Rogen) e seus colegas apresentando um painel de sucesso na CinemaCon. Apesar dos contratempos, a apresentação foi bem-sucedida, estabelecendo as bases para os eventos da segunda temporada.</p><div class="body-img landscape mobile-optimized"><div class="responsive-img image-expandable img-article-item" data-img-caption='Matt (Seth Rogen) comemora o sucesso da estreia de seus filmes em The Studio Temporada 1 Episódio 10' data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=70&fit=crop&w=825&dpr=1" data-modal-container-id="single-image-modal-container" data-modal-id="single-image-modal" style="padding-bottom:50%"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=70&amp;fit=crop&amp;w=800&amp;dpr=1"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1"/><img alt="Matt (Seth Rogen) comemora o sucesso da estreia de seus filmes em The Studio Temporada 1 Episódio 10" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" decoding="async" height="413" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/the-studio-seaso-1-ep-10-22.jpg?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" width="825"/></picture><figcaption>Matt (Seth Rogen) comemora o sucesso da estreia de seus filmes em The Studio Temporada 1 Episódio 10</figcaption></figure></div></div><h2>Hollywood e o futuro de The Studio</h2><p>Com base nas declarações de Rogen sobre a segunda temporada de <em>The Studio</em>, a série continuará a parodiar aspectos de Hollywood, ao mesmo tempo em que celebra a arte cinematográfica. Esse equilíbrio foi fundamental para a popularidade da primeira temporada, que rendeu 13 indicações ao Emmy e 3 ao Globo de Ouro.</p><p>Além de confirmar o início das filmagens em breve, Rogen mencionou que a série tem atraído a atenção de estrelas e executivos de Hollywood, muitos dos quais desejam fazer uma participação especial. Dado o elenco repleto de estrelas convidadas na primeira temporada, incluindo Dave Franco e Martin Scorsese, há espaço para muitas outras no futuro.</p><h2>Detalhes da trama e data de lançamento</h2><p>Por enquanto, a natureza exata da história da segunda temporada permanece em sigilo. Além de buscar inspiração em cerimônias de premiação como o Globo de Ouro, ainda não se sabe quais são os planos de Rogen e dos criadores para o desenvolvimento dos eventos. Também não há previsão de retorno da série, visto que novos episódios ainda não começaram a ser filmados.</p><p>Felizmente, as vitórias de <em>The Studio</em> no Globo de Ouro e no Emmy sinalizam a qualidade esperada da série como um todo, incluindo a vindoura segunda temporada. Com o início das filmagens tão próximo, não demorará para que detalhes exatos da trama sejam revelados, incluindo quem mais poderá fazer uma participação especial significativa na série.</p>",
+  "meta_description": "A comédia aclamada da Apple TV+, The Studio, com 92% no Rotten Tomatoes, inicia as filmagens da 2ª temporada em breve. Saiba mais sobre o futuro da série.",
+  "focus_keyphrase": "The Studio 2ª temporada filmagens",
+  "related_keyphrases": [
+    "The Studio Apple TV+",
+    "Seth Rogen The Studio",
+    "Comédia Apple TV+"
+  ],
+  "slug": "the-studio-2-temporada-filmagem",
+  "categorias": [
+    {
+      "nome": "The Studio",
+      "grupo": "obras",
+      "evidence": "Apple TV's acclaimed comedy series The Studio"
+    },
+    {
+      "nome": "Apple TV+",
+      "grupo": "plataformas",
+      "evidence": "Apple TV's acclaimed comedy series"
+    }
+  ],
+  "tags_sugeridas": [
+    "The Studio",
+    "Apple TV+",
+    "Seth Rogen",
+    "Globo de Ouro",
+    "Comédia",
+    "Série de TV"
+  ],
+  "image_alt_texts": {
+    "the-studio-seaso-1-ep-10-22.jpg": "Matt (Seth Rogen) comemora o sucesso da estreia de seus filmes em The Studio Temporada 1 Episódio 10"
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "The Studio: Apple TV+ comédia premiada inicia filmagens da 2ª temporada",
+    "_yoast_wpseo_metadesc": "A comédia aclamada da Apple TV+, The Studio, com 92% no Rotten Tomatoes, inicia as filmagens da 2ª temporada em breve. Saiba mais sobre o futuro da série.",
+    "_yoast_wpseo_focuskw": "The Studio 2ª temporada filmagens",
+    "_yoast_news_keywords": "The Studio, Apple TV+, Seth Rogen, Globo de Ouro, Comédia, Série de TV, Filmagem",
+    "_yoast_wpseo_opengraph-title": "The Studio: Apple TV+ comédia premiada inicia filmagens da 2ª temporada",
+    "_yoast_wpseo_opengraph-description": "A comédia aclamada da Apple TV+, The Studio, com 92% no Rotten Tomatoes, inicia as filmagens da 2ª temporada em breve. Saiba mais sobre o futuro da série.",
+    "_yoast_wpseo_twitter-title": "The Studio: Apple TV+ comédia premiada inicia filmagens da 2ª temporada",
+    "_yoast_wpseo_twitter-description": "A comédia aclamada da Apple TV+, The Studio, com 92% no Rotten Tomatoes, inicia as filmagens da 2ª temporada em breve. Saiba mais sobre o futuro da série."
+  }
+}

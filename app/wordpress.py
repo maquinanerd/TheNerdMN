@@ -276,23 +276,69 @@ class WordPressClient:
 
             posts_endpoint = f"{self.api_url}/posts"
             payload.setdefault('status', 'publish')
-
-            # Log a summary of the payload to avoid overly long logs
+            
+            # Clean up payload: remove fields WordPress REST API doesn't accept
+            # Only send recognized fields to avoid 500 errors
+            safe_fields = ['title', 'slug', 'content', 'excerpt', 'categories', 'tags', 'featured_media', 'status']
+            clean_payload = {k: v for k, v in payload.items() if k in safe_fields}
+            
+            # Remove featured_media if it's 0 or None (invalid)
+            if 'featured_media' in clean_payload:
+                if not clean_payload['featured_media'] or clean_payload['featured_media'] == 0:
+                    logger.warning("Featured media ID is invalid (0 or None). Removing from payload.")
+                    del clean_payload['featured_media']
+                else:
+                    # Ensure it's an integer
+                    clean_payload['featured_media'] = int(clean_payload['featured_media'])
+            
+            # Ensure title is plain text (no HTML tags)
+            if 'title' in clean_payload and clean_payload['title']:
+                title = clean_payload['title']
+                # Remove any HTML tags that might have leaked into the title
+                title = re.sub(r'<[^>]+>', '', title).strip()
+                clean_payload['title'] = title
+            
+            # Sanitize content to prevent malformed HTML
+            if 'content' in clean_payload and clean_payload['content']:
+                content = clean_payload['content']
+                # Replace problematic whitespace characters
+                content = content.replace('\u00a0', ' ')  # Non-breaking space
+                clean_payload['content'] = content
+            
+            # Ensure minimum content length
+            if 'content' not in clean_payload or not clean_payload.get('content', '').strip():
+                logger.error("ERROR: Post content is empty or missing. Cannot publish empty post.")
+                return None
+            
+            if len(clean_payload['content']) < 100:
+                logger.error(f"ERROR: Post content too short ({len(clean_payload['content'])} chars). Minimum 100 required.")
+                return None
+            
+            # Ensure categories is a valid list of integers
+            if 'categories' in clean_payload and clean_payload['categories']:
+                try:
+                    clean_payload['categories'] = [int(c) for c in clean_payload['categories'] if c]
+                except (ValueError, TypeError) as e:
+                    logger.warning(f"Invalid category IDs, removing: {e}")
+                    del clean_payload['categories']
+            
+            # Log a summary of the payload
             try:
                 logger.info(
-                    "WP payload: title_len=%d content_len=%d cat=%s tags=%s",
-                    len(payload.get('title', '')),
-                    len(payload.get('content', '')),
-                    payload.get('categories'),
-                    payload.get('tags')
+                    "WP payload: title_len=%d content_len=%d featured_media=%s cat=%s tags=%s",
+                    len(clean_payload.get('title', '')),
+                    len(clean_payload.get('content', '')),
+                    clean_payload.get('featured_media', 'None'),
+                    clean_payload.get('categories'),
+                    clean_payload.get('tags')
                 )
                 if logger.isEnabledFor(logging.DEBUG):
-                    log_payload = json.dumps(payload, indent=2, ensure_ascii=False)
-                    logger.debug(f"Sending full payload to WordPress:\n{log_payload}")
+                    log_payload = json.dumps(clean_payload, indent=2, ensure_ascii=False)
+                    logger.debug(f"Sending clean payload to WordPress:\n{log_payload}")
             except Exception as log_e:
                 logger.warning(f"Could not serialize payload for logging: {log_e}")
 
-            response = self.session.post(posts_endpoint, json=payload, timeout=60)
+            response = self.session.post(posts_endpoint, json=clean_payload, timeout=60)
             
             if not response.ok:
                 logger.error(f"WordPress post creation failed with status {response.status_code}: {response.text}")
