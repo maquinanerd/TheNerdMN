@@ -61,7 +61,11 @@ class WordPressClient:
                 if item.get('slug') == slug:
                     return int(item['id'])
         except requests.RequestException as e:
-            logger.error(f"Error searching for tag '{name}': {e}")
+            logger.error(
+                f"❌ ERRO ao buscar tag '{name}' | "
+                f"Exceção: {type(e).__name__} | "
+                f"Mensagem: {str(e)[:200]}"
+            )
         
         return None
 
@@ -75,19 +79,30 @@ class WordPressClient:
             
             if r.status_code in (200, 201):
                 tag_id = int(r.json()['id'])
-                logger.info(f"Created new tag '{name}' with ID {tag_id}.")
+                logger.info(f"✅ Tag criada com sucesso | Nome: '{name}' | ID: {tag_id} | Tempo: {r.elapsed.total_seconds():.2f}s")
                 return tag_id
             
             # Handle race condition where tag was created between search and post
             if r.status_code == 400 and isinstance(r.json(), dict) and r.json().get("code") == "term_exists":
-                logger.warning(f"Tag '{name}' already exists (race condition). Re-fetching ID.")
+                logger.warning(f"⚠️  Tag '{name}' já existe (race condition). Re-buscando ID...")
                 return self._get_existing_tag_id(name)
             
+            logger.error(
+                f"❌ ERRO ao criar tag '{name}' | "
+                f"Status: {r.status_code} | "
+                f"Endpoint: {tags_endpoint} | "
+                f"Resposta: {r.text[:300]}"
+            )
             r.raise_for_status()
         except requests.RequestException as e:
-            logger.error(f"Error creating tag '{name}': {e}")
+            logger.error(
+                f"❌ ERRO na requisição ao criar tag '{name}' | "
+                f"Exceção: {type(e).__name__} | "
+                f"Mensagem: {str(e)[:200]}"
+            )
             if e.response is not None:
-                logger.error(f"Response body: {e.response.text}")
+                logger.error(f"   Response Status: {e.response.status_code}")
+                logger.error(f"   Response Body: {e.response.text[:300]}")
 
         return None
 
@@ -140,7 +155,11 @@ class WordPressClient:
                 if item.get('slug') == slug:
                     return int(item['id'])
         except requests.RequestException as e:
-            logger.error(f"Error searching for category '{name}': {e}")
+            logger.error(
+                f"❌ ERRO ao buscar categoria '{name}' | "
+                f"Exceção: {type(e).__name__} | "
+                f"Mensagem: {str(e)[:200]}"
+            )
         
         return None
 
@@ -154,18 +173,29 @@ class WordPressClient:
             
             if r.status_code in (200, 201):
                 cat_id = int(r.json()['id'])
-                logger.info(f"Created new category '{name}' with ID {cat_id}.")
+                logger.info(f"✅ Categoria criada com sucesso | Nome: '{name}' | ID: {cat_id} | Tempo: {r.elapsed.total_seconds():.2f}s")
                 return cat_id
             
             if r.status_code == 400 and isinstance(r.json(), dict) and r.json().get("code") == "term_exists":
-                logger.warning(f"Category '{name}' already exists (race condition). Re-fetching ID.")
+                logger.warning(f"⚠️  Categoria '{name}' já existe (race condition). Re-buscando ID...")
                 return self._get_existing_category_id(name)
             
+            logger.error(
+                f"❌ ERRO ao criar categoria '{name}' | "
+                f"Status: {r.status_code} | "
+                f"Endpoint: {endpoint} | "
+                f"Resposta: {r.text[:300]}"
+            )
             r.raise_for_status()
         except requests.RequestException as e:
-            logger.error(f"Error creating category '{name}': {e}")
+            logger.error(
+                f"❌ ERRO na requisição ao criar categoria '{name}' | "
+                f"Exceção: {type(e).__name__} | "
+                f"Mensagem: {str(e)[:200]}"
+            )
             if e.response is not None:
-                logger.error(f"Response body: {e.response.text}")
+                logger.error(f"   Response Status: {e.response.status_code}")
+                logger.error(f"   Response Body: {e.response.text[:300]}")
 
         return None
 
@@ -209,6 +239,7 @@ class WordPressClient:
                 img_response = requests.get(image_url, timeout=25)
                 img_response.raise_for_status()
                 content_type = img_response.headers.get('Content-Type', 'image/jpeg')
+                img_size = len(img_response.content)
                 # Sanitize filename
                 filename = (urlparse(image_url).path.split('/')[-1] or "image.jpg").split("?")[0]
 
@@ -220,19 +251,29 @@ class WordPressClient:
                 }
                 wp_response = self.session.post(media_endpoint, headers=headers, data=img_response.content, timeout=40)
                 wp_response.raise_for_status()
-                logger.info(f"Successfully uploaded image: {image_url}")
+                media_id = wp_response.json().get('id')
+                logger.info(f"MEDIA OK: ID {media_id} | {filename} ({img_size} bytes)")
+                logger.debug(f"  Content-Type: {content_type}")
+                logger.debug(f"  Tempo: {wp_response.elapsed.total_seconds():.2f}s")
                 return wp_response.json() # Success
 
             except (requests.Timeout, requests.ConnectionError) as e:
                 last_err = e
-                logger.warning(f"Upload attempt {attempt}/{max_attempts} for '{image_url}' failed with network error: {e}. Retrying in {2*attempt}s...")
+                logger.warning(f"MEDIA RETRY {attempt}/{max_attempts}: {type(e).__name__} | Aguardando {2*attempt}s...")
                 time.sleep(2 * attempt)  # Simple backoff
             except Exception as e:
                 last_err = e
-                logger.error(f"Upload of '{image_url}' failed with non-retriable error: {e}")
+                logger.error(f"MEDIA ERRO ({attempt}/{max_attempts}): {type(e).__name__}: {str(e)[:150]}")
+                if hasattr(e, 'response') and e.response is not None:
+                    logger.error(f"  Status: {e.response.status_code}")
+                    try:
+                        resp_json = e.response.json()
+                        logger.error(f"  Erro WordPress: {resp_json.get('code', 'N/A')} - {resp_json.get('message', 'N/A')[:200]}")
+                    except:
+                        logger.error(f"  Response: {e.response.text[:300]}")
                 break # Don't retry on WP errors (4xx, 5xx) or other issues
 
-        logger.error(f"Final failure to upload image '{image_url}' after {attempt} attempt(s): {last_err}")
+        logger.error(f"MEDIA FALHOU: {filename} apos {attempt} tentativa(s) | Erro: {type(last_err).__name__}")
         return None
 
     def set_media_alt_text(self, media_id: int, alt_text: str) -> bool:
@@ -270,6 +311,35 @@ class WordPressClient:
     def create_post(self, payload: Dict[str, Any]) -> Optional[int]:
         """Creates a new post in WordPress."""
         try:
+            # Validar tamanho do payload ANTES de enviar
+            payload_size = len(json.dumps(payload))
+            post_title = payload.get('title', 'SEM TITULO')[:60]
+            
+            # Se exceder 30KB, tentar reduzir conteúdo
+            if payload_size > 30000:  # 30KB limit (mais realista que 15KB)
+                logger.warning(f"POST GRANDE: {payload_size} bytes (limite: 30KB). Tentando reduzir conteúdo...")
+                
+                # Estratégia 1: Remover parágrafos repetitivos ou muito curtos
+                if 'content' in payload and payload['content']:
+                    content = payload['content']
+                    # Remove múltiplos parágrafos vazios
+                    content = re.sub(r'<!-- /wp:paragraph -->\s*<!-- wp:paragraph -->', '', content)
+                    # Remove parágrafos com menos de 30 chars
+                    content = re.sub(r'<!-- wp:paragraph -->\s*<p>\s*.{0,25}\s*<\/p>\s*<!-- /wp:paragraph -->', '', content, flags=re.IGNORECASE)
+                    payload['content'] = content
+                    
+                    # Recalcular tamanho após redução
+                    new_payload_size = len(json.dumps(payload))
+                    logger.info(f"Conteúdo reduzido: {payload_size} → {new_payload_size} bytes")
+                    payload_size = new_payload_size
+            
+            if payload_size > 30000:  # Ainda muito grande
+                logger.error(f"POST GRANDE DEMAIS: {payload_size} bytes (limite: 30KB)")
+                logger.error(f"  Titulo: {post_title}")
+                logger.error(f"  Content: {len(payload.get('content', ''))} chars")
+                logger.error(f"  Featured media: {payload.get('featured_media')}")
+                return None
+            
             # Resolve tag names to integer IDs before sending
             if 'tags' in payload and payload['tags']:
                 payload['tags'] = self._ensure_tag_ids(payload['tags'])
@@ -303,15 +373,47 @@ class WordPressClient:
                 content = clean_payload['content']
                 # Replace problematic whitespace characters
                 content = content.replace('\u00a0', ' ')  # Non-breaking space
+                content = content.replace('\u2002', ' ')  # En space
+                content = content.replace('\u2003', ' ')  # Em space
+                content = content.replace('\u200b', '')   # Zero-width space (remove)
+                # Remove only truly problematic control characters (not whitespace)
+                content = ''.join(char for char in content if ord(char) >= 32 or char in '\n\r\t' or ord(char) in [0x0B])
+                # Clean up multiple consecutive spaces (but keep single spaces)
+                content = re.sub(r' {2,}', ' ', content)
                 clean_payload['content'] = content
+            
+            # Sanitize excerpt
+            if 'excerpt' in clean_payload and clean_payload['excerpt']:
+                excerpt = clean_payload['excerpt']
+                excerpt = excerpt.replace('\u00a0', ' ')
+                excerpt = ''.join(char for char in excerpt if ord(char) >= 32 or char in '\n\r\t')
+                clean_payload['excerpt'] = excerpt
+            
+            # Sanitize title
+            if 'title' in clean_payload and clean_payload['title']:
+                title = clean_payload['title']
+                title = title.replace('\u00a0', ' ')
+                title = ''.join(char for char in title if ord(char) >= 32 or char in '\n\r\t')
+                clean_payload['title'] = title
             
             # Ensure minimum content length
             if 'content' not in clean_payload or not clean_payload.get('content', '').strip():
-                logger.error("ERROR: Post content is empty or missing. Cannot publish empty post.")
+                logger.error("POST ERRO: Conteudo vazio. Cancelando publicacao")
                 return None
             
-            if len(clean_payload['content']) < 100:
-                logger.error(f"ERROR: Post content too short ({len(clean_payload['content'])} chars). Minimum 100 required.")
+            content_length = len(clean_payload['content'])
+            if content_length < 100:
+                logger.error(f"POST ERRO: Conteudo muito curto ({content_length} chars). Minimo: 100 chars")
+                return None
+            
+            # Validar título
+            if 'title' not in clean_payload or not clean_payload.get('title', '').strip():
+                logger.error("POST ERRO: Titulo vazio. Cancelando publicacao")
+                return None
+            
+            title_length = len(clean_payload['title'])
+            if title_length < 3:
+                logger.error(f"POST ERRO: Titulo muito curto ({title_length} chars). Minimo: 3 chars")
                 return None
             
             # Ensure categories is a valid list of integers
@@ -319,34 +421,180 @@ class WordPressClient:
                 try:
                     clean_payload['categories'] = [int(c) for c in clean_payload['categories'] if c]
                 except (ValueError, TypeError) as e:
-                    logger.warning(f"Invalid category IDs, removing: {e}")
+                    logger.warning(f"Categorias invalidas, removendo: {e}")
                     del clean_payload['categories']
             
-            # Log a summary of the payload
+            # VALIDAR CATEGORIAS - remover as que não existem no WordPress
+            if 'categories' in clean_payload and clean_payload['categories']:
+                try:
+                    valid_categories = []
+                    cats_endpoint = f"{self.api_url}/categories"
+                    
+                    # Buscar todas as categorias disponíveis
+                    all_cats_response = self.session.get(
+                        cats_endpoint, 
+                        params={"per_page": 100, "orderby": "id", "order": "asc"},
+                        timeout=30
+                    )
+                    
+                    if all_cats_response.ok:
+                        all_cats = all_cats_response.json()
+                        valid_cat_ids = set(cat['id'] for cat in all_cats)
+                        
+                        # Filtrar apenas categorias que existem
+                        for cat_id in clean_payload['categories']:
+                            if cat_id in valid_cat_ids:
+                                valid_categories.append(cat_id)
+                            else:
+                                logger.warning(f"⚠️  Categoria {cat_id} não existe no WordPress, removendo")
+                        
+                        if valid_categories:
+                            clean_payload['categories'] = valid_categories
+                            logger.info(f"✅ Categorias validadas: {valid_categories}")
+                        else:
+                            logger.warning("⚠️  Nenhuma categoria válida encontrada, removendo todas")
+                            del clean_payload['categories']
+                    else:
+                        logger.warning(f"Não conseguiu validar categorias (erro {all_cats_response.status_code}), enviando assim mesmo")
+                        
+                except Exception as cat_err:
+                    logger.warning(f"Erro ao validar categorias: {cat_err}, enviando assim mesmo")
+            
+            # Log ANTES da requisição - informação resumida
+            post_title = clean_payload.get('title', 'SEM TITULO')[:80]
+            logger.info(f"POST CRIAR: '{post_title}'")
+            logger.info(f"  WP payload: title_len={len(clean_payload.get('title', ''))} content_len={len(clean_payload.get('content', ''))} cat={clean_payload.get('categories', [])} tags={clean_payload.get('tags', [])}")
+            
+            # Validação extra: tentar serializar para JSON e validar
             try:
-                logger.info(
-                    "WP payload: title_len=%d content_len=%d featured_media=%s cat=%s tags=%s",
-                    len(clean_payload.get('title', '')),
-                    len(clean_payload.get('content', '')),
-                    clean_payload.get('featured_media', 'None'),
-                    clean_payload.get('categories'),
-                    clean_payload.get('tags')
-                )
-                if logger.isEnabledFor(logging.DEBUG):
-                    log_payload = json.dumps(clean_payload, indent=2, ensure_ascii=False)
-                    logger.debug(f"Sending clean payload to WordPress:\n{log_payload}")
-            except Exception as log_e:
-                logger.warning(f"Could not serialize payload for logging: {log_e}")
+                test_json = json.dumps(clean_payload, ensure_ascii=False)
+                logger.debug(f"JSON válido: {len(test_json)} bytes")
+            except Exception as json_err:
+                logger.error(f"ERRO: Payload não é JSON válido: {str(json_err)[:200]}")
+                logger.error(f"  Título: {clean_payload.get('title')[:100]}")
+                logger.error(f"  Conteúdo (primeiros 100): {clean_payload.get('content', '')[:100]}")
+                return None
+            logger.debug(f"  - Tamanho conteudo: {len(clean_payload.get('content', ''))} chars")
+            logger.debug(f"  - Featured image: {clean_payload.get('featured_media', 'nenhuma')}")
+            logger.debug(f"  - Categorias: {clean_payload.get('categories', [])}")
+            logger.debug(f"  - Tags: {clean_payload.get('tags', [])}")
+            
+            # Log do payload completo APENAS em DEBUG mode
+            if logger.isEnabledFor(logging.DEBUG):
+                try:
+                    log_payload = json.dumps(clean_payload, indent=2, ensure_ascii=False)[:2000]
+                    logger.debug(f"PAYLOAD JSON:\n{log_payload}")
+                except Exception as log_e:
+                    logger.warning(f"Nao conseguiu serializar payload: {log_e}")
 
             response = self.session.post(posts_endpoint, json=clean_payload, timeout=60)
             
-            if not response.ok:
-                logger.error(f"WordPress post creation failed with status {response.status_code}: {response.text}")
-                response.raise_for_status()
+            # Log DEPOIS da resposta
+            post_id = response.json().get('id') if response.ok else None
+            
+            if response.ok and post_id and post_id > 0:  # Validar que tem ID válido
+                logger.info(f"POST OK: ID {post_id} criado com sucesso em {response.elapsed.total_seconds():.2f}s")
+                return post_id
+            elif response.status_code == 500:
+                # ERRO 500 - CAPTURAR TUDO PARA DEBUG DETALHADO
+                logger.error("=" * 100)
+                logger.error("🔴 ERRO 500 DO WORDPRESS - ANÁLISE COMPLETA")
+                logger.error("=" * 100)
+                
+                # 1. Informações da requisição
+                logger.error(f"REQUISIÇÃO ENVIADA:")
+                logger.error(f"  URL: {posts_endpoint}")
+                logger.error(f"  Método: POST")
+                logger.error(f"  Auth: {'Sim (Basic Auth)' if self.user else 'Não'}")
+                logger.error(f"  Headers: {dict(self.session.headers)}")
+                logger.error(f"  Tamanho do payload: {len(json.dumps(clean_payload))} bytes")
+                
+                # 2. Conteúdo enviado (payload completo)
+                logger.error(f"\nPAYLOAD ENVIADO (JSON COMPLETO):")
+                try:
+                    payload_json = json.dumps(clean_payload, indent=2, ensure_ascii=False)
+                    logger.error(payload_json)
+                except Exception as e:
+                    logger.error(f"Erro ao serializar payload: {e}")
+                
+                # 3. Resposta do WordPress (TUDO)
+                logger.error(f"\nRESPOSTA DO WORDPRESS:")
+                logger.error(f"  Status Code: {response.status_code}")
+                logger.error(f"  Headers Response: {dict(response.headers)}")
+                logger.error(f"  Content-Type: {response.headers.get('content-type')}")
+                logger.error(f"  Content-Length: {len(response.text)} bytes")
+                
+                # 4. Corpo da resposta (COMPLETO, não truncado)
+                logger.error(f"\nCORPO DA RESPOSTA (COMPLETO):")
+                logger.error(f"{response.text}")
+                
+                # 5. Tentar parsear como JSON
+                logger.error(f"\nANÁLISE JSON DA RESPOSTA:")
+                try:
+                    resp_json = response.json()
+                    logger.error(json.dumps(resp_json, indent=2, ensure_ascii=False))
+                except Exception as json_err:
+                    logger.error(f"  Não é JSON válido: {json_err}")
+                    logger.error(f"  Tipo MIME: {response.headers.get('content-type')}")
+                
+                # 6. Salvar em arquivo de debug
+                debug_file = f"debug/wordpress_error_500_{int(time.time())}.txt"
+                try:
+                    import os
+                    os.makedirs('debug', exist_ok=True)
+                    with open(debug_file, 'w', encoding='utf-8') as f:
+                        f.write(f"ERRO 500 - {post_title}\n")
+                        f.write("=" * 100 + "\n\n")
+                        f.write(f"PAYLOAD ENVIADO:\n{json.dumps(clean_payload, indent=2, ensure_ascii=False)}\n\n")
+                        f.write(f"RESPOSTA WORDPRESS:\n{response.text}\n")
+                    logger.error(f"  ✅ Debug salvo em: {debug_file}")
+                except Exception as file_err:
+                    logger.error(f"  ❌ Erro ao salvar debug: {file_err}")
+                
+                logger.error("=" * 100)
+                logger.error("❌ TENTANDO NOVAMENTE...")
+                logger.error("=" * 100)
+                
+                # Tentar novamente
+                logger.info(f"  Tentativa 2: Reenviando artigo completo (sem remoção de conteúdo)")
+                
+                try:
+                    response2 = self.session.post(posts_endpoint, json=clean_payload, timeout=60)
+                    post_id2 = response2.json().get('id') if response2.ok else None
+                    
+                    if response2.ok and post_id2 and post_id2 > 0:
+                        logger.info(f"✅ POST CRIADO NA TENTATIVA 2: ID {post_id2}")
+                        return post_id2
+                    else:
+                        logger.error(f"❌ Tentativa 2 também falhou com status {response2.status_code}")
+                        logger.error(f"  Resposta: {response2.text}")
+                except Exception as retry_err:
+                    logger.error(f"❌ Tentativa 2 exception: {str(retry_err)[:500]}")
+            
+            # ERRO na criacao - log detalhado
+            logger.error(f"WordPress post creation failed with status {response.status_code}: {response.text[:500]}")
+            
+            # Log a resposta de erro detalhada
+            try:
+                error_data = response.json()
+                error_msg = error_data.get('message', 'sem mensagem')
+                error_code = error_data.get('code', 'sem codigo')
+                logger.error(f"ERROR - wordpress - WordPress post creation failed with status {response.status_code}")
+                logger.error(f"ERROR - wordpress - Failed to create WordPress post: {response.status_code} Server Error: Internal Server Error for url: {posts_endpoint}")
+            except:
+                pass
+                logger.error(f"  Resposta: {response.text[:300]}")
+            
+            response.raise_for_status()
 
-            return response.json().get('id')
         except requests.RequestException as e:
-            logger.error(f"Failed to create WordPress post: {e}", exc_info=False)
+            logger.error(f"POST ERRO: Excecao {type(e).__name__}: {str(e)[:200]}")
+            if hasattr(e, 'response') and e.response is not None:
+                logger.error(f"  Status: {e.response.status_code}")
+                try:
+                    logger.error(f"  Response JSON: {json.dumps(e.response.json(), indent=2)[:500]}")
+                except:
+                    logger.error(f"  Response: {e.response.text[:300]}")
             return None
 
     def get_post_content(self, post_id: int) -> Optional[str]:
@@ -358,11 +606,19 @@ class WordPressClient:
             r.raise_for_status()
             data = r.json() or {}
             content = data.get("content", {})
-            return content.get("raw") or content.get("rendered")
+            result = content.get("raw") or content.get("rendered")
+            logger.debug(f"✅ Conteúdo do post {post_id} recuperado | Tamanho: {len(result) if result else 0} chars | Tempo: {r.elapsed.total_seconds():.2f}s")
+            return result
         except requests.RequestException as e:
-            logger.error(f"Failed to fetch content for post {post_id}: {e}")
+            logger.error(
+                f"❌ ERRO ao buscar conteúdo do post {post_id} | "
+                f"Exceção: {type(e).__name__} | "
+                f"Mensagem: {str(e)[:200]} | "
+                f"Endpoint: {endpoint}"
+            )
             if getattr(e, "response", None) is not None:
-                logger.error(f"Response body: {e.response.text}")
+                logger.error(f"   Response Status: {e.response.status_code}")
+                logger.error(f"   Response Body: {e.response.text[:500]}")
             return None
 
     def update_post_content(self, post_id: int, content: str) -> bool:
@@ -372,12 +628,26 @@ class WordPressClient:
         try:
             r = self.session.post(endpoint, json=payload, timeout=40)
             if not r.ok:
-                logger.error(f"Failed to update post {post_id} content: {r.status_code} - {r.text}")
+                logger.error(
+                    f"❌ ERRO ao atualizar conteúdo do post {post_id} | "
+                    f"Status: {r.status_code} | "
+                    f"Tamanho do conteúdo: {len(content)} chars | "
+                    f"Tempo: {r.elapsed.total_seconds():.2f}s | "
+                    f"Resposta: {r.text[:500]}"
+                )
                 r.raise_for_status()
-            logger.info(f"Successfully updated post {post_id} content after sanitation.")
+            logger.info(f"✅ Conteúdo do post {post_id} atualizado com sucesso | Tamanho: {len(content)} chars | Tempo: {r.elapsed.total_seconds():.2f}s")
             return True
         except requests.RequestException as e:
-            logger.error(f"Error updating post {post_id}: {e}")
+            logger.error(
+                f"❌ ERRO ao atualizar post {post_id} | "
+                f"Exceção: {type(e).__name__} | "
+                f"Mensagem: {str(e)[:200]} | "
+                f"Endpoint: {endpoint}"
+            )
+            if hasattr(e, 'response') and e.response is not None:
+                logger.error(f"   Response Status: {e.response.status_code}")
+                logger.error(f"   Response Body: {e.response.text[:500]}")
             if getattr(e, "response", None) is not None:
                 logger.error(f"Response body: {e.response.text}")
             return False

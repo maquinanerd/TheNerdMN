@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Chris Hemsworth reage ao retorno de Chris Evans em Vingadores: Doomsday",
+      "conteudo_final": "<p>Chris Hemsworth comenta o retorno de Chris Evans em <strong><em>Vingadores: Doomsday</em></strong>. O próximo filme do Universo Cinematográfico Marvel (MCU) encerrará a Saga do Multiverso, com os Vingadores enfrentando seu maior desafio: Doutor Destino. Embora Robert Downey Jr. interprete o vilão, Evans reprisará seu papel como Steve Rogers, conforme confirmado por um teaser em dezembro de 2025. Agora, Hemsworth quebra o silêncio sobre a surpresa.</p><h2>Reação de Hemsworth ao Retorno de Evans</h2><p>Em entrevista à <em>Gamesradar+</em> para promover <em>Crime 101</em>, Hemsworth declarou que \"foi muito legal quando [Chris] Evans aparece na moto, e como ninguém sabia que ele estaria no filme, e então ele está lá\". Ele reforçou que o momento foi \"legal\", especialmente porque Evans se tornou pai de uma menina no ano passado: \"Eu achei muito legal. E ele teve um bebê na vida real e na vida da Marvel.\"</p><p>O primeiro teaser de <strong><em>Vingadores: Doomsday</em></strong> confirmou surpreendentemente a participação de Steve Rogers no novo filme do MCU, embora as circunstâncias ainda sejam incertas. A cena mostrou o Capitão América original pilotando sua moto, seguida pela revelação de seu bebê recém-nascido.</p><figure class="video-container"><iframe src=\"https://www.youtube.com/embed/example\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen></iframe></figure><h2>Thor e Outros Personagens em Vingadores: Doomsday</h2><p>O segundo mini-trailer focou em um Thor preocupado, que reza a seu pai Odin por força para enfrentar mais uma grande ameaça. Com os dois primeiros teasers centrados nos membros originais dos Vingadores, especula-se que Steve e Thor sejam peças centrais na luta contra Doutor Destino. Teasers posteriores também destacaram os X-Men, Wakanda e o Quarteto Fantástico.</p><p>Embora Hemsworth não detalhe o retorno de Evans, seus personagens possuem uma forte relação por serem os primeiros Vingadores e por sua dignidade em empunhar o Mjolnir. No entanto, o reencontro em tela pode ser complicado, considerando que Steve voltou no tempo para ficar com Peggy Carter no final de <strong><em>Vingadores: Ultimato</em></strong>.</p><figure><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/thor-praying-with-stormbreaker-in-avengers-doomsday-trailer.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2\" alt=\"Thor orando com o Rompe-Tormentas em trailer de Vingadores: Doomsday\" loading=\"lazy\"/><figcaption>Thor aparece em momento de oração no trailer de Vingadores: Doomsday.</figcaption></figure><h2>O Papel de Steve Rogers no MCU</h2><p>Apesar do mistério sobre o retorno de Steve, os Irmãos Russo compartilharam com a <em>Empire Magazine</em> que \"Seu papel central nos Vingadores e na narrativa maior do que o MCU tem sido algo muito pessoal para nós. Não podemos ver essa narrativa sem seu papel central nela\". Isso faz sentido, já que a dupla de cineastas é experiente em retratar a história do supersoldado em <em>Capitão América: O Soldado Invernal</em> e <em>Guerra Civil</em>.</p><p>Os detalhes da trama de <strong><em>Vingadores: Doomsday</em></strong> permanecem em sigilo, embora um trailer completo seja esperado nos próximos meses. Por enquanto, os teasers e outras atualizações confirmam que três dos seis astros originais de <em>Vingadores</em> (2012) aparecerão na próxima produção do MCU, enquanto Mark Ruffalo, Jeremy Renner e Scarlett Johansson ainda são incertos.</p><p><strong><em>Vingadores: Doomsday</em> estreia nos cinemas em 18 de dezembro de 2026.</strong></p>",
+      "meta_description": "Chris Hemsworth comenta a surpresa do retorno de Chris Evans como Capitão América em Vingadores: Doomsday, filme que encerra a Saga do Multiverso em 2026.",
+      "focus_keyphrase": "Chris Evans Vingadores Doomsday",
+      "related_keyphrases": [
+        "Chris Hemsworth Vingadores Doomsday",
+        "Capitão América retorno MCU",
+        "Vingadores Doomsday elenco"
+      ],
+      "slug": "chris-evans-vingadores-doomsday-hemsworth",
+      "categorias": [
+        {
+          "nome": "Vingadores",
+          "grupo": "franquias",
+          "evidence": "<em>Vingadores: Doomsday</em>"
+        },
+        {
+          "nome": "MCU",
+          "grupo": "franquias",
+          "evidence": "próximo filme do Universo Cinematográfico Marvel (MCU)"
+        },
+        {
+          "nome": "Capitão América",
+          "grupo": "personagens",
+          "evidence": "Evans reprisará seu papel como Steve Rogers"
+        }
+      ],
+      "tags_sugeridas": [
+        "Vingadores Doomsday",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Capitão América",
+        "MCU",
+        "Marvel Studios",
+        "Steve Rogers"
+      ],
+      "image_alt_texts": {
+        "thor-praying-with-stormbreaker-in-avengers-doomsday-trailer.jpg": "Thor orando com o Rompe-Tormentas em trailer de Vingadores: Doomsday."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Chris Hemsworth reage ao retorno de Chris Evans em Vingadores: Doomsday",
+        "_yoast_wpseo_metadesc": "Chris Hemsworth comenta a surpresa do retorno de Chris Evans como Capitão América em Vingadores: Doomsday, filme que encerra a Saga do Multiverso em 2026.",
+        "_yoast_wpseo_focuskw": "Chris Evans Vingadores Doomsday",
+        "_yoast_news_keywords": "Chris Evans,Chris Hemsworth,Vingadores Doomsday,Capitão América,MCU,Marvel Studios,Steve Rogers",
+        "_yoast_wpseo_opengraph-title": "Chris Hemsworth reage ao retorno de Chris Evans em Vingadores: Doomsday",
+        "_yoast_wpseo_opengraph-description": "Chris Hemsworth comenta a surpresa do retorno de Chris Evans como Capitão América em Vingadores: Doomsday, filme que encerra a Saga do Multiverso em 2026.",
+        "_yoast_wpseo_twitter-title": "Chris Hemsworth reage ao retorno de Chris Evans em Vingadores: Doomsday",
+        "_yoast_wpseo_twitter-description": "Chris Hemsworth comenta a surpresa do retorno de Chris Evans como Capitão América em Vingadores: Doomsday, filme que encerra a Saga do Multiverso em 2026."
+      }
+    }
+  ]
+}

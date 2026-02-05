@@ -959,7 +959,7 @@ class ContentExtractor:
             article_soup = BeautifulSoup(content_html, 'lxml')
             self._remove_forbidden_blocks(article_soup)
             
-            # 9.5) 🚨 REMOVER CTAs AGRESSIVAMENTE (NOVO)
+            # 9.5) REMOVER CTAs AGRESSIVAMENTE (NOVO)
             # Remove qualquer parágrafo/div que contenha frases de CTA
             cta_phrases = [
                 'thank you for reading',
@@ -989,7 +989,7 @@ class ContentExtractor:
                     continue
                 text = (elem.get_text(strip=True) or "").lower()
                 if any(cta in text for cta in cta_phrases):
-                    logger.warning(f"🚨 CTA removido do extractor: {text[:60]}")
+                    logger.warning(f"CTA REMOVIDO: {text[:60]}")
                     elem.decompose()
 
             # 10) Seleciona imagens do corpo (excluindo a destacada)

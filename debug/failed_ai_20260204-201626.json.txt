@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Channing Tatum e Jonah Hill: Comédia 21 Jump Street precisa de final oficial",
+      "conteudo_final": "<p>Já se passaram 14 anos desde o lançamento do sucesso de comédia moderno <strong><em>21 Jump Street</em></strong>, estrelado por Channing Tatum e Jonah Hill. É difícil acreditar que Hollywood deixou passar a oportunidade do que poderia ter sido a melhor trilogia de comédia dos anos 2010.</p><h2>21 Jump Street e sua sequência foram o auge da comédia dos anos 2010</h2><p><em>21 Jump Street</em> e <em>22 Jump Street</em> são as melhores sequências de comédia lançadas nos anos 2010. Embora se possa argumentar que a franquia <em>Pitch Perfect</em> seja a melhor franquia de comédia da década, as comédias <em>Jump Street</em> alcançaram o feito raro de não apenas produzir uma sequência forte, mas também de criar um filme mais lucrativo com aclamação crítica igualmente alta.</p><p><em>21 Jump Street</em> obteve uma pontuação de 85% no Rotten Tomatoes, enquanto <em>22 Jump Street</em> alcançou 84%. O primeiro filme gerou cerca de US$ 201 milhões em bilheteria, e a sequência arrecadou mais de US$ 331 milhões mundialmente. Essas métricas são notáveis, considerando quantos blockbusters de comédia falharam em se estender para uma franquia consistentemente forte após o lançamento original.</p><p>Diante disso, os fãs ficam sem entender como <em>23 Jump Street</em> nunca se concretizou. A resposta simples é que houve um conceito para <em>23 Jump Street</em> que envolvia um crossover com a franquia rebootada <em>Men in Black</em> na Sony no final dos anos 2010, resultando no criticado <em>Men in Black: International</em>. Houve também relatos de que nem Tatum nem Hill expressaram grande interesse em continuar com a franquia.</p><figure class="video-container"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/05/jonah_hill_and_channing_tatum_on_the_poster_for_22_jump_street.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Jonah Hill e Channing Tatum em uma festa de primavera no pôster de 22 Jump Street\" loading=\"lazy\"/></figure><h2>23 Jump Street Poderia Ter Criado a Trilogia de Comédia Perfeita</h2><p>Ambos os filmes, <em>21 Jump Street</em> e <em>22 Jump Street</em>, ainda se sustentam hoje com sua atmosfera nostálgica do início dos anos 2010 e momentos cômicos ininterruptos. Embora a dinâmica de Tatum e Hill na tela tenha sido forte e hilária, faz sentido que os atores estivessem interessados em buscar outros projetos após o lançamento da sequência em 2014.</p><p>Hill ganhou sua primeira indicação ao Oscar por <em>O Lobo de Wall Street</em> entre os dois filmes de <em>Jump Street</em>, e Tatum também mudou o foco para papéis mais sérios, como visto no subestimado drama esportivo de 2014 <em>Foxcatcher</em> e no filme de Hollywood dos irmãos Coen de 2016, <em>Ave, César!</em>. Dito isso, um filme de encerramento de trilogia em 2016 teria sido um grande sucesso de bilheteria, mesmo que a aclamação crítica tivesse diminuído.</p><p>Doze anos após os filmes de <em>Jump Street</em>, Tatum continuou a estrelar sucessos como <em>Magic Mike: A Última Dança</em> e <em>O Dublê</em>, enquanto Hill evoluiu como diretor com filmes como <em>Mid90s</em>, <em>Stutz</em> e os projetos futuros <em>Outcome</em> e <em>Cut Off</em>. Olhando para trás, <strong><em>23 Jump Street</em></strong> parece ser o maior filme de comédia dos anos 2010 que deveria ter acontecido, mas nunca aconteceu, embora ainda pudesse funcionar nos dias de hoje.</p>",
+      "meta_description": "14 anos após 21 Jump Street, Channing Tatum e Jonah Hill ainda precisam de um final oficial para a trilogia de comédia que marcou os anos 2010.",
+      "focus_keyphrase": "21 Jump Street final oficial",
+      "related_keyphrases": [
+        "Channing Tatum Jonah Hill",
+        "trilogia 21 Jump Street",
+        "comédia 2010s"
+      ],
+      "slug": "21-jump-street-final-oficial",
+      "categorias": [
+        {
+          "nome": "21 Jump Street",
+          "grupo": "obras",
+          "evidence": "<strong><em>21 Jump Street</em></strong>"
+        },
+        {
+          "nome": "Channing Tatum",
+          "grupo": "atores",
+          "evidence": "Channing Tatum"
+        },
+        {
+          "nome": "Jonah Hill",
+          "grupo": "atores",
+          "evidence": "Jonah Hill"
+        }
+      ],
+      "tags_sugeridas": [
+        "21 Jump Street",
+        "22 Jump Street",
+        "Channing Tatum",
+        "Jonah Hill",
+        "comédia",
+        "trilogia",
+        "Sony Pictures"
+      ],
+      "image_alt_texts": {
+        "jonah_hill_and_channing_tatum_on_the_poster_for_22_jump_street.jpg": "Jonah Hill e Channing Tatum em uma festa de primavera no pôster de 22 Jump Street"
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Channing Tatum e Jonah Hill: Comédia 21 Jump Street precisa de final oficial",
+        "_yoast_wpseo_metadesc": "14 anos após 21 Jump Street, Channing Tatum e Jonah Hill ainda precisam de um final oficial para a trilogia de comédia que marcou os anos 2010.",
+        "_yoast_wpseo_focuskw": "21 Jump Street final oficial",
+        "_yoast_news_keywords": "21 Jump Street, 22 Jump Street, Channing Tatum, Jonah Hill, comédia, trilogia, Sony Pictures, Men in Black",
+        "_yoast_wpseo_opengraph-title": "Channing Tatum e Jonah Hill: Comédia 21 Jump Street precisa de final oficial",
+        "_yoast_wpseo_opengraph-description": "14 anos após 21 Jump Street, Channing Tatum e Jonah Hill ainda precisam de um final oficial para a trilogia de comédia que marcou os anos 2010.",
+        "_yoast_wpseo_twitter-title": "Channing Tatum e Jonah Hill: Comédia 21 Jump Street precisa de final oficial",
+        "_yoast_wpseo_twitter-description": "14 anos após 21 Jump Street, Channing Tatum e Jonah Hill ainda precisam de um final oficial para a trilogia de comédia que marcou os anos 2010."
+      }
+    }
+  ]
+}

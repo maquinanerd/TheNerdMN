@@ -1,0 +1,50 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Bridgerton: Lady Danbury continua na série da Netflix após rumores",
+      "conteudo_final": "<p>A série <em>Bridgerton</em>, sucesso da Netflix, tranquiliza os fãs quanto à permanência de um de seus personagens mais queridos. Lady Danbury (Adjoa Andoh), figura central na trama, não deixará a produção, apesar de rumores recentes.</p><h2>Lady Danbury segue em Bridgerton</h2><p>A quarta temporada de <em>Bridgerton</em>, lançada em 28 de janeiro, foca em Benedict (Luke Thompson) e seu romance com Sophie Baek (Yerin Ha). Paralelamente, a trama de Queen Charlotte (Golda Rosheuvel) gerou especulações sobre a saída de Lady Danbury. No entanto, a showrunner Jess Brownell confirmou que a personagem continuará na série.</p><p>Em entrevista à <em>Deadline</em>, Brownell esclareceu que a busca de Lady Danbury por tempo para si mesma, afastada de Londres, não indica uma despedida. A exploracão da dinâmica de poder na amizade entre a Rainha Charlotte e Lady Danbury é um tema central desta temporada, refletindo a relação entre empregados e empregadores.</p><figure class="video-container"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2023/01/future-bridgerton-seasons-don-t-need-simon.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Lady Danbury e Simon em Bridgerton\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen><figcaption>Lady Danbury é uma figura importante na família Bridgerton e na trama da série.</figcaption></figure><h2>Temas e Relações em Bridgerton</h2><p>A relação entre Lady Danbury e a Rainha Charlotte é explorada em profundidade, abordando o desequilíbrio de poder e suas implicações. Este tema se alinha com o romance principal da temporada, que envolve Sophie, filha ilegítima de um conde, forçada a trabalhar como criada, complicando seu relacionamento com Benedict.</p><p>Lady Danbury é uma amiga próxima de Violet Bridgerton (Ruth Gemmell) e atua como uma figura materna para a família. Ela também foi mentora de Simon (Regé-Jean Page), duque de Hastings, e acolheu a família Sharma antes do casamento de Kate (Simone Ashley) com Anthony (Jonathan Bailey).</p><h2>Futuro da Série e Personagens</h2><p>Brownell confirmou que Lady Danbury terá um papel significativo nas próximas temporadas, incluindo a quinta. A showrunner também revelou que Eloise (Claudia Jessie) e Francesca (Hannah Dodd) serão as protagonistas das temporadas 5 e 6, embora a ordem exata ainda não tenha sido definida.</p><p>A personagem Lady Danbury pode desempenhar um papel crucial nas histórias de amor de Eloise e Francesca. Na série de livros de Julia Quinn, o neto de Danbury eventualmente se casa com Hyacinth (Florence Hunt), a caçula dos Bridgerton. Mesmo que seu papel seja menor, como o de Anthony e Kate nesta temporada, os fãs celebram sua presença nas telas.</p><p><em>Bridgerton</em> temporada 4, parte 1, está disponível na Netflix. A parte 2 estreia em 26 de fevereiro de 2026.</p>",
+      "meta_description": "Showrunner de Bridgerton confirma que Lady Danbury continua na série da Netflix, desmentindo rumores de saída após a quarta temporada.",
+      "focus_keyphrase": "Lady Danbury continua em Bridgerton",
+      "related_keyphrases": [
+        "Bridgerton Lady Danbury saída",
+        "Adjoa Andoh Bridgerton",
+        "Netflix Bridgerton temporada 5"
+      ],
+      "slug": "bridgerton-lady-danbury-continua-netflix",
+      "categorias": [
+        {
+          "nome": "Bridgerton",
+          "grupo": "obras",
+          "evidence": "<em>Bridgerton</em> retornou em sua quarta temporada"
+        },
+        {
+          "nome": "Netflix",
+          "grupo": "plataformas",
+          "evidence": "<em>Bridgerton</em>, sucesso da Netflix"
+        }
+      ],
+      "tags_sugeridas": [
+        "bridgerton",
+        "netflix",
+        "lady danbury",
+        "adjoa andoh",
+        "jess brownell",
+        "temporada 4",
+        "temporada 5"
+      ],
+      "image_alt_texts": {
+        "future-bridgerton-seasons-don-t-need-simon.jpg": "Lady Danbury e Simon em Bridgerton, com foco na relação entre eles."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Bridgerton: Lady Danbury continua na série da Netflix após rumores",
+        "_yoast_wpseo_metadesc": "Showrunner de Bridgerton confirma que Lady Danbury continua na série da Netflix, desmentindo rumores de saída após a quarta temporada.",
+        "_yoast_wpseo_focuskw": "Lady Danbury continua em Bridgerton",
+        "_yoast_news_keywords": "Bridgerton,Netflix,Lady Danbury,Adjoa Andoh,Jess Brownell,temporada 4,temporada 5,Benedict Bridgerton,Queen Charlotte",
+        "_yoast_wpseo_opengraph-title": "Bridgerton: Lady Danbury continua na série da Netflix após rumores",
+        "_yoast_wpseo_opengraph-description": "Showrunner de Bridgerton confirma que Lady Danbury continua na série da Netflix, desmentindo rumores de saída após a quarta temporada.",
+        "_yoast_wpseo_twitter-title": "Bridgerton: Lady Danbury continua na série da Netflix após rumores",
+        "_yoast_wpseo_twitter-description": "Showrunner de Bridgerton confirma que Lady Danbury continua na série da Netflix, desmentindo rumores de saída após a quarta temporada."
+      }
+    }
+  ]
+}

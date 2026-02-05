@@ -1,0 +1,49 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Faces of Death: Remake de terror ganha data de estreia nos cinemas",
+      "conteudo_final": "<p>O remake do controverso filme de terror de 1978, <strong><em>Faces of Death</em></strong>, agora tem uma data oficial de lançamento. O diretor Danial Goldhaber apresenta sua nova versão do clássico cult.</p><h2>Lançamento e Distribuição</h2><p>O remake de <strong><em>Faces of Death</em></strong> tem estreia confirmada nos cinemas da América do Norte para 10 de abril deste ano. Shudder e Independent Film Company adquiriram os direitos de distribuição norte-americana do filme de terror, marcando o maior lançamento da latter company até o momento.</p><h2>O Legado do Original</h2><p>O filme original de 1978 gerou grande controvérsia devido a rumores de que apresentava mortes reais. Embora parcialmente verdadeiro, com imagens de arquivo de mortes reais de humanos e animais, os momentos mais chocantes foram encenados. Esses rumores, no entanto, impulsionaram o sucesso de bilheteria do original, que arrecadou mais de US$ 35 milhões mundialmente, apesar das críticas majoritariamente negativas.</p><figure class="video-container"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/barbie-ferreira-at-the-fashion-trust-u-s-awards-2025.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Barbie Ferreira em evento de moda.\"><figcaption>Barbie Ferreira, estrela de Euphoria, lidera o elenco do remake.</figcaption></figure><h2>Nova Abordagem e Elenco</h2><p>A nova versão, dirigida por Goldhaber, promete uma abordagem focada em tecnologia, com referências ao original e explorando a linha tênue entre realidade e ficção. A sinopse revela que uma moderadora de conteúdo descobre o que parecem ser encenações de assassinatos do filme original. Em um mundo online onde nada é confiável, ela precisa determinar se a violência é real ou está acontecendo em tempo real.</p><p>Além de Barbie Ferreira, conhecida por seu papel em <em>Euphoria</em>, o elenco inclui Dacre Montgomery (<em>Stranger Things</em>), Jermaine Fowler (<em>The Blackening</em>), a cantora Charli XCX e Josie Totah (<em>Saved by the Bell</em>). Goldhaber co-escreveu o roteiro com Isa Mazzei, com quem já colaborou em projetos anteriores como <em>Cam</em> (2018) e <em>How to Blow Up A Pipeline</em> (2022).</p><h2>Expectativas e Alcance</h2><p>Goldhaber expressou o desejo de criar um filme que agrade tanto aos fãs do original quanto a um público mais amplo de filmes de terror. Ele destacou que o filme aborda horrores do mundo real de forma elevada e divertida, honrando o gênero \"mondo horror\" sem diluir sua essência para um público maior.</p><p>A Shudder teve um ano forte em 2025, com lançamentos como <em>Influencers</em> e <em>Good Boy</em>. Embora o remake de <em>Faces of Death</em> esteja próximo de chegar aos cinemas na América do Norte, a distribuição internacional ainda não foi anunciada, mas novidades podem surgir em breve.</p>",
+      "meta_description": "Remake de Faces of Death, um dos filmes mais controversos, ganha data de estreia nos cinemas norte-americanos em abril. Saiba mais!",
+      "focus_keyphrase": "Faces of Death remake data estreia",
+      "related_keyphrases": [
+        "remake Faces of Death Shudder",
+        "filme de terror 2026",
+        "Barbie Ferreira novo filme"
+      ],
+      "slug": "faces-of-death-remake-estreia",
+      "categorias": [
+        {
+          "nome": "Faces of Death",
+          "grupo": "obras",
+          "evidence": "O remake do controverso filme de terror de 1978, <strong><em>Faces of Death</em></strong>, agora tem uma data oficial de lançamento."
+        },
+        {
+          "nome": "Shudder",
+          "grupo": "plataformas",
+          "evidence": "Shudder e Independent Film Company adquiriram os direitos de distribuição norte-americana do filme de terror"
+        }
+      ],
+      "tags_sugeridas": [
+        "faces of death",
+        "shudder",
+        "danial goldhaber",
+        "barbie ferreira",
+        "terror",
+        "cinema"
+      ],
+      "image_alt_texts": {
+        "barbie-ferreira-at-the-fashion-trust-u-s-awards-2025.jpg": "Barbie Ferreira, estrela de Euphoria, lidera o elenco do remake de Faces of Death."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Faces of Death: Remake de terror ganha data de estreia nos cinemas",
+        "_yoast_wpseo_metadesc": "Remake de Faces of Death, um dos filmes mais controversos, ganha data de estreia nos cinemas norte-americanos em abril. Saiba mais!",
+        "_yoast_wpseo_focuskw": "Faces of Death remake data estreia",
+        "_yoast_news_keywords": "Faces of Death, remake, terror, Shudder, Danial Goldhaber, Barbie Ferreira, Dacre Montgomery, cinema",
+        "_yoast_wpseo_opengraph-title": "Faces of Death: Remake de terror ganha data de estreia nos cinemas",
+        "_yoast_wpseo_opengraph-description": "Remake de Faces of Death, um dos filmes mais controversos, ganha data de estreia nos cinemas norte-americanos em abril. Saiba mais!",
+        "_yoast_wpseo_twitter-title": "Faces of Death: Remake de terror ganha data de estreia nos cinemas",
+        "_yoast_wpseo_twitter-description": "Remake de Faces of Death, um dos filmes mais controversos, ganha data de estreia nos cinemas norte-americanos em abril. Saiba mais!"
+      }
+    }
+  ]
+}

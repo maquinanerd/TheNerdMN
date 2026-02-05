@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "The Gold: Série de Jack Lowden de Slow Horses tem aclamação crítica",
+      "conteudo_final": "<p>Fãs de <em>Slow Horses</em> podem conferir uma série de suspense criminal com um ator do elenco enquanto aguardam a nova temporada do thriller de espionagem britânico. A plataforma Apple TV+ oferece uma variedade de séries, incluindo ficção científica como <em>Foundation</em> e <em>Severance</em>, comédias como <em>Shrinking</em> e <em>Ted Lasso</em>, e outros gêneros, como thrillers de espionagem, como <em>Down Cemetery Road</em> e <em>Slow Horses</em>.</p><p>Ao longo das cinco temporadas de <em>Slow Horses</em> lançadas até agora, o público se acostumou com a entrada e saída de muitos atores. No entanto, alguns personagens estão na série desde o início. Enquanto se espera o retorno de um desses astros em <em>Slow Horses</em> temporada 6, há um projeto perfeito para ver mais do ator em um cenário de suspense similar.</p><h2>Jack Lowden, estrela de Slow Horses, em série de suspense criminal</h2><p><strong>Jack Lowden é um dos maiores astros de <em>Slow Horses</em>, interpretando o popular River Cartwright</strong> desde a primeira temporada do thriller de espionagem britânico. O trabalho do ator inclui diversos filmes e séries que valem a pena conferir enquanto se aguarda o retorno de <em>Slow Horses</em> e River, como <em>The Lord of the Rings: The Rings of Power</em> e o filme <em>Dunkirk</em>, do diretor Christopher Nolan.</p><p>No entanto, a série que recomendo para fãs de <em>Slow Horses</em> que desejam ver mais do astro de thrillers em um tema semelhante é <strong><em>The Gold</em></strong>. <strong>A série da BBC foi lançada em 12 de fevereiro de 2023 e retornou para uma segunda e última temporada em 8 de junho de 2025.</strong> <em>The Gold</em> narra o assalto à Brink's-Mat em 1983, um dos maiores da história britânica.</p><p>O thriller criminal britânico acompanha os criminosos envolvidos no roubo e o que acontece com eles após o evento. <strong>Foram roubados £26 milhões em barras de ouro, dinheiro e diamantes.</strong> Lowden interpreta Kenneth Noye, o receptador, que atuou como intermediário para que o ouro roubado fosse derretido e vendido no mercado. O astro de <em>Slow Horses</em> é central na série britânica.</p><h2>A recepção crítica de The Gold e a atuação de Jack Lowden</h2><div class="body-img landscape mobile-optimized"><figure><picture><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-gold-on-masterpiece_4.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2" media="(max-width: 480px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-gold-on-masterpiece_4.jpg?q=49&amp;fit=crop&amp;w=500&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-gold-on-masterpiece_4.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2" media="(max-width: 767px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-gold-on-masterpiece_4.jpg?q=49&amp;fit=crop&amp;w=800&amp;dpr=2"/><source data-srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-gold-on-masterpiece_4.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" media="(max-width: 1023px)" srcset="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-gold-on-masterpiece_4.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2"/><img alt="The Gold on Masterpiece_4" data-img-url="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-gold-on-masterpiece_4.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" decoding="async" height="826" loading="lazy" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-gold-on-masterpiece_4.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" width="1650"/></picture><figcaption>Masterpiece's The Gold</figcaption></figure></div><p><em>The Gold</em>, exibida no Paramount+ e no <em>Masterpiece</em>, da PBS, nos Estados Unidos, envelheceu incrivelmente bem. <strong>A primeira temporada da série detém uma pontuação quase perfeita de 93% entre os críticos no <em>Rotten Tomatoes</strong></em>, o que levou a série de suspense criminal britânica a receber o selo Certified Fresh. Sua pontuação de audiência também é alta, com 87%.</p><p>Quando a série retornou após dois anos, <strong><em>The Gold</em> conseguiu se tornar ainda melhor, envelhecendo bem com uma rara pontuação perfeita de 100% entre os críticos no <em>Rotten Tomatoes</em> para a segunda temporada.</strong> Assim, qualquer fã de <strong><em>Slow Horses</em></strong> que deseje ver mais de Jack Lowden será presenteado com um drama criminal emocionante que cumpre suas promessas.</p>",
+      "meta_description": "Descubra The Gold, a aclamada série de suspense criminal com Jack Lowden, estrela de Slow Horses, que conquistou 100% de aprovação da crítica.",
+      "focus_keyphrase": "The Gold série Jack Lowden",
+      "related_keyphrases": [
+        "The Gold Rotten Tomatoes",
+        "Slow Horses Jack Lowden",
+        "série suspense criminal BBC"
+      ],
+      "slug": "the-gold-serie-jack-lowden-slow-horses",
+      "categorias": [
+        {
+          "nome": "The Gold",
+          "grupo": "obras",
+          "evidence": "The Gold"
+        },
+        {
+          "nome": "Slow Horses",
+          "grupo": "obras",
+          "evidence": "Slow Horses"
+        },
+        {
+          "nome": "Jack Lowden",
+          "grupo": "atores",
+          "evidence": "Jack Lowden"
+        }
+      ],
+      "tags_sugeridas": [
+        "the gold",
+        "slow horses",
+        "jack lowden",
+        "suspense criminal",
+        "bbc",
+        "rotten tomatoes",
+        "paramount plus"
+      ],
+      "image_alt_texts": {
+        "the-gold-on-masterpiece_4.jpg": "Jack Lowden como Kenneth Noye na série The Gold, exibida no Masterpiece."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "The Gold: Série de Jack Lowden de Slow Horses tem aclamação crítica",
+        "_yoast_wpseo_metadesc": "Descubra The Gold, a aclamada série de suspense criminal com Jack Lowden, estrela de Slow Horses, que conquistou 100% de aprovação da crítica.",
+        "_yoast_wpseo_focuskw": "The Gold série Jack Lowden",
+        "_yoast_news_keywords": "The Gold, Slow Horses, Jack Lowden, suspense criminal, BBC, Rotten Tomatoes, Paramount Plus, Masterpiece",
+        "_yoast_wpseo_opengraph-title": "The Gold: Série de Jack Lowden de Slow Horses tem aclamação crítica",
+        "_yoast_wpseo_opengraph-description": "Descubra The Gold, a aclamada série de suspense criminal com Jack Lowden, estrela de Slow Horses, que conquistou 100% de aprovação da crítica.",
+        "_yoast_wpseo_twitter-title": "The Gold: Série de Jack Lowden de Slow Horses tem aclamação crítica",
+        "_yoast_wpseo_twitter-description": "Descubra The Gold, a aclamada série de suspense criminal com Jack Lowden, estrela de Slow Horses, que conquistou 100% de aprovação da crítica."
+      }
+    }
+  ]
+}

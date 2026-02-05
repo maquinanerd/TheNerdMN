@@ -35,6 +35,7 @@ from .html_utils import (
     remove_source_domain_schemas,
     strip_forbidden_cta_sentences,
     detect_forbidden_cta,
+    html_to_gutenberg_blocks,
 )
 from .internal_linking import add_internal_links
 from .task_queue import ArticleQueue
@@ -126,6 +127,7 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                     continue
 
                 logger.info(f"Processing article: {article_data.get('title', 'N/A')} (DB ID: {article_db_id}) from {source_id}")
+                logger.info(f"  Original URL: {article_url}")
                 db.update_article_status(article_db_id, 'PROCESSING')
 
                 # Extract content
@@ -296,12 +298,12 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                             original_length = len(content_html)
                             matches = re.findall(pattern, content_html, flags=re.IGNORECASE | re.DOTALL)
                             if matches:
-                                logger.error(f"🔥 LAYER 2 (REGEX): Encontrado(s) {len(matches)} parágrafo(s) com CTA")
+                                logger.debug(f"REGEX: Encontrado {len(matches)} paragrafos com CTA")
                                 for match in matches[:2]:  # Log dos 2 primeiros matches
                                     cta_removal_log.append(f"REGEX: {match[:80]}")
                             content_html = re.sub(pattern, '', content_html, flags=re.IGNORECASE | re.DOTALL)
                             if len(content_html) < original_length:
-                                logger.info(f"✅ Parágrafo(s) removido(s) via regex")
+                                logger.debug(f"REMOVIDO: Paragrafo com CTA via regex")
                         
                         # CAMADA 3: Remover tags vazias deixadas para trás
                         content_html = re.sub(r'<(p|div|span|article)[^>]*>\s*</\1>', '', content_html, flags=re.IGNORECASE)
@@ -309,16 +311,16 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                         
                         # CAMADA 4: Verificação FINAL - se ainda houver "thank you", REJEITA
                         if 'thank you for reading' in content_html.lower():
-                            logger.error("❌❌❌ CRÍTICO: CTA ainda presente após limpeza! REJEITANDO ARTIGO!")
+                            logger.error("CTA CRITICO: Ainda presente após limpeza! Rejeitando artigo")
                             db.update_article_status(art_data['db_id'], 'FAILED', reason="CTA persisted after cleaning - CRITICAL FAILURE")
                             continue
                         
-                        # ✅ Logar se houve remoção significativa, mas prosseguir para publicação
+                        # Log se houve remoção significativa
                         if len(content_html) < len(original_html):
                             chars_removed = len(original_html) - len(content_html)
-                            logger.warning(f"⚠️ CTA removido durante a limpeza ({chars_removed} chars). Prosseguindo com publicação.")
+                            logger.info(f"CTA removido: {chars_removed} chars. Prosseguindo com publicação")
                         
-                        # ✅ VALIDAR TÍTULO CONFORME REGRAS EDITORIAIS
+                        # VALIDAR TÍTULO CONFORME REGRAS EDITORIAIS
                         title_validator = TitleValidator()
                         validation_result = title_validator.validate(title)
                         
@@ -346,19 +348,19 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                             if 'muito longo' in errs_joined:
                                 corrected_title = shorten_title(title, max_len=65)
                                 if corrected_title != title:
-                                    logger.warning(f"⚠️ Título muito longo detectado. Auto-encurtando: '{corrected_title}'")
+                                    logger.info(f"TITULO ENCURTADO: '{corrected_title}'")
                                     title = corrected_title
                                     validation_result = title_validator.validate(title)
                                 else:
-                                    logger.warning(f"⚠️ Título muito longo e não foi possível encurtar de forma segura: {title}. Prosseguindo assim mesmo.")
+                                    logger.warning(f"TITULO LONGO: Não foi possível encurtar. Prosseguindo")
                             elif 'muito curto' in errs_joined:
                                 suggested = title_validator.suggest_correction(title)
                                 if suggested and len(suggested) > len(title):
-                                    logger.info(f"⚠️ Título muito curto detectado. Aplicando sugestão: '{suggested}'")
+                                    logger.info(f"TITULO EXPANDIDO: '{suggested}'")
                                     title = suggested
                                     validation_result = title_validator.validate(title)
                                 else:
-                                    logger.warning(f"⚠️ Título muito curto sem sugestão útil. Prosseguindo assim mesmo: {title}")
+                                    logger.warning(f"TITULO CURTO: Sem sugestão útil. Prosseguindo: {title}")
 
                             if validation_result['status'] == 'ERRO':
                                 logger.warning(f"⚠️ Prosseguindo com título mesmo com erros editoriais: {title}")
@@ -370,18 +372,18 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                                 validation_result['status'] = 'AVISO'
                         
                         if validation_result['status'] == 'AVISO':
-                            logger.warning(f"⚠️ Título com avisos editoriais: {title}")
+                            logger.debug(f"TITULO AVISO: {title[:60]}")
                             for warning in validation_result['avisos']:
-                                logger.warning(f"   {warning}")
+                                logger.debug(f"  {warning}")
                             # Tentar corrigir automaticamente
                             corrected_title = title_validator.suggest_correction(title)
                             if corrected_title != title:
-                                logger.info(f"✅ Título corrigido: {corrected_title}")
+                                logger.info(f"TITULO CORRIGIDO: {corrected_title[:60]}")
                                 title = corrected_title
                         
                         # Otimizar título para Google News & Discovery
                         title, title_optimization_report = optimize_title(title, content_html)
-                        logger.info(f"Título otimizado: {title_optimization_report['original_score']:.1f} → {title_optimization_report['optimized_score']:.1f}")
+                        logger.debug(f"TITULO SEO: {title_optimization_report['original_score']:.1f} > {title_optimization_report['optimized_score']:.1f}")
                         
                         # IMPORTANTE: Desescapar HTML que pode ter vindo escapado da IA
                         content_html = unescape_html_content(content_html)
@@ -398,19 +400,15 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                         # Upload images
                         urls_to_upload = []
                         featured_image_url = extracted.get('featured_image_url')
+                        featured_media_id = None
+                        
                         if featured_image_url and is_valid_upload_candidate(featured_image_url):
-                            urls_to_upload.append(featured_image_url)
+                            # Try to upload featured image
+                            media = wp_client.upload_media_from_url(featured_image_url, title)
+                            if media and media.get("id"):
+                                featured_media_id = media["id"]
+                                logger.info(f"FEATURED OK: ID {featured_media_id}")
 
-                        uploaded_src_map = {}
-                        uploaded_id_map = {}
-                        for url in urls_to_upload:
-                            media = wp_client.upload_media_from_url(url, title)
-                            if media and media.get("source_url") and media.get("id"):
-                                k = url.rstrip('/')
-                                uploaded_src_map[k] = media["source_url"]
-                                uploaded_id_map[k] = media["id"]
-
-                        content_html = rewrite_img_srcs_with_wp(content_html, uploaded_src_map)
                         content_html = strip_credits_and_normalize_youtube(content_html)
                         # Remove schemas JSON-LD originais do domínio fonte (evita conflito de SEO)
                         content_html = remove_source_domain_schemas(content_html)
@@ -441,19 +439,6 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                                 current_post_categories=list(final_category_ids)
                             )
 
-                        # Featured image
-                        featured_media_id = None
-                        if featured_url := extracted.get('featured_image_url'):
-                            k = featured_url.rstrip('/')
-                            featured_media_id = uploaded_id_map.get(k)
-                        if not featured_media_id and uploaded_id_map:
-                            featured_media_id = next(iter(uploaded_id_map.values()), None)
-                        
-                        if featured_media_id:
-                            logger.info(f"✅ Featured media set to ID: {featured_media_id}")
-                        else:
-                            logger.warning("⚠️ No featured media available for this post (upload may have failed)")
-
 
                         # SEO meta
                         yoast_meta = rewritten_data.get('yoast_meta', {})
@@ -461,20 +446,26 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                         if related_kws := rewritten_data.get('related_keyphrases'):
                             yoast_meta['_yoast_wpseo_keyphrases'] = json.dumps([{"keyword": kw} for kw in related_kws])
 
-                        # ⚠️ VERIFICAÇÃO FINAL CRÍTICA: CTA CHECK ANTES DE PUBLICAR
+                        # VERIFICAÇÃO FINAL: CTA CHECK ANTES DE PUBLICAR
                         final_cta_match = detect_forbidden_cta(content_html)
                         if final_cta_match:
-                            logger.critical(f"🚨🚨🚨 CRITICAL: CTA detectado no conteúdo final ({final_cta_match}) - bloqueando publicação")
+                            logger.error(f"CTA FINAL: Detectado '{final_cta_match}' - bloqueando publicação")
                             db.update_article_status(art_data['db_id'], 'FAILED', reason="FINAL CHECK: CTA detected before WordPress publishing - Article blocked")
                             continue
 
-                        logger.info("✅ CHECK FINAL PASSOU: Nenhum CTA detectado. Pronto para publicar.")
+                        logger.debug("CTA OK: Nenhum CTA detectado. Pronto para publicar.")
+                        
+                        # Converter conteúdo para formato de blocos Gutenberg (WordPress padrão)
+                        gutenberg_content = html_to_gutenberg_blocks(content_html)
+                        
+                        # Log qual chave de API foi usada para processar este artigo
+                        api_key_used = ai_processor._ai_client.get_last_used_key() if ai_processor and ai_processor._ai_client else "UNKNOWN"
                         
                         # Publish to WordPress immediately (but processing was done in batch of 3)
                         post_payload = {
                             'title': title,
                             'slug': rewritten_data.get('slug'),
-                            'content': content_html,
+                            'content': gutenberg_content,  # ← Usando formato Gutenberg
                             'excerpt': rewritten_data.get('meta_description', ''),
                             'categories': list(final_category_ids),
                             'tags': rewritten_data.get('tags_sugeridas', []),
@@ -483,24 +474,52 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                         }
 
                         wp_post_id = wp_client.create_post(post_payload)
-                        if wp_post_id:
+                        if wp_post_id and wp_post_id > 0:  # Verificar que é ID válido
                             try:
                                 sanitized_ok = wp_client.sanitize_published_post(wp_post_id)
                                 if sanitized_ok:
-                                    logger.info(f"✅ Post {wp_post_id} published and sanitized.")
+                                    wp_post_url = f"https://www.maquinanerd.com.br/?p={wp_post_id}"
+                                    logger.info(f"PUBLICADO: Post {wp_post_id} | {title[:70]}")
+                                    logger.info(f"  URL no WordPress: {wp_post_url}")
+                                    logger.info(f"  Categorias: {final_category_ids}")
+                                    logger.info(f"  Tags: {rewritten_data.get('tags_sugeridas', [])}")
+                                    logger.debug(f"  API Key: {api_key_used}")
+                                    
+                                    # ✅ SALVAR JSON COM SLUG (para fácil localização)
+                                    slug = rewritten_data.get('slug', 'sem-slug')
+                                    timestamp = time.strftime("%Y%m%d-%H%M%S")
+                                    json_filename = f"debug/ai_response_batch_{slug}_{timestamp}.json"
+                                    json_path = Path(json_filename)
+                                    
+                                    # Salvar o rewritten_data como JSON
+                                    with open(json_path, 'w', encoding='utf-8') as f:
+                                        json.dump(rewritten_data, f, indent=2, ensure_ascii=False)
+                                    logger.info(f"  JSON salvo em: {json_filename}")
+                                    
+                                    # ✅ REGISTRAR wp_post_id NOS TOKENS
+                                    from .token_tracker import log_tokens
+                                    log_tokens(
+                                        prompt_tokens=0,
+                                        completion_tokens=0,
+                                        api_type="publishing",
+                                        model="wordpress",
+                                        metadata={"operation": "published", "original_url": art_data.get('url', 'N/A'), "slug": slug},
+                                        source_url=art_data.get('url', 'N/A'),
+                                        wp_post_id=wp_post_id,
+                                        article_title=title
+                                    )
                                 else:
-                                    logger.warning(f"⚠️ Post {wp_post_id} published but sanitation reported failure.")
+                                    logger.warning(f"Post {wp_post_id} criado mas sanitation falhou")
                             except Exception as e:
-                                logger.error(f"Error during post-publish sanitation for {wp_post_id}: {e}")
+                                logger.error(f"Erro sanitizando post {wp_post_id}: {e}")
 
                             db.save_processed_post(art_data['db_id'], wp_post_id)
-                            logger.info(f"Successfully published post {wp_post_id} for article DB ID {art_data['db_id']}")
                             
                             # Small delay between posts
-                            logger.info(f"Aguardando {BETWEEN_PUBLISH_DELAY_S}s antes de publicar próximo artigo...")
+                            logger.info(f"Aguardando {BETWEEN_PUBLISH_DELAY_S}s para proximo...")
                             time.sleep(BETWEEN_PUBLISH_DELAY_S)
                         else:
-                            logger.error(f"Failed to publish post for {art_data['url']}")
+                            logger.error(f"FALHA PUBLICACAO: {title[:70]}")
                             db.update_article_status(art_data['db_id'], 'FAILED', reason="WordPress publishing failed")
 
                     except Exception as e:

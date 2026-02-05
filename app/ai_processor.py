@@ -14,6 +14,7 @@ from .config import (
 )
 from .exceptions import AIProcessorError
 from .ai_client_gemini import AIClient
+from .token_tracker import log_tokens
 
 # Get rate limit configs from environment or use defaults from the user's plan
 AI_MIN_INTERVAL_S = float(os.getenv('AI_MIN_INTERVAL_S', 6))
@@ -184,7 +185,36 @@ class AIProcessor:
                 "top_p": 0.9,
                 "max_output_tokens": 32000,  # 32K máximo para garantir resposta completa (batch size 1)
             }
-            response_text = self._ai_client.generate_text(batch_prompt, generation_config=generation_config)
+            response_data = self._ai_client.generate_text(batch_prompt, generation_config=generation_config)
+            
+            # Desempacotar resposta: (texto, tokens_info)
+            if isinstance(response_data, tuple):
+                response_text, tokens_info = response_data
+            else:
+                # Fallback para compatibilidade se ainda retornar apenas string
+                response_text = response_data
+                tokens_info = {}
+            
+            # Log tokens se disponíveis
+            if tokens_info and ('prompt_tokens' in tokens_info or 'completion_tokens' in tokens_info):
+                # Extrair source_url e título de cada item do batch
+                for idx, batch_item in enumerate(batch_data):
+                    source_url = batch_item.get('source_url', 'N/A')
+                    article_title = batch_item.get('title', 'N/A')
+                    
+                    log_tokens(
+                        prompt_tokens=tokens_info.get('prompt_tokens', 0),
+                        completion_tokens=tokens_info.get('completion_tokens', 0),
+                        api_type="gemini",
+                        model=os.getenv("GEMINI_MODEL_ID", "gemini-2.5-flash-lite"),
+                        metadata={"batch_size": len(batch_data), "operation": "batch_rewrite", "batch_index": idx},
+                        source_url=source_url,
+                        article_title=article_title
+                    )
+            
+            # Log qual chave foi usada para processar este batch
+            used_key = self._ai_client.get_last_used_key()
+            logger.info(f"BATCH OK: Processado com chave de API: {used_key}")
 
             parsed_data = self._parse_batch_response(response_text, len(batch_data))
             if parsed_data is None:  # Batch parsing failed
@@ -194,7 +224,7 @@ class AIProcessor:
                 error_msg = "Batch JSON parsing failed (insufficient quota budget to retry individually)"
                 return [(None, error_msg)] * len(batch_data)
 
-            logger.info(f"Successfully processed batch of {len(batch_data)} articles.")
+            logger.info(f"Successfully processed batch of {len(batch_data)} articles with API key {used_key}.")
             return [(result, None) if result else (None, "Article data missing or invalid in batch response") 
                    for result in parsed_data]
 
@@ -242,7 +272,27 @@ class AIProcessor:
                 "response_mime_type": "application/json",
                 "max_output_tokens": 32000,  # 32K máximo para garantir resposta completa
             }
-            response_text = self._ai_client.generate_text(prompt, generation_config=generation_config)
+            response_data = self._ai_client.generate_text(prompt, generation_config=generation_config)
+            
+            # Desempacotar resposta: (texto, tokens_info)
+            if isinstance(response_data, tuple):
+                response_text, tokens_info = response_data
+            else:
+                # Fallback para compatibilidade
+                response_text = response_data
+                tokens_info = {}
+            
+            # Log tokens se disponíveis
+            if tokens_info and ('prompt_tokens' in tokens_info or 'completion_tokens' in tokens_info):
+                log_tokens(
+                    prompt_tokens=tokens_info.get('prompt_tokens', 0),
+                    completion_tokens=tokens_info.get('completion_tokens', 0),
+                    api_type="gemini",
+                    model=os.getenv("GEMINI_MODEL_ID", "gemini-2.5-flash-lite"),
+                    metadata={"operation": "single_rewrite", "source_url": source_url},
+                    source_url=source_url,
+                    article_title=title
+                )
             
             parsed_data = self._parse_response(response_text)
 

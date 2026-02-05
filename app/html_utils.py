@@ -616,3 +616,139 @@ def remove_source_domain_schemas(html: str) -> str:
     
     logger.debug("Removed source domain JSON-LD schemas from content")
     return cleaned
+
+
+# ===========================
+# Gutenberg Blocks Converter
+# ===========================
+
+def html_to_gutenberg_blocks(html_content: str) -> str:
+    """
+    Converte HTML puro para formato de blocos Gutenberg.
+    Gutenberg usa comentários especiais como <!-- wp:paragraph --> para marcar blocos.
+    """
+    if not html_content:
+        return ""
+    
+    # Limpar espaços em branco excessivos
+    html_content = html_content.strip()
+    
+    blocks = []
+    soup = BeautifulSoup(html_content, 'html.parser')
+    
+    for element in soup.children:
+        if isinstance(element, str):
+            # Texto puro
+            text = element.strip()
+            if text:
+                blocks.append(f"<!-- wp:paragraph -->\n<p>{text}</p>\n<!-- /wp:paragraph -->")
+            continue
+        
+        if not hasattr(element, 'name'):
+            continue
+        
+        tag = element.name
+        
+        # Parágrafos
+        if tag == 'p':
+            text = element.get_text(strip=False)
+            if text.strip():
+                blocks.append(f"<!-- wp:paragraph -->\n{str(element)}\n<!-- /wp:paragraph -->")
+        
+        # Headings
+        elif tag in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+            level = int(tag[1])
+            text = element.get_text(strip=True)
+            if text:
+                blocks.append(f"<!-- wp:heading {{\"level\":{level}}} -->\n<{tag}>{text}</{tag}>\n<!-- /wp:heading -->")
+        
+        # Imagens
+        elif tag == 'img':
+            img_src = element.get('src', '')
+            img_alt = element.get('alt', '')
+            if img_src:
+                # Imagem com figura (mais comum no Gutenberg)
+                blocks.append(f"<!-- wp:image -->\n<figure class=\"wp-block-image\"><img src=\"{img_src}\" alt=\"{img_alt}\"/></figure>\n<!-- /wp:image -->")
+        
+        # Figura com legenda (para imagens com caption)
+        elif tag == 'figure':
+            img = element.find('img')
+            figcaption = element.find('figcaption')
+            if img:
+                img_src = img.get('src', '')
+                img_alt = img.get('alt', '')
+                caption = figcaption.get_text(strip=True) if figcaption else ''
+                
+                # Construir HTML correto para Gutenberg
+                # Formato: <!-- wp:image {"caption":"..."} -->
+                #          <figure class="wp-block-image">
+                #            <img src="..." alt="..."/>
+                #            <figcaption class="wp-element-caption">...</figcaption>
+                #          </figure>
+                #          <!-- /wp:image -->
+                
+                attrs = {}
+                if caption:
+                    # Escapar aspas na legenda
+                    safe_caption = caption.replace('"', '\\"')
+                    attrs['caption'] = safe_caption
+                
+                attrs_json = ', '.join(f'"{k}":"{v}"' for k, v in attrs.items())
+                attrs_str = f" {{{attrs_json}}}" if attrs_json else ""
+                
+                # Reconstruir figura com estrutura correta
+                fig_html = f'<figure class="wp-block-image"><img src="{img_src}" alt="{img_alt}"/>'
+                if caption:
+                    fig_html += f'<figcaption class="wp-element-caption">{caption}</figcaption>'
+                fig_html += '</figure>'
+                
+                blocks.append(f"<!-- wp:image{attrs_str} -->\n{fig_html}\n<!-- /wp:image -->")
+        
+        # Listas
+        elif tag == 'ul':
+            items = []
+            for li in element.find_all('li', recursive=False):
+                items.append(f"<li>{li.get_text(strip=True)}</li>")
+            if items:
+                list_html = '<ul>' + ''.join(items) + '</ul>'
+                blocks.append(f"<!-- wp:list -->\n{list_html}\n<!-- /wp:list -->")
+        
+        elif tag == 'ol':
+            items = []
+            for li in element.find_all('li', recursive=False):
+                items.append(f"<li>{li.get_text(strip=True)}</li>")
+            if items:
+                list_html = '<ol>' + ''.join(items) + '</ol>'
+                blocks.append(f"<!-- wp:list {{\"ordered\":true}} -->\n{list_html}\n<!-- /wp:list -->")
+        
+        # Blockquotes
+        elif tag == 'blockquote':
+            text = element.get_text(strip=True)
+            if text:
+                blocks.append(f"<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>{text}</p></blockquote>\n<!-- /wp:quote -->")
+        
+        # Videos (iframe)
+        elif tag == 'iframe':
+            src = element.get('src', '')
+            if 'youtube' in src or 'vimeo' in src:
+                blocks.append(f"<!-- wp:embed -->\n<figure class=\"wp-block-embed\">{str(element)}</figure>\n<!-- /wp:embed -->")
+        
+        # Divs e outros containers - processar filhos
+        elif tag in ['div', 'article', 'section']:
+            for child in element.children:
+                if isinstance(child, str):
+                    text = child.strip()
+                    if text:
+                        blocks.append(f"<!-- wp:paragraph -->\n<p>{text}</p>\n<!-- /wp:paragraph -->")
+        
+        # Outros elementos
+        else:
+            html_str = str(element)
+            if html_str.strip() and not html_str.startswith('<'):
+                blocks.append(f"<!-- wp:paragraph -->\n<p>{html_str}</p>\n<!-- /wp:paragraph -->")
+    
+    # Juntar blocos com quebras de linha
+    gutenberg_content = '\n\n'.join(blocks)
+    
+    logger.debug(f"Converted HTML ({len(html_content)} chars) to Gutenberg blocks ({len(gutenberg_content)} chars)")
+    return gutenberg_content

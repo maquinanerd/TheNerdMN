@@ -1,9 +1,12 @@
 import os
+import logging
 from dotenv import load_dotenv
 from typing import Dict, List, Any
 
 # Carrega variáveis de ambiente de um arquivo .env
-load_dotenv()
+load_dotenv(override=True)  # override=True garante que .env sobrescreve variaveis do sistema
+
+logger = logging.getLogger(__name__)
 
 # --- Ordem de processamento dos feeds ---
 PIPELINE_ORDER: List[str] = [
@@ -42,16 +45,32 @@ USER_AGENT = (
 def _load_ai_keys() -> List[str]:
     """
     Lê todas as chaves GEMINI_* do ambiente e as retorna em uma lista única e ordenada.
+    Procura por padrões: GEMINI_*, GEMINI_KEY*, GEMINI_API*
     """
     keys = {}
+    
+    # Procurar por todas as variáveis que contenham GEMINI e sejam chaves de API
     for key, value in os.environ.items():
-        if value and key.startswith('GEMINI_'):
-            keys[key] = value
+        if value and 'GEMINI' in key.upper() and (key.upper().startswith('GEMINI_') or 'KEY' in key.upper() or 'API' in key.upper()):
+            # Validar que é uma chave real (começa com AIza...)
+            if str(value).startswith('AIza'):
+                keys[key] = value
+                logger.info(f"API KEY: {key}")
+            else:
+                logger.warning(f"VARIAVEL: {key} encontrada mas nao eh chave de API (nao comeca com AIza)")
     
-    # Sort by key name for predictable order (e.g., GEMINI_ECONOMIA_1, GEMINI_POLITICA_1)
+    if not keys:
+        logger.error("ERRO: NENHUMA CHAVE DE API GEMINI ENCONTRADA! Verificar .env")
+    
+    # Sort by key name for predictable order
     sorted_key_names = sorted(keys.keys())
+    result = [keys[k] for k in sorted_key_names]
     
-    return [keys[k] for k in sorted_key_names]
+    logger.info(f"CARREGADAS {len(result)} chaves de API")
+    for idx, key in enumerate(result, 1):
+        logger.info(f"  [{idx}] {key[:15]}...{key[-4:]}")
+    
+    return result
 
 AI_API_KEYS = _load_ai_keys()
 
@@ -123,4 +142,13 @@ PIPELINE_CONFIG = {
         'PUBLISHER_LOGO_URL',
         'https://exemplo.com/logo.png'  # TODO: atualizar para a URL real do logo
     ),
+}
+
+# --- Configuração TMDb (The Movie Database) ---
+TMDB_CONFIG = {
+    'enabled': os.getenv('TMDB_ENABLED', 'false').lower() == 'true',
+    'api_key': os.getenv('TMDB_API_KEY', ''),
+    'max_enrichments_per_article': int(os.getenv('TMDB_MAX_ENRICHMENTS', 3)),
+    'extract_trending': os.getenv('TMDB_EXTRACT_TRENDING', 'false').lower() == 'true',
+    'extract_upcoming': os.getenv('TMDB_EXTRACT_UPCOMING', 'false').lower() == 'true',
 }
