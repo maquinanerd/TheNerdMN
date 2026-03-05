@@ -1,6 +1,7 @@
 @echo off
-echo "Ativando o ambiente virtual..."
-call venv\Scripts\activate
-echo "Iniciando o programa..."
-python -m app.main
+echo Ativando o ambiente virtual...
+echo Iniciando o programa...
+
+venv\Scripts\python.exe -m app.main
+
 pause

@@ -1,0 +1,6 @@
+Error: Expecting property name enclosed in double quotes: line 5 column 2605 (char 2714)
+Line: 5, Col: 2605
+Message: Expecting property name enclosed in double quotes
+
+Context (2514-2914):
+vangelion</em> é conhecido por sua complexidade e profundidade psicológica, temas que ressoam fortemente nas obras de Yoko Taro. A frase \"o destino da destruição é também a alegria do renascimento", utilizada no marketing de <em>The End of Evangelion</em>, encontra paralelos na filosofia de Taro, especialmente em <em>Nier: Automata</em>.</p><figure class=\"video-container\"><img src=\"https://sta

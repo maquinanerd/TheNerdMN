@@ -1,0 +1,10 @@
+Error: Unterminated string starting at: line 5 column 25 (char 152)
+Line: 5, Col: 25
+Message: Unterminated string starting at
+
+Context (0-352):
+{
+  "resultados": [
+    {
+      "titulo_final": "It's Always Sunny: Gang retorna oficialmente para filmagens da 18ª temporada",
+      "conteudo_final": "<p>O Paddy's Pub está aberto para negócios com a gangue de <strong><em>It's Always Sunny in Philadelphia</em></strong> reunida para a 18ª temporada.</p><h2>Gangue reunida para a 18ª temporada</h2><p>

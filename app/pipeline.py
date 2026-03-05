@@ -5,6 +5,7 @@ import json
 import re
 import os
 import threading
+from pathlib import Path
 from urllib.parse import urlparse
 from typing import Dict, Any, Optional, List
 
@@ -476,6 +477,29 @@ def process_batch(articles: List[Dict[str, Any]], link_map: Dict[str, Any]):
                         wp_post_id = wp_client.create_post(post_payload)
                         if wp_post_id and wp_post_id > 0:  # Verificar que é ID válido
                             try:
+                                # ✅ UPDATE YOAST SEO METADATA (força OG:Image para imagem do site + metadados)
+                                seo_meta = {
+                                    'title': rewritten_data.get('seo_title', title)[:70],
+                                    'description': rewritten_data.get('meta_description', '')[:160],
+                                    'focuskw': rewritten_data.get('focus_keyword', rewritten_data.get('tags_sugeridas', [''])[0])[:30],
+                                    'title_pt': title[:70],
+                                    'description_pt': rewritten_data.get('meta_description', '')[:160],
+                                }
+                                yoast_ok = wp_client.update_post_yoast_seo(wp_post_id, featured_media_id, seo_meta)
+                                if not yoast_ok:
+                                    logger.warning(f"⚠️  Falha ao atualizar Yoast SEO para post {wp_post_id}, continuando anyway...")
+                                
+                                # ✅ ADD GOOGLE NEWS META TAGS (otimização para Google News)
+                                news_meta = {
+                                    'keywords': rewritten_data.get('tags_sugeridas', []),
+                                    'genres': 'Blog, News',
+                                    'standout': False,
+                                    'access': 'Free',
+                                }
+                                news_ok = wp_client.add_google_news_meta(wp_post_id, news_meta)
+                                if not news_ok:
+                                    logger.debug(f"Google News meta tags não foram adicionados (não crítico)")
+                                
                                 sanitized_ok = wp_client.sanitize_published_post(wp_post_id)
                                 if sanitized_ok:
                                     wp_post_url = f"https://www.maquinanerd.com.br/?p={wp_post_id}"

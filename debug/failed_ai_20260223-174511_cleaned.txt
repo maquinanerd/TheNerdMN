@@ -1,0 +1,57 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "Evangelion ganha nova série com Yoko Taro, criador de Nier",
+      "conteudo_final": "<p>O icônico anime <strong>Neon Genesis Evangelion</strong> retorna às telas com uma nova série, celebrando o 30º aniversário da franquia. O projeto, liderado pelo estúdio Khara em colaboração com a CloverWorks, promete uma abordagem única com a participação de Yoko Taro, o aclamado criador das séries de videogame <em>Drakengard</em> e <em>Nier</em>.</p><h2>Yoko Taro traz sua visão inspirada em Evangelion</h2><p>Yoko Taro, conhecido por sua participação em títulos como <em>Nier: Automata</em>, já citou <em>Neon Genesis Evangelion</em> como uma grande influência em seu trabalho. Sua envolvência na nova série de anime é vista com entusiasmo por fãs de ambas as franquias, antecipando uma fusão de estilos e temáticas.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/2b-nier.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"2B com duas espadas nas costas em Nier: Automata.\"><figcaption>A personagem 2B de Nier: Automata.</figcaption></figure><p>A nova produção surge após o anúncio de que Hideaki Anno, criador original de <em>Evangelion</em>, passaria a tocha para outros artistas. A participação de Taro sugere uma continuidade temática, explorando elementos como a condição humana e cenários apocalípticos, que são marcas registradas tanto de <em>Evangelion</em> quanto de seus jogos.</p><h2>Evangelion entra em nova era com Yoko Taro</h2><p>A influência de <em>Evangelion</em> no trabalho de Yoko Taro é notória. O criador já declarou que <em>Nier: Automata</em> é, em essência, uma releitura da série de anime. Essa conexão profunda justifica sua escolha para liderar a nova fase da franquia, prometendo honrar o legado enquanto introduz novas perspectivas.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2021/04/Yoko-Taros-next-project-detailed.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Yoko Taro usando sua máscara característica.\"><figcaption>Yoko Taro, criador de Nier e Drakengard.</figcaption></figure><p>Apesar de Anno ter sinalizado o fim da saga com <em>Evangelion 3.0+1.0</em>, a franquia continua viva. A escolha de Yoko Taro para este novo projeto é um indicativo de que a série está em boas mãos, capaz de explorar novas narrativas sem perder sua essência.</p><h2>O legado de Evangelion e a visão de Yoko Taro</h2><p>O universo de <em>Neon Genesis Evangelion</em> é conhecido por sua complexidade e profundidade psicológica, temas que ressoam fortemente nas obras de Yoko Taro. A frase \"o destino da destruição é também a alegria do renascimento", utilizada no marketing de <em>The End of Evangelion</em>, encontra paralelos na filosofia de Taro, especialmente em <em>Nier: Automata</em>.</p><figure class=\"video-container\"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/rei-moon.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Rei Ayanami em frente à lua em Neon Genesis Evangelion.\"><figcaption>Rei Ayanami em uma cena icônica de Evangelion.</figcaption></figure><p>Com 26 finais distintos em <em>Nier: Automata</em>, Yoko Taro demonstra sua habilidade em criar múltiplas conclusões para histórias complexas. Essa experiência será valiosa ao dar continuidade à saga de <em>Evangelion</em>, que já teve seu final recontado diversas vezes.</p><p>A nova série de <strong>Neon Genesis Evangelion</strong>, com Yoko Taro na direção criativa, promete ser um marco para os fãs de anime e videogames. Mais detalhes sobre a produção serão divulgados em breve.</p>",
+      "meta_description": "Yoko Taro, criador de Nier, lidera nova série de Neon Genesis Evangelion. Descubra a conexão entre as obras e o futuro da franquia.",
+      "focus_keyphrase": "Neon Genesis Evangelion nova série Yoko Taro",
+      "related_keyphrases": [
+        "Yoko Taro Evangelion",
+        "Nier Automata Evangelion",
+        "Evangelion CloverWorks"
+      ],
+      "slug": "evangelion-nova-serie-yoko-taro",
+      "categorias": [
+        {
+          "nome": "Neon Genesis Evangelion",
+          "grupo": "franquias",
+          "evidence": "Neon Genesis Evangelion"
+        },
+        {
+          "nome": "Yoko Taro",
+          "grupo": "criadores",
+          "evidence": "Yoko Taro"
+        },
+        {
+          "nome": "Nier",
+          "grupo": "franquias",
+          "evidence": "Nier"
+        }
+      ],
+      "tags_sugeridas": [
+        "Neon Genesis Evangelion",
+        "Yoko Taro",
+        "Nier Automata",
+        "CloverWorks",
+        "Hideaki Anno",
+        "anime",
+        "Drakengard"
+      ],
+      "image_alt_texts": {
+        "2b-nier.jpg": "A personagem 2B de Nier: Automata com duas espadas nas costas.",
+        "Yoko-Taros-next-project-detailed.jpg": "Yoko Taro, criador de Nier e Drakengard, usando sua máscara característica.",
+        "rei-moon.jpg": "Rei Ayanami em frente à lua em uma cena icônica de Neon Genesis Evangelion."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "Evangelion ganha nova série com Yoko Taro, criador de Nier",
+        "_yoast_wpseo_metadesc": "Yoko Taro, criador de Nier, lidera nova série de Neon Genesis Evangelion. Descubra a conexão entre as obras e o futuro da franquia.",
+        "_yoast_wpseo_focuskw": "Neon Genesis Evangelion nova série Yoko Taro",
+        "_yoast_news_keywords": "Neon Genesis Evangelion, Yoko Taro, Nier Automata, CloverWorks, Hideaki Anno, anime, Drakengard",
+        "_yoast_wpseo_opengraph-title": "Evangelion ganha nova série com Yoko Taro, criador de Nier",
+        "_yoast_wpseo_opengraph-description": "Yoko Taro, criador de Nier, lidera nova série de Neon Genesis Evangelion. Descubra a conexão entre as obras e o futuro da franquia.",
+        "_yoast_wpseo_twitter-title": "Evangelion ganha nova série com Yoko Taro, criador de Nier",
+        "_yoast_wpseo_twitter-description": "Yoko Taro, criador de Nier, lidera nova série de Neon Genesis Evangelion. Descubra a conexão entre as obras e o futuro da franquia."
+      }
+    }
+  ]
+}

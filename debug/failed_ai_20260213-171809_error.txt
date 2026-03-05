@@ -1,0 +1,6 @@
+Error: Expecting property name enclosed in double quotes: line 3 column 2728 (char 2822)
+Line: 3, Col: 2728
+Message: Expecting property name enclosed in double quotes
+
+Context (2622-3022):
+ll em cena de Good Luck, Have Fun, Don't Die.</figcaption></figure><h2>O Processo Criativo e a IA</h2><p>Em entrevista, Gore Verbinski revelou que o roteiro de Robinson o atraiu pela sua \"urgência", sentindo que a história precisava ser contada naquele momento. Recebido em 2020, o roteiro original de 2017 passou por dois anos de refinamento, com uma das principais mudanças sendo o antagonista de 

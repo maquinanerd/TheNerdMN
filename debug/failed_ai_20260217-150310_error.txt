@@ -1,0 +1,6 @@
+Error: Expecting property name enclosed in double quotes: line 5 column 5651 (char 5773)
+Line: 5, Col: 5651
+Message: Expecting property name enclosed in double quotes
+
+Context (5573-5973):
+s efeitos de gelar o estômago, e o remake mostra exatamente o que acontece com as vítimas da gosma titular. <em>O Ataque dos Vermes Malditos</em> conta a narrativa de \"ninguém ouve os adolescentes", e os jovens são vistos como forasteiros por seus próprios vizinhos. Poderia ter acontecido em uma cidade grande, mas seu cenário de pequena cidade é ainda mais assustador.</p><h2>Salem's Lot (1979)</h

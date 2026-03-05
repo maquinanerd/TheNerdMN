@@ -1,0 +1,6 @@
+Error: Expecting property name enclosed in double quotes: line 5 column 2560 (char 2677)
+Line: 5, Col: 2560
+Message: Expecting property name enclosed in double quotes
+
+Context (2477-2877):
+A série <em>Mr. Robot</em> exemplifica o padrão ouro para uma <strong>escolha musical marcante na TV</strong>. Ao usar um cover de piano assustador da clássica canção dos Pixies, \"Where Is My Mind", o criador Sam Esmail prestou homenagem a <em>Clube da Luta</em> e sinalizou ao público que a realidade de Elliot estava se desintegrando. A escolha transformou um thriller tecnológico em uma tragédia 

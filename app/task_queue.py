@@ -4,6 +4,8 @@ from collections import deque
 class ArticleQueue:
     def __init__(self):
         self.q = deque()
+    def push(self, item):
+        self.q.append(item)
     def push_many(self, items):
         self.q.extend(items)
     def pop(self):

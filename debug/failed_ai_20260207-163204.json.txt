@@ -1,0 +1,55 @@
+{
+  "resultados": [
+    {
+      "titulo_final": "A Knight of the Seven Kingdoms: Criador explica runtime curto e tradição quebrada",
+      "conteudo_final": "<p><strong><em>A Knight of the Seven Kingdoms</em></strong> quebra uma tradição importante de <em>Game of Thrones</em> em relação à duração de seus episódios.</p><p>Enquanto episódios de <em>Game of Thrones</em> geralmente duram perto de uma hora, e <em>House of the Dragon</em> manteve essa média com episódios de no mínimo 54 minutos, a nova série apresenta capítulos com cerca de 30 minutos. O episódio de estreia teve 42 minutos, o mais longo da temporada. Essa duração mais curta gerou comentários de audiências que sentem que a série é muito rápida, especialmente com apenas seis episódios na primeira temporada.</p><p>Em entrevista à <em>GQ</em>, o criador Ira Parker defendeu a decisão. Ele revelou que a HBO já havia oferecido essa possibilidade antes mesmo de apresentar a ideia a George R. R. Martin. Parker admitiu que a duração menor \"tornou tudo mais fácil\" para adaptar a obra, mas ele precisou convencer Martin de que a série poderia ser bem-sucedida nesse formato, pois uma das grandes preocupações do autor era que a adaptação não se estendesse demais.</p><p>A escolha pelo runtime reduzido permitiu que a equipe não \"esticasse\" a narrativa nem adicionasse \"estranhas missões secundárias\" com Dunk e Egg. Parker comparou o processo a adaptar um livro de trezentas páginas, tornando a adaptação \"natural\" e \"fácil\".</p><blockquote><p>“Ele [Martin] sabendo que a HBO não ia forçar isso — então pudemos apenas nos divertir. Pudemos passar tempo em Westeros. Pudemos conhecer melhor Dunk e Egg e o relacionamento deles. Na primeira temporada, pudemos introduzir um pouco de nossos Julgamentos dos Sete antes do confronto principal. Lyonel Baratheon tem um papel muito maior na série do que no livro, onde acho que ele tem uma fala logo antes do julgamento. Muito disso foi muito natural. Foi muito fácil.”</p></blockquote><p>Os episódios de uma hora de <em>Game of Thrones</em> e <em>House of the Dragon</em> são justificáveis pela necessidade de cobrir múltiplas perspectivas em escala épica e diferentes localizações. Em contraste, <em>A Knight of the Seven Kingdoms</em> foca na história central de Ser Duncan e seu escudeiro Egg, tornando-a mais focada nos personagens. Além disso, os riscos da trama são menores em comparação com suas antecessoras, sem grandes guerras em Westeros.</p><p>A série é uma adaptação da série de novelas de George R. R. Martin, <em>Tales of Dunk and Egg</em>. Essas histórias são significativamente mais curtas que os livros principais de <em>Game of Thrones</em>, que podem ter quase 600 a 700 páginas. Isso torna o spin-off ainda mais fiel aos livros devido à narrativa concisa e focada, sem a necessidade de adicionar conteúdo extra apenas para preencher tempo.</p><figure><img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/dunk-sitting-in-a-field-in-a-knight-of-the-seven-kingdoms.jpg?q=49&fit=crop&w=825&dpr=2" alt="Dunk sentado em um campo em A Knight of the Seven Kingdoms"/><figcaption>Ser Duncan the Tall em uma cena de A Knight of the Seven Kingdoms.</figcaption></figure><p>A decisão também é crucial, dado o histórico de Martin com as outras séries. Embora o autor tenha expressado decepção com a oitava temporada de <em>Game of Thrones</em>, os problemas de adaptação continuaram com <em>House of the Dragon</em>. Martin compartilhou que seu relacionamento com o showrunner Ryan Condal tem sido \"abismal\".</p><p>Parker, por outro lado, mostrou-se empenhado em garantir a satisfação de Martin com a nova série da HBO, afirmando: \"Ficou claro o quão próximo ele estava desse material e o quanto ele ama as histórias e esses personagens. Fiz minha missão deixá-lo feliz nesta temporada.\" Antes do lançamento, o autor elogiou a série, chamando-a de \"incrível\" e \"a adaptação mais fiel que um homem razoável poderia esperar\".</p><p>Embora os espectadores tenham reclamado do runtime curto do novo spin-off, isso não vem sem um bom motivo. Cada episódio de <em>A Knight of the Seven Kingdoms</em> tem impressionado o público com a narrativa concisa, a dinâmica entre Ser Duncan e Egg, e o drama Targaryen. O episódio mais recente, \"Seven\", recebeu aclamação quase universal, com Ser Duncan enfrentando um julgamento de sete em uma situação de vida ou morte.</p><p>Assim, fica claro que, mesmo com as preocupações sobre a duração, isso parece ter pouco impacto na recepção, já que a série atualmente ostenta uma pontuação de 95% no Rotten Tomatoes. Além disso, a história ainda não acabou, com a HBO já renovando a série para a segunda temporada.</p><p><strong><em>A Knight of the Seven Kingdoms</em> tem mais dois episódios restantes, que serão exibidos aos domingos na HBO Max às 22h, horário de Brasília.</strong></p>",
+      "meta_description": "Descubra por que A Knight of the Seven Kingdoms quebra a tradição de runtime de Game of Thrones e o que o criador Ira Parker diz sobre a decisão.",
+      "focus_keyphrase": "A Knight of the Seven Kingdoms runtime",
+      "related_keyphrases": [
+        "A Knight of the Seven Kingdoms duração",
+        "Game of Thrones tradição",
+        "Ira Parker entrevista"
+      ],
+      "slug": "a-knight-of-the-seven-kingdoms-runtime-tradicao",
+      "categorias": [
+        {
+          "nome": "A Knight of the Seven Kingdoms",
+          "grupo": "obras",
+          "evidence": "<em>A Knight of the Seven Kingdoms</em> has broken a major <em>Game of Thrones</em> tradition"
+        },
+        {
+          "nome": "Game of Thrones",
+          "grupo": "franquias",
+          "evidence": "major <em>Game of Thrones</em> tradition"
+        },
+        {
+          "nome": "House of the Dragon",
+          "grupo": "obras",
+          "evidence": "<em>House of the Dragon</em>, continued that trend"
+        }
+      ],
+      "tags_sugeridas": [
+        "A Knight of the Seven Kingdoms",
+        "Game of Thrones",
+        "House of the Dragon",
+        "George R. R. Martin",
+        "HBO Max",
+        "Ira Parker",
+        "Ser Duncan the Tall"
+      ],
+      "image_alt_texts": {
+        "dunk-sitting-in-a-field-in-a-knight-of-the-seven-kingdoms.jpg": "Ser Duncan the Tall sentado em um campo em uma cena da série A Knight of the Seven Kingdoms."
+      },
+      "yoast_meta": {
+        "_yoast_wpseo_title": "A Knight of the Seven Kingdoms: Criador explica runtime curto e tradição quebrada",
+        "_yoast_wpseo_metadesc": "Descubra por que A Knight of the Seven Kingdoms quebra a tradição de runtime de Game of Thrones e o que o criador Ira Parker diz sobre a decisão.",
+        "_yoast_wpseo_focuskw": "A Knight of the Seven Kingdoms runtime",
+        "_yoast_news_keywords": "A Knight of the Seven Kingdoms, Game of Thrones, House of the Dragon, George R. R. Martin, HBO Max, Ira Parker, Ser Duncan the Tall, runtime",
+        "_yoast_wpseo_opengraph-title": "A Knight of the Seven Kingdoms: Criador explica runtime curto e tradição quebrada",
+        "_yoast_wpseo_opengraph-description": "Descubra por que A Knight of the Seven Kingdoms quebra a tradição de runtime de Game of Thrones e o que o criador Ira Parker diz sobre a decisão.",
+        "_yoast_wpseo_twitter-title": "A Knight of the Seven Kingdoms: Criador explica runtime curto e tradição quebrada",
+        "_yoast_wpseo_twitter-description": "Descubra por que A Knight of the Seven Kingdoms quebra a tradição de runtime de Game of Thrones e o que o criador Ira Parker diz sobre a decisão."
+      }
+    }
+  ]
+}

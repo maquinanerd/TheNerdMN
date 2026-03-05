@@ -1,0 +1,6 @@
+Error: Expecting property name enclosed in double quotes: line 5 column 1272 (char 1384)
+Line: 5, Col: 1272
+Message: Expecting property name enclosed in double quotes
+
+Context (1184-1584):
+a novo diretor para a sequência</h2><p>Com a saída de Wingard, a Paramount Pictures está reavaliando seus planos para <em>Face/Off 2</em>. O estúdio abriu um processo de \"open directing assignment", convidando diversos diretores a apresentarem suas propostas e planos de desenvolvimento para o filme. A expectativa é que um novo nome seja escolhido em breve para assumir a direção.</p><h2>Legado e s

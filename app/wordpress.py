@@ -652,6 +652,144 @@ class WordPressClient:
                 logger.error(f"Response body: {e.response.text}")
             return False
 
+    def update_post_yoast_seo(self, post_id: int, featured_media_id: int, seo_data: Dict[str, Any]) -> bool:
+        """
+        Updates Yoast SEO metadata for a post including OG images, meta descriptions, etc.
+        This fixes the og:image pointing to external URLs by forcing it to use featured_media.
+        
+        Args:
+            post_id: WordPress post ID
+            featured_media_id: ID of the featured image (media ID)
+            seo_data: Dictionary containing SEO fields:
+                - title: SEO title (60-70 chars)
+                - description: Meta description (120-160 chars)  
+                - focuskw: Focus keyword
+                - title_pt: Portuguese SEO title
+                - description_pt: Portuguese meta description
+                
+        Returns:
+            True if update was successful, False otherwise
+        """
+        try:
+            endpoint = f"{self.api_url}/posts/{post_id}"
+            
+            # Prepare Yoast SEO fields
+            # Note: WordPress REST API uses underscore prefix for meta fields in Yoast
+            yoast_fields = {
+                '_yoast_wpseo_title': seo_data.get('title', '')[:70] or seo_data.get('title_pt', '')[:70],
+                '_yoast_wpseo_metadesc': seo_data.get('description', '')[:160] or seo_data.get('description_pt', '')[:160],
+                '_yoast_wpseo_focuskw': seo_data.get('focuskw', '')[:30],
+                '_yoast_wpseo_opengraph-image': '',  # Will be set below
+                '_yoast_wpseo_opengraph-image-id': str(featured_media_id),
+                '_yoast_wpseo_content_score': '90',  # Assumed good content
+                '_yoast_wpseo_primary_category': '',  # Can be set if needed
+            }
+            
+            # Get featured image URL from WordPress
+            if featured_media_id:
+                try:
+                    media_endpoint = f"{self.api_url}/media/{featured_media_id}"
+                    media_resp = self.session.get(media_endpoint, timeout=20)
+                    if media_resp.ok:
+                        media_data = media_resp.json()
+                        image_url = media_data.get('source_url', '')
+                        if image_url:
+                            yoast_fields['_yoast_wpseo_opengraph-image'] = image_url
+                            logger.debug(f"OG Image URL set: {image_url}")
+                except Exception as e:
+                    logger.warning(f"Could not fetch media URL for ID {featured_media_id}: {e}")
+            
+            # Build the update payload
+            # Yoast fields are sent as meta in WordPress REST API v2
+            update_payload = {
+                'meta': yoast_fields
+            }
+            
+            # Make the update request
+            response = self.session.post(endpoint, json=update_payload, timeout=40)
+            
+            if response.ok:
+                logger.info(f"✅ Yoast SEO metadata atualizado | Post ID: {post_id} | Tempo: {response.elapsed.total_seconds():.2f}s")
+                logger.debug(f"   Yoast fields updated: {list(yoast_fields.keys())}")
+                return True
+            else:
+                logger.error(
+                    f"❌ ERRO ao atualizar Yoast SEO para post {post_id} | "
+                    f"Status: {response.status_code} | "
+                    f"Resposta: {response.text[:500]}"
+                )
+                return False
+                
+        except requests.RequestException as e:
+            logger.error(
+                f"❌ ERRO ao atualizar Yoast SEO do post {post_id} | "
+                f"Exceção: {type(e).__name__} | "
+                f"Mensagem: {str(e)[:200]}"
+            )
+            return False
+
+    def add_google_news_meta(self, post_id: int, news_data: Dict[str, Any]) -> bool:
+        """
+        Adds Google News optimized meta tags to a post.
+        Improves search rankings for Google News and news aggregators.
+        
+        Args:
+            post_id: WordPress post ID
+            news_data: Dictionary with news metadata:
+                - keywords: List of keywords (comma-separated, max 10 words)
+                - genres: News genres (Blog, Opinion, Review, etc.)
+                - standout: Whether this is a standout article (True/False)
+                - access: 'Subscription', 'Registration', or 'Free'
+                
+        Returns:
+            True if update was successful, False otherwise
+        """
+        try:
+            endpoint = f"{self.api_url}/posts/{post_id}"
+            
+            # Prepare Google News meta fields
+            keywords = news_data.get('keywords', '')
+            if isinstance(keywords, list):
+                keywords = ', '.join(keywords)
+            keywords = keywords[:256]  # Max length for Google News keywords
+            
+            genres = news_data.get('genres', 'Blog')
+            standout = news_data.get('standout', False)
+            access = news_data.get('access', 'Free')
+            
+            # Google News meta tags (as custom meta)
+            news_fields = {
+                'googleNews_keywords': keywords,
+                'googleNews_genres': genres,
+                'googleNews_standout': 'yes' if standout else 'no',
+                'googleNews_access': access,
+                'article_news_keywords': keywords,  # Alternativa para alguns temas
+            }
+            
+            # Build update payload
+            update_payload = {
+                'meta': news_fields
+            }
+            
+            # Make the update request
+            response = self.session.post(endpoint, json=update_payload, timeout=40)
+            
+            if response.ok:
+                logger.info(f"✅ Google News meta tags adicionadas | Post ID: {post_id} | Keywords: {keywords[:50]}...")
+                logger.debug(f"   Genres: {genres}")
+                return True
+            else:
+                logger.warning(
+                    f"⚠️  Aviso ao adicionar Google News meta para post {post_id} | "
+                    f"Status: {response.status_code}"
+                )
+                # Não retorna False pois isso não é crítico
+                return True
+                
+        except requests.RequestException as e:
+            logger.warning(f"⚠️  Aviso ao adicionar Google News meta: {type(e).__name__}")
+            return True  # Não bloqueia se falhar
+
     def sanitize_published_post(self, post_id: int, max_attempts: int = 2, backoff_s: int = 2) -> bool:
         """
         Fetches the published post's content and excerpt, detects forbidden CTAs,

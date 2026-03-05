@@ -31,6 +31,7 @@ class AIClient:
     def generate_text(self, prompt: str, **kwargs) -> tuple:
         """Generate text and return (text, tokens_info) tuple.
         tokens_info is a dict with 'prompt_tokens' and 'completion_tokens'.
+        GARANTIDO: Sempre retorna tokens, mesmo com fallback.
         """
         backoff = self.backoff_base
         attempt = 0
@@ -49,12 +50,26 @@ class AIClient:
                 resp = m.generate_content(prompt, **kwargs)
                 logging.info(f"IA OK: Tentativa {attempt} sucesso com chave ****{slot.key[-4:]}")
                 
-                # Capturar informações de tokens
-                tokens_info = {}
+                # Capturar informações de tokens - OBRIGATÓRIO
+                tokens_info = {'prompt_tokens': 0, 'completion_tokens': 0}
                 if hasattr(resp, 'usage_metadata') and resp.usage_metadata:
-                    tokens_info['prompt_tokens'] = getattr(resp.usage_metadata, 'prompt_token_count', 0)
-                    tokens_info['completion_tokens'] = getattr(resp.usage_metadata, 'candidates_token_count', 0)
-                    logging.info(f"TOKENS: Entrada={tokens_info.get('prompt_tokens', 0)} | Saída={tokens_info.get('completion_tokens', 0)}")
+                    prompt_tokens = getattr(resp.usage_metadata, 'prompt_token_count', None)
+                    completion_tokens = getattr(resp.usage_metadata, 'candidates_token_count', None)
+                    
+                    if prompt_tokens is not None:
+                        tokens_info['prompt_tokens'] = int(prompt_tokens)
+                    if completion_tokens is not None:
+                        tokens_info['completion_tokens'] = int(completion_tokens)
+                    
+                    logging.info(f"🔢 TOKENS CAPTURADOS: Entrada={tokens_info['prompt_tokens']} | Saída={tokens_info['completion_tokens']} | Total={tokens_info['prompt_tokens'] + tokens_info['completion_tokens']}")
+                else:
+                    logging.warning(f"⚠️  AVISO: Sem metadata de tokens. Estado da resposta: {type(resp).__name__}")
+                
+                # Validação obrigatória
+                total = tokens_info['prompt_tokens'] + tokens_info['completion_tokens']
+                if total == 0:
+                    logging.warning(f"⚠️  TOKENS ZERADOS! Pode indicar erro na resposta.")
+                    logging.debug(f"Response type: {type(resp)}, Has usage_metadata: {hasattr(resp, 'usage_metadata')}")
                 
                 return ((resp.text or "").strip(), tokens_info)
 

@@ -1,0 +1,52 @@
+{
+  "titulo_final": "Game of Thrones: O Julgamento dos Sete Ocorre pela Primeira Vez em Séculos",
+  "conteudo_final": "<p>O quarto episódio de <strong><em>A Knight of the Seven Kingdoms</em></strong> apresentou o Julgamento dos Sete, um evento histórico raro no universo de <strong><em>Game of Thrones</em></strong>. Construído meticulosamente por George R.R. Martin, o mundo de fantasia das séries da HBO possui uma história extensa que explica a origem e a raridade deste tipo de julgamento.</p><h2>O Julgamento dos Sete em A Knight of the Seven Kingdoms</h2><p>O Julgamento dos Sete é semelhante ao Julgamento por Combate visto em <em>Game of Thrones</em>. Ele oferece a uma pessoa acusada de um crime a chance de provar sua inocência quando um resultado favorável em tribunal é improvável. Contudo, em vez de uma batalha individual, o acusador e o acusado se enfrentam em equipes de sete.</p><p>No episódio 4 de <em>A Knight of the Seven Kingdoms</em>, Dunk precisa encontrar seis homens para lutar ao seu lado contra o Príncipe Aerion e seus seis combatentes. Lyonel Baratheon, que se voluntaria para lutar com Dunk, menciona que este é o primeiro Julgamento dos Sete em mais de 100 anos. Ele não está errado, pois o único outro uso conhecido deste tipo de julgamento ocorreu 167 anos antes do incidente de Dunk em Ashford Meadow.</p><figure class="video-container"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/daniel-ings_0-1.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Lyonel Baratheon (Daniel Ings) sorrindo ao lado de seu cavalo em A Knight of the Seven Kingdoms.\"><figcaption>Lyonel Baratheon em uma cena de A Knight of the Seven Kingdoms.</figcaption></figure><h2>O Último Julgamento dos Sete Ocorreu 167 Anos Antes</h2><p>A única outra instância de um Julgamento dos Sete registrada na história de Westeros ocorreu em 42 d.C., quando o acusado era o Rei Maegor I Targaryen, filho de Aegon, o Conquistador. Maegor foi o terceiro Rei Targaryen de Westeros, assumindo o trono após seu irmão mais velho, Aenys I Targaryen.</p><p>O reinado de Maegor foi fortemente contestado pela Fé dos Sete, tanto porque os filhos de Aenys deveriam ter sido os próximos na sucessão quanto porque Maegor havia se casado com uma segunda esposa. A Fé nunca esteve particularmente feliz com o governo Targaryen, pois considerava o incesto e a poligamia abominações contra os Sete. Isso levou a várias revoltas após a conquista de Aegon, o que culminou no Julgamento dos Sete de Maegor.</p><p>Um homem piedoso chamado Ser Damon Morrigen, Grande Capitão dos Filhos Guerreiros, desafiou o Rei Maegor para um Julgamento dos Sete. Se Maegor perdesse, seria um sinal dos Sete de que ele não era o governante legítimo de Westeros. No final, Maegor foi o único homem entre os 14 combatentes a sobreviver.</p><figure class="video-container"><img src=\"https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/prince-aerion-with-his-helmet-visor-up-in-a-knight-of-the-seven-kingdoms.jpg?q=49&fit=crop&w=825&dpr=2\" alt=\"Príncipe Aerion com a viseira do capacete levantada em A Knight of the Seven Kingdoms.\"><figcaption>Príncipe Aerion em A Knight of the Seven Kingdoms.</figcaption></figure><h2>Por Que o Julgamento dos Sete é Tão Raro na História de Game of Thrones</h2><p>Embora provavelmente tenham existido mais Julgamentos dos Sete esquecidos pela história, os de Maegor e Dunk são os únicos lembrados durante os eventos de <em>Game of Thrones</em>. Não é algo que qualquer acusador ou acusado exigiria, pois é muito mais difícil encontrar 13 homens adicionais para arriscar suas vidas quando um Julgamento por Combate tradicional resultaria em menos perdas.</p><p>Além disso, o Julgamento dos Sete do Rei Maegor não teria encorajado novos desafios desse tipo. Isso coloca em perspectiva o quão ultrajante foi que o Príncipe Aerion exigisse tal coisa em <em>A Knight of the Seven Kingdoms</em>. Os Targaryen não eram inicialmente devotos aos Sete, pois esta era uma religião dos povos que conquistaram, não uma prática em Valíria. Embora a Casa do Dragão eventualmente tenha abraçado a Fé, o Julgamento dos Sete seria para sempre lembrado como um desafio contra o governo Targaryen.</p><p>Não é de admirar que o Príncipe Maekar tenha ficado furioso com Aerion por se rebaixar a ponto de exigir um Julgamento dos Sete. Poderia ter sido considerado traição, o que é irônico, considerando que Dunk está sendo julgado por defender uma garota cujo show de fantoches Aerion considerou traição. Entre essas duas instâncias do Julgamento dos Sete, fica claro por que tudo foi evitado até e depois de <strong><em>A Knight of the Seven Kingdoms</em></strong>.</p>",
+  "meta_description": "Descubra a história e a raridade do Julgamento dos Sete em Game of Thrones, um evento crucial em A Knight of the Seven Kingdoms e no reinado de Maegor Targaryen.",
+  "focus_keyphrase": "Julgamento dos Sete Game of Thrones",
+  "related_keyphrases": [
+    "A Knight of the Seven Kingdoms Julgamento dos Sete",
+    "História de Westeros Julgamento dos Sete",
+    "Maegor Targaryen Julgamento dos Sete"
+  ],
+  "slug": "game-of-thrones-julgamento-dos-sete-historia",
+  "categorias": [
+    {
+      "nome": "A Knight of the Seven Kingdoms",
+      "grupo": "obras",
+      "evidence": "A Knight of the Seven Kingdoms episode 4"
+    },
+    {
+      "nome": "Game of Thrones",
+      "grupo": "franquias",
+      "evidence": "Game of Thrones universe"
+    },
+    {
+      "nome": "Targaryen",
+      "grupo": "familias",
+      "evidence": "Maegor I Targaryen"
+    }
+  ],
+  "tags_sugeridas": [
+    "A Knight of the Seven Kingdoms",
+    "Game of Thrones",
+    "George R.R. Martin",
+    "Targaryen",
+    "Maegor I Targaryen",
+    "Julgamento dos Sete",
+    "Westeros"
+  ],
+  "image_alt_texts": {
+    "daniel-ings_0-1.jpg": "Lyonel Baratheon (Daniel Ings) sorrindo ao lado de seu cavalo em A Knight of the Seven Kingdoms.",
+    "prince-aerion-with-his-helmet-visor-up-in-a-knight-of-the-seven-kingdoms.jpg": "Príncipe Aerion com a viseira do capacete levantada em A Knight of the Seven Kingdoms."
+  },
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Game of Thrones: O Julgamento dos Sete Ocorre pela Primeira Vez em Séculos",
+    "_yoast_wpseo_metadesc": "Descubra a história e a raridade do Julgamento dos Sete em Game of Thrones, um evento crucial em A Knight of the Seven Kingdoms e no reinado de Maegor Targaryen.",
+    "_yoast_wpseo_focuskw": "Julgamento dos Sete Game of Thrones",
+    "_yoast_news_keywords": "A Knight of the Seven Kingdoms, Game of Thrones, Julgamento dos Sete, Maegor Targaryen, Westeros, George R.R. Martin, Targaryen",
+    "_yoast_wpseo_opengraph-title": "Game of Thrones: O Julgamento dos Sete Ocorre pela Primeira Vez em Séculos",
+    "_yoast_wpseo_opengraph-description": "Descubra a história e a raridade do Julgamento dos Sete em Game of Thrones, um evento crucial em A Knight of the Seven Kingdoms e no reinado de Maegor Targaryen.",
+    "_yoast_wpseo_twitter-title": "Game of Thrones: O Julgamento dos Sete Ocorre pela Primeira Vez em Séculos",
+    "_yoast_wpseo_twitter-description": "Descubra a história e a raridade do Julgamento dos Sete em Game of Thrones, um evento crucial em A Knight of the Seven Kingdoms e no reinado de Maegor Targaryen."
+  }
+}

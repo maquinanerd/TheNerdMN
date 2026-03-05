@@ -15,6 +15,7 @@ from .config import (
 from .exceptions import AIProcessorError
 from .ai_client_gemini import AIClient
 from .token_tracker import log_tokens
+from .token_guarantee import log_guaranteed, TokenGuarantee  # Double-layer token protection
 
 # Get rate limit configs from environment or use defaults from the user's plan
 AI_MIN_INTERVAL_S = float(os.getenv('AI_MIN_INTERVAL_S', 6))
@@ -195,22 +196,32 @@ class AIProcessor:
                 response_text = response_data
                 tokens_info = {}
             
-            # Log tokens se disponíveis
-            if tokens_info and ('prompt_tokens' in tokens_info or 'completion_tokens' in tokens_info):
-                # Extrair source_url e título de cada item do batch
-                for idx, batch_item in enumerate(batch_data):
-                    source_url = batch_item.get('source_url', 'N/A')
-                    article_title = batch_item.get('title', 'N/A')
-                    
-                    log_tokens(
-                        prompt_tokens=tokens_info.get('prompt_tokens', 0),
-                        completion_tokens=tokens_info.get('completion_tokens', 0),
-                        api_type="gemini",
-                        model=os.getenv("GEMINI_MODEL_ID", "gemini-2.5-flash-lite"),
-                        metadata={"batch_size": len(batch_data), "operation": "batch_rewrite", "batch_index": idx},
-                        source_url=source_url,
-                        article_title=article_title
-                    )
+            # Log tokens - OBRIGATÓRIO (sempre registrar)
+            prompt_tokens = tokens_info.get('prompt_tokens', 0) if tokens_info else 0
+            completion_tokens = tokens_info.get('completion_tokens', 0) if tokens_info else 0
+            
+            for idx, batch_item in enumerate(batch_data):
+                source_url = batch_item.get('source_url', 'N/A')
+                article_title = batch_item.get('title', 'N/A')
+                
+                success = log_tokens(
+                    prompt_tokens=int(prompt_tokens),
+                    completion_tokens=int(completion_tokens),
+                    api_type="gemini",
+                    model=os.getenv("GEMINI_MODEL_ID", "gemini-2.5-flash-lite"),
+                    api_key_suffix=used_key if 'used_key' in locals() else "unknown",
+                    metadata={
+                        "batch_size": len(batch_data),
+                        "operation": "batch_rewrite",
+                        "batch_index": idx,
+                        "total_tokens": int(prompt_tokens + completion_tokens)
+                    },
+                    source_url=source_url,
+                    article_title=article_title,
+                    success=True
+                )
+                if not success:
+                    logger.error(f"❌ ERRO: Falha ao registrar tokens para {article_title}")
             
             # Log qual chave foi usada para processar este batch
             used_key = self._ai_client.get_last_used_key()
@@ -282,17 +293,27 @@ class AIProcessor:
                 response_text = response_data
                 tokens_info = {}
             
-            # Log tokens se disponíveis
-            if tokens_info and ('prompt_tokens' in tokens_info or 'completion_tokens' in tokens_info):
-                log_tokens(
-                    prompt_tokens=tokens_info.get('prompt_tokens', 0),
-                    completion_tokens=tokens_info.get('completion_tokens', 0),
-                    api_type="gemini",
-                    model=os.getenv("GEMINI_MODEL_ID", "gemini-2.5-flash-lite"),
-                    metadata={"operation": "single_rewrite", "source_url": source_url},
-                    source_url=source_url,
-                    article_title=title
-                )
+            # Log tokens - OBRIGATÓRIO (sempre registrar)
+            prompt_tokens = tokens_info.get('prompt_tokens', 0) if tokens_info else 0
+            completion_tokens = tokens_info.get('completion_tokens', 0) if tokens_info else 0
+            
+            success = log_tokens(
+                prompt_tokens=int(prompt_tokens),
+                completion_tokens=int(completion_tokens),
+                api_type="gemini",
+                model=os.getenv("GEMINI_MODEL_ID", "gemini-2.5-flash-lite"),
+                api_key_suffix=self._ai_client.get_last_used_key(),
+                metadata={
+                    "operation": "single_rewrite",
+                    "source_url": source_url,
+                    "total_tokens": int(prompt_tokens + completion_tokens)
+                },
+                source_url=source_url,
+                article_title=title,
+                success=True
+            )
+            if not success:
+                logger.error(f"❌ ERRO: Falha ao registrar tokens para {title}")
             
             parsed_data = self._parse_response(response_text)
 
@@ -344,6 +365,68 @@ class AIProcessor:
         """
         # Remove BOM
         s = s.replace('\ufeff', '')
+        
+        # PASSO 0: Handle escaped newlines inside "conteudo_final" more carefully
+        # Make sure actual newlines inside the content are properly escaped
+        def fix_newlines_in_field(text: str) -> str:
+            """Fix unescaped newlines inside JSON string fields."""
+            result = []
+            i = 0
+            in_conteudo_final = False
+            in_string = False
+            escape_next = False
+            
+            while i < len(text):
+                char = text[i]
+                
+                # Track escape sequences
+                if escape_next:
+                    result.append(char)
+                    escape_next = False
+                    i += 1
+                    continue
+                
+                # Check if we're entering a backslash escape
+                if char == '\\' and in_string:
+                    result.append(char)
+                    escape_next = True
+                    i += 1
+                    continue
+                
+                # Track if we're in the conteudo_final field
+                if text[i:].startswith('"conteudo_final"'):
+                    in_conteudo_final = True
+                    result.append(text[i:i+16])
+                    i += 16
+                    continue
+                
+                # Track string state (quotes that aren't escaped)
+                if char == '"':
+                    result.append(char)
+                    in_string = not in_string
+                    
+                    # If we just closed conteudo_final, reset the flag
+                    if in_conteudo_final and not in_string:
+                        in_conteudo_final = False
+                    
+                    i += 1
+                    continue
+                
+                # Fix literal newlines inside strings (they must be escaped)
+                if in_string and char in ('\n', '\r'):
+                    if char == '\n':
+                        result.append('\\n')
+                    elif char == '\r':
+                        result.append('\\r')
+                    i += 1
+                    continue
+                
+                result.append(char)
+                i += 1
+            
+            return ''.join(result)
+        
+        s = fix_newlines_in_field(s)
         
         # PASSO 1: Remove truly invalid control characters (not tab/newline/CR)
         def remove_truly_invalid_control_chars(text: str) -> str:
@@ -451,50 +534,70 @@ class AIProcessor:
     def _escape_unescaped_quotes_in_html(text: str) -> str:
         """Escape unescaped quotes that appear inside HTML content within JSON strings.
         
-        This fixes issues like: <blockquote><p>He said "something"</p></blockquote>
-        which should be: <blockquote><p>He said \"something\"</p></blockquote>
+        Uses a character-by-character approach to properly handle quotes in HTML.
         """
-        # Pattern to match "conteudo_final": "...HTML content..."
-        # We use a regex to find the field and its value, then process the HTML content
+        result = []
+        i = 0
         
-        def escape_html_quotes(match):
-            """Escape quotes inside the HTML content."""
-            prefix = match.group(1)  # "conteudo_final": "
-            html_content = match.group(2)  # The HTML content
-            suffix = match.group(3)  # Final quote
-            
-            # Escape unescaped quotes in HTML content (but not those already escaped)
-            # Be careful: we need to escape " that isn't already escaped with \
-            result = []
-            i = 0
-            while i < len(html_content):
-                if html_content[i] == '\\' and i + 1 < len(html_content):
-                    # Already escaped character, keep both
-                    result.append(html_content[i])
-                    result.append(html_content[i + 1])
-                    i += 2
-                elif html_content[i] == '"':
-                    # Unescaped quote, escape it
-                    result.append('\\')
+        # Find "conteudo_final": " and then process the content until the closing quote
+        while i < len(text):
+            # Look for "conteudo_final": "
+            if text[i:].startswith('"conteudo_final"'):
+                # Found conteudo_final field, copy up to and including the opening quote
+                j = i + 16  # Length of "conteudo_final"
+                result.append(text[i:j])
+                i = j
+                
+                # Skip whitespace and colon
+                while i < len(text) and text[i] in (' ', ':', '\t'):
+                    result.append(text[i])
+                    i += 1
+                
+                # Must have opening quote
+                if i < len(text) and text[i] == '"':
                     result.append('"')
                     i += 1
+                    
+                    # Now we need to find the actual closing quote
+                    # We need to process character by character, properly handling escapes
+                    # Escape any unescaped quotes we encounter
+                    while i < len(text):
+                        char = text[i]
+                        
+                        if char == '\\' and i + 1 < len(text):
+                            # This is an escape sequence - keep both characters as-is
+                            result.append(char)
+                            result.append(text[i + 1])
+                            i += 2
+                        elif char == '"':
+                            # This is an unescaped quote - check if it's the closing quote
+                            # by looking ahead to see if we find a comma or bracket next
+                            next_idx = i + 1
+                            while next_idx < len(text) and text[next_idx] in (' ', '\t', '\n', '\r'):
+                                next_idx += 1
+                            
+                            # If next non-whitespace is comma, bracket, or brace, this is the closing quote
+                            if next_idx < len(text) and text[next_idx] in (',', '}', ']'):
+                                # This is the closing quote
+                                result.append('"')
+                                i += 1
+                                break
+                            else:
+                                # This is an unescaped quote in the middle of content - escape it
+                                result.append('\\')
+                                result.append('"')
+                                i += 1
+                        else:
+                            result.append(char)
+                            i += 1
                 else:
-                    result.append(html_content[i])
-                    i += 1
-            
-            return prefix + ''.join(result) + suffix
+                    # Malformed JSON, just continue
+                    pass
+            else:
+                result.append(text[i])
+                i += 1
         
-        # Match: "conteudo_final": "..." where ... is HTML content
-        # This is tricky because the HTML can contain backslashes and quotes
-        # So we use a non-greedy match and process carefully
-        text = re.sub(
-            r'("conteudo_final"\s*:\s*")([^"\\]*(?:(?:\\.|"(?:[^"\\]*\\.)*[^"\\]*)*[^"\\])*?)(")',
-            escape_html_quotes,
-            text,
-            flags=re.DOTALL
-        )
-        
-        return text
+        return ''.join(result)
     
     @classmethod
     def _parse_and_normalize_ai_response(cls, raw_text: str) -> Dict[str, Any]:
@@ -532,6 +635,8 @@ class AIProcessor:
             data = json.loads(s)
         except json.JSONDecodeError as e:
             logger.error(f"Initial JSON decoding failed: {e}. Trying with secondary fixes.")
+            logger.debug(f"JSON Error at line {e.lineno}, col {e.colno}: {e.msg}")
+            logger.debug(f"Context (chars {max(0, e.pos-100)}-{min(len(s), e.pos+100)}): ...{s[max(0, e.pos-100):min(len(s), e.pos+100)]}...")
             
             # More aggressive cleaning on second attempt
             s2 = cls._auto_fix_common_issues(s)
@@ -542,6 +647,7 @@ class AIProcessor:
                 data = json.loads(s2)
             except json.JSONDecodeError as second_e:
                 logger.error(f"Secondary JSON decoding failed: {second_e}. Trying aggressive escape.")
+                logger.debug(f"JSON Error at line {second_e.lineno}, col {second_e.colno}: {second_e.msg}")
                 
                 # Last resort: Try to escape any remaining problematic sequences
                 try:
@@ -551,10 +657,32 @@ class AIProcessor:
                     debug_dir = Path("debug")
                     debug_dir.mkdir(exist_ok=True)
                     timestamp = time.strftime("%Y%m%d-%H%M%S")
+                    
+                    # Save raw response with detailed error info
                     failed_path = debug_dir / f"failed_ai_{timestamp}.json.txt"
                     with open(failed_path, "w", encoding="utf-8") as f:
                         f.write(raw_text)
-                    logger.critical(f"JSON decoding failed permanently. Raw response saved to {failed_path}")
+                    
+                    # Save cleaned version for comparison
+                    cleaned_path = debug_dir / f"failed_ai_{timestamp}_cleaned.txt"
+                    with open(cleaned_path, "w", encoding="utf-8") as f:
+                        f.write(s3)
+                    
+                    # Save error details
+                    error_path = debug_dir / f"failed_ai_{timestamp}_error.txt"
+                    with open(error_path, "w", encoding="utf-8") as f:
+                        f.write(f"Error: {final_e}\n")
+                        f.write(f"Line: {final_e.lineno}, Col: {final_e.colno}\n")
+                        f.write(f"Message: {final_e.msg}\n")
+                        if final_e.pos is not None:
+                            start = max(0, final_e.pos - 200)
+                            end = min(len(s3), final_e.pos + 200)
+                            f.write(f"\nContext ({start}-{end}):\n")
+                            f.write(s3[start:end])
+                    
+                    logger.critical(f"JSON decoding failed permanently. Saved to {failed_path}")
+                    logger.critical(f"Cleaned version saved to {cleaned_path}")
+                    logger.critical(f"Error details saved to {error_path}")
                     raise ValueError("Failed to decode JSON from AI response after multiple attempts.") from final_e
 
         # Normalize the structure if the model returns a single object or a list

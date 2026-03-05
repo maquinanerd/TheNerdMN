@@ -1,0 +1,39 @@
+{
+  "titulo_final": "Daniel Radcliffe cogita rever Harry Potter e a Pedra Filosofal no aniversário de 25 anos",
+  "conteudo_final": "<p>Daniel Radcliffe pode estar pronto para revisitar um de seus filmes mais icônicos, mesmo tendo se despedido da franquia há mais de uma década.</p><p><strong><em>Harry Potter e a Pedra Filosofal</strong></em>, conhecido como <em>The Philosopher's Stone </em>no Reino Unido, marcou a estreia de Radcliffe como ator e seu segundo papel no cinema, liderando o elenco como o jovem bruxo destinado a derrotar o Lord Voldemort. Radcliffe reprisou o papel nas outras sete adaptações da série de <a href=\"https://www.maquinanerd.com.br/tag/livros-de-j-k-rowling\">livros de J.K. Rowling</a> antes de se aventurar no teatro e no cinema com trabalhos como <em>Equus </em>e <em>A Cidade Perdida</em>.</p><p>Em entrevista recente, Radcliffe comentou sobre o próximo aniversário de 25 anos de <em>Harry Potter e a Pedra Filosofal</em>. O ator, duas vezes indicado ao Emmy, afirmou que vai "<em>simplesmente continuar vivendo</em>" para o aniversário do filme e explicou que haverá "<em>algum tipo de celebração</em>" para a obra.</p><p>Radcliffe expressou estar "<em>muito, muito feliz que todos assistam aos filmes novamente</em>", começando por <em>A Pedra Filosofal</em>, e considerou a reexibição nos cinemas uma experiência "<em>muito legal</em>" para os fãs. Ele também sugeriu que "<em>talvez eu assista ao primeiro novamente em algum momento este ano</em>", mas logo ponderou: "<em>duvido</em>". Seu colega de elenco explicou que ele "<em>não gosta de assistir [suas] coisas</em>" e sugeriu que rever o filme "<em>pode despertar nostalgia</em>".</p><blockquote><p>Daniel Radcliffe: Talvez agora que sou mais velho. Eu nunca assistia porque era muito jovem. Achava um pouco embaraçoso, mas agora eu assistiria e pensaria: "Ah, eu era uma criança fofa." Tudo bem. Talvez eu assista ao primeiro novamente em algum momento.</p><p>Tracy Morgan: Que bom para você, querido.</p></blockquote><p>Nos 15 anos desde o lançamento do último filme principal, Radcliffe e o restante do <a href=\"https://www.maquinanerd.com.br/tag/elenco-jovem-de-harry-potter\">elenco jovem de <em>Harry Potter</em></a> compartilharam experiências variadas ao revisitar a franquia. Radcliffe e Rupert Grint se destacaram por se aventurar em projetos mais voltados para o gênero, incluindo a comédia dramática surrealista <em>Um Cadáver para Sobreviver</em>, a série de comédia antológica <em>Miracle Workers </em>e o thriller de terror da Apple TV <em>Servant</em>.</p><p>Emma Watson, por outro lado, passou a dividir seu tempo entre projetos independentes e filmes de grande sucesso, como o remake live-action de <em>A Bela e a Fera </em>da Disney e a adaptação de <em>Adoráveis Mulheres </em>de Greta Gerwig. Watson também tem voltado sua atenção para o mundo da moda, tendo feito uma pausa na atuação após se sentir "<em>um pouco enjaulada</em>" pela profissão, mas expressou o desejo de retomar a carreira quando o projeto certo surgir.</p><p>Radcliffe também falou ao longo dos anos sobre a dificuldade de algumas pessoas em separá-lo da franquia <em>Harry Potter</em>, mesmo ao abordar projetos completamente diferentes como a comédia de terror <em>O Coração de Ferro</em>. No entanto, como mencionado, ele sempre se orgulhou de sua experiência com a série, embora tenha expressado desapontamento com os comentários transfóbicos de Rowling e dúvidas sobre um possível retorno para um novo filme.</p><p>A consideração de Radcliffe em revisitar seu filme original também ocorre em um momento único para a franquia. A HBO está atualmente produzindo a primeira temporada de sua <a href=\"https://www.maquinanerd.com.br/tag/reboot-de-harry-potter-na-hbo\">releitura de <em>Harry Potter</em></a>, e Radcliffe escreveu uma carta ao novo ator de Harry, Dominic McLaughlin, desejando-lhe uma experiência maravilhosa no show. Além disso, Tom Felton reprisou seu papel como um Draco Malfoy adulto na atual produção da Broadway de <em>Harry Potter e a Criança Amaldiçoada</em>, e teve um reencontro emocionante com Radcliffe fora de uma exibição para a gravação de <em>Merrily We Roll Along </em>de Radcliffe, lançada nos cinemas.</p><p>Embora ainda expresse dúvidas sobre rever o sucesso de 2001, a abertura de Radcliffe para revisitar <strong><em>Harry Potter e a Pedra Filosofal </em></strong>certamente será um sinal tocante para os fãs da série. Além disso, com mais de nove meses até o verdadeiro aniversário de 25 anos, será interessante ver se mais de seus colegas de elenco originais, particularmente Grint e Watson, compartilharão mais pensamentos sobre o filme.</p>",
+  "meta_description": "Daniel Radcliffe cogita rever Harry Potter e a Pedra Filosofal para celebrar os 25 anos do filme, relembrando sua infância como o bruxo.",
+  "focus_keyphrase": "Harry Potter e a Pedra Filosofal 25 anos",
+  "related_keyphrases": [
+    "Daniel Radcliffe Harry Potter",
+    "Aniversário Pedra Filosofal",
+    "Revisitar Harry Potter"
+  ],
+  "slug": "daniel-radcliffe-rever-harry-potter-pedra-filosofal-25-anos",
+  "categorias": [
+    {
+      "nome": "Harry Potter",
+      "grupo": "franquias",
+      "evidence": "<em>Harry Potter and the Sorcerer's Stone</em>"
+    }
+  ],
+  "tags_sugeridas": [
+    "Daniel Radcliffe",
+    "Harry Potter",
+    "A Pedra Filosofal",
+    "J.K. Rowling",
+    "Emma Watson",
+    "Rupert Grint",
+    "Tom Felton"
+  ],
+  "image_alt_texts": {},
+  "yoast_meta": {
+    "_yoast_wpseo_title": "Daniel Radcliffe cogita rever Harry Potter e a Pedra Filosofal no aniversário de 25 anos",
+    "_yoast_wpseo_metadesc": "Daniel Radcliffe cogita rever Harry Potter e a Pedra Filosofal para celebrar os 25 anos do filme, relembrando sua infância como o bruxo.",
+    "_yoast_wpseo_focuskw": "Harry Potter e a Pedra Filosofal 25 anos",
+    "_yoast_news_keywords": "Daniel Radcliffe, Harry Potter, A Pedra Filosofal, J.K. Rowling, Aniversário de 25 anos, Cinema",
+    "_yoast_wpseo_opengraph-title": "Daniel Radcliffe cogita rever Harry Potter e a Pedra Filosofal no aniversário de 25 anos",
+    "_yoast_wpseo_opengraph-description": "Daniel Radcliffe cogita rever Harry Potter e a Pedra Filosofal para celebrar os 25 anos do filme, relembrando sua infância como o bruxo.",
+    "_yoast_wpseo_twitter-title": "Daniel Radcliffe cogita rever Harry Potter e a Pedra Filosofal no aniversário de 25 anos",
+    "_yoast_wpseo_twitter-description": "Daniel Radcliffe cogita rever Harry Potter e a Pedra Filosofal para celebrar os 25 anos do filme, relembrando sua infância como o bruxo."
+  }
+}

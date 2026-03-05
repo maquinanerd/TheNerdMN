@@ -1,0 +1,6 @@
+Error: Expecting property name enclosed in double quotes: line 5 column 10816 (char 10943)
+Line: 5, Col: 10816
+Message: Expecting property name enclosed in double quotes
+
+Context (10743-11143):
+efa fácil, como Mary Jane descobre quando Jericho a pega espreitando na casa dos Davis. Uma das poucas músicas de hip-hop na trilha sonora de <em>The Gray House</em>, \"Smiling Eyes (Smiling Faces)", interpretada por Killer Mike e Lena Byrd, toca no final do episódio.</p><p>As letras da música animada alertam para não confiar nas aparências, o que descreve agudamente a posição de Mary Jane como es

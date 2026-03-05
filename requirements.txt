@@ -8,4 +8,5 @@ lxml
 pytz
 python-slugify
 google-generativeai
-APSchedulertmdbv3api
+APScheduler
+tmdbv3api
