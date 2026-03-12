@@ -1,0 +1,6 @@
+Error: Expecting property name enclosed in double quotes: line 5 column 781 (char 890)
+Line: 5, Col: 781
+Message: Expecting property name enclosed in double quotes
+
+Context (690-1090):
+xplicou que Thomas Harris está trabalhando para unificar os direitos da franquia, que foram divididos ao longo do tempo. O principal obstáculo atual é \"tentar trazer Clarice de volta para Hannibal", garantindo que tudo esteja sob o controle de Harris para facilitar o desenvolvimento de futuras adaptações.</p><h2>Clarice Starling é o ponto central da questão</h2><p>Fuller indicou que a personagem 

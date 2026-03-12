@@ -1,0 +1,6 @@
+Error: Invalid \escape: line 5 column 15780 (char 15886)
+Line: 5, Col: 15780
+Message: Invalid \escape
+
+Context (15686-16086):
+rce media='(max-width: 1023px)' srcset='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/untitled-design-387.jpg?q=49&fit=crop&w=825&dpr=2'/><img alt='Abby, Eve e Kate na pose de Charlie\'s Angels' data-img-url='https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/untitled-design-387.jpg?q=49&fit=crop&w=825&dpr=2' decoding='async' loading='lazy' src='https://static0.srcdn.c
